@@ -1,0 +1,4 @@
+brw-tdmn.nfo	-	3205	1	0	0	0
+brw-tdmn.r00	-	27505310	1	3205	0	1
+brw-tdmn.rar	-	50000000	1	27508515	0	28
+brw-tdmn.sfv	-	46	1	77508515	0	76

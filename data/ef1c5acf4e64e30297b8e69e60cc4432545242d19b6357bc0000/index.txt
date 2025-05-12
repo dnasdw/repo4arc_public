@@ -1,0 +1,3 @@
+sxs-tennis_world_tour_2_champions_pack_dlc.nfo	-	5978	1	0	0	0
+sxs-tennis_world_tour_2_champions_pack_dlc.rar	-	104094	1	5978	0	1
+sxs-tennis_world_tour_2_champions_pack_dlc.sfv	-	57	1	110072	0	2

@@ -1,0 +1,15 @@
+sxs-girl_like_a_dreaming_flowering_sacrifice.nfo	-	5666	1	0	0	0
+sxs-girl_like_a_dreaming_flowering_sacrifice.r00	-	100000000	1	5666	0	1
+sxs-girl_like_a_dreaming_flowering_sacrifice.r01	-	100000000	1	100005666	0	97
+sxs-girl_like_a_dreaming_flowering_sacrifice.r02	-	100000000	1	200005666	0	193
+sxs-girl_like_a_dreaming_flowering_sacrifice.r03	-	100000000	1	300005666	0	289
+sxs-girl_like_a_dreaming_flowering_sacrifice.r04	-	100000000	1	400005666	0	385
+sxs-girl_like_a_dreaming_flowering_sacrifice.r05	-	100000000	1	500005666	0	481
+sxs-girl_like_a_dreaming_flowering_sacrifice.r06	-	100000000	1	62251264	1	60
+sxs-girl_like_a_dreaming_flowering_sacrifice.r07	-	100000000	1	162251264	1	156
+sxs-girl_like_a_dreaming_flowering_sacrifice.r08	-	100000000	1	262251264	1	252
+sxs-girl_like_a_dreaming_flowering_sacrifice.r09	-	100000000	1	362251264	1	348
+sxs-girl_like_a_dreaming_flowering_sacrifice.r10	-	100000000	1	462251264	1	444
+sxs-girl_like_a_dreaming_flowering_sacrifice.r11	-	44502510	1	24502528	2	24
+sxs-girl_like_a_dreaming_flowering_sacrifice.rar	-	100000000	1	69005038	2	67
+sxs-girl_like_a_dreaming_flowering_sacrifice.sfv	-	767	1	169005038	2	163

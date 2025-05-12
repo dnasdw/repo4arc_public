@@ -1,0 +1,17 @@
+v-monster_hunter_rise_v196608.nfo	98d17e27
+v-monster_hunter_rise_v196608.r00	c8730707
+v-monster_hunter_rise_v196608.r01	8ee9cc94
+v-monster_hunter_rise_v196608.r02	3cd718bb
+v-monster_hunter_rise_v196608.r03	bc8a8030
+v-monster_hunter_rise_v196608.r04	a581c4b3
+v-monster_hunter_rise_v196608.r05	6b112dde
+v-monster_hunter_rise_v196608.r06	b4b883c7
+v-monster_hunter_rise_v196608.r07	16f1657e
+v-monster_hunter_rise_v196608.r08	62834397
+v-monster_hunter_rise_v196608.r09	524d8fed
+v-monster_hunter_rise_v196608.r10	bb3bc60e
+v-monster_hunter_rise_v196608.r11	5ff24233
+v-monster_hunter_rise_v196608.r12	5ee4a1b8
+v-monster_hunter_rise_v196608.r13	0b33b613
+v-monster_hunter_rise_v196608.rar	432fa894
+v-monster_hunter_rise_v196608.sfv	b9aa2b35

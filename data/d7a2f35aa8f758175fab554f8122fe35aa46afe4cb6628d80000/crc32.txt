@@ -1,0 +1,13 @@
+sxs-voez_v458752.nfo	bd729110
+sxs-voez_v458752.r00	4a9d0420
+sxs-voez_v458752.r01	eb707a79
+sxs-voez_v458752.r02	0730b759
+sxs-voez_v458752.r03	3f7415f3
+sxs-voez_v458752.r04	348bccee
+sxs-voez_v458752.r05	6babe8ba
+sxs-voez_v458752.r06	98fa9685
+sxs-voez_v458752.r07	3c556bdd
+sxs-voez_v458752.r08	39564b3a
+sxs-voez_v458752.r09	84046514
+sxs-voez_v458752.rar	70abe263
+sxs-voez_v458752.sfv	dab8f7dc

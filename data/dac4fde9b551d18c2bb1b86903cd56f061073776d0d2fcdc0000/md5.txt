@@ -1,0 +1,5 @@
+sxs-get_10_quest.nfo	055af9eb0014d6b7c90f0c11e9af035b
+sxs-get_10_quest.r00	efa7ccc7b3afe8385932fea68f35935f
+sxs-get_10_quest.r01	3a214cb1a98f974005199141a63d4f5a
+sxs-get_10_quest.rar	af18cf0791c9f8232f027cc71d1de713
+sxs-get_10_quest.sfv	ae6874519458f026dee6b1e5d0ecac6b

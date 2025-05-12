@@ -1,0 +1,14 @@
+sxs-sniper_hunter_scope_v196608.nfo	0e66f711
+sxs-sniper_hunter_scope_v196608.r00	17c3ec0a
+sxs-sniper_hunter_scope_v196608.r01	092b2b63
+sxs-sniper_hunter_scope_v196608.r02	08b6b55e
+sxs-sniper_hunter_scope_v196608.r03	0db34bb8
+sxs-sniper_hunter_scope_v196608.r04	847b25a2
+sxs-sniper_hunter_scope_v196608.r05	92144c3c
+sxs-sniper_hunter_scope_v196608.r06	136a2faa
+sxs-sniper_hunter_scope_v196608.r07	c62c225e
+sxs-sniper_hunter_scope_v196608.r08	4722b46b
+sxs-sniper_hunter_scope_v196608.r09	b1fef7a9
+sxs-sniper_hunter_scope_v196608.r10	bbde9f01
+sxs-sniper_hunter_scope_v196608.rar	6c48ce2b
+sxs-sniper_hunter_scope_v196608.sfv	1c7dd7ed

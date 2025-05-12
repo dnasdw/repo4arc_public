@@ -1,0 +1,3 @@
+sxs-apocalipsis_v65536.nfo	-	7540	1	0	0	0
+sxs-apocalipsis_v65536.rar	-	40238883	1	7540	0	1
+sxs-apocalipsis_v65536.sfv	-	37	1	40246423	0	40

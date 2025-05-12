@@ -1,0 +1,4 @@
+sxs-thea_the_awakening_v65536.nfo	d9d5c09e402623daa6c24f9ee3e69d19
+sxs-thea_the_awakening_v65536.r00	ee9dfd481789f25ec783c7acb09c58d6
+sxs-thea_the_awakening_v65536.rar	50be526fe4425d00ee5d9818ba695fc9
+sxs-thea_the_awakening_v65536.sfv	6a84e4aac0e3b39b44c910f12e088cae

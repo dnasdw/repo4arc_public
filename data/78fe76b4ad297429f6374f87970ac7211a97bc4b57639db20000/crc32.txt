@@ -1,0 +1,8 @@
+brw-seph.nfo	fe033850
+brw-seph.r00	2df90eba
+brw-seph.r01	cfdfc544
+brw-seph.r02	b99b7041
+brw-seph.r03	fba1b003
+brw-seph.r04	114e5310
+brw-seph.rar	8f8973a5
+brw-seph.sfv	f2dc72e3

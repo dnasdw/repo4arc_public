@@ -1,0 +1,5 @@
+sxs-raft_survival_simulator.nfo	8958781155b41efa1b3023f624c4bebe
+sxs-raft_survival_simulator.r00	b2fe92e5c2087d30ca1997a7260d33f5
+sxs-raft_survival_simulator.r01	20519197121a47249d983b0e7960321e
+sxs-raft_survival_simulator.rar	1fb9ce19d6d2c6949c0c1b70f53b7fa0
+sxs-raft_survival_simulator.sfv	11dc1c835083a0f238434efbb5735a0c

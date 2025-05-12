@@ -1,0 +1,3 @@
+sxs-seven_knights_time_wanderer_dlc.nfo	-	9492	1	0	0	0
+sxs-seven_knights_time_wanderer_dlc.rar	-	7005492	1	9492	0	1
+sxs-seven_knights_time_wanderer_dlc.sfv	-	50	1	7014984	0	8

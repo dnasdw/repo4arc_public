@@ -1,0 +1,4 @@
+v-mainlining_v196608.nfo	-	4108	1	0	0	0
+v-mainlining_v196608.r00	-	8418518	1	4108	0	1
+v-mainlining_v196608.rar	-	50000000	1	8422626	0	10
+v-mainlining_v196608.sfv	-	70	1	58422626	0	58

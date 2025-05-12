@@ -1,0 +1,4 @@
+sxs-miniland_adventure.nfo	0b225f432bc56d47d4f0aadb6f6721d6
+sxs-miniland_adventure.r00	cf89dcaa9d52b6dad4a389197e5ecd47
+sxs-miniland_adventure.rar	3802b688f81f3438f58d91de8fdebc21
+sxs-miniland_adventure.sfv	b7f7d6693fd0052392eca21353c7569a

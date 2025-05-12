@@ -1,0 +1,5 @@
+bbb-n-ad9ta.nfo	-	5517	1	0	0	0
+bbb-n-ad9ta.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ad9ta.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ad9ta.part3.rar	-	142893329	1	500005517	0	479
+bbb-n-ad9ta.sfv	-	96	1	105144593	1	101

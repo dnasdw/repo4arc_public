@@ -1,0 +1,16 @@
+i-lydia.nfo	765042b1
+i-lydia.r00	5074cbdb
+i-lydia.r01	a7f7e4cc
+i-lydia.r02	325a044e
+i-lydia.r03	961d6e8d
+i-lydia.r04	2401e610
+i-lydia.r05	39723b13
+i-lydia.r06	d7281bc5
+i-lydia.r07	9a2ca527
+i-lydia.r08	247807d7
+i-lydia.r09	937a987c
+i-lydia.r10	7b5df8c6
+i-lydia.r11	461f1e8c
+i-lydia.r12	e3be3955
+i-lydia.rar	faf9e96e
+i-lydia.sfv	d696fd42

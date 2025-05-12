@@ -1,0 +1,7 @@
+sxs-snow_bros_special_v262144.nfo	-	5514	1	0	0	0
+sxs-snow_bros_special_v262144.r00	-	50000000	1	5514	0	1
+sxs-snow_bros_special_v262144.r01	-	50000000	1	50005514	0	49
+sxs-snow_bros_special_v262144.r02	-	50000000	1	100005514	0	97
+sxs-snow_bros_special_v262144.r03	-	34188665	1	150005514	0	145
+sxs-snow_bros_special_v262144.rar	-	50000000	1	184194179	0	178
+sxs-snow_bros_special_v262144.sfv	-	220	1	234194179	0	226

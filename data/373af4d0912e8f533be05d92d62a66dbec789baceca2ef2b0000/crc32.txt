@@ -1,0 +1,14 @@
+v-trombone_champ.nfo	8bc9fffc
+v-trombone_champ.r00	4754c205
+v-trombone_champ.r01	ce9efdc1
+v-trombone_champ.r02	2d3e8f79
+v-trombone_champ.r03	ee192da9
+v-trombone_champ.r04	f9eb2ca6
+v-trombone_champ.r05	1bee628c
+v-trombone_champ.r06	4632868a
+v-trombone_champ.r07	e2341170
+v-trombone_champ.r08	6ea841ac
+v-trombone_champ.r09	05ecba69
+v-trombone_champ.r10	0e1dd196
+v-trombone_champ.rar	1b77b3bd
+v-trombone_champ.sfv	0a694606

@@ -1,0 +1,5 @@
+sxs-ngolf.nfo	3150def5
+sxs-ngolf.r00	8c11c6ff
+sxs-ngolf.r01	adaf2f44
+sxs-ngolf.rar	f3f15817
+sxs-ngolf.sfv	cdeb6504

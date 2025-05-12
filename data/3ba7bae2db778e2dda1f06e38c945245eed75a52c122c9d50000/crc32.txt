@@ -1,0 +1,5 @@
+sxs-they_came_from_the_sky.nfo	76b92576
+sxs-they_came_from_the_sky.r00	7abecc61
+sxs-they_came_from_the_sky.r01	72267de5
+sxs-they_came_from_the_sky.rar	a9e46b80
+sxs-they_came_from_the_sky.sfv	1c762100

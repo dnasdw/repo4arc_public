@@ -1,0 +1,8 @@
+v-r-type_final_2_dlc_set_2.nfo	115b28b5
+v-r-type_final_2_dlc_set_2.r00	37c818b7
+v-r-type_final_2_dlc_set_2.r01	dde1263e
+v-r-type_final_2_dlc_set_2.r02	3bc9adfb
+v-r-type_final_2_dlc_set_2.r03	7471144e
+v-r-type_final_2_dlc_set_2.r04	e3704248
+v-r-type_final_2_dlc_set_2.rar	6327cc72
+v-r-type_final_2_dlc_set_2.sfv	fe8518be

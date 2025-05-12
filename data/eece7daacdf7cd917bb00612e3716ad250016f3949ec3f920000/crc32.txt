@@ -1,0 +1,8 @@
+v-animal_crossing_new_horizons_v65536.nfo	873ecc4d
+v-animal_crossing_new_horizons_v65536.r00	0feeaf68
+v-animal_crossing_new_horizons_v65536.r01	be451753
+v-animal_crossing_new_horizons_v65536.r02	5c5f7838
+v-animal_crossing_new_horizons_v65536.r03	05055bb7
+v-animal_crossing_new_horizons_v65536.r04	cdcbdf42
+v-animal_crossing_new_horizons_v65536.rar	2ed02448
+v-animal_crossing_new_horizons_v65536.sfv	950a0d91

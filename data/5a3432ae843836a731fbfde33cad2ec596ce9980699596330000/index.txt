@@ -1,0 +1,4 @@
+sxs-harpoon_shooter_nozomi.nfo	-	6368	1	0	0	0
+sxs-harpoon_shooter_nozomi.r00	-	66818465	1	6368	0	1
+sxs-harpoon_shooter_nozomi.rar	-	100000000	1	66824833	0	65
+sxs-harpoon_shooter_nozomi.sfv	-	82	1	166824833	0	161

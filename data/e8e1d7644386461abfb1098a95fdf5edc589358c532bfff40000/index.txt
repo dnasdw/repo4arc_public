@@ -1,0 +1,6 @@
+lfc-drinkmoreglurp.nfo	-	7969	1	0	0	0
+lfc-drinkmoreglurp.r00	-	50000000	1	7969	0	1
+lfc-drinkmoreglurp.r01	-	50000000	1	50007969	0	49
+lfc-drinkmoreglurp.r02	-	43136040	1	100007969	0	97
+lfc-drinkmoreglurp.rar	-	50000000	1	143144009	0	139
+lfc-drinkmoreglurp.sfv	-	132	1	193144009	0	187

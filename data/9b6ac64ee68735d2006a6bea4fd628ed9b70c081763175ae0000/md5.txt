@@ -1,0 +1,6 @@
+lfc-fisu_v131072.nfo	99be6fa50609b97c6095775efcd6c5e4
+lfc-fisu_v131072.r00	6832d00f97dfdd68b5f75a04e456db05
+lfc-fisu_v131072.r01	51ee533b93677eaaebd1e9ab76c85b0d
+lfc-fisu_v131072.r02	a30d513ebca289b06766d212c8fcd209
+lfc-fisu_v131072.rar	ef891ef235c0b47cce6dc6c1ecc944a2
+lfc-fisu_v131072.sfv	fd12bedafab6e24f0620d26b682e3eb3

@@ -1,0 +1,3 @@
+sxs-super_mario_bros_wonder_v65536.nfo	-	6680	1	0	0	0
+sxs-super_mario_bros_wonder_v65536.rar	-	54142005	1	6680	0	1
+sxs-super_mario_bros_wonder_v65536.sfv	-	49	1	54148685	0	53

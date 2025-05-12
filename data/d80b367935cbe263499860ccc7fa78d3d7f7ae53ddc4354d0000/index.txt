@@ -1,0 +1,17 @@
+sxs-energy_cycle_edge.nfo	-	4891	1	0	0	0
+sxs-energy_cycle_edge.r00	-	50000000	1	4891	0	1
+sxs-energy_cycle_edge.r01	-	50000000	1	50004891	0	49
+sxs-energy_cycle_edge.r02	-	50000000	1	100004891	0	97
+sxs-energy_cycle_edge.r03	-	50000000	1	150004891	0	145
+sxs-energy_cycle_edge.r04	-	50000000	1	200004891	0	193
+sxs-energy_cycle_edge.r05	-	50000000	1	250004891	0	241
+sxs-energy_cycle_edge.r06	-	50000000	1	300004891	0	289
+sxs-energy_cycle_edge.r07	-	50000000	1	350004891	0	337
+sxs-energy_cycle_edge.r08	-	50000000	1	400004891	0	385
+sxs-energy_cycle_edge.r09	-	50000000	1	450004891	0	433
+sxs-energy_cycle_edge.r10	-	50000000	1	500004891	0	481
+sxs-energy_cycle_edge.r11	-	50000000	1	12251264	1	12
+sxs-energy_cycle_edge.r12	-	50000000	1	62251264	1	60
+sxs-energy_cycle_edge.r13	-	803021	1	112251264	1	108
+sxs-energy_cycle_edge.rar	-	50000000	1	113054285	1	109
+sxs-energy_cycle_edge.sfv	-	540	1	163054285	1	157

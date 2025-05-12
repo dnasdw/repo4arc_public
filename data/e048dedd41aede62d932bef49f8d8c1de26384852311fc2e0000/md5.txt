@@ -1,0 +1,8 @@
+lfc-soph.nfo	0ffb6c96485abe47ad8b8ac234526576
+lfc-soph.r00	39a5302bf5325784e3d52a40937ecdaa
+lfc-soph.r01	58b8bbbcf9a09a57acf19199d9473bad
+lfc-soph.r02	75ace4e28ed39dbd6686c6b60e8d1dae
+lfc-soph.r03	179d784e282ee2f8b2ff5d0525cd9f2b
+lfc-soph.r04	278ea8977fe8f9c7fb1cdad47c3b3261
+lfc-soph.rar	271c3bd1328fc308787c86d7442831a0
+lfc-soph.sfv	7e216e2c521390fb4bb32f9c9fa62cbf

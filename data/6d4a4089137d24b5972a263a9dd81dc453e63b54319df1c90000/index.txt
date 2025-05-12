@@ -1,0 +1,4 @@
+sxs-until_the_last_plane.nfo	-	5588	1	0	0	0
+sxs-until_the_last_plane.r00	-	39225064	1	5588	0	1
+sxs-until_the_last_plane.rar	-	50000000	1	39230652	0	39
+sxs-until_the_last_plane.sfv	-	78	1	89230652	0	87

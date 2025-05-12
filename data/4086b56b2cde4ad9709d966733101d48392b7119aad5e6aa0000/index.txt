@@ -1,0 +1,4 @@
+sxs-i_zombie_v131072.nfo	-	6056	1	0	0	0
+sxs-i_zombie_v131072.r00	-	5881716	1	6056	0	1
+sxs-i_zombie_v131072.rar	-	50000000	1	5887772	0	7
+sxs-i_zombie_v131072.sfv	-	70	1	55887772	0	55

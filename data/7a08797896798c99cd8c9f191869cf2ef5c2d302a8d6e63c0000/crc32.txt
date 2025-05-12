@@ -1,0 +1,13 @@
+lfc-jusu_v65536.nfo	19f07e51
+lfc-jusu_v65536.r00	a9334389
+lfc-jusu_v65536.r01	6b103eae
+lfc-jusu_v65536.r02	cba25275
+lfc-jusu_v65536.r03	8847ada7
+lfc-jusu_v65536.r04	84842971
+lfc-jusu_v65536.r05	4471550f
+lfc-jusu_v65536.r06	5a01bef8
+lfc-jusu_v65536.r07	f42856cf
+lfc-jusu_v65536.r08	6da3386e
+lfc-jusu_v65536.r09	3d4f4ab4
+lfc-jusu_v65536.rar	f635fc27
+lfc-jusu_v65536.sfv	b02a5deb

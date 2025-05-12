@@ -1,0 +1,4 @@
+sxs-ninjin_clash_of_carrots_v65536.nfo	-	4731	1	0	0	0
+sxs-ninjin_clash_of_carrots_v65536.r00	-	46245739	1	4731	0	1
+sxs-ninjin_clash_of_carrots_v65536.rar	-	50000000	1	46250470	0	46
+sxs-ninjin_clash_of_carrots_v65536.sfv	-	98	1	96250470	0	94

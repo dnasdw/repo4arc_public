@@ -1,0 +1,4 @@
+sxs-lucky_slots.nfo	434fd01a
+sxs-lucky_slots.r00	5dae87e4
+sxs-lucky_slots.rar	711fe89a
+sxs-lucky_slots.sfv	ad8b2e8b

@@ -1,0 +1,5 @@
+lfc-loch.nfo	7177d595
+lfc-loch.r00	a9b3c6bc
+lfc-loch.r01	bb06ec7a
+lfc-loch.rar	db637ef4
+lfc-loch.sfv	49918652

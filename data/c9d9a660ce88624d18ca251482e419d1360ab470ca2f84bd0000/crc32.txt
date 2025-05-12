@@ -1,0 +1,8 @@
+sxs-abc_follow_me_food_festival.nfo	54c535bc
+sxs-abc_follow_me_food_festival.r00	e77b55b3
+sxs-abc_follow_me_food_festival.r01	17f0fb1f
+sxs-abc_follow_me_food_festival.r02	fde9277a
+sxs-abc_follow_me_food_festival.r03	6fde7b23
+sxs-abc_follow_me_food_festival.r04	3ad9187e
+sxs-abc_follow_me_food_festival.rar	32cd69b9
+sxs-abc_follow_me_food_festival.sfv	5224180b

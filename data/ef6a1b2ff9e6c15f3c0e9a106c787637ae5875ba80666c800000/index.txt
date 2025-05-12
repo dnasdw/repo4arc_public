@@ -1,0 +1,16 @@
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.nfo	-	16716	1	0	0	0
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r00	-	50000000	1	16716	0	1
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r01	-	50000000	1	50016716	0	49
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r02	-	50000000	1	100016716	0	97
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r03	-	50000000	1	150016716	0	145
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r04	-	50000000	1	200016716	0	193
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r05	-	50000000	1	250016716	0	241
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r06	-	50000000	1	300016716	0	289
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r07	-	50000000	1	350016716	0	337
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r08	-	50000000	1	400016716	0	385
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r09	-	50000000	1	450016716	0	433
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r10	-	50000000	1	500016716	0	481
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r11	-	50000000	1	12251264	1	12
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.r12	-	21765691	1	62251264	1	60
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.rar	-	50000000	1	84016955	1	81
+darkmoon-guacamelee.super.turbo.championship.edition.eshop.nsw.sfv	-	1078	1	134016955	1	129

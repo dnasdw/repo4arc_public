@@ -1,0 +1,7 @@
+sxs-sonic_frontiers_v196608.nfo	-	7226	1	0	0	0
+sxs-sonic_frontiers_v196608.r00	-	50000000	1	7226	0	1
+sxs-sonic_frontiers_v196608.r01	-	50000000	1	50007226	0	49
+sxs-sonic_frontiers_v196608.r02	-	50000000	1	100007226	0	97
+sxs-sonic_frontiers_v196608.r03	-	1134174	1	150007226	0	145
+sxs-sonic_frontiers_v196608.rar	-	50000000	1	151141400	0	147
+sxs-sonic_frontiers_v196608.sfv	-	210	1	201141400	0	195

@@ -1,0 +1,14 @@
+sxs-running_fable.nfo	f4d08def
+sxs-running_fable.r00	38a25811
+sxs-running_fable.r01	60c6ca9d
+sxs-running_fable.r02	5638f90d
+sxs-running_fable.r03	f4179ae9
+sxs-running_fable.r04	df673d7b
+sxs-running_fable.r05	8bb8388f
+sxs-running_fable.r06	f3f73999
+sxs-running_fable.r07	ab5299cf
+sxs-running_fable.r08	3f5a9b82
+sxs-running_fable.r09	e4650194
+sxs-running_fable.r10	48fe9a20
+sxs-running_fable.rar	d9f0e495
+sxs-running_fable.sfv	04a8ae98

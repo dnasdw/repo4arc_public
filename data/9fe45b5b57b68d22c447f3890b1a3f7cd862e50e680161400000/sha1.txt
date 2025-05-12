@@ -1,0 +1,4 @@
+sxs-idle_zoo_park.nfo	6631022cf0d81b896b41f84c4258ad6ee5764121
+sxs-idle_zoo_park.r00	16b57a618878bdb4d488645ce522a1970331fb7b
+sxs-idle_zoo_park.rar	cb310882d8ef26d66b1818e3b5b151f3cbb8a658
+sxs-idle_zoo_park.sfv	931b7a3ec96664c6626451712573931ae1dbb7a8

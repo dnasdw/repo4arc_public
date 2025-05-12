@@ -1,0 +1,5 @@
+lfc-sure.nfo	17f249af628a74bf29d005bf59bda79fe283427f
+lfc-sure.r00	13a6d7a2227bf23dd80dd9baea676857b0d940e0
+lfc-sure.r01	c7cbe49224b8cc68afa56fa3860c3dde7baf025e
+lfc-sure.rar	692bd85a6dd5a64530c1c0dbae7f0980a22f0ed7
+lfc-sure.sfv	f6ff983f7f2619073b5063b77d0c171529d9797c

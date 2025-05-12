@@ -1,0 +1,3 @@
+bbb-n-aeusa.nfo	-	5517	1	0	0	0
+bbb-n-aeusa.rar	-	220867442	1	5517	0	1
+bbb-n-aeusa.sfv	-	26	1	220872959	0	212

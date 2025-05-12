@@ -1,0 +1,13 @@
+v-pba_pro_bowling_v196608.nfo	f2813bf2
+v-pba_pro_bowling_v196608.r00	1cafedc1
+v-pba_pro_bowling_v196608.r01	1a7e3ca4
+v-pba_pro_bowling_v196608.r02	7c22a27f
+v-pba_pro_bowling_v196608.r03	1559aa3e
+v-pba_pro_bowling_v196608.r04	38617f32
+v-pba_pro_bowling_v196608.r05	6a9d47b9
+v-pba_pro_bowling_v196608.r06	b235cac0
+v-pba_pro_bowling_v196608.r07	65dc7739
+v-pba_pro_bowling_v196608.r08	e43bd997
+v-pba_pro_bowling_v196608.r09	7a275813
+v-pba_pro_bowling_v196608.rar	a670ebe3
+v-pba_pro_bowling_v196608.sfv	af7dc101

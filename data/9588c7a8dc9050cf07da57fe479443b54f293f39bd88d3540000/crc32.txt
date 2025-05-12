@@ -1,0 +1,11 @@
+v-taiko_v196608.nfo	30e4386e
+v-taiko_v196608.r00	c38f8909
+v-taiko_v196608.r01	c6178047
+v-taiko_v196608.r02	6c79bddb
+v-taiko_v196608.r03	99bed2bb
+v-taiko_v196608.r04	eb5e3f44
+v-taiko_v196608.r05	eb79bebf
+v-taiko_v196608.r06	24c6a93b
+v-taiko_v196608.r07	858b717b
+v-taiko_v196608.rar	1a61b86d
+v-taiko_v196608.sfv	232d6112

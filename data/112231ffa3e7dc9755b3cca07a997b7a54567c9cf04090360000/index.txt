@@ -1,0 +1,7 @@
+v-summer_sweetheart_v196608.nfo	-	7174	1	0	0	0
+v-summer_sweetheart_v196608.r00	-	50000000	1	7174	0	1
+v-summer_sweetheart_v196608.r01	-	50000000	1	50007174	0	49
+v-summer_sweetheart_v196608.r02	-	50000000	1	100007174	0	97
+v-summer_sweetheart_v196608.r03	-	22554933	1	150007174	0	145
+v-summer_sweetheart_v196608.rar	-	50000000	1	172562107	0	167
+v-summer_sweetheart_v196608.sfv	-	210	1	222562107	0	215

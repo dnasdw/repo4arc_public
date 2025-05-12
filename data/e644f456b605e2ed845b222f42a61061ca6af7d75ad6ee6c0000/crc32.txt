@@ -1,0 +1,8 @@
+sxs-teppo_and_the_secret_ancient_city.nfo	b938a50c
+sxs-teppo_and_the_secret_ancient_city.r00	f0d410e6
+sxs-teppo_and_the_secret_ancient_city.r01	732841fe
+sxs-teppo_and_the_secret_ancient_city.r02	a21ea41e
+sxs-teppo_and_the_secret_ancient_city.r03	6bcb3bf6
+sxs-teppo_and_the_secret_ancient_city.r04	9433c505
+sxs-teppo_and_the_secret_ancient_city.rar	c7ce116f
+sxs-teppo_and_the_secret_ancient_city.sfv	fcb25e97

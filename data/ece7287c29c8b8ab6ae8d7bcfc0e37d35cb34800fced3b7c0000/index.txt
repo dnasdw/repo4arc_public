@@ -1,0 +1,4 @@
+sxs-crocs_world_v196608.nfo	-	5042	1	0	0	0
+sxs-crocs_world_v196608.r00	-	3099354	1	5042	0	1
+sxs-crocs_world_v196608.rar	-	50000000	1	3104396	0	4
+sxs-crocs_world_v196608.sfv	-	76	1	53104396	0	52

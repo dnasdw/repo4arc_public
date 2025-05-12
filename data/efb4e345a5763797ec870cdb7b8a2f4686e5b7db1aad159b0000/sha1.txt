@@ -1,0 +1,5 @@
+sxs-pirate_bloopers.nfo	b7e37b7ba2b65c0e158f015ec5b0ece77d813bfb
+sxs-pirate_bloopers.r00	857c92472c38339d423824c38165cb839b1ffaed
+sxs-pirate_bloopers.r01	c360e849feb18092e1a9af54d6f8654f5e845a5b
+sxs-pirate_bloopers.rar	13581fc74c743930529a421248313989eb123ef2
+sxs-pirate_bloopers.sfv	e3476b178b98353b815580cf92915a9d358d4769

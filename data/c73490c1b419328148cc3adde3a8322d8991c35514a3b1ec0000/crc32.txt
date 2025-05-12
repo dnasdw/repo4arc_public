@@ -1,0 +1,15 @@
+sxs-mutant_football_v983040.nfo	4d926333
+sxs-mutant_football_v983040.r00	e787ac85
+sxs-mutant_football_v983040.r01	fd4dc96d
+sxs-mutant_football_v983040.r02	a398fad4
+sxs-mutant_football_v983040.r03	6d56e77f
+sxs-mutant_football_v983040.r04	fe9c219c
+sxs-mutant_football_v983040.r05	17fafeb7
+sxs-mutant_football_v983040.r06	a0d028af
+sxs-mutant_football_v983040.r07	31338124
+sxs-mutant_football_v983040.r08	71ded1ed
+sxs-mutant_football_v983040.r09	0956f2db
+sxs-mutant_football_v983040.r10	7495ff2e
+sxs-mutant_football_v983040.r11	a303fa89
+sxs-mutant_football_v983040.rar	3a347184
+sxs-mutant_football_v983040.sfv	1b850204

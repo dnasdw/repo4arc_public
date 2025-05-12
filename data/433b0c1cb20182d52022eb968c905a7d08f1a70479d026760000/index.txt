@@ -1,0 +1,6 @@
+v-saviors_of_sapphire_wings_and_stranger_of_sword_city_revisited_v65536.nfo	-	5044	1	0	0	0
+v-saviors_of_sapphire_wings_and_stranger_of_sword_city_revisited_v65536.r00	-	50000000	1	5044	0	1
+v-saviors_of_sapphire_wings_and_stranger_of_sword_city_revisited_v65536.r01	-	50000000	1	50005044	0	49
+v-saviors_of_sapphire_wings_and_stranger_of_sword_city_revisited_v65536.r02	-	25392991	1	100005044	0	97
+v-saviors_of_sapphire_wings_and_stranger_of_sword_city_revisited_v65536.rar	-	50000000	1	125398035	0	122
+v-saviors_of_sapphire_wings_and_stranger_of_sword_city_revisited_v65536.sfv	-	344	1	175398035	0	170

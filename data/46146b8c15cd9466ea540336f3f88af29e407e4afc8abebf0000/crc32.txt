@@ -1,0 +1,12 @@
+v-snrpg_v196608.nfo	fe44a56a
+v-snrpg_v196608.r00	b4b83a79
+v-snrpg_v196608.r01	933fc419
+v-snrpg_v196608.r02	c22dcc58
+v-snrpg_v196608.r03	9f482b0d
+v-snrpg_v196608.r04	712367d6
+v-snrpg_v196608.r05	39ca9bdf
+v-snrpg_v196608.r06	75022002
+v-snrpg_v196608.r07	d9889f5d
+v-snrpg_v196608.r08	7fee2274
+v-snrpg_v196608.rar	d1535f04
+v-snrpg_v196608.sfv	a88f546f

@@ -1,0 +1,10 @@
+i-polandball.nfo	127c0543131f69f05a25de28088f3667
+i-polandball.r00	5cf6f1bfa3dd2f791625cf785b41551b
+i-polandball.r01	c89c9d41ad296a88deb80de0230c109c
+i-polandball.r02	347887274dd20ddb72757c1351989a9e
+i-polandball.r03	193c2188a71a6bd7aebbf441c056981c
+i-polandball.r04	d2a2af6842bd2a483d6235d7591d8b92
+i-polandball.r05	acbd404a138f5e9c40a76ecca7945075
+i-polandball.r06	be604c1e8f6ef0b80cef84f747b86783
+i-polandball.rar	67d1fa7b940fb9274114d189b3f8f10d
+i-polandball.sfv	3332749ea200483c9b1b23b14a1800d0

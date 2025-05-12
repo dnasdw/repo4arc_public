@@ -1,0 +1,7 @@
+hr-a2tka-dlc.nfo	1b70841cc90cf1020c55cc7a7f8f816c
+hr-a2tka-dlc.r00	b67fb475e13b08f32a7cfd74d174aac6
+hr-a2tka-dlc.r01	c302b480463fabed48a3ce2f77386fed
+hr-a2tka-dlc.r02	dbca4f9bfbaef26b886887af09a42873
+hr-a2tka-dlc.r03	b26e20a1fa672350b6a4c15363e652b8
+hr-a2tka-dlc.rar	67a75424d1fa3c6eee897583aaaff524
+hr-a2tka-dlc.sfv	867b1b38d1eee82295234f8ef5ccc0e3

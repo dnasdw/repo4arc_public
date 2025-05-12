@@ -1,0 +1,5 @@
+v-resident_evil_6_v131072.nfo	25cdef14553f5e09f2a2196b1570534f
+v-resident_evil_6_v131072.r00	dd7d5ba699ed02e1f294db943887d0f7
+v-resident_evil_6_v131072.r01	97425a2c074ad60416497b7ec6f45329
+v-resident_evil_6_v131072.rar	bc325d4d5e53fb620cb8a73033d83965
+v-resident_evil_6_v131072.sfv	e73d0a5ac30976dde938cecd2a7b72e1

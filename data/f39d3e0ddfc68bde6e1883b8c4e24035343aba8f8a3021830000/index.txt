@@ -1,0 +1,3 @@
+sxs-ai_the_somnium_files_nirvana_initiative_dlc.nfo	-	4496	1	0	0	0
+sxs-ai_the_somnium_files_nirvana_initiative_dlc.rar	-	519941	1	4496	0	1
+sxs-ai_the_somnium_files_nirvana_initiative_dlc.sfv	-	62	1	524437	0	2

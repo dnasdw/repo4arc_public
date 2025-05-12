@@ -1,0 +1,7 @@
+sxs-in_extremis_dx.nfo	-	5978	1	0	0	0
+sxs-in_extremis_dx.r00	-	50000000	1	5978	0	1
+sxs-in_extremis_dx.r01	-	50000000	1	50005978	0	49
+sxs-in_extremis_dx.r02	-	50000000	1	100005978	0	97
+sxs-in_extremis_dx.r03	-	41422121	1	150005978	0	145
+sxs-in_extremis_dx.rar	-	50000000	1	191428099	0	185
+sxs-in_extremis_dx.sfv	-	165	1	241428099	0	233

@@ -1,0 +1,10 @@
+sxs-muddledash_v131072.nfo	bad93507
+sxs-muddledash_v131072.r00	84623507
+sxs-muddledash_v131072.r01	4e170b5b
+sxs-muddledash_v131072.r02	8551701c
+sxs-muddledash_v131072.r03	40879d18
+sxs-muddledash_v131072.r04	adf6b942
+sxs-muddledash_v131072.r05	1aba2f0c
+sxs-muddledash_v131072.r06	2e4bf102
+sxs-muddledash_v131072.rar	ce1f3193
+sxs-muddledash_v131072.sfv	ae9a66b1

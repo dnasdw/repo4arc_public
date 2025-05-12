@@ -1,0 +1,3 @@
+sxs-barrage_fantasia_v65536.nfo	-	9346	1	0	0	0
+sxs-barrage_fantasia_v65536.rar	-	25478701	1	9346	0	1
+sxs-barrage_fantasia_v65536.sfv	-	42	1	25488047	0	26

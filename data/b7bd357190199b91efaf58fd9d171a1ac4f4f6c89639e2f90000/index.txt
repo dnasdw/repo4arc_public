@@ -1,0 +1,3 @@
+sxs-rims_racing_v131072_dlc.nfo	-	8867	1	0	0	0
+sxs-rims_racing_v131072_dlc.rar	-	623655	1	8867	0	1
+sxs-rims_racing_v131072_dlc.sfv	-	42	1	632522	0	2

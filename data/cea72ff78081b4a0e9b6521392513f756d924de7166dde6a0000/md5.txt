@@ -1,0 +1,7 @@
+sxs-alders_blood_v131072.nfo	b4d92b0ccde2d63525ff3590decbf9fc
+sxs-alders_blood_v131072.r00	0cf087638894b861cb2758e038f9db2d
+sxs-alders_blood_v131072.r01	788ca1aaff36fff77d7cfd290427620a
+sxs-alders_blood_v131072.r02	531f8ae4bdd020bd236191ac9b48aa96
+sxs-alders_blood_v131072.r03	2a62a5fd76566a58fa485d41ebf97830
+sxs-alders_blood_v131072.rar	d0d92b35325dc30e145d7e18d896fc02
+sxs-alders_blood_v131072.sfv	f08fb5d9e532a1a2ce927119fccd16bd

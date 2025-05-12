@@ -1,0 +1,4 @@
+sxs-etrian_odyssey_hd_v131072.nfo	4f6ededfa6abb06123153d3ab3f4efdc
+sxs-etrian_odyssey_hd_v131072.r00	5e3824cba41cfccc3253915a11ce4810
+sxs-etrian_odyssey_hd_v131072.rar	432de37f8253e37499a9e03843f9cf47
+sxs-etrian_odyssey_hd_v131072.sfv	123b6570e5ff3f890a89d93209243dea

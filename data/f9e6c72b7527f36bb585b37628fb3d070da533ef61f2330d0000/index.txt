@@ -1,0 +1,7 @@
+delight.nfo	-	9004	1	0	0	0
+dl-pathofsin.r00	-	150000000	1	9004	0	1
+dl-pathofsin.r01	-	150000000	1	150009004	0	145
+dl-pathofsin.r02	-	150000000	1	300009004	0	289
+dl-pathofsin.r03	-	123227929	1	450009004	0	433
+dl-pathofsin.rar	-	150000000	1	36196121	1	35
+dl-pathofsin.sfv	-	135	1	186196121	1	179

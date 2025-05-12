@@ -1,0 +1,9 @@
+sxs-erogods_asgard.nfo	-	4418	1	0	0	0
+sxs-erogods_asgard.r00	-	100000000	1	4418	0	1
+sxs-erogods_asgard.r01	-	100000000	1	100004418	0	97
+sxs-erogods_asgard.r02	-	100000000	1	200004418	0	193
+sxs-erogods_asgard.r03	-	100000000	1	300004418	0	289
+sxs-erogods_asgard.r04	-	100000000	1	400004418	0	385
+sxs-erogods_asgard.r05	-	92680808	1	500004418	0	481
+sxs-erogods_asgard.rar	-	100000000	1	54932072	1	53
+sxs-erogods_asgard.sfv	-	231	1	154932072	1	149

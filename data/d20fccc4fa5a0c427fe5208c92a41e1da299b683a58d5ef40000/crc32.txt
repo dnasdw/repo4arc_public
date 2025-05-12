@@ -1,0 +1,13 @@
+sxs-airborne_kingdom_v131072.nfo	d0b601d9
+sxs-airborne_kingdom_v131072.r00	722433ba
+sxs-airborne_kingdom_v131072.r01	5d92268c
+sxs-airborne_kingdom_v131072.r02	aaf86ff3
+sxs-airborne_kingdom_v131072.r03	7bd39b12
+sxs-airborne_kingdom_v131072.r04	f72d474c
+sxs-airborne_kingdom_v131072.r05	fc7043aa
+sxs-airborne_kingdom_v131072.r06	d7712865
+sxs-airborne_kingdom_v131072.r07	8521d5c1
+sxs-airborne_kingdom_v131072.r08	f02cc1ab
+sxs-airborne_kingdom_v131072.r09	962ee54e
+sxs-airborne_kingdom_v131072.rar	3f7cb2ea
+sxs-airborne_kingdom_v131072.sfv	ff33c68d

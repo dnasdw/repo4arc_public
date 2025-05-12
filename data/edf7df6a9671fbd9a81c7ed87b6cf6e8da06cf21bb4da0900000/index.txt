@@ -1,0 +1,5 @@
+sxs-grand_prix_story_v196608.nfo	-	4418	1	0	0	0
+sxs-grand_prix_story_v196608.r00	-	50000000	1	4418	0	1
+sxs-grand_prix_story_v196608.r01	-	29972380	1	50004418	0	49
+sxs-grand_prix_story_v196608.rar	-	50000000	1	79976798	0	78
+sxs-grand_prix_story_v196608.sfv	-	129	1	129976798	0	126

@@ -1,0 +1,3 @@
+v-yookai_dlc.nfo	0cd103b166ad750e6a02319bee70a46a38947335c27f91fce4cb5c08dfa853ca
+v-yookai_dlc.rar	8d99fbaa8c5c26d62a2fa1977dc85cabb6e90b00e7dd1453b661c76c227f2369
+v-yookai_dlc.sfv	f177227ef0b4d0b0b9ba5c8f3b79a16e5be677915a0aca07a5737c50cf4e89f6

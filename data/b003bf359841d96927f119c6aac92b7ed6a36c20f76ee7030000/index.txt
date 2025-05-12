@@ -1,0 +1,7 @@
+v-hyrule_warriors_age_of_calamity_pulse_of_the_ancients_dlc.nfo	-	6838	1	0	0	0
+v-hyrule_warriors_age_of_calamity_pulse_of_the_ancients_dlc.r00	-	50000000	1	6838	0	1
+v-hyrule_warriors_age_of_calamity_pulse_of_the_ancients_dlc.r01	-	50000000	1	50006838	0	49
+v-hyrule_warriors_age_of_calamity_pulse_of_the_ancients_dlc.r02	-	50000000	1	100006838	0	97
+v-hyrule_warriors_age_of_calamity_pulse_of_the_ancients_dlc.r03	-	29153721	1	150006838	0	145
+v-hyrule_warriors_age_of_calamity_pulse_of_the_ancients_dlc.rar	-	50000000	1	179160559	0	173
+v-hyrule_warriors_age_of_calamity_pulse_of_the_ancients_dlc.sfv	-	370	1	229160559	0	221

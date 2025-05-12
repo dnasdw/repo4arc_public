@@ -1,0 +1,3 @@
+v-13_sentinels_aegis_rim_v65536.nfo	832100d73c749328695c6820a8e293f26d2e13e7
+v-13_sentinels_aegis_rim_v65536.rar	33132da4aee28bc55862eafb03d0f31308415b62
+v-13_sentinels_aegis_rim_v65536.sfv	1c200dc447b8457fd03a34a2936d3c8cebf474aa

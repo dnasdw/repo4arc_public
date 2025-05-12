@@ -1,0 +1,4 @@
+sxs-pac_man_championship_edition_2_plus_v65536.nfo	-	6290	1	0	0	0
+sxs-pac_man_championship_edition_2_plus_v65536.r00	-	75598161	1	6290	0	1
+sxs-pac_man_championship_edition_2_plus_v65536.rar	-	100000000	1	75604451	0	74
+sxs-pac_man_championship_edition_2_plus_v65536.sfv	-	122	1	175604451	0	170

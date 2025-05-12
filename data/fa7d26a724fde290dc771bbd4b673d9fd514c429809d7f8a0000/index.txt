@@ -1,0 +1,4 @@
+home_sweet_home_nsw-monev.nfo	-	824	1	0	0	0
+home_sweet_home_nsw-monev.r00	-	37002017	1	824	0	1
+home_sweet_home_nsw-monev.rar	-	50000000	1	37002841	0	37
+home_sweet_home_nsw-monev.sfv	-	80	1	87002841	0	85

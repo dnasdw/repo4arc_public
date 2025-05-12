@@ -1,0 +1,7 @@
+sxs-jurassic_world_evolution_complete_edition_v196608.nfo	-	8318	1	0	0	0
+sxs-jurassic_world_evolution_complete_edition_v196608.r00	-	50000000	1	8318	0	1
+sxs-jurassic_world_evolution_complete_edition_v196608.r01	-	50000000	1	50008318	0	49
+sxs-jurassic_world_evolution_complete_edition_v196608.r02	-	50000000	1	100008318	0	97
+sxs-jurassic_world_evolution_complete_edition_v196608.r03	-	32228070	1	150008318	0	145
+sxs-jurassic_world_evolution_complete_edition_v196608.rar	-	50000000	1	182236388	0	176
+sxs-jurassic_world_evolution_complete_edition_v196608.sfv	-	340	1	232236388	0	224

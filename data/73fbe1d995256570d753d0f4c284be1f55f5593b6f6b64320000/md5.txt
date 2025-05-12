@@ -1,0 +1,7 @@
+lfc-junkplanet.nfo	8f6e548b9b54b0faf5a7b2a55e67a1e7
+lfc-junkplanet.r00	f1070b1e17f7bb7dbc56632079e3dde2
+lfc-junkplanet.r01	3ad97f596cadee5d71580451c1c7bd14
+lfc-junkplanet.r02	60c217db60dc82dd2d9e030e5632278c
+lfc-junkplanet.r03	725a6c3b6ab9aa1860e8c7637f655688
+lfc-junkplanet.rar	358f5b49839465fe7238dd21f1b4a7b8
+lfc-junkplanet.sfv	f597c94abc9910ad5ba241c70f3e67b3

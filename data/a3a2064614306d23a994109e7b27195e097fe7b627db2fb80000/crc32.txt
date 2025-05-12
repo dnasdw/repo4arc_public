@@ -1,0 +1,15 @@
+v-radiant_silvergun.nfo	6f8e139e
+v-radiant_silvergun.r00	ec316755
+v-radiant_silvergun.r01	9a9d88b9
+v-radiant_silvergun.r02	ede21c8f
+v-radiant_silvergun.r03	7384cd3b
+v-radiant_silvergun.r04	60b91da7
+v-radiant_silvergun.r05	66783efd
+v-radiant_silvergun.r06	7c3474d1
+v-radiant_silvergun.r07	e4a24c09
+v-radiant_silvergun.r08	d12b4ed8
+v-radiant_silvergun.r09	51f13d09
+v-radiant_silvergun.r10	05be8f52
+v-radiant_silvergun.r11	73ec2bf9
+v-radiant_silvergun.rar	58b2b472
+v-radiant_silvergun.sfv	b1bc2122

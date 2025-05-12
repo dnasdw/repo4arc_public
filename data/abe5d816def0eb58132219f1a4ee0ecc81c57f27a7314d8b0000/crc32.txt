@@ -1,0 +1,10 @@
+v-doom_1993.nfo	a3176679
+v-doom_1993.r00	ff264525
+v-doom_1993.r01	8df9e33d
+v-doom_1993.r02	a16f7286
+v-doom_1993.r03	7d6f5f8e
+v-doom_1993.r04	bc12b3d2
+v-doom_1993.r05	6c3ccede
+v-doom_1993.r06	ed73f51d
+v-doom_1993.rar	265f276d
+v-doom_1993.sfv	ccb9394c

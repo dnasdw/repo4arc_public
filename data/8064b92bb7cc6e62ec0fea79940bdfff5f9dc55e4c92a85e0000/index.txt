@@ -1,0 +1,6 @@
+sxs-rune_factory_3_special_v131072.nfo	-	6524	1	0	0	0
+sxs-rune_factory_3_special_v131072.r00	-	100000000	1	6524	0	1
+sxs-rune_factory_3_special_v131072.r01	-	100000000	1	100006524	0	97
+sxs-rune_factory_3_special_v131072.r02	-	38011022	1	200006524	0	193
+sxs-rune_factory_3_special_v131072.rar	-	100000000	1	238017546	0	230
+sxs-rune_factory_3_special_v131072.sfv	-	196	1	338017546	0	326

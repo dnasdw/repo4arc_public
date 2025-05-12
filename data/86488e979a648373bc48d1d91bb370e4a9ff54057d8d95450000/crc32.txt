@@ -1,0 +1,6 @@
+sxs-detective_dolittle.nfo	4fd601a0
+sxs-detective_dolittle.r00	6b417a12
+sxs-detective_dolittle.r01	c67f422d
+sxs-detective_dolittle.r02	db6dd3ba
+sxs-detective_dolittle.rar	d47ed123
+sxs-detective_dolittle.sfv	e733abd2

@@ -1,0 +1,8 @@
+sxs-behind_closed_doors_a_developers_tale.nfo	-	4028	1	0	0	0
+sxs-behind_closed_doors_a_developers_tale.r00	-	50000000	1	4028	0	1
+sxs-behind_closed_doors_a_developers_tale.r01	-	50000000	1	50004028	0	49
+sxs-behind_closed_doors_a_developers_tale.r02	-	50000000	1	100004028	0	97
+sxs-behind_closed_doors_a_developers_tale.r03	-	50000000	1	150004028	0	145
+sxs-behind_closed_doors_a_developers_tale.r04	-	18480449	1	200004028	0	193
+sxs-behind_closed_doors_a_developers_tale.rar	-	50000000	1	218484477	0	211
+sxs-behind_closed_doors_a_developers_tale.sfv	-	336	1	268484477	0	259

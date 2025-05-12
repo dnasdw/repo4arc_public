@@ -1,0 +1,5 @@
+sxs-barrage_fantasia.nfo	3b90e7b0db53fc004f1de09dec987ccc30b6b9e6
+sxs-barrage_fantasia.r00	2393f916f9ab6f4b370b89cbc5e8460b3136e724
+sxs-barrage_fantasia.r01	fd8209d33c16d34021ef537858b5fb689234491f
+sxs-barrage_fantasia.rar	fee052f6dfaeeb4686e71280050c5eaa3a8c8f38
+sxs-barrage_fantasia.sfv	5dddc0894d23775770426719815622a8a28d7596

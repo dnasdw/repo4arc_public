@@ -1,0 +1,9 @@
+sxs-smurfs_kart_v196608.nfo	24163216
+sxs-smurfs_kart_v196608.r00	8f17eb30
+sxs-smurfs_kart_v196608.r01	9e1705e6
+sxs-smurfs_kart_v196608.r02	a1c3df61
+sxs-smurfs_kart_v196608.r03	5bfebc49
+sxs-smurfs_kart_v196608.r04	8e003f62
+sxs-smurfs_kart_v196608.r05	f484b401
+sxs-smurfs_kart_v196608.rar	579f4d0b
+sxs-smurfs_kart_v196608.sfv	eabd8c79

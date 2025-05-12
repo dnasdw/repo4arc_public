@@ -1,0 +1,4 @@
+bbb-n-aq2ra.nfo	-	5517	1	0	0	0
+bbb-n-aq2ra.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aq2ra.part2.rar	-	53430966	1	250005517	0	240
+bbb-n-aq2ra.sfv	-	64	1	303436483	0	291

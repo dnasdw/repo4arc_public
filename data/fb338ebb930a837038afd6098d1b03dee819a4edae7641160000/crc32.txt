@@ -1,0 +1,12 @@
+hr-amvlb.nfo	d4896a57
+hr-amvlb.r00	5e3c03d3
+hr-amvlb.r01	12e96ee3
+hr-amvlb.r02	8edc6d40
+hr-amvlb.r03	234a1284
+hr-amvlb.r04	7090625e
+hr-amvlb.r05	549568ef
+hr-amvlb.r06	73f5284e
+hr-amvlb.r07	2734e851
+hr-amvlb.r08	e92b844c
+hr-amvlb.rar	8a704b5b
+hr-amvlb.sfv	55c013f4

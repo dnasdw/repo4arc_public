@@ -1,0 +1,13 @@
+sxs-smurfs_kart_v65536.nfo	cb8c89b8
+sxs-smurfs_kart_v65536.r00	1e061aa2
+sxs-smurfs_kart_v65536.r01	57fcb9b0
+sxs-smurfs_kart_v65536.r02	05e801fc
+sxs-smurfs_kart_v65536.r03	ced203ef
+sxs-smurfs_kart_v65536.r04	1d7fca7b
+sxs-smurfs_kart_v65536.r05	ffe46615
+sxs-smurfs_kart_v65536.r06	54b1c0b0
+sxs-smurfs_kart_v65536.r07	e8702595
+sxs-smurfs_kart_v65536.r08	3c6b47da
+sxs-smurfs_kart_v65536.r09	e7761c4f
+sxs-smurfs_kart_v65536.rar	57d3e790
+sxs-smurfs_kart_v65536.sfv	957de063

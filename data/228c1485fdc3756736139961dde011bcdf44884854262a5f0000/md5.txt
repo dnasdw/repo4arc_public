@@ -1,0 +1,7 @@
+sxs-powertris.nfo	2ec6bbfc9ecc15c6420dd244b1781201
+sxs-powertris.r00	cb8677214ce5d1686ee15f0b89d8db32
+sxs-powertris.r01	af523732debc79267151cdd013b89a9f
+sxs-powertris.r02	490142fdbaf6479d5340547a4b761960
+sxs-powertris.r03	15481180fbe1d721227b4805ecc564d0
+sxs-powertris.rar	8af0716a148f60cbf748b65908ca34bf
+sxs-powertris.sfv	fb01c6fc62b395b88e8f789503d36634

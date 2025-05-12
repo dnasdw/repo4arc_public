@@ -1,0 +1,6 @@
+v-picross_s3_v262144.nfo	8524159e
+v-picross_s3_v262144.r00	ff165687
+v-picross_s3_v262144.r01	d8b4f9e8
+v-picross_s3_v262144.r02	037c4f3e
+v-picross_s3_v262144.rar	ec8f9ac6
+v-picross_s3_v262144.sfv	e5acb80a

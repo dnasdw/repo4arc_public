@@ -1,0 +1,5 @@
+bbb-n-anrea.nfo	-	5517	1	0	0	0
+bbb-n-anrea.part1.rar	-	250000000	1	5517	0	1
+bbb-n-anrea.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-anrea.part3.rar	-	90021432	1	500005517	0	479
+bbb-n-anrea.sfv	-	96	1	52272696	1	50

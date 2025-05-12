@@ -1,0 +1,15 @@
+lfc-hepa.nfo	6e928dc9
+lfc-hepa.r00	bf631e24
+lfc-hepa.r01	5e9ade1c
+lfc-hepa.r02	7f11dbe1
+lfc-hepa.r03	bba5df01
+lfc-hepa.r04	4a1b1b2f
+lfc-hepa.r05	7d51a482
+lfc-hepa.r06	8a9c8a00
+lfc-hepa.r07	3ba8f140
+lfc-hepa.r08	08e61411
+lfc-hepa.r09	f72f8b13
+lfc-hepa.r10	8389d4e6
+lfc-hepa.r11	5232697a
+lfc-hepa.rar	a7225f2c
+lfc-hepa.sfv	e98566d9

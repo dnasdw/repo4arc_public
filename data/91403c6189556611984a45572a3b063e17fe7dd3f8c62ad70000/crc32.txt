@@ -1,0 +1,5 @@
+v-hammerwatch_2_v131072.nfo	bb1c6b0d
+v-hammerwatch_2_v131072.r00	a7f0a6b9
+v-hammerwatch_2_v131072.r01	23419d68
+v-hammerwatch_2_v131072.rar	4f07ad8f
+v-hammerwatch_2_v131072.sfv	b3d5e0e1

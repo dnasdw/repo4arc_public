@@ -1,0 +1,4 @@
+sxs-curious_cases_v262144.nfo	-	5042	1	0	0	0
+sxs-curious_cases_v262144.r00	-	24819844	1	5042	0	1
+sxs-curious_cases_v262144.rar	-	50000000	1	24824886	0	25
+sxs-curious_cases_v262144.sfv	-	80	1	74824886	0	73

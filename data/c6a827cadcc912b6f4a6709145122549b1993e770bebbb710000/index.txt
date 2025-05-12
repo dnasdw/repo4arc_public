@@ -1,0 +1,5 @@
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_extra_area_heartscape_dlc.nfo	-	7696	1	0	0	0
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_extra_area_heartscape_dlc.r00	-	50000000	1	7696	0	1
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_extra_area_heartscape_dlc.r01	-	11855765	1	50007696	0	49
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_extra_area_heartscape_dlc.rar	-	50000000	1	61863461	0	61
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_extra_area_heartscape_dlc.sfv	-	291	1	111863461	0	109

@@ -1,0 +1,6 @@
+v-demon_pit_v131072.nfo	fb8ee1a58ea1f7fc80b6a915b7e52b93
+v-demon_pit_v131072.r00	7768bd327c849d1008e1bf7f833db99c
+v-demon_pit_v131072.r01	20da454c10bf5f9a074a52726fcb8537
+v-demon_pit_v131072.r02	c6a7959bf399f1018e3bf8eafb5d5523
+v-demon_pit_v131072.rar	5154ca4d4173e3f860a0b3d7f9cc5ef1
+v-demon_pit_v131072.sfv	56a7f6320aa6d33c12fca82c46dcd978

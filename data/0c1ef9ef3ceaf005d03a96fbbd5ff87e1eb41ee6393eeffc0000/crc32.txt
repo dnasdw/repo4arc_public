@@ -1,0 +1,16 @@
+hr-auxcbv65536.nfo	a47964bf
+hr-auxcbv65536.r00	64d0123e
+hr-auxcbv65536.r01	7eb66863
+hr-auxcbv65536.r02	c4624150
+hr-auxcbv65536.r03	03529f1e
+hr-auxcbv65536.r04	639d3b94
+hr-auxcbv65536.r05	c5da9783
+hr-auxcbv65536.r06	568cfb15
+hr-auxcbv65536.r07	f9b677cc
+hr-auxcbv65536.r08	8278667e
+hr-auxcbv65536.r09	cf16584b
+hr-auxcbv65536.r10	633b5bd4
+hr-auxcbv65536.r11	2d5e801c
+hr-auxcbv65536.r12	a252ead9
+hr-auxcbv65536.rar	1ed9adb6
+hr-auxcbv65536.sfv	193aa2db

@@ -1,0 +1,10 @@
+sxs-pokemon_scarlet_v196608.nfo	-	7088	1	0	0	0
+sxs-pokemon_scarlet_v196608.r00	-	100000000	1	7088	0	1
+sxs-pokemon_scarlet_v196608.r01	-	100000000	1	100007088	0	97
+sxs-pokemon_scarlet_v196608.r02	-	100000000	1	200007088	0	193
+sxs-pokemon_scarlet_v196608.r03	-	100000000	1	300007088	0	289
+sxs-pokemon_scarlet_v196608.r04	-	100000000	1	400007088	0	385
+sxs-pokemon_scarlet_v196608.r05	-	100000000	1	500007088	0	481
+sxs-pokemon_scarlet_v196608.r06	-	96812140	1	62251264	1	60
+sxs-pokemon_scarlet_v196608.rar	-	100000000	1	159063404	1	153
+sxs-pokemon_scarlet_v196608.sfv	-	336	1	259063404	1	249

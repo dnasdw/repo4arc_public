@@ -1,0 +1,6 @@
+v-cursed_to_golf_v458752.nfo	-	6916	1	0	0	0
+v-cursed_to_golf_v458752.r00	-	100000000	1	6916	0	1
+v-cursed_to_golf_v458752.r01	-	100000000	1	100006916	0	97
+v-cursed_to_golf_v458752.r02	-	70473776	1	200006916	0	193
+v-cursed_to_golf_v458752.rar	-	100000000	1	270480692	0	261
+v-cursed_to_golf_v458752.sfv	-	156	1	370480692	0	357

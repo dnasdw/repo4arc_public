@@ -1,0 +1,11 @@
+v-one_more_dungeon_2.nfo	-	5512	1	0	0	0
+v-one_more_dungeon_2.r00	-	100000000	1	5512	0	1
+v-one_more_dungeon_2.r01	-	100000000	1	100005512	0	97
+v-one_more_dungeon_2.r02	-	100000000	1	200005512	0	193
+v-one_more_dungeon_2.r03	-	100000000	1	300005512	0	289
+v-one_more_dungeon_2.r04	-	100000000	1	400005512	0	385
+v-one_more_dungeon_2.r05	-	100000000	1	500005512	0	481
+v-one_more_dungeon_2.r06	-	100000000	1	62251264	1	60
+v-one_more_dungeon_2.r07	-	80458929	1	162251264	1	156
+v-one_more_dungeon_2.rar	-	100000000	1	242710193	1	233
+v-one_more_dungeon_2.sfv	-	315	1	342710193	1	329

@@ -1,0 +1,3 @@
+hr-au84b-dlc.nfo	-	11906	1	0	0	0
+hr-au84b-dlc.rar	-	589487	1	11906	0	1
+hr-au84b-dlc.sfv	-	27	1	601393	0	2

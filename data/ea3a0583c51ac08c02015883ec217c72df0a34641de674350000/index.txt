@@ -1,0 +1,3 @@
+sxs-escape_from_terror_city.nfo	-	4964	1	0	0	0
+sxs-escape_from_terror_city.rar	-	61382696	1	4964	0	1
+sxs-escape_from_terror_city.sfv	-	42	1	61387660	0	60

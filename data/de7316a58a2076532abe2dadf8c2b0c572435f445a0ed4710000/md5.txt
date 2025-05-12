@@ -1,0 +1,7 @@
+sxs-town_adventures.nfo	089c05c0b3314af3c37427d010e3c633
+sxs-town_adventures.r00	c29d2389cab9464648a3bf907e7b0071
+sxs-town_adventures.r01	dc4ac34884d2cf4601af8bf1573d7556
+sxs-town_adventures.r02	4ca08ea3f6e9ba82d39693a44bf6c8de
+sxs-town_adventures.r03	43de2994c552dc7b474d3be8eda52537
+sxs-town_adventures.rar	ea44ffbf856a302704eb61921f72d7f9
+sxs-town_adventures.sfv	8c6d005b706998525c7bdf3e9cad07cc

@@ -1,0 +1,7 @@
+sxs-lets_build_a_zoo_v262144.nfo	-	6134	1	0	0	0
+sxs-lets_build_a_zoo_v262144.r00	-	50000000	1	6134	0	1
+sxs-lets_build_a_zoo_v262144.r01	-	50000000	1	50006134	0	49
+sxs-lets_build_a_zoo_v262144.r02	-	50000000	1	100006134	0	97
+sxs-lets_build_a_zoo_v262144.r03	-	21218196	1	150006134	0	145
+sxs-lets_build_a_zoo_v262144.rar	-	50000000	1	171224330	0	166
+sxs-lets_build_a_zoo_v262144.sfv	-	215	1	221224330	0	214

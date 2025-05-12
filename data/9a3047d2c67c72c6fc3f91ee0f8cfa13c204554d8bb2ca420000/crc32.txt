@@ -1,0 +1,6 @@
+sxs-matsukeke_burst.nfo	ccbb0d79
+sxs-matsukeke_burst.r00	527d5049
+sxs-matsukeke_burst.r01	49deb08c
+sxs-matsukeke_burst.r02	3973895c
+sxs-matsukeke_burst.rar	7cf9d701
+sxs-matsukeke_burst.sfv	6f67e0b0

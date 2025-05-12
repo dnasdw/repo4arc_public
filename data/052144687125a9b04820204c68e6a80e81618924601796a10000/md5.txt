@@ -1,0 +1,14 @@
+v-boomerang_fu.nfo	adb9f97b1ef52102f7279a1a7510bbbd
+v-boomerang_fu.r00	5ba307ad69cc2cb9d5550741c2137567
+v-boomerang_fu.r01	d8e6db7b6762fb019c74f90483da289c
+v-boomerang_fu.r02	811e85b6c4178f55f96e092365bd1300
+v-boomerang_fu.r03	a68c5409a2641bcaac55d9729bebd4ac
+v-boomerang_fu.r04	4a465ede47b383b2a7cca50dcb15147b
+v-boomerang_fu.r05	46723d413421dd4952a5adfd1ddbee38
+v-boomerang_fu.r06	663e3f55e92a51f6a656e746a9f7f351
+v-boomerang_fu.r07	51cda7fac107e91668e786fe674fae3e
+v-boomerang_fu.r08	2d3649ed1023ee2a166763869f3f6ab8
+v-boomerang_fu.r09	2cbba406d9db831a3706bd951c0dc094
+v-boomerang_fu.r10	ca61cbca4eb4fec10db24bcd0ca6a439
+v-boomerang_fu.rar	de7d89fcf7f5acbad007530e91a2b3f1
+v-boomerang_fu.sfv	476a02504f1b59d2f9f4af6e89ce1ca4

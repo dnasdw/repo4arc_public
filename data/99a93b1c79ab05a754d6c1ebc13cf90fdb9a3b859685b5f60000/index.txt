@@ -1,0 +1,6 @@
+sxs-tt_isle_of_man_ride_on_the_edge_3_v327680.nfo	-	6368	1	0	0	0
+sxs-tt_isle_of_man_ride_on_the_edge_3_v327680.r00	-	100000000	1	6368	0	1
+sxs-tt_isle_of_man_ride_on_the_edge_3_v327680.r01	-	100000000	1	100006368	0	97
+sxs-tt_isle_of_man_ride_on_the_edge_3_v327680.r02	-	86670011	1	200006368	0	193
+sxs-tt_isle_of_man_ride_on_the_edge_3_v327680.rar	-	100000000	1	286676379	0	276
+sxs-tt_isle_of_man_ride_on_the_edge_3_v327680.sfv	-	240	1	386676379	0	372

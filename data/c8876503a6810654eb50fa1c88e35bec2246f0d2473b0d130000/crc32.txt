@@ -1,0 +1,11 @@
+sxs-virus_rush.nfo	165b62fa
+sxs-virus_rush.r00	0a4df711
+sxs-virus_rush.r01	cc15f019
+sxs-virus_rush.r02	fa2ea152
+sxs-virus_rush.r03	d1e54641
+sxs-virus_rush.r04	24851d60
+sxs-virus_rush.r05	9187f0c8
+sxs-virus_rush.r06	9f27a068
+sxs-virus_rush.r07	c2ee3778
+sxs-virus_rush.rar	2c34252f
+sxs-virus_rush.sfv	8f53f4bd

@@ -1,0 +1,15 @@
+lfc-indiepuzzlevol1.nfo	-	6149	1	0	0	0
+lfc-indiepuzzlevol1.r00	-	100000000	1	6149	0	1
+lfc-indiepuzzlevol1.r01	-	100000000	1	100006149	0	97
+lfc-indiepuzzlevol1.r02	-	100000000	1	200006149	0	193
+lfc-indiepuzzlevol1.r03	-	100000000	1	300006149	0	289
+lfc-indiepuzzlevol1.r04	-	100000000	1	400006149	0	385
+lfc-indiepuzzlevol1.r05	-	100000000	1	500006149	0	481
+lfc-indiepuzzlevol1.r06	-	100000000	1	62251264	1	60
+lfc-indiepuzzlevol1.r07	-	100000000	1	162251264	1	156
+lfc-indiepuzzlevol1.r08	-	100000000	1	262251264	1	252
+lfc-indiepuzzlevol1.r09	-	100000000	1	362251264	1	348
+lfc-indiepuzzlevol1.r10	-	100000000	1	462251264	1	444
+lfc-indiepuzzlevol1.r11	-	63039618	1	24502528	2	24
+lfc-indiepuzzlevol1.rar	-	100000000	1	87542146	2	85
+lfc-indiepuzzlevol1.sfv	-	442	1	187542146	2	181

@@ -1,0 +1,12 @@
+sxs-innocence_island_v327680.nfo	9529ac10
+sxs-innocence_island_v327680.r00	0fc779ff
+sxs-innocence_island_v327680.r01	fd012c79
+sxs-innocence_island_v327680.r02	39066873
+sxs-innocence_island_v327680.r03	dc9cb217
+sxs-innocence_island_v327680.r04	e60d968b
+sxs-innocence_island_v327680.r05	938e5af4
+sxs-innocence_island_v327680.r06	94dc4c58
+sxs-innocence_island_v327680.r07	f6a27709
+sxs-innocence_island_v327680.r08	0fba8d6a
+sxs-innocence_island_v327680.rar	90dd0b84
+sxs-innocence_island_v327680.sfv	5e65cf26

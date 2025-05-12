@@ -1,0 +1,6 @@
+lfc-qure_v65536.nfo	316996f4
+lfc-qure_v65536.r00	b4452ce8
+lfc-qure_v65536.r01	914cc1c8
+lfc-qure_v65536.r02	0f34d547
+lfc-qure_v65536.rar	7789b7a7
+lfc-qure_v65536.sfv	8c350265

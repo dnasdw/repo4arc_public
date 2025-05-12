@@ -1,0 +1,10 @@
+bbb-h-alxdc.nfo	-	5517	1	0	0	0
+bbb-h-alxdc.part01.rar	-	250000000	1	5517	0	1
+bbb-h-alxdc.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-alxdc.part03.rar	-	250000000	1	500005517	0	479
+bbb-h-alxdc.part04.rar	-	250000000	1	212251264	1	203
+bbb-h-alxdc.part05.rar	-	250000000	1	462251264	1	442
+bbb-h-alxdc.part06.rar	-	250000000	1	174502528	2	167
+bbb-h-alxdc.part07.rar	-	250000000	1	424502528	2	406
+bbb-h-alxdc.part08.rar	-	42258052	1	136753792	3	131
+bbb-h-alxdc.sfv	-	264	1	179011844	3	172

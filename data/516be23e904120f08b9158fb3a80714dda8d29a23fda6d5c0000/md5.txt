@@ -1,0 +1,14 @@
+v-arcade_tycoon.nfo	aaffcc942d905f89d2be0abcf6c749d0
+v-arcade_tycoon.r00	e262cb9218b51bc7df9fb28b954ca0fa
+v-arcade_tycoon.r01	c46aa9c0fa0956fac06463b6fb4c5a39
+v-arcade_tycoon.r02	2f29f7abf27b8400428e1d8dc783cb2b
+v-arcade_tycoon.r03	fe621c961bcf629fc25ab033f86bd938
+v-arcade_tycoon.r04	45a1c02ca1de7029806d9fde9e4a6f51
+v-arcade_tycoon.r05	8308f856c7b94418e806d28b993f30d7
+v-arcade_tycoon.r06	23a0869416bb85a53230c3fb778f28be
+v-arcade_tycoon.r07	8067172f2e2bdf251c8a84d0bdd9d1a5
+v-arcade_tycoon.r08	8011e81118d16111c21d8420e957a4c6
+v-arcade_tycoon.r09	f6dd1dda108417cae60fb71bc1c11c1a
+v-arcade_tycoon.r10	8f3e7606ddae318be9abc0fc973522d7
+v-arcade_tycoon.rar	58ef79a36f2f2fe97f9f9811744f2dd7
+v-arcade_tycoon.sfv	9776bfb01f56a81a51a2ce4e408219d9

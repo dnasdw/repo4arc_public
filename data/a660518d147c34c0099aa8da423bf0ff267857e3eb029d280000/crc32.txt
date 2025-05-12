@@ -1,0 +1,7 @@
+brw-mbro.nfo	6a9f25d6
+brw-mbro.r00	a1c74759
+brw-mbro.r01	4b922c86
+brw-mbro.r02	2a38761b
+brw-mbro.r03	6f5fd115
+brw-mbro.rar	6a60f398
+brw-mbro.sfv	a3a4a995

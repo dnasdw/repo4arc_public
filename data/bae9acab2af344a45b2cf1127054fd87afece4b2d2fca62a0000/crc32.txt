@@ -1,0 +1,10 @@
+sxs-badnorth_v524288.nfo	4fad3a65
+sxs-badnorth_v524288.r00	2f56879c
+sxs-badnorth_v524288.r01	20ffa52b
+sxs-badnorth_v524288.r02	71d26ea8
+sxs-badnorth_v524288.r03	b5f967c7
+sxs-badnorth_v524288.r04	524cf508
+sxs-badnorth_v524288.r05	0c94647a
+sxs-badnorth_v524288.r06	b288bbc2
+sxs-badnorth_v524288.rar	53a6712f
+sxs-badnorth_v524288.sfv	e4a2be90

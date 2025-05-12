@@ -1,0 +1,11 @@
+sxs-detective_gallo_v327680.nfo	cc2a6f69
+sxs-detective_gallo_v327680.r00	8df1adfe
+sxs-detective_gallo_v327680.r01	4a02bbac
+sxs-detective_gallo_v327680.r02	bf4b0049
+sxs-detective_gallo_v327680.r03	b2c91668
+sxs-detective_gallo_v327680.r04	f28be338
+sxs-detective_gallo_v327680.r05	dcc9c1e7
+sxs-detective_gallo_v327680.r06	d252e245
+sxs-detective_gallo_v327680.r07	6f1245d7
+sxs-detective_gallo_v327680.rar	9533559f
+sxs-detective_gallo_v327680.sfv	3147cc47

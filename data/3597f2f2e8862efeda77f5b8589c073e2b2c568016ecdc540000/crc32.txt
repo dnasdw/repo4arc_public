@@ -1,0 +1,17 @@
+v-pumpkin_jack_v262144.nfo	1a126fed
+v-pumpkin_jack_v262144.r00	a192fbe5
+v-pumpkin_jack_v262144.r01	38777fc8
+v-pumpkin_jack_v262144.r02	16edf800
+v-pumpkin_jack_v262144.r03	78b7a690
+v-pumpkin_jack_v262144.r04	3525b22a
+v-pumpkin_jack_v262144.r05	21639582
+v-pumpkin_jack_v262144.r06	38165a41
+v-pumpkin_jack_v262144.r07	af3c47cd
+v-pumpkin_jack_v262144.r08	5cf3cb11
+v-pumpkin_jack_v262144.r09	cb99aae8
+v-pumpkin_jack_v262144.r10	9089f395
+v-pumpkin_jack_v262144.r11	363e0fe5
+v-pumpkin_jack_v262144.r12	38b046e7
+v-pumpkin_jack_v262144.r13	7556c8b3
+v-pumpkin_jack_v262144.rar	fbcce972
+v-pumpkin_jack_v262144.sfv	5d0105a2

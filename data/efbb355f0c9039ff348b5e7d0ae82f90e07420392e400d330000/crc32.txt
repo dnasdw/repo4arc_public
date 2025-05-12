@@ -1,0 +1,11 @@
+lfc-gunb_v65536.nfo	91daa207
+lfc-gunb_v65536.r00	00452e08
+lfc-gunb_v65536.r01	01394fe0
+lfc-gunb_v65536.r02	b04712b1
+lfc-gunb_v65536.r03	fd41202d
+lfc-gunb_v65536.r04	d10dec0f
+lfc-gunb_v65536.r05	cfca98c4
+lfc-gunb_v65536.r06	7e07b981
+lfc-gunb_v65536.r07	fafe861b
+lfc-gunb_v65536.rar	35ed8204
+lfc-gunb_v65536.sfv	e583d591

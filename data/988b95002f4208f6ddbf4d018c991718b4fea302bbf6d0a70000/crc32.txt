@@ -1,0 +1,9 @@
+v-panzer_paladin_v131072.nfo	8d585976
+v-panzer_paladin_v131072.r00	17738e1d
+v-panzer_paladin_v131072.r01	87a07811
+v-panzer_paladin_v131072.r02	fbe4b626
+v-panzer_paladin_v131072.r03	22d718b5
+v-panzer_paladin_v131072.r04	8a13cb37
+v-panzer_paladin_v131072.r05	afc00c84
+v-panzer_paladin_v131072.rar	31fa5ef1
+v-panzer_paladin_v131072.sfv	1cbd169f

@@ -1,0 +1,6 @@
+sxs-potata_fairy_flower_v131072.nfo	8a1331bd
+sxs-potata_fairy_flower_v131072.r00	513b4933
+sxs-potata_fairy_flower_v131072.r01	bef883fe
+sxs-potata_fairy_flower_v131072.r02	0f00ff95
+sxs-potata_fairy_flower_v131072.rar	218cb058
+sxs-potata_fairy_flower_v131072.sfv	ee676a44

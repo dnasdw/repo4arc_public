@@ -1,0 +1,8 @@
+lfc-drowning.nfo	1a1c9afaaa4e0f4eceb94b55e58a1c03
+lfc-drowning.r00	09b9cac4f4c45e2bbb8eefde85237523
+lfc-drowning.r01	ffa682a19492d864b8ffeda511e42dc1
+lfc-drowning.r02	304d08bd28a7c0cddf0b91f1b91b81b6
+lfc-drowning.r03	d4eefb5aedaf25c613dfb5552a08d7cc
+lfc-drowning.r04	4cd1eac3e0bdf94bd039de4c7916e8fc
+lfc-drowning.rar	213e0329ec54e5eeb9edf2cdbfb76594
+lfc-drowning.sfv	5ff9de398aceebf14be6ae54d5158ec1

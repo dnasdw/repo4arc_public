@@ -1,0 +1,12 @@
+sxs-mario_tennis_aces_v458752.nfo	0016f3fb
+sxs-mario_tennis_aces_v458752.r00	7ca2d10d
+sxs-mario_tennis_aces_v458752.r01	54de1431
+sxs-mario_tennis_aces_v458752.r02	6ec9f80b
+sxs-mario_tennis_aces_v458752.r03	8b15cb56
+sxs-mario_tennis_aces_v458752.r04	7cc07637
+sxs-mario_tennis_aces_v458752.r05	6e6bc748
+sxs-mario_tennis_aces_v458752.r06	6a0eccc5
+sxs-mario_tennis_aces_v458752.r07	04a1a69b
+sxs-mario_tennis_aces_v458752.r08	9c1b6746
+sxs-mario_tennis_aces_v458752.rar	134c6812
+sxs-mario_tennis_aces_v458752.sfv	183e81e7

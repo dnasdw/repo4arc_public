@@ -1,0 +1,4 @@
+lfc-misb.nfo	-	5034	1	0	0	0
+lfc-misb.r00	-	13211432	1	5034	0	1
+lfc-misb.rar	-	50000000	1	13216466	0	14
+lfc-misb.sfv	-	46	1	63216466	0	62

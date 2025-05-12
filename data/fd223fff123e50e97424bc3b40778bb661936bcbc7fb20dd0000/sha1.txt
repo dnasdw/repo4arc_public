@@ -1,0 +1,4 @@
+lfc-anarcuteupd.nfo	73f18fa3ce63755738e2a78a5adba80fb713bdcc
+lfc-anarcuteupd.r00	def519728742a66e94773300d7db28f5f49e6a54
+lfc-anarcuteupd.rar	08420ce378f774fb54be5a8d2ff0acfc1f847a6f
+lfc-anarcuteupd.sfv	2ee221aa6db9ccd82b61ceaafb3572f0b7352772

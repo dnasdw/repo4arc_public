@@ -1,0 +1,9 @@
+sxs-drawful_2_v131072.nfo	ea5153fc86afc19ad4c8f63df302a6d8
+sxs-drawful_2_v131072.r00	962525a61385f243d9b52e3dca58ff84
+sxs-drawful_2_v131072.r01	7beadc350fdabbbc307cb9fcaac0deb4
+sxs-drawful_2_v131072.r02	010955848599c4a0fe682a4e2067ec80
+sxs-drawful_2_v131072.r03	a6b31d9e33ad9650e48294dbd3930a81
+sxs-drawful_2_v131072.r04	c5c9bd2f835dd9396f49527de9f15b45
+sxs-drawful_2_v131072.r05	0e24fc69a8b14910e8f07b9232ed61ac
+sxs-drawful_2_v131072.rar	147bee07030ae3bad57b0d4c64007b46
+sxs-drawful_2_v131072.sfv	a451fd74edf5eaf78fa7da4769a7294f

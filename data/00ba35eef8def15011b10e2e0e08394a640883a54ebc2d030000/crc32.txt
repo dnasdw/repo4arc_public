@@ -1,0 +1,7 @@
+i-minefield.nfo	115a5d98
+i-minefield.r00	03be275f
+i-minefield.r01	cda840be
+i-minefield.r02	6f18261a
+i-minefield.r03	a63763d3
+i-minefield.rar	77412ed6
+i-minefield.sfv	751081cb

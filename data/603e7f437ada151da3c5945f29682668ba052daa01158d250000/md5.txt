@@ -1,0 +1,4 @@
+sxs-color_pals.nfo	c4962796d96502424ee9909ffd4cf8a3
+sxs-color_pals.r00	97698a339c161e9b5560e5b3091a4234
+sxs-color_pals.rar	def172097bdc33cbeb93d39e2af609b1
+sxs-color_pals.sfv	dd42c5cc73318e950eb897aa5ed2d500

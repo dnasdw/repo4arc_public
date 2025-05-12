@@ -1,0 +1,4 @@
+sxs-colorgrid.nfo	cb8139b62b4e3d6758e48369e09ab65e
+sxs-colorgrid.r00	706bf1a46a9e9a1ba877d721fb8a907c
+sxs-colorgrid.rar	ca8d6cf696c65d2ef9a285adbf365ac4
+sxs-colorgrid.sfv	30b0e6921d939d5fc7e1f3c99e4acb73

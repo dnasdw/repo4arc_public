@@ -1,0 +1,13 @@
+v-fell_seal_arbiters_mark_v720896.nfo	-	5044	1	0	0	0
+v-fell_seal_arbiters_mark_v720896.r00	-	50000000	1	5044	0	1
+v-fell_seal_arbiters_mark_v720896.r01	-	50000000	1	50005044	0	49
+v-fell_seal_arbiters_mark_v720896.r02	-	50000000	1	100005044	0	97
+v-fell_seal_arbiters_mark_v720896.r03	-	50000000	1	150005044	0	145
+v-fell_seal_arbiters_mark_v720896.r04	-	50000000	1	200005044	0	193
+v-fell_seal_arbiters_mark_v720896.r05	-	50000000	1	250005044	0	241
+v-fell_seal_arbiters_mark_v720896.r06	-	50000000	1	300005044	0	289
+v-fell_seal_arbiters_mark_v720896.r07	-	50000000	1	350005044	0	337
+v-fell_seal_arbiters_mark_v720896.r08	-	50000000	1	400005044	0	385
+v-fell_seal_arbiters_mark_v720896.r09	-	21881347	1	450005044	0	433
+v-fell_seal_arbiters_mark_v720896.rar	-	50000000	1	471886391	0	454
+v-fell_seal_arbiters_mark_v720896.sfv	-	528	1	521886391	0	502

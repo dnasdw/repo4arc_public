@@ -1,0 +1,4 @@
+sxs-fuga_melodies_of_steel_v851968.nfo	-	6134	1	0	0	0
+sxs-fuga_melodies_of_steel_v851968.r00	-	41084136	1	6134	0	1
+sxs-fuga_melodies_of_steel_v851968.rar	-	100000000	1	41090270	0	41
+sxs-fuga_melodies_of_steel_v851968.sfv	-	98	1	141090270	0	137

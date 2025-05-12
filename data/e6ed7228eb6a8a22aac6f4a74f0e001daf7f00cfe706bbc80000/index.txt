@@ -1,0 +1,9 @@
+v-splatoon_3_wave_1_inkopolis_dlc.nfo	-	6448	1	0	0	0
+v-splatoon_3_wave_1_inkopolis_dlc.r00	-	100000000	1	6448	0	1
+v-splatoon_3_wave_1_inkopolis_dlc.r01	-	100000000	1	100006448	0	97
+v-splatoon_3_wave_1_inkopolis_dlc.r02	-	100000000	1	200006448	0	193
+v-splatoon_3_wave_1_inkopolis_dlc.r03	-	100000000	1	300006448	0	289
+v-splatoon_3_wave_1_inkopolis_dlc.r04	-	100000000	1	400006448	0	385
+v-splatoon_3_wave_1_inkopolis_dlc.r05	-	79305329	1	500006448	0	481
+v-splatoon_3_wave_1_inkopolis_dlc.rar	-	100000000	1	41556593	1	40
+v-splatoon_3_wave_1_inkopolis_dlc.sfv	-	336	1	141556593	1	136

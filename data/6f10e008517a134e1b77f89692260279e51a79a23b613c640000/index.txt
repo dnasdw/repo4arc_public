@@ -1,0 +1,7 @@
+sxs-tactical_mind_2_v65536.nfo	-	6602	1	0	0	0
+sxs-tactical_mind_2_v65536.r00	-	50000000	1	6602	0	1
+sxs-tactical_mind_2_v65536.r01	-	50000000	1	50006602	0	49
+sxs-tactical_mind_2_v65536.r02	-	50000000	1	100006602	0	97
+sxs-tactical_mind_2_v65536.r03	-	38633706	1	150006602	0	145
+sxs-tactical_mind_2_v65536.rar	-	50000000	1	188640308	0	182
+sxs-tactical_mind_2_v65536.sfv	-	205	1	238640308	0	230

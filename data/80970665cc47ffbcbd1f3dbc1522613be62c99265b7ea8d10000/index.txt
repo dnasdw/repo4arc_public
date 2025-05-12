@@ -1,0 +1,10 @@
+v-nongunz_doppelganger_edition.nfo	-	6214	1	0	0	0
+v-nongunz_doppelganger_edition.r00	-	50000000	1	6214	0	1
+v-nongunz_doppelganger_edition.r01	-	50000000	1	50006214	0	49
+v-nongunz_doppelganger_edition.r02	-	50000000	1	100006214	0	97
+v-nongunz_doppelganger_edition.r03	-	50000000	1	150006214	0	145
+v-nongunz_doppelganger_edition.r04	-	50000000	1	200006214	0	193
+v-nongunz_doppelganger_edition.r05	-	50000000	1	250006214	0	241
+v-nongunz_doppelganger_edition.r06	-	12047026	1	300006214	0	289
+v-nongunz_doppelganger_edition.rar	-	50000000	1	312053240	0	301
+v-nongunz_doppelganger_edition.sfv	-	360	1	362053240	0	349

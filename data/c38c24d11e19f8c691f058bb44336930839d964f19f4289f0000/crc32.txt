@@ -1,0 +1,4 @@
+v-metaloid_origin.nfo	5899ceb5
+v-metaloid_origin.r00	167f8f45
+v-metaloid_origin.rar	db883feb
+v-metaloid_origin.sfv	85027e42

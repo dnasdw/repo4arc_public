@@ -1,0 +1,10 @@
+hr-wansur.nfo	2acd0615b350df6e17b74645e3c2e39d
+hr-wansur.r00	65c5084e585aa7fa17534d5f305e3e2b
+hr-wansur.r01	d8d4e7c389d1db8c2f3bf052d8d526b4
+hr-wansur.r02	fad7afce045dc394afa1b92edce218d5
+hr-wansur.r03	a50a89b109888efed15afad62f707905
+hr-wansur.r04	8acd565dda578f69b7d5edbfc7065679
+hr-wansur.r05	0240d7bfb30a1e1c6d13632d9b866513
+hr-wansur.r06	f4c4ee4d8ba805aa5bcaa22d318107c3
+hr-wansur.rar	af7e72f952bef59b5fa8b78a77be880a
+hr-wansur.sfv	adf52b81878b377d1e37147f8ea7ff44

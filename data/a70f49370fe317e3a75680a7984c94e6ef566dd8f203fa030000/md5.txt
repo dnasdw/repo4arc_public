@@ -1,0 +1,7 @@
+lfc-goblinsword.nfo	6f1188f204a7565abba7a0fab6e348dc
+lfc-goblinsword.r00	5a24127fdb058aa5ce6638bc4082086c
+lfc-goblinsword.r01	29d85954b0ce94316fd1b9be0a0bb26f
+lfc-goblinsword.r02	361266c001c7d0cf6e939cdd4c2bcaee
+lfc-goblinsword.r03	c59b40567e6d4a534f60e953c7005c34
+lfc-goblinsword.rar	cdf424043febd3fc8e022c448c118c49
+lfc-goblinsword.sfv	30e905ad23fe2210140e9ee6221cb7a7

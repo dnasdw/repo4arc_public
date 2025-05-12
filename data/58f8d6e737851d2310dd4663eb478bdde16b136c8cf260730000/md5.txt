@@ -1,0 +1,5 @@
+sxs-minecraft_legends_v196608.nfo	b4750540b8f7bbe3d84bd8143f24f2b8
+sxs-minecraft_legends_v196608.r00	d86657922c794f3b7425c2596365b661
+sxs-minecraft_legends_v196608.r01	2fd5a0ff6c0155296d7751c9e0b3cdec
+sxs-minecraft_legends_v196608.rar	7201f5c38bd8a39d9b1b5e6eb26e3c31
+sxs-minecraft_legends_v196608.sfv	6cb929343fffebcdcae446cc30a57f2d

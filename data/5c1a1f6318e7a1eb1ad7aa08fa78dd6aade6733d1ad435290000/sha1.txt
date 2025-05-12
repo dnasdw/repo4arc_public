@@ -1,0 +1,4 @@
+sxs-dogurai.nfo	c15b0551a0e0e79c4b83998c07c859ddfeefb021
+sxs-dogurai.r00	c4997d391aff532f4b7955b64e1189c5fd642b2a
+sxs-dogurai.rar	8f827e82400a248b8847fea534f2c138dc501a32
+sxs-dogurai.sfv	2695237e4b7def3d5ad4fa3373874eae0fa9d1ff

@@ -1,0 +1,9 @@
+sxs-treasure_stack_v196608.nfo	d8f3088a
+sxs-treasure_stack_v196608.r00	ba31eee9
+sxs-treasure_stack_v196608.r01	71e7abff
+sxs-treasure_stack_v196608.r02	16a9eb46
+sxs-treasure_stack_v196608.r03	3b04d590
+sxs-treasure_stack_v196608.r04	67473442
+sxs-treasure_stack_v196608.r05	9803dbd4
+sxs-treasure_stack_v196608.rar	f6b436be
+sxs-treasure_stack_v196608.sfv	7fa31b83

@@ -1,0 +1,7 @@
+sxs-rtmd.nfo	40a25b9284c3d6c611bbf3feb1bda2105a25aa0b
+sxs-rtmd.r00	3d2c5d4dc2cf1e7d87bf5fbfdf1440dabf5df469
+sxs-rtmd.r01	47d334c33bad47f83dc7fa445c7ddbfbe8460af1
+sxs-rtmd.r02	f88d4ce625bd2191323b3d8e17e272367e10e754
+sxs-rtmd.r03	e06fefb8021b48665a01ca358ddf1f87f5ae1bc7
+sxs-rtmd.rar	6951eea9b74a4bdbd9c93b0513c034b2bf76c5cc
+sxs-rtmd.sfv	e400a7baadb61c6e5510a67c9e05524377935106

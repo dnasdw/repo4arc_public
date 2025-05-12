@@ -1,0 +1,4 @@
+lfc-mr8b_v131072.nfo	2193c473173fbf14f95620b873ecb40cd40b96f8
+lfc-mr8b_v131072.r00	d49399a0694c78adb008e2fbdc0e5fde01051ced
+lfc-mr8b_v131072.rar	eff4877bdeedd4cbee69f48c59b2ca9e1a2adacb
+lfc-mr8b_v131072.sfv	f7b991ef558b7af236a1bc2269cf0074ffd0e6bc

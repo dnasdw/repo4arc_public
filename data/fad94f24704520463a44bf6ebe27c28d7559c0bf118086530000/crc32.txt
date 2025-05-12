@@ -1,0 +1,9 @@
+v-animal_crossing_new_horizons_v196608.nfo	2d353955
+v-animal_crossing_new_horizons_v196608.r00	66240f0b
+v-animal_crossing_new_horizons_v196608.r01	8cabcd02
+v-animal_crossing_new_horizons_v196608.r02	2a6c2d55
+v-animal_crossing_new_horizons_v196608.r03	f3cb9979
+v-animal_crossing_new_horizons_v196608.r04	2090e799
+v-animal_crossing_new_horizons_v196608.r05	1d97a7bb
+v-animal_crossing_new_horizons_v196608.rar	7d115cce
+v-animal_crossing_new_horizons_v196608.sfv	bdec6e23

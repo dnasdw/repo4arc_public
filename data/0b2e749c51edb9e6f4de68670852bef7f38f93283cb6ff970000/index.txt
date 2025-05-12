@@ -1,0 +1,3 @@
+lfc-blob.nfo	-	5121	1	0	0	0
+lfc-blob.rar	-	42064791	1	5121	0	1
+lfc-blob.sfv	-	23	1	42069912	0	42

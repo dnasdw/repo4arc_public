@@ -1,0 +1,11 @@
+sxs-musou_orochi3_v524288.nfo	95c12533
+sxs-musou_orochi3_v524288.r00	1b42cb63
+sxs-musou_orochi3_v524288.r01	c745d264
+sxs-musou_orochi3_v524288.r02	3dd3970d
+sxs-musou_orochi3_v524288.r03	bbc4b981
+sxs-musou_orochi3_v524288.r04	e6c2e73e
+sxs-musou_orochi3_v524288.r05	80247b3b
+sxs-musou_orochi3_v524288.r06	da86c78c
+sxs-musou_orochi3_v524288.r07	b20a99cc
+sxs-musou_orochi3_v524288.rar	4b090ef8
+sxs-musou_orochi3_v524288.sfv	b881845a

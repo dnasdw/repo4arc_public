@@ -1,0 +1,6 @@
+v-brok_the_investigator_v327680.nfo	-	9490	1	0	0	0
+v-brok_the_investigator_v327680.r00	-	100000000	1	9490	0	1
+v-brok_the_investigator_v327680.r01	-	100000000	1	100009490	0	97
+v-brok_the_investigator_v327680.r02	-	5045075	1	200009490	0	193
+v-brok_the_investigator_v327680.rar	-	100000000	1	205054565	0	198
+v-brok_the_investigator_v327680.sfv	-	184	1	305054565	0	294

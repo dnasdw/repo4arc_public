@@ -1,0 +1,6 @@
+sxs-marble_maid.nfo	7be4869f
+sxs-marble_maid.r00	9dddecba
+sxs-marble_maid.r01	0933aff7
+sxs-marble_maid.r02	86de015e
+sxs-marble_maid.rar	7471c0e2
+sxs-marble_maid.sfv	cc4b00e4

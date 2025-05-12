@@ -1,0 +1,6 @@
+sxs-spitlings_v65536.nfo	de424d280090f46fe9ba3ea98f3f4e09
+sxs-spitlings_v65536.r00	b217f55d08eac5e7d6dfd0b1b6c663ee
+sxs-spitlings_v65536.r01	68f8804fe9d9c534d3519ede20a5218d
+sxs-spitlings_v65536.r02	d348b656797fbec1c9e920b730c91b4a
+sxs-spitlings_v65536.rar	7201903bb56116be41834c2666086fda
+sxs-spitlings_v65536.sfv	2148ed0c451c6620ede20b9604554f67

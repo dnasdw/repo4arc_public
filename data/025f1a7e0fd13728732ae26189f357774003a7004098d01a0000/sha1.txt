@@ -1,0 +1,5 @@
+sxs-fluffy_cubed.nfo	8fcbefdade7fafbb90afcaee178f97f103dfdbff
+sxs-fluffy_cubed.r00	eb978b3c7a38dd1cc9684f503932ecbc00e97169
+sxs-fluffy_cubed.r01	e3afb83eb4c123f0f59f88498a59b09a84223a67
+sxs-fluffy_cubed.rar	bd47e7c9a836cbe2830356e4dbabad9f42195451
+sxs-fluffy_cubed.sfv	2645bb8e3ff407f8392148ccd12832e574f988c3

@@ -1,0 +1,15 @@
+hr-av9pav131072.nfo	779f33f5
+hr-av9pav131072.r00	2ccf2e7b
+hr-av9pav131072.r01	22a72cc5
+hr-av9pav131072.r02	3affd2f0
+hr-av9pav131072.r03	5343c1c8
+hr-av9pav131072.r04	ff82234d
+hr-av9pav131072.r05	852ead9d
+hr-av9pav131072.r06	9bcf7e19
+hr-av9pav131072.r07	cc70f5ad
+hr-av9pav131072.r08	27d126a5
+hr-av9pav131072.r09	acc37e9c
+hr-av9pav131072.r10	5cb8972c
+hr-av9pav131072.r11	411ac58c
+hr-av9pav131072.rar	07b51d30
+hr-av9pav131072.sfv	fbf67fba

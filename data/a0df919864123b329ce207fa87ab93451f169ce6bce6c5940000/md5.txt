@@ -1,0 +1,6 @@
+sxs-subnautica_v131072.nfo	aab5a60db29309f48c7624772ed53d42
+sxs-subnautica_v131072.r00	3b6d917d82c42dd3ca486925bb91fe9f
+sxs-subnautica_v131072.r01	b294a4a5ba444d915cfb3b8cc8e291c1
+sxs-subnautica_v131072.r02	7c7a10b5f6842823d406cf24d0741d60
+sxs-subnautica_v131072.rar	8a580a37b5159bfba4060ebb4eb7c06d
+sxs-subnautica_v131072.sfv	bbda27d671e28f14d2c20383012c3a85

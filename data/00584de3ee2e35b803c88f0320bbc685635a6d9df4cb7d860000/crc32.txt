@@ -1,0 +1,17 @@
+v-torn_away.nfo	8446bedb
+v-torn_away.r00	1b2730d0
+v-torn_away.r01	735db141
+v-torn_away.r02	0c318e93
+v-torn_away.r03	806a38b4
+v-torn_away.r04	40cf817b
+v-torn_away.r05	cbe6f185
+v-torn_away.r06	8f14be2c
+v-torn_away.r07	bec9b5be
+v-torn_away.r08	8dd47595
+v-torn_away.r09	41e18fc5
+v-torn_away.r10	18735c96
+v-torn_away.r11	f4769974
+v-torn_away.r12	b7c65d29
+v-torn_away.r13	3554ce0a
+v-torn_away.rar	0fd68be8
+v-torn_away.sfv	072afcb8

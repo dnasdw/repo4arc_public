@@ -1,0 +1,5 @@
+sxs-dungeons_3_nintendo_switch_edition_v65536.nfo	-	6134	1	0	0	0
+sxs-dungeons_3_nintendo_switch_edition_v65536.r00	-	100000000	1	6134	0	1
+sxs-dungeons_3_nintendo_switch_edition_v65536.r01	-	7029463	1	100006134	0	97
+sxs-dungeons_3_nintendo_switch_edition_v65536.rar	-	100000000	1	107035597	0	104
+sxs-dungeons_3_nintendo_switch_edition_v65536.sfv	-	180	1	207035597	0	200

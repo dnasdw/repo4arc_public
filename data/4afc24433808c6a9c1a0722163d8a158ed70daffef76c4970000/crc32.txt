@@ -1,0 +1,11 @@
+brw-moth.nfo	d3c3fbf9
+brw-moth.r00	1136d79f
+brw-moth.r01	ea68f598
+brw-moth.r02	fa359eec
+brw-moth.r03	9f5e71a2
+brw-moth.r04	4b457d67
+brw-moth.r05	7673ea03
+brw-moth.r06	4c955bb9
+brw-moth.r07	8d07b214
+brw-moth.rar	426977bb
+brw-moth.sfv	48fabea0

@@ -1,0 +1,4 @@
+sxs-swan_chernobyl_unexplored_v65536.nfo	a7216147bf50b2498653b82dfee8438f
+sxs-swan_chernobyl_unexplored_v65536.r00	082538bf7f0dd37b3eb12d9584791877
+sxs-swan_chernobyl_unexplored_v65536.rar	884d4a86b6a15de9c7257f69aec3948d
+sxs-swan_chernobyl_unexplored_v65536.sfv	f465a40660bb7343cb61bbb108fb178e

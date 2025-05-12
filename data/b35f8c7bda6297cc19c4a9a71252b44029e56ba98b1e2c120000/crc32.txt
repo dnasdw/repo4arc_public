@@ -1,0 +1,13 @@
+v-broadsword_warlord_edition.nfo	099a33bd
+v-broadsword_warlord_edition.r00	c7024360
+v-broadsword_warlord_edition.r01	9c5e0c1c
+v-broadsword_warlord_edition.r02	f1e20e9b
+v-broadsword_warlord_edition.r03	a6556148
+v-broadsword_warlord_edition.r04	960cd37a
+v-broadsword_warlord_edition.r05	9921ea4a
+v-broadsword_warlord_edition.r06	ab1f21ac
+v-broadsword_warlord_edition.r07	905504b4
+v-broadsword_warlord_edition.r08	822f60b7
+v-broadsword_warlord_edition.r09	59ecd594
+v-broadsword_warlord_edition.rar	3bfea611
+v-broadsword_warlord_edition.sfv	c633aa15

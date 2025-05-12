@@ -1,0 +1,15 @@
+sxs-arcaea_v655360.nfo	3419f7bd
+sxs-arcaea_v655360.r00	fb41f96d
+sxs-arcaea_v655360.r01	25941f85
+sxs-arcaea_v655360.r02	b22a2ca6
+sxs-arcaea_v655360.r03	dc3629a1
+sxs-arcaea_v655360.r04	88a127a5
+sxs-arcaea_v655360.r05	535fa412
+sxs-arcaea_v655360.r06	50aae9a2
+sxs-arcaea_v655360.r07	c0fdf24e
+sxs-arcaea_v655360.r08	71618646
+sxs-arcaea_v655360.r09	820a1a6d
+sxs-arcaea_v655360.r10	71366ed2
+sxs-arcaea_v655360.r11	34bf42fc
+sxs-arcaea_v655360.rar	d26d76ef
+sxs-arcaea_v655360.sfv	9072fc53

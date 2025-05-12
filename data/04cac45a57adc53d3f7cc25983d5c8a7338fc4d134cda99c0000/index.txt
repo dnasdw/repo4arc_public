@@ -1,0 +1,6 @@
+v-blaster_master_zero_2.nfo	-	7853	1	0	0	0
+v-blaster_master_zero_2.r00	-	50000000	1	7853	0	1
+v-blaster_master_zero_2.r01	-	50000000	1	50007853	0	49
+v-blaster_master_zero_2.r02	-	34238382	1	100007853	0	97
+v-blaster_master_zero_2.rar	-	50000000	1	134246235	0	130
+v-blaster_master_zero_2.sfv	-	152	1	184246235	0	178

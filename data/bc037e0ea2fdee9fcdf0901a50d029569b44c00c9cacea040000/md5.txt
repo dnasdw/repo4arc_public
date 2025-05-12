@@ -1,0 +1,6 @@
+v-cannibal_abduction.nfo	042d77d0764e447f344e318c660d19e1
+v-cannibal_abduction.r00	f3abb6c17a9a78df5b8e16f5b4ec80c2
+v-cannibal_abduction.r01	e85b2d44c5659a8ebd3f9a7a46dcb0ea
+v-cannibal_abduction.r02	9815a6cd8a643debeda5e9741502c23f
+v-cannibal_abduction.rar	0c6410e79e289dc173a9448266a7b8fc
+v-cannibal_abduction.sfv	58e13f447306f4d5a5ab777d5d24670d

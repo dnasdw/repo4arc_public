@@ -1,0 +1,6 @@
+i-ddx.nfo	fdfad785
+i-ddx.r00	1411754c
+i-ddx.r01	ebd28cb2
+i-ddx.r02	7abaec21
+i-ddx.rar	72f9da42
+i-ddx.sfv	1628a49c

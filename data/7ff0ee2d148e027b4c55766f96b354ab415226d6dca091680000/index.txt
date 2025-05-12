@@ -1,0 +1,4 @@
+sxs-cubic_figures_v65536.nfo	-	4418	1	0	0	0
+sxs-cubic_figures_v65536.r00	-	3288680	1	4418	0	1
+sxs-cubic_figures_v65536.rar	-	50000000	1	3293098	0	5
+sxs-cubic_figures_v65536.sfv	-	78	1	53293098	0	53

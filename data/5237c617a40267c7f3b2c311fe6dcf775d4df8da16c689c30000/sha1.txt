@@ -1,0 +1,3 @@
+nsw.standards.v1.2.2023-console.nfo	46deb53204073ae600162d147e8393ac0c71f5d8
+nsw.standards.v1.2.2023-console.rar	d06d144f933d8664d3ee1258c9f4eb17cf2f93a4
+nsw.standards.v1.2.2023-console.sfv	683bb38af8be19658701c8db7bbe4a0aa6b2881c

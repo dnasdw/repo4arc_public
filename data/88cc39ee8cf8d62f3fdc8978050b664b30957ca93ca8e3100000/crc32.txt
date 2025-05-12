@@ -1,0 +1,5 @@
+lfc-shcu_v65536.nfo	3cc5b136
+lfc-shcu_v65536.r00	160f4ff8
+lfc-shcu_v65536.r01	1737543b
+lfc-shcu_v65536.rar	5aa8e072
+lfc-shcu_v65536.sfv	013f8edb

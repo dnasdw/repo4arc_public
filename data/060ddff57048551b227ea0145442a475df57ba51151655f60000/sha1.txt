@@ -1,0 +1,4 @@
+sxs-wild_dogs_v262144.nfo	db4a122934a627ecb52ff813f8a313e8f212d5e6
+sxs-wild_dogs_v262144.r00	95da9ffccbf48b7f2a971623659fea55217e1734
+sxs-wild_dogs_v262144.rar	6af7226b6743ddbcf236874f3ec10917b5e1674c
+sxs-wild_dogs_v262144.sfv	e22fe68d11aec0f48cc32c889d92ea68c165dfbf

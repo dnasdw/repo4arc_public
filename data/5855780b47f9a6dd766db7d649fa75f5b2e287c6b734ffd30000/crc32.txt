@@ -1,0 +1,6 @@
+sxs-shovel_knight_treasure_trove_v393216.nfo	4fa27218
+sxs-shovel_knight_treasure_trove_v393216.r00	847a4d7e
+sxs-shovel_knight_treasure_trove_v393216.r01	0abb401a
+sxs-shovel_knight_treasure_trove_v393216.r02	662aa5f9
+sxs-shovel_knight_treasure_trove_v393216.rar	c0143eba
+sxs-shovel_knight_treasure_trove_v393216.sfv	854ebd3f

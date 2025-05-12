@@ -1,0 +1,14 @@
+sxs-etrian_odyssey_iii_hd_v196608.nfo	7fecf8af
+sxs-etrian_odyssey_iii_hd_v196608.r00	fb611211
+sxs-etrian_odyssey_iii_hd_v196608.r01	95d3790a
+sxs-etrian_odyssey_iii_hd_v196608.r02	75894445
+sxs-etrian_odyssey_iii_hd_v196608.r03	7baad13a
+sxs-etrian_odyssey_iii_hd_v196608.r04	3fd8b068
+sxs-etrian_odyssey_iii_hd_v196608.r05	7bc1f8dd
+sxs-etrian_odyssey_iii_hd_v196608.r06	d8a7bda1
+sxs-etrian_odyssey_iii_hd_v196608.r07	3678fe72
+sxs-etrian_odyssey_iii_hd_v196608.r08	d35f31dd
+sxs-etrian_odyssey_iii_hd_v196608.r09	2fee979c
+sxs-etrian_odyssey_iii_hd_v196608.r10	68068c7e
+sxs-etrian_odyssey_iii_hd_v196608.rar	9ac96a89
+sxs-etrian_odyssey_iii_hd_v196608.sfv	12d7e56a

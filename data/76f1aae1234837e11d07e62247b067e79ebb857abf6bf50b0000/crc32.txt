@@ -1,0 +1,15 @@
+v-stranger_things_3_the_game_v131072.nfo	69b67dea
+v-stranger_things_3_the_game_v131072.r00	64799716
+v-stranger_things_3_the_game_v131072.r01	81c71ffd
+v-stranger_things_3_the_game_v131072.r02	4fb141de
+v-stranger_things_3_the_game_v131072.r03	f2ddb1a5
+v-stranger_things_3_the_game_v131072.r04	91591305
+v-stranger_things_3_the_game_v131072.r05	5943ecaa
+v-stranger_things_3_the_game_v131072.r06	c9700872
+v-stranger_things_3_the_game_v131072.r07	d5597d07
+v-stranger_things_3_the_game_v131072.r08	c702f7f5
+v-stranger_things_3_the_game_v131072.r09	5b463768
+v-stranger_things_3_the_game_v131072.r10	01e8338c
+v-stranger_things_3_the_game_v131072.r11	a4f23da8
+v-stranger_things_3_the_game_v131072.rar	1ec49269
+v-stranger_things_3_the_game_v131072.sfv	716e3aa3

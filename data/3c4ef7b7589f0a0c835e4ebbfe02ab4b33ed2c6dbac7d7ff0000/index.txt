@@ -1,0 +1,5 @@
+sxs-sports_story_v327680.nfo	-	4886	1	0	0	0
+sxs-sports_story_v327680.r00	-	100000000	1	4886	0	1
+sxs-sports_story_v327680.r01	-	17993135	1	100004886	0	97
+sxs-sports_story_v327680.rar	-	100000000	1	117998021	0	115
+sxs-sports_story_v327680.sfv	-	117	1	217998021	0	211

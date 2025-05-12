@@ -1,0 +1,5 @@
+v-picross_s_plus.nfo	c457de8e53ab0e6b19420f2102655a60
+v-picross_s_plus.r00	759e582b4f5310728024775ffeae86d9
+v-picross_s_plus.r01	ead6543cc057cf8d60770a89652b022e
+v-picross_s_plus.rar	cd547c8a2e4d7ddc27f1d289d29b093f
+v-picross_s_plus.sfv	39a734ba950c89b53965d64c9522989f

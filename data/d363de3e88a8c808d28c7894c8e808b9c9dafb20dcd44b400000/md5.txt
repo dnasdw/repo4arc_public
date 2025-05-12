@@ -1,0 +1,6 @@
+sxs-flat_heroes_v131072.nfo	7144f3a4d3acf981d6fa3a7d080e38ee
+sxs-flat_heroes_v131072.r00	8d23c002aae7813460f9d7e879d04827
+sxs-flat_heroes_v131072.r01	9cbe803a9bc8be3ff447654a88981090
+sxs-flat_heroes_v131072.r02	b25130593bd8bed90615cfd2c5e9cac8
+sxs-flat_heroes_v131072.rar	605e94ad219335bf07688886e7b8d5e7
+sxs-flat_heroes_v131072.sfv	e82f9df26d9aa9b91aaba643f4bfbbd4

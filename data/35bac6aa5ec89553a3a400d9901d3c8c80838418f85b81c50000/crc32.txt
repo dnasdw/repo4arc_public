@@ -1,0 +1,17 @@
+sxs-hyper_5.nfo	da15b08b
+sxs-hyper_5.r00	db6afeff
+sxs-hyper_5.r01	f2659a44
+sxs-hyper_5.r02	6c0b514d
+sxs-hyper_5.r03	077f84a1
+sxs-hyper_5.r04	acbc09de
+sxs-hyper_5.r05	418c79d9
+sxs-hyper_5.r06	9430112c
+sxs-hyper_5.r07	de2d3e1b
+sxs-hyper_5.r08	15f477c5
+sxs-hyper_5.r09	9c8ab451
+sxs-hyper_5.r10	0744bf1e
+sxs-hyper_5.r11	29885eb6
+sxs-hyper_5.r12	eb7304dd
+sxs-hyper_5.r13	f6ed17da
+sxs-hyper_5.rar	1bd2b3e4
+sxs-hyper_5.sfv	aba75244

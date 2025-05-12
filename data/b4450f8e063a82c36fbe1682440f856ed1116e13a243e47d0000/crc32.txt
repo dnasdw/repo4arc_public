@@ -1,0 +1,13 @@
+sxs-speaking_simulator_v131072.nfo	d869298c
+sxs-speaking_simulator_v131072.r00	9cd4a9f2
+sxs-speaking_simulator_v131072.r01	efcb1769
+sxs-speaking_simulator_v131072.r02	0548375a
+sxs-speaking_simulator_v131072.r03	14a1ddea
+sxs-speaking_simulator_v131072.r04	16187ca3
+sxs-speaking_simulator_v131072.r05	babeaee9
+sxs-speaking_simulator_v131072.r06	e2ebfe86
+sxs-speaking_simulator_v131072.r07	4b0a433a
+sxs-speaking_simulator_v131072.r08	72ef0a68
+sxs-speaking_simulator_v131072.r09	59ecf6cb
+sxs-speaking_simulator_v131072.rar	79a4ed34
+sxs-speaking_simulator_v131072.sfv	9a4d20e1

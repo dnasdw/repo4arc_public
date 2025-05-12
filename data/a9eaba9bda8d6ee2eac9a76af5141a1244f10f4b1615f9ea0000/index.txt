@@ -1,0 +1,4 @@
+lfc-lyricaupd.nfo	-	4270	1	0	0	0
+lfc-lyricaupd.r00	-	23972409	1	4270	0	1
+lfc-lyricaupd.rar	-	50000000	1	23976679	0	24
+lfc-lyricaupd.sfv	-	56	1	73976679	0	72

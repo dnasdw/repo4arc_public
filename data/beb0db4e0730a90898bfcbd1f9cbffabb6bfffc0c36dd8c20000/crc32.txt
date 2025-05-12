@@ -1,0 +1,6 @@
+sxs-river_city_melee_mach_v262144.nfo	5c1745c8
+sxs-river_city_melee_mach_v262144.r00	0aced473
+sxs-river_city_melee_mach_v262144.r01	c15e50a1
+sxs-river_city_melee_mach_v262144.r02	2c8e7867
+sxs-river_city_melee_mach_v262144.rar	c5377a20
+sxs-river_city_melee_mach_v262144.sfv	1881b538

@@ -1,0 +1,7 @@
+sxs-ant_gravity_tinys_adventure.nfo	cc451348
+sxs-ant_gravity_tinys_adventure.r00	8e80725d
+sxs-ant_gravity_tinys_adventure.r01	3d25782b
+sxs-ant_gravity_tinys_adventure.r02	5b5c6d2d
+sxs-ant_gravity_tinys_adventure.r03	60f1287a
+sxs-ant_gravity_tinys_adventure.rar	c74086a3
+sxs-ant_gravity_tinys_adventure.sfv	9e4d4ca5

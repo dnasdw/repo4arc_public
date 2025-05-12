@@ -1,0 +1,5 @@
+sxs-beach_buggy_racing_v65536.nfo	-	7070	1	0	0	0
+sxs-beach_buggy_racing_v65536.r00	-	50000000	1	7070	0	1
+sxs-beach_buggy_racing_v65536.r01	-	9795675	1	50007070	0	49
+sxs-beach_buggy_racing_v65536.rar	-	50000000	1	59802745	0	59
+sxs-beach_buggy_racing_v65536.sfv	-	132	1	109802745	0	107

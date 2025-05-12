@@ -1,0 +1,3 @@
+sxs-mujo_dlc.nfo	-	7616	1	0	0	0
+sxs-mujo_dlc.rar	-	2389064	1	7616	0	1
+sxs-mujo_dlc.sfv	-	27	1	2396680	0	4

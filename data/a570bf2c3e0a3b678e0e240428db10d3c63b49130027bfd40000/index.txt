@@ -1,0 +1,3 @@
+nxfly-ppw_v65536.nfo	-	215	1	0	0	0
+nxfly-ppw_v65536.rar	-	169501668	1	215	0	1
+nxfly-ppw_v65536.sfv	-	31	1	169501883	0	163

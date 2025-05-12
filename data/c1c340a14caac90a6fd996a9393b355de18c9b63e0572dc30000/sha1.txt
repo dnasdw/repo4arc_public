@@ -1,0 +1,7 @@
+sxs-guts_n_goals.nfo	9bc7c40c761ae320562f3fa943a593c335713c87
+sxs-guts_n_goals.r00	7af46a85ba09b7198dc201fc63037ed06b5c015c
+sxs-guts_n_goals.r01	25c16c1936c8bd4589a36c6554b879306ff19fc9
+sxs-guts_n_goals.r02	ff8ab2b94c801e53dcd39b5a663fcff327bb5a29
+sxs-guts_n_goals.r03	5c647fa5eceaf4b08f628648f869cddf4f228c0a
+sxs-guts_n_goals.rar	ec4118445c33c645a11724a9e4f5aa8d352af5c0
+sxs-guts_n_goals.sfv	dbd4a2c161ebba7f4d3c1fd0d934042ee196549a

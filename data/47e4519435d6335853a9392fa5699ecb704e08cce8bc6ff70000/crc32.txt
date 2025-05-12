@@ -1,0 +1,9 @@
+v-wargroove_2_v458752.nfo	fddbf796
+v-wargroove_2_v458752.r00	41b917cd
+v-wargroove_2_v458752.r01	165aaf14
+v-wargroove_2_v458752.r02	69ea2470
+v-wargroove_2_v458752.r03	5e9d93fa
+v-wargroove_2_v458752.r04	3aec20c6
+v-wargroove_2_v458752.r05	fc2ddaec
+v-wargroove_2_v458752.rar	dc6b1bef
+v-wargroove_2_v458752.sfv	d355854e

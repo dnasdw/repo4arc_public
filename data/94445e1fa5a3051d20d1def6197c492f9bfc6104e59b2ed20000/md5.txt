@@ -1,0 +1,6 @@
+sxs-quake_ii_v196608.nfo	d34af8812932638a911bf4cb1410f2c3
+sxs-quake_ii_v196608.r00	333e02808c910a7792ad3079b4ade9ad
+sxs-quake_ii_v196608.r01	59a2d8a64cb04bf5c92c7a9e6c5354dc
+sxs-quake_ii_v196608.r02	dc66334437254dbe6dcd87d4848c7a40
+sxs-quake_ii_v196608.rar	4f7def0555defc5887bf39550e997dc2
+sxs-quake_ii_v196608.sfv	a752acaa951c562ee667d2a4b110d2ce

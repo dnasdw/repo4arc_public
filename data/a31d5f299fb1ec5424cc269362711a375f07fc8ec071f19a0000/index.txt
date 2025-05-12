@@ -1,0 +1,10 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-garden_story.jpg	-	140920	1	0	0	0
+sxs-garden_story.nfo	-	5354	1	140920	0	1
+sxs-garden_story.r00	-	100000000	1	146274	0	2
+sxs-garden_story.r01	-	100000000	1	100146274	0	98
+sxs-garden_story.r02	-	100000000	1	200146274	0	194
+sxs-garden_story.r03	-	100000000	1	300146274	0	290
+sxs-garden_story.r04	-	38063847	1	400146274	0	386
+sxs-garden_story.rar	-	100000000	1	438210121	0	423
+sxs-garden_story.sfv	-	186	1	385280	1	1

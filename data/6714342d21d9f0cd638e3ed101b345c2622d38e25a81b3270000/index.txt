@@ -1,0 +1,4 @@
+hr-demtier.nfo	-	20150	1	0	0	0
+hr-demtier.r00	-	10835760	1	20150	0	1
+hr-demtier.rar	-	50000000	1	10855910	0	12
+hr-demtier.sfv	-	50	1	60855910	0	60

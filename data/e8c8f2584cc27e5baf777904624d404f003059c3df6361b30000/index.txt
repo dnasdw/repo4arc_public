@@ -1,0 +1,6 @@
+v-q_yo_blaster.nfo	-	5122	1	0	0	0
+v-q_yo_blaster.r00	-	50000000	1	5122	0	1
+v-q_yo_blaster.r01	-	50000000	1	50005122	0	49
+v-q_yo_blaster.r02	-	20450066	1	100005122	0	97
+v-q_yo_blaster.rar	-	50000000	1	120455188	0	117
+v-q_yo_blaster.sfv	-	116	1	170455188	0	165

@@ -1,0 +1,4 @@
+sxs-behind_the_frame_the_finest_scenery_v393216.nfo	-	6212	1	0	0	0
+sxs-behind_the_frame_the_finest_scenery_v393216.r00	-	41010625	1	6212	0	1
+sxs-behind_the_frame_the_finest_scenery_v393216.rar	-	100000000	1	41016837	0	41
+sxs-behind_the_frame_the_finest_scenery_v393216.sfv	-	124	1	141016837	0	137

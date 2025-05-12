@@ -1,0 +1,8 @@
+lfc-lyrica.nfo	d0b61555
+lfc-lyrica.r00	f6bbe92a
+lfc-lyrica.r01	9585c69f
+lfc-lyrica.r02	e353f301
+lfc-lyrica.r03	d1d8e5ae
+lfc-lyrica.r04	4c3280cc
+lfc-lyrica.rar	3d2c35a1
+lfc-lyrica.sfv	e1d7bd4a

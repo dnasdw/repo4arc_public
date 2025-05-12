@@ -1,0 +1,3 @@
+v-dragon_ball_fighterz_dlc.nfo	-	8477	1	0	0	0
+v-dragon_ball_fighterz_dlc.rar	-	3221101	1	8477	0	1
+v-dragon_ball_fighterz_dlc.sfv	-	41	1	3229578	0	5

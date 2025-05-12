@@ -1,0 +1,3 @@
+sxs-penguin_wars_dlc.nfo	1779602c691f62793c42cc939dc636970e82e5d5
+sxs-penguin_wars_dlc.rar	fb216ade45cfa44db93b6ea1dd2d5df6516fba67
+sxs-penguin_wars_dlc.sfv	f0eedcb2f7cba299c72f9bc806468d10cbcc45e8

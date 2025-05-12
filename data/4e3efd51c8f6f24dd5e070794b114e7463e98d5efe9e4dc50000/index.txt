@@ -1,0 +1,4 @@
+hr-fugamosv65536.nfo	-	11258	1	0	0	0
+hr-fugamosv65536.r00	-	22467863	1	11258	0	1
+hr-fugamosv65536.rar	-	50000000	1	22479121	0	23
+hr-fugamosv65536.sfv	-	62	1	72479121	0	71

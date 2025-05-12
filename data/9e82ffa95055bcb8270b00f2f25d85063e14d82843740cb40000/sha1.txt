@@ -1,0 +1,3 @@
+sxs-monark_dlc.nfo	53c636e1b9380fa23dd62cfb99de6b5cd56648b1
+sxs-monark_dlc.rar	f3c5522b38555bd5082152f76406eb0f98130c3a
+sxs-monark_dlc.sfv	9fa86221c4033456469faca92ede9e8a5b82d830

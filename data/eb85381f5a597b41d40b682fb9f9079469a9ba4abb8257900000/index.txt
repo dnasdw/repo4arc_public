@@ -1,0 +1,4 @@
+sxs-retro_pocket_rocket_v65536.nfo	-	5198	1	0	0	0
+sxs-retro_pocket_rocket_v65536.r00	-	11921882	1	5198	0	1
+sxs-retro_pocket_rocket_v65536.rar	-	50000000	1	11927080	0	13
+sxs-retro_pocket_rocket_v65536.sfv	-	90	1	61927080	0	61

@@ -1,0 +1,6 @@
+lfc-mdvi_v65536.nfo	2ea647e6
+lfc-mdvi_v65536.r00	f26b80c5
+lfc-mdvi_v65536.r01	9418b65f
+lfc-mdvi_v65536.r02	6a34dc4c
+lfc-mdvi_v65536.rar	107cd4de
+lfc-mdvi_v65536.sfv	682dbf09

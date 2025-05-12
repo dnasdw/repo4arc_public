@@ -1,0 +1,7 @@
+lfc-mbuildersrush.nfo	-	4738	1	0	0	0
+lfc-mbuildersrush.r00	-	50000000	1	4738	0	1
+lfc-mbuildersrush.r01	-	50000000	1	50004738	0	49
+lfc-mbuildersrush.r02	-	50000000	1	100004738	0	97
+lfc-mbuildersrush.r03	-	44231347	1	150004738	0	145
+lfc-mbuildersrush.rar	-	50000000	1	194236085	0	188
+lfc-mbuildersrush.sfv	-	160	1	244236085	0	236

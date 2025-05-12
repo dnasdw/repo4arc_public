@@ -1,0 +1,17 @@
+Proof	00000000
+Proof/sxs-narita_boy.jpg	82851614
+sxs-narita_boy.nfo	f78abe7e
+sxs-narita_boy.r00	173433c1
+sxs-narita_boy.r01	de303335
+sxs-narita_boy.r02	0a0a2663
+sxs-narita_boy.r03	46c163b5
+sxs-narita_boy.r04	e8d75974
+sxs-narita_boy.r05	e5be5286
+sxs-narita_boy.r06	04de25b1
+sxs-narita_boy.r07	72143e3a
+sxs-narita_boy.r08	d41e847e
+sxs-narita_boy.r09	95ef3745
+sxs-narita_boy.r10	081688c8
+sxs-narita_boy.r11	4f6cc001
+sxs-narita_boy.rar	6b4a87b6
+sxs-narita_boy.sfv	b51b5a63

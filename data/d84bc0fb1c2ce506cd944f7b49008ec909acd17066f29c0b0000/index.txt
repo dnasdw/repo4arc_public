@@ -1,0 +1,4 @@
+v-northgard_v196608.nfo	-	4889	1	0	0	0
+v-northgard_v196608.r00	-	17471762	1	4889	0	1
+v-northgard_v196608.rar	-	50000000	1	17476651	0	18
+v-northgard_v196608.sfv	-	68	1	67476651	0	66

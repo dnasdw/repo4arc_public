@@ -1,0 +1,8 @@
+v-hywaoc_v65536.nfo	e7090017
+v-hywaoc_v65536.r00	a3b5c957
+v-hywaoc_v65536.r01	d637f91c
+v-hywaoc_v65536.r02	ae8d216c
+v-hywaoc_v65536.r03	1001530a
+v-hywaoc_v65536.r04	e5b3c050
+v-hywaoc_v65536.rar	50f67134
+v-hywaoc_v65536.sfv	501d6b96

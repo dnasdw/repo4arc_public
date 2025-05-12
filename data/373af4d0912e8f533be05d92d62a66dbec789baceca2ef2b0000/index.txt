@@ -1,0 +1,14 @@
+v-trombone_champ.nfo	-	4654	1	0	0	0
+v-trombone_champ.r00	-	100000000	1	4654	0	1
+v-trombone_champ.r01	-	100000000	1	100004654	0	97
+v-trombone_champ.r02	-	100000000	1	200004654	0	193
+v-trombone_champ.r03	-	100000000	1	300004654	0	289
+v-trombone_champ.r04	-	100000000	1	400004654	0	385
+v-trombone_champ.r05	-	100000000	1	500004654	0	481
+v-trombone_champ.r06	-	100000000	1	62251264	1	60
+v-trombone_champ.r07	-	100000000	1	162251264	1	156
+v-trombone_champ.r08	-	100000000	1	262251264	1	252
+v-trombone_champ.r09	-	100000000	1	362251264	1	348
+v-trombone_champ.r10	-	20048497	1	462251264	1	444
+v-trombone_champ.rar	-	100000000	1	482299761	1	464
+v-trombone_champ.sfv	-	372	1	44425472	2	43

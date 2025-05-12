@@ -1,0 +1,13 @@
+w-perseverance.nfo	5c0cc084
+w-perseverance.r00	d35812c0
+w-perseverance.r01	3cf4bd43
+w-perseverance.r02	0ea87c5b
+w-perseverance.r03	fb6c1a1f
+w-perseverance.r04	a04e716b
+w-perseverance.r05	335811a1
+w-perseverance.r06	8bcac6f1
+w-perseverance.r07	23235fe5
+w-perseverance.r08	a8a78b4e
+w-perseverance.r09	0e3bea86
+w-perseverance.rar	9afee776
+w-perseverance.sfv	77068e5a

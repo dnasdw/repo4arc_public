@@ -1,0 +1,9 @@
+lfc-a6jsb_v65536.nfo	21570cc5
+lfc-a6jsb_v65536.r00	d1ac0dfa
+lfc-a6jsb_v65536.r01	61cbde88
+lfc-a6jsb_v65536.r02	35653962
+lfc-a6jsb_v65536.r03	890d0985
+lfc-a6jsb_v65536.r04	7399564e
+lfc-a6jsb_v65536.r05	70f15717
+lfc-a6jsb_v65536.rar	bdf4823a
+lfc-a6jsb_v65536.sfv	0788535d

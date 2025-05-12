@@ -1,0 +1,11 @@
+sxs-nekomin.nfo	03315597fe9bfdebb9a1691cafa7da60bc4d001a
+sxs-nekomin.r00	767b16d9152a9b0d1e2b33f9386483ed15299424
+sxs-nekomin.r01	4b73a285dec5c93b31516770fe3296b25ecda2fa
+sxs-nekomin.r02	14fd7b4724f1facc79744898e73e9c2eadc1df05
+sxs-nekomin.r03	cbc3f5f1d3e21892b922954dd17fa94d08945f49
+sxs-nekomin.r04	90473daa25a91e89d51299c468d8ce35d6cb22cd
+sxs-nekomin.r05	a96bfcf2fe990a524c8c000fd18933caf1ecd940
+sxs-nekomin.r06	5e4d11c6e87b3abb578864cbfe49273d4865d66b
+sxs-nekomin.r07	a6a2df49f6e40899e3ffd47e68772945d1cdcf08
+sxs-nekomin.rar	0cacb93d54ae8a52ee194548c7b8f1a3b0a72d76
+sxs-nekomin.sfv	2b29da3d8de12bae9209f1865f365eb7beb3b7d9

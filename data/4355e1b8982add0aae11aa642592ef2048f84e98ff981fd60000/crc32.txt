@@ -1,0 +1,10 @@
+v-raccoo_venture_v196608.nfo	6845b99d
+v-raccoo_venture_v196608.r00	1341163f
+v-raccoo_venture_v196608.r01	37ee92b4
+v-raccoo_venture_v196608.r02	4fcb96c3
+v-raccoo_venture_v196608.r03	2ea1f972
+v-raccoo_venture_v196608.r04	e086f434
+v-raccoo_venture_v196608.r05	2f88ebb7
+v-raccoo_venture_v196608.r06	557eee15
+v-raccoo_venture_v196608.rar	669de192
+v-raccoo_venture_v196608.sfv	fe633151

@@ -1,0 +1,4 @@
+sxs-dragon_quest_treasures_v65536.nfo	00c3c3af80f1e107d8f5fe42a41afbcc
+sxs-dragon_quest_treasures_v65536.r00	a4be4a344f92506fa05d85fca5ea5cac
+sxs-dragon_quest_treasures_v65536.rar	0c30b3ebd6f533abb81434ea0e195355
+sxs-dragon_quest_treasures_v65536.sfv	f2a45de132c0e3b9a039722acc673226

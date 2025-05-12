@@ -1,0 +1,9 @@
+sxs-kokoro_clover_season_1_v196608.nfo	-	6368	1	0	0	0
+sxs-kokoro_clover_season_1_v196608.r00	-	100000000	1	6368	0	1
+sxs-kokoro_clover_season_1_v196608.r01	-	100000000	1	100006368	0	97
+sxs-kokoro_clover_season_1_v196608.r02	-	100000000	1	200006368	0	193
+sxs-kokoro_clover_season_1_v196608.r03	-	100000000	1	300006368	0	289
+sxs-kokoro_clover_season_1_v196608.r04	-	100000000	1	400006368	0	385
+sxs-kokoro_clover_season_1_v196608.r05	-	64326357	1	500006368	0	481
+sxs-kokoro_clover_season_1_v196608.rar	-	100000000	1	26577621	1	26
+sxs-kokoro_clover_season_1_v196608.sfv	-	343	1	126577621	1	122

@@ -1,0 +1,9 @@
+v-double_dragon_neon_v65536.nfo	98c3387e
+v-double_dragon_neon_v65536.r00	639e9ba2
+v-double_dragon_neon_v65536.r01	cc70c494
+v-double_dragon_neon_v65536.r02	cf622bfb
+v-double_dragon_neon_v65536.r03	202a372b
+v-double_dragon_neon_v65536.r04	fb48560a
+v-double_dragon_neon_v65536.r05	203db7c7
+v-double_dragon_neon_v65536.rar	070b77df
+v-double_dragon_neon_v65536.sfv	a27482ed

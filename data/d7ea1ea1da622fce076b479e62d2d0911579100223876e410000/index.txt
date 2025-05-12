@@ -1,0 +1,3 @@
+v-80s_overdrive_v65536.nfo	-	4888	1	0	0	0
+v-80s_overdrive_v65536.rar	-	45440562	1	4888	0	1
+v-80s_overdrive_v65536.sfv	-	37	1	45445450	0	45

@@ -1,0 +1,6 @@
+sxs-matsukeke_burst.nfo	fd73ac2b082f8c554e76a03594a7a38630779477
+sxs-matsukeke_burst.r00	e82f5a2f5f4d134da887c643405ceb3e6585441f
+sxs-matsukeke_burst.r01	5545076425d35f2d5cc083952b37f83d55364410
+sxs-matsukeke_burst.r02	ccd1c5fd4deb754b056f9e6c092241d9e8176975
+sxs-matsukeke_burst.rar	ff75a96a569ccb504b9c6f88da06b135a8389859
+sxs-matsukeke_burst.sfv	4632518b3fa7e974495ab11a473fcbe139c85701

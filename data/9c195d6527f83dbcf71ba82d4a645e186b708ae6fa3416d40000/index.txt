@@ -1,0 +1,16 @@
+sxs-true_fear_forsaken_souls_part_1_v65536.nfo	-	5510	1	0	0	0
+sxs-true_fear_forsaken_souls_part_1_v65536.r00	-	50000000	1	5510	0	1
+sxs-true_fear_forsaken_souls_part_1_v65536.r01	-	50000000	1	50005510	0	49
+sxs-true_fear_forsaken_souls_part_1_v65536.r02	-	50000000	1	100005510	0	97
+sxs-true_fear_forsaken_souls_part_1_v65536.r03	-	50000000	1	150005510	0	145
+sxs-true_fear_forsaken_souls_part_1_v65536.r04	-	50000000	1	200005510	0	193
+sxs-true_fear_forsaken_souls_part_1_v65536.r05	-	50000000	1	250005510	0	241
+sxs-true_fear_forsaken_souls_part_1_v65536.r06	-	50000000	1	300005510	0	289
+sxs-true_fear_forsaken_souls_part_1_v65536.r07	-	50000000	1	350005510	0	337
+sxs-true_fear_forsaken_souls_part_1_v65536.r08	-	50000000	1	400005510	0	385
+sxs-true_fear_forsaken_souls_part_1_v65536.r09	-	50000000	1	450005510	0	433
+sxs-true_fear_forsaken_souls_part_1_v65536.r10	-	50000000	1	500005510	0	481
+sxs-true_fear_forsaken_souls_part_1_v65536.r11	-	50000000	1	12251264	1	12
+sxs-true_fear_forsaken_souls_part_1_v65536.r12	-	26905522	1	62251264	1	60
+sxs-true_fear_forsaken_souls_part_1_v65536.rar	-	50000000	1	89156786	1	86
+sxs-true_fear_forsaken_souls_part_1_v65536.sfv	-	798	1	139156786	1	134

@@ -1,0 +1,3 @@
+collected-avtac-dlc.nfo	-	1025	1	0	0	0
+collected-avtac-dlc.rar	-	237733	1	1025	0	1
+collected-avtac-dlc.sfv	-	34	1	238758	0	2

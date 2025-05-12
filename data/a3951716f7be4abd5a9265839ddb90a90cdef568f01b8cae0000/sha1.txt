@@ -1,0 +1,5 @@
+lfc-rana.nfo	985be8a4b7067d9c3f7b8f2ca9698d60976d4eee
+lfc-rana.r00	d6e0fd66d10c8c6db1a29146175cdb7bc08021a6
+lfc-rana.r01	4204ba615cda045166b9a4ddca235c61e3f1de29
+lfc-rana.rar	41e36edcde45065b441293ba43a76a654db90bff
+lfc-rana.sfv	791536eec4a05d0cb23196ce84d04e7ce7479af5

@@ -1,0 +1,8 @@
+sxs-eastward_v524288.nfo	3a27980a
+sxs-eastward_v524288.r00	4f43d798
+sxs-eastward_v524288.r01	0c01f90f
+sxs-eastward_v524288.r02	e0f311f7
+sxs-eastward_v524288.r03	f56404d9
+sxs-eastward_v524288.r04	4bb1d516
+sxs-eastward_v524288.rar	5ece17bd
+sxs-eastward_v524288.sfv	4cbe1379

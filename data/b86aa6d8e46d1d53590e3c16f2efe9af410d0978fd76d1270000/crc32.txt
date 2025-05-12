@@ -1,0 +1,11 @@
+hr-a9qaav65536.nfo	1f2636b1
+hr-a9qaav65536.r00	528b0dc8
+hr-a9qaav65536.r01	9b18652d
+hr-a9qaav65536.r02	c6fe4d9c
+hr-a9qaav65536.r03	4360af5c
+hr-a9qaav65536.r04	56f379c8
+hr-a9qaav65536.r05	78b3e179
+hr-a9qaav65536.r06	f0ea008c
+hr-a9qaav65536.r07	ba33b9d6
+hr-a9qaav65536.rar	0cc9086d
+hr-a9qaav65536.sfv	b97db9c6

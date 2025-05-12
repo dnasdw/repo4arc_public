@@ -1,0 +1,9 @@
+sxs-gensokyodefenders_v458752.nfo	5db54ef6
+sxs-gensokyodefenders_v458752.r00	9a1b178e
+sxs-gensokyodefenders_v458752.r01	2f16e6c4
+sxs-gensokyodefenders_v458752.r02	7e396b3b
+sxs-gensokyodefenders_v458752.r03	eb4c9d0f
+sxs-gensokyodefenders_v458752.r04	64c3649d
+sxs-gensokyodefenders_v458752.r05	4ba54a29
+sxs-gensokyodefenders_v458752.rar	a38b3cf3
+sxs-gensokyodefenders_v458752.sfv	3f42447b

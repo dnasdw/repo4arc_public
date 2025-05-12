@@ -1,0 +1,4 @@
+sxs-drift_king_v65536.nfo	023453c33f5d6da817d929a2e66cad9907e1e152
+sxs-drift_king_v65536.r00	5f2f289a01f98b4e1c2d46b7cb43051d643ec120
+sxs-drift_king_v65536.rar	e36ac45d1c5dcc2ca215225d887f999ea5c3257b
+sxs-drift_king_v65536.sfv	a4f9cecd127e1affdddc9a9b5c97c0dfe4774e28

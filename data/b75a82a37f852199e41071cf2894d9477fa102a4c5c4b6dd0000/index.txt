@@ -1,0 +1,12 @@
+sxs-river_city_girls_2_v65536.nfo	-	6524	1	0	0	0
+sxs-river_city_girls_2_v65536.r00	-	100000000	1	6524	0	1
+sxs-river_city_girls_2_v65536.r01	-	100000000	1	100006524	0	97
+sxs-river_city_girls_2_v65536.r02	-	100000000	1	200006524	0	193
+sxs-river_city_girls_2_v65536.r03	-	100000000	1	300006524	0	289
+sxs-river_city_girls_2_v65536.r04	-	100000000	1	400006524	0	385
+sxs-river_city_girls_2_v65536.r05	-	100000000	1	500006524	0	481
+sxs-river_city_girls_2_v65536.r06	-	100000000	1	62251264	1	60
+sxs-river_city_girls_2_v65536.r07	-	100000000	1	162251264	1	156
+sxs-river_city_girls_2_v65536.r08	-	74698191	1	262251264	1	252
+sxs-river_city_girls_2_v65536.rar	-	100000000	1	336949455	1	324
+sxs-river_city_girls_2_v65536.sfv	-	440	1	436949455	1	420

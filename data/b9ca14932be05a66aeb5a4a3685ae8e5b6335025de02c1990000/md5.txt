@@ -1,0 +1,7 @@
+v-the_sinking_city_v65536.nfo	8c75ddde8ca35dd0162ca2770c0879d5
+v-the_sinking_city_v65536.r00	7b7eca2b0efad640fcc116635f631595
+v-the_sinking_city_v65536.r01	3d9275d63468323f499fc91290e95a17
+v-the_sinking_city_v65536.r02	6e1ffacb568c7be500ad8f5ece499be2
+v-the_sinking_city_v65536.r03	6e89d2ea4468bd44a86283ecc8e480e0
+v-the_sinking_city_v65536.rar	217ff192b1304a2afb3d3c0c804d5376
+v-the_sinking_city_v65536.sfv	8fd8803b58d1f0f59616b0b9a06280da

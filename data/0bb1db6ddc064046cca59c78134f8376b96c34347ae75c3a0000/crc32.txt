@@ -1,0 +1,15 @@
+v-r-type_final_2_dlc_set_9r.nfo	3d267217
+v-r-type_final_2_dlc_set_9r.r00	3b0595c4
+v-r-type_final_2_dlc_set_9r.r01	f423f7fd
+v-r-type_final_2_dlc_set_9r.r02	ea9ddc01
+v-r-type_final_2_dlc_set_9r.r03	8d8599e1
+v-r-type_final_2_dlc_set_9r.r04	ada961d3
+v-r-type_final_2_dlc_set_9r.r05	5b1433cc
+v-r-type_final_2_dlc_set_9r.r06	9ed36ed4
+v-r-type_final_2_dlc_set_9r.r07	0fe7536b
+v-r-type_final_2_dlc_set_9r.r08	d5360355
+v-r-type_final_2_dlc_set_9r.r09	835cf8cb
+v-r-type_final_2_dlc_set_9r.r10	5bd7d764
+v-r-type_final_2_dlc_set_9r.r11	73dab0c2
+v-r-type_final_2_dlc_set_9r.rar	e9b107f1
+v-r-type_final_2_dlc_set_9r.sfv	06efd98c

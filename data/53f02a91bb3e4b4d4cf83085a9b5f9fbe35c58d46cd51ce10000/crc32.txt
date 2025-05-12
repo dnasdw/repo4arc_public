@@ -1,0 +1,8 @@
+v-lords_of_exile.nfo	8a48ad1f
+v-lords_of_exile.r00	cda193be
+v-lords_of_exile.r01	17e43005
+v-lords_of_exile.r02	94e38491
+v-lords_of_exile.r03	4f2290b1
+v-lords_of_exile.r04	6b09ca1b
+v-lords_of_exile.rar	fd8d1da6
+v-lords_of_exile.sfv	e6ed9272

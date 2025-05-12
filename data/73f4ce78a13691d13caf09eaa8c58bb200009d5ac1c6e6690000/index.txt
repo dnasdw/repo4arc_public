@@ -1,0 +1,5 @@
+v-borderlands_3_ultimate_edition_designers_cut_dlc.nfo	-	10270	1	0	0	0
+v-borderlands_3_ultimate_edition_designers_cut_dlc.r00	-	100000000	1	10270	0	1
+v-borderlands_3_ultimate_edition_designers_cut_dlc.r01	-	99510446	1	100010270	0	97
+v-borderlands_3_ultimate_edition_designers_cut_dlc.rar	-	100000000	1	199520716	0	192
+v-borderlands_3_ultimate_edition_designers_cut_dlc.sfv	-	195	1	299520716	0	288

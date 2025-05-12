@@ -1,0 +1,3 @@
+sxs-disjunction_v65536.nfo	-	4886	1	0	0	0
+sxs-disjunction_v65536.rar	-	45005864	1	4886	0	1
+sxs-disjunction_v65536.sfv	-	37	1	45010750	0	44

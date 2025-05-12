@@ -1,0 +1,8 @@
+sxs-hyperforma_v131072.nfo	7e2ab307
+sxs-hyperforma_v131072.r00	e232bbbc
+sxs-hyperforma_v131072.r01	035e0274
+sxs-hyperforma_v131072.r02	54ef40a1
+sxs-hyperforma_v131072.r03	df15ca8f
+sxs-hyperforma_v131072.r04	f7d00126
+sxs-hyperforma_v131072.rar	19393a61
+sxs-hyperforma_v131072.sfv	1ac908b5

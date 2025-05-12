@@ -1,0 +1,9 @@
+sxs-51_worldwide_classics_v65536.nfo	-	7304	1	0	0	0
+sxs-51_worldwide_classics_v65536.r00	-	50000000	1	7304	0	1
+sxs-51_worldwide_classics_v65536.r01	-	50000000	1	50007304	0	49
+sxs-51_worldwide_classics_v65536.r02	-	50000000	1	100007304	0	97
+sxs-51_worldwide_classics_v65536.r03	-	50000000	1	150007304	0	145
+sxs-51_worldwide_classics_v65536.r04	-	50000000	1	200007304	0	193
+sxs-51_worldwide_classics_v65536.r05	-	3894079	1	250007304	0	241
+sxs-51_worldwide_classics_v65536.rar	-	50000000	1	253901383	0	245
+sxs-51_worldwide_classics_v65536.sfv	-	329	1	303901383	0	293

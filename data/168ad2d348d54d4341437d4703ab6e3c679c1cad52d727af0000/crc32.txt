@@ -1,0 +1,9 @@
+hr-tetra.nfo	c33c6db1
+hr-tetra.r00	a575cbe9
+hr-tetra.r01	4048f3d5
+hr-tetra.r02	18c08c8f
+hr-tetra.r03	228a270d
+hr-tetra.r04	71862b23
+hr-tetra.r05	a1701baa
+hr-tetra.rar	51daa9ed
+hr-tetra.sfv	856f320e

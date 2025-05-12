@@ -1,0 +1,6 @@
+bbb-n-amjsa.nfo	-	5517	1	0	0	0
+bbb-n-amjsa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-amjsa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-amjsa.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-amjsa.part4.rar	-	154857389	1	212251264	1	203
+bbb-n-amjsa.sfv	-	128	1	367108653	1	351

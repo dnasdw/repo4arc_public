@@ -1,0 +1,16 @@
+v-lethal_league_blaze.nfo	d1d24082
+v-lethal_league_blaze.r00	70050bbf
+v-lethal_league_blaze.r01	1c2d0aa0
+v-lethal_league_blaze.r02	174fba57
+v-lethal_league_blaze.r03	632bd441
+v-lethal_league_blaze.r04	c97ba381
+v-lethal_league_blaze.r05	914f50b1
+v-lethal_league_blaze.r06	40fa4728
+v-lethal_league_blaze.r07	f74c5208
+v-lethal_league_blaze.r08	290f5fbc
+v-lethal_league_blaze.r09	7bd9c1fd
+v-lethal_league_blaze.r10	17354ae3
+v-lethal_league_blaze.r11	726e3bdf
+v-lethal_league_blaze.r12	dbb9da96
+v-lethal_league_blaze.rar	e4bba508
+v-lethal_league_blaze.sfv	92ab8229

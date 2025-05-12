@@ -1,0 +1,4 @@
+sxs-death_road_to_canada_v393216.nfo	-	4964	1	0	0	0
+sxs-death_road_to_canada_v393216.r00	-	14992260	1	4964	0	1
+sxs-death_road_to_canada_v393216.rar	-	50000000	1	14997224	0	16
+sxs-death_road_to_canada_v393216.sfv	-	94	1	64997224	0	64

@@ -1,0 +1,15 @@
+sxs-samshom_baiken_dlc.nfo	9b350e95
+sxs-samshom_baiken_dlc.r00	43617822
+sxs-samshom_baiken_dlc.r01	9a9753c4
+sxs-samshom_baiken_dlc.r02	5288444f
+sxs-samshom_baiken_dlc.r03	fe2e7022
+sxs-samshom_baiken_dlc.r04	89f7027d
+sxs-samshom_baiken_dlc.r05	1f7eb321
+sxs-samshom_baiken_dlc.r06	b296d1ab
+sxs-samshom_baiken_dlc.r07	3bb41fdd
+sxs-samshom_baiken_dlc.r08	afc2beb1
+sxs-samshom_baiken_dlc.r09	b2843b7e
+sxs-samshom_baiken_dlc.r10	20585dd4
+sxs-samshom_baiken_dlc.r11	59d14e36
+sxs-samshom_baiken_dlc.rar	b6cf97b4
+sxs-samshom_baiken_dlc.sfv	71adcd25

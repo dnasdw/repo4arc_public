@@ -1,0 +1,4 @@
+sxs-steel_assault_v65536.nfo	c1f034dcd49098cd6723e5aea317c4ac
+sxs-steel_assault_v65536.r00	e62d67d5c0632ae4857f102675113dc0
+sxs-steel_assault_v65536.rar	37e3822687a1a43fa85b5e50e51b9fb4
+sxs-steel_assault_v65536.sfv	e91e5269e9473ef3e2e695a29f0ddc50

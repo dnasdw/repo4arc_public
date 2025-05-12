@@ -1,0 +1,9 @@
+sxs-n64jp_v589824.nfo	fb1b4a30
+sxs-n64jp_v589824.r00	4668b6c9
+sxs-n64jp_v589824.r01	1050b6ba
+sxs-n64jp_v589824.r02	03d7ffc5
+sxs-n64jp_v589824.r03	0d682248
+sxs-n64jp_v589824.r04	63ccf486
+sxs-n64jp_v589824.r05	4f1af126
+sxs-n64jp_v589824.rar	1766573d
+sxs-n64jp_v589824.sfv	7ecfaf29

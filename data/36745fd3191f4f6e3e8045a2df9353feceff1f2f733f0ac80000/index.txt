@@ -1,0 +1,3 @@
+sxs-feeble_light.nfo	-	6290	1	0	0	0
+sxs-feeble_light.rar	-	70614557	1	6290	0	1
+sxs-feeble_light.sfv	-	31	1	70620847	0	69

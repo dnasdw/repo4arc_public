@@ -1,0 +1,4 @@
+sxs-the_legend_of_heroes_trails_into_reverie_v196608.nfo	-	5588	1	0	0	0
+sxs-the_legend_of_heroes_trails_into_reverie_v196608.r00	-	65648221	1	5588	0	1
+sxs-the_legend_of_heroes_trails_into_reverie_v196608.rar	-	100000000	1	65653809	0	64
+sxs-the_legend_of_heroes_trails_into_reverie_v196608.sfv	-	134	1	165653809	0	160

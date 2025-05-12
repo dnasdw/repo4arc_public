@@ -1,0 +1,17 @@
+sxs-two_hundred_ways.nfo	-	5744	1	0	0	0
+sxs-two_hundred_ways.r00	-	50000000	1	5744	0	1
+sxs-two_hundred_ways.r01	-	50000000	1	50005744	0	49
+sxs-two_hundred_ways.r02	-	50000000	1	100005744	0	97
+sxs-two_hundred_ways.r03	-	50000000	1	150005744	0	145
+sxs-two_hundred_ways.r04	-	50000000	1	200005744	0	193
+sxs-two_hundred_ways.r05	-	50000000	1	250005744	0	241
+sxs-two_hundred_ways.r06	-	50000000	1	300005744	0	289
+sxs-two_hundred_ways.r07	-	50000000	1	350005744	0	337
+sxs-two_hundred_ways.r08	-	50000000	1	400005744	0	385
+sxs-two_hundred_ways.r09	-	50000000	1	450005744	0	433
+sxs-two_hundred_ways.r10	-	50000000	1	500005744	0	481
+sxs-two_hundred_ways.r11	-	50000000	1	12251264	1	12
+sxs-two_hundred_ways.r12	-	50000000	1	62251264	1	60
+sxs-two_hundred_ways.r13	-	25261597	1	112251264	1	108
+sxs-two_hundred_ways.rar	-	50000000	1	137512861	1	133
+sxs-two_hundred_ways.sfv	-	525	1	187512861	1	181

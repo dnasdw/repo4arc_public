@@ -1,0 +1,4 @@
+v-teslagrad_remastered_v65536.nfo	-	8476	1	0	0	0
+v-teslagrad_remastered_v65536.r00	-	72233080	1	8476	0	1
+v-teslagrad_remastered_v65536.rar	-	100000000	1	72241556	0	70
+v-teslagrad_remastered_v65536.sfv	-	88	1	172241556	0	166

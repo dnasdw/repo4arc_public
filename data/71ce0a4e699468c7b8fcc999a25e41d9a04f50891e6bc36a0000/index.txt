@@ -1,0 +1,6 @@
+sxs-the_bug_butcher.nfo	-	5355	1	0	0	0
+sxs-the_bug_butcher.r00	-	50000000	1	5355	0	1
+sxs-the_bug_butcher.r01	-	50000000	1	50005355	0	49
+sxs-the_bug_butcher.r02	-	32221302	1	100005355	0	97
+sxs-the_bug_butcher.rar	-	50000000	1	132226657	0	128
+sxs-the_bug_butcher.sfv	-	136	1	182226657	0	176

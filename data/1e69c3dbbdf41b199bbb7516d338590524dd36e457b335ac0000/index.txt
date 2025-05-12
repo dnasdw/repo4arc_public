@@ -1,0 +1,4 @@
+sxs-lanota_v262144.nfo	-	6057	1	0	0	0
+sxs-lanota_v262144.r00	-	42004535	1	6057	0	1
+sxs-lanota_v262144.rar	-	50000192	1	42010592	0	42
+sxs-lanota_v262144.sfv	-	66	1	92010784	0	90

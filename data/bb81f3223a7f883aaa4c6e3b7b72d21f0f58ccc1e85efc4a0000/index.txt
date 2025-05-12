@@ -1,0 +1,5 @@
+sxs-mario_party_superstars_v65536.nfo	-	5978	1	0	0	0
+sxs-mario_party_superstars_v65536.r00	-	50000000	1	5978	0	1
+sxs-mario_party_superstars_v65536.r01	-	30096523	1	50005978	0	49
+sxs-mario_party_superstars_v65536.rar	-	50000000	1	80102501	0	78
+sxs-mario_party_superstars_v65536.sfv	-	144	1	130102501	0	126

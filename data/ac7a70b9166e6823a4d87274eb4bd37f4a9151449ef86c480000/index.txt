@@ -1,0 +1,8 @@
+sxs-octo_curse.nfo	-	5276	1	0	0	0
+sxs-octo_curse.r00	-	100000000	1	5276	0	1
+sxs-octo_curse.r01	-	100000000	1	100005276	0	97
+sxs-octo_curse.r02	-	100000000	1	200005276	0	193
+sxs-octo_curse.r03	-	100000000	1	300005276	0	289
+sxs-octo_curse.r04	-	77223680	1	400005276	0	385
+sxs-octo_curse.rar	-	100000000	1	477228956	0	459
+sxs-octo_curse.sfv	-	174	1	40231168	1	39

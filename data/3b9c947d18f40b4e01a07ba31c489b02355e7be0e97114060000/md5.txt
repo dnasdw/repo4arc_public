@@ -1,0 +1,6 @@
+lfc-wordify.nfo	ea0ed6c16e94571057cc356b56aad659
+lfc-wordify.r00	1867433bd6b13b4c659245b98a759247
+lfc-wordify.r01	a3f8b9a2647c36ff4759df7aee6fd24a
+lfc-wordify.r02	1121462b3e2431bdd9a5bc419b32aec6
+lfc-wordify.rar	6c6d99e0799588c3cdb85e91afae3142
+lfc-wordify.sfv	e3fbb7299a27dcd516774eb70e6edd18

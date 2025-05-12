@@ -1,0 +1,9 @@
+sxs-mech_rage_v65536.nfo	a08148a3f0dc3dcfd2f89655686f9f52
+sxs-mech_rage_v65536.r00	c441cce8ac643af83ef59ddf29346ecb
+sxs-mech_rage_v65536.r01	f0419c2d17e9b1b954bf93f7e5bbd325
+sxs-mech_rage_v65536.r02	b6e3d8710da8dd7395e6f2e4eec638fa
+sxs-mech_rage_v65536.r03	b59b799716851fdddc92d963a3e1fa3b
+sxs-mech_rage_v65536.r04	0a712b1d99e807584e47cef923dd3629
+sxs-mech_rage_v65536.r05	292a4ada3b48785dc9a82dd4f7422fd5
+sxs-mech_rage_v65536.rar	1c9ed6158b1b0f2c288aebdfdffe7867
+sxs-mech_rage_v65536.sfv	2513dcc01102f13887caa57956f3c026

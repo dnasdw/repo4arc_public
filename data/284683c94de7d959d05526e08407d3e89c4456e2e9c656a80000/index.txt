@@ -1,0 +1,3 @@
+bbb-n-aphea.nfo	-	5517	1	0	0	0
+bbb-n-aphea.rar	-	62233465	1	5517	0	1
+bbb-n-aphea.sfv	-	26	1	62238982	0	61

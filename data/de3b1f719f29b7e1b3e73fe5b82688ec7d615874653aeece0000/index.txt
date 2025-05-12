@@ -1,0 +1,8 @@
+sxs-you_suck_at_parking_v196608.nfo	-	5432	1	0	0	0
+sxs-you_suck_at_parking_v196608.r00	-	100000000	1	5432	0	1
+sxs-you_suck_at_parking_v196608.r01	-	100000000	1	100005432	0	97
+sxs-you_suck_at_parking_v196608.r02	-	100000000	1	200005432	0	193
+sxs-you_suck_at_parking_v196608.r03	-	100000000	1	300005432	0	289
+sxs-you_suck_at_parking_v196608.r04	-	18403586	1	400005432	0	385
+sxs-you_suck_at_parking_v196608.rar	-	100000000	1	418409018	0	403
+sxs-you_suck_at_parking_v196608.sfv	-	276	1	518409018	0	499

@@ -1,0 +1,10 @@
+sxs-warparty_v65536.nfo	287d6bb7cf04989e2e8e9a52294cb094
+sxs-warparty_v65536.r00	69ac48d01a67e2648557bc751e1499bc
+sxs-warparty_v65536.r01	5f21fa849eb0a46212db014be04fed7c
+sxs-warparty_v65536.r02	a441e53059f53b6832ed65acb0b82526
+sxs-warparty_v65536.r03	b239dff9fddc2cc99faf965815325a2e
+sxs-warparty_v65536.r04	a3e3a02714e6a2b08ec41912545bfa39
+sxs-warparty_v65536.r05	77f0d95c92b56e0ed23b54c91cff3f3b
+sxs-warparty_v65536.r06	6f48be6e5b5354bf7ee5d61d7eb307fa
+sxs-warparty_v65536.rar	28d3031a3fe01f368de9dc92542815c5
+sxs-warparty_v65536.sfv	d12ae2fd9adb7942ac62dbd800754dfa

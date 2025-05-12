@@ -1,0 +1,16 @@
+sxs-wizard_of_legend_v262144.nfo	aed8b89f
+sxs-wizard_of_legend_v262144.r00	e001a951
+sxs-wizard_of_legend_v262144.r01	7b978eab
+sxs-wizard_of_legend_v262144.r02	e9a92d8b
+sxs-wizard_of_legend_v262144.r03	d8255ad7
+sxs-wizard_of_legend_v262144.r04	fe9a8996
+sxs-wizard_of_legend_v262144.r05	61605d30
+sxs-wizard_of_legend_v262144.r06	e14b53c8
+sxs-wizard_of_legend_v262144.r07	20658631
+sxs-wizard_of_legend_v262144.r08	9e0f6680
+sxs-wizard_of_legend_v262144.r09	b89af380
+sxs-wizard_of_legend_v262144.r10	364c4dfa
+sxs-wizard_of_legend_v262144.r11	041a1845
+sxs-wizard_of_legend_v262144.r12	72cad905
+sxs-wizard_of_legend_v262144.rar	8ef5c4d1
+sxs-wizard_of_legend_v262144.sfv	d38a79d8

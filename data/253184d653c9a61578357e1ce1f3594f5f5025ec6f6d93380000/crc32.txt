@@ -1,0 +1,14 @@
+brw-nycd.nfo	a84e19a3
+brw-nycd.r00	a2ea8c7d
+brw-nycd.r01	02d264de
+brw-nycd.r02	4454df5c
+brw-nycd.r03	ec994417
+brw-nycd.r04	348f3b24
+brw-nycd.r05	69b2ecc9
+brw-nycd.r06	04b6fe22
+brw-nycd.r07	ab91c011
+brw-nycd.r08	14b200d6
+brw-nycd.r09	dcdd38a0
+brw-nycd.r10	ffa7ec08
+brw-nycd.rar	4a172c19
+brw-nycd.sfv	51c9081e

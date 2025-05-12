@@ -1,0 +1,4 @@
+v-mangavania.nfo	-	3952	1	0	0	0
+v-mangavania.r00	-	75265750	1	3952	0	1
+v-mangavania.rar	-	100000000	1	75269702	0	73
+v-mangavania.sfv	-	54	1	175269702	0	169

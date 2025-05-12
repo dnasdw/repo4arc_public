@@ -1,0 +1,4 @@
+bbb-n-af5ja.nfo	-	5517	1	0	0	0
+bbb-n-af5ja.part1.rar	-	250000000	1	5517	0	1
+bbb-n-af5ja.part2.rar	-	164934244	1	250005517	0	240
+bbb-n-af5ja.sfv	-	64	1	414939761	0	398

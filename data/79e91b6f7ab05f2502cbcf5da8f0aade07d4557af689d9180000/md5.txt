@@ -1,0 +1,6 @@
+sxs-aca_neogeo_3_count_bout.nfo	240fe48c8990b22a3812d1cffd2e6192
+sxs-aca_neogeo_3_count_bout.r00	44055b0ab1bc11c1efddc3296adffca4
+sxs-aca_neogeo_3_count_bout.r01	798e05ba1eb56255ef7ac060cabb5db7
+sxs-aca_neogeo_3_count_bout.r02	8e1fed43089329bb21ff50a21359dc24
+sxs-aca_neogeo_3_count_bout.rar	1296cb6619b138eedf6488188e09c72a
+sxs-aca_neogeo_3_count_bout.sfv	0a8a05527bdcda3b370e18c7d216409b

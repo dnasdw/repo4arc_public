@@ -1,0 +1,5 @@
+sxs-batman_the_telltale_series_v196608.nfo	-	4262	1	0	0	0
+sxs-batman_the_telltale_series_v196608.r00	-	50000000	1	4262	0	1
+sxs-batman_the_telltale_series_v196608.r01	-	10540408	1	50004262	0	49
+sxs-batman_the_telltale_series_v196608.rar	-	50000000	1	60544670	0	60
+sxs-batman_the_telltale_series_v196608.sfv	-	159	1	110544670	0	108

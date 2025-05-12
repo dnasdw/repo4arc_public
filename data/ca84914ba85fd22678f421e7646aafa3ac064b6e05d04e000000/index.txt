@@ -1,0 +1,8 @@
+v-dreamers_a_nostalgic_adventure_v65536.nfo	-	8242	1	0	0	0
+v-dreamers_a_nostalgic_adventure_v65536.r00	-	100000000	1	8242	0	1
+v-dreamers_a_nostalgic_adventure_v65536.r01	-	100000000	1	100008242	0	97
+v-dreamers_a_nostalgic_adventure_v65536.r02	-	100000000	1	200008242	0	193
+v-dreamers_a_nostalgic_adventure_v65536.r03	-	100000000	1	300008242	0	289
+v-dreamers_a_nostalgic_adventure_v65536.r04	-	335761	1	400008242	0	385
+v-dreamers_a_nostalgic_adventure_v65536.rar	-	100000000	1	400344003	0	386
+v-dreamers_a_nostalgic_adventure_v65536.sfv	-	324	1	500344003	0	482

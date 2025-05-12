@@ -1,0 +1,6 @@
+sxs-warborn_v524288.nfo	1ad3a67f8d0242933652cec1657b7f72
+sxs-warborn_v524288.r00	1e98d6af6274bc89fdc3b7ad651c4d89
+sxs-warborn_v524288.r01	247cd57e2dc9c35a36aff2a1d7e66e71
+sxs-warborn_v524288.r02	1af3abd2b84b870de29f6febb33b99c4
+sxs-warborn_v524288.rar	ab274bd53ab4733c8de38b8587a69c8b
+sxs-warborn_v524288.sfv	0168033b72a89cb328cd9961523b7041

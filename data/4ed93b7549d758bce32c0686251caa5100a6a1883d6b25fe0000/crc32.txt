@@ -1,0 +1,15 @@
+sxs-why_pizza.nfo	aed20a1c
+sxs-why_pizza.r00	2e2b9d11
+sxs-why_pizza.r01	9fce0bc8
+sxs-why_pizza.r02	bdcf9293
+sxs-why_pizza.r03	fed1a0ae
+sxs-why_pizza.r04	556c3ccb
+sxs-why_pizza.r05	83b16ccd
+sxs-why_pizza.r06	36562460
+sxs-why_pizza.r07	229241bb
+sxs-why_pizza.r08	6e827488
+sxs-why_pizza.r09	155e9200
+sxs-why_pizza.r10	4c7640ef
+sxs-why_pizza.r11	4a8eae1f
+sxs-why_pizza.rar	87c3e77b
+sxs-why_pizza.sfv	e62f613d

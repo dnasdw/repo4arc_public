@@ -1,0 +1,13 @@
+brw-chag.nfo	a476b45b
+brw-chag.r00	447d1276
+brw-chag.r01	6dbd8e67
+brw-chag.r02	a118b2a5
+brw-chag.r03	c5c74010
+brw-chag.r04	0352c752
+brw-chag.r05	d1c32b37
+brw-chag.r06	5e61a274
+brw-chag.r07	9437dbcc
+brw-chag.r08	6143c8e9
+brw-chag.r09	6d023fed
+brw-chag.rar	eb924c8a
+brw-chag.sfv	7d206231

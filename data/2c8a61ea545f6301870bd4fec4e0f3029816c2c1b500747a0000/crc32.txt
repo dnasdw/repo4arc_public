@@ -1,0 +1,11 @@
+v-everspace_v65536.nfo	f244552f
+v-everspace_v65536.r00	eb033134
+v-everspace_v65536.r01	90a8e163
+v-everspace_v65536.r02	dd99772b
+v-everspace_v65536.r03	4eac8e20
+v-everspace_v65536.r04	166cab28
+v-everspace_v65536.r05	129dab84
+v-everspace_v65536.r06	27f8356d
+v-everspace_v65536.r07	a2a3a243
+v-everspace_v65536.rar	837060f6
+v-everspace_v65536.sfv	c4854442

@@ -1,0 +1,5 @@
+sxs-mahjong_solitaire_refresh_v196608.nfo	-	4730	1	0	0	0
+sxs-mahjong_solitaire_refresh_v196608.r00	-	50000000	1	4730	0	1
+sxs-mahjong_solitaire_refresh_v196608.r01	-	80097	1	50004730	0	49
+sxs-mahjong_solitaire_refresh_v196608.rar	-	50000000	1	50084827	0	50
+sxs-mahjong_solitaire_refresh_v196608.sfv	-	156	1	100084827	0	98

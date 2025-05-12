@@ -1,0 +1,5 @@
+sxs-dungeon_color.nfo	080b535d2bade57a380e3f6a98ec23fa
+sxs-dungeon_color.r00	dfa5678cc11873b5e1e9a76ebbd1a527
+sxs-dungeon_color.r01	93d5ef8accc99d23efeebc2fdb97cb53
+sxs-dungeon_color.rar	2cf0b3066c16e6fe3f088615178d24c6
+sxs-dungeon_color.sfv	13e9654e96dad958bc28ecce625fc7ad

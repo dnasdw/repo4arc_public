@@ -1,0 +1,4 @@
+sxs-12isbetterthan6_v65536.nfo	-	6836	1	0	0	0
+sxs-12isbetterthan6_v65536.r00	-	18794298	1	6836	0	1
+sxs-12isbetterthan6_v65536.rar	-	50000000	1	18801134	0	19
+sxs-12isbetterthan6_v65536.sfv	-	82	1	68801134	0	67

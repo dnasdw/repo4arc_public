@@ -1,0 +1,8 @@
+brw-shkn.nfo	c0b156f8b68a7438277f1cd7de039ea0
+brw-shkn.r00	8c99e4344adb10c12f6c2f8ec92198b7
+brw-shkn.r01	6fc9add9ccd527249f29f5cc92a22df6
+brw-shkn.r02	1b5172809d4db8d4a8efcc7eaf395b75
+brw-shkn.r03	d94932ff9cfa4835b266009ef16f3acc
+brw-shkn.r04	161bb0e6c6a6a99d87a5ace1d389d403
+brw-shkn.rar	768afe7d624a9796dee18ce0386ebe85
+brw-shkn.sfv	318ad4fa686ed45114850f82f11b8d63

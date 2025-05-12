@@ -1,0 +1,4 @@
+sxs-robo_revenge_squad_v65536.nfo	fe8e60e0acabecc12f4ea42206d9d875
+sxs-robo_revenge_squad_v65536.r00	5ca570ccfa93e24a970ba8f1bde15efd
+sxs-robo_revenge_squad_v65536.rar	711372fb4c06c2588708ba4f89a3daaf
+sxs-robo_revenge_squad_v65536.sfv	224d6fe5eae62306e49a18fc0a9f1600

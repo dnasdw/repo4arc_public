@@ -1,0 +1,9 @@
+sxs-evolution_board_game_v589824.nfo	68a9f116
+sxs-evolution_board_game_v589824.r00	8cc3a786
+sxs-evolution_board_game_v589824.r01	e3b98718
+sxs-evolution_board_game_v589824.r02	998e0fd0
+sxs-evolution_board_game_v589824.r03	7b26ef37
+sxs-evolution_board_game_v589824.r04	beba5286
+sxs-evolution_board_game_v589824.r05	b74ad9ba
+sxs-evolution_board_game_v589824.rar	75c632e5
+sxs-evolution_board_game_v589824.sfv	5321a5c5

@@ -1,0 +1,7 @@
+bbb-n-akb3a.nfo	-	5517	1	0	0	0
+bbb-n-akb3a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-akb3a.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-akb3a.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-akb3a.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-akb3a.part5.rar	-	193493543	1	462251264	1	442
+bbb-n-akb3a.sfv	-	160	1	117996071	2	113

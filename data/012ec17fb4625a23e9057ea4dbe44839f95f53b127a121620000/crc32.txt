@@ -1,0 +1,9 @@
+sxs-urban_flow_v196608.nfo	c1470308
+sxs-urban_flow_v196608.r00	8db75573
+sxs-urban_flow_v196608.r01	92f3842f
+sxs-urban_flow_v196608.r02	c8b58ee0
+sxs-urban_flow_v196608.r03	505655a8
+sxs-urban_flow_v196608.r04	b28c635c
+sxs-urban_flow_v196608.r05	d6db404c
+sxs-urban_flow_v196608.rar	0a1a6654
+sxs-urban_flow_v196608.sfv	61908084

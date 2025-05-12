@@ -1,0 +1,13 @@
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/sxs-astronite.jpg	fb885fa8d6159cf4c6e8890219484378
+sxs-astronite.nfo	4fde0a2f066778b8813ca26e49efd3b3
+sxs-astronite.r00	fbff18871c7513899115864b72dd6a96
+sxs-astronite.r01	b3dbe15a7a33c436309a6aea77b6cde6
+sxs-astronite.r02	23580d29e52009da1d4492c3d2081536
+sxs-astronite.r03	603f2b13e4a2ab1a2abb29e1028bec33
+sxs-astronite.r04	3e60ae9db4790fe93c277d2b6b28a269
+sxs-astronite.r05	ed52ec5167fbf54ec712209483464c2c
+sxs-astronite.r06	c6dc2144c6b0029ac372ebdfc5d53565
+sxs-astronite.r07	e7fdc85bd4d5389948b60ec67fce9c18
+sxs-astronite.rar	fc73a6b4e2ad597baa94e1d2dd0dfe4c
+sxs-astronite.sfv	11d5b4f97a5d49738197645fd3554445

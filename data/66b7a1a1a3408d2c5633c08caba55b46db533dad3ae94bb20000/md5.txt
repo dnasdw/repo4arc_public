@@ -1,0 +1,6 @@
+lfc-rofr.nfo	a14d2ac0d63ae2721ad075d06f3f4f01
+lfc-rofr.r00	48f76c9157e94867235fe320c50874ad
+lfc-rofr.r01	64d92c4dc6f8fa8833672ce7f7beab6c
+lfc-rofr.r02	87a728b36dbddb208b877c515b61eae7
+lfc-rofr.rar	80dcef567baca8a5dba3e24d5e0b9e82
+lfc-rofr.sfv	2ea59e4976139c2a89a486e5d776654b

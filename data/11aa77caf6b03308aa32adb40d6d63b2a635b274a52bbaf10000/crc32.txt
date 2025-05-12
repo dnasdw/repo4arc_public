@@ -1,0 +1,8 @@
+sxs-fuga_melodies_of_steel_2_v262144.nfo	d8b14e06
+sxs-fuga_melodies_of_steel_2_v262144.r00	40dd1913
+sxs-fuga_melodies_of_steel_2_v262144.r01	9255ffc3
+sxs-fuga_melodies_of_steel_2_v262144.r02	b235ded8
+sxs-fuga_melodies_of_steel_2_v262144.r03	bd52f824
+sxs-fuga_melodies_of_steel_2_v262144.r04	e6931400
+sxs-fuga_melodies_of_steel_2_v262144.rar	7b23f087
+sxs-fuga_melodies_of_steel_2_v262144.sfv	54a355da

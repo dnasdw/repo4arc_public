@@ -1,0 +1,4 @@
+sxs-snk40ac_dlc.nfo	19f51f38
+sxs-snk40ac_dlc.r00	a10005e2
+sxs-snk40ac_dlc.rar	183fde46
+sxs-snk40ac_dlc.sfv	653f51ef

@@ -1,0 +1,4 @@
+sxs-diy_fashion_star.nfo	05a2b8939964a30c7432c29670b33d66
+sxs-diy_fashion_star.r00	284edbb03578c304b38f8e02a92a041e
+sxs-diy_fashion_star.rar	73580c92a661d0c0cdd38c12ca8d2495
+sxs-diy_fashion_star.sfv	f9b6483f3bedef3996c4c6b37a004fd3

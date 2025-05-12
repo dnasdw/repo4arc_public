@@ -1,0 +1,14 @@
+sxs-good_pizza_great_pizza_v196608.nfo	-	5354	1	0	0	0
+sxs-good_pizza_great_pizza_v196608.r00	-	50000000	1	5354	0	1
+sxs-good_pizza_great_pizza_v196608.r01	-	50000000	1	50005354	0	49
+sxs-good_pizza_great_pizza_v196608.r02	-	50000000	1	100005354	0	97
+sxs-good_pizza_great_pizza_v196608.r03	-	50000000	1	150005354	0	145
+sxs-good_pizza_great_pizza_v196608.r04	-	50000000	1	200005354	0	193
+sxs-good_pizza_great_pizza_v196608.r05	-	50000000	1	250005354	0	241
+sxs-good_pizza_great_pizza_v196608.r06	-	50000000	1	300005354	0	289
+sxs-good_pizza_great_pizza_v196608.r07	-	50000000	1	350005354	0	337
+sxs-good_pizza_great_pizza_v196608.r08	-	50000000	1	400005354	0	385
+sxs-good_pizza_great_pizza_v196608.r09	-	50000000	1	450005354	0	433
+sxs-good_pizza_great_pizza_v196608.r10	-	19324143	1	500005354	0	481
+sxs-good_pizza_great_pizza_v196608.rar	-	50000000	1	519329497	0	500
+sxs-good_pizza_great_pizza_v196608.sfv	-	588	1	32174208	1	31

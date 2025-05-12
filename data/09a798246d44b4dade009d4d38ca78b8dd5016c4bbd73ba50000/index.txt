@@ -1,0 +1,3 @@
+sxs-astro_bears_non_bears_dlc.nfo	-	5822	1	0	0	0
+sxs-astro_bears_non_bears_dlc.rar	-	104136	1	5822	0	1
+sxs-astro_bears_non_bears_dlc.sfv	-	44	1	109958	0	2

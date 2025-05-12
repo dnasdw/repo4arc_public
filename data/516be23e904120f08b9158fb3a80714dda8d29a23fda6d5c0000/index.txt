@@ -1,0 +1,14 @@
+v-arcade_tycoon.nfo	-	5044	1	0	0	0
+v-arcade_tycoon.r00	-	100000000	1	5044	0	1
+v-arcade_tycoon.r01	-	100000000	1	100005044	0	97
+v-arcade_tycoon.r02	-	100000000	1	200005044	0	193
+v-arcade_tycoon.r03	-	100000000	1	300005044	0	289
+v-arcade_tycoon.r04	-	100000000	1	400005044	0	385
+v-arcade_tycoon.r05	-	100000000	1	500005044	0	481
+v-arcade_tycoon.r06	-	100000000	1	62251264	1	60
+v-arcade_tycoon.r07	-	100000000	1	162251264	1	156
+v-arcade_tycoon.r08	-	100000000	1	262251264	1	252
+v-arcade_tycoon.r09	-	100000000	1	362251264	1	348
+v-arcade_tycoon.r10	-	77629177	1	462251264	1	444
+v-arcade_tycoon.rar	-	100000000	1	2131705	2	3
+v-arcade_tycoon.sfv	-	360	1	102131705	2	99

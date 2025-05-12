@@ -1,0 +1,3 @@
+bbb-n-apt2a.nfo	-	5517	1	0	0	0
+bbb-n-apt2a.rar	-	177594892	1	5517	0	1
+bbb-n-apt2a.sfv	-	26	1	177600409	0	171

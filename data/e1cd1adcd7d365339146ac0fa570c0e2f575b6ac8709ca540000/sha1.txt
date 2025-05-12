@@ -1,0 +1,6 @@
+sxs-destropolis.nfo	b764d4544a59f419d2bb8bb16eb6636a534db764
+sxs-destropolis.r00	04b0668a4684cbc8c32131aae6672135ee03f289
+sxs-destropolis.r01	0b77f55b3f63e7e5a847e244086edfa46f118ca0
+sxs-destropolis.r02	80628848dd9659a151addf4b318321b96286a5a3
+sxs-destropolis.rar	238abcb6f4e8bb168ee8d37ef22053849863eabf
+sxs-destropolis.sfv	c05458fbc59299b9b3ac5d79bb569df249880327

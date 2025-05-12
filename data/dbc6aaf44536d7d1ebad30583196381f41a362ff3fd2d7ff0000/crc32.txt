@@ -1,0 +1,6 @@
+brw-dsho.nfo	bc1303cf
+brw-dsho.r00	5ed22a9d
+brw-dsho.r01	534c23b9
+brw-dsho.r02	e8c0eb4e
+brw-dsho.rar	4bb38087
+brw-dsho.sfv	f43a0f75

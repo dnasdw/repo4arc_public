@@ -1,0 +1,4 @@
+sxs-gem_wizards_tactics_v65536.nfo	-	7148	1	0	0	0
+sxs-gem_wizards_tactics_v65536.r00	-	11920777	1	7148	0	1
+sxs-gem_wizards_tactics_v65536.rar	-	50000000	1	11927925	0	13
+sxs-gem_wizards_tactics_v65536.sfv	-	90	1	61927925	0	61

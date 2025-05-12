@@ -1,0 +1,5 @@
+brw-rbeg.nfo	d193868a31a04ab2137f8ad1945265400b4c98a4
+brw-rbeg.r00	72d00bab7aeb715534fa9eaa1bbd87ba9a9f4041
+brw-rbeg.r01	b4a8dfc223e21f3cb8b5fa4f523556743bdb4164
+brw-rbeg.rar	560f4ae7e9a84a696febf1c7cc3e8d0ce48b4b53
+brw-rbeg.sfv	5a81ed423db4bb3aa1ca31139260c125e3341485

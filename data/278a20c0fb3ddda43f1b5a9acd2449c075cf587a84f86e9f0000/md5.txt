@@ -1,0 +1,5 @@
+sxs-chop_goblins_v131072.nfo	cc197a3643b563292f3c83317f8536f2
+sxs-chop_goblins_v131072.r00	0a7b3bcd353d86b8fef93894ca326ad3
+sxs-chop_goblins_v131072.r01	a9a9d7cc1f0620b326d29247c5c30b86
+sxs-chop_goblins_v131072.rar	99cbc8eefc7b03ca7c67f833e38c8e20
+sxs-chop_goblins_v131072.sfv	280f05ce5bda885cb0e03b87e90a904d

@@ -1,0 +1,13 @@
+sxs-ender_lilies_quietus_of_the_knights_v458752.nfo	-	9722	1	0	0	0
+sxs-ender_lilies_quietus_of_the_knights_v458752.r00	-	100000000	1	9722	0	1
+sxs-ender_lilies_quietus_of_the_knights_v458752.r01	-	100000000	1	100009722	0	97
+sxs-ender_lilies_quietus_of_the_knights_v458752.r02	-	100000000	1	200009722	0	193
+sxs-ender_lilies_quietus_of_the_knights_v458752.r03	-	100000000	1	300009722	0	289
+sxs-ender_lilies_quietus_of_the_knights_v458752.r04	-	100000000	1	400009722	0	385
+sxs-ender_lilies_quietus_of_the_knights_v458752.r05	-	100000000	1	500009722	0	481
+sxs-ender_lilies_quietus_of_the_knights_v458752.r06	-	100000000	1	62251264	1	60
+sxs-ender_lilies_quietus_of_the_knights_v458752.r07	-	100000000	1	162251264	1	156
+sxs-ender_lilies_quietus_of_the_knights_v458752.r08	-	100000000	1	262251264	1	252
+sxs-ender_lilies_quietus_of_the_knights_v458752.r09	-	92880088	1	362251264	1	348
+sxs-ender_lilies_quietus_of_the_knights_v458752.rar	-	100000000	1	455131352	1	437
+sxs-ender_lilies_quietus_of_the_knights_v458752.sfv	-	682	1	18211072	2	18

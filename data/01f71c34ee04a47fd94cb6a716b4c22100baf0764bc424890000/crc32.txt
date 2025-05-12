@@ -1,0 +1,10 @@
+v-lunistice_v196608.nfo	9ef717de
+v-lunistice_v196608.r00	cbed9036
+v-lunistice_v196608.r01	1281b0b1
+v-lunistice_v196608.r02	09c0d919
+v-lunistice_v196608.r03	dfd3c4f2
+v-lunistice_v196608.r04	31026242
+v-lunistice_v196608.r05	0bad5b92
+v-lunistice_v196608.r06	5963ac7e
+v-lunistice_v196608.rar	d0e6fdc4
+v-lunistice_v196608.sfv	d67c4fbf

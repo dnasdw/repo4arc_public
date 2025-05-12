@@ -1,0 +1,8 @@
+lfc-amongus.nfo	e0b1586158f511c172de2054fb8010f6
+lfc-amongus.r00	bd5f56a864747d01daeda9aabfdce297
+lfc-amongus.r01	ec603bf51fd4439acd5879ed9a6449c6
+lfc-amongus.r02	8506db11ba4916e26b0b3046e35f8aa9
+lfc-amongus.r03	7cd4bd192f53193b52a2d18fe3c6911c
+lfc-amongus.r04	03c86649f1bdf9e29f166c466bc9a1bf
+lfc-amongus.rar	688582f7d3fa8439e3971594eff59cde
+lfc-amongus.sfv	d332f9422390e61c0c341c8cf4a2ba1c

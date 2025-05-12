@@ -1,0 +1,10 @@
+sxs-jehu.nfo	07e13da47cb956618154f69edc34ed4d
+sxs-jehu.r00	d5fc7c2391272efaa871a2050f253263
+sxs-jehu.r01	4ae63ac945f86aace512f76b5b3fb1c7
+sxs-jehu.r02	7139dd22d1861301ba7014655907cc5e
+sxs-jehu.r03	8fc5a3d483a7e8969bde98a88fca234c
+sxs-jehu.r04	c9c90e0f802db10c5c35274e2ff4a574
+sxs-jehu.r05	98d4cc376b02fe813b744cc62df6c9af
+sxs-jehu.r06	d4ce760c3f821078c2cd5def7314be1a
+sxs-jehu.rar	b18d9b77897da7e192beded378371831
+sxs-jehu.sfv	8ba1d831a2c89949e49e311d6f3f6ecc

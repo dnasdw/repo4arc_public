@@ -1,0 +1,17 @@
+v-duke_nukem_3d_20th_anniversary_world_tour.nfo	-	4342	1	0	0	0
+v-duke_nukem_3d_20th_anniversary_world_tour.r00	-	50000000	1	4342	0	1
+v-duke_nukem_3d_20th_anniversary_world_tour.r01	-	50000000	1	50004342	0	49
+v-duke_nukem_3d_20th_anniversary_world_tour.r02	-	50000000	1	100004342	0	97
+v-duke_nukem_3d_20th_anniversary_world_tour.r03	-	50000000	1	150004342	0	145
+v-duke_nukem_3d_20th_anniversary_world_tour.r04	-	50000000	1	200004342	0	193
+v-duke_nukem_3d_20th_anniversary_world_tour.r05	-	50000000	1	250004342	0	241
+v-duke_nukem_3d_20th_anniversary_world_tour.r06	-	50000000	1	300004342	0	289
+v-duke_nukem_3d_20th_anniversary_world_tour.r07	-	50000000	1	350004342	0	337
+v-duke_nukem_3d_20th_anniversary_world_tour.r08	-	50000000	1	400004342	0	385
+v-duke_nukem_3d_20th_anniversary_world_tour.r09	-	50000000	1	450004342	0	433
+v-duke_nukem_3d_20th_anniversary_world_tour.r10	-	50000000	1	500004342	0	481
+v-duke_nukem_3d_20th_anniversary_world_tour.r11	-	50000000	1	12251264	1	12
+v-duke_nukem_3d_20th_anniversary_world_tour.r12	-	50000000	1	62251264	1	60
+v-duke_nukem_3d_20th_anniversary_world_tour.r13	-	25426578	1	112251264	1	108
+v-duke_nukem_3d_20th_anniversary_world_tour.rar	-	50000000	1	137677842	1	133
+v-duke_nukem_3d_20th_anniversary_world_tour.sfv	-	870	1	187677842	1	181

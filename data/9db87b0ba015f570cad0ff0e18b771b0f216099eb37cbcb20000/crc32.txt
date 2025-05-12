@@ -1,0 +1,17 @@
+lfc-veed.nfo	a89d05fa
+lfc-veed.r00	576058b5
+lfc-veed.r01	6153f0ce
+lfc-veed.r02	f02639b8
+lfc-veed.r03	180073b3
+lfc-veed.r04	06c932a8
+lfc-veed.r05	dbc3e977
+lfc-veed.r06	988e437c
+lfc-veed.r07	6faec41b
+lfc-veed.r08	2a33ef86
+lfc-veed.r09	bf99206c
+lfc-veed.r10	05b46654
+lfc-veed.r11	bb558a8d
+lfc-veed.r12	22d47bec
+lfc-veed.r13	da1cdcf0
+lfc-veed.rar	7784aded
+lfc-veed.sfv	05417b82

@@ -1,0 +1,12 @@
+sxs-chop_goblins.nfo	-	4886	1	0	0	0
+sxs-chop_goblins.r00	-	100000000	1	4886	0	1
+sxs-chop_goblins.r01	-	100000000	1	100004886	0	97
+sxs-chop_goblins.r02	-	100000000	1	200004886	0	193
+sxs-chop_goblins.r03	-	100000000	1	300004886	0	289
+sxs-chop_goblins.r04	-	100000000	1	400004886	0	385
+sxs-chop_goblins.r05	-	100000000	1	500004886	0	481
+sxs-chop_goblins.r06	-	100000000	1	62251264	1	60
+sxs-chop_goblins.r07	-	100000000	1	162251264	1	156
+sxs-chop_goblins.r08	-	58128331	1	262251264	1	252
+sxs-chop_goblins.rar	-	100000000	1	320379595	1	308
+sxs-chop_goblins.sfv	-	310	1	420379595	1	404

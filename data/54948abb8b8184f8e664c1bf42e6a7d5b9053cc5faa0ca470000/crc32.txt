@@ -1,0 +1,6 @@
+v-clue_v65536.nfo	91e101c7
+v-clue_v65536.r00	21fbf3aa
+v-clue_v65536.r01	84cb711f
+v-clue_v65536.r02	92854f5c
+v-clue_v65536.rar	f9e30b56
+v-clue_v65536.sfv	fc92ac05

@@ -1,0 +1,8 @@
+v-sayonara_wild_hearts_v65536.nfo	c20c3fa4
+v-sayonara_wild_hearts_v65536.r00	b150f69f
+v-sayonara_wild_hearts_v65536.r01	98c2ad17
+v-sayonara_wild_hearts_v65536.r02	b43d1009
+v-sayonara_wild_hearts_v65536.r03	9b628d44
+v-sayonara_wild_hearts_v65536.r04	34df05a6
+v-sayonara_wild_hearts_v65536.rar	f404a056
+v-sayonara_wild_hearts_v65536.sfv	58799524

@@ -1,0 +1,17 @@
+sxs-suzerain_v131072.nfo	93cdca1b
+sxs-suzerain_v131072.r00	7a39c26e
+sxs-suzerain_v131072.r01	44fec09a
+sxs-suzerain_v131072.r02	5c94be05
+sxs-suzerain_v131072.r03	6178c916
+sxs-suzerain_v131072.r04	a063c8c5
+sxs-suzerain_v131072.r05	26a5d08f
+sxs-suzerain_v131072.r06	31d95f40
+sxs-suzerain_v131072.r07	20f0757e
+sxs-suzerain_v131072.r08	2da36a7f
+sxs-suzerain_v131072.r09	35be9520
+sxs-suzerain_v131072.r10	92da9f23
+sxs-suzerain_v131072.r11	ec14b7fd
+sxs-suzerain_v131072.r12	de424eed
+sxs-suzerain_v131072.r13	1d7fb458
+sxs-suzerain_v131072.rar	8c628812
+sxs-suzerain_v131072.sfv	2ec2077f

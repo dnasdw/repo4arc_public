@@ -1,0 +1,13 @@
+v-civilization_vi_v327680.nfo	13fb0ea5
+v-civilization_vi_v327680.r00	e9023418
+v-civilization_vi_v327680.r01	c74438ae
+v-civilization_vi_v327680.r02	a53b2bfa
+v-civilization_vi_v327680.r03	4c49a6d5
+v-civilization_vi_v327680.r04	79131d55
+v-civilization_vi_v327680.r05	c385803a
+v-civilization_vi_v327680.r06	492c64b4
+v-civilization_vi_v327680.r07	e88732aa
+v-civilization_vi_v327680.r08	06776e67
+v-civilization_vi_v327680.r09	0ad716e4
+v-civilization_vi_v327680.rar	bdabae6e
+v-civilization_vi_v327680.sfv	debfb8a9

@@ -1,0 +1,12 @@
+sxs-lil_guardsman.nfo	28a511b1
+sxs-lil_guardsman.r00	ef5ac3d3
+sxs-lil_guardsman.r01	b33aad72
+sxs-lil_guardsman.r02	daf624a0
+sxs-lil_guardsman.r03	e47f05a9
+sxs-lil_guardsman.r04	dd8b0a0e
+sxs-lil_guardsman.r05	b75e6157
+sxs-lil_guardsman.r06	bb2be669
+sxs-lil_guardsman.r07	0c259fdd
+sxs-lil_guardsman.r08	a97b32d4
+sxs-lil_guardsman.rar	35efac6e
+sxs-lil_guardsman.sfv	f9e7b12c

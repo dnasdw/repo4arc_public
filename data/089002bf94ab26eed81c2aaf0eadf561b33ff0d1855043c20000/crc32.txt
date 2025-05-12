@@ -1,0 +1,6 @@
+sxs-bqm_blockquest_maker_v851968.nfo	a654e83b
+sxs-bqm_blockquest_maker_v851968.r00	db8ca092
+sxs-bqm_blockquest_maker_v851968.r01	74220ef1
+sxs-bqm_blockquest_maker_v851968.r02	8faa732d
+sxs-bqm_blockquest_maker_v851968.rar	9cb8eb91
+sxs-bqm_blockquest_maker_v851968.sfv	f020091b

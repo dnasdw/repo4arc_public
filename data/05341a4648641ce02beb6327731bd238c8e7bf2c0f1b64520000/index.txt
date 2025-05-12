@@ -1,0 +1,16 @@
+lfc-chickenrider.nfo	-	4622	1	0	0	0
+lfc-chickenrider.r00	-	50000000	1	4622	0	1
+lfc-chickenrider.r01	-	50000000	1	50004622	0	49
+lfc-chickenrider.r02	-	50000000	1	100004622	0	97
+lfc-chickenrider.r03	-	50000000	1	150004622	0	145
+lfc-chickenrider.r04	-	50000000	1	200004622	0	193
+lfc-chickenrider.r05	-	50000000	1	250004622	0	241
+lfc-chickenrider.r06	-	50000000	1	300004622	0	289
+lfc-chickenrider.r07	-	50000000	1	350004622	0	337
+lfc-chickenrider.r08	-	50000000	1	400004622	0	385
+lfc-chickenrider.r09	-	50000000	1	450004622	0	433
+lfc-chickenrider.r10	-	50000000	1	500004622	0	481
+lfc-chickenrider.r11	-	50000000	1	12251264	1	12
+lfc-chickenrider.r12	-	9474584	1	62251264	1	60
+lfc-chickenrider.rar	-	50000000	1	71725848	1	70
+lfc-chickenrider.sfv	-	434	1	121725848	1	118

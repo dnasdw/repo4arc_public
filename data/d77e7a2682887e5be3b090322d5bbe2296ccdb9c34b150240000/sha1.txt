@@ -1,0 +1,4 @@
+lfc-ulti.nfo	8b2b5ceebf5fd2ccfb2ff2cc9c9abbae5e70b51b
+lfc-ulti.r00	90fdcd083365222ae41bc8c7db42e7ef956bd983
+lfc-ulti.rar	c7a563256e8b3dccfcbdef82d9739ba447d015a3
+lfc-ulti.sfv	811b5427dc29fc9b5fe7babfd8c4c241e1bee974

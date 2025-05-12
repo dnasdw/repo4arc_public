@@ -1,0 +1,9 @@
+sxs-hidden_through_time_2_myths_and_magic.nfo	-	6680	1	0	0	0
+sxs-hidden_through_time_2_myths_and_magic.r00	-	100000000	1	6680	0	1
+sxs-hidden_through_time_2_myths_and_magic.r01	-	100000000	1	100006680	0	97
+sxs-hidden_through_time_2_myths_and_magic.r02	-	100000000	1	200006680	0	193
+sxs-hidden_through_time_2_myths_and_magic.r03	-	100000000	1	300006680	0	289
+sxs-hidden_through_time_2_myths_and_magic.r04	-	100000000	1	400006680	0	385
+sxs-hidden_through_time_2_myths_and_magic.r05	-	87964392	1	500006680	0	481
+sxs-hidden_through_time_2_myths_and_magic.rar	-	100000000	1	50215656	1	48
+sxs-hidden_through_time_2_myths_and_magic.sfv	-	392	1	150215656	1	144

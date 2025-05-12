@@ -1,0 +1,15 @@
+sxs-potion_permit_v458752.nfo	2391d00f
+sxs-potion_permit_v458752.r00	546c28c6
+sxs-potion_permit_v458752.r01	24078e43
+sxs-potion_permit_v458752.r02	cf8df187
+sxs-potion_permit_v458752.r03	3f26a05f
+sxs-potion_permit_v458752.r04	8e04d42c
+sxs-potion_permit_v458752.r05	a82d1e35
+sxs-potion_permit_v458752.r06	e510e95d
+sxs-potion_permit_v458752.r07	7aef3a90
+sxs-potion_permit_v458752.r08	4a744763
+sxs-potion_permit_v458752.r09	4874c0c0
+sxs-potion_permit_v458752.r10	0d87ebac
+sxs-potion_permit_v458752.r11	c07cbd3a
+sxs-potion_permit_v458752.rar	63773d05
+sxs-potion_permit_v458752.sfv	7b6a758e

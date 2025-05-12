@@ -1,0 +1,3 @@
+sxs-asdivine_dios_dlc.nfo	-	5042	1	0	0	0
+sxs-asdivine_dios_dlc.rar	-	623587	1	5042	0	1
+sxs-asdivine_dios_dlc.sfv	-	36	1	628629	0	2

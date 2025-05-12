@@ -1,0 +1,17 @@
+sxs-goonya_monster_v262144.nfo	4bdf44be
+sxs-goonya_monster_v262144.r00	01a169e0
+sxs-goonya_monster_v262144.r01	e4b6d44c
+sxs-goonya_monster_v262144.r02	2b6f8b0a
+sxs-goonya_monster_v262144.r03	619fd246
+sxs-goonya_monster_v262144.r04	cec34d55
+sxs-goonya_monster_v262144.r05	9a31e3a5
+sxs-goonya_monster_v262144.r06	cf39c7ee
+sxs-goonya_monster_v262144.r07	9d68f7f1
+sxs-goonya_monster_v262144.r08	39f0ef98
+sxs-goonya_monster_v262144.r09	4232c0e6
+sxs-goonya_monster_v262144.r10	fa3f6d1f
+sxs-goonya_monster_v262144.r11	fc1868c8
+sxs-goonya_monster_v262144.r12	ff0d89a3
+sxs-goonya_monster_v262144.r13	6c9b2412
+sxs-goonya_monster_v262144.rar	ebb92cdf
+sxs-goonya_monster_v262144.sfv	0117376a

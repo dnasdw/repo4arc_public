@@ -1,0 +1,5 @@
+v-samurai_shodown_sogetsu_dlc.nfo	-	6682	1	0	0	0
+v-samurai_shodown_sogetsu_dlc.r00	-	50000000	1	6682	0	1
+v-samurai_shodown_sogetsu_dlc.r01	-	4485993	1	50006682	0	49
+v-samurai_shodown_sogetsu_dlc.rar	-	50000000	1	54492675	0	54
+v-samurai_shodown_sogetsu_dlc.sfv	-	132	1	104492675	0	102

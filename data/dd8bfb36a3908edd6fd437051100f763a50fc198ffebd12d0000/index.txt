@@ -1,0 +1,5 @@
+sxs-cook_serve_delicious_3_v131072.nfo	-	5978	1	0	0	0
+sxs-cook_serve_delicious_3_v131072.r00	-	50000000	1	5978	0	1
+sxs-cook_serve_delicious_3_v131072.r01	-	36899733	1	50005978	0	49
+sxs-cook_serve_delicious_3_v131072.rar	-	50000000	1	86905711	0	85
+sxs-cook_serve_delicious_3_v131072.sfv	-	147	1	136905711	0	133

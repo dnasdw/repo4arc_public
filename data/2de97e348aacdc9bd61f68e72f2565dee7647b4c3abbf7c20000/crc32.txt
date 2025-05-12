@@ -1,0 +1,11 @@
+sxs-just_die_already_v131072.nfo	968b45b8
+sxs-just_die_already_v131072.r00	02802816
+sxs-just_die_already_v131072.r01	7f85eb19
+sxs-just_die_already_v131072.r02	d1d289bc
+sxs-just_die_already_v131072.r03	637019aa
+sxs-just_die_already_v131072.r04	991d691a
+sxs-just_die_already_v131072.r05	e47583ec
+sxs-just_die_already_v131072.r06	390ff824
+sxs-just_die_already_v131072.r07	9c049953
+sxs-just_die_already_v131072.rar	0cd3807f
+sxs-just_die_already_v131072.sfv	6910f855

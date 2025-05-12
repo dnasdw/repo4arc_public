@@ -1,0 +1,8 @@
+delight.nfo	974220d8
+dl-smatch123.r00	52990423
+dl-smatch123.r01	f57a42d2
+dl-smatch123.r02	c14c505f
+dl-smatch123.r03	2d430307
+dl-smatch123.r04	c8dbedca
+dl-smatch123.rar	cf0345e4
+dl-smatch123.sfv	d05ab36a

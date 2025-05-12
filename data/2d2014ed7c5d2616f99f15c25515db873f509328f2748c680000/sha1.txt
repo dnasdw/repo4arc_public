@@ -1,0 +1,3 @@
+v-doom_ii_revolution_dlc.nfo	1435bb052396088895dbde2a44e2d4f454ab2384
+v-doom_ii_revolution_dlc.rar	3ce0e888944cc5a2608760a85c09a3b0d9183a5d
+v-doom_ii_revolution_dlc.sfv	2c5bd7186d0f631570d8454ca9b1c66e4e208452

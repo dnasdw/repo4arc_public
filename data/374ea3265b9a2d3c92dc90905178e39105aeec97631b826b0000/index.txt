@@ -1,0 +1,5 @@
+sxs-gundam_gen_dlc_v393216.nfo	-	41883	1	0	0	0
+sxs-gundam_gen_dlc_v393216.r00	-	50000000	1	41883	0	1
+sxs-gundam_gen_dlc_v393216.r01	-	15955325	1	50041883	0	49
+sxs-gundam_gen_dlc_v393216.rar	-	50000000	1	65997208	0	65
+sxs-gundam_gen_dlc_v393216.sfv	-	123	1	115997208	0	113

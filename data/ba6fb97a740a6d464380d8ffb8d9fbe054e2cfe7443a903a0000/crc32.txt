@@ -1,0 +1,11 @@
+sxs-sausage_wars.nfo	8d69e4e0
+sxs-sausage_wars.r00	4a35b323
+sxs-sausage_wars.r01	9e5d2883
+sxs-sausage_wars.r02	d7fc8abd
+sxs-sausage_wars.r03	e7ffd659
+sxs-sausage_wars.r04	e0e7dfc9
+sxs-sausage_wars.r05	c223f6c2
+sxs-sausage_wars.r06	2a4d7af3
+sxs-sausage_wars.r07	088a09cb
+sxs-sausage_wars.rar	8e03aa9d
+sxs-sausage_wars.sfv	d11b2fdf

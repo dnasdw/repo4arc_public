@@ -1,0 +1,5 @@
+v-deadcraft_v196608.nfo	8a5a9886d4c0426c9205d7de554690b1
+v-deadcraft_v196608.r00	4d83fd035d0aa07830c22e87c51abbe9
+v-deadcraft_v196608.r01	648fa5d92fc0b9feb4b3b17ae8d2a24c
+v-deadcraft_v196608.rar	f846eed2d970942a484f12b945663067
+v-deadcraft_v196608.sfv	785f566f2ad0dd804fdb294e8a88e7aa

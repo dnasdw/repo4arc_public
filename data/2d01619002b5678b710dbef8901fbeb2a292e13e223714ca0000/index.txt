@@ -1,0 +1,10 @@
+v-doom_ii_classic.nfo	-	4810	1	0	0	0
+v-doom_ii_classic.r00	-	50000000	1	4810	0	1
+v-doom_ii_classic.r01	-	50000000	1	50004810	0	49
+v-doom_ii_classic.r02	-	50000000	1	100004810	0	97
+v-doom_ii_classic.r03	-	50000000	1	150004810	0	145
+v-doom_ii_classic.r04	-	50000000	1	200004810	0	193
+v-doom_ii_classic.r05	-	50000000	1	250004810	0	241
+v-doom_ii_classic.r06	-	18553486	1	300004810	0	289
+v-doom_ii_classic.rar	-	50000000	1	318558296	0	307
+v-doom_ii_classic.sfv	-	256	1	368558296	0	355

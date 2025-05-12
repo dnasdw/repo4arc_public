@@ -1,0 +1,7 @@
+sxs-dungeon_and_gravestone_v720896.nfo	-	4340	1	0	0	0
+sxs-dungeon_and_gravestone_v720896.r00	-	50000000	1	4340	0	1
+sxs-dungeon_and_gravestone_v720896.r01	-	50000000	1	50004340	0	49
+sxs-dungeon_and_gravestone_v720896.r02	-	50000000	1	100004340	0	97
+sxs-dungeon_and_gravestone_v720896.r03	-	36294241	1	150004340	0	145
+sxs-dungeon_and_gravestone_v720896.rar	-	50000000	1	186298581	0	180
+sxs-dungeon_and_gravestone_v720896.sfv	-	245	1	236298581	0	228

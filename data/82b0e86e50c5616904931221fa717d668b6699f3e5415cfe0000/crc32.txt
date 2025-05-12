@@ -1,0 +1,16 @@
+sxs-two_point_campus_v917504.nfo	4459967b
+sxs-two_point_campus_v917504.r00	b9323f43
+sxs-two_point_campus_v917504.r01	241cfc64
+sxs-two_point_campus_v917504.r02	af1dc268
+sxs-two_point_campus_v917504.r03	4e3a4d39
+sxs-two_point_campus_v917504.r04	2d103df0
+sxs-two_point_campus_v917504.r05	37ad86dd
+sxs-two_point_campus_v917504.r06	0f34cb3e
+sxs-two_point_campus_v917504.r07	88af1a24
+sxs-two_point_campus_v917504.r08	d1c07552
+sxs-two_point_campus_v917504.r09	9d77468c
+sxs-two_point_campus_v917504.r10	6d921d1f
+sxs-two_point_campus_v917504.r11	e9786743
+sxs-two_point_campus_v917504.r12	cd8b0f1a
+sxs-two_point_campus_v917504.rar	921ece80
+sxs-two_point_campus_v917504.sfv	fc746631

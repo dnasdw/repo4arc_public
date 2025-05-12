@@ -1,0 +1,4 @@
+lfc-ulti.nfo	-	5435	1	0	0	0
+lfc-ulti.r00	-	21963186	1	5435	0	1
+lfc-ulti.rar	-	50000000	1	21968621	0	22
+lfc-ulti.sfv	-	46	1	71968621	0	70

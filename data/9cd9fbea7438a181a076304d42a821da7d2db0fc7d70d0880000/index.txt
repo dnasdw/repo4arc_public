@@ -1,0 +1,4 @@
+sxs-drift_king_v65536.nfo	-	6446	1	0	0	0
+sxs-drift_king_v65536.r00	-	9458279	1	6446	0	1
+sxs-drift_king_v65536.rar	-	50000000	1	9464725	0	11
+sxs-drift_king_v65536.sfv	-	72	1	59464725	0	59

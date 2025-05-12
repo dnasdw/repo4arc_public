@@ -1,0 +1,7 @@
+lfc-runthefan.nfo	8249ffe1b4317c40ff3b49a0111023d4
+lfc-runthefan.r00	dcd058d6ec95ffbb9f7061d712f71ae6
+lfc-runthefan.r01	37edd4353a1bfa407ba55f8e38a3eff1
+lfc-runthefan.r02	bf84f7a9885cd049f6cd68cf097af096
+lfc-runthefan.r03	084bd970f9497e21c7e5dbc38e0a0151
+lfc-runthefan.rar	ff8623b2fcfb081fe6065009baede277
+lfc-runthefan.sfv	a8184d79eb8dd2fb34caba7162eee651

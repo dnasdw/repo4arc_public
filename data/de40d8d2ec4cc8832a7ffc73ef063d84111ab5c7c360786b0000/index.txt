@@ -1,0 +1,6 @@
+v-story_of_a_gladiator_v65536.nfo	-	6058	1	0	0	0
+v-story_of_a_gladiator_v65536.r00	-	50000000	1	6058	0	1
+v-story_of_a_gladiator_v65536.r01	-	50000000	1	50006058	0	49
+v-story_of_a_gladiator_v65536.r02	-	38840417	1	100006058	0	97
+v-story_of_a_gladiator_v65536.rar	-	50000000	1	138846475	0	135
+v-story_of_a_gladiator_v65536.sfv	-	176	1	188846475	0	183

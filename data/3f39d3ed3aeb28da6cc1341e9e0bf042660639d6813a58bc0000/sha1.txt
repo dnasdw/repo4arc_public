@@ -1,0 +1,3 @@
+v-mario_vs_donkey_kong_v65536.nfo	38efedb1ea3a05d3b2ce959bf286732a87a85bd1
+v-mario_vs_donkey_kong_v65536.rar	5500ae205cd144419593a417ae249ab4acafe5aa
+v-mario_vs_donkey_kong_v65536.sfv	6b5af1bc4d4c034d7f71683c6c2b89da566c4126

@@ -1,0 +1,5 @@
+sxs-cuphead_v196608.nfo	b298c4d0
+sxs-cuphead_v196608.r00	2e0aad20
+sxs-cuphead_v196608.r01	9201eedf
+sxs-cuphead_v196608.rar	e2ed8f0a
+sxs-cuphead_v196608.sfv	f9721624

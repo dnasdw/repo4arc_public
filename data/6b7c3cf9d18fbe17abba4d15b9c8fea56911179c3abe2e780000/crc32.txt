@@ -1,0 +1,5 @@
+v-samurai_shodown_iroha_dlc.nfo	00e8fdab
+v-samurai_shodown_iroha_dlc.r00	6eff2412
+v-samurai_shodown_iroha_dlc.r01	5da40926
+v-samurai_shodown_iroha_dlc.rar	2d6c5550
+v-samurai_shodown_iroha_dlc.sfv	6985865c

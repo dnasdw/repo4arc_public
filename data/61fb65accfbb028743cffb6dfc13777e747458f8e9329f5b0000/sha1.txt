@@ -1,0 +1,3 @@
+sxs-ashen_nightstorm_dlc.nfo	229fb26d4ff0c0d2af6a52e13c5332d3f308663b
+sxs-ashen_nightstorm_dlc.rar	bafc2a1f880739078a4b072dd7f9fff3cc913a51
+sxs-ashen_nightstorm_dlc.sfv	757acbac59583f595ef2537cf78feca27fb3f0fa

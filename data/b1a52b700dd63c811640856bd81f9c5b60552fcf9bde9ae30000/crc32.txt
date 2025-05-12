@@ -1,0 +1,7 @@
+sxs-grid_autosport_v131072.nfo	47d2ad82
+sxs-grid_autosport_v131072.r00	7a09d343
+sxs-grid_autosport_v131072.r01	f43a8dec
+sxs-grid_autosport_v131072.r02	9c55dbb6
+sxs-grid_autosport_v131072.r03	eba66087
+sxs-grid_autosport_v131072.rar	ea972a28
+sxs-grid_autosport_v131072.sfv	56d4ffde

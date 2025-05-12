@@ -1,0 +1,16 @@
+sxs-still_there.nfo	31a15675
+sxs-still_there.r00	66ccef35
+sxs-still_there.r01	91482c92
+sxs-still_there.r02	aad4d352
+sxs-still_there.r03	8b2adcbf
+sxs-still_there.r04	0b44af89
+sxs-still_there.r05	71ac504c
+sxs-still_there.r06	92624fd6
+sxs-still_there.r07	d7139489
+sxs-still_there.r08	f3e300f8
+sxs-still_there.r09	18a2ce29
+sxs-still_there.r10	bf4ce559
+sxs-still_there.r11	8634ff2a
+sxs-still_there.r12	184a32d4
+sxs-still_there.rar	0778986b
+sxs-still_there.sfv	d69d2548

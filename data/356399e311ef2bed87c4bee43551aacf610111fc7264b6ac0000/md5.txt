@@ -1,0 +1,8 @@
+sxs-asscrr_ru_dlc.nfo	fc186c492fcfc91fd06d4e57a22d838d
+sxs-asscrr_ru_dlc.r00	f9114a96dda35d3453eefa159149d864
+sxs-asscrr_ru_dlc.r01	b7e8eeac0f4bbf1410b079a24acc1817
+sxs-asscrr_ru_dlc.r02	2be55fb9aa10cffc33cdffc5f0a1a535
+sxs-asscrr_ru_dlc.r03	02e310d95d246a8208b8ba5602c44087
+sxs-asscrr_ru_dlc.r04	c40d9fb1e6aae0ab93ad2ac8a639ea90
+sxs-asscrr_ru_dlc.rar	4ae01aebee861c68005176475cb11c96
+sxs-asscrr_ru_dlc.sfv	414427038a5f59854026345d9d09e32f

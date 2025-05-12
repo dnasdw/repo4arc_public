@@ -1,0 +1,9 @@
+sxs-action_arcade_wrestling_v196608.nfo	-	5198	1	0	0	0
+sxs-action_arcade_wrestling_v196608.r00	-	100000000	1	5198	0	1
+sxs-action_arcade_wrestling_v196608.r01	-	100000000	1	100005198	0	97
+sxs-action_arcade_wrestling_v196608.r02	-	100000000	1	200005198	0	193
+sxs-action_arcade_wrestling_v196608.r03	-	100000000	1	300005198	0	289
+sxs-action_arcade_wrestling_v196608.r04	-	100000000	1	400005198	0	385
+sxs-action_arcade_wrestling_v196608.r05	-	53546468	1	500005198	0	481
+sxs-action_arcade_wrestling_v196608.rar	-	100000000	1	15797732	1	16
+sxs-action_arcade_wrestling_v196608.sfv	-	350	1	115797732	1	112

@@ -1,0 +1,5 @@
+sxs-melty_blood_type_lumina_v262144.nfo	-	8012	1	0	0	0
+sxs-melty_blood_type_lumina_v262144.r00	-	50000000	1	8012	0	1
+sxs-melty_blood_type_lumina_v262144.r01	-	47041030	1	50008012	0	49
+sxs-melty_blood_type_lumina_v262144.rar	-	50000000	1	97049042	0	94
+sxs-melty_blood_type_lumina_v262144.sfv	-	150	1	147049042	0	142

@@ -1,0 +1,7 @@
+sxs-blaze_and_the_monster_machines_axle_city_racers_v65536.nfo	-	6056	1	0	0	0
+sxs-blaze_and_the_monster_machines_axle_city_racers_v65536.r00	-	50000000	1	6056	0	1
+sxs-blaze_and_the_monster_machines_axle_city_racers_v65536.r01	-	50000000	1	50006056	0	49
+sxs-blaze_and_the_monster_machines_axle_city_racers_v65536.r02	-	50000000	1	100006056	0	97
+sxs-blaze_and_the_monster_machines_axle_city_racers_v65536.r03	-	30041807	1	150006056	0	145
+sxs-blaze_and_the_monster_machines_axle_city_racers_v65536.rar	-	50000000	1	180047863	0	174
+sxs-blaze_and_the_monster_machines_axle_city_racers_v65536.sfv	-	365	1	230047863	0	222

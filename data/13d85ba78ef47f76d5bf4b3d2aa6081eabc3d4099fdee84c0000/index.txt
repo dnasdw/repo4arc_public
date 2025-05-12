@@ -1,0 +1,10 @@
+sxs-fifa_22_nintendo_switch_legacy_edition_v196608.nfo	-	8552	1	0	0	0
+sxs-fifa_22_nintendo_switch_legacy_edition_v196608.r00	-	50000000	1	8552	0	1
+sxs-fifa_22_nintendo_switch_legacy_edition_v196608.r01	-	50000000	1	50008552	0	49
+sxs-fifa_22_nintendo_switch_legacy_edition_v196608.r02	-	50000000	1	100008552	0	97
+sxs-fifa_22_nintendo_switch_legacy_edition_v196608.r03	-	50000000	1	150008552	0	145
+sxs-fifa_22_nintendo_switch_legacy_edition_v196608.r04	-	50000000	1	200008552	0	193
+sxs-fifa_22_nintendo_switch_legacy_edition_v196608.r05	-	50000000	1	250008552	0	241
+sxs-fifa_22_nintendo_switch_legacy_edition_v196608.r06	-	43845843	1	300008552	0	289
+sxs-fifa_22_nintendo_switch_legacy_edition_v196608.rar	-	50000000	1	343854395	0	331
+sxs-fifa_22_nintendo_switch_legacy_edition_v196608.sfv	-	520	1	393854395	0	379

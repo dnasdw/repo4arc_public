@@ -1,0 +1,3 @@
+sxs-galacticon_v65536.nfo	c07417cc956053ea685204d41f4ccedfdd4ae51a
+sxs-galacticon_v65536.rar	cfc95ae43b7b0a9afac2882b7f1afd7c28fc70bb
+sxs-galacticon_v65536.sfv	26aebe1e4e3e5011726e86b417f990a026e26479

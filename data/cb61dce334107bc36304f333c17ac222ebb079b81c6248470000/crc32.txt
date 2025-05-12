@@ -1,0 +1,6 @@
+sxs-five_nights_at_freddys_3_v65536.nfo	d75ea232
+sxs-five_nights_at_freddys_3_v65536.r00	2441fed0
+sxs-five_nights_at_freddys_3_v65536.r01	45d7bfaa
+sxs-five_nights_at_freddys_3_v65536.r02	b676b248
+sxs-five_nights_at_freddys_3_v65536.rar	2a2bdc1d
+sxs-five_nights_at_freddys_3_v65536.sfv	b9ba7c06

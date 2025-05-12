@@ -1,0 +1,7 @@
+delight.nfo	5d24d12ab5d5a276fca21e6625e4242d
+dl-pathofsin.r00	6857fb51240a0ffa51257de72bbd8e59
+dl-pathofsin.r01	27eb9f5a64de7629ab12e8a6a379422c
+dl-pathofsin.r02	d3e436a00323a09f372ecba7f91bfb39
+dl-pathofsin.r03	c23bd6116e40dfdf1a9338f40e1805cd
+dl-pathofsin.rar	3475d05d0c5f33270fa9b3173c6ca999
+dl-pathofsin.sfv	6d275e6e3d43b81d294cd6d605876221

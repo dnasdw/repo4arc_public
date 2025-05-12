@@ -1,0 +1,10 @@
+v-super_crush_ko.nfo	-	5044	1	0	0	0
+v-super_crush_ko.r00	-	50000000	1	5044	0	1
+v-super_crush_ko.r01	-	50000000	1	50005044	0	49
+v-super_crush_ko.r02	-	50000000	1	100005044	0	97
+v-super_crush_ko.r03	-	50000000	1	150005044	0	145
+v-super_crush_ko.r04	-	50000000	1	200005044	0	193
+v-super_crush_ko.r05	-	50000000	1	250005044	0	241
+v-super_crush_ko.r06	-	46885440	1	300005044	0	289
+v-super_crush_ko.rar	-	50000000	1	346890484	0	334
+v-super_crush_ko.sfv	-	248	1	396890484	0	382

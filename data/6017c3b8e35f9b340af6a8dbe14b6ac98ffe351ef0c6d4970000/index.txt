@@ -1,0 +1,11 @@
+sxs-jojos_bizarre_adventure_all_star_battle_r_multi5_v851968.nfo	-	7002	1	0	0	0
+sxs-jojos_bizarre_adventure_all_star_battle_r_multi5_v851968.r00	-	100000000	1	7002	0	1
+sxs-jojos_bizarre_adventure_all_star_battle_r_multi5_v851968.r01	-	100000000	1	100007002	0	97
+sxs-jojos_bizarre_adventure_all_star_battle_r_multi5_v851968.r02	-	100000000	1	200007002	0	193
+sxs-jojos_bizarre_adventure_all_star_battle_r_multi5_v851968.r03	-	100000000	1	300007002	0	289
+sxs-jojos_bizarre_adventure_all_star_battle_r_multi5_v851968.r04	-	100000000	1	400007002	0	385
+sxs-jojos_bizarre_adventure_all_star_battle_r_multi5_v851968.r05	-	100000000	1	500007002	0	481
+sxs-jojos_bizarre_adventure_all_star_battle_r_multi5_v851968.r06	-	100000000	1	62251264	1	60
+sxs-jojos_bizarre_adventure_all_star_battle_r_multi5_v851968.r07	-	11139803	1	162251264	1	156
+sxs-jojos_bizarre_adventure_all_star_battle_r_multi5_v851968.rar	-	100000000	1	173391067	1	167
+sxs-jojos_bizarre_adventure_all_star_battle_r_multi5_v851968.sfv	-	675	1	273391067	1	263

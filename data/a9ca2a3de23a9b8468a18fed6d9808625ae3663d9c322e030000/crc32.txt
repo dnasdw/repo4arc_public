@@ -1,0 +1,7 @@
+sxs-perchang.nfo	81f64b8d
+sxs-perchang.r00	36696744
+sxs-perchang.r01	add288ed
+sxs-perchang.r02	5d73cdfd
+sxs-perchang.r03	a9661b06
+sxs-perchang.rar	981fc219
+sxs-perchang.sfv	83907fbb

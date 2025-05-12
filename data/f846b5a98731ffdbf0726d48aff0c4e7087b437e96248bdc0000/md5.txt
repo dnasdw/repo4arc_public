@@ -1,0 +1,3 @@
+sxs-rpg_maker_mv_dlc.nfo	4192def4d48ee3bda7d4b297bc980a90
+sxs-rpg_maker_mv_dlc.rar	23b0fcb08b6229248fdf0700f6721722
+sxs-rpg_maker_mv_dlc.sfv	a613da91c23a317c4d64b1e1fe92b722

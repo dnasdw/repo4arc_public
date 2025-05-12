@@ -1,0 +1,5 @@
+l-arcanoid.nfo	cce2802019ac99c6ce9be61d955ff88d
+l-arcanoid.r00	406e90c4de304f6fc8738a9e20264331
+l-arcanoid.r01	cc0b982705fbff9ebe89176574d3af83
+l-arcanoid.rar	1e9e221a1650ce503c4eee4a54802788
+l-arcanoid.sfv	9a49ef9411887754827c557a9c5122e8

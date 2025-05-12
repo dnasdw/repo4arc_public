@@ -1,0 +1,10 @@
+sxs-mutant_football_v131072.nfo	4bbde053
+sxs-mutant_football_v131072.r00	c89c3852
+sxs-mutant_football_v131072.r01	80caf18d
+sxs-mutant_football_v131072.r02	2184f1ec
+sxs-mutant_football_v131072.r03	7615fe8b
+sxs-mutant_football_v131072.r04	aebc0301
+sxs-mutant_football_v131072.r05	67b2a3df
+sxs-mutant_football_v131072.r06	675e20c0
+sxs-mutant_football_v131072.rar	fec8f57d
+sxs-mutant_football_v131072.sfv	2ae31b64

@@ -1,0 +1,6 @@
+sxs-lets_build_a_zoo_v458752.nfo	88e4615678b02c8da9d1feae10ea2d8a
+sxs-lets_build_a_zoo_v458752.r00	7281f909198026b56d447dc4567cd62e
+sxs-lets_build_a_zoo_v458752.r01	1704bac849ea7c502c1e3557e5fba8ad
+sxs-lets_build_a_zoo_v458752.r02	b5101d4c99f3eef60ed99967a4d04436
+sxs-lets_build_a_zoo_v458752.rar	1c35cc1caf1798f67adba9992044dee8
+sxs-lets_build_a_zoo_v458752.sfv	d3ff086baaa2aec27c3ff831a49b5d7f

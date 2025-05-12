@@ -1,0 +1,16 @@
+sxs-nature_escapes_collectors_edition.nfo	0712c909
+sxs-nature_escapes_collectors_edition.r00	26689e75
+sxs-nature_escapes_collectors_edition.r01	c7edace0
+sxs-nature_escapes_collectors_edition.r02	e9fe9c2f
+sxs-nature_escapes_collectors_edition.r03	57bd8d69
+sxs-nature_escapes_collectors_edition.r04	9c8f41da
+sxs-nature_escapes_collectors_edition.r05	ffb835e4
+sxs-nature_escapes_collectors_edition.r06	eb3a54e4
+sxs-nature_escapes_collectors_edition.r07	d567527d
+sxs-nature_escapes_collectors_edition.r08	bed91020
+sxs-nature_escapes_collectors_edition.r09	509e19ee
+sxs-nature_escapes_collectors_edition.r10	ed69cd86
+sxs-nature_escapes_collectors_edition.r11	8ca59b53
+sxs-nature_escapes_collectors_edition.r12	e055e99c
+sxs-nature_escapes_collectors_edition.rar	8e8d3fda
+sxs-nature_escapes_collectors_edition.sfv	a5bf14cf

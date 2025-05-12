@@ -1,0 +1,5 @@
+sxs-cube_decider_v131072.nfo	6e31d973b1d7dedfb1c245e8bab227ea
+sxs-cube_decider_v131072.r00	9704faade1274a743feaa8657c55397a
+sxs-cube_decider_v131072.r01	90178652624373162859730acc390544
+sxs-cube_decider_v131072.rar	09651ced4a741b92912501299ed8812f
+sxs-cube_decider_v131072.sfv	0c55fca32e15cac2ad23a3558a11a199

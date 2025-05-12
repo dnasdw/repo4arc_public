@@ -1,0 +1,12 @@
+bbb-n-plgpkiosk.nfo	a061aab9
+bbb-n-plgpkiosk.part01.rar	14972ffa
+bbb-n-plgpkiosk.part02.rar	dce88e51
+bbb-n-plgpkiosk.part03.rar	9faa393e
+bbb-n-plgpkiosk.part04.rar	58fd79d1
+bbb-n-plgpkiosk.part05.rar	b16d2a65
+bbb-n-plgpkiosk.part06.rar	2bbfa054
+bbb-n-plgpkiosk.part07.rar	57b04393
+bbb-n-plgpkiosk.part08.rar	e2e79484
+bbb-n-plgpkiosk.part09.rar	eed3edad
+bbb-n-plgpkiosk.part10.rar	17cb0f0f
+bbb-n-plgpkiosk.sfv	8ce4a737

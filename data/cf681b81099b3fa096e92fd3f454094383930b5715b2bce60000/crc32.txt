@@ -1,0 +1,17 @@
+sxs-sonic_frontiers_v262144.nfo	56c62fc0
+sxs-sonic_frontiers_v262144.r00	1b33e03a
+sxs-sonic_frontiers_v262144.r01	13999ce8
+sxs-sonic_frontiers_v262144.r02	2272d19f
+sxs-sonic_frontiers_v262144.r03	923e829a
+sxs-sonic_frontiers_v262144.r04	636b97a2
+sxs-sonic_frontiers_v262144.r05	d0b1dd74
+sxs-sonic_frontiers_v262144.r06	da82e137
+sxs-sonic_frontiers_v262144.r07	06cff8df
+sxs-sonic_frontiers_v262144.r08	64b113d8
+sxs-sonic_frontiers_v262144.r09	305cc5a2
+sxs-sonic_frontiers_v262144.r10	145238a7
+sxs-sonic_frontiers_v262144.r11	c04e2245
+sxs-sonic_frontiers_v262144.r12	bbd1041a
+sxs-sonic_frontiers_v262144.r13	4b07c442
+sxs-sonic_frontiers_v262144.rar	3b62cb72
+sxs-sonic_frontiers_v262144.sfv	0e25c66e

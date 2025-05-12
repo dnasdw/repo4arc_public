@@ -1,0 +1,12 @@
+sxs-conga_master_party_v131072.nfo	3acbb0fc
+sxs-conga_master_party_v131072.r00	022c3ba0
+sxs-conga_master_party_v131072.r01	c2da2c22
+sxs-conga_master_party_v131072.r02	33c66b78
+sxs-conga_master_party_v131072.r03	82cd80ca
+sxs-conga_master_party_v131072.r04	5b7d156a
+sxs-conga_master_party_v131072.r05	e7bfce1c
+sxs-conga_master_party_v131072.r06	81a0e2cb
+sxs-conga_master_party_v131072.r07	5f6d74a4
+sxs-conga_master_party_v131072.r08	ee3d042e
+sxs-conga_master_party_v131072.rar	93e3fa47
+sxs-conga_master_party_v131072.sfv	0cebb7c9

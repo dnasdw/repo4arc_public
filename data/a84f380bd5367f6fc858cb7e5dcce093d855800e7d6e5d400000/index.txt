@@ -1,0 +1,4 @@
+sxs-big_watermelon_match.nfo	-	4028	1	0	0	0
+sxs-big_watermelon_match.r00	-	5920157	1	4028	0	1
+sxs-big_watermelon_match.rar	-	100000000	1	5924185	0	7
+sxs-big_watermelon_match.sfv	-	78	1	105924185	0	103

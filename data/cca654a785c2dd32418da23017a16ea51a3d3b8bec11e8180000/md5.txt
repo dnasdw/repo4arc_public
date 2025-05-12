@@ -1,0 +1,4 @@
+brw-ffgt.nfo	f295e4cee150e46050b121498c5d5c1a
+brw-ffgt.r00	61157c640ce768160b76ea02ef8ad98f
+brw-ffgt.rar	2feb7a870d31f9699e4bfb78db1e14c2
+brw-ffgt.sfv	f7aa85df6919353c75abc4288d28dcaf

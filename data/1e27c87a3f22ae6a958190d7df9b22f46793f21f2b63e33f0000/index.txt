@@ -1,0 +1,8 @@
+sxs-counter_shooter_strike_zone.nfo	-	5276	1	0	0	0
+sxs-counter_shooter_strike_zone.r00	-	100000000	1	5276	0	1
+sxs-counter_shooter_strike_zone.r01	-	100000000	1	100005276	0	97
+sxs-counter_shooter_strike_zone.r02	-	100000000	1	200005276	0	193
+sxs-counter_shooter_strike_zone.r03	-	100000000	1	300005276	0	289
+sxs-counter_shooter_strike_zone.r04	-	35921596	1	400005276	0	385
+sxs-counter_shooter_strike_zone.rar	-	100000000	1	435926872	0	420
+sxs-counter_shooter_strike_zone.sfv	-	276	1	535926872	0	516

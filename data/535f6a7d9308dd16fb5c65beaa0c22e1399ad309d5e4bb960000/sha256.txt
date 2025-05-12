@@ -1,0 +1,3 @@
+sxs-wild_seas.nfo	78127c26150c50e6a0ba8382c8072fbfdc93a73a67952fb0696be8b48c7c0b29
+sxs-wild_seas.rar	3106388ed6e10fb6be523e0a07ba8e7df9c5ef7507db578dc1ee5b7eec5cfdd8
+sxs-wild_seas.sfv	dc2fdf9891c477e496d80bf62a06886358396421ec8c7b1439a3d1ff1773ef0b

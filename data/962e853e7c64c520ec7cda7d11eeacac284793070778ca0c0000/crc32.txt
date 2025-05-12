@@ -1,0 +1,9 @@
+v-feather.nfo	c75a2cd4
+v-feather.r00	3a14fb87
+v-feather.r01	42e722e7
+v-feather.r02	66f3abd2
+v-feather.r03	d84a2fea
+v-feather.r04	e770fdf5
+v-feather.r05	6dd4d731
+v-feather.rar	a8ebc33c
+v-feather.sfv	eaed6d8a

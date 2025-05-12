@@ -1,0 +1,7 @@
+v-puzzle_quest_the_legend_returns.nfo	47b19ec4
+v-puzzle_quest_the_legend_returns.r00	a1770fe5
+v-puzzle_quest_the_legend_returns.r01	4edd7bf8
+v-puzzle_quest_the_legend_returns.r02	5c5c14a3
+v-puzzle_quest_the_legend_returns.r03	2bc46921
+v-puzzle_quest_the_legend_returns.rar	de1fdeff
+v-puzzle_quest_the_legend_returns.sfv	eaed0d0f

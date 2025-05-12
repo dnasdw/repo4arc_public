@@ -1,0 +1,14 @@
+v-luigi3_v131072.nfo	f8d1b5ee
+v-luigi3_v131072.r00	367cc27a
+v-luigi3_v131072.r01	f08762f3
+v-luigi3_v131072.r02	afc329f8
+v-luigi3_v131072.r03	f8f77577
+v-luigi3_v131072.r04	d7febdb5
+v-luigi3_v131072.r05	2bf8a155
+v-luigi3_v131072.r06	81b6bea5
+v-luigi3_v131072.r07	f13bbbc0
+v-luigi3_v131072.r08	eade79cb
+v-luigi3_v131072.r09	1f93a846
+v-luigi3_v131072.r10	4fcac2ee
+v-luigi3_v131072.rar	f4e99456
+v-luigi3_v131072.sfv	b986d37c

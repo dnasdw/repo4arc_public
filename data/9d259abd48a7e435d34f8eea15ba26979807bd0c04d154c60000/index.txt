@@ -1,0 +1,4 @@
+bbb-n-baata.nfo	-	5517	1	0	0	0
+bbb-n-baata.part1.rar	-	250000000	1	5517	0	1
+bbb-n-baata.part2.rar	-	144234379	1	250005517	0	240
+bbb-n-baata.sfv	-	64	1	394239896	0	378

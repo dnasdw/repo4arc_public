@@ -1,0 +1,4 @@
+sxs-need_a_packet_v131072.nfo	-	4262	1	0	0	0
+sxs-need_a_packet_v131072.r00	-	8117228	1	4262	0	1
+sxs-need_a_packet_v131072.rar	-	50000000	1	8121490	0	9
+sxs-need_a_packet_v131072.sfv	-	80	1	58121490	0	57

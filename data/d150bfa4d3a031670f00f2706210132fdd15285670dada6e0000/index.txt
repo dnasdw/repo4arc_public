@@ -1,0 +1,3 @@
+v-children_of_morta_ancient_spirits_dlc.nfo	-	7462	1	0	0	0
+v-children_of_morta_ancient_spirits_dlc.rar	-	104148	1	7462	0	1
+v-children_of_morta_ancient_spirits_dlc.sfv	-	54	1	111610	0	2

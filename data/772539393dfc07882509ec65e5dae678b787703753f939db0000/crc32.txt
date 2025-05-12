@@ -1,0 +1,6 @@
+v-shakedown_hawaii.nfo	65806f92
+v-shakedown_hawaii.r00	5ccb97f7
+v-shakedown_hawaii.r01	d6a653a5
+v-shakedown_hawaii.r02	77c8d111
+v-shakedown_hawaii.rar	9c86446a
+v-shakedown_hawaii.sfv	20c6d684

@@ -1,0 +1,15 @@
+v-fighting_ex_layer_another_dash_v262144.nfo	f3aeb910
+v-fighting_ex_layer_another_dash_v262144.r00	bd471f25
+v-fighting_ex_layer_another_dash_v262144.r01	bc91a11e
+v-fighting_ex_layer_another_dash_v262144.r02	bb70505d
+v-fighting_ex_layer_another_dash_v262144.r03	b2e2dfc9
+v-fighting_ex_layer_another_dash_v262144.r04	ec0bcdcd
+v-fighting_ex_layer_another_dash_v262144.r05	b824a71d
+v-fighting_ex_layer_another_dash_v262144.r06	c38446d0
+v-fighting_ex_layer_another_dash_v262144.r07	5456e81b
+v-fighting_ex_layer_another_dash_v262144.r08	d6f3ed2f
+v-fighting_ex_layer_another_dash_v262144.r09	22f5a0b9
+v-fighting_ex_layer_another_dash_v262144.r10	48c69c1e
+v-fighting_ex_layer_another_dash_v262144.r11	e756d283
+v-fighting_ex_layer_another_dash_v262144.rar	2e07cd87
+v-fighting_ex_layer_another_dash_v262144.sfv	a61727b5

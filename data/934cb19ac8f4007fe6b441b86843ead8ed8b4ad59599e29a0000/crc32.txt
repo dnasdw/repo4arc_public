@@ -1,0 +1,16 @@
+sxs-beasties.nfo	59ddd521
+sxs-beasties.r00	aff22bed
+sxs-beasties.r01	8f16c6d2
+sxs-beasties.r02	b87f34aa
+sxs-beasties.r03	030794cc
+sxs-beasties.r04	2ec76e5c
+sxs-beasties.r05	eb96d816
+sxs-beasties.r06	32337d16
+sxs-beasties.r07	6b405b7f
+sxs-beasties.r08	3eee2f35
+sxs-beasties.r09	c443024e
+sxs-beasties.r10	8bc7e2ae
+sxs-beasties.r11	6f0ac106
+sxs-beasties.r12	13c7302a
+sxs-beasties.rar	7520ad41
+sxs-beasties.sfv	bbada019

@@ -1,0 +1,5 @@
+lfc-dung.nfo	dc12b8b812bdeb3be3c8c5855eaf42d8
+lfc-dung.r00	21c6cbe4f3fbf4518676b8d154dd9395
+lfc-dung.r01	e2fcdf81bdae05b1306286bac38a4ca8
+lfc-dung.rar	b5eca1438b617ba5d4899ea27f7ef87f
+lfc-dung.sfv	892d710744a493d69218003c65157c58

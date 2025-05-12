@@ -1,0 +1,16 @@
+sxs-gerrrms.nfo	ba6b431c
+sxs-gerrrms.r00	0fdea12f
+sxs-gerrrms.r01	cbe9bb44
+sxs-gerrrms.r02	de03cabd
+sxs-gerrrms.r03	6018b608
+sxs-gerrrms.r04	c3ac522a
+sxs-gerrrms.r05	6ce4234f
+sxs-gerrrms.r06	4e5be85a
+sxs-gerrrms.r07	6f309417
+sxs-gerrrms.r08	0a8a8814
+sxs-gerrrms.r09	ba64f752
+sxs-gerrrms.r10	ae7e36dd
+sxs-gerrrms.r11	79874fa9
+sxs-gerrrms.r12	ce04dce9
+sxs-gerrrms.rar	877b8c83
+sxs-gerrrms.sfv	466edd77

@@ -1,0 +1,4 @@
+v-bloo2_v65536.nfo	5de765d6
+v-bloo2_v65536.r00	e0514f24
+v-bloo2_v65536.rar	ff0cf7b4
+v-bloo2_v65536.sfv	3dab1120

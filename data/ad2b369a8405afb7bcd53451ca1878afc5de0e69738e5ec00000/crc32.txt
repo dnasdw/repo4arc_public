@@ -1,0 +1,14 @@
+lfc-pb2a3.nfo	f8b99276
+lfc-pb2a3.r00	88514fb4
+lfc-pb2a3.r01	3806b0f0
+lfc-pb2a3.r02	019c68e3
+lfc-pb2a3.r03	a724daed
+lfc-pb2a3.r04	b547d79a
+lfc-pb2a3.r05	490e2408
+lfc-pb2a3.r06	d447182d
+lfc-pb2a3.r07	528b706e
+lfc-pb2a3.r08	f6451003
+lfc-pb2a3.r09	e1565d1c
+lfc-pb2a3.r10	8e5bcd4d
+lfc-pb2a3.rar	6cc3c29f
+lfc-pb2a3.sfv	544e1ebd

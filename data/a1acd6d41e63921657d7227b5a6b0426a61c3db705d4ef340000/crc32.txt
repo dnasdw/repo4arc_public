@@ -1,0 +1,3 @@
+v-daemon_x_machina_dlc.nfo	4b4bce1a
+v-daemon_x_machina_dlc.rar	4cff7dda
+v-daemon_x_machina_dlc.sfv	fe3067f2

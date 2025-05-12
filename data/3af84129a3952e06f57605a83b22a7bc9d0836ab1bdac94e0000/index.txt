@@ -1,0 +1,10 @@
+sxs-tbtwt_pl_dlc.nfo	-	4418	1	0	0	0
+sxs-tbtwt_pl_dlc.r00	-	50000000	1	4418	0	1
+sxs-tbtwt_pl_dlc.r01	-	50000000	1	50004418	0	49
+sxs-tbtwt_pl_dlc.r02	-	50000000	1	100004418	0	97
+sxs-tbtwt_pl_dlc.r03	-	50000000	1	150004418	0	145
+sxs-tbtwt_pl_dlc.r04	-	50000000	1	200004418	0	193
+sxs-tbtwt_pl_dlc.r05	-	50000000	1	250004418	0	241
+sxs-tbtwt_pl_dlc.r06	-	32903792	1	300004418	0	289
+sxs-tbtwt_pl_dlc.rar	-	50000000	1	332908210	0	321
+sxs-tbtwt_pl_dlc.sfv	-	248	1	382908210	0	369

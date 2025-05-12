@@ -1,0 +1,5 @@
+sxs-breakneck_city.nfo	-	5588	1	0	0	0
+sxs-breakneck_city.r00	-	50000000	1	5588	0	1
+sxs-breakneck_city.r01	-	23076872	1	50005588	0	49
+sxs-breakneck_city.rar	-	50000000	1	73082460	0	72
+sxs-breakneck_city.sfv	-	99	1	123082460	0	120

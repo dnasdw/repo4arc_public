@@ -1,0 +1,10 @@
+v-dragon_quest_builders_2_v131072.nfo	93c62a6c
+v-dragon_quest_builders_2_v131072.r00	beea3c1c
+v-dragon_quest_builders_2_v131072.r01	49ba6a41
+v-dragon_quest_builders_2_v131072.r02	aa92c499
+v-dragon_quest_builders_2_v131072.r03	2406a4d5
+v-dragon_quest_builders_2_v131072.r04	6fddfe9e
+v-dragon_quest_builders_2_v131072.r05	e9772ceb
+v-dragon_quest_builders_2_v131072.r06	409149a4
+v-dragon_quest_builders_2_v131072.rar	6a8269aa
+v-dragon_quest_builders_2_v131072.sfv	910b06f4

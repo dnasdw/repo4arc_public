@@ -1,0 +1,10 @@
+sxs-brawl_chess.nfo	665f971639b4fb804ed85d590d40dc68
+sxs-brawl_chess.r00	e2c30a3e7532ca72adee6856b2a8796e
+sxs-brawl_chess.r01	a5c8938a60fbad8360e8c7ec448bb450
+sxs-brawl_chess.r02	af47032037dda7719431e59d0904fa55
+sxs-brawl_chess.r03	fd9d851fa31b13e337f3c1d5cb7360b3
+sxs-brawl_chess.r04	874e36838b16d3f722de1e0b5ae0580f
+sxs-brawl_chess.r05	6e38c0a54aa0e5cac222efded06b0826
+sxs-brawl_chess.r06	cabbc6b20c3fd717d6436c80e781c8e7
+sxs-brawl_chess.rar	0b3cf93ecc32411eacd35e2509de996f
+sxs-brawl_chess.sfv	a459e08a8e3c55a489e5a90ea0aee1af

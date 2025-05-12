@@ -1,0 +1,7 @@
+v-star_wars_episode_i_racer.nfo	cf9bb58f
+v-star_wars_episode_i_racer.r00	09a81212
+v-star_wars_episode_i_racer.r01	461e4377
+v-star_wars_episode_i_racer.r02	25c1df69
+v-star_wars_episode_i_racer.r03	0ae540af
+v-star_wars_episode_i_racer.rar	d521e94f
+v-star_wars_episode_i_racer.sfv	a9f48f17

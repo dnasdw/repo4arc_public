@@ -1,0 +1,5 @@
+sxs-thunder_kid_ii_null_mission.nfo	2928f2d5
+sxs-thunder_kid_ii_null_mission.r00	aa1d769a
+sxs-thunder_kid_ii_null_mission.r01	9122a53f
+sxs-thunder_kid_ii_null_mission.rar	3c6c40e3
+sxs-thunder_kid_ii_null_mission.sfv	6f431da1

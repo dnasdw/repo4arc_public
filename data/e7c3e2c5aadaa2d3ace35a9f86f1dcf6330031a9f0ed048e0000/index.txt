@@ -1,0 +1,4 @@
+v-boris_the_rocket_v65536.nfo	-	6136	1	0	0	0
+v-boris_the_rocket_v65536.r00	-	35460548	1	6136	0	1
+v-boris_the_rocket_v65536.rar	-	50000000	1	35466684	0	35
+v-boris_the_rocket_v65536.sfv	-	80	1	85466684	0	83

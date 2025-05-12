@@ -1,0 +1,7 @@
+lfc-loru_v65536.nfo	e85ec581
+lfc-loru_v65536.r00	ebd80584
+lfc-loru_v65536.r01	fa8409bd
+lfc-loru_v65536.r02	7a976e8f
+lfc-loru_v65536.r03	6e752ae7
+lfc-loru_v65536.rar	44936202
+lfc-loru_v65536.sfv	59c4f474

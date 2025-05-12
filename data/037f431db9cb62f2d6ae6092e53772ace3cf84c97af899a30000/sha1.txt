@@ -1,0 +1,3 @@
+v-doom_1993_no_end_in_sight_dlc.nfo	7e965a7f24cb71a5cb9b77cafc034a54f57a066f
+v-doom_1993_no_end_in_sight_dlc.rar	74f55ea5d62f8db67857f0631c74e18bf6dbc314
+v-doom_1993_no_end_in_sight_dlc.sfv	73ae66ae64e0774eb3f9d9bd1d3eeb682e715f5b

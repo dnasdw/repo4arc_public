@@ -1,0 +1,4 @@
+brw-tmgs.nfo	-	4609	1	0	0	0
+brw-tmgs.r00	-	33171842	1	4609	0	1
+brw-tmgs.rar	-	50000000	1	33176451	0	33
+brw-tmgs.sfv	-	46	1	83176451	0	81

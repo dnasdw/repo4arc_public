@@ -1,0 +1,7 @@
+sxs-super_jagger_bomb.nfo	79fe79e9
+sxs-super_jagger_bomb.r00	b3e63ae0
+sxs-super_jagger_bomb.r01	28412390
+sxs-super_jagger_bomb.r02	85a87e5b
+sxs-super_jagger_bomb.r03	927f58fc
+sxs-super_jagger_bomb.rar	f78177b9
+sxs-super_jagger_bomb.sfv	5d42cf52

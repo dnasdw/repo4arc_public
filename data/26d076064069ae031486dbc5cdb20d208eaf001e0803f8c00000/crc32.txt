@@ -1,0 +1,13 @@
+sxs-fifa_22_portuguese_brazil_dlc.nfo	dff9c56a
+sxs-fifa_22_portuguese_brazil_dlc.r00	2448db8c
+sxs-fifa_22_portuguese_brazil_dlc.r01	9f0f82c6
+sxs-fifa_22_portuguese_brazil_dlc.r02	825e0bce
+sxs-fifa_22_portuguese_brazil_dlc.r03	6692adc8
+sxs-fifa_22_portuguese_brazil_dlc.r04	88e389b9
+sxs-fifa_22_portuguese_brazil_dlc.r05	f2c651ab
+sxs-fifa_22_portuguese_brazil_dlc.r06	b54fe99c
+sxs-fifa_22_portuguese_brazil_dlc.r07	ef67aa11
+sxs-fifa_22_portuguese_brazil_dlc.r08	ea4bd326
+sxs-fifa_22_portuguese_brazil_dlc.r09	895dfaff
+sxs-fifa_22_portuguese_brazil_dlc.rar	8dca23d1
+sxs-fifa_22_portuguese_brazil_dlc.sfv	f7e7359d

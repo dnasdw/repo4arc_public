@@ -1,0 +1,3 @@
+sxs-garden_story_v458752.nfo	-	5666	1	0	0	0
+sxs-garden_story_v458752.rar	-	96231470	1	5666	0	1
+sxs-garden_story_v458752.sfv	-	39	1	96237136	0	93

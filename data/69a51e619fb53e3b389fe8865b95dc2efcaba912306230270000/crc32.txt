@@ -1,0 +1,10 @@
+sxs-paleo_pines_v524288.nfo	e089d17f
+sxs-paleo_pines_v524288.r00	f0d0a13e
+sxs-paleo_pines_v524288.r01	12cc6cf9
+sxs-paleo_pines_v524288.r02	83f49443
+sxs-paleo_pines_v524288.r03	3ed948de
+sxs-paleo_pines_v524288.r04	784fdae2
+sxs-paleo_pines_v524288.r05	a5fbefd7
+sxs-paleo_pines_v524288.r06	2d88c8cc
+sxs-paleo_pines_v524288.rar	d9d5222c
+sxs-paleo_pines_v524288.sfv	8a3fe168

@@ -1,0 +1,16 @@
+sxs-baila_latino_bonus_pack_dlc.nfo	-	5746	1	0	0	0
+sxs-baila_latino_bonus_pack_dlc.r00	-	50000000	1	5746	0	1
+sxs-baila_latino_bonus_pack_dlc.r01	-	50000000	1	50005746	0	49
+sxs-baila_latino_bonus_pack_dlc.r02	-	50000000	1	100005746	0	97
+sxs-baila_latino_bonus_pack_dlc.r03	-	50000000	1	150005746	0	145
+sxs-baila_latino_bonus_pack_dlc.r04	-	50000000	1	200005746	0	193
+sxs-baila_latino_bonus_pack_dlc.r05	-	50000000	1	250005746	0	241
+sxs-baila_latino_bonus_pack_dlc.r06	-	50000000	1	300005746	0	289
+sxs-baila_latino_bonus_pack_dlc.r07	-	50000000	1	350005746	0	337
+sxs-baila_latino_bonus_pack_dlc.r08	-	50000000	1	400005746	0	385
+sxs-baila_latino_bonus_pack_dlc.r09	-	50000000	1	450005746	0	433
+sxs-baila_latino_bonus_pack_dlc.r10	-	50000000	1	500005746	0	481
+sxs-baila_latino_bonus_pack_dlc.r11	-	50000000	1	12251264	1	12
+sxs-baila_latino_bonus_pack_dlc.r12	-	14979567	1	62251264	1	60
+sxs-baila_latino_bonus_pack_dlc.rar	-	50000000	1	77230831	1	75
+sxs-baila_latino_bonus_pack_dlc.sfv	-	644	1	127230831	1	123

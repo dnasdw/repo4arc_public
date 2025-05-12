@@ -1,0 +1,3 @@
+v-defense_master_v65536.nfo	c98733ac713ef20b92848008e2cb99233fc11746
+v-defense_master_v65536.rar	4d906ec88d3566a7fa9e495b228d24f4dc54d09c
+v-defense_master_v65536.sfv	de2cfc78a3ec1026845ba9513d00d1757d0c5979

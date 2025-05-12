@@ -1,0 +1,6 @@
+sxs-war_dogs_reds_return_v65536.nfo	0c0b6070
+sxs-war_dogs_reds_return_v65536.r00	b4e282fe
+sxs-war_dogs_reds_return_v65536.r01	290a5cc9
+sxs-war_dogs_reds_return_v65536.r02	25dbc0aa
+sxs-war_dogs_reds_return_v65536.rar	83f70065
+sxs-war_dogs_reds_return_v65536.sfv	772b008c

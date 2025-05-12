@@ -1,0 +1,5 @@
+sxs-snes_v851968.nfo	d2045fcb
+sxs-snes_v851968.r00	e766e11f
+sxs-snes_v851968.r01	16f97519
+sxs-snes_v851968.rar	b3f4b948
+sxs-snes_v851968.sfv	aa4b0918

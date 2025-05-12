@@ -1,0 +1,3 @@
+v-nhra_championship_drag_racing_speed_for_all_dlc.nfo	-	5746	1	0	0	0
+v-nhra_championship_drag_racing_speed_for_all_dlc.rar	-	520088	1	5746	0	1
+v-nhra_championship_drag_racing_speed_for_all_dlc.sfv	-	64	1	525834	0	2

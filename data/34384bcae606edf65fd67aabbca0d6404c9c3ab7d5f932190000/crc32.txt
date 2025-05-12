@@ -1,0 +1,11 @@
+sxs-sir_lovelot.nfo	93ae0095
+sxs-sir_lovelot.r00	12ddd671
+sxs-sir_lovelot.r01	01fe148f
+sxs-sir_lovelot.r02	5471b4e6
+sxs-sir_lovelot.r03	79e2ac78
+sxs-sir_lovelot.r04	725c9c81
+sxs-sir_lovelot.r05	43c50f59
+sxs-sir_lovelot.r06	09975267
+sxs-sir_lovelot.r07	6528e553
+sxs-sir_lovelot.rar	67be41d7
+sxs-sir_lovelot.sfv	8b07ae38

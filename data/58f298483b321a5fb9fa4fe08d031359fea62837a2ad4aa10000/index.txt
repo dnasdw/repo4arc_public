@@ -1,0 +1,10 @@
+sxs-asscrebel_ru_audio_dlc.nfo	-	4730	1	0	0	0
+sxs-asscrebel_ru_audio_dlc.r00	-	50000000	1	4730	0	1
+sxs-asscrebel_ru_audio_dlc.r01	-	50000000	1	50004730	0	49
+sxs-asscrebel_ru_audio_dlc.r02	-	50000000	1	100004730	0	97
+sxs-asscrebel_ru_audio_dlc.r03	-	50000000	1	150004730	0	145
+sxs-asscrebel_ru_audio_dlc.r04	-	50000000	1	200004730	0	193
+sxs-asscrebel_ru_audio_dlc.r05	-	50000000	1	250004730	0	241
+sxs-asscrebel_ru_audio_dlc.r06	-	44917229	1	300004730	0	289
+sxs-asscrebel_ru_audio_dlc.rar	-	50000000	1	344921959	0	332
+sxs-asscrebel_ru_audio_dlc.sfv	-	328	1	394921959	0	380

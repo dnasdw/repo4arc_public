@@ -1,0 +1,13 @@
+lfc-path_v262144.nfo	2c8fdbe9
+lfc-path_v262144.r00	73ba14db
+lfc-path_v262144.r01	fad8926c
+lfc-path_v262144.r02	d3a48219
+lfc-path_v262144.r03	e7d659cd
+lfc-path_v262144.r04	5dbdd8c6
+lfc-path_v262144.r05	0f33572e
+lfc-path_v262144.r06	e3bed917
+lfc-path_v262144.r07	e3d12d0a
+lfc-path_v262144.r08	e94e8790
+lfc-path_v262144.r09	cfadf035
+lfc-path_v262144.rar	616364ce
+lfc-path_v262144.sfv	7801ac8e

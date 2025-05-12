@@ -1,0 +1,4 @@
+delight.nfo	c1137e4d
+dl-travelm2.r00	54d536ea
+dl-travelm2.rar	6ddd3980
+dl-travelm2.sfv	2c97bc88

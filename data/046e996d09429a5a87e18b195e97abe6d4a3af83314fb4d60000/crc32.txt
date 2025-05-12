@@ -1,0 +1,10 @@
+l-crocsworld2.nfo	0d4e9d41
+l-crocsworld2.r00	f2b54519
+l-crocsworld2.r01	f64ca262
+l-crocsworld2.r02	7f643f40
+l-crocsworld2.r03	13698055
+l-crocsworld2.r04	39f611ef
+l-crocsworld2.r05	b83a8ada
+l-crocsworld2.r06	f6b18262
+l-crocsworld2.rar	1f22ab2d
+l-crocsworld2.sfv	75a35ebe

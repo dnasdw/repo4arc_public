@@ -1,0 +1,4 @@
+v-metaloid_origin_v131072.nfo	3e151525
+v-metaloid_origin_v131072.r00	f324c7d0
+v-metaloid_origin_v131072.rar	123dbc38
+v-metaloid_origin_v131072.sfv	7ff71f21

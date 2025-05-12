@@ -1,0 +1,11 @@
+sxs-super_squidlit.nfo	d01d69d1a3984b8c5df78648298c5aaf
+sxs-super_squidlit.r00	16ff5cd9060374b9825674f82e328d2e
+sxs-super_squidlit.r01	ac0fe431b93890eedb42114591006208
+sxs-super_squidlit.r02	a9477075e5dfe85a0111cf581ca30eff
+sxs-super_squidlit.r03	cc920ec7a49a15d93eae2716cdfe7858
+sxs-super_squidlit.r04	2ec38634e6b4a3b5f7728e0c9bb96ece
+sxs-super_squidlit.r05	35861a5abbc961409bceec1398a49e1f
+sxs-super_squidlit.r06	d4a53581ef863290dfe3de8d2656dadd
+sxs-super_squidlit.r07	0a1915b0c27b0e47f0745b58236d6d06
+sxs-super_squidlit.rar	fec72d576d55c2942e0192330053151e
+sxs-super_squidlit.sfv	76e770698ba570fe65a339e4ee98cfd0

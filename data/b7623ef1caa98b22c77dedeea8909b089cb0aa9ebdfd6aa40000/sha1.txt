@@ -1,0 +1,3 @@
+sxs-tropico_6_dlc.nfo	1f53d683e2ecaf784d4171783e911a3078dccbe5
+sxs-tropico_6_dlc.rar	9f407741f4ca70af811da3346cd8219ed6216ce5
+sxs-tropico_6_dlc.sfv	c2a0a2378837852edae6ee1a92124649b741e945

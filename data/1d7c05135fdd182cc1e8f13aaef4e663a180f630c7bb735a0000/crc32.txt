@@ -1,0 +1,4 @@
+v-pmdrtdx_v65536.nfo	a3f56c46
+v-pmdrtdx_v65536.r00	1ef88769
+v-pmdrtdx_v65536.rar	48304152
+v-pmdrtdx_v65536.sfv	8a33dde4

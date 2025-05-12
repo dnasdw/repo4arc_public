@@ -1,0 +1,4 @@
+sxs-labyrinth_of_galleria_the_moon_society_v131072.nfo	-	3794	1	0	0	0
+sxs-labyrinth_of_galleria_the_moon_society_v131072.r00	-	13487814	1	3794	0	1
+sxs-labyrinth_of_galleria_the_moon_society_v131072.rar	-	100000000	1	13491608	0	14
+sxs-labyrinth_of_galleria_the_moon_society_v131072.sfv	-	130	1	113491608	0	110

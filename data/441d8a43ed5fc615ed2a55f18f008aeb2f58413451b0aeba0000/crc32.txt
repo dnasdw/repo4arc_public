@@ -1,0 +1,5 @@
+lfc-spst_v196608.nfo	83e1892b
+lfc-spst_v196608.r00	4f356163
+lfc-spst_v196608.r01	2348d4ee
+lfc-spst_v196608.rar	ad75a5bf
+lfc-spst_v196608.sfv	9622fd6a

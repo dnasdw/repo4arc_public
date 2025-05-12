@@ -1,0 +1,7 @@
+lfc-srad.nfo	43f62daf904f92fa57ceca68cc29376d
+lfc-srad.r00	aa0a892ccd8543e0384647aa935d3cc7
+lfc-srad.r01	26e716320eb59a76a78ac2f8439861e3
+lfc-srad.r02	0a46d5bc7fdbe3b6b2eb669a12b60681
+lfc-srad.r03	a6badfd75f217f0b6c1a95186d00a0bb
+lfc-srad.rar	854c845cfe1e8808e37bd3607ecf4f9c
+lfc-srad.sfv	661066bbc6c52975f9a4f70a83e9a767

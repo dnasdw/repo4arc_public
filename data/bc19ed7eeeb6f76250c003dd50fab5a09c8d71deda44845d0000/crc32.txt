@@ -1,0 +1,17 @@
+sxs-cyber_pool.nfo	11801502
+sxs-cyber_pool.r00	0ba1477a
+sxs-cyber_pool.r01	c2ec7a70
+sxs-cyber_pool.r02	4b0db7dc
+sxs-cyber_pool.r03	958f3ab4
+sxs-cyber_pool.r04	a2d70c20
+sxs-cyber_pool.r05	176cd6e6
+sxs-cyber_pool.r06	c66153b2
+sxs-cyber_pool.r07	40cba05f
+sxs-cyber_pool.r08	55cd8120
+sxs-cyber_pool.r09	34312188
+sxs-cyber_pool.r10	8e85984d
+sxs-cyber_pool.r11	7b989560
+sxs-cyber_pool.r12	385e29e8
+sxs-cyber_pool.r13	7cf6dc73
+sxs-cyber_pool.rar	107e54cf
+sxs-cyber_pool.sfv	b371bcb7

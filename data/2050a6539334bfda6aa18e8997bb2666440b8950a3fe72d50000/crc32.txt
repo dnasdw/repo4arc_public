@@ -1,0 +1,7 @@
+jrp-n-tp.nfo	5022cdc5
+jrp-tp.r00	de0f78dd
+jrp-tp.r01	5263ddf9
+jrp-tp.r02	ce0357bc
+jrp-tp.r03	6e943256
+jrp-tp.rar	84500da0
+jrp-tp.sfv	5f87d219

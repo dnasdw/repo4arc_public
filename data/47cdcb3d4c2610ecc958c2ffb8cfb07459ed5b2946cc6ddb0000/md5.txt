@@ -1,0 +1,13 @@
+Compiled Builds	d41d8cd98f00b204e9800998ecf8427e
+Compiled Builds/effecteditor.srl	f1ddd4810d918d2638174628692b5a4f
+Compiled Builds/HGSS -20241013T203308Z-001.zip	07daed9fb6e94e246c4105f7b759759b
+Compiled Builds/main_22706.7z	558ca7969c93a423fe802df188b3eda4
+Compiled Builds/main_9792.7z	a85345cdb8894c5558f6241c11ef6606
+Compiled Builds/main_hg_dbg_20080131.7z	5ecbea02e37f6ed019e484b6340e07c7
+Compiled Builds/main_hg_dbg_20081031.7z	b39bd5a99224415fe8f86bc5dbda8fce
+Compiled Builds/main_r2037-2008-11-28.srl	4c674632ed2c178c8adb7d4c8f2e4e7f
+Compiled Builds/main_r2319-2008-12-26.7z	fae3c2337d3fb4fc655d27b9578d514b
+Compiled Builds/main_trunk_44706.7z	0dc1deea49eccfac116918fdbf182993
+lol_admin_switch_accountinfo.png	1884b82499f4a5dfe84ad4ad86be63fa
+lol_admin_switch_allproducts.png	0a8688bd7f40f0692a675a489672ecf4
+Manifest.nfo	d9ffdd018ec7816f5336044f0ff2234b

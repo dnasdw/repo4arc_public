@@ -1,0 +1,6 @@
+v-ftking_v65536.nfo	fcdfc90b339388eb8fc48aef20ef3977
+v-ftking_v65536.r00	e28d36c11eb0ca642faabd4a05674ecf
+v-ftking_v65536.r01	038626657e4e2707bb1c2db725841161
+v-ftking_v65536.r02	1d671dadf662d1a7fcbe316880a4f1ff
+v-ftking_v65536.rar	8e54b4f3d49fc4252ddcdf81639d8ebd
+v-ftking_v65536.sfv	c5cb607ab1a1531762a0ff7b0a9517fb

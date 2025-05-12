@@ -1,0 +1,6 @@
+sxs-survivor_castaway_island_v65536.nfo	83030b7c
+sxs-survivor_castaway_island_v65536.r00	266b9fa2
+sxs-survivor_castaway_island_v65536.r01	4aa4a169
+sxs-survivor_castaway_island_v65536.r02	b1088624
+sxs-survivor_castaway_island_v65536.rar	16a081c2
+sxs-survivor_castaway_island_v65536.sfv	b9fcc9df

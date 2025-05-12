@@ -1,0 +1,13 @@
+sxs-project_warlock_v196608.nfo	852ef6ba
+sxs-project_warlock_v196608.r00	5ff91e94
+sxs-project_warlock_v196608.r01	c2e708f1
+sxs-project_warlock_v196608.r02	d8069272
+sxs-project_warlock_v196608.r03	63449382
+sxs-project_warlock_v196608.r04	053a63ac
+sxs-project_warlock_v196608.r05	8093e0ce
+sxs-project_warlock_v196608.r06	746d35e8
+sxs-project_warlock_v196608.r07	f7686cd8
+sxs-project_warlock_v196608.r08	13b4c938
+sxs-project_warlock_v196608.r09	fd0779b5
+sxs-project_warlock_v196608.rar	90b8522f
+sxs-project_warlock_v196608.sfv	34cb1eef

@@ -1,0 +1,13 @@
+lfc-shadowsofadamupd.nfo	-	4085	1	0	0	0
+lfc-shadowsofadamupd.r00	-	50000000	1	4085	0	1
+lfc-shadowsofadamupd.r01	-	50000000	1	50004085	0	49
+lfc-shadowsofadamupd.r02	-	50000000	1	100004085	0	97
+lfc-shadowsofadamupd.r03	-	50000000	1	150004085	0	145
+lfc-shadowsofadamupd.r04	-	50000000	1	200004085	0	193
+lfc-shadowsofadamupd.r05	-	50000000	1	250004085	0	241
+lfc-shadowsofadamupd.r06	-	50000000	1	300004085	0	289
+lfc-shadowsofadamupd.r07	-	50000000	1	350004085	0	337
+lfc-shadowsofadamupd.r08	-	50000000	1	400004085	0	385
+lfc-shadowsofadamupd.r09	-	4222925	1	450004085	0	433
+lfc-shadowsofadamupd.rar	-	50000000	1	454227010	0	438
+lfc-shadowsofadamupd.sfv	-	385	1	504227010	0	486

@@ -1,0 +1,3 @@
+sxs-syndrome_art_book_monsters_dlc.nfo	-	7772	1	0	0	0
+sxs-syndrome_art_book_monsters_dlc.rar	-	118562	1	7772	0	1
+sxs-syndrome_art_book_monsters_dlc.sfv	-	49	1	126334	0	2

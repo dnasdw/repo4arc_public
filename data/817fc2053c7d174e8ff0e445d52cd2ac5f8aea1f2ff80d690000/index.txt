@@ -1,0 +1,15 @@
+sxs-farm_mystery.nfo	-	3638	1	0	0	0
+sxs-farm_mystery.r00	-	50000000	1	3638	0	1
+sxs-farm_mystery.r01	-	50000000	1	50003638	0	49
+sxs-farm_mystery.r02	-	50000000	1	100003638	0	97
+sxs-farm_mystery.r03	-	50000000	1	150003638	0	145
+sxs-farm_mystery.r04	-	50000000	1	200003638	0	193
+sxs-farm_mystery.r05	-	50000000	1	250003638	0	241
+sxs-farm_mystery.r06	-	50000000	1	300003638	0	289
+sxs-farm_mystery.r07	-	50000000	1	350003638	0	337
+sxs-farm_mystery.r08	-	50000000	1	400003638	0	385
+sxs-farm_mystery.r09	-	50000000	1	450003638	0	433
+sxs-farm_mystery.r10	-	50000000	1	500003638	0	481
+sxs-farm_mystery.r11	-	9437039	1	12251264	1	12
+sxs-farm_mystery.rar	-	50000000	1	21688303	1	21
+sxs-farm_mystery.sfv	-	403	1	71688303	1	69

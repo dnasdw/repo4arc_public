@@ -1,0 +1,3 @@
+sxs-razerwire_nanowars_soundtrack_dlc.nfo	-	7148	1	0	0	0
+sxs-razerwire_nanowars_soundtrack_dlc.rar	-	122304	1	7148	0	1
+sxs-razerwire_nanowars_soundtrack_dlc.sfv	-	52	1	129452	0	2

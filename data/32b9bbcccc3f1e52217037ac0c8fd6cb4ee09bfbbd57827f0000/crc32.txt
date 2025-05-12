@@ -1,0 +1,4 @@
+sxs-panda_hero_v131072.nfo	4ddb25ca
+sxs-panda_hero_v131072.r00	6604cf67
+sxs-panda_hero_v131072.rar	93c75dda
+sxs-panda_hero_v131072.sfv	d9185f52

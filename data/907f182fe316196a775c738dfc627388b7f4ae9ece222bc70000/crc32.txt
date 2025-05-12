@@ -1,0 +1,10 @@
+sxs-please_dont_touch_anything.nfo	f64c9321
+sxs-please_dont_touch_anything.r00	b7d9623b
+sxs-please_dont_touch_anything.r01	a4d558b8
+sxs-please_dont_touch_anything.r02	bb9e4fa7
+sxs-please_dont_touch_anything.r03	0f5387f9
+sxs-please_dont_touch_anything.r04	96d3aa18
+sxs-please_dont_touch_anything.r05	216b9fdc
+sxs-please_dont_touch_anything.r06	e3b70f08
+sxs-please_dont_touch_anything.rar	8088122a
+sxs-please_dont_touch_anything.sfv	340bbc94

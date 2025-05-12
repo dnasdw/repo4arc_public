@@ -1,0 +1,5 @@
+sxs-cuphead_v196608.nfo	6cdefe161b62e87be8f4bb1fe854d18d
+sxs-cuphead_v196608.r00	935ca02d70ff33ef44ea0b5fd6bfd699
+sxs-cuphead_v196608.r01	48d8d8785ff214db9f5e42c044b66fbc
+sxs-cuphead_v196608.rar	e5b94716b6d62cd69ffb3ad4e5a6707d
+sxs-cuphead_v196608.sfv	56b03782eabcdeade6a803e3d4fab495

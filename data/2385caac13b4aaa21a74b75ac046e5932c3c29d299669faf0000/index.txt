@@ -1,0 +1,15 @@
+v-boxboy_plus_boxgirl.nfo	-	4888	1	0	0	0
+v-boxboy_plus_boxgirl.r00	-	50000000	1	4888	0	1
+v-boxboy_plus_boxgirl.r01	-	50000000	1	50004888	0	49
+v-boxboy_plus_boxgirl.r02	-	50000000	1	100004888	0	97
+v-boxboy_plus_boxgirl.r03	-	50000000	1	150004888	0	145
+v-boxboy_plus_boxgirl.r04	-	50000000	1	200004888	0	193
+v-boxboy_plus_boxgirl.r05	-	50000000	1	250004888	0	241
+v-boxboy_plus_boxgirl.r06	-	50000000	1	300004888	0	289
+v-boxboy_plus_boxgirl.r07	-	50000000	1	350004888	0	337
+v-boxboy_plus_boxgirl.r08	-	50000000	1	400004888	0	385
+v-boxboy_plus_boxgirl.r09	-	50000000	1	450004888	0	433
+v-boxboy_plus_boxgirl.r10	-	50000000	1	500004888	0	481
+v-boxboy_plus_boxgirl.r11	-	952049	1	12251264	1	12
+v-boxboy_plus_boxgirl.rar	-	50000000	1	13203313	1	13
+v-boxboy_plus_boxgirl.sfv	-	468	1	63203313	1	61

@@ -1,0 +1,6 @@
+lfc-hydx.nfo	92caaa0c2a81f042d0567bdb83f3cf08
+lfc-hydx.r00	c3b6662db197ee8b5bd58efa23473cfa
+lfc-hydx.r01	e743c131187db86f0a87c56a8e325a7b
+lfc-hydx.r02	283e6a28122beb315dd3e88896eb3aa8
+lfc-hydx.rar	87072d9934569b76cac74c11977606ec
+lfc-hydx.sfv	b7582b21480ea21d23f27b4d1f6ef746

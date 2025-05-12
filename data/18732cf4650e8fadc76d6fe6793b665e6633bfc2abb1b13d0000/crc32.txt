@@ -1,0 +1,16 @@
+lfc-cscl.nfo	b188af98
+lfc-cscl.r00	050575d0
+lfc-cscl.r01	b38abdaf
+lfc-cscl.r02	deaab922
+lfc-cscl.r03	de0f914b
+lfc-cscl.r04	5c8b8595
+lfc-cscl.r05	6a12ac8a
+lfc-cscl.r06	13eb3f54
+lfc-cscl.r07	21530ad9
+lfc-cscl.r08	65ca16ed
+lfc-cscl.r09	8f0e54d5
+lfc-cscl.r10	1b4ed018
+lfc-cscl.r11	a94e4d2e
+lfc-cscl.r12	b2093af5
+lfc-cscl.rar	0ed3911c
+lfc-cscl.sfv	7e7bfb34

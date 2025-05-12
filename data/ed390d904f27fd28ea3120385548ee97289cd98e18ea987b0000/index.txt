@@ -1,0 +1,6 @@
+sxs-farming_simulator_20_v196608.nfo	-	5276	1	0	0	0
+sxs-farming_simulator_20_v196608.r00	-	50000000	1	5276	0	1
+sxs-farming_simulator_20_v196608.r01	-	50000000	1	50005276	0	49
+sxs-farming_simulator_20_v196608.r02	-	27468384	1	100005276	0	97
+sxs-farming_simulator_20_v196608.rar	-	50000000	1	127473660	0	124
+sxs-farming_simulator_20_v196608.sfv	-	188	1	177473660	0	172

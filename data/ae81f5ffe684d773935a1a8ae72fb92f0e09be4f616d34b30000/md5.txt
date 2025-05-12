@@ -1,0 +1,4 @@
+sxs-spectrum_v110.nfo	95f8f6a00eeab829814d21bd51cc270e
+sxs-spectrum_v110.r00	898e11c9cc32decef6777a5b0073f3d7
+sxs-spectrum_v110.rar	90b6498e57bc28a28c4eed42f2003725
+sxs-spectrum_v110.sfv	0081aeb28a9f26509bbd1c1425643d7a

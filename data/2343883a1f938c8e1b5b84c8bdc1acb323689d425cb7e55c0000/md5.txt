@@ -1,0 +1,5 @@
+v-trombone_champ_v327680.nfo	3e7f4dd682ba35976beda0db0f240a75
+v-trombone_champ_v327680.r00	8e06f63c73f630963c788abde865d26b
+v-trombone_champ_v327680.r01	84812a239b29d85c21c13a7921cfe7f3
+v-trombone_champ_v327680.rar	5d37c511ee3d095fa581f0b39da7e5e3
+v-trombone_champ_v327680.sfv	807805dabb15e541814dd931b0a09510

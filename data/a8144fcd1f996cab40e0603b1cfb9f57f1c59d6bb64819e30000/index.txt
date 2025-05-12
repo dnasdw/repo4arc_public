@@ -1,0 +1,3 @@
+sxs-de_blob_2_v65536.nfo	-	5120	1	0	0	0
+sxs-de_blob_2_v65536.rar	-	16959009	1	5120	0	1
+sxs-de_blob_2_v65536.sfv	-	35	1	16964129	0	18

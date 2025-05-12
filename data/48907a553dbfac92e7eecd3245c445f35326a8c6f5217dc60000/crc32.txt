@@ -1,0 +1,8 @@
+sxs-black_legend_v196608.nfo	3c5c4f5a
+sxs-black_legend_v196608.r00	bf42017d
+sxs-black_legend_v196608.r01	2fc18883
+sxs-black_legend_v196608.r02	3018471e
+sxs-black_legend_v196608.r03	e78994f2
+sxs-black_legend_v196608.r04	0fbf2ba2
+sxs-black_legend_v196608.rar	69ffe843
+sxs-black_legend_v196608.sfv	9be8ddca

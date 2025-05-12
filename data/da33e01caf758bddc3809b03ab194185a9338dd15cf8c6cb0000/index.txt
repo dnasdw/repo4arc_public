@@ -1,0 +1,3 @@
+v-hogwarts_legacy_dark_arts_pack_dlc.nfo	-	6136	1	0	0	0
+v-hogwarts_legacy_dark_arts_pack_dlc.rar	-	124413	1	6136	0	1
+v-hogwarts_legacy_dark_arts_pack_dlc.sfv	-	51	1	130549	0	2

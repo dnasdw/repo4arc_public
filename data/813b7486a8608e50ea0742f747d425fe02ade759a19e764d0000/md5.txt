@@ -1,0 +1,8 @@
+lfc-areb.nfo	ddfac4b1595bee53b9ae2fb350ee5943
+lfc-areb.r00	11ecc816c42f2b36a9631fad52faa555
+lfc-areb.r01	9e7a31835ee16192a1d7e4d8be58620c
+lfc-areb.r02	bc6f5bc47c627784884af8c1db38ec2d
+lfc-areb.r03	93d55a3dc5601209e15b7758e91d82f2
+lfc-areb.r04	a62bc40272fc2254386f7e918cd5fce3
+lfc-areb.rar	2245ebee384108d2a9d98364c6dbf6e6
+lfc-areb.sfv	bff276675359ba348de440b2d1c7703f

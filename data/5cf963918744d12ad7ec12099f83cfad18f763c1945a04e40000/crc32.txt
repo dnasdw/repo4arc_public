@@ -1,0 +1,9 @@
+v-degrees_of_separation_v65536.nfo	de05bfab
+v-degrees_of_separation_v65536.r00	141ec63a
+v-degrees_of_separation_v65536.r01	e5f704da
+v-degrees_of_separation_v65536.r02	4d7ff659
+v-degrees_of_separation_v65536.r03	7269c9ca
+v-degrees_of_separation_v65536.r04	c41091b7
+v-degrees_of_separation_v65536.r05	de1e3b9b
+v-degrees_of_separation_v65536.rar	6ae92e3c
+v-degrees_of_separation_v65536.sfv	486577b6

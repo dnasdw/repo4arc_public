@@ -1,0 +1,6 @@
+sxs-doomed_to_hell.nfo	c614993a6f0f833de188f37fa2863d6214c19c9f
+sxs-doomed_to_hell.r00	7c407d7280a3e401ac28f3084a12edaa284ff7f9
+sxs-doomed_to_hell.r01	ff0e3e416964f7ea2c595c23d0625c3d36d2cd81
+sxs-doomed_to_hell.r02	620fbab5ac4af793df6704a1d741691ea6cd7b2a
+sxs-doomed_to_hell.rar	0ba8a24df103ea58c1c545c291e5afa7fb8efd37
+sxs-doomed_to_hell.sfv	0eb9a0811e1f90453229c31d45de2f23ecd8c11e

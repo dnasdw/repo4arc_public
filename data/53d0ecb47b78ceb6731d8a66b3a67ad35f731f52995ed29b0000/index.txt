@@ -1,0 +1,5 @@
+sxs-sonic_forces_episode_shadow_dlc.nfo	-	4964	1	0	0	0
+sxs-sonic_forces_episode_shadow_dlc.r00	-	100000000	1	4964	0	1
+sxs-sonic_forces_episode_shadow_dlc.r01	-	38867077	1	100004964	0	97
+sxs-sonic_forces_episode_shadow_dlc.rar	-	100000000	1	138872041	0	135
+sxs-sonic_forces_episode_shadow_dlc.sfv	-	150	1	238872041	0	231

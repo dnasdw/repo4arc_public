@@ -1,0 +1,6 @@
+sxs-blaster_master_zero_v393216.nfo	34e01013
+sxs-blaster_master_zero_v393216.r00	5ceb828b
+sxs-blaster_master_zero_v393216.r01	fb7c94f0
+sxs-blaster_master_zero_v393216.r02	331e34c1
+sxs-blaster_master_zero_v393216.rar	095999a4
+sxs-blaster_master_zero_v393216.sfv	e9eb9391

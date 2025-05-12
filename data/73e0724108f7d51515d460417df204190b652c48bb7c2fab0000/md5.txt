@@ -1,0 +1,7 @@
+bbb-n-smpkiosk.nfo	fac8a8be2b95b802b0e01081d69689ea
+bbb-n-smpkiosk.part1.rar	f6442405b729384ee3b421d5cc6ab8d0
+bbb-n-smpkiosk.part2.rar	45f848e040a6443fd3559131f7f2d130
+bbb-n-smpkiosk.part3.rar	b3f5951a444eec9d4e5fb8b289db1539
+bbb-n-smpkiosk.part4.rar	671215531463e331801b9c51a04f42a7
+bbb-n-smpkiosk.part5.rar	8fbb894ed23f40a746631a2207cfac24
+bbb-n-smpkiosk.sfv	130ca60a7e8c957a87d33fcf57caa052

@@ -1,0 +1,14 @@
+lfc-amongthesleepee.nfo	-	4301	1	0	0	0
+lfc-amongthesleepee.r00	-	100000000	1	4301	0	1
+lfc-amongthesleepee.r01	-	100000000	1	100004301	0	97
+lfc-amongthesleepee.r02	-	100000000	1	200004301	0	193
+lfc-amongthesleepee.r03	-	100000000	1	300004301	0	289
+lfc-amongthesleepee.r04	-	100000000	1	400004301	0	385
+lfc-amongthesleepee.r05	-	100000000	1	500004301	0	481
+lfc-amongthesleepee.r06	-	100000000	1	62251264	1	60
+lfc-amongthesleepee.r07	-	100000000	1	162251264	1	156
+lfc-amongthesleepee.r08	-	100000000	1	262251264	1	252
+lfc-amongthesleepee.r09	-	100000000	1	362251264	1	348
+lfc-amongthesleepee.r10	-	976400	1	462251264	1	444
+lfc-amongthesleepee.rar	-	100000000	1	463227664	1	445
+lfc-amongthesleepee.sfv	-	408	1	25551104	2	25

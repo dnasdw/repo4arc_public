@@ -1,0 +1,6 @@
+v-rival_megagun_v262144.nfo	0c269abf
+v-rival_megagun_v262144.r00	21440ffb
+v-rival_megagun_v262144.r01	a32ea4bb
+v-rival_megagun_v262144.r02	c7ddb8ff
+v-rival_megagun_v262144.rar	c72dfb10
+v-rival_megagun_v262144.sfv	e9484ff3

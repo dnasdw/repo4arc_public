@@ -1,0 +1,13 @@
+n-rowt.nfo	c8604844
+n-rowt.r00	81dc2729
+n-rowt.r01	1843729d
+n-rowt.r02	da1433cf
+n-rowt.r03	c15982f8
+n-rowt.r04	034a555b
+n-rowt.r05	dd2863cf
+n-rowt.r06	95c3a09f
+n-rowt.r07	21df9a22
+n-rowt.r08	34199aa8
+n-rowt.r09	fdf67945
+n-rowt.rar	be9139c2
+n-rowt.sfv	1ecbb77b

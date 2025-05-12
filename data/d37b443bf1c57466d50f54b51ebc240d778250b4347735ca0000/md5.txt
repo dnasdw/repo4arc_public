@@ -1,0 +1,11 @@
+brw-hnsw.nfo	43d358ac641c30a99aca4aa65f7605a6
+brw-hnsw.r00	72f0cc180897dedb38ff02b04e210345
+brw-hnsw.r01	c85ae69176e80dc1f4c6b7ff50440c8e
+brw-hnsw.r02	042e0e81eee212319d2ac86af70f54ad
+brw-hnsw.r03	a943842df3059ff94ae4cac3a58b861d
+brw-hnsw.r04	e2fdb787f19ded4306f7a158ce09d756
+brw-hnsw.r05	4d131e680a5b84b5cfda602c15068b11
+brw-hnsw.r06	62aa5d19719cc5e88437d7b9056273de
+brw-hnsw.r07	444012f814c28a469408f67e11dac9df
+brw-hnsw.rar	c5efe645fd50f92b8bd60b6a460c37fd
+brw-hnsw.sfv	eb4a75b2f0988df8fe8696618fd09a9e

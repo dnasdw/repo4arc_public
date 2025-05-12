@@ -1,0 +1,7 @@
+lfc-supertennisblastupd.nfo	c1787e1393a7ce35fea53213753c47c7
+lfc-supertennisblastupd.r00	be7d708edfbdd5e7719dd1327a415d06
+lfc-supertennisblastupd.r01	365bdcaf9dc3311143902dbe3836adf7
+lfc-supertennisblastupd.r02	f88037f1b4d2488389cd8c3ced1385b9
+lfc-supertennisblastupd.r03	e8a4939fed7b37d77d11bcfb458e3001
+lfc-supertennisblastupd.rar	3818ab45dcc046e0019888d4042d407c
+lfc-supertennisblastupd.sfv	e560deba5dfcaaa189287e5d85beeffc

@@ -1,0 +1,10 @@
+sxs-twin_mind_nobodys_here_collectors_edition.nfo	-	5042	1	0	0	0
+sxs-twin_mind_nobodys_here_collectors_edition.r00	-	100000000	1	5042	0	1
+sxs-twin_mind_nobodys_here_collectors_edition.r01	-	100000000	1	100005042	0	97
+sxs-twin_mind_nobodys_here_collectors_edition.r02	-	100000000	1	200005042	0	193
+sxs-twin_mind_nobodys_here_collectors_edition.r03	-	100000000	1	300005042	0	289
+sxs-twin_mind_nobodys_here_collectors_edition.r04	-	100000000	1	400005042	0	385
+sxs-twin_mind_nobodys_here_collectors_edition.r05	-	100000000	1	500005042	0	481
+sxs-twin_mind_nobodys_here_collectors_edition.r06	-	72327059	1	62251264	1	60
+sxs-twin_mind_nobodys_here_collectors_edition.rar	-	100000000	1	134578323	1	129
+sxs-twin_mind_nobodys_here_collectors_edition.sfv	-	480	1	234578323	1	225

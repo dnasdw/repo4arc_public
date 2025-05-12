@@ -1,0 +1,16 @@
+sxs-isolomus.nfo	b642eb13bdd86cb8efdf0a802afd9ab7
+sxs-isolomus.r00	e30e3b464ca9a640d895a0e8e9090338
+sxs-isolomus.r01	4b5dcc9758fa3a684c6c7f7b074d61a8
+sxs-isolomus.r02	ad997827e7f6b348a1dfd6a1927b09d4
+sxs-isolomus.r03	b2d791e62af7053005fca3ffed9951dd
+sxs-isolomus.r04	03de61eaf02cdd043a2e7105f030a57d
+sxs-isolomus.r05	1b597807014db47d9e730030f2942891
+sxs-isolomus.r06	5b82f6b788ec5031eacdcc0d8df87a40
+sxs-isolomus.r07	c34fe418d01c4bf73420121005cb8a07
+sxs-isolomus.r08	16fbe2fb13aa50960570bd4fb3edaf08
+sxs-isolomus.r09	c88105770619ddf2d150e22e012d0d62
+sxs-isolomus.r10	93dc14a552f87a8880690c320345f865
+sxs-isolomus.r11	e8a5e3c259e5a6ec237ef2568e68b836
+sxs-isolomus.r12	4db8a0a668c2a27bf03786d99ba62a46
+sxs-isolomus.rar	2b3e88906799cd234030d5ff61a42280
+sxs-isolomus.sfv	7b3570a0c3deeabebf185bc3edbc8f0d

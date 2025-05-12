@@ -1,0 +1,5 @@
+sxs-the_forest_quartet_v65536.nfo	3348d573
+sxs-the_forest_quartet_v65536.r00	2dca5fe0
+sxs-the_forest_quartet_v65536.r01	a9f8536f
+sxs-the_forest_quartet_v65536.rar	8075fb83
+sxs-the_forest_quartet_v65536.sfv	710765d5

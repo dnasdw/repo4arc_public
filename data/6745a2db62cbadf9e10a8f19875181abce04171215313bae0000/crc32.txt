@@ -1,0 +1,9 @@
+sxs-arcaea_v393216.nfo	eeb3a88d
+sxs-arcaea_v393216.r00	65b76f89
+sxs-arcaea_v393216.r01	53e6c9ad
+sxs-arcaea_v393216.r02	dacdee7b
+sxs-arcaea_v393216.r03	f8d01466
+sxs-arcaea_v393216.r04	508172cd
+sxs-arcaea_v393216.r05	f90741af
+sxs-arcaea_v393216.rar	e1ed61b5
+sxs-arcaea_v393216.sfv	705bbf13

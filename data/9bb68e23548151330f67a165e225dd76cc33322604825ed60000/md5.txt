@@ -1,0 +1,8 @@
+sxs-crocs_world.nfo	55c1157a29fbcb0882845f9350bdbb96
+sxs-crocs_world.r00	d23fe6f49d294fa72f01370bf174949b
+sxs-crocs_world.r01	db2171a34b3b5ace772e9d0c69502d1d
+sxs-crocs_world.r02	fae538ca26112333b27713551e681975
+sxs-crocs_world.r03	823cbf627ca47859d3daed4c473fbe31
+sxs-crocs_world.r04	0acabb1c58682eb9900669339b509d0f
+sxs-crocs_world.rar	678b3a94acfe35e0826d049e3cb39a3f
+sxs-crocs_world.sfv	ccfbe4f551f9685ede1c2821283fdac3

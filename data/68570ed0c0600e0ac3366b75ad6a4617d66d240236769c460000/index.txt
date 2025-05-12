@@ -1,0 +1,3 @@
+sxs-torchlight_ii_lang_dlc_pl.nfo	-	6759	1	0	0	0
+sxs-torchlight_ii_lang_dlc_pl.rar	-	118542	1	6759	0	1
+sxs-torchlight_ii_lang_dlc_pl.sfv	-	44	1	125301	0	2

@@ -1,0 +1,5 @@
+sxs-tunic_v65536.nfo	6ac6f3f3
+sxs-tunic_v65536.r00	43dbee82
+sxs-tunic_v65536.r01	9dba91e9
+sxs-tunic_v65536.rar	b1cac640
+sxs-tunic_v65536.sfv	74d31547

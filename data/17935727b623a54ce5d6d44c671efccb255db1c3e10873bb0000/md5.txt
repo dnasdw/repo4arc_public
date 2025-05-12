@@ -1,0 +1,4 @@
+lfc-repr.nfo	3ee8feece08df0ab1d48f567713a7dc8
+lfc-repr.r00	eaad85172edc6967b1de39ac1e20a891
+lfc-repr.rar	fb8313e8618608266b006307b4a1ac4d
+lfc-repr.sfv	c5435ef921ae530f3147179885e6ca99

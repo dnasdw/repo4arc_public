@@ -1,0 +1,7 @@
+sxs-alders_blood_v131072.nfo	2279d227
+sxs-alders_blood_v131072.r00	c8815bd1
+sxs-alders_blood_v131072.r01	a2ccbacf
+sxs-alders_blood_v131072.r02	47b2c859
+sxs-alders_blood_v131072.r03	f516b5ec
+sxs-alders_blood_v131072.rar	e7c491bd
+sxs-alders_blood_v131072.sfv	073b6a3c

@@ -1,0 +1,13 @@
+v-tactics_v_obsidian_brigade_v1179648.nfo	-	6371	1	0	0	0
+v-tactics_v_obsidian_brigade_v1179648.r00	-	50000000	1	6371	0	1
+v-tactics_v_obsidian_brigade_v1179648.r01	-	50000000	1	50006371	0	49
+v-tactics_v_obsidian_brigade_v1179648.r02	-	50000000	1	100006371	0	97
+v-tactics_v_obsidian_brigade_v1179648.r03	-	50000000	1	150006371	0	145
+v-tactics_v_obsidian_brigade_v1179648.r04	-	50000000	1	200006371	0	193
+v-tactics_v_obsidian_brigade_v1179648.r05	-	50000000	1	250006371	0	241
+v-tactics_v_obsidian_brigade_v1179648.r06	-	50000000	1	300006371	0	289
+v-tactics_v_obsidian_brigade_v1179648.r07	-	50000000	1	350006371	0	337
+v-tactics_v_obsidian_brigade_v1179648.r08	-	50000000	1	400006371	0	385
+v-tactics_v_obsidian_brigade_v1179648.r09	-	24997967	1	450006371	0	433
+v-tactics_v_obsidian_brigade_v1179648.rar	-	50000000	1	475004338	0	457
+v-tactics_v_obsidian_brigade_v1179648.sfv	-	572	1	525004338	0	505

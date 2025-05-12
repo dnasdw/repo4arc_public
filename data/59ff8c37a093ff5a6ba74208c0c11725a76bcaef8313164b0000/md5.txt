@@ -1,0 +1,5 @@
+sxs-final_fantasy_vi_v196608.nfo	e56ec47bd95d90805fbabf2b2b6688b9
+sxs-final_fantasy_vi_v196608.r00	b4266fe84ae02914984144aac6e9220f
+sxs-final_fantasy_vi_v196608.r01	ba081f68d3f1fa07b3e1b48eae556b83
+sxs-final_fantasy_vi_v196608.rar	797c8fd0710ffa7ee4c74724030cf3eb
+sxs-final_fantasy_vi_v196608.sfv	5702da4c0bdbd0abca43f08957c9f9a4

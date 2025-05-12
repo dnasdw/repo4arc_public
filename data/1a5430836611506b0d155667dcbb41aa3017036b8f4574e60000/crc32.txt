@@ -1,0 +1,8 @@
+sxs-double_dragon_4_v262144.nfo	aefee951
+sxs-double_dragon_4_v262144.r00	2b6a638e
+sxs-double_dragon_4_v262144.r01	dbdc7a6a
+sxs-double_dragon_4_v262144.r02	2817cf9c
+sxs-double_dragon_4_v262144.r03	4185fdb4
+sxs-double_dragon_4_v262144.r04	380d58e7
+sxs-double_dragon_4_v262144.rar	247f46b9
+sxs-double_dragon_4_v262144.sfv	9211466b

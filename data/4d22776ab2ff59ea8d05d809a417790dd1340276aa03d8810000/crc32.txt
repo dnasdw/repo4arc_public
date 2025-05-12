@@ -1,0 +1,7 @@
+sxs-abc_match_with_me.nfo	3be0ddf0
+sxs-abc_match_with_me.r00	aeb8c69b
+sxs-abc_match_with_me.r01	5e397e90
+sxs-abc_match_with_me.r02	27e9549c
+sxs-abc_match_with_me.r03	a0b22bf2
+sxs-abc_match_with_me.rar	0e4033cd
+sxs-abc_match_with_me.sfv	b9eab2d3

@@ -1,0 +1,13 @@
+sxs-horse_club_adventures_v196608.nfo	-	7539	1	0	0	0
+sxs-horse_club_adventures_v196608.r00	-	50000000	1	7539	0	1
+sxs-horse_club_adventures_v196608.r01	-	50000000	1	50007539	0	49
+sxs-horse_club_adventures_v196608.r02	-	50000000	1	100007539	0	97
+sxs-horse_club_adventures_v196608.r03	-	50000000	1	150007539	0	145
+sxs-horse_club_adventures_v196608.r04	-	50000000	1	200007539	0	193
+sxs-horse_club_adventures_v196608.r05	-	50000000	1	250007539	0	241
+sxs-horse_club_adventures_v196608.r06	-	50000000	1	300007539	0	289
+sxs-horse_club_adventures_v196608.r07	-	50000000	1	350007539	0	337
+sxs-horse_club_adventures_v196608.r08	-	50000000	1	400007539	0	385
+sxs-horse_club_adventures_v196608.r09	-	1992686	1	450007539	0	433
+sxs-horse_club_adventures_v196608.rar	-	50000000	1	452000225	0	435
+sxs-horse_club_adventures_v196608.sfv	-	528	1	502000225	0	483

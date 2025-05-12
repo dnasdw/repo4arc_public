@@ -1,0 +1,8 @@
+sxs-asscrr_rus_dlc.nfo	-	4340	1	0	0	0
+sxs-asscrr_rus_dlc.r00	-	50000000	1	4340	0	1
+sxs-asscrr_rus_dlc.r01	-	50000000	1	50004340	0	49
+sxs-asscrr_rus_dlc.r02	-	50000000	1	100004340	0	97
+sxs-asscrr_rus_dlc.r03	-	50000000	1	150004340	0	145
+sxs-asscrr_rus_dlc.r04	-	32148672	1	200004340	0	193
+sxs-asscrr_rus_dlc.rar	-	50000000	1	232153012	0	224
+sxs-asscrr_rus_dlc.sfv	-	198	1	282153012	0	272

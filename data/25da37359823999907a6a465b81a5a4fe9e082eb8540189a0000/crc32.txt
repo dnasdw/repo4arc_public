@@ -1,0 +1,8 @@
+sxs-five_nights_at_freddys_help_wanted_v65536.nfo	bc9e344b
+sxs-five_nights_at_freddys_help_wanted_v65536.r00	a48b5214
+sxs-five_nights_at_freddys_help_wanted_v65536.r01	20cd2e33
+sxs-five_nights_at_freddys_help_wanted_v65536.r02	b1ad0c8d
+sxs-five_nights_at_freddys_help_wanted_v65536.r03	c9a74d70
+sxs-five_nights_at_freddys_help_wanted_v65536.r04	6ae9ab16
+sxs-five_nights_at_freddys_help_wanted_v65536.rar	5c91e24c
+sxs-five_nights_at_freddys_help_wanted_v65536.sfv	4c5e2419

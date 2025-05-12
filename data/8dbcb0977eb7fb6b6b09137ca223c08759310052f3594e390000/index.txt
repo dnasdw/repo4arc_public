@@ -1,0 +1,3 @@
+sxs-o2_carnival_of_chaos_dlc.nfo	-	6446	1	0	0	0
+sxs-o2_carnival_of_chaos_dlc.rar	-	519632	1	6446	0	1
+sxs-o2_carnival_of_chaos_dlc.sfv	-	43	1	526078	0	2

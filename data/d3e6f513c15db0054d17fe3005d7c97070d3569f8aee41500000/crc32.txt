@@ -1,0 +1,9 @@
+sxs-lilas_sky_ark.nfo	8526f081
+sxs-lilas_sky_ark.r00	7a4ae83b
+sxs-lilas_sky_ark.r01	ac14dbd2
+sxs-lilas_sky_ark.r02	ded8b892
+sxs-lilas_sky_ark.r03	b461221b
+sxs-lilas_sky_ark.r04	43449df5
+sxs-lilas_sky_ark.r05	9481fb2b
+sxs-lilas_sky_ark.rar	bbb41ccc
+sxs-lilas_sky_ark.sfv	9bc54ac7

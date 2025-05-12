@@ -1,0 +1,4 @@
+sxs-nathan_jones_and_the_empty_century.nfo	-	7153	1	0	0	0
+sxs-nathan_jones_and_the_empty_century.r00	-	23168441	1	7153	0	1
+sxs-nathan_jones_and_the_empty_century.rar	-	100000000	1	23175594	0	24
+sxs-nathan_jones_and_the_empty_century.sfv	-	106	1	123175594	0	120

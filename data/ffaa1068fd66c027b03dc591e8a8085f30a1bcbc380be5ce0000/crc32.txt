@@ -1,0 +1,16 @@
+v-fri13th_v65536.nfo	b8d85044
+v-fri13th_v65536.r00	108c206c
+v-fri13th_v65536.r01	59e12fb2
+v-fri13th_v65536.r02	39c271d6
+v-fri13th_v65536.r03	f1d3047f
+v-fri13th_v65536.r04	461050ac
+v-fri13th_v65536.r05	209983d6
+v-fri13th_v65536.r06	14825323
+v-fri13th_v65536.r07	12bb4d02
+v-fri13th_v65536.r08	bc457cfa
+v-fri13th_v65536.r09	e575f83e
+v-fri13th_v65536.r10	f0460339
+v-fri13th_v65536.r11	0d848b1e
+v-fri13th_v65536.r12	e5fe47a5
+v-fri13th_v65536.rar	ba0abcf6
+v-fri13th_v65536.sfv	45514d01

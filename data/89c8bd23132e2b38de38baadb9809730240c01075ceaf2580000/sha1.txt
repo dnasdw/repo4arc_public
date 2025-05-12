@@ -1,0 +1,3 @@
+sxs-tales_of_vesperia_dlc.nfo	1017b7f10fb49d1dd5e06f35e50ac42baa82856c
+sxs-tales_of_vesperia_dlc.rar	1fb8e81973abfb15ff6729d75bbf4ee5f696ca36
+sxs-tales_of_vesperia_dlc.sfv	76135c84ffcdb7526c7de82a7ec8de018b870c3d

@@ -1,0 +1,12 @@
+sxs-puyo_puyo_esports_v262144.nfo	e33bb171
+sxs-puyo_puyo_esports_v262144.r00	f2deda55
+sxs-puyo_puyo_esports_v262144.r01	f506a5a5
+sxs-puyo_puyo_esports_v262144.r02	89aa6630
+sxs-puyo_puyo_esports_v262144.r03	a6cd7b84
+sxs-puyo_puyo_esports_v262144.r04	7ffddb4c
+sxs-puyo_puyo_esports_v262144.r05	2226a350
+sxs-puyo_puyo_esports_v262144.r06	5ee98ad1
+sxs-puyo_puyo_esports_v262144.r07	40770e3b
+sxs-puyo_puyo_esports_v262144.r08	5daa361d
+sxs-puyo_puyo_esports_v262144.rar	f43ad7ae
+sxs-puyo_puyo_esports_v262144.sfv	7577cfb2

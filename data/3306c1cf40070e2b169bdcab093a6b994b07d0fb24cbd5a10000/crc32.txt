@@ -1,0 +1,16 @@
+sxs-taiko_no_tatsujin_v720896.nfo	6a8d1069
+sxs-taiko_no_tatsujin_v720896.r00	cab2b74c
+sxs-taiko_no_tatsujin_v720896.r01	103da49c
+sxs-taiko_no_tatsujin_v720896.r02	a529574a
+sxs-taiko_no_tatsujin_v720896.r03	fd287eeb
+sxs-taiko_no_tatsujin_v720896.r04	98447f65
+sxs-taiko_no_tatsujin_v720896.r05	75c352cb
+sxs-taiko_no_tatsujin_v720896.r06	d5df0b0f
+sxs-taiko_no_tatsujin_v720896.r07	34bea5fc
+sxs-taiko_no_tatsujin_v720896.r08	41b43418
+sxs-taiko_no_tatsujin_v720896.r09	9ed3d925
+sxs-taiko_no_tatsujin_v720896.r10	4b7ea386
+sxs-taiko_no_tatsujin_v720896.r11	376f25e7
+sxs-taiko_no_tatsujin_v720896.r12	16d0cbe8
+sxs-taiko_no_tatsujin_v720896.rar	b7a5918a
+sxs-taiko_no_tatsujin_v720896.sfv	19d4f2f5

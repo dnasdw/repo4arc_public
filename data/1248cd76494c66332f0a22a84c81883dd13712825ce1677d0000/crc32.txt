@@ -1,0 +1,4 @@
+v-jars_v65536.nfo	9b0c52d1
+v-jars_v65536.r00	ed4f8e7e
+v-jars_v65536.rar	bfefc9a7
+v-jars_v65536.sfv	25b60ab2

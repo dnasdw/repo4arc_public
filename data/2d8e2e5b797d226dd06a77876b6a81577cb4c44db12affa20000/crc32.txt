@@ -1,0 +1,8 @@
+sxs-mutant_football_v65536.nfo	da2f66d8
+sxs-mutant_football_v65536.r00	b5340b5a
+sxs-mutant_football_v65536.r01	4337bd90
+sxs-mutant_football_v65536.r02	e420e115
+sxs-mutant_football_v65536.r03	8d2b7c90
+sxs-mutant_football_v65536.r04	b404ea58
+sxs-mutant_football_v65536.rar	e10e91f3
+sxs-mutant_football_v65536.sfv	f0611b9f

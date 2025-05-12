@@ -1,0 +1,4 @@
+hr-rogueheroes-bcp-dlc.nfo	-	11663	1	0	0	0
+hr-rogueheroes-bcp-dlc.r00	-	1927858	1	11663	0	1
+hr-rogueheroes-bcp-dlc.rar	-	50000000	1	1939521	0	3
+hr-rogueheroes-bcp-dlc.sfv	-	74	1	51939521	0	51

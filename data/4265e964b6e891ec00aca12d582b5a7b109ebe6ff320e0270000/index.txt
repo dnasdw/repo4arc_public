@@ -1,0 +1,6 @@
+sxs-overlanders_v196608.nfo	-	4808	1	0	0	0
+sxs-overlanders_v196608.r00	-	50000000	1	4808	0	1
+sxs-overlanders_v196608.r01	-	50000000	1	50004808	0	49
+sxs-overlanders_v196608.r02	-	47077917	1	100004808	0	97
+sxs-overlanders_v196608.rar	-	50000000	1	147082725	0	142
+sxs-overlanders_v196608.sfv	-	152	1	197082725	0	190

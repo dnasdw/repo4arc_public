@@ -1,0 +1,4 @@
+sxs-real_farm_premium_edition_v65536.nfo	-	5121	1	0	0	0
+sxs-real_farm_premium_edition_v65536.r00	-	30378992	1	5121	0	1
+sxs-real_farm_premium_edition_v65536.rar	-	50000000	1	30384113	0	30
+sxs-real_farm_premium_edition_v65536.sfv	-	102	1	80384113	0	78

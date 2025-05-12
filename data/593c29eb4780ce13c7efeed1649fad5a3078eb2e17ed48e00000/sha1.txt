@@ -1,0 +1,3 @@
+sxs-world_soccer_pinball_v65536.nfo	3785a3113cdee86b75f5c9415f481b0a80bc7e06
+sxs-world_soccer_pinball_v65536.rar	bdf740f92afe8aa55911808f775bb7a4020b4b06
+sxs-world_soccer_pinball_v65536.sfv	fc93c29161f3aac7bf634ef5838072d6ac1f6ea5

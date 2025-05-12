@@ -1,0 +1,11 @@
+sxs-beyond_a_steel_sky_v131072.nfo	8a2b702b
+sxs-beyond_a_steel_sky_v131072.r00	08c0cf51
+sxs-beyond_a_steel_sky_v131072.r01	72851808
+sxs-beyond_a_steel_sky_v131072.r02	af280516
+sxs-beyond_a_steel_sky_v131072.r03	0a5023cf
+sxs-beyond_a_steel_sky_v131072.r04	cd12f33b
+sxs-beyond_a_steel_sky_v131072.r05	07a9ca6e
+sxs-beyond_a_steel_sky_v131072.r06	af847e78
+sxs-beyond_a_steel_sky_v131072.r07	136d026d
+sxs-beyond_a_steel_sky_v131072.rar	17def674
+sxs-beyond_a_steel_sky_v131072.sfv	423d5068

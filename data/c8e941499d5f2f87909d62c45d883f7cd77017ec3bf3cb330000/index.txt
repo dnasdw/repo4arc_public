@@ -1,0 +1,4 @@
+v-carnival_v65536.nfo	-	5902	1	0	0	0
+v-carnival_v65536.r00	-	3054346	1	5902	0	1
+v-carnival_v65536.rar	-	50000000	1	3060248	0	4
+v-carnival_v65536.sfv	-	64	1	53060248	0	52

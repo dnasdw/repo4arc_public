@@ -1,0 +1,5 @@
+sxs-drawngeon_dungeons_of_ink_and_paper.nfo	1ef6de7b
+sxs-drawngeon_dungeons_of_ink_and_paper.r00	6c56beb6
+sxs-drawngeon_dungeons_of_ink_and_paper.r01	dbe6408c
+sxs-drawngeon_dungeons_of_ink_and_paper.rar	0ef85c6e
+sxs-drawngeon_dungeons_of_ink_and_paper.sfv	55509c40

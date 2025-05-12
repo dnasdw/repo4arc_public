@@ -1,0 +1,9 @@
+i-gtw.nfo	2deab277
+i-gtw.r00	dc5a269d
+i-gtw.r01	5682674b
+i-gtw.r02	9cce5047
+i-gtw.r03	d4710bd0
+i-gtw.r04	cea9919b
+i-gtw.r05	24ca1b36
+i-gtw.rar	cf7eb074
+i-gtw.sfv	c9289eb5

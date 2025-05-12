@@ -1,0 +1,4 @@
+sxs-cake_invaders.nfo	26da7505df2f4c9b26b4fc724570ac4e
+sxs-cake_invaders.r00	a914e42c2bae765d5b2ea55d4e0f5e98
+sxs-cake_invaders.rar	a998788f648651dbd31d0a6f8d8a9b49
+sxs-cake_invaders.sfv	557c17a2e57e1da856ad59f2c8c05e4f

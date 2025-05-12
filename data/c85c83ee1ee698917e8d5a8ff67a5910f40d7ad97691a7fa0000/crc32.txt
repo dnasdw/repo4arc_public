@@ -1,0 +1,7 @@
+lfc-wmlf.nfo	8fab8b6a
+lfc-wmlf.r00	8324cb10
+lfc-wmlf.r01	b985572e
+lfc-wmlf.r02	1115c46b
+lfc-wmlf.r03	79b2d90c
+lfc-wmlf.rar	ce4ff027
+lfc-wmlf.sfv	b2edb3bc

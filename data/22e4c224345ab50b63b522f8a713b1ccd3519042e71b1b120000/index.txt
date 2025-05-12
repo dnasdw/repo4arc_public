@@ -1,0 +1,3 @@
+sxs-rhapsody_marl_kingdom_chronicles_v65536.nfo	-	4106	1	0	0	0
+sxs-rhapsody_marl_kingdom_chronicles_v65536.rar	-	45617906	1	4106	0	1
+sxs-rhapsody_marl_kingdom_chronicles_v65536.sfv	-	58	1	45622012	0	45

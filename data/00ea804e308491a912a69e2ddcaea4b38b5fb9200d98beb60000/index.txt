@@ -1,0 +1,10 @@
+sxs-nelke_and_the_legendary_alchemists_ateliers_of_the_new_world_v196608.nfo	-	4574	1	0	0	0
+sxs-nelke_and_the_legendary_alchemists_ateliers_of_the_new_world_v196608.r00	-	50000000	1	4574	0	1
+sxs-nelke_and_the_legendary_alchemists_ateliers_of_the_new_world_v196608.r01	-	50000000	1	50004574	0	49
+sxs-nelke_and_the_legendary_alchemists_ateliers_of_the_new_world_v196608.r02	-	50000000	1	100004574	0	97
+sxs-nelke_and_the_legendary_alchemists_ateliers_of_the_new_world_v196608.r03	-	50000000	1	150004574	0	145
+sxs-nelke_and_the_legendary_alchemists_ateliers_of_the_new_world_v196608.r04	-	50000000	1	200004574	0	193
+sxs-nelke_and_the_legendary_alchemists_ateliers_of_the_new_world_v196608.r05	-	50000000	1	250004574	0	241
+sxs-nelke_and_the_legendary_alchemists_ateliers_of_the_new_world_v196608.r06	-	36635201	1	300004574	0	289
+sxs-nelke_and_the_legendary_alchemists_ateliers_of_the_new_world_v196608.rar	-	50000000	1	336639775	0	324
+sxs-nelke_and_the_legendary_alchemists_ateliers_of_the_new_world_v196608.sfv	-	696	1	386639775	0	372

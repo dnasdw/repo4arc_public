@@ -1,0 +1,10 @@
+v-psychic_storm.nfo	-	4576	1	0	0	0
+v-psychic_storm.r00	-	100000000	1	4576	0	1
+v-psychic_storm.r01	-	100000000	1	100004576	0	97
+v-psychic_storm.r02	-	100000000	1	200004576	0	193
+v-psychic_storm.r03	-	100000000	1	300004576	0	289
+v-psychic_storm.r04	-	100000000	1	400004576	0	385
+v-psychic_storm.r05	-	100000000	1	500004576	0	481
+v-psychic_storm.r06	-	22231479	1	62251264	1	60
+v-psychic_storm.rar	-	100000000	1	84482743	1	82
+v-psychic_storm.sfv	-	240	1	184482743	1	178

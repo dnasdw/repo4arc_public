@@ -1,0 +1,4 @@
+sxs-worm_jazz_v65536.nfo	-	4574	1	0	0	0
+sxs-worm_jazz_v65536.r00	-	21559898	1	4574	0	1
+sxs-worm_jazz_v65536.rar	-	50000000	1	21564472	0	22
+sxs-worm_jazz_v65536.sfv	-	70	1	71564472	0	70

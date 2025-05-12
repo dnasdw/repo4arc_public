@@ -1,0 +1,7 @@
+sxs-rtmr.nfo	0abbaf80
+sxs-rtmr.r00	50ed5c67
+sxs-rtmr.r01	cd27d313
+sxs-rtmr.r02	d9122964
+sxs-rtmr.r03	46dd089e
+sxs-rtmr.rar	7ce93b04
+sxs-rtmr.sfv	fbf8eccd

@@ -1,0 +1,13 @@
+lfc-funt.nfo	8179672eefaa277f260d37847860d12c
+lfc-funt.r00	c500bceba11c9e90e02a102af3ba0ef8
+lfc-funt.r01	f0ecbee4de695fcc0b0663d2adbfe695
+lfc-funt.r02	fa206f76217a675b727a6eb537e7e6cb
+lfc-funt.r03	0083674f9865a3f0dcd074c2f9eee3ce
+lfc-funt.r04	a9788968f80a60180e89827f724b2279
+lfc-funt.r05	bae15e7e2d2d7be47d874bde94885792
+lfc-funt.r06	35021f0de5e97652ca82ceeb036ec875
+lfc-funt.r07	ce104aeb74e4d1917147fe78e62be256
+lfc-funt.r08	331c730b9b6fa04deba5e142b8f4e337
+lfc-funt.r09	56d40d5ea493eb591d2ad9412602cf91
+lfc-funt.rar	6ea0a7f15607c29c7fd167efbd0a0a3e
+lfc-funt.sfv	4857ec4547707d7b7552510afd62d016

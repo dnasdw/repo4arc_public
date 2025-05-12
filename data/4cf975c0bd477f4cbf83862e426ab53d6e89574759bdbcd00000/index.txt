@@ -1,0 +1,3 @@
+sxs-robolt.nfo	-	4964	1	0	0	0
+sxs-robolt.rar	-	41571863	1	4964	0	1
+sxs-robolt.sfv	-	25	1	41576827	0	41

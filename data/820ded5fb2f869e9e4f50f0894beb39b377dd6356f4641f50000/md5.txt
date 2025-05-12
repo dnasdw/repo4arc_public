@@ -1,0 +1,5 @@
+sxs-the_forest_quartet_v131072.nfo	2185689f2d602c8257cee261e72d8c34
+sxs-the_forest_quartet_v131072.r00	ab0b2c500242c4afc2da5183db8ea9eb
+sxs-the_forest_quartet_v131072.r01	d6e99af433fd6970d3f502e22fcfbb84
+sxs-the_forest_quartet_v131072.rar	fb08fe84d6ed93722db5217c77dc660f
+sxs-the_forest_quartet_v131072.sfv	aab2712ff9935ff7fc7f3c5cce91a9ee

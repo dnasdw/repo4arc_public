@@ -1,0 +1,4 @@
+sxs-lucky_slots.nfo	-	4886	1	0	0	0
+sxs-lucky_slots.r00	-	14919212	1	4886	0	1
+sxs-lucky_slots.rar	-	100000000	1	14924098	0	16
+sxs-lucky_slots.sfv	-	60	1	114924098	0	112

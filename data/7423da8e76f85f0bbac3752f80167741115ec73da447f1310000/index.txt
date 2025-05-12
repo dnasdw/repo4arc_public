@@ -1,0 +1,16 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-spongebob_krusty_cook_off.jpg	-	167567	1	0	0	0
+sxs-spongebob_krusty_cook_off.nfo	-	8552	1	167567	0	1
+sxs-spongebob_krusty_cook_off.r00	-	100000000	1	176119	0	2
+sxs-spongebob_krusty_cook_off.r01	-	100000000	1	100176119	0	98
+sxs-spongebob_krusty_cook_off.r02	-	100000000	1	200176119	0	194
+sxs-spongebob_krusty_cook_off.r03	-	100000000	1	300176119	0	290
+sxs-spongebob_krusty_cook_off.r04	-	100000000	1	400176119	0	386
+sxs-spongebob_krusty_cook_off.r05	-	100000000	1	500176119	0	482
+sxs-spongebob_krusty_cook_off.r06	-	100000000	1	63299840	1	61
+sxs-spongebob_krusty_cook_off.r07	-	100000000	1	163299840	1	157
+sxs-spongebob_krusty_cook_off.r08	-	100000000	1	263299840	1	253
+sxs-spongebob_krusty_cook_off.r09	-	100000000	1	363299840	1	349
+sxs-spongebob_krusty_cook_off.r10	-	21865622	1	463299840	1	445
+sxs-spongebob_krusty_cook_off.rar	-	100000000	1	485165462	1	466
+sxs-spongebob_krusty_cook_off.sfv	-	528	1	47571200	2	46

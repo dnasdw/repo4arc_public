@@ -1,0 +1,9 @@
+lfc-tota_v327680.nfo	ab2069ed
+lfc-tota_v327680.r00	e5233dcf
+lfc-tota_v327680.r01	d1f318bf
+lfc-tota_v327680.r02	29fbb4df
+lfc-tota_v327680.r03	eecf982a
+lfc-tota_v327680.r04	49ed5007
+lfc-tota_v327680.r05	d0ab9464
+lfc-tota_v327680.rar	b8cb587e
+lfc-tota_v327680.sfv	1194db20

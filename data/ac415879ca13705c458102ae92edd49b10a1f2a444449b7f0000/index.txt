@@ -1,0 +1,4 @@
+lfc-czec.nfo	-	6637	1	0	0	0
+lfc-czec.r00	-	18146550	1	6637	0	1
+lfc-czec.rar	-	50000000	1	18153187	0	19
+lfc-czec.sfv	-	46	1	68153187	0	67

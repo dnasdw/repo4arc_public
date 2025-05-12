@@ -1,0 +1,3 @@
+v-doom_ii_doom_zero_dlc.nfo	-	8242	1	0	0	0
+v-doom_ii_doom_zero_dlc.rar	-	10169534	1	8242	0	1
+v-doom_ii_doom_zero_dlc.sfv	-	38	1	10177776	0	11

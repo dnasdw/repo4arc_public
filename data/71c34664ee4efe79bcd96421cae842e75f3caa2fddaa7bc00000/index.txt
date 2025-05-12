@@ -1,0 +1,10 @@
+bbb-n-amela.nfo	-	5517	1	0	0	0
+bbb-n-amela.part1.rar	-	250000000	1	5517	0	1
+bbb-n-amela.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-amela.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-amela.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-amela.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-amela.part6.rar	-	250000000	1	174502528	2	167
+bbb-n-amela.part7.rar	-	250000000	1	424502528	2	406
+bbb-n-amela.part8.rar	-	107077949	1	136753792	3	131
+bbb-n-amela.sfv	-	256	1	243831741	3	234

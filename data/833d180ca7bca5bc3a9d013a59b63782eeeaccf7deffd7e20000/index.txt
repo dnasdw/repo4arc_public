@@ -1,0 +1,3 @@
+sxs-snowrunner_v1572864_dlc.nfo	-	8396	1	0	0	0
+sxs-snowrunner_v1572864_dlc.rar	-	4222452	1	8396	0	1
+sxs-snowrunner_v1572864_dlc.sfv	-	42	1	4230848	0	6

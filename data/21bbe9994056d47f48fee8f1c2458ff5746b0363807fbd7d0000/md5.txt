@@ -1,0 +1,7 @@
+sxs-girabox.nfo	937495ff4959462c746a89ec3efd792d
+sxs-girabox.r00	3f3a6fb8da53de87e1a2559b219f5c30
+sxs-girabox.r01	5fcbb871d03b5df36f768db807906c67
+sxs-girabox.r02	f37e1b3a87628c19b12cfdd79b18a1a6
+sxs-girabox.r03	b407bcefe293ed5898d233c48ff7fa13
+sxs-girabox.rar	c7b4832c3276fd87e4771e9a647825fd
+sxs-girabox.sfv	b488704f4a09a33d5afbdee5e94af7e5

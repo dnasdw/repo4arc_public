@@ -1,0 +1,11 @@
+sxs-imp_of_the_sun_v131072.nfo	4bac0bf3
+sxs-imp_of_the_sun_v131072.r00	9ac0cf73
+sxs-imp_of_the_sun_v131072.r01	e7329cc2
+sxs-imp_of_the_sun_v131072.r02	7e25997a
+sxs-imp_of_the_sun_v131072.r03	9dcf99b0
+sxs-imp_of_the_sun_v131072.r04	495b81ea
+sxs-imp_of_the_sun_v131072.r05	8363045e
+sxs-imp_of_the_sun_v131072.r06	7765c9b5
+sxs-imp_of_the_sun_v131072.r07	ce73fe42
+sxs-imp_of_the_sun_v131072.rar	aaa5fbdc
+sxs-imp_of_the_sun_v131072.sfv	fa9b652d

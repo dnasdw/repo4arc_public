@@ -1,0 +1,6 @@
+sxs-coin_rush.nfo	d7c78540
+sxs-coin_rush.r00	8339b7fa
+sxs-coin_rush.r01	005817a8
+sxs-coin_rush.r02	b896441a
+sxs-coin_rush.rar	0e6742ea
+sxs-coin_rush.sfv	e9e6a8fd

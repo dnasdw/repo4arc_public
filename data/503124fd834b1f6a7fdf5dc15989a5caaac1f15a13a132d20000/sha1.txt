@@ -1,0 +1,4 @@
+brw-tdmn.nfo	e85deb5a55e4e515947c98e19c3be08f0baa2339
+brw-tdmn.r00	54da21bb19d19dc529bee67609a3e17ecdd2c04d
+brw-tdmn.rar	8e1bd81ff4c959cb6b464b5d1a742760dd732758
+brw-tdmn.sfv	70781fc9e9dd6977e4dd732368752edfaccdf515

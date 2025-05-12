@@ -1,0 +1,7 @@
+sxs-crystar_v131072.nfo	6beeb33f45e0acccca2ef829da07fc06
+sxs-crystar_v131072.r00	2d98177e4f6b238167d7f15202d54ed3
+sxs-crystar_v131072.r01	ead4f64f211900ece329a022bddbde5b
+sxs-crystar_v131072.r02	7f166bae7c66eb14f46e4fcd2eaacce7
+sxs-crystar_v131072.r03	3e523f2f7fe778bb1142889a499f5d19
+sxs-crystar_v131072.rar	cd81fafe37e7285d1c7addba0684876a
+sxs-crystar_v131072.sfv	ec47364daf6031fb304291dd4865ce58

@@ -1,0 +1,17 @@
+v-darq_complete_edition_v196608.nfo	161dd45a
+v-darq_complete_edition_v196608.r00	1aab00f0
+v-darq_complete_edition_v196608.r01	265dc0f8
+v-darq_complete_edition_v196608.r02	92bf6a52
+v-darq_complete_edition_v196608.r03	6e401b25
+v-darq_complete_edition_v196608.r04	91224c6a
+v-darq_complete_edition_v196608.r05	e3fc19e3
+v-darq_complete_edition_v196608.r06	6c2b04fc
+v-darq_complete_edition_v196608.r07	64e1aec0
+v-darq_complete_edition_v196608.r08	3ef59aa3
+v-darq_complete_edition_v196608.r09	44688aaa
+v-darq_complete_edition_v196608.r10	564946e4
+v-darq_complete_edition_v196608.r11	8eedcf64
+v-darq_complete_edition_v196608.r12	cf669832
+v-darq_complete_edition_v196608.r13	5a350c5f
+v-darq_complete_edition_v196608.rar	0b49e572
+v-darq_complete_edition_v196608.sfv	ebb8f159

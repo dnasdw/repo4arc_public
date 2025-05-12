@@ -1,0 +1,9 @@
+sxs-arcaea_v131072.nfo	19525150
+sxs-arcaea_v131072.r00	5e671db9
+sxs-arcaea_v131072.r01	77c57c56
+sxs-arcaea_v131072.r02	b1f4a078
+sxs-arcaea_v131072.r03	fb9e5265
+sxs-arcaea_v131072.r04	6d2e382c
+sxs-arcaea_v131072.r05	ec7ad94e
+sxs-arcaea_v131072.rar	818d5878
+sxs-arcaea_v131072.sfv	63f724b8

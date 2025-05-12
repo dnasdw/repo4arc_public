@@ -1,0 +1,6 @@
+sxs-katamari_damacy_reroll_v65536.nfo	23bb527e
+sxs-katamari_damacy_reroll_v65536.r00	6d7bd7e7
+sxs-katamari_damacy_reroll_v65536.r01	3d79e267
+sxs-katamari_damacy_reroll_v65536.r02	3c9606b2
+sxs-katamari_damacy_reroll_v65536.rar	046f8cb5
+sxs-katamari_damacy_reroll_v65536.sfv	df02c518

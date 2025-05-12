@@ -1,0 +1,7 @@
+sxs-abc_match_with_me.nfo	-	5510	1	0	0	0
+sxs-abc_match_with_me.r00	-	50000000	1	5510	0	1
+sxs-abc_match_with_me.r01	-	50000000	1	50005510	0	49
+sxs-abc_match_with_me.r02	-	50000000	1	100005510	0	97
+sxs-abc_match_with_me.r03	-	24109361	1	150005510	0	145
+sxs-abc_match_with_me.rar	-	50000000	1	174114871	0	168
+sxs-abc_match_with_me.sfv	-	180	1	224114871	0	216

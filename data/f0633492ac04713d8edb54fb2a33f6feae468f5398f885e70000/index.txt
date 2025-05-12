@@ -1,0 +1,6 @@
+sxs-trash_sailors_v65536.nfo	-	4418	1	0	0	0
+sxs-trash_sailors_v65536.r00	-	100000000	1	4418	0	1
+sxs-trash_sailors_v65536.r01	-	100000000	1	100004418	0	97
+sxs-trash_sailors_v65536.r02	-	41946582	1	200004418	0	193
+sxs-trash_sailors_v65536.rar	-	100000000	1	241951000	0	234
+sxs-trash_sailors_v65536.sfv	-	156	1	341951000	0	330

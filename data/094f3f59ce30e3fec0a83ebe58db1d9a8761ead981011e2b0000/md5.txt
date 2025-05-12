@@ -1,0 +1,7 @@
+sxs-neurovoider_v262144.nfo	b35d321a2945933dd8cfa7946a20c8e6
+sxs-neurovoider_v262144.r00	5dae7c0cb6a63792a2c67e3139b975d8
+sxs-neurovoider_v262144.r01	fc613e0f06de56c8790bbfe27f17fa3d
+sxs-neurovoider_v262144.r02	0b9064e80fccca56855117a00a0a9798
+sxs-neurovoider_v262144.r03	7c7c79fb269b5d0a83146e137db10626
+sxs-neurovoider_v262144.rar	ed00a7b467afffe4a7f3ab50e940bf60
+sxs-neurovoider_v262144.sfv	f6458454c14c1fd0690a479edcc33d24

@@ -1,0 +1,7 @@
+sxs-twilight_survivors_v131072.nfo	c1f683fa
+sxs-twilight_survivors_v131072.r00	8f7ff4b4
+sxs-twilight_survivors_v131072.r01	9a70a5b4
+sxs-twilight_survivors_v131072.r02	7849c463
+sxs-twilight_survivors_v131072.r03	de1f86d4
+sxs-twilight_survivors_v131072.rar	6174749d
+sxs-twilight_survivors_v131072.sfv	ceb59b47

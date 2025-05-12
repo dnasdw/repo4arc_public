@@ -1,0 +1,4 @@
+v-vahss_v65536.nfo	db194ad5
+v-vahss_v65536.r00	ac2b675d
+v-vahss_v65536.rar	dd5d0d95
+v-vahss_v65536.sfv	3b0bbc56

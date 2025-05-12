@@ -1,0 +1,6 @@
+sxs-the_hundred_year_kingdom_v589824.nfo	-	5744	1	0	0	0
+sxs-the_hundred_year_kingdom_v589824.r00	-	100000000	1	5744	0	1
+sxs-the_hundred_year_kingdom_v589824.r01	-	100000000	1	100005744	0	97
+sxs-the_hundred_year_kingdom_v589824.r02	-	79829262	1	200005744	0	193
+sxs-the_hundred_year_kingdom_v589824.rar	-	100000000	1	279835006	0	270
+sxs-the_hundred_year_kingdom_v589824.sfv	-	204	1	379835006	0	366

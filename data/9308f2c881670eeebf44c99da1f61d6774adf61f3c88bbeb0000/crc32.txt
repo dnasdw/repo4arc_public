@@ -1,0 +1,11 @@
+l-egop.nfo	7deb0943
+l-egop.r00	8f3a24e8
+l-egop.r01	6037410e
+l-egop.r02	35a142da
+l-egop.r03	f19778a7
+l-egop.r04	079e3b3f
+l-egop.r05	1fc45ddc
+l-egop.r06	e27160e9
+l-egop.r07	aae908ae
+l-egop.rar	996bd950
+l-egop.sfv	1f6d5187

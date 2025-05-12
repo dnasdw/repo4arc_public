@@ -1,0 +1,5 @@
+sxs-game_dev_story_v196608.nfo	679fe91b
+sxs-game_dev_story_v196608.r00	7636bf28
+sxs-game_dev_story_v196608.r01	3298e285
+sxs-game_dev_story_v196608.rar	e9d2fba4
+sxs-game_dev_story_v196608.sfv	eef562c9

@@ -1,0 +1,9 @@
+v-arcade_game_zone.nfo	-	7696	1	0	0	0
+v-arcade_game_zone.r00	-	100000000	1	7696	0	1
+v-arcade_game_zone.r01	-	100000000	1	100007696	0	97
+v-arcade_game_zone.r02	-	100000000	1	200007696	0	193
+v-arcade_game_zone.r03	-	100000000	1	300007696	0	289
+v-arcade_game_zone.r04	-	100000000	1	400007696	0	385
+v-arcade_game_zone.r05	-	39530973	1	500007696	0	481
+v-arcade_game_zone.rar	-	100000000	1	1782237	1	2
+v-arcade_game_zone.sfv	-	231	1	101782237	1	98

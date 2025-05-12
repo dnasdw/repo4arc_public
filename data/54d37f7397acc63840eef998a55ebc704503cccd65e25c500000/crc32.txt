@@ -1,0 +1,6 @@
+sxs-word_forward.nfo	f68a454f
+sxs-word_forward.r00	9f620e8d
+sxs-word_forward.r01	a6cdb384
+sxs-word_forward.r02	6513ae56
+sxs-word_forward.rar	a54d8924
+sxs-word_forward.sfv	4d489324

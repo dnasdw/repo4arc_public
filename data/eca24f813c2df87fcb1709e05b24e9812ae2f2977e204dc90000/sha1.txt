@@ -1,0 +1,7 @@
+sxs-creepy_tale.nfo	c1f80748b762d77242d8fa4e87ce5ad110ef2887
+sxs-creepy_tale.r00	a3a39dfe4010aa5fc5d14eb25523bef76dc33386
+sxs-creepy_tale.r01	aa56512f765aca2cdc73118152d850a9bdd9e51d
+sxs-creepy_tale.r02	884355aba399544c2bfe23ddd2aa9dc9135b415d
+sxs-creepy_tale.r03	8562e881de5381a8ce53ff2995d9061622373a2a
+sxs-creepy_tale.rar	c3fcf394f80e8c562e0a118585fb4c9a255e64fa
+sxs-creepy_tale.sfv	f0f8d1519d5d6d822db4f0d128fd8d7da02338bd

@@ -1,0 +1,8 @@
+v-blood_waves_v131072.nfo	1e354d51bbd710fac8f4d09f8189aaa7
+v-blood_waves_v131072.r00	102cf861f94c059bf36d255f8aef52bf
+v-blood_waves_v131072.r01	127a63670acef501f2e9951b25737abf
+v-blood_waves_v131072.r02	b734047371cf6c10b640861ff677b95a
+v-blood_waves_v131072.r03	c17a4be691e2f6545095f0c3657c29ce
+v-blood_waves_v131072.r04	1df4ba46d94fae7adc166d793d45be63
+v-blood_waves_v131072.rar	0485c88ccc4b703c4e2dd283cb86211c
+v-blood_waves_v131072.sfv	f811c32c534f4f620d85f76a2e99ce4b

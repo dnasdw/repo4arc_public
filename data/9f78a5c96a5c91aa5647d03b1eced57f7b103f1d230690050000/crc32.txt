@@ -1,0 +1,4 @@
+sxs-red_colony_v65536.nfo	e7f201a9
+sxs-red_colony_v65536.r00	40483c77
+sxs-red_colony_v65536.rar	97fd20f1
+sxs-red_colony_v65536.sfv	819e8ebe

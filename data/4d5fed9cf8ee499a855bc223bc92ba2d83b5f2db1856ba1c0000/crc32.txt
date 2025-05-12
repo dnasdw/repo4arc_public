@@ -1,0 +1,16 @@
+v-super_dodgeball_beats.nfo	eb1cf5df
+v-super_dodgeball_beats.r00	c7122e35
+v-super_dodgeball_beats.r01	25d18022
+v-super_dodgeball_beats.r02	f8e48719
+v-super_dodgeball_beats.r03	aca68961
+v-super_dodgeball_beats.r04	8e267155
+v-super_dodgeball_beats.r05	8f42f37c
+v-super_dodgeball_beats.r06	c8faecb6
+v-super_dodgeball_beats.r07	672096e1
+v-super_dodgeball_beats.r08	09a450b3
+v-super_dodgeball_beats.r09	ea319b9b
+v-super_dodgeball_beats.r10	3fd1fe53
+v-super_dodgeball_beats.r11	199a5ad3
+v-super_dodgeball_beats.r12	05709982
+v-super_dodgeball_beats.rar	1ea9e751
+v-super_dodgeball_beats.sfv	c3341d48

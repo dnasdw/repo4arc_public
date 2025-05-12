@@ -1,0 +1,17 @@
+sxs-truck_simulator_usa_revolution.nfo	-	6758	1	0	0	0
+sxs-truck_simulator_usa_revolution.r00	-	100000000	1	6758	0	1
+sxs-truck_simulator_usa_revolution.r01	-	100000000	1	100006758	0	97
+sxs-truck_simulator_usa_revolution.r02	-	100000000	1	200006758	0	193
+sxs-truck_simulator_usa_revolution.r03	-	100000000	1	300006758	0	289
+sxs-truck_simulator_usa_revolution.r04	-	100000000	1	400006758	0	385
+sxs-truck_simulator_usa_revolution.r05	-	100000000	1	500006758	0	481
+sxs-truck_simulator_usa_revolution.r06	-	100000000	1	62251264	1	60
+sxs-truck_simulator_usa_revolution.r07	-	100000000	1	162251264	1	156
+sxs-truck_simulator_usa_revolution.r08	-	100000000	1	262251264	1	252
+sxs-truck_simulator_usa_revolution.r09	-	100000000	1	362251264	1	348
+sxs-truck_simulator_usa_revolution.r10	-	100000000	1	462251264	1	444
+sxs-truck_simulator_usa_revolution.r11	-	100000000	1	24502528	2	24
+sxs-truck_simulator_usa_revolution.r12	-	100000000	1	124502528	2	120
+sxs-truck_simulator_usa_revolution.r13	-	78198856	1	224502528	2	216
+sxs-truck_simulator_usa_revolution.rar	-	100000000	1	302701384	2	291
+sxs-truck_simulator_usa_revolution.sfv	-	735	1	402701384	2	387

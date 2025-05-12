@@ -1,0 +1,3 @@
+sxs-arcaea_x_wacca_dlc.nfo	26acc3b1b7f67d18ff644f053834f294439b50df
+sxs-arcaea_x_wacca_dlc.rar	8611dd3a8e29b785770863209d758829b9932d58
+sxs-arcaea_x_wacca_dlc.sfv	7c5bbc5bea74e88e4ad0836906e1fb2e7f99ef8c

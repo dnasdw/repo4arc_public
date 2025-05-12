@@ -1,0 +1,6 @@
+bbb-n-adrba.nfo	-	5517	1	0	0	0
+bbb-n-adrba.part1.rar	-	250000000	1	5517	0	1
+bbb-n-adrba.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-adrba.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-adrba.part4.rar	-	131821757	1	212251264	1	203
+bbb-n-adrba.sfv	-	128	1	344073021	1	329

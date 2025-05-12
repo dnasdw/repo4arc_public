@@ -1,0 +1,8 @@
+bbb-n-ad7da.nfo	-	5517	1	0	0	0
+bbb-n-ad7da.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ad7da.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ad7da.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-ad7da.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-ad7da.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-ad7da.part6.rar	-	85760755	1	174502528	2	167
+bbb-n-ad7da.sfv	-	192	1	260263283	2	249

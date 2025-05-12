@@ -1,0 +1,7 @@
+sxs-502s_arcade.nfo	b30a7ff6
+sxs-502s_arcade.r00	38af1d30
+sxs-502s_arcade.r01	9c2acaf6
+sxs-502s_arcade.r02	15674da0
+sxs-502s_arcade.r03	8268acd6
+sxs-502s_arcade.rar	35072590
+sxs-502s_arcade.sfv	a4818e5c

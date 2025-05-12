@@ -1,0 +1,12 @@
+sxs-super_daryl_deluxe_v196608.nfo	-	4887	1	0	0	0
+sxs-super_daryl_deluxe_v196608.r00	-	50000000	1	4887	0	1
+sxs-super_daryl_deluxe_v196608.r01	-	50000000	1	50004887	0	49
+sxs-super_daryl_deluxe_v196608.r02	-	50000000	1	100004887	0	97
+sxs-super_daryl_deluxe_v196608.r03	-	50000000	1	150004887	0	145
+sxs-super_daryl_deluxe_v196608.r04	-	50000000	1	200004887	0	193
+sxs-super_daryl_deluxe_v196608.r05	-	50000000	1	250004887	0	241
+sxs-super_daryl_deluxe_v196608.r06	-	50000000	1	300004887	0	289
+sxs-super_daryl_deluxe_v196608.r07	-	50000000	1	350004887	0	337
+sxs-super_daryl_deluxe_v196608.r08	-	17364670	1	400004887	0	385
+sxs-super_daryl_deluxe_v196608.rar	-	50000000	1	417369557	0	402
+sxs-super_daryl_deluxe_v196608.sfv	-	450	1	467369557	0	450

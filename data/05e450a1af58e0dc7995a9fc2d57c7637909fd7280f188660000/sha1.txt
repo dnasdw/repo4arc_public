@@ -1,0 +1,4 @@
+sxs-run_sausage_run_v65536.nfo	0f3eb8c1ce571cbbc790e93879fbc5f626a14bea
+sxs-run_sausage_run_v65536.r00	39f5d202275b9cad47a100f4f517ef65c47fe97a
+sxs-run_sausage_run_v65536.rar	6f0335dad0f5feba2fa7cae7c42396a6628b05ea
+sxs-run_sausage_run_v65536.sfv	43023d77e45667b138519b0cc7cfd02d56aec025

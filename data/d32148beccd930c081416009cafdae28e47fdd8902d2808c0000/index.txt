@@ -1,0 +1,3 @@
+sxs-goonya_monster_v327680_dlc.nfo	-	8018	1	0	0	0
+sxs-goonya_monster_v327680_dlc.rar	-	1871081	1	8018	0	1
+sxs-goonya_monster_v327680_dlc.sfv	-	45	1	1879099	0	3

@@ -1,0 +1,12 @@
+delight.nfo	ac417bce
+dl-agenta.r00	28a4821d
+dl-agenta.r01	83afc6ed
+dl-agenta.r02	21cf857a
+dl-agenta.r03	9c51764c
+dl-agenta.r04	4c9412d6
+dl-agenta.r05	443a24cc
+dl-agenta.r06	69f6d501
+dl-agenta.r07	54f1c877
+dl-agenta.r08	be09e38a
+dl-agenta.rar	84e4afae
+dl-agenta.sfv	49115bde

@@ -1,0 +1,6 @@
+v-80s_overdrive.nfo	e85c4ad7
+v-80s_overdrive.r00	9d361132
+v-80s_overdrive.r01	cdd5ca7e
+v-80s_overdrive.r02	48d8f33e
+v-80s_overdrive.rar	faeb37f7
+v-80s_overdrive.sfv	48a7be45

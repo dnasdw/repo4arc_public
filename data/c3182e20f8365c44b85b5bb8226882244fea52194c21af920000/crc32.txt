@@ -1,0 +1,8 @@
+lfc-refunct.nfo	3754f100
+lfc-refunct.r00	51a7db21
+lfc-refunct.r01	1944d01e
+lfc-refunct.r02	4a9c32b6
+lfc-refunct.r03	602e83c0
+lfc-refunct.r04	af08de62
+lfc-refunct.rar	58c45ba7
+lfc-refunct.sfv	952e8a50

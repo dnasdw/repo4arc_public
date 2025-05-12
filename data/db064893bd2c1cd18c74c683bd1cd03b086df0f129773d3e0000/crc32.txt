@@ -1,0 +1,10 @@
+v-steamworld_v131072.nfo	00e5fd12
+v-steamworld_v131072.r00	2adaf33f
+v-steamworld_v131072.r01	e28cef99
+v-steamworld_v131072.r02	e38040f9
+v-steamworld_v131072.r03	dcd8cfee
+v-steamworld_v131072.r04	ea695613
+v-steamworld_v131072.r05	7183e9c5
+v-steamworld_v131072.r06	2a5a0119
+v-steamworld_v131072.rar	1f0599da
+v-steamworld_v131072.sfv	d51f5e2f

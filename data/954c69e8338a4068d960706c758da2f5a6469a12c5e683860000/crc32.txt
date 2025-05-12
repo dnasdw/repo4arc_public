@@ -1,0 +1,12 @@
+sxs-freshly_frosted.nfo	3134147d
+sxs-freshly_frosted.r00	edd51f59
+sxs-freshly_frosted.r01	fbd5e973
+sxs-freshly_frosted.r02	a6b4810d
+sxs-freshly_frosted.r03	83c8e384
+sxs-freshly_frosted.r04	87aa8a64
+sxs-freshly_frosted.r05	f98430ff
+sxs-freshly_frosted.r06	7fcda559
+sxs-freshly_frosted.r07	db417298
+sxs-freshly_frosted.r08	cb07edec
+sxs-freshly_frosted.rar	dca7042f
+sxs-freshly_frosted.sfv	cab429ab

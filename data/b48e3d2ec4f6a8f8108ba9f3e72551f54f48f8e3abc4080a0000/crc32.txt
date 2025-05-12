@@ -1,0 +1,10 @@
+sxs-100_demon_fantasia.nfo	56fa4def
+sxs-100_demon_fantasia.r00	caac9c80
+sxs-100_demon_fantasia.r01	530dd759
+sxs-100_demon_fantasia.r02	e9ff1e43
+sxs-100_demon_fantasia.r03	fb38266a
+sxs-100_demon_fantasia.r04	12cd07fb
+sxs-100_demon_fantasia.r05	7ae173e9
+sxs-100_demon_fantasia.r06	1057cf75
+sxs-100_demon_fantasia.rar	844fd275
+sxs-100_demon_fantasia.sfv	4eb4032c

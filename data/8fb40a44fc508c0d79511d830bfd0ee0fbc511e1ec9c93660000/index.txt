@@ -1,0 +1,4 @@
+sxs-i_am_an_air_traffic_controller-airport_hero_haneda_v458752.nfo	-	7308	1	0	0	0
+sxs-i_am_an_air_traffic_controller-airport_hero_haneda_v458752.r00	-	84440536	1	7308	0	1
+sxs-i_am_an_air_traffic_controller-airport_hero_haneda_v458752.rar	-	100000000	1	84447844	0	82
+sxs-i_am_an_air_traffic_controller-airport_hero_haneda_v458752.sfv	-	154	1	184447844	0	178

@@ -1,0 +1,4 @@
+sxs-ngolf_v131072.nfo	dd176f63
+sxs-ngolf_v131072.r00	cabab32c
+sxs-ngolf_v131072.rar	97de2a21
+sxs-ngolf_v131072.sfv	06a812c5

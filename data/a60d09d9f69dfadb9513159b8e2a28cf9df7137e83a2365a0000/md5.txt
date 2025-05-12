@@ -1,0 +1,4 @@
+v-duck_game_v196608.nfo	4e1bd61e2f3b76ebfdcb61e32ccc8b7c
+v-duck_game_v196608.r00	f1f339be95ec01c3e3158552aab05ee9
+v-duck_game_v196608.rar	1d3cd21c7e534b1c063e440f880dace5
+v-duck_game_v196608.sfv	dbdacb6722c418abd3f04665195b19c1

@@ -1,0 +1,6 @@
+sxs-volley_pals.nfo	-	6680	1	0	0	0
+sxs-volley_pals.r00	-	100000000	1	6680	0	1
+sxs-volley_pals.r01	-	100000000	1	100006680	0	97
+sxs-volley_pals.r02	-	27526166	1	200006680	0	193
+sxs-volley_pals.rar	-	100000000	1	227532846	0	220
+sxs-volley_pals.sfv	-	120	1	327532846	0	316

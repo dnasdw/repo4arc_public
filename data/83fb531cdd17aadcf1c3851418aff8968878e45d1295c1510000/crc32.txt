@@ -1,0 +1,12 @@
+sxs-crazy_trucks.nfo	a3b3685e
+sxs-crazy_trucks.r00	7d870297
+sxs-crazy_trucks.r01	aa6ae656
+sxs-crazy_trucks.r02	c48b4713
+sxs-crazy_trucks.r03	a1e4321c
+sxs-crazy_trucks.r04	75a9f8e3
+sxs-crazy_trucks.r05	91fd7d96
+sxs-crazy_trucks.r06	c11b0d27
+sxs-crazy_trucks.r07	913a7404
+sxs-crazy_trucks.r08	f017190b
+sxs-crazy_trucks.rar	2cbd62fc
+sxs-crazy_trucks.sfv	3cea1df4

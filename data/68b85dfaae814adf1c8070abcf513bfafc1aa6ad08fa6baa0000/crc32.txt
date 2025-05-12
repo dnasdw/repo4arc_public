@@ -1,0 +1,14 @@
+hr-apwsa.nfo	3f8b73bf
+hr-apwsa.r00	bcc3d5bc
+hr-apwsa.r01	6ae6d481
+hr-apwsa.r02	5487e978
+hr-apwsa.r03	16b3f873
+hr-apwsa.r04	245b0971
+hr-apwsa.r05	ad3d3d49
+hr-apwsa.r06	aec1f398
+hr-apwsa.r07	7b0ea286
+hr-apwsa.r08	d949fb9f
+hr-apwsa.rar	2c2e88dc
+hr-apwsa.sfv	2929c19f
+Proof	00000000
+Proof/hr-apwsa.jpg	e768671a

@@ -1,0 +1,5 @@
+sxs-one_person_story.nfo	-	4652	1	0	0	0
+sxs-one_person_story.r00	-	50000000	1	4652	0	1
+sxs-one_person_story.r01	-	16875076	1	50004652	0	49
+sxs-one_person_story.rar	-	50000000	1	66879728	0	66
+sxs-one_person_story.sfv	-	105	1	116879728	0	114

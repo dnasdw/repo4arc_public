@@ -1,0 +1,14 @@
+sxs-skautfold_shrouded_in_sanity.nfo	-	4808	1	0	0	0
+sxs-skautfold_shrouded_in_sanity.r00	-	50000000	1	4808	0	1
+sxs-skautfold_shrouded_in_sanity.r01	-	50000000	1	50004808	0	49
+sxs-skautfold_shrouded_in_sanity.r02	-	50000000	1	100004808	0	97
+sxs-skautfold_shrouded_in_sanity.r03	-	50000000	1	150004808	0	145
+sxs-skautfold_shrouded_in_sanity.r04	-	50000000	1	200004808	0	193
+sxs-skautfold_shrouded_in_sanity.r05	-	50000000	1	250004808	0	241
+sxs-skautfold_shrouded_in_sanity.r06	-	50000000	1	300004808	0	289
+sxs-skautfold_shrouded_in_sanity.r07	-	50000000	1	350004808	0	337
+sxs-skautfold_shrouded_in_sanity.r08	-	50000000	1	400004808	0	385
+sxs-skautfold_shrouded_in_sanity.r09	-	50000000	1	450004808	0	433
+sxs-skautfold_shrouded_in_sanity.r10	-	32689074	1	500004808	0	481
+sxs-skautfold_shrouded_in_sanity.rar	-	50000000	1	532693882	0	513
+sxs-skautfold_shrouded_in_sanity.sfv	-	564	1	45805696	1	44

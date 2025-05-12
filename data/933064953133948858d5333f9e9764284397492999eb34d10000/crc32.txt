@@ -1,0 +1,13 @@
+v-getsufumaden_undying_moon_v131072.nfo	8233c25d
+v-getsufumaden_undying_moon_v131072.r00	0bc5e0f1
+v-getsufumaden_undying_moon_v131072.r01	36b71633
+v-getsufumaden_undying_moon_v131072.r02	dd7340c3
+v-getsufumaden_undying_moon_v131072.r03	c1d7309c
+v-getsufumaden_undying_moon_v131072.r04	5b4b8f72
+v-getsufumaden_undying_moon_v131072.r05	1cf86fd9
+v-getsufumaden_undying_moon_v131072.r06	efe91bee
+v-getsufumaden_undying_moon_v131072.r07	f9c1174b
+v-getsufumaden_undying_moon_v131072.r08	a9c6b1fc
+v-getsufumaden_undying_moon_v131072.r09	590d56d6
+v-getsufumaden_undying_moon_v131072.rar	b8393a86
+v-getsufumaden_undying_moon_v131072.sfv	05fd42e3

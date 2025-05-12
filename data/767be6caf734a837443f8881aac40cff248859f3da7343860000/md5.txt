@@ -1,0 +1,5 @@
+sxs-reigns_three_kingdoms.nfo	f39cc1637a97e61df46a9b0d698024ed
+sxs-reigns_three_kingdoms.r00	98b69f4497bbf257ad308a7fe301e028
+sxs-reigns_three_kingdoms.r01	1ea64dc289225b11df8f4c97ed255279
+sxs-reigns_three_kingdoms.rar	f30a4ab884e17ca6998a2092465319ca
+sxs-reigns_three_kingdoms.sfv	dbb47d8c8124f921db96f9550983d593

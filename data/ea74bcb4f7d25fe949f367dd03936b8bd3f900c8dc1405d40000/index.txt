@@ -1,0 +1,4 @@
+v-super_crush_ko_v131072.nfo	-	5122	1	0	0	0
+v-super_crush_ko_v131072.r00	-	33153719	1	5122	0	1
+v-super_crush_ko_v131072.rar	-	50000000	1	33158841	0	33
+v-super_crush_ko_v131072.sfv	-	78	1	83158841	0	81

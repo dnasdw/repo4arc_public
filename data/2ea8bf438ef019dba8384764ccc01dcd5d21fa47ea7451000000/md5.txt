@@ -1,0 +1,5 @@
+lfc-rpro.nfo	3f33230d7aaba3baa34d1ce9debce533
+lfc-rpro.r00	e79d9df76c7b7d26b3b618b51d723ddd
+lfc-rpro.r01	9f5d1252969a80f7b50854e800dd468d
+lfc-rpro.rar	cc96c766c2230b8b3795362c152d140f
+lfc-rpro.sfv	762d9b69b8a83a895f75e3c786ec4983

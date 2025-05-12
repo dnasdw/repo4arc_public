@@ -1,0 +1,6 @@
+sxs-disco_dodgeball_remix_v65536.nfo	d5bf434f
+sxs-disco_dodgeball_remix_v65536.r00	40fcc34e
+sxs-disco_dodgeball_remix_v65536.r01	013b5a5b
+sxs-disco_dodgeball_remix_v65536.r02	2939f4d1
+sxs-disco_dodgeball_remix_v65536.rar	c653743f
+sxs-disco_dodgeball_remix_v65536.sfv	7d0667ad

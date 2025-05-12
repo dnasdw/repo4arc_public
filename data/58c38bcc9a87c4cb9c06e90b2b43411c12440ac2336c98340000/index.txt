@@ -1,0 +1,9 @@
+v-double_dragon_neon_v65536.nfo	-	4966	1	0	0	0
+v-double_dragon_neon_v65536.r00	-	50000000	1	4966	0	1
+v-double_dragon_neon_v65536.r01	-	50000000	1	50004966	0	49
+v-double_dragon_neon_v65536.r02	-	50000000	1	100004966	0	97
+v-double_dragon_neon_v65536.r03	-	50000000	1	150004966	0	145
+v-double_dragon_neon_v65536.r04	-	50000000	1	200004966	0	193
+v-double_dragon_neon_v65536.r05	-	39375726	1	250004966	0	241
+v-double_dragon_neon_v65536.rar	-	50000000	1	289380692	0	279
+v-double_dragon_neon_v65536.sfv	-	294	1	339380692	0	327

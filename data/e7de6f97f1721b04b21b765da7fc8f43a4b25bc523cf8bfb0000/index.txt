@@ -1,0 +1,10 @@
+sxs-the_amazing_american_circus_v262144.nfo	-	8864	1	0	0	0
+sxs-the_amazing_american_circus_v262144.r00	-	100000000	1	8864	0	1
+sxs-the_amazing_american_circus_v262144.r01	-	100000000	1	100008864	0	97
+sxs-the_amazing_american_circus_v262144.r02	-	100000000	1	200008864	0	193
+sxs-the_amazing_american_circus_v262144.r03	-	100000000	1	300008864	0	289
+sxs-the_amazing_american_circus_v262144.r04	-	100000000	1	400008864	0	385
+sxs-the_amazing_american_circus_v262144.r05	-	100000000	1	500008864	0	481
+sxs-the_amazing_american_circus_v262144.r06	-	44269141	1	62251264	1	60
+sxs-the_amazing_american_circus_v262144.rar	-	100000000	1	106520405	1	103
+sxs-the_amazing_american_circus_v262144.sfv	-	432	1	206520405	1	199

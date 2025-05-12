@@ -1,0 +1,8 @@
+sxs-super_hiking_league_dx.nfo	-	5276	1	0	0	0
+sxs-super_hiking_league_dx.r00	-	50000000	1	5276	0	1
+sxs-super_hiking_league_dx.r01	-	50000000	1	50005276	0	49
+sxs-super_hiking_league_dx.r02	-	50000000	1	100005276	0	97
+sxs-super_hiking_league_dx.r03	-	50000000	1	150005276	0	145
+sxs-super_hiking_league_dx.r04	-	6326543	1	200005276	0	193
+sxs-super_hiking_league_dx.rar	-	50000000	1	206331819	0	200
+sxs-super_hiking_league_dx.sfv	-	246	1	256331819	0	248

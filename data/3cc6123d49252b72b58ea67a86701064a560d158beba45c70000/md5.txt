@@ -1,0 +1,5 @@
+sxs-dont_starve_v262144.nfo	ab2f0ab32c2d32f0296db69dba8a844f
+sxs-dont_starve_v262144.r00	2631db5e2a7e546c7e2ccd1e6fc70bb8
+sxs-dont_starve_v262144.r01	691c3e98ffd47e9d182ebe3f3629c10c
+sxs-dont_starve_v262144.rar	0b03704fb31e5aeb372f120a00f60d1a
+sxs-dont_starve_v262144.sfv	7f8b396eac268d7da5ee42ab9e75b44d

@@ -1,0 +1,11 @@
+brw-rcra.nfo	873e157b
+brw-rcra.r00	2fa801a5
+brw-rcra.r01	face2b46
+brw-rcra.r02	b9b0d00c
+brw-rcra.r03	77a85e64
+brw-rcra.r04	b8a5f284
+brw-rcra.r05	30318f11
+brw-rcra.r06	e74a0334
+brw-rcra.r07	20b69f28
+brw-rcra.rar	df160b75
+brw-rcra.sfv	f35e1118

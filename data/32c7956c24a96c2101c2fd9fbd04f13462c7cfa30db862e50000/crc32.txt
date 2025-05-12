@@ -1,0 +1,13 @@
+v-degrees_of_separation_v131072.nfo	b203a91d
+v-degrees_of_separation_v131072.r00	00980ff8
+v-degrees_of_separation_v131072.r01	ac2cb4c9
+v-degrees_of_separation_v131072.r02	c8fc4fe9
+v-degrees_of_separation_v131072.r03	4106ecc6
+v-degrees_of_separation_v131072.r04	8709b21a
+v-degrees_of_separation_v131072.r05	cde23034
+v-degrees_of_separation_v131072.r06	8df6bb54
+v-degrees_of_separation_v131072.r07	8401df6f
+v-degrees_of_separation_v131072.r08	8dcbfb5b
+v-degrees_of_separation_v131072.r09	def33211
+v-degrees_of_separation_v131072.rar	16d06496
+v-degrees_of_separation_v131072.sfv	ef7c39ad

@@ -1,0 +1,3 @@
+v-snooker19_challenge_pack_dlc.nfo	-	6292	1	0	0	0
+v-snooker19_challenge_pack_dlc.rar	-	104149	1	6292	0	1
+v-snooker19_challenge_pack_dlc.sfv	-	45	1	110441	0	2

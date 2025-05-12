@@ -1,0 +1,11 @@
+sxs-dusk_diver_v262144.nfo	44eda28c
+sxs-dusk_diver_v262144.r00	cde583af
+sxs-dusk_diver_v262144.r01	a40d9591
+sxs-dusk_diver_v262144.r02	68cec457
+sxs-dusk_diver_v262144.r03	3ba9f376
+sxs-dusk_diver_v262144.r04	a9a3bf75
+sxs-dusk_diver_v262144.r05	9205a1fd
+sxs-dusk_diver_v262144.r06	fc3ecb52
+sxs-dusk_diver_v262144.r07	1e28e122
+sxs-dusk_diver_v262144.rar	43e7c909
+sxs-dusk_diver_v262144.sfv	f5b8bbf7

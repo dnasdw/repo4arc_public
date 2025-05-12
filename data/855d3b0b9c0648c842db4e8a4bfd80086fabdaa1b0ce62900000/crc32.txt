@@ -1,0 +1,7 @@
+brw-fnat_v65536.nfo	ccf8fded
+brw-fnat_v65536.r00	cfdbf9c8
+brw-fnat_v65536.r01	fb2c6f5a
+brw-fnat_v65536.r02	eafa7043
+brw-fnat_v65536.r03	7dc58a5a
+brw-fnat_v65536.rar	b517f9a2
+brw-fnat_v65536.sfv	86b25c59

@@ -1,0 +1,9 @@
+sxs-dice_legacy_v131072.nfo	1b15e848
+sxs-dice_legacy_v131072.r00	4fecf98d
+sxs-dice_legacy_v131072.r01	de73c4f0
+sxs-dice_legacy_v131072.r02	5a515060
+sxs-dice_legacy_v131072.r03	66e36518
+sxs-dice_legacy_v131072.r04	c4319f90
+sxs-dice_legacy_v131072.r05	5ffbbc6b
+sxs-dice_legacy_v131072.rar	95a5d89b
+sxs-dice_legacy_v131072.sfv	30633568

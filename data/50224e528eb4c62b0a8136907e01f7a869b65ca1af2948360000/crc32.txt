@@ -1,0 +1,11 @@
+sxs-cuphead_v524288.nfo	9e08fbd6
+sxs-cuphead_v524288.r00	97f10944
+sxs-cuphead_v524288.r01	fe26a5e3
+sxs-cuphead_v524288.r02	be54a393
+sxs-cuphead_v524288.r03	4e193f1b
+sxs-cuphead_v524288.r04	b55a5d92
+sxs-cuphead_v524288.r05	be2694c4
+sxs-cuphead_v524288.r06	5de6060e
+sxs-cuphead_v524288.r07	8fdb0fbf
+sxs-cuphead_v524288.rar	f9c24e95
+sxs-cuphead_v524288.sfv	00017ea3

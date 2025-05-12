@@ -1,0 +1,5 @@
+sxs-final_fantasy_vi_v262144.nfo	-	8006	1	0	0	0
+sxs-final_fantasy_vi_v262144.r00	-	100000000	1	8006	0	1
+sxs-final_fantasy_vi_v262144.r01	-	82728181	1	100008006	0	97
+sxs-final_fantasy_vi_v262144.rar	-	100000000	1	182736187	0	176
+sxs-final_fantasy_vi_v262144.sfv	-	129	1	282736187	0	272

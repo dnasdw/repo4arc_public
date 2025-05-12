@@ -1,0 +1,8 @@
+brw-frsu.nfo	85dc6858
+brw-frsu.r00	3d8e8380
+brw-frsu.r01	1e708ccc
+brw-frsu.r02	65773ea7
+brw-frsu.r03	30076928
+brw-frsu.r04	ba3a5ca6
+brw-frsu.rar	77f1819d
+brw-frsu.sfv	0a857024

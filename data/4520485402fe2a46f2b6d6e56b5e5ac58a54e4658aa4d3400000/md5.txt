@@ -1,0 +1,4 @@
+v-the_rumble_fish_plus.nfo	a0433e2589caebe39ddedd7486551052
+v-the_rumble_fish_plus.r00	56c6eaf2e23fa545486b88138d5f0ffc
+v-the_rumble_fish_plus.rar	868e0832efa3ad1d7a20521324a617ab
+v-the_rumble_fish_plus.sfv	bc5ef4511c6fde208bffd5c2465652a9

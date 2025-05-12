@@ -1,0 +1,4 @@
+sxs-outbreak_epidemic_v131072.nfo	79bf9e591c2048f08ddb2bd922d72df6
+sxs-outbreak_epidemic_v131072.r00	12f06cb2bd3dc290619eecaba378bd42
+sxs-outbreak_epidemic_v131072.rar	03b79bb22ce6dd1c59be18bb881e584c
+sxs-outbreak_epidemic_v131072.sfv	8113669187a41408b787da8bddce8009

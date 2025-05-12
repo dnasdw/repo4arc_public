@@ -1,0 +1,8 @@
+v-snowboarding_the_next_phase_v65536.nfo	-	6449	1	0	0	0
+v-snowboarding_the_next_phase_v65536.r00	-	50000000	1	6449	0	1
+v-snowboarding_the_next_phase_v65536.r01	-	50000000	1	50006449	0	49
+v-snowboarding_the_next_phase_v65536.r02	-	50000000	1	100006449	0	97
+v-snowboarding_the_next_phase_v65536.r03	-	50000000	1	150006449	0	145
+v-snowboarding_the_next_phase_v65536.r04	-	36378580	1	200006449	0	193
+v-snowboarding_the_next_phase_v65536.rar	-	50000202	1	236385029	0	228
+v-snowboarding_the_next_phase_v65536.sfv	-	306	1	286385231	0	276

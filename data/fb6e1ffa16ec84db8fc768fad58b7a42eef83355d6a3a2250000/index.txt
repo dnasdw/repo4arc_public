@@ -1,0 +1,14 @@
+sxs-charrua_soccer_pro_edition.nfo	-	8630	1	0	0	0
+sxs-charrua_soccer_pro_edition.r00	-	100000000	1	8630	0	1
+sxs-charrua_soccer_pro_edition.r01	-	100000000	1	100008630	0	97
+sxs-charrua_soccer_pro_edition.r02	-	100000000	1	200008630	0	193
+sxs-charrua_soccer_pro_edition.r03	-	100000000	1	300008630	0	289
+sxs-charrua_soccer_pro_edition.r04	-	100000000	1	400008630	0	385
+sxs-charrua_soccer_pro_edition.r05	-	100000000	1	500008630	0	481
+sxs-charrua_soccer_pro_edition.r06	-	100000000	1	62251264	1	60
+sxs-charrua_soccer_pro_edition.r07	-	100000000	1	162251264	1	156
+sxs-charrua_soccer_pro_edition.r08	-	100000000	1	262251264	1	252
+sxs-charrua_soccer_pro_edition.r09	-	100000000	1	362251264	1	348
+sxs-charrua_soccer_pro_edition.r10	-	22137807	1	462251264	1	444
+sxs-charrua_soccer_pro_edition.rar	-	100000000	1	484389071	1	466
+sxs-charrua_soccer_pro_edition.sfv	-	540	1	46522624	2	45

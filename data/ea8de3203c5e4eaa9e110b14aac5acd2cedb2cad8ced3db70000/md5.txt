@@ -1,0 +1,5 @@
+sxs-destrobots_v65536.nfo	4a1330c8129fcaf7abcd008255b63fb6
+sxs-destrobots_v65536.r00	0764b720018542c26c04db9c8bd3ec16
+sxs-destrobots_v65536.r01	071bc022d8e15ae6b19af3d254619802
+sxs-destrobots_v65536.rar	8ea22cd7b32760f1fa645ba980ce18c3
+sxs-destrobots_v65536.sfv	fff282c6bf3c354a0a81bed0b6b2f425

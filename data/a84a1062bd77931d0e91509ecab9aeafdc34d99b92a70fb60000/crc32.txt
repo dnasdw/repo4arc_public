@@ -1,0 +1,7 @@
+sxs-downhill_driver_extreme_racing_simulator.nfo	a3fcfae1
+sxs-downhill_driver_extreme_racing_simulator.r00	33bcb843
+sxs-downhill_driver_extreme_racing_simulator.r01	d5605254
+sxs-downhill_driver_extreme_racing_simulator.r02	134c0fdd
+sxs-downhill_driver_extreme_racing_simulator.r03	7a8be04b
+sxs-downhill_driver_extreme_racing_simulator.rar	87fc0403
+sxs-downhill_driver_extreme_racing_simulator.sfv	48740bf7

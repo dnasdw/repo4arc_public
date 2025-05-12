@@ -1,0 +1,5 @@
+sxs-commandos_3_hd_remaster_v196608.nfo	-	5744	1	0	0	0
+sxs-commandos_3_hd_remaster_v196608.r00	-	50000000	1	5744	0	1
+sxs-commandos_3_hd_remaster_v196608.r01	-	31327976	1	50005744	0	49
+sxs-commandos_3_hd_remaster_v196608.rar	-	50000000	1	81333720	0	79
+sxs-commandos_3_hd_remaster_v196608.sfv	-	150	1	131333720	0	127

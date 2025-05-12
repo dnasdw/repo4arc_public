@@ -1,0 +1,13 @@
+v-crcr_v262144.nfo	88fbc369
+v-crcr_v262144.r00	1c7860e5
+v-crcr_v262144.r01	5267fe48
+v-crcr_v262144.r02	bc5adfc0
+v-crcr_v262144.r03	1f9089a2
+v-crcr_v262144.r04	0f93fb00
+v-crcr_v262144.r05	49044881
+v-crcr_v262144.r06	cfce18e1
+v-crcr_v262144.r07	686b02e7
+v-crcr_v262144.r08	278685db
+v-crcr_v262144.r09	12cc60ea
+v-crcr_v262144.rar	88f1dc8e
+v-crcr_v262144.sfv	7bb3fc18

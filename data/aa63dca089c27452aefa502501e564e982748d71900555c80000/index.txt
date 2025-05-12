@@ -1,0 +1,3 @@
+sxs-diorama_dungeoncrawl_master_of_the_living_castle.nfo	-	5666	1	0	0	0
+sxs-diorama_dungeoncrawl_master_of_the_living_castle.rar	-	61859393	1	5666	0	1
+sxs-diorama_dungeoncrawl_master_of_the_living_castle.sfv	-	67	1	61865059	0	60

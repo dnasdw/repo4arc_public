@@ -1,0 +1,4 @@
+sxs-story_of_seasons_friends_of_mineral_town_v65536r_v131072.nfo	-	5830	1	0	0	0
+sxs-story_of_seasons_friends_of_mineral_town_v65536r_v131072.r00	-	41377793	1	5830	0	1
+sxs-story_of_seasons_friends_of_mineral_town_v65536r_v131072.rar	-	50000000	1	41383623	0	41
+sxs-story_of_seasons_friends_of_mineral_town_v65536r_v131072.sfv	-	150	1	91383623	0	89

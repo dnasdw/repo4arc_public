@@ -1,0 +1,4 @@
+sxs-ikkarus_and_the_prince_of_sin.nfo	-	5120	1	0	0	0
+sxs-ikkarus_and_the_prince_of_sin.r00	-	73410831	1	5120	0	1
+sxs-ikkarus_and_the_prince_of_sin.rar	-	100000000	1	73415951	0	72
+sxs-ikkarus_and_the_prince_of_sin.sfv	-	96	1	173415951	0	168

@@ -1,0 +1,4 @@
+sxs-astro_duel_2.nfo	-	7382	1	0	0	0
+sxs-astro_duel_2.r00	-	56568028	1	7382	0	1
+sxs-astro_duel_2.rar	-	100000000	1	56575410	0	55
+sxs-astro_duel_2.sfv	-	62	1	156575410	0	151

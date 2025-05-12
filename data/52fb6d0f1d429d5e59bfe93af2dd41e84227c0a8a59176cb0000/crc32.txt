@@ -1,0 +1,13 @@
+sxs-saint_kotar_v65536.nfo	c3c30862
+sxs-saint_kotar_v65536.r00	3c1d8927
+sxs-saint_kotar_v65536.r01	7659f892
+sxs-saint_kotar_v65536.r02	0703e88d
+sxs-saint_kotar_v65536.r03	59b6cb55
+sxs-saint_kotar_v65536.r04	37358aa7
+sxs-saint_kotar_v65536.r05	1f495992
+sxs-saint_kotar_v65536.r06	43767b04
+sxs-saint_kotar_v65536.r07	50c66aab
+sxs-saint_kotar_v65536.r08	1a9fe08d
+sxs-saint_kotar_v65536.r09	e8729c0a
+sxs-saint_kotar_v65536.rar	7a25b6ba
+sxs-saint_kotar_v65536.sfv	6ac92489

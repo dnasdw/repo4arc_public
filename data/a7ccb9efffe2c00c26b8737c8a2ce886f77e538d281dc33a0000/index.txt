@@ -1,0 +1,3 @@
+sxs-capitals_quizzer_v65536.nfo	-	4886	1	0	0	0
+sxs-capitals_quizzer_v65536.rar	-	87209519	1	4886	0	1
+sxs-capitals_quizzer_v65536.sfv	-	42	1	87214405	0	85

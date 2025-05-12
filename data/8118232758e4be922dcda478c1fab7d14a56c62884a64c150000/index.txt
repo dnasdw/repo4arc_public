@@ -1,0 +1,4 @@
+sxs-fast_rmx_v262144.nfo	-	6212	1	0	0	0
+sxs-fast_rmx_v262144.r00	-	46989644	1	6212	0	1
+sxs-fast_rmx_v262144.rar	-	50000000	1	46995856	0	46
+sxs-fast_rmx_v262144.sfv	-	70	1	96995856	0	94

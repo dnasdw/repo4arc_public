@@ -1,0 +1,14 @@
+sxs-pocket_card_jockey_ride_on.nfo	7b159b88
+sxs-pocket_card_jockey_ride_on.r00	c6b749bd
+sxs-pocket_card_jockey_ride_on.r01	09d0b40e
+sxs-pocket_card_jockey_ride_on.r02	990feef5
+sxs-pocket_card_jockey_ride_on.r03	fe0dad3f
+sxs-pocket_card_jockey_ride_on.r04	18bed819
+sxs-pocket_card_jockey_ride_on.r05	dbf77d47
+sxs-pocket_card_jockey_ride_on.r06	b40d5f09
+sxs-pocket_card_jockey_ride_on.r07	b54d592a
+sxs-pocket_card_jockey_ride_on.r08	45a3fb89
+sxs-pocket_card_jockey_ride_on.r09	94e48119
+sxs-pocket_card_jockey_ride_on.r10	8c2390d9
+sxs-pocket_card_jockey_ride_on.rar	1f12d674
+sxs-pocket_card_jockey_ride_on.sfv	629be5df

@@ -1,0 +1,5 @@
+sxs-pilot_sports_v65536.nfo	7eaa5548cb446bbf7456b23ecbfcfef7
+sxs-pilot_sports_v65536.r00	b3911b327993c739ead5f068100b44b0
+sxs-pilot_sports_v65536.r01	89a10614a708363d8e07bd4b99b697e4
+sxs-pilot_sports_v65536.rar	d62cf23f0792fc9f9f56cb7e4e6eb2c7
+sxs-pilot_sports_v65536.sfv	2c963daf7f9680831ad6e4e0156594dc

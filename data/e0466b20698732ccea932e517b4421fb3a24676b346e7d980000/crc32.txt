@@ -1,0 +1,15 @@
+v-widget_satchel.nfo	d77cadbf
+v-widget_satchel.r00	4396a416
+v-widget_satchel.r01	e252c88f
+v-widget_satchel.r02	cc190fb7
+v-widget_satchel.r03	53cb682b
+v-widget_satchel.r04	1de615db
+v-widget_satchel.r05	227f8171
+v-widget_satchel.r06	e31fd2e8
+v-widget_satchel.r07	06d1e400
+v-widget_satchel.r08	c2eaebdb
+v-widget_satchel.r09	f04d714c
+v-widget_satchel.r10	d65b4b95
+v-widget_satchel.r11	85a1bba6
+v-widget_satchel.rar	1067f299
+v-widget_satchel.sfv	6d0b051c

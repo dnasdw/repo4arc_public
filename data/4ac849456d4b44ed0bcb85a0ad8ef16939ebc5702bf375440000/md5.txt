@@ -1,0 +1,8 @@
+sxs-hyperforma_v65536.nfo	f4b66a98c19e928786f5c13000de88cf
+sxs-hyperforma_v65536.r00	089d26a8bdebf64b70c44fcdc90988e2
+sxs-hyperforma_v65536.r01	e54d8ddb80b8cef39683e02c7ab24cd9
+sxs-hyperforma_v65536.r02	99546c02ad5b32023a53f6ae97de445d
+sxs-hyperforma_v65536.r03	44757641cfc0eea740008ec242ac0e82
+sxs-hyperforma_v65536.r04	79b840d9dec2497a43744dee98e2eeaf
+sxs-hyperforma_v65536.rar	fc77d74d33b5b12050c15afa84ce79ef
+sxs-hyperforma_v65536.sfv	b273663aada595e92c43a7680af93c1f

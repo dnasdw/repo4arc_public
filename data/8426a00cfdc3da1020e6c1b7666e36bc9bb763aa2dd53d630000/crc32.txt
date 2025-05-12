@@ -1,0 +1,8 @@
+sxs-rising_lords.nfo	d83bd6b3
+sxs-rising_lords.r00	80d4cbf0
+sxs-rising_lords.r01	bbbeee75
+sxs-rising_lords.r02	b1dc1516
+sxs-rising_lords.r03	289c37bb
+sxs-rising_lords.r04	f22ff48f
+sxs-rising_lords.rar	e5926142
+sxs-rising_lords.sfv	9c955505

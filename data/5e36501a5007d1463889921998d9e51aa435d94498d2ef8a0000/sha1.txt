@@ -1,0 +1,6 @@
+brw-jtrs.nfo	3b4214c4f4dc4836dab63aba25d8a9e41d850480
+brw-jtrs.r00	26f860bac42e78ed86c276df3d59b60448e65c3e
+brw-jtrs.r01	7a83617e6aea9eb8b61ad69fea2cfdaf7deaad76
+brw-jtrs.r02	f9dbe24cda9eefbcc5c8921753bde080b757402f
+brw-jtrs.rar	d14b0f0a7d042aa08e747d07e6fd88a961cf7d31
+brw-jtrs.sfv	8532ec7b1552b8e27ea9ad2a37fdcfbc58983f15

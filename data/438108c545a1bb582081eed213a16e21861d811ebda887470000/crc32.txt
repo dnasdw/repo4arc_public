@@ -1,0 +1,7 @@
+v-picross_s3_v458752.nfo	e057607e
+v-picross_s3_v458752.r00	253c23ba
+v-picross_s3_v458752.r01	fc8fd4ab
+v-picross_s3_v458752.r02	c8b3f530
+v-picross_s3_v458752.r03	fcbf1552
+v-picross_s3_v458752.rar	bd23f743
+v-picross_s3_v458752.sfv	a9b2e3b8

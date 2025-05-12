@@ -1,0 +1,11 @@
+lfc-nhue_v131072.nfo	fb7d29e0
+lfc-nhue_v131072.r00	31df0fbd
+lfc-nhue_v131072.r01	80e613c1
+lfc-nhue_v131072.r02	3d71e69c
+lfc-nhue_v131072.r03	e5c1dd46
+lfc-nhue_v131072.r04	8b2f4e25
+lfc-nhue_v131072.r05	c96ebb84
+lfc-nhue_v131072.r06	24b63d96
+lfc-nhue_v131072.r07	b624aba7
+lfc-nhue_v131072.rar	ba24324f
+lfc-nhue_v131072.sfv	02300a04

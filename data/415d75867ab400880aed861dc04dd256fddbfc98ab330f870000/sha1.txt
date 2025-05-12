@@ -1,0 +1,10 @@
+sxs-karmazoo.nfo	fbb87fb240e0f10550cdfd2217c6d255c5aea0e6
+sxs-karmazoo.r00	71178bf19e95efd1df057d90e51c772cfca1bae2
+sxs-karmazoo.r01	18a61206abf89a5f631abcec7662a9b7874b228f
+sxs-karmazoo.r02	adc369c1d0bce9e27c9eb4486005a75fd3b87185
+sxs-karmazoo.r03	b1c007c4956484f8033ad4fbc0d645e7e39c69b8
+sxs-karmazoo.r04	7c66b1753a061c855d7895d12b743b7984b4f903
+sxs-karmazoo.r05	98f4bed435e6430925b88d76089bdc9b75f1ff89
+sxs-karmazoo.r06	0a55bc43420f7a479a93ba88df8fcd31188a9139
+sxs-karmazoo.rar	c292d820d55160dbd498cd72846cc0fb4703f4e8
+sxs-karmazoo.sfv	7cfe54ef9afb541ff184d25361cbdc8efdabf2d9

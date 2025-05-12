@@ -1,0 +1,11 @@
+sxs-tntu.nfo	7f104bd5
+sxs-tntu.r00	f472f31f
+sxs-tntu.r01	a29cc4b0
+sxs-tntu.r02	c09c58e0
+sxs-tntu.r03	aaf7af43
+sxs-tntu.r04	f62005fb
+sxs-tntu.r05	d3c2a979
+sxs-tntu.r06	1f13d2cb
+sxs-tntu.r07	06d2d090
+sxs-tntu.rar	62338dc9
+sxs-tntu.sfv	911d1e3b

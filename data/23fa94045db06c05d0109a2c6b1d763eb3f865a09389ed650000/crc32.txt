@@ -1,0 +1,11 @@
+v-astroneer_v524288.nfo	48799bd0
+v-astroneer_v524288.r00	86ca424c
+v-astroneer_v524288.r01	d00be826
+v-astroneer_v524288.r02	e37b9081
+v-astroneer_v524288.r03	97d4cb69
+v-astroneer_v524288.r04	5a2133f2
+v-astroneer_v524288.r05	ca1a3c9a
+v-astroneer_v524288.r06	2c4ad187
+v-astroneer_v524288.r07	1708185e
+v-astroneer_v524288.rar	95625408
+v-astroneer_v524288.sfv	fef257e7

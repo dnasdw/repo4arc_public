@@ -1,0 +1,14 @@
+sxs-twilight_survivors.nfo	-	4028	1	0	0	0
+sxs-twilight_survivors.r00	-	100000000	1	4028	0	1
+sxs-twilight_survivors.r01	-	100000000	1	100004028	0	97
+sxs-twilight_survivors.r02	-	100000000	1	200004028	0	193
+sxs-twilight_survivors.r03	-	100000000	1	300004028	0	289
+sxs-twilight_survivors.r04	-	100000000	1	400004028	0	385
+sxs-twilight_survivors.r05	-	100000000	1	500004028	0	481
+sxs-twilight_survivors.r06	-	100000000	1	62251264	1	60
+sxs-twilight_survivors.r07	-	100000000	1	162251264	1	156
+sxs-twilight_survivors.r08	-	100000000	1	262251264	1	252
+sxs-twilight_survivors.r09	-	100000000	1	362251264	1	348
+sxs-twilight_survivors.r10	-	92014408	1	462251264	1	444
+sxs-twilight_survivors.rar	-	100000000	1	16516936	2	16
+sxs-twilight_survivors.sfv	-	444	1	116516936	2	112

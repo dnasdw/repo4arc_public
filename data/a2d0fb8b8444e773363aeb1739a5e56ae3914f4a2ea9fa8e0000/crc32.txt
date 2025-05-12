@@ -1,0 +1,11 @@
+v-this_war_of_mine_v65536.nfo	ebac4cb8
+v-this_war_of_mine_v65536.r00	115c22a6
+v-this_war_of_mine_v65536.r01	2c9a43df
+v-this_war_of_mine_v65536.r02	3a4911df
+v-this_war_of_mine_v65536.r03	c22045b2
+v-this_war_of_mine_v65536.r04	44583341
+v-this_war_of_mine_v65536.r05	389cf500
+v-this_war_of_mine_v65536.r06	16f44f21
+v-this_war_of_mine_v65536.r07	ec972979
+v-this_war_of_mine_v65536.rar	178b25b3
+v-this_war_of_mine_v65536.sfv	07b33fad

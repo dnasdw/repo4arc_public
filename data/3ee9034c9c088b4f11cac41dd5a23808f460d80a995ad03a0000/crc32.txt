@@ -1,0 +1,12 @@
+v-tsonicr_v65536.nfo	3696a78b
+v-tsonicr_v65536.r00	e2a8bfda
+v-tsonicr_v65536.r01	43f1255c
+v-tsonicr_v65536.r02	d3f758f6
+v-tsonicr_v65536.r03	4fb0cf31
+v-tsonicr_v65536.r04	db1be299
+v-tsonicr_v65536.r05	0253bb7e
+v-tsonicr_v65536.r06	d96df98f
+v-tsonicr_v65536.r07	8688c77a
+v-tsonicr_v65536.r08	c539a85a
+v-tsonicr_v65536.rar	5f0fc1d3
+v-tsonicr_v65536.sfv	c97742e9

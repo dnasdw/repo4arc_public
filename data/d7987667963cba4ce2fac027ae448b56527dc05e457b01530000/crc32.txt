@@ -1,0 +1,9 @@
+sxs-trraria_v262144.nfo	b414e593
+sxs-trraria_v262144.r00	c01f3f44
+sxs-trraria_v262144.r01	46819c7e
+sxs-trraria_v262144.r02	e2764e8c
+sxs-trraria_v262144.r03	cf41d2bf
+sxs-trraria_v262144.r04	d23542c1
+sxs-trraria_v262144.r05	c61ba12b
+sxs-trraria_v262144.rar	e534e21c
+sxs-trraria_v262144.sfv	5a9bff3e

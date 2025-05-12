@@ -1,0 +1,16 @@
+sxs-golden_force_v196608.nfo	0a5837e4
+sxs-golden_force_v196608.r00	d55c00ae
+sxs-golden_force_v196608.r01	1f830793
+sxs-golden_force_v196608.r02	bbbe02c2
+sxs-golden_force_v196608.r03	020af364
+sxs-golden_force_v196608.r04	03113132
+sxs-golden_force_v196608.r05	ed9e236f
+sxs-golden_force_v196608.r06	dabe49c4
+sxs-golden_force_v196608.r07	2374f00d
+sxs-golden_force_v196608.r08	3e9b9b87
+sxs-golden_force_v196608.r09	72c30666
+sxs-golden_force_v196608.r10	a66ac1a7
+sxs-golden_force_v196608.r11	12a45a3e
+sxs-golden_force_v196608.r12	bee73f0f
+sxs-golden_force_v196608.rar	a2889599
+sxs-golden_force_v196608.sfv	9874b69d

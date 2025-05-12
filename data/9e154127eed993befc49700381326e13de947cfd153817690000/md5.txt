@@ -1,0 +1,17 @@
+sxs-king_lucas.nfo	291b6629b9d3aa06a70844a69a28528d
+sxs-king_lucas.r00	63be4699483d5196f9484c8bbe2a1f9a
+sxs-king_lucas.r01	7867014cc26c50a626cc50454e6608bb
+sxs-king_lucas.r02	7cc1f5c26a669d368a3cb4967cb4fe55
+sxs-king_lucas.r03	224dc218ae716cd270fc1c824fb1243d
+sxs-king_lucas.r04	2f8dba6d4e22293d82bb455f06747def
+sxs-king_lucas.r05	30e4dc9760384b25dca039fc9d250d08
+sxs-king_lucas.r06	2f7be0a3991b4cd44b004de1b20b0cbb
+sxs-king_lucas.r07	0fc59b84200b948fadb856ca2d59c522
+sxs-king_lucas.r08	90c06ae465b1f16c1af9a875582714f3
+sxs-king_lucas.r09	46639277b51c3d8573724bc7c57aa478
+sxs-king_lucas.r10	3da1987a82e9cf78dba12a76401bdef7
+sxs-king_lucas.r11	ae61c6afbca65cfe7981fb8b0d84d4a5
+sxs-king_lucas.r12	405441933179e87342ba1d4ffad6852e
+sxs-king_lucas.r13	23405a106502f969dfbf56cd8e841a01
+sxs-king_lucas.rar	aa89f21148f398d4740425325a893a15
+sxs-king_lucas.sfv	c44c735d4b33e5165e40fba91744a38c

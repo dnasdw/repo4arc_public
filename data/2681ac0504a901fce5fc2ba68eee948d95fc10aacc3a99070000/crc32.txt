@@ -1,0 +1,11 @@
+sxs-call_of_juarez_gunslinger_v196608.nfo	ab9d741d
+sxs-call_of_juarez_gunslinger_v196608.r00	1d2f156a
+sxs-call_of_juarez_gunslinger_v196608.r01	120e6d45
+sxs-call_of_juarez_gunslinger_v196608.r02	fd89dfa0
+sxs-call_of_juarez_gunslinger_v196608.r03	3c22f252
+sxs-call_of_juarez_gunslinger_v196608.r04	4af8303a
+sxs-call_of_juarez_gunslinger_v196608.r05	421151c6
+sxs-call_of_juarez_gunslinger_v196608.r06	93fb71f0
+sxs-call_of_juarez_gunslinger_v196608.r07	e2f265c3
+sxs-call_of_juarez_gunslinger_v196608.rar	93eaa053
+sxs-call_of_juarez_gunslinger_v196608.sfv	b09bebbd

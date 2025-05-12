@@ -1,0 +1,14 @@
+l-str.nfo	690c709c
+l-str.r00	aa16a5e2
+l-str.r01	cf5e9aae
+l-str.r02	04630db8
+l-str.r03	af6d31c1
+l-str.r04	af3cb00c
+l-str.r05	8732d208
+l-str.r06	4d6b69c4
+l-str.r07	51152e24
+l-str.r08	1e6462bb
+l-str.r09	ceca3715
+l-str.r10	55d17ee8
+l-str.rar	cef2d981
+l-str.sfv	540069e5

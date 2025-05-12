@@ -1,0 +1,15 @@
+cat-apdqa.nfo	9af35d2c
+cat-apdqa.r00	c2a10731
+cat-apdqa.r01	8f9e5e09
+cat-apdqa.r02	a8a653aa
+cat-apdqa.r03	86ae95b4
+cat-apdqa.r04	11efd50c
+cat-apdqa.r05	948bc3bf
+cat-apdqa.r06	214b6575
+cat-apdqa.r07	84dc20de
+cat-apdqa.r08	a004e40e
+cat-apdqa.r09	98126942
+cat-apdqa.r10	1d321b37
+cat-apdqa.r11	f85fe067
+cat-apdqa.rar	d26c818e
+cat-apdqa.sfv	9390573c

@@ -1,0 +1,11 @@
+sxs-total_arcade_racing.nfo	-	5510	1	0	0	0
+sxs-total_arcade_racing.r00	-	50000000	1	5510	0	1
+sxs-total_arcade_racing.r01	-	50000000	1	50005510	0	49
+sxs-total_arcade_racing.r02	-	50000000	1	100005510	0	97
+sxs-total_arcade_racing.r03	-	50000000	1	150005510	0	145
+sxs-total_arcade_racing.r04	-	50000000	1	200005510	0	193
+sxs-total_arcade_racing.r05	-	50000000	1	250005510	0	241
+sxs-total_arcade_racing.r06	-	50000000	1	300005510	0	289
+sxs-total_arcade_racing.r07	-	4082490	1	350005510	0	337
+sxs-total_arcade_racing.rar	-	50000000	1	354088000	0	341
+sxs-total_arcade_racing.sfv	-	342	1	404088000	0	389

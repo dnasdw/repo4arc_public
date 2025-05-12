@@ -1,0 +1,7 @@
+lfc-sccf.nfo	557f21ed342358a9475e7c9820887b42
+lfc-sccf.r00	5a12127b44d57fe58757f049e3b5be82
+lfc-sccf.r01	e6ff438c8aad25c8389b3d855a74ac0b
+lfc-sccf.r02	0c169ed4b858fff1675c8b47420c99eb
+lfc-sccf.r03	093ccf99bda0012c1fbf3c7dc6597beb
+lfc-sccf.rar	8dc36b259080c1bb3ba7ec233b4f1d16
+lfc-sccf.sfv	3ff455c48439cd110d9de3e02226d07c

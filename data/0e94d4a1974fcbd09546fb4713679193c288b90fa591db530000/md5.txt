@@ -1,0 +1,6 @@
+v-freedom_finger_v65536.nfo	86313223dedb805ea09ad3942056ffd9
+v-freedom_finger_v65536.r00	4031b3321f7aa4b7323857ca75def1b2
+v-freedom_finger_v65536.r01	b1f6ad41954360a13f7679025dc4039b
+v-freedom_finger_v65536.r02	72a515c61164f9f42051a4359e3de488
+v-freedom_finger_v65536.rar	d0f957ead7de980d4edf19ef9d1a7cd9
+v-freedom_finger_v65536.sfv	b25f409ba7d686fe78584d47e9e6b975

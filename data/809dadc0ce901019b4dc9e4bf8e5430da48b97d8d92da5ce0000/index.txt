@@ -1,0 +1,15 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-shantae_riskys_revenge_directors_cut.jpg	-	153173	1	0	0	0
+sxs-shantae_riskys_revenge_directors_cut.nfo	-	4262	1	153173	0	1
+sxs-shantae_riskys_revenge_directors_cut.r00	-	50000000	1	157435	0	2
+sxs-shantae_riskys_revenge_directors_cut.r01	-	50000000	1	50157435	0	50
+sxs-shantae_riskys_revenge_directors_cut.r02	-	50000000	1	100157435	0	98
+sxs-shantae_riskys_revenge_directors_cut.r03	-	50000000	1	150157435	0	146
+sxs-shantae_riskys_revenge_directors_cut.r04	-	50000000	1	200157435	0	194
+sxs-shantae_riskys_revenge_directors_cut.r05	-	50000000	1	250157435	0	242
+sxs-shantae_riskys_revenge_directors_cut.r06	-	50000000	1	300157435	0	290
+sxs-shantae_riskys_revenge_directors_cut.r07	-	50000000	1	350157435	0	338
+sxs-shantae_riskys_revenge_directors_cut.r08	-	50000000	1	400157435	0	386
+sxs-shantae_riskys_revenge_directors_cut.r09	-	14939016	1	450157435	0	434
+sxs-shantae_riskys_revenge_directors_cut.rar	-	50000000	1	465096451	0	449
+sxs-shantae_riskys_revenge_directors_cut.sfv	-	605	1	515096451	0	497

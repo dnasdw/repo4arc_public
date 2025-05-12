@@ -1,0 +1,8 @@
+sxs-hexagravity.nfo	-	4730	1	0	0	0
+sxs-hexagravity.r00	-	50000000	1	4730	0	1
+sxs-hexagravity.r01	-	50000000	1	50004730	0	49
+sxs-hexagravity.r02	-	50000000	1	100004730	0	97
+sxs-hexagravity.r03	-	50000000	1	150004730	0	145
+sxs-hexagravity.r04	-	23853843	1	200004730	0	193
+sxs-hexagravity.rar	-	50000000	1	223858573	0	216
+sxs-hexagravity.sfv	-	180	1	273858573	0	264

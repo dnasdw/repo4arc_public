@@ -1,0 +1,4 @@
+.nuke	-	19	1	0	0	0
+v-nobunagas_ambition_awakening_new_officer_data_for_nobunagas_ambition_awakening_collaborating_nijisanjis_vtuber_ibrahim_dlc.nfo	-	7153	1	19	0	1
+v-nobunagas_ambition_awakening_new_officer_data_for_nobunagas_ambition_awakening_collaborating_nijisanjis_vtuber_ibrahim_dlc.rar	-	1760803	1	7172	0	2
+v-nobunagas_ambition_awakening_new_officer_data_for_nobunagas_ambition_awakening_collaborating_nijisanjis_vtuber_ibrahim_dlc.sfv	-	248	1	1767975	0	4

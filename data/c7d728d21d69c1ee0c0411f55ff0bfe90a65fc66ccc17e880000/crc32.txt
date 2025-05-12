@@ -1,0 +1,4 @@
+brw-ffgo.nfo	56ac82ed
+brw-ffgo.r00	dc889c67
+brw-ffgo.rar	1addf80a
+brw-ffgo.sfv	2eec2922

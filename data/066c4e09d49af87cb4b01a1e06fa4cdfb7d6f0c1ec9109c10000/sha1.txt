@@ -1,0 +1,5 @@
+brw-kitt_rf.nfo	b772fd04de34e29aeacdab5a163d793dfce2a6b8
+brw-kitt_rf.r00	d5dbd027e5041dddd105a575727e244dcd64229a
+brw-kitt_rf.r01	18db6a27774d28e54e5691aaebdf48d94b6df827
+brw-kitt_rf.rar	e4819748dbfe0a83784d63f87d46c143bfd242b1
+brw-kitt_rf.sfv	6ea0800552d161cd532c22bacee0a606f3af2505

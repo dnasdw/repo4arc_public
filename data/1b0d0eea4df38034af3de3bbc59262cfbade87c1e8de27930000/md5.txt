@@ -1,0 +1,8 @@
+sxs-fire_tonight.nfo	a2f8b98d224ee1f8d4bc280830416753
+sxs-fire_tonight.r00	0fa577194af76d819f2dd208249ed56e
+sxs-fire_tonight.r01	352499b5fed0d719bb55104e14441e4d
+sxs-fire_tonight.r02	a15ef12d3c66c1b4317bb533615b459e
+sxs-fire_tonight.r03	32de7be3fee06f58c6bcab46574bcc04
+sxs-fire_tonight.r04	99049d9d154f99546246804787aa6de1
+sxs-fire_tonight.rar	dc92606674d59d74bc119c455e7bbab9
+sxs-fire_tonight.sfv	fe532982abd5c4f4e91aee25138ddbf3

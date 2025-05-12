@@ -1,0 +1,4 @@
+v-gmetal_bonus_tracks_vol_1_dlc.nfo	-	6604	1	0	0	0
+v-gmetal_bonus_tracks_vol_1_dlc.r00	-	26686437	1	6604	0	1
+v-gmetal_bonus_tracks_vol_1_dlc.rar	-	50000000	1	26693041	0	27
+v-gmetal_bonus_tracks_vol_1_dlc.sfv	-	92	1	76693041	0	75

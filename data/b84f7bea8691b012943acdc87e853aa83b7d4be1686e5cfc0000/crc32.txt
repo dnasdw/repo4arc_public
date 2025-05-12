@@ -1,0 +1,4 @@
+v-capcom_fighting_collection_v131072.nfo	fcda083d
+v-capcom_fighting_collection_v131072.r00	a8959577
+v-capcom_fighting_collection_v131072.rar	e3b5140e
+v-capcom_fighting_collection_v131072.sfv	92d53623

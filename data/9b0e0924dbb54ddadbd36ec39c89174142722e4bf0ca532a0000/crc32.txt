@@ -1,0 +1,5 @@
+sxs-nes_v1572864.nfo	f1ee27cd
+sxs-nes_v1572864.r00	723ac103
+sxs-nes_v1572864.r01	7d2d9322
+sxs-nes_v1572864.rar	2196dcb8
+sxs-nes_v1572864.sfv	6be5f981

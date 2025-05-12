@@ -1,0 +1,11 @@
+sxs-my_hero_ones_justice_v65536.nfo	ae67dcf7
+sxs-my_hero_ones_justice_v65536.r00	6a0c5227
+sxs-my_hero_ones_justice_v65536.r01	f87a8d7b
+sxs-my_hero_ones_justice_v65536.r02	790e43c5
+sxs-my_hero_ones_justice_v65536.r03	53d878e6
+sxs-my_hero_ones_justice_v65536.r04	0e43bf31
+sxs-my_hero_ones_justice_v65536.r05	063dc7a1
+sxs-my_hero_ones_justice_v65536.r06	98d61145
+sxs-my_hero_ones_justice_v65536.r07	174e223c
+sxs-my_hero_ones_justice_v65536.rar	ee1780d2
+sxs-my_hero_ones_justice_v65536.sfv	10f7c3d9

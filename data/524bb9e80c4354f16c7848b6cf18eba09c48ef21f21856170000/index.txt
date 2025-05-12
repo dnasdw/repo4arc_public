@@ -1,0 +1,4 @@
+sxs-arcade_archives_city_connection_v196608.nfo	-	4730	1	0	0	0
+sxs-arcade_archives_city_connection_v196608.r00	-	41943751	1	4730	0	1
+sxs-arcade_archives_city_connection_v196608.rar	-	50000000	1	41948481	0	42
+sxs-arcade_archives_city_connection_v196608.sfv	-	116	1	91948481	0	90

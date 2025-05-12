@@ -1,0 +1,5 @@
+sxs-hatsune_miku_project_diva_mega_mix_theme_song_pack_dlc.nfo	-	5354	1	0	0	0
+sxs-hatsune_miku_project_diva_mega_mix_theme_song_pack_dlc.r00	-	50000000	1	5354	0	1
+sxs-hatsune_miku_project_diva_mega_mix_theme_song_pack_dlc.r01	-	47552132	1	50005354	0	49
+sxs-hatsune_miku_project_diva_mega_mix_theme_song_pack_dlc.rar	-	50000000	1	97557486	0	95
+sxs-hatsune_miku_project_diva_mega_mix_theme_song_pack_dlc.sfv	-	219	1	147557486	0	143

@@ -1,0 +1,6 @@
+v-regions_of_ruin_v131072.nfo	0c6d3715798cfc1ad4941efc6fe66abc
+v-regions_of_ruin_v131072.r00	1101dab5c096e0b19ec6289b5d132eeb
+v-regions_of_ruin_v131072.r01	a797d8c7f972c00f6f1a5890658d4983
+v-regions_of_ruin_v131072.r02	f271f536d9cb51d956140b520a48d2ba
+v-regions_of_ruin_v131072.rar	fc09c233e4fc1247ebc911750f562ad4
+v-regions_of_ruin_v131072.sfv	859c294d515811f42268d4d6e2237e87

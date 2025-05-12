@@ -1,0 +1,12 @@
+lfc-unicornicopia.nfo	3f22e84e
+lfc-unicornicopia.r00	21dea00f
+lfc-unicornicopia.r01	ded78d1b
+lfc-unicornicopia.r02	4ec6e910
+lfc-unicornicopia.r03	9ca46efe
+lfc-unicornicopia.r04	5c04009b
+lfc-unicornicopia.r05	7e586470
+lfc-unicornicopia.r06	b416ce5c
+lfc-unicornicopia.r07	a3fe57fa
+lfc-unicornicopia.r08	df9f1292
+lfc-unicornicopia.rar	698a3ce3
+lfc-unicornicopia.sfv	167ee5f7

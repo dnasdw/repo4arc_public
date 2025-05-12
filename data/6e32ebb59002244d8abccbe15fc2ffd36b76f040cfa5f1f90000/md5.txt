@@ -1,0 +1,10 @@
+lfc-henu.nfo	3383bb3d3c83526c6297b1bc9b098a22
+lfc-henu.r00	4909fcfa8cebdea948646bc9e692fb71
+lfc-henu.r01	2db85e8d1972ea9872a2bcba035eeaf0
+lfc-henu.r02	73473e1bfb6aaed6403e54372b88e9c4
+lfc-henu.r03	38e2619d619f8db18cdddf02e1d3f20a
+lfc-henu.r04	fcbbd92cee383d5bb8a189de2d9e310f
+lfc-henu.r05	19c6f4381f439c53c961c1d47efbbdf2
+lfc-henu.r06	f4a1f61dab05eb7837566539d58f11c0
+lfc-henu.rar	02441012cc7a1f1d519bbd87901ff8f7
+lfc-henu.sfv	f5d718cdccc37b0dbc58628e162d196f

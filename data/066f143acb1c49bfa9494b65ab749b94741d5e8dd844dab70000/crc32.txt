@@ -1,0 +1,6 @@
+lfc-yare_v65536.nfo	fbf68bbc
+lfc-yare_v65536.r00	773699a4
+lfc-yare_v65536.r01	db4d3e73
+lfc-yare_v65536.r02	08580aac
+lfc-yare_v65536.rar	e783634e
+lfc-yare_v65536.sfv	91a63b89

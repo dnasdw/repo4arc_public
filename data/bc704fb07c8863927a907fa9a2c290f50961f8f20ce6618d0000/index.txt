@@ -1,0 +1,5 @@
+bbb-n-advaa.nfo	-	5517	1	0	0	0
+bbb-n-advaa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-advaa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-advaa.part3.rar	-	11780341	1	500005517	0	479
+bbb-n-advaa.sfv	-	96	1	511785858	0	491

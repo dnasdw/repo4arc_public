@@ -1,0 +1,9 @@
+sxs-checkers_for_kids.nfo	9efd19f6
+sxs-checkers_for_kids.r00	db9c3eee
+sxs-checkers_for_kids.r01	97b06623
+sxs-checkers_for_kids.r02	dbe25ff5
+sxs-checkers_for_kids.r03	56fd432e
+sxs-checkers_for_kids.r04	d0e7eae5
+sxs-checkers_for_kids.r05	7f689522
+sxs-checkers_for_kids.rar	27101ad5
+sxs-checkers_for_kids.sfv	e171baba

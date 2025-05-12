@@ -1,0 +1,14 @@
+sxs-good_pizza_great_pizza_v196608.nfo	41d3e327
+sxs-good_pizza_great_pizza_v196608.r00	b34b7adf
+sxs-good_pizza_great_pizza_v196608.r01	34002da0
+sxs-good_pizza_great_pizza_v196608.r02	35a9cbb0
+sxs-good_pizza_great_pizza_v196608.r03	bb81e451
+sxs-good_pizza_great_pizza_v196608.r04	96b79734
+sxs-good_pizza_great_pizza_v196608.r05	1d031f30
+sxs-good_pizza_great_pizza_v196608.r06	64785729
+sxs-good_pizza_great_pizza_v196608.r07	abd32efc
+sxs-good_pizza_great_pizza_v196608.r08	fa9425cd
+sxs-good_pizza_great_pizza_v196608.r09	bc9e229f
+sxs-good_pizza_great_pizza_v196608.r10	be04b5bc
+sxs-good_pizza_great_pizza_v196608.rar	ffbcb5e9
+sxs-good_pizza_great_pizza_v196608.sfv	057f6219

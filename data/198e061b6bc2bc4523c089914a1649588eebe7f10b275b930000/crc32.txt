@@ -1,0 +1,5 @@
+lfc-hgis_v131072.nfo	29a490ec
+lfc-hgis_v131072.r00	a021d2c0
+lfc-hgis_v131072.r01	2d115efa
+lfc-hgis_v131072.rar	9158614a
+lfc-hgis_v131072.sfv	ac740745

@@ -1,0 +1,5 @@
+sxs-mystic_gate.nfo	-	8006	1	0	0	0
+sxs-mystic_gate.r00	-	100000000	1	8006	0	1
+sxs-mystic_gate.r01	-	54778175	1	100008006	0	97
+sxs-mystic_gate.rar	-	100000000	1	154786181	0	150
+sxs-mystic_gate.sfv	-	90	1	254786181	0	246

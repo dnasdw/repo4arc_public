@@ -1,0 +1,10 @@
+v-sword_art_online_hollow_realization_deluxe_edition_v131072.nfo	-	5278	1	0	0	0
+v-sword_art_online_hollow_realization_deluxe_edition_v131072.r00	-	50000000	1	5278	0	1
+v-sword_art_online_hollow_realization_deluxe_edition_v131072.r01	-	50000000	1	50005278	0	49
+v-sword_art_online_hollow_realization_deluxe_edition_v131072.r02	-	50000000	1	100005278	0	97
+v-sword_art_online_hollow_realization_deluxe_edition_v131072.r03	-	50000000	1	150005278	0	145
+v-sword_art_online_hollow_realization_deluxe_edition_v131072.r04	-	50000000	1	200005278	0	193
+v-sword_art_online_hollow_realization_deluxe_edition_v131072.r05	-	50000000	1	250005278	0	241
+v-sword_art_online_hollow_realization_deluxe_edition_v131072.r06	-	37194104	1	300005278	0	289
+v-sword_art_online_hollow_realization_deluxe_edition_v131072.rar	-	50000000	1	337199382	0	325
+v-sword_art_online_hollow_realization_deluxe_edition_v131072.sfv	-	600	1	387199382	0	373

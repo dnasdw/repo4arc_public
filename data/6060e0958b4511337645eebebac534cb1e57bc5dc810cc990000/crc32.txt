@@ -1,0 +1,13 @@
+sxs-advent_calendar_v131072.nfo	61d79d91
+sxs-advent_calendar_v131072.r00	34e6baa1
+sxs-advent_calendar_v131072.r01	01e4f00e
+sxs-advent_calendar_v131072.r02	8207ad49
+sxs-advent_calendar_v131072.r03	6456c6c0
+sxs-advent_calendar_v131072.r04	74b7a939
+sxs-advent_calendar_v131072.r05	465c2573
+sxs-advent_calendar_v131072.r06	27f42e5d
+sxs-advent_calendar_v131072.r07	61c86356
+sxs-advent_calendar_v131072.r08	d8d7e4eb
+sxs-advent_calendar_v131072.r09	4410e970
+sxs-advent_calendar_v131072.rar	f39a14d9
+sxs-advent_calendar_v131072.sfv	07a898a5

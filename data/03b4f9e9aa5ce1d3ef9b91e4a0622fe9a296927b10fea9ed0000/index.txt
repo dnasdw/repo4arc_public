@@ -1,0 +1,4 @@
+sxs-island_saver_v65536.nfo	-	5432	1	0	0	0
+sxs-island_saver_v65536.r00	-	5003132	1	5432	0	1
+sxs-island_saver_v65536.rar	-	50000000	1	5008564	0	6
+sxs-island_saver_v65536.sfv	-	76	1	55008564	0	54

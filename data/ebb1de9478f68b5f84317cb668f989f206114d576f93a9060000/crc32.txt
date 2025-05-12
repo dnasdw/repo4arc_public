@@ -1,0 +1,7 @@
+sxs-knight_squad.nfo	19650abf
+sxs-knight_squad.r00	dab849a0
+sxs-knight_squad.r01	b9dcad5c
+sxs-knight_squad.r02	d09c0717
+sxs-knight_squad.r03	403fff1f
+sxs-knight_squad.rar	42556859
+sxs-knight_squad.sfv	f7200e0e

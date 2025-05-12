@@ -1,0 +1,16 @@
+lfc-adwga.jpg	49c4fd6b
+lfc-adwga.nfo	65c21dc7
+lfc-adwga.r00	f9206ea6
+lfc-adwga.r01	80178e23
+lfc-adwga.r02	74a4af5f
+lfc-adwga.r03	9bd106a0
+lfc-adwga.r04	299f7b3a
+lfc-adwga.r05	e2e79d76
+lfc-adwga.r06	ecfd43cf
+lfc-adwga.r07	b66be470
+lfc-adwga.r08	076c7137
+lfc-adwga.r09	7f7ebb81
+lfc-adwga.r10	5520f397
+lfc-adwga.r11	de53842d
+lfc-adwga.rar	c36daaff
+lfc-adwga.sfv	c0e81b12

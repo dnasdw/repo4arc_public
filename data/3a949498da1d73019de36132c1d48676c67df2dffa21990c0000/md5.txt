@@ -1,0 +1,3 @@
+sxs-cats_cosmic_atlas_dlc.nfo	68a7ee92e65b4f3258efebcc15c996d3
+sxs-cats_cosmic_atlas_dlc.rar	fd4dc77dd5702e31cf5a80df19041626
+sxs-cats_cosmic_atlas_dlc.sfv	17e7c9eb0943cd78da45e7df58ea6eb4

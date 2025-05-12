@@ -1,0 +1,4 @@
+sxs-god_wars_v65536.nfo	-	3639	1	0	0	0
+sxs-god_wars_v65536.r00	-	11516650	1	3639	0	1
+sxs-god_wars_v65536.rar	-	50000000	1	11520289	0	12
+sxs-god_wars_v65536.sfv	-	68	1	61520289	0	60

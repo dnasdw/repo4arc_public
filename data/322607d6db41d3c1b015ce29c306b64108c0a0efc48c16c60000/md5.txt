@@ -1,0 +1,5 @@
+sxs-downslope_v196608.nfo	a1bcd350163a59646a69722d47609da2
+sxs-downslope_v196608.r00	200bfc2a42aafa9307c3944ba102d40f
+sxs-downslope_v196608.r01	4b7dff8c0c818f1a4c035fa89a9993a7
+sxs-downslope_v196608.rar	43ce1adc7d87e4b477321ebc7ba60b88
+sxs-downslope_v196608.sfv	f537a65fee0e95fe23052c55cb3f2579

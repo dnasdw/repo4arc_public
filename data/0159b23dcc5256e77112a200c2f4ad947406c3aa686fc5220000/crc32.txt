@@ -1,0 +1,17 @@
+sxs-pocket_mini_golf_2.nfo	32ca0d97
+sxs-pocket_mini_golf_2.r00	d315a552
+sxs-pocket_mini_golf_2.r01	101aa164
+sxs-pocket_mini_golf_2.r02	3a03d079
+sxs-pocket_mini_golf_2.r03	b0662e2d
+sxs-pocket_mini_golf_2.r04	bec5f728
+sxs-pocket_mini_golf_2.r05	00bda10b
+sxs-pocket_mini_golf_2.r06	14ca01f9
+sxs-pocket_mini_golf_2.r07	a156ee38
+sxs-pocket_mini_golf_2.r08	164914a7
+sxs-pocket_mini_golf_2.r09	2898442b
+sxs-pocket_mini_golf_2.r10	e8b838c6
+sxs-pocket_mini_golf_2.r11	3a89ff95
+sxs-pocket_mini_golf_2.r12	99beecd6
+sxs-pocket_mini_golf_2.r13	1c807bbb
+sxs-pocket_mini_golf_2.rar	84a8088f
+sxs-pocket_mini_golf_2.sfv	ddb4b154

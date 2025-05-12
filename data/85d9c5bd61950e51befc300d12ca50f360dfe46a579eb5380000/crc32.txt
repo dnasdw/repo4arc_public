@@ -1,0 +1,9 @@
+v-vandals.nfo	4b5a1107
+v-vandals.r00	25aaee10
+v-vandals.r01	c74fc766
+v-vandals.r02	333dd53d
+v-vandals.r03	550de4fe
+v-vandals.r04	3a581285
+v-vandals.r05	2dc0d262
+v-vandals.rar	78353b0b
+v-vandals.sfv	cf0e9cef

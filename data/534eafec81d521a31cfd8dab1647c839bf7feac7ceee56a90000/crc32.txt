@@ -1,0 +1,5 @@
+sxs-snes_v1048576.nfo	d3251998
+sxs-snes_v1048576.r00	4686bd01
+sxs-snes_v1048576.r01	16e9c023
+sxs-snes_v1048576.rar	4a6bd99e
+sxs-snes_v1048576.sfv	e7972cda

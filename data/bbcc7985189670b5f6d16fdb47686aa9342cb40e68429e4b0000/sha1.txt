@@ -1,0 +1,6 @@
+sxs-squidlit.nfo	3e182cf0703e279ec09bbbd1c55d49222a6b237a
+sxs-squidlit.r00	4aa97e206a7b524f12a0ed40967f64aca20f8b03
+sxs-squidlit.r01	93fd45adc8ddf6943fba5f8f8a846c5a45f798ad
+sxs-squidlit.r02	5237f20cd8dc99593fedd2f8fb0c62a4e071a428
+sxs-squidlit.rar	828c2e80993e33456da8537265b3b47f3d4bae1c
+sxs-squidlit.sfv	df1cbbfad72a8f58bf790fe5a57a939a7eab078f

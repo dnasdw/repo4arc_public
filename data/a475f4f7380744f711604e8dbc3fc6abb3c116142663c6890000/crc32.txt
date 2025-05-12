@@ -1,0 +1,7 @@
+nrz-dkctf.nfo	be18805d
+nrz-dkctf.sfv	b9f60dc0
+nrz-dkctf.update.1.0.2.r00	7ef660f1
+nrz-dkctf.update.1.0.2.r01	028e6c6d
+nrz-dkctf.update.1.0.2.r02	d4b2ba19
+nrz-dkctf.update.1.0.2.r03	a819ccc7
+nrz-dkctf.update.1.0.2.rar	3c8e5fb8

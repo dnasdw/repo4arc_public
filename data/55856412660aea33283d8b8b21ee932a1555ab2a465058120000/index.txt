@@ -1,0 +1,5 @@
+sxs-under_the_warehouse.nfo	-	5588	1	0	0	0
+sxs-under_the_warehouse.r00	-	100000000	1	5588	0	1
+sxs-under_the_warehouse.r01	-	24869191	1	100005588	0	97
+sxs-under_the_warehouse.rar	-	100000000	1	124874779	0	121
+sxs-under_the_warehouse.sfv	-	114	1	224874779	0	217

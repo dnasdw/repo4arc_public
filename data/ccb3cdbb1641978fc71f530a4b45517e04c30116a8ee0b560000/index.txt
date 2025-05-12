@@ -1,0 +1,4 @@
+sxs-wargroove_v327680.nfo	-	6446	1	0	0	0
+sxs-wargroove_v327680.r00	-	47147679	1	6446	0	1
+sxs-wargroove_v327680.rar	-	50000000	1	47154125	0	46
+sxs-wargroove_v327680.sfv	-	72	1	97154125	0	94

@@ -1,0 +1,12 @@
+sxs-west_of_loathing_v196608.nfo	2d622dcf
+sxs-west_of_loathing_v196608.r00	5fd17f43
+sxs-west_of_loathing_v196608.r01	2dc07bed
+sxs-west_of_loathing_v196608.r02	2ebf9b93
+sxs-west_of_loathing_v196608.r03	b764053b
+sxs-west_of_loathing_v196608.r04	83f2ef2d
+sxs-west_of_loathing_v196608.r05	d0f10e4d
+sxs-west_of_loathing_v196608.r06	09c6060b
+sxs-west_of_loathing_v196608.r07	93755efb
+sxs-west_of_loathing_v196608.r08	7c1f6cdc
+sxs-west_of_loathing_v196608.rar	932ccc6f
+sxs-west_of_loathing_v196608.sfv	e788cf2a

@@ -1,0 +1,12 @@
+sxs-samurai_warriors_5_v131072.nfo	3a352f87
+sxs-samurai_warriors_5_v131072.r00	2edfac8c
+sxs-samurai_warriors_5_v131072.r01	b32bd1f0
+sxs-samurai_warriors_5_v131072.r02	0f7b19c4
+sxs-samurai_warriors_5_v131072.r03	4c9fa613
+sxs-samurai_warriors_5_v131072.r04	6be2a34e
+sxs-samurai_warriors_5_v131072.r05	a8e7e4ec
+sxs-samurai_warriors_5_v131072.r06	b28cf27e
+sxs-samurai_warriors_5_v131072.r07	8dd4f542
+sxs-samurai_warriors_5_v131072.r08	760486ab
+sxs-samurai_warriors_5_v131072.rar	da6c43af
+sxs-samurai_warriors_5_v131072.sfv	0ac4e76f

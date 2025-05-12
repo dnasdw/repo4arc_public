@@ -1,0 +1,7 @@
+v-the_spirit_and_the_mouse_v196608.nfo	-	6448	1	0	0	0
+v-the_spirit_and_the_mouse_v196608.r00	-	100000000	1	6448	0	1
+v-the_spirit_and_the_mouse_v196608.r01	-	100000000	1	100006448	0	97
+v-the_spirit_and_the_mouse_v196608.r02	-	100000000	1	200006448	0	193
+v-the_spirit_and_the_mouse_v196608.r03	-	28350503	1	300006448	0	289
+v-the_spirit_and_the_mouse_v196608.rar	-	100000000	1	328356951	0	317
+v-the_spirit_and_the_mouse_v196608.sfv	-	245	1	428356951	0	413

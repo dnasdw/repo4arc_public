@@ -1,0 +1,3 @@
+lfc-indiecalypse.r29	-	22293580	1	0	0	0
+lfc-indiecalypse_rarfix.nfo	-	6738	1	22293580	0	22
+lfc-indiecalypse_rarfix.sfv	-	31	1	22300318	0	23

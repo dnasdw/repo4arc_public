@@ -1,0 +1,7 @@
+v-days_of_doom_v131072.nfo	ba492b1a
+v-days_of_doom_v131072.r00	65b42dd1
+v-days_of_doom_v131072.r01	82ab3728
+v-days_of_doom_v131072.r02	5b1ec7f4
+v-days_of_doom_v131072.r03	717b7898
+v-days_of_doom_v131072.rar	d66deb1f
+v-days_of_doom_v131072.sfv	5597a71d

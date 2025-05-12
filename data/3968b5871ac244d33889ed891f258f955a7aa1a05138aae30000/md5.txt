@@ -1,0 +1,9 @@
+jrp-n-snh.nfo	16c20dafb4d2d31c3f72ce0c12eca12a
+jrp-snh.r00	f4e3fb6dd72d1bc3455f2bf40bba191d
+jrp-snh.r01	2d41f77943f76d8d6f2d442dcb9aed25
+jrp-snh.r02	f90317b6d08cf7dc661d2076a7dee9c5
+jrp-snh.r03	ac1158f49431511f7f773f9f69b6a40b
+jrp-snh.r04	69bfd08195dfc3e6f543808138f80655
+jrp-snh.r05	6da3aba23a090ee032ffbafb4df95487
+jrp-snh.rar	5964e06628414a54b84f48e16e0122fc
+jrp-snh.sfv	6575a301699e59a408b7d6d210ca4bc0

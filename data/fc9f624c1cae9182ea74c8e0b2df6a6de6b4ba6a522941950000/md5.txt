@@ -1,0 +1,10 @@
+lfc-nerdbookvol1.nfo	e8d4db355e1eebe9c283a35c8a19ca1e
+lfc-nerdbookvol1.r00	e32835f5bcea70d6593c59258d1df474
+lfc-nerdbookvol1.r01	30aed0263c3f9e5223b7eaa393c16be3
+lfc-nerdbookvol1.r02	9d480661b43ff2aceecc2dcc15c954ff
+lfc-nerdbookvol1.r03	77f42c73363513ba4ab2261b2a9197fa
+lfc-nerdbookvol1.r04	36561cb648f17201e186caaa81488cdf
+lfc-nerdbookvol1.r05	f9ea0a867d573eb25f9848af9ca70c2a
+lfc-nerdbookvol1.r06	1122176f0ea7db132856537a16933129
+lfc-nerdbookvol1.rar	b4b25711f6236f1060bc30c214fa36c0
+lfc-nerdbookvol1.sfv	a001bb7b345518849e827d262f3e65ae

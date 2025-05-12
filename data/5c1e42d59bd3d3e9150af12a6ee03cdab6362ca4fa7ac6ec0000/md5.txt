@@ -1,0 +1,10 @@
+lfc-katwmupdv2.0.2.nfo	387bd580cb2ac336c6701af03e33c6fa
+lfc-katwmupdv2.0.2.r00	70dd780acaa18d0fea72bd47992a7606
+lfc-katwmupdv2.0.2.r01	2d71ad73e988944e061d0476cfe4b94a
+lfc-katwmupdv2.0.2.r02	ba7d64643b8ee0328c7542bbfd2ca02d
+lfc-katwmupdv2.0.2.r03	fd48b97b3faa8fc2641ec4101483b0cf
+lfc-katwmupdv2.0.2.r04	4681c87901a92aa6e740163abfbaa64d
+lfc-katwmupdv2.0.2.r05	e6ba8dff902cd067232fcf3432682ef2
+lfc-katwmupdv2.0.2.r06	a9b384cbba3a76be8626bfe01c5d0e34
+lfc-katwmupdv2.0.2.rar	1e8a21d93dcbb6a6711977f70d1d0b6d
+lfc-katwmupdv2.0.2.sfv	c860f6f7bd629c6e6b043df66501ec4b

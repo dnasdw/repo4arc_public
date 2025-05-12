@@ -1,0 +1,4 @@
+sxs-jump_challenge.nfo	d0028fcc410b9d0f74d944b8ae14c8474b81d73d
+sxs-jump_challenge.r00	9b49513f53355eff2871e29048e72d3a8e198243
+sxs-jump_challenge.rar	b2d7598dc1b96c123167ff83ae43aea0e0377ca4
+sxs-jump_challenge.sfv	5eabad43b1078fcc556e421921b5b1544720efdf

@@ -1,0 +1,15 @@
+sxs-among_us_v1179648.nfo	1adb6882
+sxs-among_us_v1179648.r00	aeecf995
+sxs-among_us_v1179648.r01	533ae8c0
+sxs-among_us_v1179648.r02	786b249e
+sxs-among_us_v1179648.r03	517c3343
+sxs-among_us_v1179648.r04	847de3f3
+sxs-among_us_v1179648.r05	dd2cbc00
+sxs-among_us_v1179648.r06	570cb219
+sxs-among_us_v1179648.r07	6697458c
+sxs-among_us_v1179648.r08	2453d1d5
+sxs-among_us_v1179648.r09	a33a1826
+sxs-among_us_v1179648.r10	e974ffce
+sxs-among_us_v1179648.r11	941a493e
+sxs-among_us_v1179648.rar	7bbf4dc5
+sxs-among_us_v1179648.sfv	fb673248

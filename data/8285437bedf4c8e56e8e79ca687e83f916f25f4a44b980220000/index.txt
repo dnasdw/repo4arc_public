@@ -1,0 +1,13 @@
+sxs-puzzle_vacations_ireland.nfo	-	4418	1	0	0	0
+sxs-puzzle_vacations_ireland.r00	-	100000000	1	4418	0	1
+sxs-puzzle_vacations_ireland.r01	-	100000000	1	100004418	0	97
+sxs-puzzle_vacations_ireland.r02	-	100000000	1	200004418	0	193
+sxs-puzzle_vacations_ireland.r03	-	100000000	1	300004418	0	289
+sxs-puzzle_vacations_ireland.r04	-	100000000	1	400004418	0	385
+sxs-puzzle_vacations_ireland.r05	-	100000000	1	500004418	0	481
+sxs-puzzle_vacations_ireland.r06	-	100000000	1	62251264	1	60
+sxs-puzzle_vacations_ireland.r07	-	100000000	1	162251264	1	156
+sxs-puzzle_vacations_ireland.r08	-	100000000	1	262251264	1	252
+sxs-puzzle_vacations_ireland.r09	-	11932780	1	362251264	1	348
+sxs-puzzle_vacations_ireland.rar	-	100000000	1	374184044	1	360
+sxs-puzzle_vacations_ireland.sfv	-	473	1	474184044	1	456

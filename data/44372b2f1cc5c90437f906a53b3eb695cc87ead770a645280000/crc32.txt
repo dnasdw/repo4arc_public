@@ -1,0 +1,14 @@
+v-aninjw_v65536.nfo	ba8908a3
+v-aninjw_v65536.r00	fa7e3ece
+v-aninjw_v65536.r01	d47fbd05
+v-aninjw_v65536.r02	e04d1fc2
+v-aninjw_v65536.r03	1ec8339b
+v-aninjw_v65536.r04	4f39733e
+v-aninjw_v65536.r05	f6c85421
+v-aninjw_v65536.r06	af83d58e
+v-aninjw_v65536.r07	eab2a8b8
+v-aninjw_v65536.r08	d4918266
+v-aninjw_v65536.r09	a9f10621
+v-aninjw_v65536.r10	f9d8a940
+v-aninjw_v65536.rar	a833bb94
+v-aninjw_v65536.sfv	57580406

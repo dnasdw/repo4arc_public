@@ -1,0 +1,4 @@
+sxs-smdjp.nfo	-	5355	1	0	0	0
+sxs-smdjp.r00	-	37483011	1	5355	0	1
+sxs-smdjp.rar	-	50000000	1	37488366	0	37
+sxs-smdjp.sfv	-	48	1	87488366	0	85

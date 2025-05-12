@@ -1,0 +1,17 @@
+sxs-evertried.nfo	3db26275
+sxs-evertried.r00	e7bb4ad0
+sxs-evertried.r01	474783f4
+sxs-evertried.r02	332b0a79
+sxs-evertried.r03	6bbf8cb6
+sxs-evertried.r04	3bb6085e
+sxs-evertried.r05	68168430
+sxs-evertried.r06	a1b0b946
+sxs-evertried.r07	7e714aed
+sxs-evertried.r08	58cf0a08
+sxs-evertried.r09	7c3234d1
+sxs-evertried.r10	a1d9813b
+sxs-evertried.r11	c4dcedd1
+sxs-evertried.r12	6b80e0d9
+sxs-evertried.r13	f3387b07
+sxs-evertried.rar	82112245
+sxs-evertried.sfv	c38e8b23

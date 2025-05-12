@@ -1,0 +1,15 @@
+sxs-rogue_heroes_ruins_of_tasos_v524288.nfo	c0fc1ac6
+sxs-rogue_heroes_ruins_of_tasos_v524288.r00	dc579dfa
+sxs-rogue_heroes_ruins_of_tasos_v524288.r01	ffbb9215
+sxs-rogue_heroes_ruins_of_tasos_v524288.r02	51e9d653
+sxs-rogue_heroes_ruins_of_tasos_v524288.r03	98be65a6
+sxs-rogue_heroes_ruins_of_tasos_v524288.r04	8182eb46
+sxs-rogue_heroes_ruins_of_tasos_v524288.r05	e837a037
+sxs-rogue_heroes_ruins_of_tasos_v524288.r06	287c0c1a
+sxs-rogue_heroes_ruins_of_tasos_v524288.r07	617cb687
+sxs-rogue_heroes_ruins_of_tasos_v524288.r08	eb5a8420
+sxs-rogue_heroes_ruins_of_tasos_v524288.r09	b15cdb5b
+sxs-rogue_heroes_ruins_of_tasos_v524288.r10	c201e173
+sxs-rogue_heroes_ruins_of_tasos_v524288.r11	b2024b00
+sxs-rogue_heroes_ruins_of_tasos_v524288.rar	22556d43
+sxs-rogue_heroes_ruins_of_tasos_v524288.sfv	507662ec

@@ -1,0 +1,6 @@
+lfc-ttt4_v65536.nfo	f52ea1fc
+lfc-ttt4_v65536.r00	f67baba8
+lfc-ttt4_v65536.r01	228dc5fd
+lfc-ttt4_v65536.r02	3838d312
+lfc-ttt4_v65536.rar	10421c01
+lfc-ttt4_v65536.sfv	1b8ff745

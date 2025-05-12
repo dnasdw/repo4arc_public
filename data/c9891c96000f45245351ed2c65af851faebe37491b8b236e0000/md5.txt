@@ -1,0 +1,13 @@
+sxs-sunblaze.nfo	fa81b31aa21ab2a25678fbd010285b75
+sxs-sunblaze.r00	509b158b183445000b90ef237f16f39a
+sxs-sunblaze.r01	04a97ed725b8b4c1e86c0d6d7c046024
+sxs-sunblaze.r02	22bbbc617245c60af86d5dae3d69f4c2
+sxs-sunblaze.r03	12d1b9b49f5daef6f29c59ece64c9b61
+sxs-sunblaze.r04	20eef1723042e4b69c8b22878a5bb086
+sxs-sunblaze.r05	5566a2955dce7a32581f6bd9ce5b8287
+sxs-sunblaze.r06	afbaed74cf365c898bf31c459776702d
+sxs-sunblaze.r07	b494f148adb666c343ae9efafad47a64
+sxs-sunblaze.r08	a2f6a4870be0224f1b74c59e1c4c7334
+sxs-sunblaze.r09	cf1ba5ef0c23117266813faa6db25b8b
+sxs-sunblaze.rar	153d35c9ec16cae96cafc3f4ac8f45a8
+sxs-sunblaze.sfv	b52979b3723caef1a5220ce51689323f

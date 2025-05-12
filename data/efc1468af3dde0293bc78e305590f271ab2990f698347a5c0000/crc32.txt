@@ -1,0 +1,4 @@
+sxs-nes_v524288.r00	f02b5194
+sxs-nes_v524288.r01	e757f520
+sxs-nes_v524288.rar	c949a795
+sxs-nes_v524288.sfv	4cefc23a

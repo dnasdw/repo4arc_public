@@ -1,0 +1,14 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-survivor_castaway_island.jpg	-	166287	1	0	0	0
+sxs-survivor_castaway_island.nfo	-	6680	1	166287	0	1
+sxs-survivor_castaway_island.r00	-	100000000	1	172967	0	2
+sxs-survivor_castaway_island.r01	-	100000000	1	100172967	0	98
+sxs-survivor_castaway_island.r02	-	100000000	1	200172967	0	194
+sxs-survivor_castaway_island.r03	-	100000000	1	300172967	0	290
+sxs-survivor_castaway_island.r04	-	100000000	1	400172967	0	386
+sxs-survivor_castaway_island.r05	-	100000000	1	500172967	0	482
+sxs-survivor_castaway_island.r06	-	100000000	1	63299840	1	61
+sxs-survivor_castaway_island.r07	-	100000000	1	163299840	1	157
+sxs-survivor_castaway_island.r08	-	77401441	1	263299840	1	253
+sxs-survivor_castaway_island.rar	-	100000000	1	340701281	1	327
+sxs-survivor_castaway_island.sfv	-	430	1	440701281	1	423

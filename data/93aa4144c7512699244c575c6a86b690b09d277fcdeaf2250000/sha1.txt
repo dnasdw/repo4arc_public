@@ -1,0 +1,10 @@
+v-katana_zero.nfo	93de981d7d435f3276ef40b8eead16e9d429af2e
+v-katana_zero.r00	9d667ea58368a568d04e2ff9498171093cf908e0
+v-katana_zero.r01	86a0428bd225a89d61b9e24ea9c87ed2d447fbb3
+v-katana_zero.r02	cb6597a49c12c3a9cc737b81141a30ec8bc4cbff
+v-katana_zero.r03	03f8c1dd59bbd11abc65096fe6a2507027065444
+v-katana_zero.r04	3d2c84e7b7e2a97a17e20e4b43c34656bb084b7b
+v-katana_zero.r05	acbbd374cbcb188a9ae4f7e14eb84550290e3f16
+v-katana_zero.r06	3d26fffe315bad3991250b333a450cb7d64bdc81
+v-katana_zero.rar	049a5c42d2e6e75228d6ad8737057a4a0a58c97c
+v-katana_zero.sfv	e282e8dd8aa950a6e92dc8a92b2b3734debf3147

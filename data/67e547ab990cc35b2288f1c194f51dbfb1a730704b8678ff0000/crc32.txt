@@ -1,0 +1,11 @@
+sxs-haak_v327680.nfo	5a4eb2d4
+sxs-haak_v327680.r00	90a6dcd7
+sxs-haak_v327680.r01	4cd0065d
+sxs-haak_v327680.r02	7033eaa8
+sxs-haak_v327680.r03	2624b2e7
+sxs-haak_v327680.r04	26d1fbce
+sxs-haak_v327680.r05	66161cbe
+sxs-haak_v327680.r06	b822b325
+sxs-haak_v327680.r07	877ca5d6
+sxs-haak_v327680.rar	c1679d58
+sxs-haak_v327680.sfv	7989a186

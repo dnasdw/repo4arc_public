@@ -1,0 +1,3 @@
+sxs-nerf_legends_alpha_pack_dlc.nfo	ffab8e2fc10f5b14017cc240b980b38d1d805ec5
+sxs-nerf_legends_alpha_pack_dlc.rar	d20dcb383e3ccadf02e98d7da1bd26b18ccfbae7
+sxs-nerf_legends_alpha_pack_dlc.sfv	e0e2a99b36148f1e716e623858afacc06074e3fe

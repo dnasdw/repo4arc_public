@@ -1,0 +1,8 @@
+v-lords_of_exile.nfo	134cdbf1e1556d2382e08d5bdc74d7aa
+v-lords_of_exile.r00	f9b73aa38c609fad90e41e81e78c27c0
+v-lords_of_exile.r01	71222ea8ba6408bd76d7f32302541986
+v-lords_of_exile.r02	f32778f7fbc7290a2f16b9c1d1d55e9e
+v-lords_of_exile.r03	3381dc3a86ebf8773cfccbdaa03f2cd5
+v-lords_of_exile.r04	c9795c612551306ef8d1654a0953d820
+v-lords_of_exile.rar	511d656aacdd0b628b770486c67f5b5e
+v-lords_of_exile.sfv	bd4e8d2e0400261366536b7df76fcef0

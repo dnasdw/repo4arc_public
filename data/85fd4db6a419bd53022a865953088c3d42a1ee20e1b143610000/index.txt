@@ -1,0 +1,15 @@
+sxs-dnf_duel_whos_next_v393216.nfo	-	8482	1	0	0	0
+sxs-dnf_duel_whos_next_v393216.r00	-	100000000	1	8482	0	1
+sxs-dnf_duel_whos_next_v393216.r01	-	100000000	1	100008482	0	97
+sxs-dnf_duel_whos_next_v393216.r02	-	100000000	1	200008482	0	193
+sxs-dnf_duel_whos_next_v393216.r03	-	100000000	1	300008482	0	289
+sxs-dnf_duel_whos_next_v393216.r04	-	100000000	1	400008482	0	385
+sxs-dnf_duel_whos_next_v393216.r05	-	100000000	1	500008482	0	481
+sxs-dnf_duel_whos_next_v393216.r06	-	100000000	1	62251264	1	60
+sxs-dnf_duel_whos_next_v393216.r07	-	100000000	1	162251264	1	156
+sxs-dnf_duel_whos_next_v393216.r08	-	100000000	1	262251264	1	252
+sxs-dnf_duel_whos_next_v393216.r09	-	100000000	1	362251264	1	348
+sxs-dnf_duel_whos_next_v393216.r10	-	100000000	1	462251264	1	444
+sxs-dnf_duel_whos_next_v393216.r11	-	80277102	1	24502528	2	24
+sxs-dnf_duel_whos_next_v393216.rar	-	100000000	1	104779630	2	101
+sxs-dnf_duel_whos_next_v393216.sfv	-	585	1	204779630	2	197

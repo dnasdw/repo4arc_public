@@ -1,0 +1,5 @@
+lfc-pcma_v131072.nfo	30c99350
+lfc-pcma_v131072.r00	9f19d8f1
+lfc-pcma_v131072.r01	46f003e0
+lfc-pcma_v131072.rar	ab6f6d45
+lfc-pcma_v131072.sfv	18334ff3

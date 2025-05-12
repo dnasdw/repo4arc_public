@@ -1,0 +1,10 @@
+v-exit_the_gungeon_v196608.nfo	da363bfe
+v-exit_the_gungeon_v196608.r00	2ec64810
+v-exit_the_gungeon_v196608.r01	8e31c4f1
+v-exit_the_gungeon_v196608.r02	72d8119e
+v-exit_the_gungeon_v196608.r03	b070ddb1
+v-exit_the_gungeon_v196608.r04	29ce0dfc
+v-exit_the_gungeon_v196608.r05	786087ab
+v-exit_the_gungeon_v196608.r06	70691853
+v-exit_the_gungeon_v196608.rar	5b328466
+v-exit_the_gungeon_v196608.sfv	0231c110

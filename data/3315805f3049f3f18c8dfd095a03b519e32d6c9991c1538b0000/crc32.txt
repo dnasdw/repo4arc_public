@@ -1,0 +1,14 @@
+sxs-paw_patrol_grand_prix_v131072.nfo	47c0e8fc
+sxs-paw_patrol_grand_prix_v131072.r00	ad0a00cd
+sxs-paw_patrol_grand_prix_v131072.r01	b5754f57
+sxs-paw_patrol_grand_prix_v131072.r02	ee4e2bf9
+sxs-paw_patrol_grand_prix_v131072.r03	1e965731
+sxs-paw_patrol_grand_prix_v131072.r04	f774502a
+sxs-paw_patrol_grand_prix_v131072.r05	9e06dec3
+sxs-paw_patrol_grand_prix_v131072.r06	1a4f67be
+sxs-paw_patrol_grand_prix_v131072.r07	f87a4fa6
+sxs-paw_patrol_grand_prix_v131072.r08	df94ca85
+sxs-paw_patrol_grand_prix_v131072.r09	399d20d2
+sxs-paw_patrol_grand_prix_v131072.r10	d9d5b6b7
+sxs-paw_patrol_grand_prix_v131072.rar	2303cb61
+sxs-paw_patrol_grand_prix_v131072.sfv	918125ec

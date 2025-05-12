@@ -1,0 +1,4 @@
+sxs-dqxi_demo_v65536.nfo	e1424e39e0dfaffafeac3bab5c150f2e
+sxs-dqxi_demo_v65536.r00	76d5a5c369311e24bf6c27df9e15b6da
+sxs-dqxi_demo_v65536.rar	9e526624f3ed38d478d636672c9be04f
+sxs-dqxi_demo_v65536.sfv	f82a882e66f13e36bdcbe5d4d7ecb9ae

@@ -1,0 +1,8 @@
+sxs-reventure_v524288.nfo	bd4f7db7
+sxs-reventure_v524288.r00	119af51a
+sxs-reventure_v524288.r01	3078be15
+sxs-reventure_v524288.r02	0f37407f
+sxs-reventure_v524288.r03	d7a55304
+sxs-reventure_v524288.r04	00c2f884
+sxs-reventure_v524288.rar	537fb582
+sxs-reventure_v524288.sfv	82da47ff

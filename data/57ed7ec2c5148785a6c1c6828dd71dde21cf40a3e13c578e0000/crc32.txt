@@ -1,0 +1,14 @@
+v-diablo3_v131072.nfo	89264688
+v-diablo3_v131072.r00	9cc7e7eb
+v-diablo3_v131072.r01	2b774dba
+v-diablo3_v131072.r02	33ffeda9
+v-diablo3_v131072.r03	10771672
+v-diablo3_v131072.r04	9ca585c7
+v-diablo3_v131072.r05	0b8e0b9f
+v-diablo3_v131072.r06	ca8a2366
+v-diablo3_v131072.r07	03176512
+v-diablo3_v131072.r08	4ec68cb8
+v-diablo3_v131072.r09	a116ef0a
+v-diablo3_v131072.r10	c36db3ec
+v-diablo3_v131072.rar	440f4145
+v-diablo3_v131072.sfv	4b06dbc0

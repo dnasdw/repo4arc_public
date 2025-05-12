@@ -1,0 +1,6 @@
+sxs-mario_kart_live_home_circuit_v131072.nfo	-	6758	1	0	0	0
+sxs-mario_kart_live_home_circuit_v131072.r00	-	50000000	1	6758	0	1
+sxs-mario_kart_live_home_circuit_v131072.r01	-	50000000	1	50006758	0	49
+sxs-mario_kart_live_home_circuit_v131072.r02	-	46135209	1	100006758	0	97
+sxs-mario_kart_live_home_circuit_v131072.rar	-	50000000	1	146141967	0	141
+sxs-mario_kart_live_home_circuit_v131072.sfv	-	220	1	196141967	0	189

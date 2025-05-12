@@ -1,0 +1,5 @@
+sxs-jeopardy_v65536.nfo	-	4262	1	0	0	0
+sxs-jeopardy_v65536.r00	-	50000000	1	4262	0	1
+sxs-jeopardy_v65536.r01	-	9350056	1	50004262	0	49
+sxs-jeopardy_v65536.rar	-	50000000	1	59354318	0	58
+sxs-jeopardy_v65536.sfv	-	102	1	109354318	0	106

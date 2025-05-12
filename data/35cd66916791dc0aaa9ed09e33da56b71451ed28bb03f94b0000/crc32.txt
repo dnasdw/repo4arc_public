@@ -1,0 +1,11 @@
+brw-torm.nfo	4e410639
+brw-torm.r00	6a490955
+brw-torm.r01	fed06263
+brw-torm.r02	37800fc0
+brw-torm.r03	ce692526
+brw-torm.r04	be0f104f
+brw-torm.r05	6045b7a2
+brw-torm.r06	cbacfa0d
+brw-torm.r07	fd38e799
+brw-torm.rar	d723b5fd
+brw-torm.sfv	72de702a

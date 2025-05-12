@@ -1,0 +1,8 @@
+sxs-gunvolt_chronicles_luminous_avenger_ix_2_v327680.nfo	-	11984	1	0	0	0
+sxs-gunvolt_chronicles_luminous_avenger_ix_2_v327680.r00	-	50000000	1	11984	0	1
+sxs-gunvolt_chronicles_luminous_avenger_ix_2_v327680.r01	-	50000000	1	50011984	0	49
+sxs-gunvolt_chronicles_luminous_avenger_ix_2_v327680.r02	-	50000000	1	100011984	0	97
+sxs-gunvolt_chronicles_luminous_avenger_ix_2_v327680.r03	-	50000000	1	150011984	0	145
+sxs-gunvolt_chronicles_luminous_avenger_ix_2_v327680.r04	-	34429957	1	200011984	0	193
+sxs-gunvolt_chronicles_luminous_avenger_ix_2_v327680.rar	-	50000000	1	234441941	0	226
+sxs-gunvolt_chronicles_luminous_avenger_ix_2_v327680.sfv	-	402	1	284441941	0	274

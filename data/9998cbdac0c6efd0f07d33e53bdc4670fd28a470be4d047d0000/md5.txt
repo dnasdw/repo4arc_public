@@ -1,0 +1,12 @@
+sxs-battlesloths.nfo	c4f7ece93ed62a27f05176989e8283bb
+sxs-battlesloths.r00	e9be68082f010866791e7d1564e00692
+sxs-battlesloths.r01	9a947aa03a00a0b37dc56cf65a1d0ca6
+sxs-battlesloths.r02	7c190081eb0081360aea925c88311a65
+sxs-battlesloths.r03	99296eaff6608510ed6fd6645c2b2b22
+sxs-battlesloths.r04	5a7fd7a7648d35c5531d05c656f17d39
+sxs-battlesloths.r05	69b71f748ed655e72731d1b55a080ac2
+sxs-battlesloths.r06	2e6f3d4e04f0fc193d15dc41479efcbc
+sxs-battlesloths.r07	135347a4436560525877dac481b16bbe
+sxs-battlesloths.r08	04c61e3eaf1939081f3083fec6e0a8f7
+sxs-battlesloths.rar	7c4fc3375af050fa99b1962acd46fd31
+sxs-battlesloths.sfv	1ff0aa79afa4de70850fbf34047a45cb

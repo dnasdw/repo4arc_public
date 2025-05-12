@@ -1,0 +1,11 @@
+i-bthn.nfo	1f6fc6d7
+i-bthn.r00	e07b0a84
+i-bthn.r01	7a0f944d
+i-bthn.r02	6c71f266
+i-bthn.r03	65bf9714
+i-bthn.r04	75024f2d
+i-bthn.r05	040df0d0
+i-bthn.r06	d3a84b38
+i-bthn.r07	1ef6810c
+i-bthn.rar	41410649
+i-bthn.sfv	15586dbe

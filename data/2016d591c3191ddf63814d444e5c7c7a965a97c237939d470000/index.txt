@@ -1,0 +1,6 @@
+sxs-i_saw_black_clouds_v196608.nfo	-	6290	1	0	0	0
+sxs-i_saw_black_clouds_v196608.r00	-	50000000	1	6290	0	1
+sxs-i_saw_black_clouds_v196608.r01	-	50000000	1	50006290	0	49
+sxs-i_saw_black_clouds_v196608.r02	-	33307779	1	100006290	0	97
+sxs-i_saw_black_clouds_v196608.rar	-	50000000	1	133314069	0	129
+sxs-i_saw_black_clouds_v196608.sfv	-	180	1	183314069	0	177

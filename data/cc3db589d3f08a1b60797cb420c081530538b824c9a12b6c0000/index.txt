@@ -1,0 +1,3 @@
+sxs-big_watermelon_match_v65536.nfo	-	4106	1	0	0	0
+sxs-big_watermelon_match_v65536.rar	-	53600818	1	4106	0	1
+sxs-big_watermelon_match_v65536.sfv	-	46	1	53604924	0	53

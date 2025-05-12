@@ -1,0 +1,3 @@
+sxs-sonic_forces_sanic_t_shirts_dlc.nfo	-	4652	1	0	0	0
+sxs-sonic_forces_sanic_t_shirts_dlc.rar	-	431543	1	4652	0	1
+sxs-sonic_forces_sanic_t_shirts_dlc.sfv	-	50	1	436195	0	2

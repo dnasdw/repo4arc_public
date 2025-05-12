@@ -1,0 +1,6 @@
+v-radiant_silvergun_v393216.nfo	-	7618	1	0	0	0
+v-radiant_silvergun_v393216.r00	-	100000000	1	7618	0	1
+v-radiant_silvergun_v393216.r01	-	100000000	1	100007618	0	97
+v-radiant_silvergun_v393216.r02	-	77692029	1	200007618	0	193
+v-radiant_silvergun_v393216.rar	-	100000000	1	277699647	0	268
+v-radiant_silvergun_v393216.sfv	-	168	1	377699647	0	364

@@ -1,0 +1,3 @@
+v-lethal_league_blaze_heavyduty_r_evolution_outfit_raptor_dlc.nfo	-	6994	1	0	0	0
+v-lethal_league_blaze_heavyduty_r_evolution_outfit_raptor_dlc.rar	-	104110	1	6994	0	1
+v-lethal_league_blaze_heavyduty_r_evolution_outfit_raptor_dlc.sfv	-	76	1	111104	0	2

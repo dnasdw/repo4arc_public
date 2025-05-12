@@ -1,0 +1,5 @@
+lfc-waterballoonmania.nfo	-	5574	1	0	0	0
+lfc-waterballoonmania.r00	-	50000000	1	5574	0	1
+lfc-waterballoonmania.r01	-	41569913	1	50005574	0	49
+lfc-waterballoonmania.rar	-	50000000	1	91575487	0	89
+lfc-waterballoonmania.sfv	-	108	1	141575487	0	137

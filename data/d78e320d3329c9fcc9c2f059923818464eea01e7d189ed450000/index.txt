@@ -1,0 +1,3 @@
+sxs-xbc2_torna_tgc_v101.nfo	-	6680	1	0	0	0
+sxs-xbc2_torna_tgc_v101.rar	-	31890074	1	6680	0	1
+sxs-xbc2_torna_tgc_v101.sfv	-	38	1	31896754	0	32

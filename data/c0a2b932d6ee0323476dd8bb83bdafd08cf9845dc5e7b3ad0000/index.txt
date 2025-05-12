@@ -1,0 +1,5 @@
+sxs-morto_chapter_2.nfo	-	3872	1	0	0	0
+sxs-morto_chapter_2.r00	-	100000000	1	3872	0	1
+sxs-morto_chapter_2.r01	-	23900914	1	100003872	0	97
+sxs-morto_chapter_2.rar	-	100000000	1	123904786	0	120
+sxs-morto_chapter_2.sfv	-	102	1	223904786	0	216

@@ -1,0 +1,6 @@
+sxs-1912_titanic_mystery.nfo	562664294e041ae5b2cabbf901644b48
+sxs-1912_titanic_mystery.r00	2e82405d486795ebc30a248f6a934926
+sxs-1912_titanic_mystery.r01	ff5a2ff1fd174c6cb05a6170290529b5
+sxs-1912_titanic_mystery.r02	ef3b260e97ff2e747d2d8b9e2317510c
+sxs-1912_titanic_mystery.rar	798cbd745229c830c42159109216aeb8
+sxs-1912_titanic_mystery.sfv	3c2ad1920bb44adc09aa81df4d5678f2

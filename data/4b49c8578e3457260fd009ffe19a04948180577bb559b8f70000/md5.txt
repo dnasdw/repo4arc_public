@@ -1,0 +1,3 @@
+v-doom_1993_earthless_dlc.nfo	ffb570d68a92f08f060a2b58a678cb2d
+v-doom_1993_earthless_dlc.rar	1bb603750dbb5db07887beeff2f4e7be
+v-doom_1993_earthless_dlc.sfv	ba5424e7e002f7bf5bbcb9e43ca13cff

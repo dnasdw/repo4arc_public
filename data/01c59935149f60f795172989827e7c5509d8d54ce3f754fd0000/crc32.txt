@@ -1,0 +1,13 @@
+sxs-toy_rider.nfo	594b2f39
+sxs-toy_rider.r00	61754c62
+sxs-toy_rider.r01	bac9330e
+sxs-toy_rider.r02	15945374
+sxs-toy_rider.r03	e000ac3f
+sxs-toy_rider.r04	4120686c
+sxs-toy_rider.r05	f13e1034
+sxs-toy_rider.r06	7791e272
+sxs-toy_rider.r07	b1568c23
+sxs-toy_rider.r08	5e4ef4e3
+sxs-toy_rider.r09	6c5708ae
+sxs-toy_rider.rar	22436808
+sxs-toy_rider.sfv	6b8cc9ab

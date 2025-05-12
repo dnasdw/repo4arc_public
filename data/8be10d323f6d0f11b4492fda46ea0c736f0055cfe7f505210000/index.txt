@@ -1,0 +1,4 @@
+sxs-treasure_stack_v65536.nfo	-	5823	1	0	0	0
+sxs-treasure_stack_v65536.r00	-	9009980	1	5823	0	1
+sxs-treasure_stack_v65536.rar	-	50000000	1	9015803	0	10
+sxs-treasure_stack_v65536.sfv	-	80	1	59015803	0	58

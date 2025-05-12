@@ -1,0 +1,10 @@
+sxs-fae_farm_v720896.nfo	f490db3f
+sxs-fae_farm_v720896.r00	a4a5bdb4
+sxs-fae_farm_v720896.r01	36af235c
+sxs-fae_farm_v720896.r02	8f167f85
+sxs-fae_farm_v720896.r03	a5c8ac22
+sxs-fae_farm_v720896.r04	c131df46
+sxs-fae_farm_v720896.r05	a7ca0e76
+sxs-fae_farm_v720896.r06	30c8158d
+sxs-fae_farm_v720896.rar	c533c28f
+sxs-fae_farm_v720896.sfv	997a2596

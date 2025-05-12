@@ -1,0 +1,6 @@
+sxs-thunderflash.nfo	b1478fcd657f5484050439c0142f163e
+sxs-thunderflash.r00	f3d96a98b9da191046aacf17072b4e6f
+sxs-thunderflash.r01	a10104512256dc71d790ba12ff8206b7
+sxs-thunderflash.r02	1b6fc64206918462fa813c6a4b50db70
+sxs-thunderflash.rar	6ddfb21a58b3b0ab31a06cde7e280e87
+sxs-thunderflash.sfv	b6c197257234aa730eaf18dd4252e37b

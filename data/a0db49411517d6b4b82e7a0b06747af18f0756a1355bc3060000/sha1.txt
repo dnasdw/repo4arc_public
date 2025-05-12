@@ -1,0 +1,3 @@
+sxs-o2_hangryhorde_dlc.nfo	1bf06ffcc3e8ebef4baf1d0a6a0dd1604fa6553c
+sxs-o2_hangryhorde_dlc.rar	d2923204e5be865e9086feff798d71a7581e849d
+sxs-o2_hangryhorde_dlc.sfv	30d4b544d51e97413b40349b3bf82904f900fbda

@@ -1,0 +1,9 @@
+lfc-madi_v196608.nfo	8bd022f6
+lfc-madi_v196608.r00	5906c9fd
+lfc-madi_v196608.r01	64846648
+lfc-madi_v196608.r02	dc42d885
+lfc-madi_v196608.r03	28091e48
+lfc-madi_v196608.r04	da263051
+lfc-madi_v196608.r05	fa89506b
+lfc-madi_v196608.rar	2e6303c3
+lfc-madi_v196608.sfv	6b70a065

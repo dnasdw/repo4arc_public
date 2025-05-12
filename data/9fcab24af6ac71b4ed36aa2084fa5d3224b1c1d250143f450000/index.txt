@@ -1,0 +1,3 @@
+v-ghostrunner_metal_ox_pack_dlc.nfo	-	7618	1	0	0	0
+v-ghostrunner_metal_ox_pack_dlc.rar	-	104154	1	7618	0	1
+v-ghostrunner_metal_ox_pack_dlc.sfv	-	46	1	111772	0	2

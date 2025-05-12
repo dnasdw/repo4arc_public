@@ -1,0 +1,11 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-bill_and_teds_excellent_retro_collection.jpg	-	153021	1	0	0	0
+sxs-bill_and_teds_excellent_retro_collection.nfo	-	6056	1	153021	0	1
+sxs-bill_and_teds_excellent_retro_collection.r00	-	100000000	1	159077	0	2
+sxs-bill_and_teds_excellent_retro_collection.r01	-	100000000	1	100159077	0	98
+sxs-bill_and_teds_excellent_retro_collection.r02	-	100000000	1	200159077	0	194
+sxs-bill_and_teds_excellent_retro_collection.r03	-	100000000	1	300159077	0	290
+sxs-bill_and_teds_excellent_retro_collection.r04	-	100000000	1	400159077	0	386
+sxs-bill_and_teds_excellent_retro_collection.r05	-	94649720	1	500159077	0	482
+sxs-bill_and_teds_excellent_retro_collection.rar	-	100000000	1	56900984	1	55
+sxs-bill_and_teds_excellent_retro_collection.sfv	-	413	1	156900984	1	151

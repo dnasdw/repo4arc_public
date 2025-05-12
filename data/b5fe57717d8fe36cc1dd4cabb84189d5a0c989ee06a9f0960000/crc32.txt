@@ -1,0 +1,6 @@
+v-neogeo_pocket_color_selection_vol1_v196608.nfo	b6759ac1
+v-neogeo_pocket_color_selection_vol1_v196608.r00	99dc48fb
+v-neogeo_pocket_color_selection_vol1_v196608.r01	ca7afb1f
+v-neogeo_pocket_color_selection_vol1_v196608.r02	4bc81ae3
+v-neogeo_pocket_color_selection_vol1_v196608.rar	8ec0d0b5
+v-neogeo_pocket_color_selection_vol1_v196608.sfv	a3dee16b

@@ -1,0 +1,4 @@
+brw-wowi.nfo	-	3515	1	0	0	0
+brw-wowi.r00	-	6050354	1	3515	0	1
+brw-wowi.rar	-	50000000	1	6053869	0	7
+brw-wowi.sfv	-	46	1	56053869	0	55

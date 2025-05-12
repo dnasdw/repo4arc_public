@@ -1,0 +1,3 @@
+v-valky4d5.nfo	-	6371	1	0	0	0
+v-valky4d5.rar	-	118341	1	6371	0	1
+v-valky4d5.sfv	-	25	1	124712	0	2

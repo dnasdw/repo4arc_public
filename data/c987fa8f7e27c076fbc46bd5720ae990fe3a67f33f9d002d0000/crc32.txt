@@ -1,0 +1,6 @@
+sxs-shovel_knight_specter_of_torment_v196608.nfo	8ad0dbc8
+sxs-shovel_knight_specter_of_torment_v196608.r00	55fcc6f0
+sxs-shovel_knight_specter_of_torment_v196608.r01	72d6d100
+sxs-shovel_knight_specter_of_torment_v196608.r02	f5db4525
+sxs-shovel_knight_specter_of_torment_v196608.rar	a65bf66b
+sxs-shovel_knight_specter_of_torment_v196608.sfv	f5cce904

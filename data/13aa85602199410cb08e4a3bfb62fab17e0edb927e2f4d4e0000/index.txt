@@ -1,0 +1,3 @@
+sxs-aaa_clock_2_color_set_4_dlc.nfo	-	5276	1	0	0	0
+sxs-aaa_clock_2_color_set_4_dlc.rar	-	118552	1	5276	0	1
+sxs-aaa_clock_2_color_set_4_dlc.sfv	-	46	1	123828	0	2

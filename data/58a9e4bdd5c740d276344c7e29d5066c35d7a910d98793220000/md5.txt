@@ -1,0 +1,15 @@
+lfc-couchcov2.nfo	1d2656fc9a2e9f5d37f89bde04956752
+lfc-couchcov2.r00	6e084c23267aa536b907bbf76762fcd7
+lfc-couchcov2.r01	048d7834491f06ad6bd33fd91b9f71f8
+lfc-couchcov2.r02	f69e33ec39a6f94b82caf7348926c16f
+lfc-couchcov2.r03	f9d3c4c70b9afc9ee566b72573378655
+lfc-couchcov2.r04	5c175f27840d0005e1a7e706160cf177
+lfc-couchcov2.r05	2d84189f087ab3cdf1cc7073f7155ebc
+lfc-couchcov2.r06	de3439099a74e088067c67ba0baa854f
+lfc-couchcov2.r07	dba2c2c20061bb4a293fc8a74ec59b97
+lfc-couchcov2.r08	d12762b3af98420fa6b2c7b1d6ce5da2
+lfc-couchcov2.r09	59d32fa5295ed53817641c9c316710cf
+lfc-couchcov2.r10	66006496759e0c400f3cebd019b72a5a
+lfc-couchcov2.r11	390554de6003448f28fe38794897031e
+lfc-couchcov2.rar	5900630beb2346783512f489eeae3e7a
+lfc-couchcov2.sfv	36bf566c57c0eeebc21bdb22b3cb318a

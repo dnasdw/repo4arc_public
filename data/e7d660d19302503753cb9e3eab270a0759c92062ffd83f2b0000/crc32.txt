@@ -1,0 +1,5 @@
+lfc-spst_v131072.nfo	116a369e
+lfc-spst_v131072.r00	5b768661
+lfc-spst_v131072.r01	64eea42c
+lfc-spst_v131072.rar	a23b196d
+lfc-spst_v131072.sfv	8957dbd1

@@ -1,0 +1,14 @@
+l-anbpa.nfo	115e752d
+l-anbpa.r00	99a6934d
+l-anbpa.r01	0c81818f
+l-anbpa.r02	3b2fb075
+l-anbpa.r03	1aa54256
+l-anbpa.r04	6e1f3bb4
+l-anbpa.r05	149da236
+l-anbpa.r06	ba061c07
+l-anbpa.r07	65c872b6
+l-anbpa.r08	47c6bda5
+l-anbpa.rar	6f98e979
+l-anbpa.sfv	170f00ec
+Proof	00000000
+Proof/l-anbpa.jpg	112213b8

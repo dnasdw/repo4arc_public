@@ -1,0 +1,9 @@
+brw-ador_v131072.nfo	9f0ade00
+brw-ador_v131072.r00	d49e6c86
+brw-ador_v131072.r01	53cb16b5
+brw-ador_v131072.r02	38a2e3c5
+brw-ador_v131072.r03	95e1b2f6
+brw-ador_v131072.r04	31c473bd
+brw-ador_v131072.r05	1b97c451
+brw-ador_v131072.rar	ce58de0b
+brw-ador_v131072.sfv	bcf355d8

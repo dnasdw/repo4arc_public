@@ -1,0 +1,3 @@
+v-ssbu_usbcp5_dlc.nfo	-	6214	1	0	0	0
+v-ssbu_usbcp5_dlc.rar	-	519689	1	6214	0	1
+v-ssbu_usbcp5_dlc.sfv	-	32	1	525903	0	2

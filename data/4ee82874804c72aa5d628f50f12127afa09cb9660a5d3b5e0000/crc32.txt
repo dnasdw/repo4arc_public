@@ -1,0 +1,11 @@
+l-atomicheist.nfo	722a4a2e
+l-atomicheist.r00	4929da34
+l-atomicheist.r01	6c2747a0
+l-atomicheist.r02	6d0d82b4
+l-atomicheist.r03	27dc293e
+l-atomicheist.r04	72538dd4
+l-atomicheist.r05	b880ac13
+l-atomicheist.r06	db6c23f1
+l-atomicheist.r07	127aa3a5
+l-atomicheist.rar	5fcfef09
+l-atomicheist.sfv	b072e960

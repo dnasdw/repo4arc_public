@@ -1,0 +1,6 @@
+sxs-golfinite.nfo	1fbf646d
+sxs-golfinite.r00	30235232
+sxs-golfinite.r01	3f059436
+sxs-golfinite.r02	9326b223
+sxs-golfinite.rar	4cca4c9f
+sxs-golfinite.sfv	7caed18f

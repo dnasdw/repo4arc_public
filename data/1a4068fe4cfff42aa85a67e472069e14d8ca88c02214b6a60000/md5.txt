@@ -1,0 +1,4 @@
+v-panzer_paladin_v65536.nfo	b5b2f6ec44ab2e32e7e1148478e8b999
+v-panzer_paladin_v65536.r00	c6079424fdcffc5e365c2020b3913c8f
+v-panzer_paladin_v65536.rar	16632ec04e1c218f0fedfa386b9ed0c9
+v-panzer_paladin_v65536.sfv	6902e7493e03d5301dd782f4930bc1f8

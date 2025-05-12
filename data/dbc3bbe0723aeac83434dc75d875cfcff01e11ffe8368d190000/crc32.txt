@@ -1,0 +1,15 @@
+sxs-fist_forged_in_shadow_torch_v262144.nfo	a85e8c1a
+sxs-fist_forged_in_shadow_torch_v262144.r00	4cf4d303
+sxs-fist_forged_in_shadow_torch_v262144.r01	09a2b161
+sxs-fist_forged_in_shadow_torch_v262144.r02	23abb688
+sxs-fist_forged_in_shadow_torch_v262144.r03	b3f5f7c7
+sxs-fist_forged_in_shadow_torch_v262144.r04	9b9bb618
+sxs-fist_forged_in_shadow_torch_v262144.r05	6d30e91e
+sxs-fist_forged_in_shadow_torch_v262144.r06	7272d73e
+sxs-fist_forged_in_shadow_torch_v262144.r07	895666e4
+sxs-fist_forged_in_shadow_torch_v262144.r08	156ef840
+sxs-fist_forged_in_shadow_torch_v262144.r09	b0ec1cb5
+sxs-fist_forged_in_shadow_torch_v262144.r10	78abdc05
+sxs-fist_forged_in_shadow_torch_v262144.r11	3dc5b5f4
+sxs-fist_forged_in_shadow_torch_v262144.rar	4050d2b2
+sxs-fist_forged_in_shadow_torch_v262144.sfv	d8be2293

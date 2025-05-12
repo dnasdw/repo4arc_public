@@ -1,0 +1,8 @@
+brw-bouj.nfo	96d5496468830b7c241deba4edc77248
+brw-bouj.r00	c09a673b4d47d748fdfab585b717e52f
+brw-bouj.r01	0a4e5074eaccea1ff96f4d5071fa7a77
+brw-bouj.r02	582e97f245be353f39a40b1f3641b32d
+brw-bouj.r03	8f4e68d7635b300804d52bea95b5d0e2
+brw-bouj.r04	37c36864908b68fc2d2113513c92ee91
+brw-bouj.rar	3e44828488ee2beff13f83fd249dcfe3
+brw-bouj.sfv	5a72efe5d9bf020bed352c833525fee3

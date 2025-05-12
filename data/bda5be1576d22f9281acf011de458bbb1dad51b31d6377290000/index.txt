@@ -1,0 +1,3 @@
+bbb-n-anuma.nfo	-	5517	1	0	0	0
+bbb-n-anuma.rar	-	171022362	1	5517	0	1
+bbb-n-anuma.sfv	-	26	1	171027879	0	165

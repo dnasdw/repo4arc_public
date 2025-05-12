@@ -1,0 +1,9 @@
+i-utk2.nfo	28aa919d
+i-utk2.r00	fdc52b34
+i-utk2.r01	6cc0a6e7
+i-utk2.r02	243e3f08
+i-utk2.r03	566392ff
+i-utk2.r04	1d10b043
+i-utk2.r05	0c572115
+i-utk2.rar	b021ab9c
+i-utk2.sfv	aea8dd84

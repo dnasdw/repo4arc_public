@@ -1,0 +1,3 @@
+sxs-steamworld_dig_v65536.nfo	-	4964	1	0	0	0
+sxs-steamworld_dig_v65536.rar	-	21515528	1	4964	0	1
+sxs-steamworld_dig_v65536.sfv	-	40	1	21520492	0	22

@@ -1,0 +1,5 @@
+sxs-super_tennis_blast_v327680.nfo	-	4184	1	0	0	0
+sxs-super_tennis_blast_v327680.r00	-	100000000	1	4184	0	1
+sxs-super_tennis_blast_v327680.r01	-	47625488	1	100004184	0	97
+sxs-super_tennis_blast_v327680.rar	-	100000000	1	147629672	0	143
+sxs-super_tennis_blast_v327680.sfv	-	135	1	247629672	0	239

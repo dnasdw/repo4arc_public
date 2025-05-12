@@ -1,0 +1,15 @@
+sxs-dreamcutter.nfo	7ae3700f
+sxs-dreamcutter.r00	75f51e12
+sxs-dreamcutter.r01	67095828
+sxs-dreamcutter.r02	0ff11fda
+sxs-dreamcutter.r03	64c4c85b
+sxs-dreamcutter.r04	a209abb2
+sxs-dreamcutter.r05	4695c9a2
+sxs-dreamcutter.r06	4e202b5a
+sxs-dreamcutter.r07	9e8b07f9
+sxs-dreamcutter.r08	28d9715a
+sxs-dreamcutter.r09	a23d961f
+sxs-dreamcutter.r10	23dc7fd9
+sxs-dreamcutter.r11	c26dcb0b
+sxs-dreamcutter.rar	9bb0726e
+sxs-dreamcutter.sfv	4da08615

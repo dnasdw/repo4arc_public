@@ -1,0 +1,3 @@
+sxs-golazo_2_qatar_international_stars_dlc.nfo	-	5822	1	0	0	0
+sxs-golazo_2_qatar_international_stars_dlc.rar	-	104153	1	5822	0	1
+sxs-golazo_2_qatar_international_stars_dlc.sfv	-	57	1	109975	0	2

@@ -1,0 +1,17 @@
+v-ara_fell_enhanced_edition.nfo	-	4810	1	0	0	0
+v-ara_fell_enhanced_edition.r00	-	50000000	1	4810	0	1
+v-ara_fell_enhanced_edition.r01	-	50000000	1	50004810	0	49
+v-ara_fell_enhanced_edition.r02	-	50000000	1	100004810	0	97
+v-ara_fell_enhanced_edition.r03	-	50000000	1	150004810	0	145
+v-ara_fell_enhanced_edition.r04	-	50000000	1	200004810	0	193
+v-ara_fell_enhanced_edition.r05	-	50000000	1	250004810	0	241
+v-ara_fell_enhanced_edition.r06	-	50000000	1	300004810	0	289
+v-ara_fell_enhanced_edition.r07	-	50000000	1	350004810	0	337
+v-ara_fell_enhanced_edition.r08	-	50000000	1	400004810	0	385
+v-ara_fell_enhanced_edition.r09	-	50000000	1	450004810	0	433
+v-ara_fell_enhanced_edition.r10	-	50000000	1	500004810	0	481
+v-ara_fell_enhanced_edition.r11	-	50000000	1	12251264	1	12
+v-ara_fell_enhanced_edition.r12	-	50000000	1	62251264	1	60
+v-ara_fell_enhanced_edition.r13	-	36666861	1	112251264	1	108
+v-ara_fell_enhanced_edition.rar	-	50000000	1	148918125	1	143
+v-ara_fell_enhanced_edition.sfv	-	630	1	198918125	1	191

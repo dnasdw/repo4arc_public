@@ -1,0 +1,4 @@
+sxs-color_pals.nfo	beb93285
+sxs-color_pals.r00	e41e85ba
+sxs-color_pals.rar	33094271
+sxs-color_pals.sfv	b1a0bb3c

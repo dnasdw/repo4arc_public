@@ -1,0 +1,3 @@
+sxs-eggconsole_ys_pc_8801mkiisr.nfo	-	5276	1	0	0	0
+sxs-eggconsole_ys_pc_8801mkiisr.rar	-	59217296	1	5276	0	1
+sxs-eggconsole_ys_pc_8801mkiisr.sfv	-	46	1	59222572	0	58

@@ -1,0 +1,10 @@
+v-touryst_v131072.nfo	ec72d0c5
+v-touryst_v131072.r00	0c8f2d78
+v-touryst_v131072.r01	ce7a655d
+v-touryst_v131072.r02	ca9fa309
+v-touryst_v131072.r03	3fd95c2f
+v-touryst_v131072.r04	d74e455a
+v-touryst_v131072.r05	2d85dac1
+v-touryst_v131072.r06	5e6ae250
+v-touryst_v131072.rar	3e03cdfc
+v-touryst_v131072.sfv	2cffe187

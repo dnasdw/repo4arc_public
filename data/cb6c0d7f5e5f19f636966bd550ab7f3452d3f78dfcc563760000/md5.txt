@@ -1,0 +1,10 @@
+i-preventivestrike.nfo	91d25590fdf6d0914d60a77b51930ffa
+i-preventivestrike.r00	7b6e7d2c168d2fcb6871352d44d2e451
+i-preventivestrike.r01	2da5b52023a5e06d21d75991a6849333
+i-preventivestrike.r02	53aff06374f289ac21bad8aa0de05015
+i-preventivestrike.r03	89cd8ab3fc9d170df55746847e84d123
+i-preventivestrike.r04	d7315eded14a9971df418ec94faa4bb8
+i-preventivestrike.r05	d6dd4eee28b27b59b855bf1234301b7d
+i-preventivestrike.r06	d9557a3c569082130b762c2217f69ec7
+i-preventivestrike.rar	fe3b664878ec688421f3ea9b817703bf
+i-preventivestrike.sfv	b55a2834795017eda295fdf9affce330

@@ -1,0 +1,6 @@
+lfc-fisu_v131072.nfo	734b4520
+lfc-fisu_v131072.r00	11777bde
+lfc-fisu_v131072.r01	334dd626
+lfc-fisu_v131072.r02	db1ce68d
+lfc-fisu_v131072.rar	ec5da696
+lfc-fisu_v131072.sfv	3027693e

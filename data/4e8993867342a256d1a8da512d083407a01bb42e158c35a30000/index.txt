@@ -1,0 +1,5 @@
+sxs-agatha_knife_v262144.nfo	-	5120	1	0	0	0
+sxs-agatha_knife_v262144.r00	-	50000000	1	5120	0	1
+sxs-agatha_knife_v262144.r01	-	21995304	1	50005120	0	49
+sxs-agatha_knife_v262144.rar	-	50000000	1	72000424	0	70
+sxs-agatha_knife_v262144.sfv	-	117	1	122000424	0	118

@@ -1,0 +1,8 @@
+sxs-war_theatre.nfo	-	4028	1	0	0	0
+sxs-war_theatre.r00	-	50000000	1	4028	0	1
+sxs-war_theatre.r01	-	50000000	1	50004028	0	49
+sxs-war_theatre.r02	-	50000000	1	100004028	0	97
+sxs-war_theatre.r03	-	50000000	1	150004028	0	145
+sxs-war_theatre.r04	-	21069913	1	200004028	0	193
+sxs-war_theatre.rar	-	50000000	1	221073941	0	214
+sxs-war_theatre.sfv	-	180	1	271073941	0	262

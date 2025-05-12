@@ -1,0 +1,9 @@
+sxs-sokocat_combo.nfo	-	5354	1	0	0	0
+sxs-sokocat_combo.r00	-	50000000	1	5354	0	1
+sxs-sokocat_combo.r01	-	50000000	1	50005354	0	49
+sxs-sokocat_combo.r02	-	50000000	1	100005354	0	97
+sxs-sokocat_combo.r03	-	50000000	1	150005354	0	145
+sxs-sokocat_combo.r04	-	50000000	1	200005354	0	193
+sxs-sokocat_combo.r05	-	30560045	1	250005354	0	241
+sxs-sokocat_combo.rar	-	50000000	1	280565399	0	271
+sxs-sokocat_combo.sfv	-	224	1	330565399	0	319

@@ -1,0 +1,13 @@
+sxs-ziksquare.nfo	0bd4403c
+sxs-ziksquare.r00	81b160d3
+sxs-ziksquare.r01	b962b593
+sxs-ziksquare.r02	b7df77a9
+sxs-ziksquare.r03	6b5a76b1
+sxs-ziksquare.r04	b9b5d5d4
+sxs-ziksquare.r05	4a039a81
+sxs-ziksquare.r06	a403a5c7
+sxs-ziksquare.r07	51392ea1
+sxs-ziksquare.r08	e7701b33
+sxs-ziksquare.r09	de01fa20
+sxs-ziksquare.rar	19ab813f
+sxs-ziksquare.sfv	aeecbd07

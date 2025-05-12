@@ -1,0 +1,5 @@
+sxs-lets_play_oink_games_v1114112.nfo	-	10502	1	0	0	0
+sxs-lets_play_oink_games_v1114112.r00	-	100000000	1	10502	0	1
+sxs-lets_play_oink_games_v1114112.r01	-	70251808	1	100010502	0	97
+sxs-lets_play_oink_games_v1114112.rar	-	100000000	1	170262310	0	164
+sxs-lets_play_oink_games_v1114112.sfv	-	144	1	270262310	0	260

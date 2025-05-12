@@ -1,0 +1,5 @@
+sxs-sonic_forces_episode_shadow_dlc.nfo	0977d731
+sxs-sonic_forces_episode_shadow_dlc.r00	cf3314ad
+sxs-sonic_forces_episode_shadow_dlc.r01	c177a0da
+sxs-sonic_forces_episode_shadow_dlc.rar	f1e4caa7
+sxs-sonic_forces_episode_shadow_dlc.sfv	a7d33843

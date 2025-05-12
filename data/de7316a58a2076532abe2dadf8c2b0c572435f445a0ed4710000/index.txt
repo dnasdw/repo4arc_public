@@ -1,0 +1,7 @@
+sxs-town_adventures.nfo	-	5432	1	0	0	0
+sxs-town_adventures.r00	-	100000000	1	5432	0	1
+sxs-town_adventures.r01	-	100000000	1	100005432	0	97
+sxs-town_adventures.r02	-	100000000	1	200005432	0	193
+sxs-town_adventures.r03	-	55831472	1	300005432	0	289
+sxs-town_adventures.rar	-	100000000	1	355836904	0	343
+sxs-town_adventures.sfv	-	170	1	455836904	0	439

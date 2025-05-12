@@ -1,0 +1,15 @@
+sxs-derpy_conga_v327680.nfo	10fcdae3
+sxs-derpy_conga_v327680.r00	317539db
+sxs-derpy_conga_v327680.r01	08d52dda
+sxs-derpy_conga_v327680.r02	9a20af40
+sxs-derpy_conga_v327680.r03	95eef0af
+sxs-derpy_conga_v327680.r04	78e6b943
+sxs-derpy_conga_v327680.r05	25c6a32c
+sxs-derpy_conga_v327680.r06	160a5752
+sxs-derpy_conga_v327680.r07	c2041cf1
+sxs-derpy_conga_v327680.r08	c2d227dc
+sxs-derpy_conga_v327680.r09	b08d9329
+sxs-derpy_conga_v327680.r10	a613a6b0
+sxs-derpy_conga_v327680.r11	b6ea9066
+sxs-derpy_conga_v327680.rar	8c81f09a
+sxs-derpy_conga_v327680.sfv	35143127

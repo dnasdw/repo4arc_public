@@ -1,0 +1,5 @@
+sxs-gundam_gen_dlc_v393216.nfo	2f00e1ec46589d7476e8d93016ea6688
+sxs-gundam_gen_dlc_v393216.r00	295f3bc54bb8e143572675930fdfeae8
+sxs-gundam_gen_dlc_v393216.r01	9bfb81c32b1d6b7b803c0c8a9818fb97
+sxs-gundam_gen_dlc_v393216.rar	036e36a55cf085754216d97dd281664a
+sxs-gundam_gen_dlc_v393216.sfv	5d4ab11a8e0e89d587398084168d7eb2

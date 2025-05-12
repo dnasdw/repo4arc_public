@@ -1,0 +1,3 @@
+v-ssbu_v655360_dlc.nfo	db9c5896
+v-ssbu_v655360_dlc.rar	3d0cc1d7
+v-ssbu_v655360_dlc.sfv	ff915865

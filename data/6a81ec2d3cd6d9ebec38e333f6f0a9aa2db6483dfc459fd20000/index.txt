@@ -1,0 +1,3 @@
+sxs-little_inferno_ho_ho_holiday_dlc.nfo	-	7616	1	0	0	0
+sxs-little_inferno_ho_ho_holiday_dlc.rar	-	104154	1	7616	0	1
+sxs-little_inferno_ho_ho_holiday_dlc.sfv	-	51	1	111770	0	2

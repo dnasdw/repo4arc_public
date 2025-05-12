@@ -1,0 +1,10 @@
+Proof	00000000
+Proof/sxs-strife_veteran_edition.jpg	97d9a394
+sxs-strife_veteran_edition.nfo	b1bc42b3
+sxs-strife_veteran_edition.r00	4f783b61
+sxs-strife_veteran_edition.r01	56edfe35
+sxs-strife_veteran_edition.r02	dd835a50
+sxs-strife_veteran_edition.r03	89a0c456
+sxs-strife_veteran_edition.r04	1ebac5d8
+sxs-strife_veteran_edition.rar	f607de81
+sxs-strife_veteran_edition.sfv	abdbc6c1

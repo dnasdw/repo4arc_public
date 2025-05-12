@@ -1,0 +1,4 @@
+sxs-brunch_club_v65536.nfo	-	7070	1	0	0	0
+sxs-brunch_club_v65536.r00	-	44742425	1	7070	0	1
+sxs-brunch_club_v65536.rar	-	50000000	1	44749495	0	44
+sxs-brunch_club_v65536.sfv	-	74	1	94749495	0	92

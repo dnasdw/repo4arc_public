@@ -1,0 +1,5 @@
+lfc-oldschoolracer2.nfo	-	4504	1	0	0	0
+lfc-oldschoolracer2.r00	-	100000000	1	4504	0	1
+lfc-oldschoolracer2.r01	-	1718330	1	100004504	0	97
+lfc-oldschoolracer2.rar	-	100000000	1	101722834	0	99
+lfc-oldschoolracer2.sfv	-	102	1	201722834	0	195

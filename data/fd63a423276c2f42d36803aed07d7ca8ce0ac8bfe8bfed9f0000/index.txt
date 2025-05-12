@@ -1,0 +1,4 @@
+sxs-tails_noir_v65536.nfo	-	9020	1	0	0	0
+sxs-tails_noir_v65536.r00	-	10909135	1	9020	0	1
+sxs-tails_noir_v65536.rar	-	100000000	1	10918155	0	12
+sxs-tails_noir_v65536.sfv	-	72	1	110918155	0	108

@@ -1,0 +1,3 @@
+sxs-under_night_round_call_dlc.nfo	fc730ce1f486a39b87e64ec826e7b3d53974162f
+sxs-under_night_round_call_dlc.rar	c790eaa397d3e47ef3db09bd7f839dcf7f7e6348
+sxs-under_night_round_call_dlc.sfv	5baad0eaa6b5300d8980fb3f292926bed59bd887

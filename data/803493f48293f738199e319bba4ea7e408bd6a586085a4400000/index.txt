@@ -1,0 +1,4 @@
+sxs-graveyard_girls.nfo	-	5978	1	0	0	0
+sxs-graveyard_girls.r00	-	97741715	1	5978	0	1
+sxs-graveyard_girls.rar	-	100000000	1	97747693	0	95
+sxs-graveyard_girls.sfv	-	68	1	197747693	0	191

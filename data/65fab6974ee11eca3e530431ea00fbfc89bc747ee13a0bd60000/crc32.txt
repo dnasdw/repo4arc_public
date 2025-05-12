@@ -1,0 +1,17 @@
+sxs-two_hundred_ways.nfo	de65db56
+sxs-two_hundred_ways.r00	65bbf74a
+sxs-two_hundred_ways.r01	332593ce
+sxs-two_hundred_ways.r02	0ded5d6c
+sxs-two_hundred_ways.r03	20913d3a
+sxs-two_hundred_ways.r04	b4a984da
+sxs-two_hundred_ways.r05	60d32afa
+sxs-two_hundred_ways.r06	38a088bd
+sxs-two_hundred_ways.r07	02e9ad2b
+sxs-two_hundred_ways.r08	85a04342
+sxs-two_hundred_ways.r09	b576176c
+sxs-two_hundred_ways.r10	4ade3a3a
+sxs-two_hundred_ways.r11	9c1d2f91
+sxs-two_hundred_ways.r12	498d60e2
+sxs-two_hundred_ways.r13	c0d33694
+sxs-two_hundred_ways.rar	4ed2e370
+sxs-two_hundred_ways.sfv	179a6c7d

@@ -1,0 +1,6 @@
+lfc-ax3fav1.0.29.0.update.nfo	-	5940	1	0	0	0
+lfc-ax3fav1.0.29.0.update.r00	-	100000000	1	5940	0	1
+lfc-ax3fav1.0.29.0.update.r01	-	100000000	1	100005940	0	97
+lfc-ax3fav1.0.29.0.update.r02	-	12813653	1	200005940	0	193
+lfc-ax3fav1.0.29.0.update.rar	-	100000000	1	212819593	0	206
+lfc-ax3fav1.0.29.0.update.sfv	-	160	1	312819593	0	302

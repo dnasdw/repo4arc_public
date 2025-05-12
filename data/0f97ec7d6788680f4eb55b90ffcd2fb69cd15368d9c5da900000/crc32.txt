@@ -1,0 +1,8 @@
+sxs-need_a_packet.nfo	2ad3266f
+sxs-need_a_packet.r00	b31054bf
+sxs-need_a_packet.r01	5c9c3bdd
+sxs-need_a_packet.r02	fdc9bc65
+sxs-need_a_packet.r03	a6ed3139
+sxs-need_a_packet.r04	05038b99
+sxs-need_a_packet.rar	c1c6e381
+sxs-need_a_packet.sfv	26517906

@@ -1,0 +1,3 @@
+v-rockul_knight_rider_dlc.nfo	c50158a6fcf40ac8e31b746c6cdf118687860583
+v-rockul_knight_rider_dlc.rar	f6cbced9e356eb1163f16763e54a963781c8b2d6
+v-rockul_knight_rider_dlc.sfv	ed10ba291a474894cd965098cff6feb9d4049c72

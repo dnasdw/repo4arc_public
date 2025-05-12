@@ -1,0 +1,4 @@
+sxs-martian_panic_v65536.nfo	56355504
+sxs-martian_panic_v65536.r00	46691e5c
+sxs-martian_panic_v65536.rar	33276704
+sxs-martian_panic_v65536.sfv	a3340a22

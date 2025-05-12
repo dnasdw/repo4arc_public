@@ -1,0 +1,4 @@
+sxs-kong_hero.nfo	cb96d2b110b8823d8c54f6ed84401bdc06402b3c
+sxs-kong_hero.r00	feb7ac2d3f643928a8f92991dbdb8cad385dbec2
+sxs-kong_hero.rar	3159898f9362717307c142066b1c99f29a86c646
+sxs-kong_hero.sfv	1dccb77ba95ea667dde295d768499268188d6632

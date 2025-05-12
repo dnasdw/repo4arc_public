@@ -1,0 +1,4 @@
+bbb-n-apfca.nfo	-	5517	1	0	0	0
+bbb-n-apfca.part1.rar	-	250000000	1	5517	0	1
+bbb-n-apfca.part2.rar	-	211708230	1	250005517	0	240
+bbb-n-apfca.sfv	-	64	1	461713747	0	442

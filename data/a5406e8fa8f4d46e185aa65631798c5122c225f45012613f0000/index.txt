@@ -1,0 +1,13 @@
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.nfo	-	6762	1	0	0	0
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.r00	-	100000000	1	6762	0	1
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.r01	-	100000000	1	100006762	0	97
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.r02	-	100000000	1	200006762	0	193
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.r03	-	100000000	1	300006762	0	289
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.r04	-	100000000	1	400006762	0	385
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.r05	-	100000000	1	500006762	0	481
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.r06	-	100000000	1	62251264	1	60
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.r07	-	100000000	1	162251264	1	156
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.r08	-	100000000	1	262251264	1	252
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.r09	-	87147752	1	362251264	1	348
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.rar	-	100000000	1	449399016	1	432
+sxs-of_the_red_the_light_and_the_ayakashi_tsuzuri_demo.sfv	-	759	1	11919616	2	12

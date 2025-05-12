@@ -1,0 +1,5 @@
+sxs-remnant_from_the_ashes_russian_language_pack_dlc.nfo	-	6758	1	0	0	0
+sxs-remnant_from_the_ashes_russian_language_pack_dlc.r00	-	100000000	1	6758	0	1
+sxs-remnant_from_the_ashes_russian_language_pack_dlc.r01	-	32335007	1	100006758	0	97
+sxs-remnant_from_the_ashes_russian_language_pack_dlc.rar	-	100000000	1	132341765	0	128
+sxs-remnant_from_the_ashes_russian_language_pack_dlc.sfv	-	201	1	232341765	0	224

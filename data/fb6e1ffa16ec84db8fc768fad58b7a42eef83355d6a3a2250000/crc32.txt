@@ -1,0 +1,14 @@
+sxs-charrua_soccer_pro_edition.nfo	102ef9fa
+sxs-charrua_soccer_pro_edition.r00	8e05633b
+sxs-charrua_soccer_pro_edition.r01	ec9eb4ae
+sxs-charrua_soccer_pro_edition.r02	2376682b
+sxs-charrua_soccer_pro_edition.r03	a927a009
+sxs-charrua_soccer_pro_edition.r04	0ab85fa4
+sxs-charrua_soccer_pro_edition.r05	1f6d495b
+sxs-charrua_soccer_pro_edition.r06	b5a5df9a
+sxs-charrua_soccer_pro_edition.r07	9a8972da
+sxs-charrua_soccer_pro_edition.r08	50aecd82
+sxs-charrua_soccer_pro_edition.r09	f21fed7e
+sxs-charrua_soccer_pro_edition.r10	f122f4f9
+sxs-charrua_soccer_pro_edition.rar	f840ae89
+sxs-charrua_soccer_pro_edition.sfv	191ea7c9

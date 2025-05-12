@@ -1,0 +1,9 @@
+n-fatam.nfo	6a75084a
+n-fatam.r00	970dde17
+n-fatam.r01	9b935ba9
+n-fatam.r02	6d51adc7
+n-fatam.r03	d14bb460
+n-fatam.r04	1b34591d
+n-fatam.r05	15166391
+n-fatam.rar	3d7b93d9
+n-fatam.sfv	e1ac9122

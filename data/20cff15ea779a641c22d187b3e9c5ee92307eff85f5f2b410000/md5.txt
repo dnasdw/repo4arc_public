@@ -1,0 +1,15 @@
+sxs-rising_hell.nfo	14668bb9362fbdd2b95a7e0f40d443d4
+sxs-rising_hell.r00	beb074082fe4dfe1ce62bd7583f8a5ce
+sxs-rising_hell.r01	f3b3197a110cbd05c6c9bffcc1cd305b
+sxs-rising_hell.r02	23ed1b5ac826c9d79fe0969984afcdcf
+sxs-rising_hell.r03	8c867c1e8f5b260c4a9e970161620634
+sxs-rising_hell.r04	ce4f33b936beb65025b7073651043ed8
+sxs-rising_hell.r05	5747ef3ab85858cbb8d903ade4124e34
+sxs-rising_hell.r06	7c4f3f1bdd580348f1295a49ab2385fc
+sxs-rising_hell.r07	04ef80cb50c7ba5d546f8e41d150dc41
+sxs-rising_hell.r08	7a444435871f4f17a9b9f9a32a87331b
+sxs-rising_hell.r09	29c9e9ab13e97d3ba259bc984d71abe2
+sxs-rising_hell.r10	16a8bda4334fd2a8f03b3651d32e6856
+sxs-rising_hell.r11	854bb022aa26564b2cbc653ca7da6299
+sxs-rising_hell.rar	021518f2386c2ae5dfbe22bf12b21d01
+sxs-rising_hell.sfv	3be2783b6ae3316611934abdc4b97306

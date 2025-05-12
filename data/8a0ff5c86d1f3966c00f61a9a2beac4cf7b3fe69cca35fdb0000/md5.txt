@@ -1,0 +1,8 @@
+sxs-afterimage_v393216.nfo	e980a01343993ae5deee1edebc295f73
+sxs-afterimage_v393216.r00	fe026cb2384bb661acdc9430e85a2e39
+sxs-afterimage_v393216.r01	f2e5497c0bb47af0f58639f12fd1f60b
+sxs-afterimage_v393216.r02	6e431781eb70ad2dda8457c0ca81e250
+sxs-afterimage_v393216.r03	2779527c46ad36d7a33a56ed87203939
+sxs-afterimage_v393216.r04	b85aeec7531be50807d6c2bfe14635ed
+sxs-afterimage_v393216.rar	43ed269fe4fc7ff38c7f65bdf6ad7b0a
+sxs-afterimage_v393216.sfv	1d61576c25aa3be9389ddbe9741ed204

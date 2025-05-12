@@ -1,0 +1,15 @@
+v-nba2kp2_v131072.nfo	ff904749
+v-nba2kp2_v131072.r00	e85bda27
+v-nba2kp2_v131072.r01	b4e433f3
+v-nba2kp2_v131072.r02	cf7088c3
+v-nba2kp2_v131072.r03	431268d3
+v-nba2kp2_v131072.r04	516cd483
+v-nba2kp2_v131072.r05	abd4bbac
+v-nba2kp2_v131072.r06	e160cdae
+v-nba2kp2_v131072.r07	91aab80c
+v-nba2kp2_v131072.r08	9aeee21f
+v-nba2kp2_v131072.r09	d5e1e135
+v-nba2kp2_v131072.r10	cd97690a
+v-nba2kp2_v131072.r11	77d0cb52
+v-nba2kp2_v131072.rar	713b4cee
+v-nba2kp2_v131072.sfv	8f19e394

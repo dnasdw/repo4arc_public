@@ -1,0 +1,8 @@
+v-metroid_dread_v327680.nfo	84b1dfa7
+v-metroid_dread_v327680.r00	6a4874cf
+v-metroid_dread_v327680.r01	520534f3
+v-metroid_dread_v327680.r02	3c330271
+v-metroid_dread_v327680.r03	b81dc50e
+v-metroid_dread_v327680.r04	b86419ea
+v-metroid_dread_v327680.rar	12774bc7
+v-metroid_dread_v327680.sfv	6c4fcb57

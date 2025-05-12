@@ -1,0 +1,3 @@
+sxs-light_it_up_neon_adventure_dlc_dlc.nfo	-	5588	1	0	0	0
+sxs-light_it_up_neon_adventure_dlc_dlc.rar	-	122312	1	5588	0	1
+sxs-light_it_up_neon_adventure_dlc_dlc.sfv	-	53	1	127900	0	2

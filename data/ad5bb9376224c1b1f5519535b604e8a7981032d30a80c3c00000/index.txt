@@ -1,0 +1,4 @@
+sxs-umihara_kawase_bazooka_v196608.nfo	-	4730	1	0	0	0
+sxs-umihara_kawase_bazooka_v196608.r00	-	30894072	1	4730	0	1
+sxs-umihara_kawase_bazooka_v196608.rar	-	50000000	1	30898802	0	31
+sxs-umihara_kawase_bazooka_v196608.sfv	-	98	1	80898802	0	79

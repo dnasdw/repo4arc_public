@@ -1,0 +1,7 @@
+sxs-funny_bunny_adventures.nfo	-	5120	1	0	0	0
+sxs-funny_bunny_adventures.r00	-	50000000	1	5120	0	1
+sxs-funny_bunny_adventures.r01	-	50000000	1	50005120	0	49
+sxs-funny_bunny_adventures.r02	-	50000000	1	100005120	0	97
+sxs-funny_bunny_adventures.r03	-	43923937	1	150005120	0	145
+sxs-funny_bunny_adventures.rar	-	50000000	1	193929057	0	187
+sxs-funny_bunny_adventures.sfv	-	205	1	243929057	0	235

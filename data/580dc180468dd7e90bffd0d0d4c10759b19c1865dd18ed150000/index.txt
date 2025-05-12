@@ -1,0 +1,5 @@
+sxs-super_volley_blast_v262144.nfo	-	5120	1	0	0	0
+sxs-super_volley_blast_v262144.r00	-	100000000	1	5120	0	1
+sxs-super_volley_blast_v262144.r01	-	6575888	1	100005120	0	97
+sxs-super_volley_blast_v262144.rar	-	100000000	1	106581008	0	104
+sxs-super_volley_blast_v262144.sfv	-	135	1	206581008	0	200

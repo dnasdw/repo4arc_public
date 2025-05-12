@@ -1,0 +1,4 @@
+sxs-rangerdog.nfo	0d26f64961c44dc75e6b3e0061d37008
+sxs-rangerdog.r00	05ed12145a3444eda0ecdc73139cf164
+sxs-rangerdog.rar	673d1e96feddf350bfb9d2cb7c03a960
+sxs-rangerdog.sfv	1e3e247efeeaa5a0d406a5ed409c4840

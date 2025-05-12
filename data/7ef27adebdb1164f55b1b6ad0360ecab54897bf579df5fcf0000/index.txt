@@ -1,0 +1,4 @@
+sxs-panda_hero_v327680.nfo	-	4653	1	0	0	0
+sxs-panda_hero_v327680.r00	-	22894376	1	4653	0	1
+sxs-panda_hero_v327680.rar	-	50000000	1	22899029	0	23
+sxs-panda_hero_v327680.sfv	-	74	1	72899029	0	71

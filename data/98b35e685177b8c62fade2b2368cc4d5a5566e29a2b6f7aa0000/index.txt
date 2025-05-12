@@ -1,0 +1,4 @@
+sxs-blaster_master_zero_3_v196608.nfo	-	6914	1	0	0	0
+sxs-blaster_master_zero_3_v196608.r00	-	33964563	1	6914	0	1
+sxs-blaster_master_zero_3_v196608.rar	-	50000000	1	33971477	0	34
+sxs-blaster_master_zero_3_v196608.sfv	-	96	1	83971477	0	82

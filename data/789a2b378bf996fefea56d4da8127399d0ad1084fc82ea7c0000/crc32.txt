@@ -1,0 +1,7 @@
+v-commandos2_v65536.nfo	280ed86f
+v-commandos2_v65536.r00	0b3a4ed8
+v-commandos2_v65536.r01	dd6670db
+v-commandos2_v65536.r02	19a3f23f
+v-commandos2_v65536.r03	cd1b3581
+v-commandos2_v65536.rar	265a3f23
+v-commandos2_v65536.sfv	cf48c4ca

@@ -1,0 +1,13 @@
+sxs-concordia_digital_edition_v65536.nfo	-	8474	1	0	0	0
+sxs-concordia_digital_edition_v65536.r00	-	50000000	1	8474	0	1
+sxs-concordia_digital_edition_v65536.r01	-	50000000	1	50008474	0	49
+sxs-concordia_digital_edition_v65536.r02	-	50000000	1	100008474	0	97
+sxs-concordia_digital_edition_v65536.r03	-	50000000	1	150008474	0	145
+sxs-concordia_digital_edition_v65536.r04	-	50000000	1	200008474	0	193
+sxs-concordia_digital_edition_v65536.r05	-	50000000	1	250008474	0	241
+sxs-concordia_digital_edition_v65536.r06	-	50000000	1	300008474	0	289
+sxs-concordia_digital_edition_v65536.r07	-	50000000	1	350008474	0	337
+sxs-concordia_digital_edition_v65536.r08	-	50000000	1	400008474	0	385
+sxs-concordia_digital_edition_v65536.r09	-	4013741	1	450008474	0	433
+sxs-concordia_digital_edition_v65536.rar	-	50000000	1	454022215	0	437
+sxs-concordia_digital_edition_v65536.sfv	-	561	1	504022215	0	485

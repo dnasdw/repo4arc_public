@@ -1,0 +1,4 @@
+sxs-moon_lander.nfo	-	3638	1	0	0	0
+sxs-moon_lander.r00	-	83301259	1	3638	0	1
+sxs-moon_lander.rar	-	100000000	1	83304897	0	81
+sxs-moon_lander.sfv	-	60	1	183304897	0	177

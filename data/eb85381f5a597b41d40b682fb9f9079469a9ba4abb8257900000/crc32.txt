@@ -1,0 +1,4 @@
+sxs-retro_pocket_rocket_v65536.nfo	34437467
+sxs-retro_pocket_rocket_v65536.r00	2c013f90
+sxs-retro_pocket_rocket_v65536.rar	5c6f4a9d
+sxs-retro_pocket_rocket_v65536.sfv	f54d53bb

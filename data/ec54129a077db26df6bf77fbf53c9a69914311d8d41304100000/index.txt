@@ -1,0 +1,3 @@
+w-bioshock_remastered_dlc.nfo	-	9341	1	0	0	0
+w-bioshock_remastered_dlc.rar	-	117861	1	9341	0	1
+w-bioshock_remastered_dlc.sfv	-	40	1	127202	0	2

@@ -1,0 +1,5 @@
+sxs-final_fantasy_vi_v196608.nfo	cdcebd86
+sxs-final_fantasy_vi_v196608.r00	4f0617e2
+sxs-final_fantasy_vi_v196608.r01	377d45ac
+sxs-final_fantasy_vi_v196608.rar	1706a36d
+sxs-final_fantasy_vi_v196608.sfv	9496d08f

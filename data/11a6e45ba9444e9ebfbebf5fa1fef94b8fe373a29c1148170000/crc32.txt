@@ -1,0 +1,7 @@
+sxs-super_bomberman_r_2_v196608.nfo	1e01d42e
+sxs-super_bomberman_r_2_v196608.r00	1c079cd0
+sxs-super_bomberman_r_2_v196608.r01	567a5e30
+sxs-super_bomberman_r_2_v196608.r02	75a34f28
+sxs-super_bomberman_r_2_v196608.r03	e16d9cff
+sxs-super_bomberman_r_2_v196608.rar	ffcc6e13
+sxs-super_bomberman_r_2_v196608.sfv	b52f6724

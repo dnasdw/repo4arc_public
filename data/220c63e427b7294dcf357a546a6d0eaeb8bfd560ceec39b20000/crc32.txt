@@ -1,0 +1,5 @@
+sxs-nes_v917504.nfo	3c173250
+sxs-nes_v917504.r00	1a409e54
+sxs-nes_v917504.r01	0f197ebc
+sxs-nes_v917504.rar	c1b0ccbd
+sxs-nes_v917504.sfv	c27a41a2

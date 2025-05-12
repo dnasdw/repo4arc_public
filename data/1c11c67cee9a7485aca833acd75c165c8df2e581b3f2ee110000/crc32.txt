@@ -1,0 +1,15 @@
+v-megaquarium.nfo	732bd9fa
+v-megaquarium.r00	4a770b1e
+v-megaquarium.r01	b2e0fc57
+v-megaquarium.r02	67339339
+v-megaquarium.r03	71bd6e13
+v-megaquarium.r04	37b72059
+v-megaquarium.r05	94c927f6
+v-megaquarium.r06	8a4d5fd6
+v-megaquarium.r07	34334d85
+v-megaquarium.r08	b9623c17
+v-megaquarium.r09	829472ee
+v-megaquarium.r10	1df6a0b5
+v-megaquarium.r11	85d68179
+v-megaquarium.rar	c4219d3b
+v-megaquarium.sfv	a5685881

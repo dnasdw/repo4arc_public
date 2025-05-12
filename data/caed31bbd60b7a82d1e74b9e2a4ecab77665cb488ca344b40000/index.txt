@@ -1,0 +1,7 @@
+v-untitled_goose_game_v393216.nfo	-	6058	1	0	0	0
+v-untitled_goose_game_v393216.r00	-	100000000	1	6058	0	1
+v-untitled_goose_game_v393216.r01	-	100000000	1	100006058	0	97
+v-untitled_goose_game_v393216.r02	-	100000000	1	200006058	0	193
+v-untitled_goose_game_v393216.r03	-	18963260	1	300006058	0	289
+v-untitled_goose_game_v393216.rar	-	100000000	1	318969318	0	308
+v-untitled_goose_game_v393216.sfv	-	220	1	418969318	0	404

@@ -1,0 +1,6 @@
+lfc-ghso_v65536.nfo	ef52b24bc3a5b8c958d679efb30c771f
+lfc-ghso_v65536.r00	80bb0444c57752a318d1bda2fbc6bce4
+lfc-ghso_v65536.r01	a2b1396f2df90c7f2969e86621a1d715
+lfc-ghso_v65536.r02	b3fa4ffca8899cdac4bc668ee659c666
+lfc-ghso_v65536.rar	fa952ef017c898a21e48adf31d0ba11a
+lfc-ghso_v65536.sfv	13fe41e7f7e21d6b152384713574cced

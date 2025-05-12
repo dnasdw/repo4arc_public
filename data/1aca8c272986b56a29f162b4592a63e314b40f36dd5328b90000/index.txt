@@ -1,0 +1,6 @@
+sxs-awesome_pea.nfo	-	4574	1	0	0	0
+sxs-awesome_pea.r00	-	50000000	1	4574	0	1
+sxs-awesome_pea.r01	-	50000000	1	50004574	0	49
+sxs-awesome_pea.r02	-	13897846	1	100004574	0	97
+sxs-awesome_pea.rar	-	50000000	1	113902420	0	111
+sxs-awesome_pea.sfv	-	120	1	163902420	0	159

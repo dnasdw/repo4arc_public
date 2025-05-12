@@ -1,0 +1,13 @@
+v-hywaoc_v196608.nfo	215770f6
+v-hywaoc_v196608.r00	4186cca0
+v-hywaoc_v196608.r01	b22dea4a
+v-hywaoc_v196608.r02	b9387ed1
+v-hywaoc_v196608.r03	410d1d32
+v-hywaoc_v196608.r04	94d07542
+v-hywaoc_v196608.r05	b24bb037
+v-hywaoc_v196608.r06	a954cd45
+v-hywaoc_v196608.r07	f05c1ce4
+v-hywaoc_v196608.r08	a27fbd14
+v-hywaoc_v196608.r09	cff05335
+v-hywaoc_v196608.rar	10ccb136
+v-hywaoc_v196608.sfv	58acfd9c

@@ -1,0 +1,3 @@
+v-prince_of_persia_the_lost_crown_pre_order_bonus_dlc.nfo	-	5824	1	0	0	0
+v-prince_of_persia_the_lost_crown_pre_order_bonus_dlc.rar	-	122333	1	5824	0	1
+v-prince_of_persia_the_lost_crown_pre_order_bonus_dlc.sfv	-	68	1	128157	0	2

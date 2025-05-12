@@ -1,0 +1,6 @@
+bbb-h-alh4a.nfo	-	5517	1	0	0	0
+bbb-h-alh4a.part01.rar	-	250000000	1	5517	0	1
+bbb-h-alh4a.part02.rar	-	223007784	1	250005517	0	240
+bbb-h-alh4a.sfv	-	66	1	473013301	0	453
+Proof	d	0	1	473013367	0	454
+Proof/bbb-h-alh4a.jpg	-	82995	1	473013367	0	454

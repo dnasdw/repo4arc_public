@@ -1,0 +1,4 @@
+lfc-cbfa_v131072.nfo	5a6aae1a6674cc2c97dbca5b2ddc67be
+lfc-cbfa_v131072.r00	802936cd3ac90fbe2232fd5edc161322
+lfc-cbfa_v131072.rar	0aa7f4c5350b68f7517890c30a36daa7
+lfc-cbfa_v131072.sfv	f570e9f3a79c3b83e96f7eb97951db23

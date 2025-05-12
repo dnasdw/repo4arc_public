@@ -1,0 +1,5 @@
+sxs-evasion_from_hell_v65536.nfo	3ca21107
+sxs-evasion_from_hell_v65536.r00	7530530b
+sxs-evasion_from_hell_v65536.r01	46acb975
+sxs-evasion_from_hell_v65536.rar	d9a5d886
+sxs-evasion_from_hell_v65536.sfv	d6008b4f

@@ -1,0 +1,3 @@
+sxs-the_bluecoats_north_and_south_dlc.nfo	-	5198	1	0	0	0
+sxs-the_bluecoats_north_and_south_dlc.rar	-	103959	1	5198	0	1
+sxs-the_bluecoats_north_and_south_dlc.sfv	-	52	1	109157	0	2

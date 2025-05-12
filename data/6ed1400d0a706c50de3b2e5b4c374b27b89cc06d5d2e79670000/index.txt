@@ -1,0 +1,3 @@
+v-myhero_dlc.nfo	-	11206	1	0	0	0
+v-myhero_dlc.rar	-	1143037	1	11206	0	1
+v-myhero_dlc.sfv	-	27	1	1154243	0	3

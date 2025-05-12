@@ -1,0 +1,15 @@
+sxs-paleo_pines_v196608.nfo	b6e171f8
+sxs-paleo_pines_v196608.r00	1bbbe669
+sxs-paleo_pines_v196608.r01	45d4eb7d
+sxs-paleo_pines_v196608.r02	e1fbecd4
+sxs-paleo_pines_v196608.r03	10175b6d
+sxs-paleo_pines_v196608.r04	9cdcc186
+sxs-paleo_pines_v196608.r05	5a5fadd5
+sxs-paleo_pines_v196608.r06	51f34ed9
+sxs-paleo_pines_v196608.r07	a10d890b
+sxs-paleo_pines_v196608.r08	4e02f9b1
+sxs-paleo_pines_v196608.r09	1225182f
+sxs-paleo_pines_v196608.r10	9aecea0a
+sxs-paleo_pines_v196608.r11	cfd27b1e
+sxs-paleo_pines_v196608.rar	458fc6d0
+sxs-paleo_pines_v196608.sfv	b9f724e0

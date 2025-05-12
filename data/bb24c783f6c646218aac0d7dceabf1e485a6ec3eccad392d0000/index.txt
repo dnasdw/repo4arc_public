@@ -1,0 +1,3 @@
+sxs-funimation.nfo	-	4808	1	0	0	0
+sxs-funimation.rar	-	11092479	1	4808	0	1
+sxs-funimation.sfv	-	29	1	11097287	0	12

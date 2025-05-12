@@ -1,0 +1,11 @@
+hr-kingdomrush.nfo	481ea7df
+hr-kingdomrush.r00	7a31cf87
+hr-kingdomrush.r01	a2a76373
+hr-kingdomrush.r02	b4601628
+hr-kingdomrush.r03	2c3830cb
+hr-kingdomrush.r04	f8443c16
+hr-kingdomrush.r05	f32de177
+hr-kingdomrush.r06	c8beacb6
+hr-kingdomrush.r07	bd83470e
+hr-kingdomrush.rar	ef0ec77a
+hr-kingdomrush.sfv	a6c3cb23

@@ -1,0 +1,12 @@
+lfc-a53qa_v65536.nfo	00000000
+lfc-a53qa_v65536.r00	ab6e91cf
+lfc-a53qa_v65536.r01	adb42fd2
+lfc-a53qa_v65536.r02	45c7e8d1
+lfc-a53qa_v65536.r03	005d66a0
+lfc-a53qa_v65536.r04	66710b00
+lfc-a53qa_v65536.r05	1524db0e
+lfc-a53qa_v65536.r06	6f0d253e
+lfc-a53qa_v65536.r07	7925bb41
+lfc-a53qa_v65536.r08	2c71624c
+lfc-a53qa_v65536.rar	d3cda077
+lfc-a53qa_v65536.sfv	eb42adc8

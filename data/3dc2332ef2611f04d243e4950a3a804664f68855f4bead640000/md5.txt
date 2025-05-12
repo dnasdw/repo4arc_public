@@ -1,0 +1,6 @@
+sxs-retrograde_arena_v65536.nfo	0b728953acd7277b7246761fa7e9bc41
+sxs-retrograde_arena_v65536.r00	aabf2cdd72cfeaed22b430dafbcf0c13
+sxs-retrograde_arena_v65536.r01	b0729b428ac7e9b88b25c2eee9a132ef
+sxs-retrograde_arena_v65536.r02	2c13292739300a26bb692ba920c5b311
+sxs-retrograde_arena_v65536.rar	369b1991e15767ec8d4920fe1a9d5a84
+sxs-retrograde_arena_v65536.sfv	1a2e56b917a73ba0187a0b0a063d0753

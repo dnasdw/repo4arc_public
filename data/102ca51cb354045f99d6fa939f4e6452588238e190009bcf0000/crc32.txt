@@ -1,0 +1,12 @@
+sxs-pikuniku.nfo	b73dcc63
+sxs-pikuniku.r00	19f063ec
+sxs-pikuniku.r01	2ec22756
+sxs-pikuniku.r02	73ac8019
+sxs-pikuniku.r03	120ecd0f
+sxs-pikuniku.r04	e58c38c2
+sxs-pikuniku.r05	5e3d4a11
+sxs-pikuniku.r06	923ce952
+sxs-pikuniku.r07	26ba0d44
+sxs-pikuniku.r08	a11ed3cc
+sxs-pikuniku.rar	34ca703f
+sxs-pikuniku.sfv	ccee7938

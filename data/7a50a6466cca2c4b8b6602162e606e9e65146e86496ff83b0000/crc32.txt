@@ -1,0 +1,13 @@
+sxs-another_world_mahjong_girl.nfo	8337b145
+sxs-another_world_mahjong_girl.r00	9c9cf1ce
+sxs-another_world_mahjong_girl.r01	29971fab
+sxs-another_world_mahjong_girl.r02	09d123fb
+sxs-another_world_mahjong_girl.r03	018c0bbf
+sxs-another_world_mahjong_girl.r04	28a37f62
+sxs-another_world_mahjong_girl.r05	65451257
+sxs-another_world_mahjong_girl.r06	9e11b310
+sxs-another_world_mahjong_girl.r07	80893696
+sxs-another_world_mahjong_girl.r08	8a878075
+sxs-another_world_mahjong_girl.r09	6398b3f4
+sxs-another_world_mahjong_girl.rar	7a026d9f
+sxs-another_world_mahjong_girl.sfv	9862ccf2

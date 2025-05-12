@@ -1,0 +1,4 @@
+sxs-queeny_army.nfo	-	5744	1	0	0	0
+sxs-queeny_army.r00	-	14977406	1	5744	0	1
+sxs-queeny_army.rar	-	50000000	1	14983150	0	16
+sxs-queeny_army.sfv	-	60	1	64983150	0	64

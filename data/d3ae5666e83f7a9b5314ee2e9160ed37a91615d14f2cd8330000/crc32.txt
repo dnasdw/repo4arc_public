@@ -1,0 +1,9 @@
+v-saga_frontier_remastered_v196608.nfo	b6aae6b5
+v-saga_frontier_remastered_v196608.r00	37873f59
+v-saga_frontier_remastered_v196608.r01	03c0d0cc
+v-saga_frontier_remastered_v196608.r02	4bfa4d84
+v-saga_frontier_remastered_v196608.r03	8ebb8f8b
+v-saga_frontier_remastered_v196608.r04	c18b3cff
+v-saga_frontier_remastered_v196608.r05	c4589a95
+v-saga_frontier_remastered_v196608.rar	2ee139c9
+v-saga_frontier_remastered_v196608.sfv	963b3e7e

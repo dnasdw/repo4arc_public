@@ -1,0 +1,6 @@
+sxs-party_arcade_v65536.nfo	-	4886	1	0	0	0
+sxs-party_arcade_v65536.r00	-	50000000	1	4886	0	1
+sxs-party_arcade_v65536.r01	-	50000000	1	50004886	0	49
+sxs-party_arcade_v65536.r02	-	13638380	1	100004886	0	97
+sxs-party_arcade_v65536.rar	-	50000000	1	113643266	0	111
+sxs-party_arcade_v65536.sfv	-	152	1	163643266	0	159

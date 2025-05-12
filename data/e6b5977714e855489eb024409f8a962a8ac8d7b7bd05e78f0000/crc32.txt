@@ -1,0 +1,9 @@
+i-carquest.nfo	b5db08e7
+i-carquest.r00	2907a9f8
+i-carquest.r01	c2bbf51c
+i-carquest.r02	6ceb37c4
+i-carquest.r03	28e1eb4b
+i-carquest.r04	ab48c050
+i-carquest.r05	0c1eea1c
+i-carquest.rar	3e5fb637
+i-carquest.sfv	7fc35e64

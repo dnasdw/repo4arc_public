@@ -1,0 +1,7 @@
+sxs-knight_squad.nfo	-	3794	1	0	0	0
+sxs-knight_squad.r00	-	50000000	1	3794	0	1
+sxs-knight_squad.r01	-	50000000	1	50003794	0	49
+sxs-knight_squad.r02	-	50000000	1	100003794	0	97
+sxs-knight_squad.r03	-	20873945	1	150003794	0	145
+sxs-knight_squad.rar	-	50000000	1	170877739	0	165
+sxs-knight_squad.sfv	-	155	1	220877739	0	213

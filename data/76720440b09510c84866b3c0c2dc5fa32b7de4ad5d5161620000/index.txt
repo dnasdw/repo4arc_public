@@ -1,0 +1,7 @@
+sxs-blind_postman.nfo	-	4730	1	0	0	0
+sxs-blind_postman.r00	-	50000000	1	4730	0	1
+sxs-blind_postman.r01	-	50000000	1	50004730	0	49
+sxs-blind_postman.r02	-	50000000	1	100004730	0	97
+sxs-blind_postman.r03	-	38066973	1	150004730	0	145
+sxs-blind_postman.rar	-	50000000	1	188071703	0	182
+sxs-blind_postman.sfv	-	160	1	238071703	0	230

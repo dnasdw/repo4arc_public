@@ -1,0 +1,9 @@
+v-armello_v101.nfo	553541ee
+v-armello_v101.r00	f326dd55
+v-armello_v101.r01	f14dc85b
+v-armello_v101.r02	706a909d
+v-armello_v101.r03	b9dcfa70
+v-armello_v101.r04	889f6d0f
+v-armello_v101.r05	e1c85a20
+v-armello_v101.rar	48604151
+v-armello_v101.sfv	fbd26d66

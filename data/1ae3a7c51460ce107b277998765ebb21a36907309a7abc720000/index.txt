@@ -1,0 +1,5 @@
+sxs-cosmonauta.nfo	-	4418	1	0	0	0
+sxs-cosmonauta.r00	-	50000000	1	4418	0	1
+sxs-cosmonauta.r01	-	9896914	1	50004418	0	49
+sxs-cosmonauta.rar	-	50000000	1	59901332	0	59
+sxs-cosmonauta.sfv	-	87	1	109901332	0	107

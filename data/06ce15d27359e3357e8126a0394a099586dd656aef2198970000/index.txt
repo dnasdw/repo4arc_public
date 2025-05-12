@@ -1,0 +1,4 @@
+sxs-remilore_v65536.nfo	-	4731	1	0	0	0
+sxs-remilore_v65536.r00	-	20606442	1	4731	0	1
+sxs-remilore_v65536.rar	-	50000000	1	20611173	0	21
+sxs-remilore_v65536.sfv	-	68	1	70611173	0	69

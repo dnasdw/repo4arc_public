@@ -1,0 +1,5 @@
+brw-kitt_rf.nfo	-	4529	1	0	0	0
+brw-kitt_rf.r00	-	100000000	1	4529	0	1
+brw-kitt_rf.r01	-	56375401	1	100004529	0	97
+brw-kitt_rf.rar	-	100000000	1	156379930	0	151
+brw-kitt_rf.sfv	-	78	1	256379930	0	247

@@ -1,0 +1,10 @@
+bbb-n-ahhqa.nfo	-	5517	1	0	0	0
+bbb-n-ahhqa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ahhqa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ahhqa.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-ahhqa.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-ahhqa.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-ahhqa.part6.rar	-	250000000	1	174502528	2	167
+bbb-n-ahhqa.part7.rar	-	250000000	1	424502528	2	406
+bbb-n-ahhqa.part8.rar	-	105963726	1	136753792	3	131
+bbb-n-ahhqa.sfv	-	256	1	242717518	3	233

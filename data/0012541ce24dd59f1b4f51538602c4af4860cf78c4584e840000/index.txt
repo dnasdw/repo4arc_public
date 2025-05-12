@@ -1,0 +1,13 @@
+v-yohane_the_parhelion_numazu_in_the_mirage_.nfo	-	9732	1	0	0	0
+v-yohane_the_parhelion_numazu_in_the_mirage_.r00	-	100000000	1	9732	0	1
+v-yohane_the_parhelion_numazu_in_the_mirage_.r01	-	100000000	1	100009732	0	97
+v-yohane_the_parhelion_numazu_in_the_mirage_.r02	-	100000000	1	200009732	0	193
+v-yohane_the_parhelion_numazu_in_the_mirage_.r03	-	100000000	1	300009732	0	289
+v-yohane_the_parhelion_numazu_in_the_mirage_.r04	-	100000000	1	400009732	0	385
+v-yohane_the_parhelion_numazu_in_the_mirage_.r05	-	100000000	1	500009732	0	481
+v-yohane_the_parhelion_numazu_in_the_mirage_.r06	-	100000000	1	62251264	1	60
+v-yohane_the_parhelion_numazu_in_the_mirage_.r07	-	100000000	1	162251264	1	156
+v-yohane_the_parhelion_numazu_in_the_mirage_.r08	-	100000000	1	262251264	1	252
+v-yohane_the_parhelion_numazu_in_the_mirage_.r09	-	8751757	1	362251264	1	348
+v-yohane_the_parhelion_numazu_in_the_mirage_.rar	-	100000000	1	371003021	1	357
+v-yohane_the_parhelion_numazu_in_the_mirage_.sfv	-	649	1	471003021	1	453

@@ -1,0 +1,13 @@
+v-everspace_v196608.nfo	7ad9a1c9
+v-everspace_v196608.r00	ed23bd59
+v-everspace_v196608.r01	533d782d
+v-everspace_v196608.r02	7f3dde47
+v-everspace_v196608.r03	12eed020
+v-everspace_v196608.r04	b157ac65
+v-everspace_v196608.r05	8c20c10c
+v-everspace_v196608.r06	83d158c7
+v-everspace_v196608.r07	b960cf19
+v-everspace_v196608.r08	bebb53a5
+v-everspace_v196608.r09	62748dbd
+v-everspace_v196608.rar	d38fe0c5
+v-everspace_v196608.sfv	014c2e4d

@@ -1,0 +1,8 @@
+sxs-geometry_survivor.nfo	-	5432	1	0	0	0
+sxs-geometry_survivor.r00	-	100000000	1	5432	0	1
+sxs-geometry_survivor.r01	-	100000000	1	100005432	0	97
+sxs-geometry_survivor.r02	-	100000000	1	200005432	0	193
+sxs-geometry_survivor.r03	-	100000000	1	300005432	0	289
+sxs-geometry_survivor.r04	-	33838876	1	400005432	0	385
+sxs-geometry_survivor.rar	-	100000000	1	433844308	0	418
+sxs-geometry_survivor.sfv	-	216	1	533844308	0	514

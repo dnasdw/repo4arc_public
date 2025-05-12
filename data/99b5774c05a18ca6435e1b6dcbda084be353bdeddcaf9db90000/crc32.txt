@@ -1,0 +1,6 @@
+sxs-oceanhorn_2_knights_of_the_lost_realm_v65536.nfo	79c153d4
+sxs-oceanhorn_2_knights_of_the_lost_realm_v65536.r00	ea749c68
+sxs-oceanhorn_2_knights_of_the_lost_realm_v65536.r01	69aac423
+sxs-oceanhorn_2_knights_of_the_lost_realm_v65536.r02	f72c0003
+sxs-oceanhorn_2_knights_of_the_lost_realm_v65536.rar	88cfb936
+sxs-oceanhorn_2_knights_of_the_lost_realm_v65536.sfv	ec8d65ec

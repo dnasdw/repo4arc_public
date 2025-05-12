@@ -1,0 +1,3 @@
+sxs-rico_breakout_dlc.nfo	-	5822	1	0	0	0
+sxs-rico_breakout_dlc.rar	-	104073	1	5822	0	1
+sxs-rico_breakout_dlc.sfv	-	36	1	109895	0	2

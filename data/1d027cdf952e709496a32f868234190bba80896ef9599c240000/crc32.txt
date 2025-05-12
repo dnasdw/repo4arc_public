@@ -1,0 +1,13 @@
+brw-kvsg_v65536.nfo	9e773354
+brw-kvsg_v65536.r00	f7198685
+brw-kvsg_v65536.r01	f952d7df
+brw-kvsg_v65536.r02	ffd55acb
+brw-kvsg_v65536.r03	9c44d5c6
+brw-kvsg_v65536.r04	12607bfe
+brw-kvsg_v65536.r05	abcd85e0
+brw-kvsg_v65536.r06	793c284c
+brw-kvsg_v65536.r07	317c8c74
+brw-kvsg_v65536.r08	448c8ee5
+brw-kvsg_v65536.r09	dbec11a9
+brw-kvsg_v65536.rar	3ce762d1
+brw-kvsg_v65536.sfv	dfae18b3

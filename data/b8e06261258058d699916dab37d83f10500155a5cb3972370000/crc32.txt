@@ -1,0 +1,6 @@
+brw-soac.nfo	042a2523
+brw-soac.r00	bd68e228
+brw-soac.r01	f9bd73d3
+brw-soac.r02	0b197c04
+brw-soac.rar	1d7f4a8e
+brw-soac.sfv	59aebf5d

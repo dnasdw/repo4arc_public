@@ -1,0 +1,9 @@
+sxs-fit_my_cat.nfo	a8c4802d2762823f5b92afe8e1c017d5d22254e5
+sxs-fit_my_cat.r00	8c51df01a97e1677fe221cd868adc166e4466eb9
+sxs-fit_my_cat.r01	df52f6154aefb1d3d0dad72bdcf46dad0a30f9fa
+sxs-fit_my_cat.r02	9976a6b2ad555aa669249e26bcba08f64cf4277f
+sxs-fit_my_cat.r03	7112593369175eb45d3e25a57beabbc5a1700d2a
+sxs-fit_my_cat.r04	fe619030a33b1486ba35e7347a4b4fa0e450f898
+sxs-fit_my_cat.r05	0fcdc9493bed7f1e7cc6e448c319696b3ec4e848
+sxs-fit_my_cat.rar	475c8b732bb191f2b30a2e575cf9f52385e86f4c
+sxs-fit_my_cat.sfv	d27a2d970ad973d2ec42f353f26e8a9fe92e7a92

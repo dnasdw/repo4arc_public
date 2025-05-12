@@ -1,0 +1,7 @@
+sxs-drift_legends_v65536.nfo	-	6135	1	0	0	0
+sxs-drift_legends_v65536.r00	-	50000000	1	6135	0	1
+sxs-drift_legends_v65536.r01	-	50000000	1	50006135	0	49
+sxs-drift_legends_v65536.r02	-	50000000	1	100006135	0	97
+sxs-drift_legends_v65536.r03	-	10770653	1	150006135	0	145
+sxs-drift_legends_v65536.rar	-	50000000	1	160776788	0	156
+sxs-drift_legends_v65536.sfv	-	195	1	210776788	0	204

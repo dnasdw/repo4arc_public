@@ -1,0 +1,4 @@
+sxs-dogs_donuts.nfo	6460371f12c679815a9a34f0c6a7b78a84980f44
+sxs-dogs_donuts.r00	77523829aa1cf38d32b32fc9bdc235abd15e2be4
+sxs-dogs_donuts.rar	63c2374965f7d7c9db1846d0aca95a5ca9c4d4f2
+sxs-dogs_donuts.sfv	1dea873b3f0505f0e03484b14c8c69348c5e36df

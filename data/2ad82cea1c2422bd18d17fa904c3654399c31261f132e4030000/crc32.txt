@@ -1,0 +1,4 @@
+sxs-nes_v262144.nfo	0eacc442
+sxs-nes_v262144.r00	ea30defc
+sxs-nes_v262144.rar	31f8b3d1
+sxs-nes_v262144.sfv	4fa4b934

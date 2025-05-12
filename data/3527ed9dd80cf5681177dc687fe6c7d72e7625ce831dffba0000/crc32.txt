@@ -1,0 +1,9 @@
+sxs-n64jp_v655360.nfo	cbcd0f4d
+sxs-n64jp_v655360.r00	77157d5f
+sxs-n64jp_v655360.r01	f38a48b8
+sxs-n64jp_v655360.r02	ef5b02b3
+sxs-n64jp_v655360.r03	2945613e
+sxs-n64jp_v655360.r04	4b1b48f8
+sxs-n64jp_v655360.r05	0b55e696
+sxs-n64jp_v655360.rar	dfa3963a
+sxs-n64jp_v655360.sfv	2ffcba30

@@ -1,0 +1,11 @@
+sxs-virtuaverse_v393216.nfo	c95ac617
+sxs-virtuaverse_v393216.r00	69f01619
+sxs-virtuaverse_v393216.r01	50fd5442
+sxs-virtuaverse_v393216.r02	220e1003
+sxs-virtuaverse_v393216.r03	a086da33
+sxs-virtuaverse_v393216.r04	c8a60181
+sxs-virtuaverse_v393216.r05	a9a04d39
+sxs-virtuaverse_v393216.r06	a272d821
+sxs-virtuaverse_v393216.r07	ae2d1820
+sxs-virtuaverse_v393216.rar	5a67d58c
+sxs-virtuaverse_v393216.sfv	92a83ef1

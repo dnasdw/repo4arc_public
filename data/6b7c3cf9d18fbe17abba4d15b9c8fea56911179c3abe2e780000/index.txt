@@ -1,0 +1,5 @@
+v-samurai_shodown_iroha_dlc.nfo	-	6682	1	0	0	0
+v-samurai_shodown_iroha_dlc.r00	-	50000000	1	6682	0	1
+v-samurai_shodown_iroha_dlc.r01	-	910970	1	50006682	0	49
+v-samurai_shodown_iroha_dlc.rar	-	50000000	1	50917652	0	50
+v-samurai_shodown_iroha_dlc.sfv	-	126	1	100917652	0	98

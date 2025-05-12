@@ -1,0 +1,7 @@
+sxs-ogre_console_edition_v65536.nfo	94e8721e
+sxs-ogre_console_edition_v65536.r00	60b379e7
+sxs-ogre_console_edition_v65536.r01	103e4530
+sxs-ogre_console_edition_v65536.r02	7b4a0d5e
+sxs-ogre_console_edition_v65536.r03	6650fe1e
+sxs-ogre_console_edition_v65536.rar	c84d9ca4
+sxs-ogre_console_edition_v65536.sfv	1ca88b97

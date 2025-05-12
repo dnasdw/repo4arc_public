@@ -1,0 +1,12 @@
+hr-avv7av65536.nfo	3d869532
+hr-avv7av65536.r00	7a2e9b8b
+hr-avv7av65536.r01	560994a8
+hr-avv7av65536.r02	501157d6
+hr-avv7av65536.r03	67c5796e
+hr-avv7av65536.r04	37f2bbec
+hr-avv7av65536.r05	fd5cf7a2
+hr-avv7av65536.r06	4fc2262b
+hr-avv7av65536.r07	22b73fab
+hr-avv7av65536.r08	13d39575
+hr-avv7av65536.rar	5d5d2a73
+hr-avv7av65536.sfv	5fd63697

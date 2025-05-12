@@ -1,0 +1,4 @@
+v-inescapable_no_rules_no_rescue_v196608.nfo	-	3874	1	0	0	0
+v-inescapable_no_rules_no_rescue_v196608.r00	-	92745673	1	3874	0	1
+v-inescapable_no_rules_no_rescue_v196608.rar	-	100000000	1	92749547	0	90
+v-inescapable_no_rules_no_rescue_v196608.sfv	-	110	1	192749547	0	186

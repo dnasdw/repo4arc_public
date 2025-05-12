@@ -1,0 +1,15 @@
+sxs-tied_together.nfo	-	5900	1	0	0	0
+sxs-tied_together.r00	-	50000000	1	5900	0	1
+sxs-tied_together.r01	-	50000000	1	50005900	0	49
+sxs-tied_together.r02	-	50000000	1	100005900	0	97
+sxs-tied_together.r03	-	50000000	1	150005900	0	145
+sxs-tied_together.r04	-	50000000	1	200005900	0	193
+sxs-tied_together.r05	-	50000000	1	250005900	0	241
+sxs-tied_together.r06	-	50000000	1	300005900	0	289
+sxs-tied_together.r07	-	50000000	1	350005900	0	337
+sxs-tied_together.r08	-	50000000	1	400005900	0	385
+sxs-tied_together.r09	-	50000000	1	450005900	0	433
+sxs-tied_together.r10	-	50000000	1	500005900	0	481
+sxs-tied_together.r11	-	40160727	1	12251264	1	12
+sxs-tied_together.rar	-	50000000	1	52411991	1	51
+sxs-tied_together.sfv	-	416	1	102411991	1	99

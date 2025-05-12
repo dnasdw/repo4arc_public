@@ -1,0 +1,4 @@
+sxs-the_adventures_of_panzer_legacy_collection.nfo	-	7616	1	0	0	0
+sxs-the_adventures_of_panzer_legacy_collection.r00	-	57260489	1	7616	0	1
+sxs-the_adventures_of_panzer_legacy_collection.rar	-	100000000	1	57268105	0	56
+sxs-the_adventures_of_panzer_legacy_collection.sfv	-	122	1	157268105	0	152

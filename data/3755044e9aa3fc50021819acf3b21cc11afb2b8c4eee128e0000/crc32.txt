@@ -1,0 +1,7 @@
+sxs-full_metal_furies_v262144.nfo	7ce91bfc
+sxs-full_metal_furies_v262144.r00	0cb6108f
+sxs-full_metal_furies_v262144.r01	b1b63839
+sxs-full_metal_furies_v262144.r02	19609ec2
+sxs-full_metal_furies_v262144.r03	f038610b
+sxs-full_metal_furies_v262144.rar	10efb139
+sxs-full_metal_furies_v262144.sfv	a488fb5e

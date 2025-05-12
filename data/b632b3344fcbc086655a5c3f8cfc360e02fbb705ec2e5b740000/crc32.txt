@@ -1,0 +1,14 @@
+lfc-a6ssa_v131072.nfo	d19c83ae
+lfc-a6ssa_v131072.r00	1a9869bd
+lfc-a6ssa_v131072.r01	2d0bc203
+lfc-a6ssa_v131072.r02	af417300
+lfc-a6ssa_v131072.r03	661b3329
+lfc-a6ssa_v131072.r04	51918530
+lfc-a6ssa_v131072.r05	7bf826fe
+lfc-a6ssa_v131072.r06	ab15b91e
+lfc-a6ssa_v131072.r07	0ff65fa2
+lfc-a6ssa_v131072.r08	f667fe30
+lfc-a6ssa_v131072.r09	11540c9d
+lfc-a6ssa_v131072.r10	d63a1e49
+lfc-a6ssa_v131072.rar	52829452
+lfc-a6ssa_v131072.sfv	61f38bb0

@@ -1,0 +1,12 @@
+sxs-freshly_frosted.nfo	-	5432	1	0	0	0
+sxs-freshly_frosted.r00	-	50000000	1	5432	0	1
+sxs-freshly_frosted.r01	-	50000000	1	50005432	0	49
+sxs-freshly_frosted.r02	-	50000000	1	100005432	0	97
+sxs-freshly_frosted.r03	-	50000000	1	150005432	0	145
+sxs-freshly_frosted.r04	-	50000000	1	200005432	0	193
+sxs-freshly_frosted.r05	-	50000000	1	250005432	0	241
+sxs-freshly_frosted.r06	-	50000000	1	300005432	0	289
+sxs-freshly_frosted.r07	-	50000000	1	350005432	0	337
+sxs-freshly_frosted.r08	-	9456744	1	400005432	0	385
+sxs-freshly_frosted.rar	-	50000000	1	409462176	0	395
+sxs-freshly_frosted.sfv	-	340	1	459462176	0	443

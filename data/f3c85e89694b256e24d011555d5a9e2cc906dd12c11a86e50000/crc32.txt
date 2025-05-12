@@ -1,0 +1,17 @@
+hr-ayvda.nfo	1f5dc626
+hr-ayvda.r00	345b7c6f
+hr-ayvda.r01	e36559c5
+hr-ayvda.r02	8ad06e30
+hr-ayvda.r03	9db6bcf0
+hr-ayvda.r04	1aa630f3
+hr-ayvda.r05	aec32c85
+hr-ayvda.r06	ebf5a9da
+hr-ayvda.r07	acfe7038
+hr-ayvda.r08	4e310776
+hr-ayvda.r09	b2a8db76
+hr-ayvda.r10	ecb0c8fe
+hr-ayvda.r11	e639e367
+hr-ayvda.rar	285e23fa
+hr-ayvda.sfv	be7f3988
+Proof	00000000
+Proof/hr-ayvda.jpg	c2b819e3

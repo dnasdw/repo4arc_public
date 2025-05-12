@@ -1,0 +1,4 @@
+bbb-n-aplxa.nfo	-	5517	1	0	0	0
+bbb-n-aplxa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aplxa.part2.rar	-	24498443	1	250005517	0	240
+bbb-n-aplxa.sfv	-	64	1	274503960	0	264

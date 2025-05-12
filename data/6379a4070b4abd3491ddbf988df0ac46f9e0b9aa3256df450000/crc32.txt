@@ -1,0 +1,9 @@
+sxs-taxi_chaos_v65536.nfo	eb19b64e
+sxs-taxi_chaos_v65536.r00	aba9b87e
+sxs-taxi_chaos_v65536.r01	d6e8c231
+sxs-taxi_chaos_v65536.r02	d1e320ff
+sxs-taxi_chaos_v65536.r03	80b0cd6e
+sxs-taxi_chaos_v65536.r04	2456d5c6
+sxs-taxi_chaos_v65536.r05	27449aca
+sxs-taxi_chaos_v65536.rar	a8ba4f80
+sxs-taxi_chaos_v65536.sfv	0f51aa73

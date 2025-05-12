@@ -1,0 +1,10 @@
+lfc-code.nfo	93a08827
+lfc-code.r00	71a74375
+lfc-code.r01	a2811d54
+lfc-code.r02	af5cace5
+lfc-code.r03	7dac6b99
+lfc-code.r04	e65d1347
+lfc-code.r05	5b396ca9
+lfc-code.r06	3f8cc7b1
+lfc-code.rar	c50a87a2
+lfc-code.sfv	77885a5c

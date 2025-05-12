@@ -1,0 +1,12 @@
+sxs-lyrica_v131072.nfo	8e9014d0
+sxs-lyrica_v131072.r00	276599bd
+sxs-lyrica_v131072.r01	3e2a333e
+sxs-lyrica_v131072.r02	7477d1f4
+sxs-lyrica_v131072.r03	8c5dd1e7
+sxs-lyrica_v131072.r04	599f8f56
+sxs-lyrica_v131072.r05	c5374859
+sxs-lyrica_v131072.r06	e9fb3df8
+sxs-lyrica_v131072.r07	98948ca0
+sxs-lyrica_v131072.r08	ea7e6ca8
+sxs-lyrica_v131072.rar	625e1e72
+sxs-lyrica_v131072.sfv	f3e6a9c1

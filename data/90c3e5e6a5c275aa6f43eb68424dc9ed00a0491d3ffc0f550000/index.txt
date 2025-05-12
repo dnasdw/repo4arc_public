@@ -1,0 +1,8 @@
+sxs-return_to_shironagasu_island_v327680.nfo	-	5588	1	0	0	0
+sxs-return_to_shironagasu_island_v327680.r00	-	100000000	1	5588	0	1
+sxs-return_to_shironagasu_island_v327680.r01	-	100000000	1	100005588	0	97
+sxs-return_to_shironagasu_island_v327680.r02	-	100000000	1	200005588	0	193
+sxs-return_to_shironagasu_island_v327680.r03	-	100000000	1	300005588	0	289
+sxs-return_to_shironagasu_island_v327680.r04	-	30071695	1	400005588	0	385
+sxs-return_to_shironagasu_island_v327680.rar	-	100000000	1	430077283	0	414
+sxs-return_to_shironagasu_island_v327680.sfv	-	330	1	530077283	0	510

@@ -1,0 +1,16 @@
+lfc-saap.nfo	d273e23d
+lfc-saap.r00	1bafff49
+lfc-saap.r01	dfdd44a2
+lfc-saap.r02	95db5264
+lfc-saap.r03	86d0c80f
+lfc-saap.r04	dd37b7e6
+lfc-saap.r05	800625a4
+lfc-saap.r06	3d5d6ae8
+lfc-saap.r07	b3f7964a
+lfc-saap.r08	3b100c25
+lfc-saap.r09	d2dc1ba3
+lfc-saap.r10	8cb819e0
+lfc-saap.r11	8bd722c3
+lfc-saap.r12	450faa18
+lfc-saap.rar	a990c06f
+lfc-saap.sfv	1305407a

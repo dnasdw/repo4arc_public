@@ -1,0 +1,6 @@
+v-standby.nfo	2269f0a2
+v-standby.r00	886dbf39
+v-standby.r01	46452183
+v-standby.r02	e247777b
+v-standby.rar	702f5366
+v-standby.sfv	d2f6f130

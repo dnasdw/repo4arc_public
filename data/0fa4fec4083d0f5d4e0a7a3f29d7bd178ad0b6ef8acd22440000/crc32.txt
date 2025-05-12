@@ -1,0 +1,8 @@
+v-primal_light.nfo	7182fdce
+v-primal_light.r00	837a5231
+v-primal_light.r01	c9c5aa71
+v-primal_light.r02	34266d9d
+v-primal_light.r03	7283b212
+v-primal_light.r04	2a6c0a4f
+v-primal_light.rar	27cf2e06
+v-primal_light.sfv	82664842

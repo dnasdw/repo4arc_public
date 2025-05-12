@@ -1,0 +1,6 @@
+v-7th_sector_v131072.nfo	5c967538
+v-7th_sector_v131072.r00	038281d7
+v-7th_sector_v131072.r01	c6702d23
+v-7th_sector_v131072.r02	d5d7dce3
+v-7th_sector_v131072.rar	93cba362
+v-7th_sector_v131072.sfv	b95b59a1

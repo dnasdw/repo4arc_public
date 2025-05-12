@@ -1,0 +1,10 @@
+sxs-dice_legacy_v262144.nfo	323dc3eb
+sxs-dice_legacy_v262144.r00	deb25a51
+sxs-dice_legacy_v262144.r01	209fd5fc
+sxs-dice_legacy_v262144.r02	4853bba7
+sxs-dice_legacy_v262144.r03	618ffcdf
+sxs-dice_legacy_v262144.r04	d38ab6db
+sxs-dice_legacy_v262144.r05	2ff95a2d
+sxs-dice_legacy_v262144.r06	25be97ac
+sxs-dice_legacy_v262144.rar	644b338d
+sxs-dice_legacy_v262144.sfv	f9e3d542

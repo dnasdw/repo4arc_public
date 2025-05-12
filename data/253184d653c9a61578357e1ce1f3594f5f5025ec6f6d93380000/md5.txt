@@ -1,0 +1,14 @@
+brw-nycd.nfo	ce0babe063580bf28bcf0eb257e9f5dd
+brw-nycd.r00	b71d9f00492554a5c793eaec8f1b0f87
+brw-nycd.r01	0baf1660fce977d2e2908a121c0c963a
+brw-nycd.r02	ca06893fa6f67423332d2627880c8c41
+brw-nycd.r03	ef55cedd4b642f601a0b7e785c9cb275
+brw-nycd.r04	378cc1ce4c633d6dd5570385fe2b76ef
+brw-nycd.r05	1de94e295e3a59529ce87c79ad86cc7e
+brw-nycd.r06	5f967b2b9d92974943d160ea8bf1d288
+brw-nycd.r07	b38d66a35c2f14e51c642b7884284ca2
+brw-nycd.r08	ce1bfc56548269aa5409730ac8416dfd
+brw-nycd.r09	7b5fb7777d93c0af08d7a2afdec42665
+brw-nycd.r10	155360209e1cbd912ef1888dd76aeadf
+brw-nycd.rar	e371a0b43aaed1d4b090867b8dd3543d
+brw-nycd.sfv	394dd705322ba95377e877da80ec1ee5

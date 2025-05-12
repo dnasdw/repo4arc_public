@@ -1,0 +1,6 @@
+bbb-n-mtakiosk.nfo	-	5517	1	0	0	0
+bbb-n-mtakiosk.part1.rar	-	250000000	1	5517	0	1
+bbb-n-mtakiosk.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-mtakiosk.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-mtakiosk.part4.rar	-	125663575	1	212251264	1	203
+bbb-n-mtakiosk.sfv	-	140	1	337914839	1	323

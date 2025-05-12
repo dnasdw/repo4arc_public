@@ -1,0 +1,11 @@
+sxs-halloween_pinball.nfo	82dd563a
+sxs-halloween_pinball.r00	488c92e3
+sxs-halloween_pinball.r01	536eaf0d
+sxs-halloween_pinball.r02	e342ef12
+sxs-halloween_pinball.r03	eeb208f6
+sxs-halloween_pinball.r04	8c0b2ffd
+sxs-halloween_pinball.r05	b1e3e484
+sxs-halloween_pinball.r06	2e3e3229
+sxs-halloween_pinball.r07	8e7fa7a8
+sxs-halloween_pinball.rar	930bcbe5
+sxs-halloween_pinball.sfv	fc516224

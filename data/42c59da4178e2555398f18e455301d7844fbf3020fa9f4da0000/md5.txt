@@ -1,0 +1,7 @@
+v-super_trunko_go_v131072.nfo	37ab9060742e538d524b07f6efab3c05
+v-super_trunko_go_v131072.r00	7bc96a2901549d26e915cfed83ed13eb
+v-super_trunko_go_v131072.r01	fd2999230bb75e070f686cdcb211d9fe
+v-super_trunko_go_v131072.r02	588083bb1ea99fdabc48fcc2aacf8032
+v-super_trunko_go_v131072.r03	1d25ed4afae6ccff08ccf6bb0c8b72e1
+v-super_trunko_go_v131072.rar	e68dba52b7dbc14d9242a52c91be89f9
+v-super_trunko_go_v131072.sfv	87288904786cf2d0e368c4a47e505b62

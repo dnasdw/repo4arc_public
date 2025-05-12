@@ -1,0 +1,4 @@
+sxs-dogurai.nfo	-	5666	1	0	0	0
+sxs-dogurai.r00	-	35925937	1	5666	0	1
+sxs-dogurai.rar	-	50000000	1	35931603	0	36
+sxs-dogurai.sfv	-	52	1	85931603	0	84

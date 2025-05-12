@@ -1,0 +1,10 @@
+sxs-crashbots_v196608.nfo	b362a407
+sxs-crashbots_v196608.r00	01e82f8b
+sxs-crashbots_v196608.r01	8422d966
+sxs-crashbots_v196608.r02	b4234129
+sxs-crashbots_v196608.r03	8fb47245
+sxs-crashbots_v196608.r04	6321eb8a
+sxs-crashbots_v196608.r05	a5a90fb7
+sxs-crashbots_v196608.r06	c681aa0d
+sxs-crashbots_v196608.rar	4b94ce94
+sxs-crashbots_v196608.sfv	6d32e6d3

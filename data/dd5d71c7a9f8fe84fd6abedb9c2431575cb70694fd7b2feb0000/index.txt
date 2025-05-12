@@ -1,0 +1,3 @@
+sxs-otttd_over_the_top_tower_defense_v65536.nfo	-	7304	1	0	0	0
+sxs-otttd_over_the_top_tower_defense_v65536.rar	-	32809921	1	7304	0	1
+sxs-otttd_over_the_top_tower_defense_v65536.sfv	-	58	1	32817225	0	33

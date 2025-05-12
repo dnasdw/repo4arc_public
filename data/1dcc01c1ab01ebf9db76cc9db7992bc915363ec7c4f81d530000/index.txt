@@ -1,0 +1,4 @@
+v-scrapnaut_v65536.nfo	-	3952	1	0	0	0
+v-scrapnaut_v65536.r00	-	3409760	1	3952	0	1
+v-scrapnaut_v65536.rar	-	50000000	1	3413712	0	5
+v-scrapnaut_v65536.sfv	-	66	1	53413712	0	53

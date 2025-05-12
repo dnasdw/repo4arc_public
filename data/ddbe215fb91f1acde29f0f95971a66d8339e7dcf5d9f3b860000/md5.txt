@@ -1,0 +1,14 @@
+lfc-wahp.nfo	15cf0a7f72d3dd61701b3ec798ac77ab
+lfc-wahp.r00	cd7a9e0c10e7436797a2a1f79b61c287
+lfc-wahp.r01	b91e294245ffcd03eb001160b2f7d318
+lfc-wahp.r02	725224b6b3eff6dd3b2e597214cfa131
+lfc-wahp.r03	35124950ceef99e19abbb713d3af66d0
+lfc-wahp.r04	deefcde9a5da31fc2237344f1838c284
+lfc-wahp.r05	f7b70c827f2670019ff68c15e9d91fde
+lfc-wahp.r06	c02e8594c2d4d5b80d0072f70749a493
+lfc-wahp.r07	b751a275d6a41d70f7ef4c629e69aa5d
+lfc-wahp.r08	a8096904dc6cf0cd19f5179cd5f13ed3
+lfc-wahp.r09	853067387ee9287f03cdb2c6ebe2f02d
+lfc-wahp.r10	9cebaeaa47d291c0a94fb32b40d0f678
+lfc-wahp.rar	91ccddd7d96c53e712bef312ae1b9f9c
+lfc-wahp.sfv	290523526c47a97c85679dadd67b0753

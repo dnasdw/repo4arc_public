@@ -1,0 +1,4 @@
+sxs-color_pals.nfo	-	4964	1	0	0	0
+sxs-color_pals.r00	-	31652767	1	4964	0	1
+sxs-color_pals.rar	-	100000000	1	31657731	0	32
+sxs-color_pals.sfv	-	58	1	131657731	0	128

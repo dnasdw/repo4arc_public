@@ -1,0 +1,7 @@
+i-minefield.nfo	59bc692a5e7074acf49c9dc1265b1ccae0a21646
+i-minefield.r00	17e26d52c2f658419dddc8057a258a77a4b39c21
+i-minefield.r01	e43b7fac37f342bff945add3e2bca30057f3b40f
+i-minefield.r02	6681c124c035732d3bcbb5e57ee8d0f0d2e6f7b8
+i-minefield.r03	cfa7db07cd6c4750b73c650e7cfad8f16e9f17d2
+i-minefield.rar	db568fc1a83abd0d5e0137b31ab62e217d235406
+i-minefield.sfv	1a31ad373ee2e13780d346ab5b695d90de8a6239

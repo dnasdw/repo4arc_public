@@ -1,0 +1,5 @@
+v-rival_megagun_v131072.nfo	300f3628
+v-rival_megagun_v131072.r00	a9a7ae3f
+v-rival_megagun_v131072.r01	592aedbf
+v-rival_megagun_v131072.rar	f6c7ec17
+v-rival_megagun_v131072.sfv	19138cd6

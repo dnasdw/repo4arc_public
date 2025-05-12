@@ -1,0 +1,4 @@
+delight.nfo	-	8936	1	0	0	0
+dl-travelm7.r00	-	69110658	1	8936	0	1
+dl-travelm7.rar	-	150000000	1	69119594	0	67
+dl-travelm7.sfv	-	52	1	219119594	0	211

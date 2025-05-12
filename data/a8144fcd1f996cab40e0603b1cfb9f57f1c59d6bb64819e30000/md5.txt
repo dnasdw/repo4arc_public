@@ -1,0 +1,3 @@
+sxs-de_blob_2_v65536.nfo	ad36cedca238638f640723f90f5e5c94
+sxs-de_blob_2_v65536.rar	f2164f161151d7b87277c5877e408bae
+sxs-de_blob_2_v65536.sfv	db9eac5d1c8a4686cf89fcf3f89929d5

@@ -1,0 +1,13 @@
+v-exit_the_gungeon.nfo	-	4966	1	0	0	0
+v-exit_the_gungeon.r00	-	50000000	1	4966	0	1
+v-exit_the_gungeon.r01	-	50000000	1	50004966	0	49
+v-exit_the_gungeon.r02	-	50000000	1	100004966	0	97
+v-exit_the_gungeon.r03	-	50000000	1	150004966	0	145
+v-exit_the_gungeon.r04	-	50000000	1	200004966	0	193
+v-exit_the_gungeon.r05	-	50000000	1	250004966	0	241
+v-exit_the_gungeon.r06	-	50000000	1	300004966	0	289
+v-exit_the_gungeon.r07	-	50000000	1	350004966	0	337
+v-exit_the_gungeon.r08	-	50000000	1	400004966	0	385
+v-exit_the_gungeon.r09	-	11286347	1	450004966	0	433
+v-exit_the_gungeon.rar	-	50000000	1	461291313	0	444
+v-exit_the_gungeon.sfv	-	363	1	511291313	0	492

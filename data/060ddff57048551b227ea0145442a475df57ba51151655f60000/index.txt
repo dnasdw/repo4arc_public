@@ -1,0 +1,4 @@
+sxs-wild_dogs_v262144.nfo	-	4964	1	0	0	0
+sxs-wild_dogs_v262144.r00	-	77460277	1	4964	0	1
+sxs-wild_dogs_v262144.rar	-	100000000	1	77465241	0	75
+sxs-wild_dogs_v262144.sfv	-	72	1	177465241	0	171

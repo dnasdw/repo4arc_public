@@ -1,0 +1,5 @@
+v-sushi_bar_express.nfo	-	6214	1	0	0	0
+v-sushi_bar_express.r00	-	100000000	1	6214	0	1
+v-sushi_bar_express.r01	-	12960350	1	100006214	0	97
+v-sushi_bar_express.rar	-	100000000	1	112966564	0	110
+v-sushi_bar_express.sfv	-	102	1	212966564	0	206

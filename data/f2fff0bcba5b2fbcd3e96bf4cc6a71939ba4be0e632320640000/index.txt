@@ -1,0 +1,6 @@
+sxs-marble_maid.nfo	-	5666	1	0	0	0
+sxs-marble_maid.r00	-	50000000	1	5666	0	1
+sxs-marble_maid.r01	-	50000000	1	50005666	0	49
+sxs-marble_maid.r02	-	26912718	1	100005666	0	97
+sxs-marble_maid.rar	-	50000000	1	126918384	0	123
+sxs-marble_maid.sfv	-	120	1	176918384	0	171

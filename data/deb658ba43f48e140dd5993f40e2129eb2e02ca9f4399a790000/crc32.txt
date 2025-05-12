@@ -1,0 +1,5 @@
+v-skater_xl_v65536.nfo	301cf815
+v-skater_xl_v65536.r00	6dfcd18a
+v-skater_xl_v65536.r01	6ba65ada
+v-skater_xl_v65536.rar	8808d572
+v-skater_xl_v65536.sfv	3a7a0792

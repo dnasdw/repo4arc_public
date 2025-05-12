@@ -1,0 +1,3 @@
+sxs-renzo_racer_v65536.nfo	5c6c65e081424e065f5e28e0c26ae0966040410d
+sxs-renzo_racer_v65536.rar	9395907fe69ec20cb88df88a6e087f5b446643ab
+sxs-renzo_racer_v65536.sfv	b7f7cd510522ad889cd089f77498ad7a5a5858be

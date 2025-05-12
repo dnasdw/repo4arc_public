@@ -1,0 +1,8 @@
+brw-raty.nfo	cd3d4b39c6818584795c8c9118a33dd0
+brw-raty.r00	936c6f69973461cc372d99328228bb5e
+brw-raty.r01	9fef65e4268aa50d64b3c6aee43ec529
+brw-raty.r02	a065a72fc45e9c4ef483d247b25d2040
+brw-raty.r03	4a6fdec3c6fd2b54fd91aa05da57f0f3
+brw-raty.r04	95413de0ee4fc443547479b2fb6e843b
+brw-raty.rar	80fa3f0c4f8993394f7b9df3a6f02f76
+brw-raty.sfv	7b88283c5be3894d8fd17e55cef556a7

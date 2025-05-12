@@ -1,0 +1,5 @@
+collected-a3rcav65536.nfo	50c4a1a446290331c6a373a52ba0eae97c34df82
+collected-a3rcav65536.r00	b9e46a303e76a231c03b55c6d7aec3db65acfd5f
+collected-a3rcav65536.r01	f4f311ca0099885580045fc68a9bcd9e3fb9f752
+collected-a3rcav65536.rar	33d7a4e804fb31d80f40e6c0b1cffcbd09e841ca
+collected-a3rcav65536.sfv	bc3e2ef68670e546cf07e8c28f904242f012d1c2

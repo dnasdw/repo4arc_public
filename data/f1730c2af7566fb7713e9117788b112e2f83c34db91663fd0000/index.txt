@@ -1,0 +1,4 @@
+jrp-n-tetjis.nfo	-	5995	1	0	0	0
+jrp-n-tetjis.r00	-	43786876	1	5995	0	1
+jrp-n-tetjis.rar	-	50000000	1	43792871	0	43
+jrp-n-tetjis.sfv	-	54	1	93792871	0	91

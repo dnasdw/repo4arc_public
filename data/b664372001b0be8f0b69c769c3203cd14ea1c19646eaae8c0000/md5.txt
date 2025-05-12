@@ -1,0 +1,14 @@
+jrp-n-from.nfo	5e72bc3662b97d9dad61904e74ae7887
+jrp-n-from.r00	ad78105ad9e367e48e447e61b50214b3
+jrp-n-from.r01	aafcca213b31ec0b55a8f8307a1a5293
+jrp-n-from.r02	604c0503b9bfdd126b824de183aeefdb
+jrp-n-from.r03	8c8f5ac5352a0a7fba3a5e931b3cba34
+jrp-n-from.r04	31e0ff984a6d9fa28f160487ae91b003
+jrp-n-from.r05	13080c05b5c321abd26d1c7915aa757b
+jrp-n-from.r06	48fbc47aa176714bc1d1311c0e1bf343
+jrp-n-from.r07	d1844c0296ac00154e3af0d7a367f819
+jrp-n-from.r08	9e26d1e79ce250ac4efeef2fb0643dd6
+jrp-n-from.r09	dd3cb9e358dfcc25d390d2daa15c9bfb
+jrp-n-from.r10	f46f88b28ca8014d475e7df5cb50fa7f
+jrp-n-from.rar	3bc9f96e4bdb3c176335d2c75bab10b9
+jrp-n-from.sfv	f7b610c873bc4f2e076eca51986f8ce2

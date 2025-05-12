@@ -1,0 +1,11 @@
+lfc-haak.nfo	76ea6501
+lfc-haak.r00	432dbc50
+lfc-haak.r01	94dd103f
+lfc-haak.r02	81384dc0
+lfc-haak.r03	1a317564
+lfc-haak.r04	2b5bc44c
+lfc-haak.r05	4a94cc6c
+lfc-haak.r06	8167739d
+lfc-haak.r07	d68738a2
+lfc-haak.rar	f83a3cee
+lfc-haak.sfv	8622ba82

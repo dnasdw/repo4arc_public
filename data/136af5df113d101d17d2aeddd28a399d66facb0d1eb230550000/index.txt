@@ -1,0 +1,5 @@
+v-gunlord_x.nfo	-	8321	1	0	0	0
+v-gunlord_x.r00	-	50000000	1	8321	0	1
+v-gunlord_x.r01	-	35915501	1	50008321	0	49
+v-gunlord_x.rar	-	50000000	1	85923822	0	84
+v-gunlord_x.sfv	-	78	1	135923822	0	132

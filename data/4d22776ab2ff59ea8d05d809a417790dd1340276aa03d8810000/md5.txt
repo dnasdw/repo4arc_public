@@ -1,0 +1,7 @@
+sxs-abc_match_with_me.nfo	2462e6e1047bf94f96cd217a6481ea84
+sxs-abc_match_with_me.r00	cedfad186b390ca32ea06d54e5b042f9
+sxs-abc_match_with_me.r01	51843a35fa6fb300bde39a39d50e2801
+sxs-abc_match_with_me.r02	69fc8c91ad5c2108cd991c73fc74066c
+sxs-abc_match_with_me.r03	2c58131814681a24d61835b7b1b0f339
+sxs-abc_match_with_me.rar	47054b234688bfde0d86d3903de62da6
+sxs-abc_match_with_me.sfv	fe244809151a9f82ff9f42b306467df3

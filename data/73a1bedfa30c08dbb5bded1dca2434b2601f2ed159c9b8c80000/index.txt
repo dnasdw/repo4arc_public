@@ -1,0 +1,3 @@
+v-picross_s_plus_dlc.nfo	-	5668	1	0	0	0
+v-picross_s_plus_dlc.rar	-	831482	1	5668	0	1
+v-picross_s_plus_dlc.sfv	-	35	1	837150	0	2

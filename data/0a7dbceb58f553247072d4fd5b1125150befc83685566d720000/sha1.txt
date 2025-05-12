@@ -1,0 +1,3 @@
+v-doom_1993_offline_fix.nfo	7e5f93a12481af7d432449e6399fbe5b58982564
+v-doom_1993_offline_fix.rar	42c7f08bdebe9a7768eaebc688c907d00494d707
+v-doom_1993_offline_fix.sfv	f1a99eb573b7983e7b3194078fd273a1b30cdcdc

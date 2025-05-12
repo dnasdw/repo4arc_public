@@ -1,0 +1,8 @@
+v-super_woden_gp_v65536.nfo	-	5824	1	0	0	0
+v-super_woden_gp_v65536.r00	-	50000000	1	5824	0	1
+v-super_woden_gp_v65536.r01	-	50000000	1	50005824	0	49
+v-super_woden_gp_v65536.r02	-	50000000	1	100005824	0	97
+v-super_woden_gp_v65536.r03	-	50000000	1	150005824	0	145
+v-super_woden_gp_v65536.r04	-	23685116	1	200005824	0	193
+v-super_woden_gp_v65536.rar	-	50000000	1	223690940	0	216
+v-super_woden_gp_v65536.sfv	-	228	1	273690940	0	264

@@ -1,0 +1,4 @@
+sxs-farm_mystery_v65536.nfo	ba559658df705a8cd2b5d1a6d244b85f
+sxs-farm_mystery_v65536.r00	29069fc5232b86293bf266f463732e5b
+sxs-farm_mystery_v65536.rar	8072738259b5c5fa53e06f56fee3986b
+sxs-farm_mystery_v65536.sfv	234946f057797ec2e457103571a370fb

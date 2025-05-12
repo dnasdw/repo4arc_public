@@ -1,0 +1,13 @@
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.nfo	-	7236	1	0	0	0
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.r00	-	50000000	1	7236	0	1
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.r01	-	50000000	1	50007236	0	49
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.r02	-	50000000	1	100007236	0	97
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.r03	-	50000000	1	150007236	0	145
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.r04	-	50000000	1	200007236	0	193
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.r05	-	50000000	1	250007236	0	241
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.r06	-	50000000	1	300007236	0	289
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.r07	-	50000000	1	350007236	0	337
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.r08	-	50000000	1	400007236	0	385
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.r09	-	47675820	1	450007236	0	433
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.rar	-	50000000	1	497683056	0	479
+v-atelier_ryza_2_lost_legends_and_the_secret_fairy_v196608.sfv	-	803	1	10154112	1	10

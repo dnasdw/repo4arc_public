@@ -1,0 +1,7 @@
+lfc-a8u3a_v65536.nfo	3bca9154
+lfc-a8u3a_v65536.r00	e4751f07
+lfc-a8u3a_v65536.r01	7d2243a2
+lfc-a8u3a_v65536.r02	5c90a7a9
+lfc-a8u3a_v65536.r03	b42fd89e
+lfc-a8u3a_v65536.rar	1931ab01
+lfc-a8u3a_v65536.sfv	0357f8b6

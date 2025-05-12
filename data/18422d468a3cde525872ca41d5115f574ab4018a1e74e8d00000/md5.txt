@@ -1,0 +1,8 @@
+v-super_woden_gp_v65536.nfo	ff77ccd8b63d553e72b636b2b8567591
+v-super_woden_gp_v65536.r00	6a2cae3daa208ba4d1f712efec27503e
+v-super_woden_gp_v65536.r01	0b7b2c4c50f429bb3a67b540027362e3
+v-super_woden_gp_v65536.r02	4e4f2068a99db69fe77e73e4ea5b9125
+v-super_woden_gp_v65536.r03	a3b79a1429d8239096c355bf8ab422b4
+v-super_woden_gp_v65536.r04	74f5556dbebd04ef792ffc7844718b64
+v-super_woden_gp_v65536.rar	492d29b0cb3b9453754832ed0bba4a71
+v-super_woden_gp_v65536.sfv	7cbc0f7b3032feae5a74e69ee1efd5d3

@@ -1,0 +1,5 @@
+sxs-tcheco_in_the_castle_of_lucio.nfo	-	5666	1	0	0	0
+sxs-tcheco_in_the_castle_of_lucio.r00	-	50000000	1	5666	0	1
+sxs-tcheco_in_the_castle_of_lucio.r01	-	38413111	1	50005666	0	49
+sxs-tcheco_in_the_castle_of_lucio.rar	-	50000000	1	88418777	0	86
+sxs-tcheco_in_the_castle_of_lucio.sfv	-	144	1	138418777	0	134

@@ -1,0 +1,15 @@
+v-type_rider.nfo	2e232613163578c70d0c7ebec7bf8554
+v-type_rider.r00	c6f9be08ec673309a5c2346f6dba647c
+v-type_rider.r01	ccae85526398431b2f9e7f54d8495471
+v-type_rider.r02	72f5b1b02c28385d91ee9b4164ac1551
+v-type_rider.r03	1798687a72202d0c377698a8f9cdd375
+v-type_rider.r04	f703370ec822b92d745735be07ae2d9b
+v-type_rider.r05	d53b6689ff652ac8dfd0e2bc6ac5b22f
+v-type_rider.r06	fbbc8a7704a081e3c8e7bf01e7221706
+v-type_rider.r07	653e2f81c949e86da219756bb7389bc1
+v-type_rider.r08	2b1ccf78a88eda2272fce7697efb22b6
+v-type_rider.r09	12bd96da02100ae6890bb62e805609bb
+v-type_rider.r10	daeeedccfaa4021b02a6f29cd15cc155
+v-type_rider.r11	82f8b912f38e5c2ca84d5c019b008dc5
+v-type_rider.rar	de83280952ff58b887e6134134c7debd
+v-type_rider.sfv	e72d2d1202b35c0ff34aa2c1fe309327

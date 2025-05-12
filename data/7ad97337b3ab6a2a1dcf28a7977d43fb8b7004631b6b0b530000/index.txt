@@ -1,0 +1,7 @@
+sxs-task_force_kampas.nfo	-	5354	1	0	0	0
+sxs-task_force_kampas.r00	-	50000000	1	5354	0	1
+sxs-task_force_kampas.r01	-	50000000	1	50005354	0	49
+sxs-task_force_kampas.r02	-	50000000	1	100005354	0	97
+sxs-task_force_kampas.r03	-	1444400	1	150005354	0	145
+sxs-task_force_kampas.rar	-	50000000	1	151449754	0	147
+sxs-task_force_kampas.sfv	-	180	1	201449754	0	195

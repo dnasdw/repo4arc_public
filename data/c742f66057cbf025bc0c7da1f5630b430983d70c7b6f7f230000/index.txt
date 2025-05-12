@@ -1,0 +1,4 @@
+sxs-breathing_fear.nfo	-	4262	1	0	0	0
+sxs-breathing_fear.r00	-	4190715	1	4262	0	1
+sxs-breathing_fear.rar	-	50000000	1	4194977	0	5
+sxs-breathing_fear.sfv	-	66	1	54194977	0	53

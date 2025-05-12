@@ -1,0 +1,7 @@
+sxs-dreamworks_all_star_kart_racing_v65536.nfo	375e7132
+sxs-dreamworks_all_star_kart_racing_v65536.r00	b273da94
+sxs-dreamworks_all_star_kart_racing_v65536.r01	613b20fd
+sxs-dreamworks_all_star_kart_racing_v65536.r02	786b6996
+sxs-dreamworks_all_star_kart_racing_v65536.r03	c4de2784
+sxs-dreamworks_all_star_kart_racing_v65536.rar	2962697d
+sxs-dreamworks_all_star_kart_racing_v65536.sfv	b342291f

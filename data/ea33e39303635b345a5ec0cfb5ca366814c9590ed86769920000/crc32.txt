@@ -1,0 +1,11 @@
+sxs-neko_navy_v196608.nfo	ae301de1
+sxs-neko_navy_v196608.r00	57b90b09
+sxs-neko_navy_v196608.r01	0a2d2228
+sxs-neko_navy_v196608.r02	29bbbaa2
+sxs-neko_navy_v196608.r03	f081d347
+sxs-neko_navy_v196608.r04	77be213f
+sxs-neko_navy_v196608.r05	99a1f4dd
+sxs-neko_navy_v196608.r06	eefed668
+sxs-neko_navy_v196608.r07	325b4e51
+sxs-neko_navy_v196608.rar	78bb0547
+sxs-neko_navy_v196608.sfv	e9f389fa

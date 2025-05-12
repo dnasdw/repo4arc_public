@@ -1,0 +1,5 @@
+lfc-smca.nfo	bde9258ed89e570093d2bb8c3dfa6a30
+lfc-smca.r00	4f6e4540f05c98f551b5da9711d7d784
+lfc-smca.r01	3a0a5162c48d035363bbef6cec086c13
+lfc-smca.rar	2eb2ed7e936e12736df4ed1bd2a5872f
+lfc-smca.sfv	ea0377af9aa3923455f16b74a2852134

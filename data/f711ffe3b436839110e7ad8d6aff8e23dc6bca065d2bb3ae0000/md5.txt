@@ -1,0 +1,5 @@
+lfc-orax.nfo	ec39218fcb8df718dcd89bb29b1b4106
+lfc-orax.r00	11723dc01e5598277eedb178b6c60f4f
+lfc-orax.r01	0a63b298634eecb62568d894a75b09bd
+lfc-orax.rar	04420706065d1064ebc54ed8b208cc15
+lfc-orax.sfv	ff9e532ec376334f8a786d7804214a2e

@@ -1,0 +1,5 @@
+sxs-final_fantasy_iv_v196608.nfo	70557f770708a3bb82bf17adee152cee
+sxs-final_fantasy_iv_v196608.r00	ad56a0abfcf28cf37d2a6ee32665206f
+sxs-final_fantasy_iv_v196608.r01	d74e89faeeb8473d24079ee590a96be5
+sxs-final_fantasy_iv_v196608.rar	cc820b2124a278368f5fac27b4f01858
+sxs-final_fantasy_iv_v196608.sfv	6eb72fd6ed1123f4431bd54ad9b40763

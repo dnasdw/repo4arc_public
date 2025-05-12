@@ -1,0 +1,4 @@
+lfc-toat.nfo	-	5691	1	0	0	0
+lfc-toat.r00	-	49974050	1	5691	0	1
+lfc-toat.rar	-	50000000	1	49979741	0	49
+lfc-toat.sfv	-	46	1	99979741	0	97

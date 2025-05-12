@@ -1,0 +1,13 @@
+v-contra_anniversary_collection.nfo	8873117f
+v-contra_anniversary_collection.r00	4c7a49f5
+v-contra_anniversary_collection.r01	7eba3793
+v-contra_anniversary_collection.r02	63189e0d
+v-contra_anniversary_collection.r03	d6d8cee1
+v-contra_anniversary_collection.r04	c775d360
+v-contra_anniversary_collection.r05	976a721b
+v-contra_anniversary_collection.r06	8717f785
+v-contra_anniversary_collection.r07	f02819bb
+v-contra_anniversary_collection.r08	978927c4
+v-contra_anniversary_collection.r09	9a0dcc3a
+v-contra_anniversary_collection.rar	722a9d9e
+v-contra_anniversary_collection.sfv	91d73e86

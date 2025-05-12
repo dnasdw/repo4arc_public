@@ -1,0 +1,5 @@
+sxs-dyna_bomb_v458752.nfo	-	4418	1	0	0	0
+sxs-dyna_bomb_v458752.r00	-	50000000	1	4418	0	1
+sxs-dyna_bomb_v458752.r01	-	11706484	1	50004418	0	49
+sxs-dyna_bomb_v458752.rar	-	50000000	1	61710902	0	61
+sxs-dyna_bomb_v458752.sfv	-	108	1	111710902	0	109

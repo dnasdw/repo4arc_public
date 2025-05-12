@@ -1,0 +1,6 @@
+bbb-n-ksakiosk.nfo	b64d993df8b75e00eedaba0ee11526cb3ca60d98
+bbb-n-ksakiosk.part1.rar	fcbd43a68e28ad374dd4953ffa4f8db55c785b2b
+bbb-n-ksakiosk.part2.rar	a29cdf1f5cee6062a569bf969e08a3715a10e738
+bbb-n-ksakiosk.part3.rar	a6601b55b2c78d3bb9443f67aeadd341b0d0f26f
+bbb-n-ksakiosk.part4.rar	cedc668d3789fde1bc9642d9df6b053f5f21f083
+bbb-n-ksakiosk.sfv	a88a4cf128b0f0f4a512ecf6fb17239be4ce0b59

@@ -1,0 +1,4 @@
+sxs-n64jp_v65536.nfo	0766a2b6
+sxs-n64jp_v65536.r00	fde5544a
+sxs-n64jp_v65536.rar	7b54745a
+sxs-n64jp_v65536.sfv	adcccd6c

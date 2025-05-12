@@ -1,0 +1,7 @@
+sxs-savage_halloween.nfo	f800be73e34d2fc4bb5282cf93294836
+sxs-savage_halloween.r00	b7477a3f6f99c299af8a9fc2468a60c3
+sxs-savage_halloween.r01	3a00ad360bdb03b3cb821cd4cb27b6bf
+sxs-savage_halloween.r02	c27764d9bd54fdd2c808155eb3a18368
+sxs-savage_halloween.r03	6ff03ab045d7ee83d6ce22497d5675a7
+sxs-savage_halloween.rar	5fcba44ea6698630f9a27e5459ba9f77
+sxs-savage_halloween.sfv	34dce15d9f6241421b59ab85d59b88a5

@@ -1,0 +1,3 @@
+sxs-ms_splosion_man_v327680.nfo	-	3950	1	0	0	0
+sxs-ms_splosion_man_v327680.rar	-	19455110	1	3950	0	1
+sxs-ms_splosion_man_v327680.sfv	-	42	1	19459060	0	20

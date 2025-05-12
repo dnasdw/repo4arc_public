@@ -1,0 +1,10 @@
+v-fightgods_v65536.nfo	1917a649
+v-fightgods_v65536.r00	d52634e4
+v-fightgods_v65536.r01	ab09a76a
+v-fightgods_v65536.r02	ef3cffab
+v-fightgods_v65536.r03	97dace34
+v-fightgods_v65536.r04	d9e16725
+v-fightgods_v65536.r05	55eec8e2
+v-fightgods_v65536.r06	bbdc9d46
+v-fightgods_v65536.rar	27f64f4d
+v-fightgods_v65536.sfv	09f2e124

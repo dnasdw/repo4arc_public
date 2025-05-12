@@ -1,0 +1,15 @@
+sxs-curse_of_the_dead_gods_v327680.nfo	d03a0d3b
+sxs-curse_of_the_dead_gods_v327680.r00	e4101a70
+sxs-curse_of_the_dead_gods_v327680.r01	95ea88e2
+sxs-curse_of_the_dead_gods_v327680.r02	779b52ef
+sxs-curse_of_the_dead_gods_v327680.r03	72bc90b9
+sxs-curse_of_the_dead_gods_v327680.r04	52a33ae5
+sxs-curse_of_the_dead_gods_v327680.r05	089134cb
+sxs-curse_of_the_dead_gods_v327680.r06	25b410df
+sxs-curse_of_the_dead_gods_v327680.r07	b34050c4
+sxs-curse_of_the_dead_gods_v327680.r08	9237055c
+sxs-curse_of_the_dead_gods_v327680.r09	c0d7450a
+sxs-curse_of_the_dead_gods_v327680.r10	80595157
+sxs-curse_of_the_dead_gods_v327680.r11	6d0379e2
+sxs-curse_of_the_dead_gods_v327680.rar	88560d1f
+sxs-curse_of_the_dead_gods_v327680.sfv	ce661808

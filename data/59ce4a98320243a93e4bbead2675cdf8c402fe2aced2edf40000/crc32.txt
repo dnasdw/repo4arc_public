@@ -1,0 +1,10 @@
+sxs-tetsumo_party.nfo	1f1309f0
+sxs-tetsumo_party.r00	96c0cc5b
+sxs-tetsumo_party.r01	ae225e13
+sxs-tetsumo_party.r02	09464d59
+sxs-tetsumo_party.r03	f416de05
+sxs-tetsumo_party.r04	5133671e
+sxs-tetsumo_party.r05	26ddbde3
+sxs-tetsumo_party.r06	e2cbf73e
+sxs-tetsumo_party.rar	81ded472
+sxs-tetsumo_party.sfv	1b7d8393

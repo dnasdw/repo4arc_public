@@ -1,0 +1,4 @@
+v-segamdc_v131072.nfo	d8509961
+v-segamdc_v131072.r00	0cf65e88
+v-segamdc_v131072.rar	0e007df6
+v-segamdc_v131072.sfv	caceb82d

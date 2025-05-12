@@ -1,0 +1,5 @@
+v-ffix_v131072.nfo	cfaf392b
+v-ffix_v131072.r00	d9800ad4
+v-ffix_v131072.r01	782e90db
+v-ffix_v131072.rar	8a0dbb60
+v-ffix_v131072.sfv	1f28ae6c

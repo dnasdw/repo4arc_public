@@ -1,0 +1,15 @@
+sxs-drag_racing_car_simulator.nfo	e05601fc
+sxs-drag_racing_car_simulator.r00	30bd24a4
+sxs-drag_racing_car_simulator.r01	0ff52ae1
+sxs-drag_racing_car_simulator.r02	79e17e06
+sxs-drag_racing_car_simulator.r03	f26ef00b
+sxs-drag_racing_car_simulator.r04	90dc5aff
+sxs-drag_racing_car_simulator.r05	80e036f4
+sxs-drag_racing_car_simulator.r06	5335b47c
+sxs-drag_racing_car_simulator.r07	e1bde23a
+sxs-drag_racing_car_simulator.r08	59f70e9a
+sxs-drag_racing_car_simulator.r09	58174971
+sxs-drag_racing_car_simulator.r10	44ee26bd
+sxs-drag_racing_car_simulator.r11	3bedc3cd
+sxs-drag_racing_car_simulator.rar	88d41c70
+sxs-drag_racing_car_simulator.sfv	1fe078b6

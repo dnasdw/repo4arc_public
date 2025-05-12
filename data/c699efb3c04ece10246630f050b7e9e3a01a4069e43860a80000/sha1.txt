@@ -1,0 +1,4 @@
+v-book_of_demons_v196608.nfo	57fa45c1fa0c635fdfe6582e8278138b9d8c551d
+v-book_of_demons_v196608.r00	02fa8584d7eb540f19da234742e8f5c6a47f7155
+v-book_of_demons_v196608.rar	80f1fa76a99a57232a810863753a57720ed6b75a
+v-book_of_demons_v196608.sfv	59264eaad9e587d4f83bcc6bec0c59a345a9fbe3

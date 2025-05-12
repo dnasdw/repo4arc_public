@@ -1,0 +1,4 @@
+sxs-slay_the_spire_v65536.nfo	06120fef2c91da11b485e564a96fea93c4207e90
+sxs-slay_the_spire_v65536.r00	aa82ea5f22f3847ab21eac0541d40aa876b381a2
+sxs-slay_the_spire_v65536.rar	504f7b9173bbd82acde65b5f6222a6afe1a0d443
+sxs-slay_the_spire_v65536.sfv	15ffef5a9b11d2961c8de689e0c7b566c82e8ffc

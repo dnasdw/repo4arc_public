@@ -1,0 +1,7 @@
+i-juicyrealm_v65536.nfo	6dc5ea70ac797f01369729ca9dec0d86
+i-juicyrealm_v65536.r00	eea45874a0ca121bb4702eae4312ac2e
+i-juicyrealm_v65536.r01	06056d2db08594eeee31453994d5fab8
+i-juicyrealm_v65536.r02	85a000cbd9abfd776e1f70c594d81f14
+i-juicyrealm_v65536.r03	c50560b9eb3ee06869978b87abedc2d6
+i-juicyrealm_v65536.rar	1cb4978f8026077655b38fc5ef525b64
+i-juicyrealm_v65536.sfv	38154cdd203d4c72a4b986a9b6bac70e

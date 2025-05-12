@@ -1,0 +1,6 @@
+v-papertris.nfo	c1800d03c5beabf8df161443ebeb0477
+v-papertris.r00	c96733433eb64a3c758b585a02329178
+v-papertris.r01	d6d9afe6d00e08b6ec7d1dbd1ad3f4ba
+v-papertris.r02	1b6e32d57c5a61e06ae372671bfcdb77
+v-papertris.rar	103f4e468e2219b0fbd986cf65e3bd14
+v-papertris.sfv	890562097e3192f8f5234d5997797dd2

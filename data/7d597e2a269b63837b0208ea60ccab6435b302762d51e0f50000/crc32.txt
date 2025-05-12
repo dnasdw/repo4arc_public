@@ -1,0 +1,5 @@
+sxs-maggie_the_magnet.nfo	0e8f8154
+sxs-maggie_the_magnet.r00	e24bc9a8
+sxs-maggie_the_magnet.r01	8afb3aa6
+sxs-maggie_the_magnet.rar	06c04d58
+sxs-maggie_the_magnet.sfv	2dbbb2c8

@@ -1,0 +1,15 @@
+l-mybrotherrabbit.nfo	-	1153	1	0	0	0
+l-mybrotherrabbit.r00	-	50000000	1	1153	0	1
+l-mybrotherrabbit.r01	-	50000000	1	50001153	0	49
+l-mybrotherrabbit.r02	-	50000000	1	100001153	0	97
+l-mybrotherrabbit.r03	-	50000000	1	150001153	0	145
+l-mybrotherrabbit.r04	-	50000000	1	200001153	0	193
+l-mybrotherrabbit.r05	-	50000000	1	250001153	0	241
+l-mybrotherrabbit.r06	-	50000000	1	300001153	0	289
+l-mybrotherrabbit.r07	-	50000000	1	350001153	0	337
+l-mybrotherrabbit.r08	-	50000000	1	400001153	0	385
+l-mybrotherrabbit.r09	-	50000000	1	450001153	0	433
+l-mybrotherrabbit.r10	-	50000000	1	500001153	0	481
+l-mybrotherrabbit.r11	-	43269290	1	12251264	1	12
+l-mybrotherrabbit.rar	-	50000000	1	55520554	1	54
+l-mybrotherrabbit.sfv	-	416	1	105520554	1	102

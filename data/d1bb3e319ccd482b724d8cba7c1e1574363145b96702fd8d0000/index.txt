@@ -1,0 +1,6 @@
+sxs-fireball_wizard.nfo	-	6680	1	0	0	0
+sxs-fireball_wizard.r00	-	100000000	1	6680	0	1
+sxs-fireball_wizard.r01	-	100000000	1	100006680	0	97
+sxs-fireball_wizard.r02	-	6073425	1	200006680	0	193
+sxs-fireball_wizard.rar	-	100000000	1	206080105	0	199
+sxs-fireball_wizard.sfv	-	136	1	306080105	0	295

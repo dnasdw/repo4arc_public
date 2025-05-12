@@ -1,0 +1,5 @@
+bbb-n-aet6a.nfo	-	5517	1	0	0	0
+bbb-n-aet6a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aet6a.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aet6a.part3.rar	-	226452280	1	500005517	0	479
+bbb-n-aet6a.sfv	-	96	1	188703544	1	180

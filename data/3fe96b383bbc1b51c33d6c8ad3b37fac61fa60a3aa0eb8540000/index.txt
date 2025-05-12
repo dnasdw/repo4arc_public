@@ -1,0 +1,4 @@
+sxs-bricky_to_me.nfo	-	5198	1	0	0	0
+sxs-bricky_to_me.r00	-	8760684	1	5198	0	1
+sxs-bricky_to_me.rar	-	50000000	1	8765882	0	10
+sxs-bricky_to_me.sfv	-	62	1	58765882	0	58

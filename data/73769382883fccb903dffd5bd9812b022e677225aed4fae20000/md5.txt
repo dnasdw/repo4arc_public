@@ -1,0 +1,5 @@
+sxs-amazing_breaker_v65536.nfo	ad598ee980e9b63a34b6bdca0549542c
+sxs-amazing_breaker_v65536.r00	9754ff1aa14e7a681d29fe1b72f27349
+sxs-amazing_breaker_v65536.r01	f91318a418fab5a7753a0e68929d1473
+sxs-amazing_breaker_v65536.rar	878cb299645ca7c06d7bb0fe35806b6f
+sxs-amazing_breaker_v65536.sfv	70e93014c08c0a30d332af2a2e6be604

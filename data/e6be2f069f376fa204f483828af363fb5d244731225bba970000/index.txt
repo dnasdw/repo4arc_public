@@ -1,0 +1,8 @@
+sxs-the_last_hero_of_nostalgaia_v131072.nfo	-	5666	1	0	0	0
+sxs-the_last_hero_of_nostalgaia_v131072.r00	-	100000000	1	5666	0	1
+sxs-the_last_hero_of_nostalgaia_v131072.r01	-	100000000	1	100005666	0	97
+sxs-the_last_hero_of_nostalgaia_v131072.r02	-	100000000	1	200005666	0	193
+sxs-the_last_hero_of_nostalgaia_v131072.r03	-	100000000	1	300005666	0	289
+sxs-the_last_hero_of_nostalgaia_v131072.r04	-	16919433	1	400005666	0	385
+sxs-the_last_hero_of_nostalgaia_v131072.rar	-	100000000	1	416925099	0	402
+sxs-the_last_hero_of_nostalgaia_v131072.sfv	-	324	1	516925099	0	498

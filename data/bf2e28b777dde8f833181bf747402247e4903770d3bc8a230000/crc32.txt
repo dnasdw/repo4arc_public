@@ -1,0 +1,16 @@
+sxs-crime_oclock_v131072.nfo	14dbc49a
+sxs-crime_oclock_v131072.r00	afe21d1f
+sxs-crime_oclock_v131072.r01	5eba1545
+sxs-crime_oclock_v131072.r02	37a5a05e
+sxs-crime_oclock_v131072.r03	80d6ba00
+sxs-crime_oclock_v131072.r04	93c48099
+sxs-crime_oclock_v131072.r05	403cefa5
+sxs-crime_oclock_v131072.r06	336c9aaf
+sxs-crime_oclock_v131072.r07	e8ff476f
+sxs-crime_oclock_v131072.r08	882085e5
+sxs-crime_oclock_v131072.r09	ec2de88e
+sxs-crime_oclock_v131072.r10	7c42a4b8
+sxs-crime_oclock_v131072.r11	7d8ec6c5
+sxs-crime_oclock_v131072.r12	93768f3d
+sxs-crime_oclock_v131072.rar	c591f398
+sxs-crime_oclock_v131072.sfv	6f3d2471

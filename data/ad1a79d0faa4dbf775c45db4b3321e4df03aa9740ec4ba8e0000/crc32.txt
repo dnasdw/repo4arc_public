@@ -1,0 +1,16 @@
+hr-a5hqbv65536.nfo	f97f6a6c
+hr-a5hqbv65536.r00	26ce68c0
+hr-a5hqbv65536.r01	46214579
+hr-a5hqbv65536.r02	22c21642
+hr-a5hqbv65536.r03	da994947
+hr-a5hqbv65536.r04	9f58b6eb
+hr-a5hqbv65536.r05	456383cf
+hr-a5hqbv65536.r06	e3af7dfc
+hr-a5hqbv65536.r07	c02649c0
+hr-a5hqbv65536.r08	27d459c4
+hr-a5hqbv65536.r09	0ddeea93
+hr-a5hqbv65536.r10	00600625
+hr-a5hqbv65536.r11	f7ccdfc3
+hr-a5hqbv65536.r12	8a917f43
+hr-a5hqbv65536.rar	9c0dfdc3
+hr-a5hqbv65536.sfv	b2f9da46

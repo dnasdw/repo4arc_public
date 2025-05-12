@@ -1,0 +1,4 @@
+sxs-neon_mine.nfo	59fe248a583337ab0b0d401aad7200c5
+sxs-neon_mine.r00	f25edbc7245f9d58854671404a07440e
+sxs-neon_mine.rar	e0217ad021c7c85ba71fa91f65852c7f
+sxs-neon_mine.sfv	49896ad1e6baf63e248ac63e60db9ecb

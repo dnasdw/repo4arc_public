@@ -1,0 +1,15 @@
+sxs-buggy_race_racing_master.nfo	-	5354	1	0	0	0
+sxs-buggy_race_racing_master.r00	-	100000000	1	5354	0	1
+sxs-buggy_race_racing_master.r01	-	100000000	1	100005354	0	97
+sxs-buggy_race_racing_master.r02	-	100000000	1	200005354	0	193
+sxs-buggy_race_racing_master.r03	-	100000000	1	300005354	0	289
+sxs-buggy_race_racing_master.r04	-	100000000	1	400005354	0	385
+sxs-buggy_race_racing_master.r05	-	100000000	1	500005354	0	481
+sxs-buggy_race_racing_master.r06	-	100000000	1	62251264	1	60
+sxs-buggy_race_racing_master.r07	-	100000000	1	162251264	1	156
+sxs-buggy_race_racing_master.r08	-	100000000	1	262251264	1	252
+sxs-buggy_race_racing_master.r09	-	100000000	1	362251264	1	348
+sxs-buggy_race_racing_master.r10	-	100000000	1	462251264	1	444
+sxs-buggy_race_racing_master.r11	-	22823198	1	24502528	2	24
+sxs-buggy_race_racing_master.rar	-	100000000	1	47325726	2	46
+sxs-buggy_race_racing_master.sfv	-	559	1	147325726	2	142

@@ -1,0 +1,5 @@
+sxs-debris_infinity_v196608.nfo	-	4731	1	0	0	0
+sxs-debris_infinity_v196608.r00	-	50000000	1	4731	0	1
+sxs-debris_infinity_v196608.r01	-	34903045	1	50004731	0	49
+sxs-debris_infinity_v196608.rar	-	50000000	1	84907776	0	83
+sxs-debris_infinity_v196608.sfv	-	126	1	134907776	0	131

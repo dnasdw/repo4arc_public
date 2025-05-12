@@ -1,0 +1,4 @@
+sxs-death_or_treat_v131072.nfo	43de986f812ceeda09c0b938f42f3a042438817b
+sxs-death_or_treat_v131072.r00	57c61d926e20ef408ceb059798c572c4d79249b2
+sxs-death_or_treat_v131072.rar	162cd9dc34383a1d28f74b842740f04376dff1d5
+sxs-death_or_treat_v131072.sfv	d0c93dfc491d8240743e33cedd29a660a4f3b059

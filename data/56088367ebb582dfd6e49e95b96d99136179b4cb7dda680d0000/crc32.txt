@@ -1,0 +1,11 @@
+v-quake_v196608.nfo	f27af127
+v-quake_v196608.r00	91671e90
+v-quake_v196608.r01	46024734
+v-quake_v196608.r02	5308e85a
+v-quake_v196608.r03	7c828459
+v-quake_v196608.r04	efb17369
+v-quake_v196608.r05	baa42499
+v-quake_v196608.r06	2545c289
+v-quake_v196608.r07	4fa3b7d0
+v-quake_v196608.rar	d09c7a12
+v-quake_v196608.sfv	a8da4e32

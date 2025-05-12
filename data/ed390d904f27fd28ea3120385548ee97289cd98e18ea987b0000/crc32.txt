@@ -1,0 +1,6 @@
+sxs-farming_simulator_20_v196608.nfo	9c4b0b10
+sxs-farming_simulator_20_v196608.r00	88acdb5f
+sxs-farming_simulator_20_v196608.r01	1f21f240
+sxs-farming_simulator_20_v196608.r02	d0f2c922
+sxs-farming_simulator_20_v196608.rar	a163e1e3
+sxs-farming_simulator_20_v196608.sfv	596cbcee

@@ -1,0 +1,4 @@
+v-deadcraft_v262144.nfo	-	5980	1	0	0	0
+v-deadcraft_v262144.r00	-	37498496	1	5980	0	1
+v-deadcraft_v262144.rar	-	100000000	1	37504476	0	37
+v-deadcraft_v262144.sfv	-	68	1	137504476	0	133

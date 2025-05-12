@@ -1,0 +1,4 @@
+lfc-zuga.nfo	-	5165	1	0	0	0
+lfc-zuga.r00	-	17850750	1	5165	0	1
+lfc-zuga.rar	-	50000000	1	17855915	0	19
+lfc-zuga.sfv	-	46	1	67855915	0	67

@@ -1,0 +1,10 @@
+sxs-snk40ac_v196608.nfo	5965264b
+sxs-snk40ac_v196608.r00	2278995d
+sxs-snk40ac_v196608.r01	6ac22759
+sxs-snk40ac_v196608.r02	1e818a6d
+sxs-snk40ac_v196608.r03	40e450f9
+sxs-snk40ac_v196608.r04	37d61bd5
+sxs-snk40ac_v196608.r05	7eca855c
+sxs-snk40ac_v196608.r06	404f6498
+sxs-snk40ac_v196608.rar	a13e16b5
+sxs-snk40ac_v196608.sfv	082c6072

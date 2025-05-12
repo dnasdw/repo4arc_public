@@ -1,0 +1,3 @@
+v-doom_1993_anomaly_report_dlc.nfo	f6f08a22e6570b7ce435f9486760c571
+v-doom_1993_anomaly_report_dlc.rar	46786dec9448f4b1c8ddf6ad23b241ff
+v-doom_1993_anomaly_report_dlc.sfv	c7b380431bb56fbe2018376f87900039

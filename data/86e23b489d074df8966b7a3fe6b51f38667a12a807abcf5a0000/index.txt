@@ -1,0 +1,8 @@
+v-lego_bricktales_v720896.nfo	-	9256	1	0	0	0
+v-lego_bricktales_v720896.r00	-	100000000	1	9256	0	1
+v-lego_bricktales_v720896.r01	-	100000000	1	100009256	0	97
+v-lego_bricktales_v720896.r02	-	100000000	1	200009256	0	193
+v-lego_bricktales_v720896.r03	-	100000000	1	300009256	0	289
+v-lego_bricktales_v720896.r04	-	36986688	1	400009256	0	385
+v-lego_bricktales_v720896.rar	-	100000000	1	436995944	0	421
+v-lego_bricktales_v720896.sfv	-	240	1	0	1	0

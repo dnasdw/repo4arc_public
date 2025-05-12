@@ -1,0 +1,8 @@
+v-quake_honey_dlc.nfo	-	11596	1	0	0	0
+v-quake_honey_dlc.r00	-	50000000	1	11596	0	1
+v-quake_honey_dlc.r01	-	50000000	1	50011596	0	49
+v-quake_honey_dlc.r02	-	50000000	1	100011596	0	97
+v-quake_honey_dlc.r03	-	50000000	1	150011596	0	145
+v-quake_honey_dlc.r04	-	13547199	1	200011596	0	193
+v-quake_honey_dlc.rar	-	50000000	1	213558795	0	206
+v-quake_honey_dlc.sfv	-	192	1	263558795	0	254

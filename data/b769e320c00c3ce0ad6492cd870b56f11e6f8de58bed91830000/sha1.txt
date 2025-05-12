@@ -1,0 +1,6 @@
+lfc-agathaknife.nfo	42f7208a47a2fa6232affeec2c661afda7c73d84
+lfc-agathaknife.r00	f69833ff8be28f1653ccd5d661b9fe29778831b2
+lfc-agathaknife.r01	9625d0a456859ad200c795f85e0f0f6570e00916
+lfc-agathaknife.r02	e7671ec2bad3dd97e66e38f22329fe0bb5b0f715
+lfc-agathaknife.rar	d35cd1e4e7d639300a26b00028fda733f81e3ed3
+lfc-agathaknife.sfv	d186e3e64075018a89d71d95e4d55bb303338edd

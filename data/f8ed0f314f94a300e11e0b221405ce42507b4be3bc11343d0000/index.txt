@@ -1,0 +1,13 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-labyrinth_of_zangetsu.jpg	-	151717	1	0	0	0
+sxs-labyrinth_of_zangetsu.nfo	-	7928	1	151717	0	1
+sxs-labyrinth_of_zangetsu.r00	-	100000000	1	159645	0	2
+sxs-labyrinth_of_zangetsu.r01	-	100000000	1	100159645	0	98
+sxs-labyrinth_of_zangetsu.r02	-	100000000	1	200159645	0	194
+sxs-labyrinth_of_zangetsu.r03	-	100000000	1	300159645	0	290
+sxs-labyrinth_of_zangetsu.r04	-	100000000	1	400159645	0	386
+sxs-labyrinth_of_zangetsu.r05	-	100000000	1	500159645	0	482
+sxs-labyrinth_of_zangetsu.r06	-	100000000	1	62251264	1	60
+sxs-labyrinth_of_zangetsu.r07	-	38641671	1	162251264	1	156
+sxs-labyrinth_of_zangetsu.rar	-	100000000	1	200892935	1	193
+sxs-labyrinth_of_zangetsu.sfv	-	360	1	300892935	1	289

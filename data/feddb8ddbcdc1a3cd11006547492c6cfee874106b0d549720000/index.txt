@@ -1,0 +1,3 @@
+sxs-dreamcutter_v65536.nfo	-	5744	1	0	0	0
+sxs-dreamcutter_v65536.rar	-	40164905	1	5744	0	1
+sxs-dreamcutter_v65536.sfv	-	37	1	40170649	0	40

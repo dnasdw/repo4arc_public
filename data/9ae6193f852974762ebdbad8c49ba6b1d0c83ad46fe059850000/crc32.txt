@@ -1,0 +1,17 @@
+v-in_sound_mind_v196608.nfo	de960411
+v-in_sound_mind_v196608.r00	7fc69058
+v-in_sound_mind_v196608.r01	f50b6b9a
+v-in_sound_mind_v196608.r02	d2184b01
+v-in_sound_mind_v196608.r03	616e7b3b
+v-in_sound_mind_v196608.r04	3d5d089a
+v-in_sound_mind_v196608.r05	9783d9b7
+v-in_sound_mind_v196608.r06	851d24f6
+v-in_sound_mind_v196608.r07	2d6b039a
+v-in_sound_mind_v196608.r08	0d2de6f1
+v-in_sound_mind_v196608.r09	600b276f
+v-in_sound_mind_v196608.r10	9659a170
+v-in_sound_mind_v196608.r11	bca82c8b
+v-in_sound_mind_v196608.r12	a9e84ea4
+v-in_sound_mind_v196608.r13	2c3571c7
+v-in_sound_mind_v196608.rar	ea8c011e
+v-in_sound_mind_v196608.sfv	a129be4d

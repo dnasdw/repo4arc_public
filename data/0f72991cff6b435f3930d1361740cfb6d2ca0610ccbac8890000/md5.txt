@@ -1,0 +1,12 @@
+lfc-sospootupdv1.0.3.nfo	a26de1b50aba488ca85c70733631e3b8
+lfc-sospootupdv1.0.3.r00	03446a2679fc70504d5dc9f7ff2677e8
+lfc-sospootupdv1.0.3.r01	9c8b77a35bf5e70e7cf01892fa9c79c3
+lfc-sospootupdv1.0.3.r02	edc4675b84caa1cb3e110a8de9e76faf
+lfc-sospootupdv1.0.3.r03	710077a654e705fbc350b9236767b17a
+lfc-sospootupdv1.0.3.r04	28da841f76b1f1720c839b020a70d0d6
+lfc-sospootupdv1.0.3.r05	a9eb3b83ade177cadaf2c5232175cd5f
+lfc-sospootupdv1.0.3.r06	4c1c443c18eeeba7842163f9e8d579e4
+lfc-sospootupdv1.0.3.r07	aa809a4fc45455ae35cb2b941b99ebc8
+lfc-sospootupdv1.0.3.r08	d6112b29c5571317937b5b0c3566068a
+lfc-sospootupdv1.0.3.rar	b10f48c9215e00679da3cccdb60d8f5d
+lfc-sospootupdv1.0.3.sfv	42dd0d1b9e51862ffd1736ca49f4cc9d

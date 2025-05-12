@@ -1,0 +1,4 @@
+sxs-jump_challenge.nfo	-	5198	1	0	0	0
+sxs-jump_challenge.r00	-	11807607	1	5198	0	1
+sxs-jump_challenge.rar	-	100000000	1	11812805	0	13
+sxs-jump_challenge.sfv	-	66	1	111812805	0	109

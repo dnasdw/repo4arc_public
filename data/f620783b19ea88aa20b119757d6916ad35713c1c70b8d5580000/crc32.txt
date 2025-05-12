@@ -1,0 +1,17 @@
+hr-ayp5a.nfo	4ccea0f1
+hr-ayp5a.r00	d635f3d2
+hr-ayp5a.r01	39dd40ab
+hr-ayp5a.r02	901c3cec
+hr-ayp5a.r03	b0cd2eb7
+hr-ayp5a.r04	eeff3461
+hr-ayp5a.r05	b315d95a
+hr-ayp5a.r06	ee90d3d0
+hr-ayp5a.r07	3ac65303
+hr-ayp5a.r08	551ce7d5
+hr-ayp5a.r09	47acbbf8
+hr-ayp5a.r10	0c4c598f
+hr-ayp5a.r11	42e81acc
+hr-ayp5a.rar	21ab6b36
+hr-ayp5a.sfv	c25dd828
+Proof	00000000
+Proof/hr-ayp5a.jpg	a1d4ea58

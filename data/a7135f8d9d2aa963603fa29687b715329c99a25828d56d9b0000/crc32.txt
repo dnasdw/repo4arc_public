@@ -1,0 +1,16 @@
+v-doom_3_v327680.nfo	bafe72e8
+v-doom_3_v327680.r00	42e3c663
+v-doom_3_v327680.r01	12b2670c
+v-doom_3_v327680.r02	80ab8cb5
+v-doom_3_v327680.r03	1d302463
+v-doom_3_v327680.r04	c84da9b0
+v-doom_3_v327680.r05	66096aeb
+v-doom_3_v327680.r06	5255c8c6
+v-doom_3_v327680.r07	0bca09ba
+v-doom_3_v327680.r08	ede5fce5
+v-doom_3_v327680.r09	693d1977
+v-doom_3_v327680.r10	beeedc5d
+v-doom_3_v327680.r11	5a9244c1
+v-doom_3_v327680.r12	e8f12632
+v-doom_3_v327680.rar	781e97b8
+v-doom_3_v327680.sfv	e87610e8

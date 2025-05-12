@@ -1,0 +1,3 @@
+sxs-dnf_duel_whos_next_dlc_2_brawler.nfo	b04e82ca9165ffe56221d172b0a77bded64f642c
+sxs-dnf_duel_whos_next_dlc_2_brawler.rar	168686290517981c8bdab5993df9546b214f18b6
+sxs-dnf_duel_whos_next_dlc_2_brawler.sfv	0a089887577aac336910316ee2954af82bca121f

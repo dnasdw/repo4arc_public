@@ -1,0 +1,3 @@
+sxs-kalinur.nfo	-	5354	1	0	0	0
+sxs-kalinur.rar	-	54294552	1	5354	0	1
+sxs-kalinur.sfv	-	26	1	54299906	0	53

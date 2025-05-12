@@ -1,0 +1,15 @@
+v-risk_of_rain_2_v720896.nfo	30abc1d6
+v-risk_of_rain_2_v720896.r00	f7d8227d
+v-risk_of_rain_2_v720896.r01	0c46da59
+v-risk_of_rain_2_v720896.r02	c3e66fea
+v-risk_of_rain_2_v720896.r03	62e70195
+v-risk_of_rain_2_v720896.r04	320fdfaa
+v-risk_of_rain_2_v720896.r05	48fb0717
+v-risk_of_rain_2_v720896.r06	387b844c
+v-risk_of_rain_2_v720896.r07	cfd4e4f0
+v-risk_of_rain_2_v720896.r08	0f87b9f4
+v-risk_of_rain_2_v720896.r09	4094cd16
+v-risk_of_rain_2_v720896.r10	c7e4c2db
+v-risk_of_rain_2_v720896.r11	943461c7
+v-risk_of_rain_2_v720896.rar	aadbedfe
+v-risk_of_rain_2_v720896.sfv	7ada5c48

@@ -1,0 +1,4 @@
+bbb-n-ajaea.nfo	-	5517	1	0	0	0
+bbb-n-ajaea.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ajaea.part2.rar	-	159960311	1	250005517	0	240
+bbb-n-ajaea.sfv	-	64	1	409965828	0	393

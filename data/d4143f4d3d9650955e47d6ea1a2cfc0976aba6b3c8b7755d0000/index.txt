@@ -1,0 +1,3 @@
+sxs-cogen_sword_of_rewind_dlc.nfo	-	5978	1	0	0	0
+sxs-cogen_sword_of_rewind_dlc.rar	-	312273	1	5978	0	1
+sxs-cogen_sword_of_rewind_dlc.sfv	-	44	1	318251	0	2

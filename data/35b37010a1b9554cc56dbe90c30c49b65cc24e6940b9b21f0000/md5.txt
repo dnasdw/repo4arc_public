@@ -1,0 +1,8 @@
+v-sonic_origins_v393216.nfo	daa3a617beb0e0e315f5904c9a89f739
+v-sonic_origins_v393216.r00	3b3cefb3e9bee570c08b7002566d7935
+v-sonic_origins_v393216.r01	00c210d686dfc2e05bea64b2d20ac1de
+v-sonic_origins_v393216.r02	2a82c959f8672ca854cab9355525070f
+v-sonic_origins_v393216.r03	93ee1824e55215b6d7e260ea4f50b26d
+v-sonic_origins_v393216.r04	821cccebe3125a26d2ed241c9b5afa6a
+v-sonic_origins_v393216.rar	98aa1287e4c8fd219ba3683b5e8f2a36
+v-sonic_origins_v393216.sfv	78aaa413d08250fef8e1f897deb9cf22

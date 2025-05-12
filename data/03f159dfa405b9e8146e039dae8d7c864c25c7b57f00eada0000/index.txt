@@ -1,0 +1,5 @@
+sxs-chess_brain_dark_troops.nfo	-	5355	1	0	0	0
+sxs-chess_brain_dark_troops.r00	-	50000000	1	5355	0	1
+sxs-chess_brain_dark_troops.r01	-	6604619	1	50005355	0	49
+sxs-chess_brain_dark_troops.rar	-	50000000	1	56609974	0	56
+sxs-chess_brain_dark_troops.sfv	-	126	1	106609974	0	104

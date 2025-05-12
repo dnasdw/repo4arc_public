@@ -1,0 +1,5 @@
+sxs-mini_metro_v196608.nfo	decee13ad3734495485cf9f962faa3ba
+sxs-mini_metro_v196608.r00	bd225199b9e81f058403798c80ad9484
+sxs-mini_metro_v196608.r01	41a606a369111b6a8b3e80ab7fd07239
+sxs-mini_metro_v196608.rar	68ef8829a0c45556bb291fff9ce14619
+sxs-mini_metro_v196608.sfv	24e0b4d24449eb9ed917afb48588c6d8

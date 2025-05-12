@@ -1,0 +1,7 @@
+sxs-fashion_dreamer_v196608.nfo	-	6066	1	0	0	0
+sxs-fashion_dreamer_v196608.r00	-	100000000	1	6066	0	1
+sxs-fashion_dreamer_v196608.r01	-	100000000	1	100006066	0	97
+sxs-fashion_dreamer_v196608.r02	-	100000000	1	200006066	0	193
+sxs-fashion_dreamer_v196608.r03	-	15344911	1	300006066	0	289
+sxs-fashion_dreamer_v196608.rar	-	100000000	1	315350977	0	304
+sxs-fashion_dreamer_v196608.sfv	-	210	1	415350977	0	400

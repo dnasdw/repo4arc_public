@@ -1,0 +1,6 @@
+sxs-pascals_wager_definitive_edition_v65536.nfo	-	6610	1	0	0	0
+sxs-pascals_wager_definitive_edition_v65536.r00	-	50000000	1	6610	0	1
+sxs-pascals_wager_definitive_edition_v65536.r01	-	50000000	1	50006610	0	49
+sxs-pascals_wager_definitive_edition_v65536.r02	-	17779653	1	100006610	0	97
+sxs-pascals_wager_definitive_edition_v65536.rar	-	50000000	1	117786263	0	114
+sxs-pascals_wager_definitive_edition_v65536.sfv	-	232	1	167786263	0	162

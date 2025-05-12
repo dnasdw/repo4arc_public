@@ -1,0 +1,5 @@
+sxs-access_denied.nfo	-	5121	1	0	0	0
+sxs-access_denied.r00	-	50000000	1	5121	0	1
+sxs-access_denied.r01	-	30956613	1	50005121	0	49
+sxs-access_denied.rar	-	50000000	1	80961734	0	79
+sxs-access_denied.sfv	-	96	1	130961734	0	127

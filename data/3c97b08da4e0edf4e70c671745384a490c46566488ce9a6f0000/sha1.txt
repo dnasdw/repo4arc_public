@@ -1,0 +1,4 @@
+lfc-toat.nfo	2fde63a7bd1b0d9573e832a6fa2821f0a5b9e51b
+lfc-toat.r00	c07f8117aa94ce72faeaf21c219e7be5b5fde096
+lfc-toat.rar	8fa5de2ae84e6b8538260b5312b7b1b19a72837c
+lfc-toat.sfv	db4cd3b77981e0c22ac2237f4e0d9cceea56315a

@@ -1,0 +1,5 @@
+v-arcade_classics_anniversary_collection_v196608.nfo	-	8554	1	0	0	0
+v-arcade_classics_anniversary_collection_v196608.r00	-	50000000	1	8554	0	1
+v-arcade_classics_anniversary_collection_v196608.r01	-	4194081	1	50008554	0	49
+v-arcade_classics_anniversary_collection_v196608.rar	-	50000000	1	54202635	0	53
+v-arcade_classics_anniversary_collection_v196608.sfv	-	189	1	104202635	0	101

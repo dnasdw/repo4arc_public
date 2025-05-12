@@ -1,0 +1,8 @@
+v-mozart_requiem_v196608.nfo	c37bf11b
+v-mozart_requiem_v196608.r00	57175063
+v-mozart_requiem_v196608.r01	291e6f86
+v-mozart_requiem_v196608.r02	5ba38a67
+v-mozart_requiem_v196608.r03	ffd25275
+v-mozart_requiem_v196608.r04	7f782262
+v-mozart_requiem_v196608.rar	fd483074
+v-mozart_requiem_v196608.sfv	21fcbba6

@@ -1,0 +1,10 @@
+sxs-juicy_realm_v131072.nfo	01358750
+sxs-juicy_realm_v131072.r00	5e5bff01
+sxs-juicy_realm_v131072.r01	16b5d84d
+sxs-juicy_realm_v131072.r02	4a9f9db1
+sxs-juicy_realm_v131072.r03	acc6276d
+sxs-juicy_realm_v131072.r04	790edc0b
+sxs-juicy_realm_v131072.r05	5103af21
+sxs-juicy_realm_v131072.r06	00eb843d
+sxs-juicy_realm_v131072.rar	1bbbb3a6
+sxs-juicy_realm_v131072.sfv	b9f31d46

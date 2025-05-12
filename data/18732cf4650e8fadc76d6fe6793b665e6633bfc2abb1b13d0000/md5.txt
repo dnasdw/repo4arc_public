@@ -1,0 +1,16 @@
+lfc-cscl.nfo	568c9139c0ccd0a6636dbe30d7778591
+lfc-cscl.r00	832cdff44149c8989ec6d292dbdbb85e
+lfc-cscl.r01	d0e9f48a4412a9e317ff6bcf1a4812c2
+lfc-cscl.r02	13dabadf6c6b81a82f8ffe2a6f3180d7
+lfc-cscl.r03	596f7aba3c566f368eaac45d026328a0
+lfc-cscl.r04	3d283fd9eb15d1dcb7a0f70c277df01e
+lfc-cscl.r05	8295832f4ea26c26ea5354808a54ecd4
+lfc-cscl.r06	dd730bcace393ea474c29d1b7acd4eb8
+lfc-cscl.r07	df84eaddbf5a4b8be483bd8fad9b5e1b
+lfc-cscl.r08	0ab406c3a480f9f7c4818c8158a7ea67
+lfc-cscl.r09	405b27b64f19179be311f87705f46385
+lfc-cscl.r10	7959912c64f08633ea03fba0687fab34
+lfc-cscl.r11	815ff7d0ff78c30b2beeb566fddf5a4d
+lfc-cscl.r12	b7fc98f9df5ad59e7f1b7318ae9809df
+lfc-cscl.rar	1d16eff024eff62920cbd82c98f2be7b
+lfc-cscl.sfv	39ff51cc9abb993565f51da781049eb3

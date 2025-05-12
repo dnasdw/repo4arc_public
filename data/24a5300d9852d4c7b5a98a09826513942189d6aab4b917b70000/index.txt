@@ -1,0 +1,4 @@
+sxs-silent_world_v196608.nfo	-	4886	1	0	0	0
+sxs-silent_world_v196608.r00	-	16228825	1	4886	0	1
+sxs-silent_world_v196608.rar	-	50000000	1	16233711	0	17
+sxs-silent_world_v196608.sfv	-	78	1	66233711	0	65

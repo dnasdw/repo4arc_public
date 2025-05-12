@@ -1,0 +1,5 @@
+sxs-dr_franks_build_a_boyfriend.nfo	-	5354	1	0	0	0
+sxs-dr_franks_build_a_boyfriend.r00	-	100000000	1	5354	0	1
+sxs-dr_franks_build_a_boyfriend.r01	-	34495255	1	100005354	0	97
+sxs-dr_franks_build_a_boyfriend.rar	-	100000000	1	134500609	0	130
+sxs-dr_franks_build_a_boyfriend.sfv	-	138	1	234500609	0	226

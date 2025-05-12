@@ -1,0 +1,11 @@
+sxs-arcade_fuzz.nfo	6060213924a7c504dc5d5c557e346eda
+sxs-arcade_fuzz.r00	3c80034bbe3cce20edd6885a44b4d7c4
+sxs-arcade_fuzz.r01	ea4fbc2a3f9f8f187fa3706624c13dcd
+sxs-arcade_fuzz.r02	76e9acee6c8d7591d84e9347ca48da91
+sxs-arcade_fuzz.r03	e4c0236cd435efc1bfd47631116eafd4
+sxs-arcade_fuzz.r04	6bab9261357083500057f014cc21744a
+sxs-arcade_fuzz.r05	4641f618616f7b72a50538b8bd9eaca4
+sxs-arcade_fuzz.r06	83a4afa7c841bd771121b1c54937079b
+sxs-arcade_fuzz.r07	4f0a3e687365993e38c07298fe7e7574
+sxs-arcade_fuzz.rar	4b8e4a9e2e65e3aae989b2b299fc41a9
+sxs-arcade_fuzz.sfv	8b7b896cc2932dda402b5a7f6a0090cf

@@ -1,0 +1,8 @@
+sxs-retimed_v196608.nfo	37310ea3
+sxs-retimed_v196608.r00	f941bcc1
+sxs-retimed_v196608.r01	d898a7e5
+sxs-retimed_v196608.r02	7ec770ff
+sxs-retimed_v196608.r03	ebc6f28c
+sxs-retimed_v196608.r04	08362532
+sxs-retimed_v196608.rar	8c0a05a3
+sxs-retimed_v196608.sfv	b90e3a4a

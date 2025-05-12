@@ -1,0 +1,3 @@
+v-risk_of_rain_returns_v196608.nfo	-	10192	1	0	0	0
+v-risk_of_rain_returns_v196608.rar	-	65520189	1	10192	0	1
+v-risk_of_rain_returns_v196608.sfv	-	45	1	65530381	0	64

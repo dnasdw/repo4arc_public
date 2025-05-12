@@ -1,0 +1,10 @@
+sxs-pktu.nfo	d780693e
+sxs-pktu.r00	3588d995
+sxs-pktu.r01	5ffe868d
+sxs-pktu.r02	c55c8a84
+sxs-pktu.r03	1af95f7e
+sxs-pktu.r04	0a32a8a9
+sxs-pktu.r05	d882fcfa
+sxs-pktu.r06	e477a401
+sxs-pktu.rar	a2982373
+sxs-pktu.sfv	1bfd500a

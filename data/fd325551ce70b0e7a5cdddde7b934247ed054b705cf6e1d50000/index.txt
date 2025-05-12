@@ -1,0 +1,15 @@
+sxs-curse_of_the_dead_gods_v327680.nfo	-	5588	1	0	0	0
+sxs-curse_of_the_dead_gods_v327680.r00	-	100000000	1	5588	0	1
+sxs-curse_of_the_dead_gods_v327680.r01	-	100000000	1	100005588	0	97
+sxs-curse_of_the_dead_gods_v327680.r02	-	100000000	1	200005588	0	193
+sxs-curse_of_the_dead_gods_v327680.r03	-	100000000	1	300005588	0	289
+sxs-curse_of_the_dead_gods_v327680.r04	-	100000000	1	400005588	0	385
+sxs-curse_of_the_dead_gods_v327680.r05	-	100000000	1	500005588	0	481
+sxs-curse_of_the_dead_gods_v327680.r06	-	100000000	1	62251264	1	60
+sxs-curse_of_the_dead_gods_v327680.r07	-	100000000	1	162251264	1	156
+sxs-curse_of_the_dead_gods_v327680.r08	-	100000000	1	262251264	1	252
+sxs-curse_of_the_dead_gods_v327680.r09	-	100000000	1	362251264	1	348
+sxs-curse_of_the_dead_gods_v327680.r10	-	100000000	1	462251264	1	444
+sxs-curse_of_the_dead_gods_v327680.r11	-	54822254	1	24502528	2	24
+sxs-curse_of_the_dead_gods_v327680.rar	-	100000000	1	79324782	2	77
+sxs-curse_of_the_dead_gods_v327680.sfv	-	637	1	179324782	2	173

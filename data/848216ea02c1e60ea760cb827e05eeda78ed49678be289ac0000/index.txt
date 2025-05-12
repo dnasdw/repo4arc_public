@@ -1,0 +1,12 @@
+v-nos_new_operating_system.nfo	-	5512	1	0	0	0
+v-nos_new_operating_system.r00	-	50000000	1	5512	0	1
+v-nos_new_operating_system.r01	-	50000000	1	50005512	0	49
+v-nos_new_operating_system.r02	-	50000000	1	100005512	0	97
+v-nos_new_operating_system.r03	-	50000000	1	150005512	0	145
+v-nos_new_operating_system.r04	-	50000000	1	200005512	0	193
+v-nos_new_operating_system.r05	-	50000000	1	250005512	0	241
+v-nos_new_operating_system.r06	-	50000000	1	300005512	0	289
+v-nos_new_operating_system.r07	-	50000000	1	350005512	0	337
+v-nos_new_operating_system.r08	-	9144258	1	400005512	0	385
+v-nos_new_operating_system.rar	-	50000000	1	409149770	0	394
+v-nos_new_operating_system.sfv	-	410	1	459149770	0	442

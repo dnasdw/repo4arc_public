@@ -1,0 +1,8 @@
+v-gunvolt_chronicles_luminous_avenger_ix_v196608.nfo	-	7852	1	0	0	0
+v-gunvolt_chronicles_luminous_avenger_ix_v196608.r00	-	50000000	1	7852	0	1
+v-gunvolt_chronicles_luminous_avenger_ix_v196608.r01	-	50000000	1	50007852	0	49
+v-gunvolt_chronicles_luminous_avenger_ix_v196608.r02	-	50000000	1	100007852	0	97
+v-gunvolt_chronicles_luminous_avenger_ix_v196608.r03	-	50000000	1	150007852	0	145
+v-gunvolt_chronicles_luminous_avenger_ix_v196608.r04	-	40410627	1	200007852	0	193
+v-gunvolt_chronicles_luminous_avenger_ix_v196608.rar	-	50000000	1	240418479	0	232
+v-gunvolt_chronicles_luminous_avenger_ix_v196608.sfv	-	378	1	290418479	0	280

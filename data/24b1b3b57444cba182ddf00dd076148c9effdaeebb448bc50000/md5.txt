@@ -1,0 +1,6 @@
+sxs-oooa.nfo	60d8b89ef09d7b5106a70a15d1813b8a
+sxs-oooa.r00	ec5548c3a31229ef4c52464f2d8fa0a0
+sxs-oooa.r01	c7a03b2dac1f9c512213dc920d297742
+sxs-oooa.r02	098759652a14f5a412c3e71ffe5cc079
+sxs-oooa.rar	8df8fe8c4908a1a47b4157ad00c495c3
+sxs-oooa.sfv	6a11806a1b7ffc493ea0bcf9be7dc7e9

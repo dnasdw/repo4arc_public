@@ -1,0 +1,10 @@
+sxs-cricket_through_the_ages.nfo	-	5120	1	0	0	0
+sxs-cricket_through_the_ages.r00	-	100000000	1	5120	0	1
+sxs-cricket_through_the_ages.r01	-	100000000	1	100005120	0	97
+sxs-cricket_through_the_ages.r02	-	100000000	1	200005120	0	193
+sxs-cricket_through_the_ages.r03	-	100000000	1	300005120	0	289
+sxs-cricket_through_the_ages.r04	-	100000000	1	400005120	0	385
+sxs-cricket_through_the_ages.r05	-	100000000	1	500005120	0	481
+sxs-cricket_through_the_ages.r06	-	7110678	1	62251264	1	60
+sxs-cricket_through_the_ages.rar	-	100000000	1	69361942	1	67
+sxs-cricket_through_the_ages.sfv	-	344	1	169361942	1	163

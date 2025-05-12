@@ -1,0 +1,13 @@
+l-calico_v196608.nfo	d8a87ca1
+l-calico_v196608.r00	759ddd3d
+l-calico_v196608.r01	e4cc2992
+l-calico_v196608.r02	dad0f63c
+l-calico_v196608.r03	96dfe996
+l-calico_v196608.r04	60815710
+l-calico_v196608.r05	1550f371
+l-calico_v196608.r06	a65ddc0b
+l-calico_v196608.r07	637410bf
+l-calico_v196608.r08	626d976e
+l-calico_v196608.r09	f4d79288
+l-calico_v196608.rar	17299b84
+l-calico_v196608.sfv	2b015eea

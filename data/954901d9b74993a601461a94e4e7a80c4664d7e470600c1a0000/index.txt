@@ -1,0 +1,10 @@
+sxs-theft_ride_legacy.nfo	-	4886	1	0	0	0
+sxs-theft_ride_legacy.r00	-	100000000	1	4886	0	1
+sxs-theft_ride_legacy.r01	-	100000000	1	100004886	0	97
+sxs-theft_ride_legacy.r02	-	100000000	1	200004886	0	193
+sxs-theft_ride_legacy.r03	-	100000000	1	300004886	0	289
+sxs-theft_ride_legacy.r04	-	100000000	1	400004886	0	385
+sxs-theft_ride_legacy.r05	-	100000000	1	500004886	0	481
+sxs-theft_ride_legacy.r06	-	91721182	1	62251264	1	60
+sxs-theft_ride_legacy.rar	-	100000000	1	153972446	1	148
+sxs-theft_ride_legacy.sfv	-	288	1	253972446	1	244

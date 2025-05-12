@@ -1,0 +1,10 @@
+sxs-fae_farm_v655360.nfo	3d8940aa1cbf08ade6da390d00ed35b3
+sxs-fae_farm_v655360.r00	382f9208cf12a25cb210de5cc92ffa74
+sxs-fae_farm_v655360.r01	e4266b0ecede80537c2b168edad78cb1
+sxs-fae_farm_v655360.r02	16aac5f77705a15d26296067b83c5336
+sxs-fae_farm_v655360.r03	2b8540f4f4c3939d27dde539efb3af16
+sxs-fae_farm_v655360.r04	4805d4a8d13cac3d66f33aaf4081e09c
+sxs-fae_farm_v655360.r05	b758c48ef64a1adf58794e0932c317d1
+sxs-fae_farm_v655360.r06	0e369cacd49311054e85c3c8e426cf8b
+sxs-fae_farm_v655360.rar	c4bbfdb84d74c1aa1f64da78298e9c8b
+sxs-fae_farm_v655360.sfv	03641d55c78d09e9b1af34697d7bc4cb

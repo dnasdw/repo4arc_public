@@ -1,0 +1,6 @@
+sxs-operacion_triunfo_2017_v262144.nfo	-	8051	1	0	0	0
+sxs-operacion_triunfo_2017_v262144.r00	-	50000000	1	8051	0	1
+sxs-operacion_triunfo_2017_v262144.r01	-	50000000	1	50008051	0	49
+sxs-operacion_triunfo_2017_v262144.r02	-	32526535	1	100008051	0	97
+sxs-operacion_triunfo_2017_v262144.rar	-	50000000	1	132534586	0	129
+sxs-operacion_triunfo_2017_v262144.sfv	-	196	1	182534586	0	177

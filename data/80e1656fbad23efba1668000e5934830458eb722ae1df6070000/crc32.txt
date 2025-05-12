@@ -1,0 +1,14 @@
+lfc-ecrossminton.nfo	85048c1e
+lfc-ecrossminton.r00	80454992
+lfc-ecrossminton.r01	97944c80
+lfc-ecrossminton.r02	4a491b60
+lfc-ecrossminton.r03	217f03cf
+lfc-ecrossminton.r04	89fb0143
+lfc-ecrossminton.r05	859ff8ad
+lfc-ecrossminton.r06	ee01c87e
+lfc-ecrossminton.r07	cc039ee4
+lfc-ecrossminton.r08	512473bd
+lfc-ecrossminton.r09	61e877cf
+lfc-ecrossminton.r10	93a8f56d
+lfc-ecrossminton.rar	9427f165
+lfc-ecrossminton.sfv	5798b2b8

@@ -1,0 +1,4 @@
+sxs-nes_v1245184.nfo	3f1b28c93d5ffce384f0d5fb939a0456
+sxs-nes_v1245184.r00	7b2a6e7c9a650aeef2a4c635dec5f066
+sxs-nes_v1245184.rar	b45c5b9b5d7a7fb418f02a970d544b9e
+sxs-nes_v1245184.sfv	82c92b72bfab9e97608dd4e1c3edb6c6

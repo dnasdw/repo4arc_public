@@ -1,0 +1,8 @@
+v-motor4_v196608.nfo	ce65b3a0
+v-motor4_v196608.r00	9840a542
+v-motor4_v196608.r01	bebd6b1a
+v-motor4_v196608.r02	cc28391d
+v-motor4_v196608.r03	989be453
+v-motor4_v196608.r04	b11d3006
+v-motor4_v196608.rar	3a55ece9
+v-motor4_v196608.sfv	045de301

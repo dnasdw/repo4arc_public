@@ -1,0 +1,3 @@
+sxs-ffccre_dlc.nfo	-	9800	1	0	0	0
+sxs-ffccre_dlc.rar	-	1247258	1	9800	0	1
+sxs-ffccre_dlc.sfv	-	29	1	1257058	0	3

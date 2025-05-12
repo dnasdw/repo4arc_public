@@ -1,0 +1,14 @@
+sxs-destroy_all_humans_v65536.nfo	d04489ef
+sxs-destroy_all_humans_v65536.r00	2c8a5dac
+sxs-destroy_all_humans_v65536.r01	eb06a63d
+sxs-destroy_all_humans_v65536.r02	eb76b3c8
+sxs-destroy_all_humans_v65536.r03	4bdbc640
+sxs-destroy_all_humans_v65536.r04	a63e1bd0
+sxs-destroy_all_humans_v65536.r05	104f377f
+sxs-destroy_all_humans_v65536.r06	c2a0ea1f
+sxs-destroy_all_humans_v65536.r07	ad6612e4
+sxs-destroy_all_humans_v65536.r08	5b5ad48e
+sxs-destroy_all_humans_v65536.r09	9934431d
+sxs-destroy_all_humans_v65536.r10	c91f8d45
+sxs-destroy_all_humans_v65536.rar	4ab806de
+sxs-destroy_all_humans_v65536.sfv	3c74c09a

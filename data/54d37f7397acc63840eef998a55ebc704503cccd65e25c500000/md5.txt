@@ -1,0 +1,6 @@
+sxs-word_forward.nfo	365d154c8a1949c1e0dd6a9d8170a976
+sxs-word_forward.r00	f3f7d0aaedf5c578531f492c611362eb
+sxs-word_forward.r01	9d713229ea6c161ba55efff92689bea5
+sxs-word_forward.r02	40b3611af7da948bab33e688fc5247ff
+sxs-word_forward.rar	de38bd2404c2685e58a8c7c423287399
+sxs-word_forward.sfv	1976b4258e0bb0076d77ee8eaeaa0f59

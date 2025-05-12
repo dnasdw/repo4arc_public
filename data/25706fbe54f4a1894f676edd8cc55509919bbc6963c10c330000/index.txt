@@ -1,0 +1,13 @@
+v-bullion_the_curse_of_the_cut_throat_cattle.nfo	-	5356	1	0	0	0
+v-bullion_the_curse_of_the_cut_throat_cattle.r00	-	100000000	1	5356	0	1
+v-bullion_the_curse_of_the_cut_throat_cattle.r01	-	100000000	1	100005356	0	97
+v-bullion_the_curse_of_the_cut_throat_cattle.r02	-	100000000	1	200005356	0	193
+v-bullion_the_curse_of_the_cut_throat_cattle.r03	-	100000000	1	300005356	0	289
+v-bullion_the_curse_of_the_cut_throat_cattle.r04	-	100000000	1	400005356	0	385
+v-bullion_the_curse_of_the_cut_throat_cattle.r05	-	100000000	1	500005356	0	481
+v-bullion_the_curse_of_the_cut_throat_cattle.r06	-	100000000	1	62251264	1	60
+v-bullion_the_curse_of_the_cut_throat_cattle.r07	-	100000000	1	162251264	1	156
+v-bullion_the_curse_of_the_cut_throat_cattle.r08	-	100000000	1	262251264	1	252
+v-bullion_the_curse_of_the_cut_throat_cattle.r09	-	23501064	1	362251264	1	348
+v-bullion_the_curse_of_the_cut_throat_cattle.rar	-	100000000	1	385752328	1	371
+v-bullion_the_curse_of_the_cut_throat_cattle.sfv	-	649	1	485752328	1	467

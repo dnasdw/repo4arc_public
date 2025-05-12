@@ -1,0 +1,5 @@
+sxs-fluffy_cubed.nfo	-	5120	1	0	0	0
+sxs-fluffy_cubed.r00	-	50000000	1	5120	0	1
+sxs-fluffy_cubed.r01	-	1535619	1	50005120	0	49
+sxs-fluffy_cubed.rar	-	50000000	1	51540739	0	51
+sxs-fluffy_cubed.sfv	-	93	1	101540739	0	99

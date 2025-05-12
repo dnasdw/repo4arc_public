@@ -1,0 +1,3 @@
+v-ssbu_fighters_pass_dlc.nfo	-	6994	1	0	0	0
+v-ssbu_fighters_pass_dlc.rar	-	727307	1	6994	0	1
+v-ssbu_fighters_pass_dlc.sfv	-	39	1	734301	0	2

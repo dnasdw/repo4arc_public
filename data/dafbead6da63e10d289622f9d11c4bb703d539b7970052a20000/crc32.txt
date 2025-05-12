@@ -1,0 +1,8 @@
+sxs-knights_of_grayfang.nfo	ded9a484
+sxs-knights_of_grayfang.r00	b1e850be
+sxs-knights_of_grayfang.r01	56504470
+sxs-knights_of_grayfang.r02	bf0bcddc
+sxs-knights_of_grayfang.r03	03b2b9a3
+sxs-knights_of_grayfang.r04	7d6000a0
+sxs-knights_of_grayfang.rar	abcf14d0
+sxs-knights_of_grayfang.sfv	1177ecd8

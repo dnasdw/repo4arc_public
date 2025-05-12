@@ -1,0 +1,4 @@
+sxs-final_fantasy_ii_v131072.nfo	ef25ef0f054deebd1c248c3850da2f0e8104f9b7
+sxs-final_fantasy_ii_v131072.r00	e68d1d5237051253f6e242a9a33a9e0c733e6d5c
+sxs-final_fantasy_ii_v131072.rar	b0839705835540e23a06a10a15fac55fe52cb16a
+sxs-final_fantasy_ii_v131072.sfv	caa9275e32554becbdfb80c7473b7dc1f651af47

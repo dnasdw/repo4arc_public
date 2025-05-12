@@ -1,0 +1,10 @@
+delight.nfo	7b183b16
+dl-torntales.r00	96b43eec
+dl-torntales.r01	4815672f
+dl-torntales.r02	4733528a
+dl-torntales.r03	00525a61
+dl-torntales.r04	1cdb7552
+dl-torntales.r05	129cb7f7
+dl-torntales.r06	f2e11df2
+dl-torntales.rar	cbf263e8
+dl-torntales.sfv	3b583490

@@ -1,0 +1,12 @@
+sxs-pikuniku.nfo	22165d810e1151fc05472e61b6e71241
+sxs-pikuniku.r00	036f2e33a41eafdfb8c8eda1d269bb5b
+sxs-pikuniku.r01	aa1906828915b3e1c7e2bfb111b00371
+sxs-pikuniku.r02	92903863bc46e3785478963a72121579
+sxs-pikuniku.r03	50c77c44b4de1c19d0e16ecfcc507225
+sxs-pikuniku.r04	d749d2874d4a2632b78b6ae58d7fa578
+sxs-pikuniku.r05	5a5ff773b02b6a5c17e089a11de27b49
+sxs-pikuniku.r06	0d6ff8b3456278bf79b5e78a67b72974
+sxs-pikuniku.r07	506bcb0c9109cea80bdecda4e40d041b
+sxs-pikuniku.r08	5372633656bb3fc0e945957aac326de1
+sxs-pikuniku.rar	26efa6ad0c7dd35c92b9f8056dc7add1
+sxs-pikuniku.sfv	9a3c6523b9cb2e3eff244545b1a055c8

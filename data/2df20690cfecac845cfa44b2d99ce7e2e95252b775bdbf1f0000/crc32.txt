@@ -1,0 +1,9 @@
+sxs-felix_the_reaper_v131072.nfo	d6633616
+sxs-felix_the_reaper_v131072.r00	5ec389d0
+sxs-felix_the_reaper_v131072.r01	4f350b39
+sxs-felix_the_reaper_v131072.r02	2880fef4
+sxs-felix_the_reaper_v131072.r03	fc87c0f5
+sxs-felix_the_reaper_v131072.r04	cd684388
+sxs-felix_the_reaper_v131072.r05	72f454a1
+sxs-felix_the_reaper_v131072.rar	2548d301
+sxs-felix_the_reaper_v131072.sfv	f27fd095

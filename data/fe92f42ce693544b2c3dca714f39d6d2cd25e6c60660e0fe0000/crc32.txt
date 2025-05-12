@@ -1,0 +1,3 @@
+sxs-blaster_master_zero_dlc.nfo	db3d9795
+sxs-blaster_master_zero_dlc.rar	f9b38048
+sxs-blaster_master_zero_dlc.sfv	4dddc380

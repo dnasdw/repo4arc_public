@@ -1,0 +1,10 @@
+v-the_lord_of_darkness_the_awakening_of_the_light.nfo	-	7706	1	0	0	0
+v-the_lord_of_darkness_the_awakening_of_the_light.r00	-	100000000	1	7706	0	1
+v-the_lord_of_darkness_the_awakening_of_the_light.r01	-	100000000	1	100007706	0	97
+v-the_lord_of_darkness_the_awakening_of_the_light.r02	-	100000000	1	200007706	0	193
+v-the_lord_of_darkness_the_awakening_of_the_light.r03	-	100000000	1	300007706	0	289
+v-the_lord_of_darkness_the_awakening_of_the_light.r04	-	100000000	1	400007706	0	385
+v-the_lord_of_darkness_the_awakening_of_the_light.r05	-	100000000	1	500007706	0	481
+v-the_lord_of_darkness_the_awakening_of_the_light.r06	-	51889351	1	62251264	1	60
+v-the_lord_of_darkness_the_awakening_of_the_light.rar	-	100000000	1	114140615	1	110
+v-the_lord_of_darkness_the_awakening_of_the_light.sfv	-	512	1	214140615	1	206

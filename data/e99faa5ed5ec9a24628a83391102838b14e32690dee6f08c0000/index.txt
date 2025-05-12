@@ -1,0 +1,10 @@
+sxs-dont_starve_nintendo_switch_edition_v393216.nfo	-	4730	1	0	0	0
+sxs-dont_starve_nintendo_switch_edition_v393216.r00	-	50000000	1	4730	0	1
+sxs-dont_starve_nintendo_switch_edition_v393216.r01	-	50000000	1	50004730	0	49
+sxs-dont_starve_nintendo_switch_edition_v393216.r02	-	50000000	1	100004730	0	97
+sxs-dont_starve_nintendo_switch_edition_v393216.r03	-	50000000	1	150004730	0	145
+sxs-dont_starve_nintendo_switch_edition_v393216.r04	-	50000000	1	200004730	0	193
+sxs-dont_starve_nintendo_switch_edition_v393216.r05	-	50000000	1	250004730	0	241
+sxs-dont_starve_nintendo_switch_edition_v393216.r06	-	17526992	1	300004730	0	289
+sxs-dont_starve_nintendo_switch_edition_v393216.rar	-	50000000	1	317531722	0	306
+sxs-dont_starve_nintendo_switch_edition_v393216.sfv	-	496	1	367531722	0	354

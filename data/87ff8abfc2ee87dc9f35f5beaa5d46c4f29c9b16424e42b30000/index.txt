@@ -1,0 +1,4 @@
+lfc-losn.nfo	-	5159	1	0	0	0
+lfc-losn.r00	-	47368244	1	5159	0	1
+lfc-losn.rar	-	50000000	1	47373403	0	47
+lfc-losn.sfv	-	46	1	97373403	0	95

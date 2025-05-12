@@ -1,0 +1,5 @@
+sxs-singled_out.nfo	5ea6b8e2691cae187dc22df44936b118
+sxs-singled_out.r00	b26d5e750b04b278c65c2f2c962d0156
+sxs-singled_out.r01	81781f8965253dbd1f0a7f65e843e46c
+sxs-singled_out.rar	d8c2dda304f8b362706cae09dd7c551f
+sxs-singled_out.sfv	75d7a10bde5c5823f90bb3cab5f97495

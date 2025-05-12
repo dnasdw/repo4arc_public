@@ -1,0 +1,5 @@
+v-skater_xl_v65536.nfo	1d05f225d227ea79a57b578d0b48ba428cb98dc3
+v-skater_xl_v65536.r00	e8bd18710beb89d6db6bf6ccead19678e24136c3
+v-skater_xl_v65536.r01	331bad091a614eedeafbca1995a2641384f28bf0
+v-skater_xl_v65536.rar	d2ac41ae8046737ce17c4eefeeaeede495914d9c
+v-skater_xl_v65536.sfv	a10b6e76962a3d092884236c005552982a7dfe40

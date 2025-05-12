@@ -1,0 +1,17 @@
+lfc-njmc.nfo	798bfc7edeed8ea73afd92879fb00dc1
+lfc-njmc.r00	8d2a8ca0a6440d2d5e8cc6956b982af8
+lfc-njmc.r01	1a70b1206220172b55ccf0cc72519bea
+lfc-njmc.r02	c0519589deea8bbfbee4ed2f44cb39d8
+lfc-njmc.r03	757f135338c6bbeef9f447bdad33f9da
+lfc-njmc.r04	0f4204b394dc56f488a7e29d0e13bcec
+lfc-njmc.r05	4a63efae5c9f950e599e6c4907ca6244
+lfc-njmc.r06	6c9475bef146f27612a0777f2c2e5fbc
+lfc-njmc.r07	7cf54a78ad948ac866d1e5c8aaa4cabb
+lfc-njmc.r08	de34a52c9784b5b753b2d30526f139aa
+lfc-njmc.r09	d5017e153693261a9a2e39886b827c6e
+lfc-njmc.r10	db56da6e56174683d163000066fecaf2
+lfc-njmc.r11	fc945e037d68f6f8eb55aca367fd6442
+lfc-njmc.r12	6839cf0a9f3ecb55410f6a8bd2df3251
+lfc-njmc.r13	c48b00fd48e67a2c4c79ff2aba7c1cd8
+lfc-njmc.rar	306005034cefd123b7776fc177fce82e
+lfc-njmc.sfv	3ff35d7e5b55b8f0dbac90528b2ffffd

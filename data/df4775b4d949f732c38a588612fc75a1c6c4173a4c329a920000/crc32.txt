@@ -1,0 +1,4 @@
+sxs-kof94_v65536.nfo	4a9dd6fb
+sxs-kof94_v65536.r00	db55cd58
+sxs-kof94_v65536.rar	7fa12a83
+sxs-kof94_v65536.sfv	8b08ca75

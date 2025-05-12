@@ -1,0 +1,13 @@
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.nfo	-	4964	1	0	0	0
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.r00	-	50000000	1	4964	0	1
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.r01	-	50000000	1	50004964	0	49
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.r02	-	50000000	1	100004964	0	97
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.r03	-	50000000	1	150004964	0	145
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.r04	-	50000000	1	200004964	0	193
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.r05	-	50000000	1	250004964	0	241
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.r06	-	50000000	1	300004964	0	289
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.r07	-	50000000	1	350004964	0	337
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.r08	-	50000000	1	400004964	0	385
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.r09	-	36094708	1	450004964	0	433
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.rar	-	50000000	1	486099672	0	468
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v196608.sfv	-	770	1	536099672	0	516

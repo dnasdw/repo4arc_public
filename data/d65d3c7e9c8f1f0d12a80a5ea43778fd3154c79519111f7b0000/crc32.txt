@@ -1,0 +1,5 @@
+sxs-nes_v458752.nfo	15913666
+sxs-nes_v458752.r00	e72e8a93
+sxs-nes_v458752.r01	b85b3c8f
+sxs-nes_v458752.rar	3f0fdc32
+sxs-nes_v458752.sfv	6edabf45

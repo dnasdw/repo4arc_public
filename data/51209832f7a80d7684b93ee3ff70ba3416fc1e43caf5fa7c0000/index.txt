@@ -1,0 +1,3 @@
+sxs-yatzi_v196608.nfo	-	4418	1	0	0	0
+sxs-yatzi_v196608.rar	-	92553254	1	4418	0	1
+sxs-yatzi_v196608.sfv	-	32	1	92557672	0	90

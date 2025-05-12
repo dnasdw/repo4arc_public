@@ -1,0 +1,3 @@
+hr-awgwb-mrxnightmare-dlc.nfo	-	11339	1	0	0	0
+hr-awgwb-mrxnightmare-dlc.rar	-	118405	1	11339	0	1
+hr-awgwb-mrxnightmare-dlc.sfv	-	40	1	129744	0	2

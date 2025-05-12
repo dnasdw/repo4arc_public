@@ -1,0 +1,14 @@
+sxs-desolatium_v65536.nfo	e6111dde
+sxs-desolatium_v65536.r00	a73441a0
+sxs-desolatium_v65536.r01	282b2cd6
+sxs-desolatium_v65536.r02	7f2bd9f5
+sxs-desolatium_v65536.r03	f72a6f15
+sxs-desolatium_v65536.r04	4b2d6d07
+sxs-desolatium_v65536.r05	2ae2b3f5
+sxs-desolatium_v65536.r06	af717aa3
+sxs-desolatium_v65536.r07	83d10a2d
+sxs-desolatium_v65536.r08	2fdd37c6
+sxs-desolatium_v65536.r09	703b4912
+sxs-desolatium_v65536.r10	f5d4ffaf
+sxs-desolatium_v65536.rar	f7eaf210
+sxs-desolatium_v65536.sfv	efe07e8b

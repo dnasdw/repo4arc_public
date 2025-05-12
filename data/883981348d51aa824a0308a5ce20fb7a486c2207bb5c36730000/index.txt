@@ -1,0 +1,7 @@
+sxs-sparkle_2_evo_v65536.nfo	-	5744	1	0	0	0
+sxs-sparkle_2_evo_v65536.r00	-	50000000	1	5744	0	1
+sxs-sparkle_2_evo_v65536.r01	-	50000000	1	50005744	0	49
+sxs-sparkle_2_evo_v65536.r02	-	50000000	1	100005744	0	97
+sxs-sparkle_2_evo_v65536.r03	-	25592396	1	150005744	0	145
+sxs-sparkle_2_evo_v65536.rar	-	50000000	1	175598140	0	170
+sxs-sparkle_2_evo_v65536.sfv	-	195	1	225598140	0	218

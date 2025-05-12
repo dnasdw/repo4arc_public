@@ -1,0 +1,11 @@
+v-spopar_v65536.nfo	59e4fa17
+v-spopar_v65536.r00	bd219ccb
+v-spopar_v65536.r01	0d740bc3
+v-spopar_v65536.r02	9660002c
+v-spopar_v65536.r03	01cf7903
+v-spopar_v65536.r04	00ba78df
+v-spopar_v65536.r05	dc41ca16
+v-spopar_v65536.r06	91acbd78
+v-spopar_v65536.r07	e61eb246
+v-spopar_v65536.rar	e3d3447a
+v-spopar_v65536.sfv	8879b5dd

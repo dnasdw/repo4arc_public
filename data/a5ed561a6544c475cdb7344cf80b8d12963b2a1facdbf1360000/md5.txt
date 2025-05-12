@@ -1,0 +1,5 @@
+sxs-duck_life_adventure_v65536.nfo	3834807b638e082872b580134a510171
+sxs-duck_life_adventure_v65536.r00	29f457e206c10e5b87d1ae764466e587
+sxs-duck_life_adventure_v65536.r01	8eda7884a1c6b929060e893a37d6724e
+sxs-duck_life_adventure_v65536.rar	565522347046d3e57018d91e30364a57
+sxs-duck_life_adventure_v65536.sfv	5d7f857d5ba13a55ba74a91e17e1cb36

@@ -1,0 +1,5 @@
+sxs-the_forest_quartet_v131072.nfo	-	8240	1	0	0	0
+sxs-the_forest_quartet_v131072.r00	-	100000000	1	8240	0	1
+sxs-the_forest_quartet_v131072.r01	-	75256597	1	100008240	0	97
+sxs-the_forest_quartet_v131072.rar	-	100000000	1	175264837	0	169
+sxs-the_forest_quartet_v131072.sfv	-	135	1	275264837	0	265

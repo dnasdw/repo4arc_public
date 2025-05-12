@@ -1,0 +1,15 @@
+delight.nfo	ab355f81f637ebfcfa9cd736a7427267
+dl-agathaabc.r00	5e69fba40ed63036c377c77f0adf4e82
+dl-agathaabc.r01	f0ee832cd9e06e93ac46ba151e4d4083
+dl-agathaabc.r02	2284d4474c064a956096d3b4035c9640
+dl-agathaabc.r03	3d3ed7fdfc86105a7e7ac1bceb925d91
+dl-agathaabc.r04	da834997cf236692f5e7a47b5a066d83
+dl-agathaabc.r05	406a7e51badb032e27c7c0196d6c01ec
+dl-agathaabc.r06	9152de5545a144fde7c8fb0e31d9c806
+dl-agathaabc.r07	789a3b0f6a7c9fd079da000aa027a142
+dl-agathaabc.r08	e6dbc8aa4712a7d5e301a16d6d84089f
+dl-agathaabc.r09	c1e657150af0f38a4b930aba84bd9781
+dl-agathaabc.r10	98584dcf376da7d64445a02d242e650a
+dl-agathaabc.r11	8e657175450c9bce85898339cdb3b5b1
+dl-agathaabc.rar	1e17d400678940d10308d569a7e18c19
+dl-agathaabc.sfv	46ab3e275b26c446dcd118d962a6552f

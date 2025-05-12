@@ -1,0 +1,15 @@
+n-ascrtec_v131072.nfo	2c789614
+n-ascrtec_v131072.r00	0f1123a6
+n-ascrtec_v131072.r01	0ac47011
+n-ascrtec_v131072.r02	a7aa3714
+n-ascrtec_v131072.r03	5b3e8207
+n-ascrtec_v131072.r04	bae08444
+n-ascrtec_v131072.r05	1617962f
+n-ascrtec_v131072.r06	cc579afb
+n-ascrtec_v131072.r07	c9393535
+n-ascrtec_v131072.r08	e5ca3912
+n-ascrtec_v131072.r09	88a3c8dd
+n-ascrtec_v131072.r10	80c844ca
+n-ascrtec_v131072.r11	dc13d867
+n-ascrtec_v131072.rar	e00acdc9
+n-ascrtec_v131072.sfv	da604d3b

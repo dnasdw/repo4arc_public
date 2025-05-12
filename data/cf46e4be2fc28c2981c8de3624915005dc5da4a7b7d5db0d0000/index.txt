@@ -1,0 +1,4 @@
+sxs-drowning_v131072.nfo	-	3951	1	0	0	0
+sxs-drowning_v131072.r00	-	13665745	1	3951	0	1
+sxs-drowning_v131072.rar	-	50000000	1	13669696	0	15
+sxs-drowning_v131072.sfv	-	70	1	63669696	0	63

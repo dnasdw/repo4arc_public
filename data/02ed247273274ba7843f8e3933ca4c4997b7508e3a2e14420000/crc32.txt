@@ -1,0 +1,8 @@
+brw-mnab_v131072.nfo	fee64520
+brw-mnab_v131072.r00	6439cfee
+brw-mnab_v131072.r01	270b5d29
+brw-mnab_v131072.r02	cc73585a
+brw-mnab_v131072.r03	a5f0698e
+brw-mnab_v131072.r04	058db289
+brw-mnab_v131072.rar	94eb2a6b
+brw-mnab_v131072.sfv	c7d447b2

@@ -1,0 +1,6 @@
+v-songbird_symphony_v65536.nfo	-	6214	1	0	0	0
+v-songbird_symphony_v65536.r00	-	50000000	1	6214	0	1
+v-songbird_symphony_v65536.r01	-	50000000	1	50006214	0	49
+v-songbird_symphony_v65536.r02	-	1571666	1	100006214	0	97
+v-songbird_symphony_v65536.rar	-	50000000	1	101577880	0	99
+v-songbird_symphony_v65536.sfv	-	164	1	151577880	0	147

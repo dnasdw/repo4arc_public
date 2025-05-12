@@ -1,0 +1,8 @@
+sxs-anglerfish.nfo	236f6cb2
+sxs-anglerfish.r00	14f877d5
+sxs-anglerfish.r01	45a33c9d
+sxs-anglerfish.r02	81d17036
+sxs-anglerfish.r03	a2978e12
+sxs-anglerfish.r04	898b25a8
+sxs-anglerfish.rar	c38248a3
+sxs-anglerfish.sfv	6b9fd728

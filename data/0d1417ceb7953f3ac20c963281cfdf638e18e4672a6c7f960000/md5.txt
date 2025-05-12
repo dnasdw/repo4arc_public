@@ -1,0 +1,4 @@
+sxs-fairune_collection_v131072.nfo	158de7fb53a0d472ba6fc4fbef6833ee
+sxs-fairune_collection_v131072.r00	8a797f365516c768c125b106867e9b26
+sxs-fairune_collection_v131072.rar	5ef5912f75f0036ced6f4399f2c45453
+sxs-fairune_collection_v131072.sfv	dbb7849778d59d1ada895c85ff7b0fd8

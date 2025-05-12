@@ -1,0 +1,14 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-bunny_park.jpg	-	159346	1	0	0	0
+sxs-bunny_park.nfo	-	3716	1	159346	0	1
+sxs-bunny_park.r00	-	50000000	1	163062	0	2
+sxs-bunny_park.r01	-	50000000	1	50163062	0	50
+sxs-bunny_park.r02	-	50000000	1	100163062	0	98
+sxs-bunny_park.r03	-	50000000	1	150163062	0	146
+sxs-bunny_park.r04	-	50000000	1	200163062	0	194
+sxs-bunny_park.r05	-	50000000	1	250163062	0	242
+sxs-bunny_park.r06	-	50000000	1	300163062	0	290
+sxs-bunny_park.r07	-	50000000	1	350163062	0	338
+sxs-bunny_park.r08	-	40236423	1	400163062	0	386
+sxs-bunny_park.rar	-	50000000	1	440399485	0	425
+sxs-bunny_park.sfv	-	290	1	490399485	0	473

@@ -1,0 +1,8 @@
+v-exit_the_gungeon_v327680.nfo	4713eb54
+v-exit_the_gungeon_v327680.r00	8aebf89d
+v-exit_the_gungeon_v327680.r01	c8501b9d
+v-exit_the_gungeon_v327680.r02	55874556
+v-exit_the_gungeon_v327680.r03	2a0cea0d
+v-exit_the_gungeon_v327680.r04	21ef4e4e
+v-exit_the_gungeon_v327680.rar	52a3960e
+v-exit_the_gungeon_v327680.sfv	90569627

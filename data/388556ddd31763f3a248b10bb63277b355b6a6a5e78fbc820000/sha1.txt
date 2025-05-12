@@ -1,0 +1,5 @@
+sxs-the_complex_v196608.nfo	ab41b11423f02e970a05f91f0c8d32d49bc0bd85
+sxs-the_complex_v196608.r00	5f58782ab7f71e5e9d2a7331a399ec214025b727
+sxs-the_complex_v196608.r01	2f87e49e966f0edda3fe2e72ebf6b8e85c1ef595
+sxs-the_complex_v196608.rar	8d3be2403a205dccc32e25aadab4865ddf8c21d5
+sxs-the_complex_v196608.sfv	ecaeec01f00968fd03c3c2349102eb799e874e08

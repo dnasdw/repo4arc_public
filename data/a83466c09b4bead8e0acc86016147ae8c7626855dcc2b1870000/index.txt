@@ -1,0 +1,3 @@
+collected-ayjvb-dlc.nfo	-	1142	1	0	0	0
+collected-ayjvb-dlc.rar	-	1107326	1	1142	0	1
+collected-ayjvb-dlc.sfv	-	34	1	1108468	0	3

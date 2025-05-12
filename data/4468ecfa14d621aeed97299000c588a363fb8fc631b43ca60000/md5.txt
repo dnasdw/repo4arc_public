@@ -1,0 +1,14 @@
+sxs-running_fable.nfo	fab7f75487df98204c209253cc0c4034
+sxs-running_fable.r00	a7d6920259981302bcccd1fa8d7df13e
+sxs-running_fable.r01	75adf5aa6c4f3eff43f4decbc0a5d81e
+sxs-running_fable.r02	3d97bdb3d2d838b9679bae825d7f9b19
+sxs-running_fable.r03	b9a4299561ef9adfe12e50be5d085fac
+sxs-running_fable.r04	b830a39f54324037c8ee046807d424d4
+sxs-running_fable.r05	77aefb860aba96fb936e1117df1f03b4
+sxs-running_fable.r06	8d61e1eb392242a60c14fde9d80c8aec
+sxs-running_fable.r07	3f459b2d63ec1beabcf4bfe696d0d818
+sxs-running_fable.r08	5462840c101cb127229bb7d171cf0543
+sxs-running_fable.r09	d112ca5d6cfd94f9d4ec8c2fed67ad34
+sxs-running_fable.r10	2dc5c4a3bbe49d72ff254fdb0bd39043
+sxs-running_fable.rar	796ffa39db2a01b3c1aef16ee71ce50a
+sxs-running_fable.sfv	1195dd32f1e45caa1be1c3b41dd00938

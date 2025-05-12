@@ -1,0 +1,8 @@
+bbb-h-afhra.nfo	-	5517	1	0	0	0
+bbb-h-afhra.part01.rar	-	250000000	1	5517	0	1
+bbb-h-afhra.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-afhra.part03.rar	-	250000000	1	500005517	0	479
+bbb-h-afhra.part04.rar	-	250000000	1	212251264	1	203
+bbb-h-afhra.part05.rar	-	250000000	1	462251264	1	442
+bbb-h-afhra.part06.rar	-	182547644	1	174502528	2	167
+bbb-h-afhra.sfv	-	198	1	357050172	2	342

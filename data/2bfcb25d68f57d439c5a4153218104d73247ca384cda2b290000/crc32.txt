@@ -1,0 +1,15 @@
+brw-miup_v196608.nfo	898c831b
+brw-miup_v196608.r00	d483dc7a
+brw-miup_v196608.r01	8b6549be
+brw-miup_v196608.r02	b643e69d
+brw-miup_v196608.r03	d4195f91
+brw-miup_v196608.r04	4ac1c33d
+brw-miup_v196608.r05	e543b0f3
+brw-miup_v196608.r06	9fcc2d98
+brw-miup_v196608.r07	6d734465
+brw-miup_v196608.r08	29072ff7
+brw-miup_v196608.r09	e4aaef5f
+brw-miup_v196608.r10	5d3165af
+brw-miup_v196608.r11	f85be62c
+brw-miup_v196608.rar	f1521e9c
+brw-miup_v196608.sfv	24d4cec5

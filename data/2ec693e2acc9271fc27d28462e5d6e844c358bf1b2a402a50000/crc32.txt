@@ -1,0 +1,9 @@
+sxs-haunted_house_v131072.nfo	692e544b
+sxs-haunted_house_v131072.r00	75bc8eda
+sxs-haunted_house_v131072.r01	8cffd80f
+sxs-haunted_house_v131072.r02	05a11384
+sxs-haunted_house_v131072.r03	834c47f6
+sxs-haunted_house_v131072.r04	9d51cd1a
+sxs-haunted_house_v131072.r05	ef03206d
+sxs-haunted_house_v131072.rar	3ed8b1b4
+sxs-haunted_house_v131072.sfv	72dac399

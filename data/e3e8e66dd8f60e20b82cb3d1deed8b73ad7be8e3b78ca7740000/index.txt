@@ -1,0 +1,4 @@
+lfc-dynabomb.nfo	-	3782	1	0	0	0
+lfc-dynabomb.r00	-	30862850	1	3782	0	1
+lfc-dynabomb.rar	-	50000000	1	30866632	0	31
+lfc-dynabomb.sfv	-	54	1	80866632	0	79

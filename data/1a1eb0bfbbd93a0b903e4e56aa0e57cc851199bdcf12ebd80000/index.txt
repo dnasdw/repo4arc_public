@@ -1,0 +1,3 @@
+sxs-swapshot.nfo	-	5198	1	0	0	0
+sxs-swapshot.rar	-	62188569	1	5198	0	1
+sxs-swapshot.sfv	-	27	1	62193767	0	61

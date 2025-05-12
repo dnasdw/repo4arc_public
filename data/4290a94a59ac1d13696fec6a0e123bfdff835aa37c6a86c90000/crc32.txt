@@ -1,0 +1,16 @@
+v-rad_v196608_rpk.nfo	13b5b46a
+v-rad_v196608_rpk.r00	07990149
+v-rad_v196608_rpk.r01	e29d4f34
+v-rad_v196608_rpk.r02	390bb723
+v-rad_v196608_rpk.r03	1bb3c1ed
+v-rad_v196608_rpk.r04	cccd0edd
+v-rad_v196608_rpk.r05	620b54d6
+v-rad_v196608_rpk.r06	a3558823
+v-rad_v196608_rpk.r07	037e382d
+v-rad_v196608_rpk.r08	9fde1122
+v-rad_v196608_rpk.r09	f9f5a642
+v-rad_v196608_rpk.r10	1de409b0
+v-rad_v196608_rpk.r11	2a250161
+v-rad_v196608_rpk.r12	86fdcb59
+v-rad_v196608_rpk.rar	dba48ce9
+v-rad_v196608_rpk.sfv	cbfd81a7

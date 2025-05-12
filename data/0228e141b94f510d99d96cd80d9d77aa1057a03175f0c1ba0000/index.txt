@@ -1,0 +1,4 @@
+sxs-race_with_ryan_v65536.nfo	-	5432	1	0	0	0
+sxs-race_with_ryan_v65536.r00	-	24524510	1	5432	0	1
+sxs-race_with_ryan_v65536.rar	-	50000000	1	24529942	0	25
+sxs-race_with_ryan_v65536.sfv	-	80	1	74529942	0	73

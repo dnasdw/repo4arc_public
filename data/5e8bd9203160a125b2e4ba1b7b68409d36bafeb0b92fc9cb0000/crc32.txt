@@ -1,0 +1,6 @@
+sxs-concordia_digital_edition_v786432.nfo	b7c6c7f0
+sxs-concordia_digital_edition_v786432.r00	199d1c30
+sxs-concordia_digital_edition_v786432.r01	c9bc03c6
+sxs-concordia_digital_edition_v786432.r02	a4a78671
+sxs-concordia_digital_edition_v786432.rar	f5e11748
+sxs-concordia_digital_edition_v786432.sfv	10094a73

@@ -1,0 +1,10 @@
+v-knights_of_the_rogue_dungeon.nfo	bffe36cf
+v-knights_of_the_rogue_dungeon.r00	696718b0
+v-knights_of_the_rogue_dungeon.r01	21061d97
+v-knights_of_the_rogue_dungeon.r02	fa16036f
+v-knights_of_the_rogue_dungeon.r03	a93c7c59
+v-knights_of_the_rogue_dungeon.r04	867e68a6
+v-knights_of_the_rogue_dungeon.r05	2097ff41
+v-knights_of_the_rogue_dungeon.r06	cb324976
+v-knights_of_the_rogue_dungeon.rar	ded5413b
+v-knights_of_the_rogue_dungeon.sfv	5b714371

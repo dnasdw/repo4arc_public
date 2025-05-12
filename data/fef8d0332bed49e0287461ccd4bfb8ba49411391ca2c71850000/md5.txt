@@ -1,0 +1,8 @@
+lfc-bsfa.nfo	75dfbdfaec1b3b8e995d3bbaaa85295e
+lfc-bsfa.r00	0f9502fe122364b3cf360486fa57df01
+lfc-bsfa.r01	cae7be45b40270f6b80a11ca96e106c8
+lfc-bsfa.r02	f5fe5590eb20154c1361ace00f523962
+lfc-bsfa.r03	f36f9f2d2977ffc2a4951cbf384ad7c7
+lfc-bsfa.r04	eb4a87ee50a1641baf85d2307504b295
+lfc-bsfa.rar	835b8040dc4a43dc452ddd25ac3967b1
+lfc-bsfa.sfv	194c37ff0503336a3f415fabf54af5e1

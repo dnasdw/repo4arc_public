@@ -1,0 +1,11 @@
+sxs-1993_shenandoah_v131072.nfo	5b1edcd5
+sxs-1993_shenandoah_v131072.r00	b233ba60
+sxs-1993_shenandoah_v131072.r01	7e55db85
+sxs-1993_shenandoah_v131072.r02	f183d9c8
+sxs-1993_shenandoah_v131072.r03	30a0722d
+sxs-1993_shenandoah_v131072.r04	8fbcf455
+sxs-1993_shenandoah_v131072.r05	41ae15ea
+sxs-1993_shenandoah_v131072.r06	c524da9f
+sxs-1993_shenandoah_v131072.r07	e6a92a24
+sxs-1993_shenandoah_v131072.rar	93c708f6
+sxs-1993_shenandoah_v131072.sfv	0b17c189

@@ -1,0 +1,4 @@
+sxs-fatal_frame_mask_of_the_lunar_eclipse_v196608.nfo	331c6a6e
+sxs-fatal_frame_mask_of_the_lunar_eclipse_v196608.r00	6abe1bdf
+sxs-fatal_frame_mask_of_the_lunar_eclipse_v196608.rar	7445aa0e
+sxs-fatal_frame_mask_of_the_lunar_eclipse_v196608.sfv	17d7e6ac

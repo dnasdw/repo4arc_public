@@ -1,0 +1,3 @@
+lfc-abyss.nfo	-	4038	1	0	0	0
+lfc-abyss.rar	-	73859215	1	4038	0	1
+lfc-abyss.sfv	-	24	1	73863253	0	72

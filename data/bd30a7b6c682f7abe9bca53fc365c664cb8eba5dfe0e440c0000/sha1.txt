@@ -1,0 +1,6 @@
+lfc-vgmr.nfo	14990bee08ce1ae22e48a397763ec66f0eaa9dea
+lfc-vgmr.r00	4cf4b4c0d2dbda1e7a06107bbc8a9aec1f0a1df3
+lfc-vgmr.r01	0db8e77223586b39a0f91515f023ca6403ebda29
+lfc-vgmr.r02	0ee4ff8acb3e2ea5731fdead764575e002e62edf
+lfc-vgmr.rar	f72e992e53c7c591e7ace2261e7a0b05972dc864
+lfc-vgmr.sfv	7ff4743cb11d54eecbe54a5cc0dc4052bf249e45

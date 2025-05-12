@@ -1,0 +1,4 @@
+sxs-potion_party.nfo	-	7148	1	0	0	0
+sxs-potion_party.r00	-	31794957	1	7148	0	1
+sxs-potion_party.rar	-	50000000	1	31802105	0	32
+sxs-potion_party.sfv	-	62	1	81802105	0	80

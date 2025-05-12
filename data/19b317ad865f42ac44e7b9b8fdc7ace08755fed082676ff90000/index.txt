@@ -1,0 +1,5 @@
+sxs-running_fable_v131072.nfo	-	5120	1	0	0	0
+sxs-running_fable_v131072.r00	-	100000000	1	5120	0	1
+sxs-running_fable_v131072.r01	-	87416358	1	100005120	0	97
+sxs-running_fable_v131072.rar	-	100000000	1	187421478	0	181
+sxs-running_fable_v131072.sfv	-	120	1	287421478	0	277

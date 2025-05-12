@@ -1,0 +1,10 @@
+v-knights_of_the_rogue_dungeon.nfo	-	5278	1	0	0	0
+v-knights_of_the_rogue_dungeon.r00	-	100000000	1	5278	0	1
+v-knights_of_the_rogue_dungeon.r01	-	100000000	1	100005278	0	97
+v-knights_of_the_rogue_dungeon.r02	-	100000000	1	200005278	0	193
+v-knights_of_the_rogue_dungeon.r03	-	100000000	1	300005278	0	289
+v-knights_of_the_rogue_dungeon.r04	-	100000000	1	400005278	0	385
+v-knights_of_the_rogue_dungeon.r05	-	100000000	1	500005278	0	481
+v-knights_of_the_rogue_dungeon.r06	-	52855343	1	62251264	1	60
+v-knights_of_the_rogue_dungeon.rar	-	100000000	1	115106607	1	111
+v-knights_of_the_rogue_dungeon.sfv	-	360	1	215106607	1	207

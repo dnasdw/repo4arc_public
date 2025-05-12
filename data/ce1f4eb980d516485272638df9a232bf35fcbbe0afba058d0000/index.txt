@@ -1,0 +1,5 @@
+sxs-depixtion.nfo	-	6056	1	0	0	0
+sxs-depixtion.r00	-	50000000	1	6056	0	1
+sxs-depixtion.r01	-	4211220	1	50006056	0	49
+sxs-depixtion.rar	-	50000000	1	54217276	0	54
+sxs-depixtion.sfv	-	84	1	104217276	0	102

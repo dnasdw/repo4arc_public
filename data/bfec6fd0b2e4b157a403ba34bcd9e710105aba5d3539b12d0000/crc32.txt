@@ -1,0 +1,8 @@
+sxs-grid_autosport_v524288.nfo	1947aff2
+sxs-grid_autosport_v524288.r00	09060b9a
+sxs-grid_autosport_v524288.r01	90fbb15d
+sxs-grid_autosport_v524288.r02	d5e59cb5
+sxs-grid_autosport_v524288.r03	5bae09ae
+sxs-grid_autosport_v524288.r04	0faa1e9e
+sxs-grid_autosport_v524288.rar	fc88574f
+sxs-grid_autosport_v524288.sfv	50868201

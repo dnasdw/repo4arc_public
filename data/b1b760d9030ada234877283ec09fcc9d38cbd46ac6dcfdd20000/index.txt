@@ -1,0 +1,3 @@
+sxs-akihabara_v65536.nfo	-	4575	1	0	0	0
+sxs-akihabara_v65536.rar	-	22449858	1	4575	0	1
+sxs-akihabara_v65536.sfv	-	35	1	22454433	0	23

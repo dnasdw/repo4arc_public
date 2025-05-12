@@ -1,0 +1,4 @@
+sxs-44_minutes_in_nightmare_v65536.nfo	-	8708	1	0	0	0
+sxs-44_minutes_in_nightmare_v65536.r00	-	44981136	1	8708	0	1
+sxs-44_minutes_in_nightmare_v65536.rar	-	100000000	1	44989844	0	44
+sxs-44_minutes_in_nightmare_v65536.sfv	-	98	1	144989844	0	140

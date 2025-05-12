@@ -1,0 +1,4 @@
+lfc-39daystomarsupd.r00	-	50000000	1	0	0	0
+lfc-39daystomarsupd.r01	-	2280849	1	50000000	0	48
+lfc-39daystomarsupd.rar	-	50000000	1	52280849	0	51
+lfc-39daystomarsupd.sfv	-	102	1	102280849	0	99

@@ -1,0 +1,15 @@
+l-blacksea.nfo	824e9647e0ebf128c1e298ae40a1b21e
+l-blacksea.r00	00e167f0b0d0a0738100e58f4a37b0f8
+l-blacksea.r01	932f3ffa508f0147a0cbdcea17dc453d
+l-blacksea.r02	6501ced38488cc7ab2eb9721e5f7c574
+l-blacksea.r03	c25290f96f40c8955930d54e84080c37
+l-blacksea.r04	f9efb584e4641b40d49d39519708f615
+l-blacksea.r05	1670759c1d618de1e03af42c3c5a7d5d
+l-blacksea.r06	5ab7830ebedfa2e3e67f4f8ce30f16bf
+l-blacksea.r07	0cb9a4d3cd1f9baf024e13e1e7a57990
+l-blacksea.r08	92ab9e8aa0927c85a082c41397999ed7
+l-blacksea.r09	7429d9a72b8e88a218ff6fac2f9d7eae
+l-blacksea.r10	70967ce628c8a4cad51ff4a5e8da797a
+l-blacksea.r11	43508467e814475cd2a152704bf50cf9
+l-blacksea.rar	b652fca1d235cc8a13fde34c9d7d126e
+l-blacksea.sfv	7d41f635081681d6fafe6fffedcf20fd

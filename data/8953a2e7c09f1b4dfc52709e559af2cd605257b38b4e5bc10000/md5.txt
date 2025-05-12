@@ -1,0 +1,8 @@
+lfc-croixleursigmaupd.nfo	7174162bdcb7aae00f21dfdac995a45b
+lfc-croixleursigmaupd.r00	3a1216d0776beae4c6088b3965f79309
+lfc-croixleursigmaupd.r01	fc832adb0c940111e0d1946cd36d6f9c
+lfc-croixleursigmaupd.r02	99e580842a40abb68f7a06d942ee50f9
+lfc-croixleursigmaupd.r03	607348a19ef461c199d59e23a05f09f7
+lfc-croixleursigmaupd.r04	804a6e273f9a13d526c272926c04bd17
+lfc-croixleursigmaupd.rar	57c82f6b72967baae258d185d1262b70
+lfc-croixleursigmaupd.sfv	eb8affb0f520d25a69cbe74d6bea0cc3

@@ -1,0 +1,7 @@
+sxs-bowling_fever.nfo	7afdbfb37ffa2617c7e63bf2ff506b74
+sxs-bowling_fever.r00	4355085787661064a25af6cea9a0a841
+sxs-bowling_fever.r01	5a732d2d7c5517782a9b979b7d7218d9
+sxs-bowling_fever.r02	f2dfa5de5dbd54c75ec73d62b932cf07
+sxs-bowling_fever.r03	6b8c29a69bde832b668d3a1d2d7aa3d8
+sxs-bowling_fever.rar	a6eac03495012a1cb682d889c60ce999
+sxs-bowling_fever.sfv	5115dc22b8b85b5f3676b6bc5894bd08

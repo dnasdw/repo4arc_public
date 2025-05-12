@@ -1,0 +1,11 @@
+sxs-mtau.nfo	3806e55a
+sxs-mtau.r00	1b5b0d85
+sxs-mtau.r01	ef30bbe1
+sxs-mtau.r02	5ba0b764
+sxs-mtau.r03	5c22a005
+sxs-mtau.r04	cbca3ecf
+sxs-mtau.r05	9877f045
+sxs-mtau.r06	7c53ba1f
+sxs-mtau.r07	547897d7
+sxs-mtau.rar	17a15bae
+sxs-mtau.sfv	50b4f2dd

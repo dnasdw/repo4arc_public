@@ -1,0 +1,4 @@
+sxs-cake_invaders.nfo	-	5666	1	0	0	0
+sxs-cake_invaders.r00	-	32140729	1	5666	0	1
+sxs-cake_invaders.rar	-	50000000	1	32146395	0	32
+sxs-cake_invaders.sfv	-	64	1	82146395	0	80

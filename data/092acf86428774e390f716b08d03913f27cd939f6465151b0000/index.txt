@@ -1,0 +1,4 @@
+sxs-chips_challenge.nfo	-	4730	1	0	0	0
+sxs-chips_challenge.r00	-	30474643	1	4730	0	1
+sxs-chips_challenge.rar	-	100000000	1	30479373	0	31
+sxs-chips_challenge.sfv	-	68	1	130479373	0	127

@@ -1,0 +1,5 @@
+sxs-kingdom_new_lands_v196608.nfo	-	6368	1	0	0	0
+sxs-kingdom_new_lands_v196608.r00	-	50000000	1	6368	0	1
+sxs-kingdom_new_lands_v196608.r01	-	8034443	1	50006368	0	49
+sxs-kingdom_new_lands_v196608.rar	-	50000000	1	58040811	0	57
+sxs-kingdom_new_lands_v196608.sfv	-	132	1	108040811	0	105

@@ -1,0 +1,9 @@
+bbb-n-aprga.nfo	-	5517	1	0	0	0
+bbb-n-aprga.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aprga.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aprga.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-aprga.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-aprga.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-aprga.part6.rar	-	250000000	1	174502528	2	167
+bbb-n-aprga.part7.rar	-	217760836	1	424502528	2	406
+bbb-n-aprga.sfv	-	224	1	104514628	3	100

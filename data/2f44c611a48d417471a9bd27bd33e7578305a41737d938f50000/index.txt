@@ -1,0 +1,5 @@
+v-luigi3_mp_pack_1_dlc.nfo	-	6605	1	0	0	0
+v-luigi3_mp_pack_1_dlc.r00	-	50000000	1	6605	0	1
+v-luigi3_mp_pack_1_dlc.r01	-	30809369	1	50006605	0	49
+v-luigi3_mp_pack_1_dlc.rar	-	50000000	1	80815974	0	79
+v-luigi3_mp_pack_1_dlc.sfv	-	111	1	130815974	0	127

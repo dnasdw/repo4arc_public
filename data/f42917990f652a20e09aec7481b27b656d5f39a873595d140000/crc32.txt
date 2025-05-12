@@ -1,0 +1,9 @@
+i-littleshopping.nfo	a5acbd5e
+i-littleshopping.r00	a336f5ed
+i-littleshopping.r01	6c891b47
+i-littleshopping.r02	45363e6b
+i-littleshopping.r03	6b9bb06c
+i-littleshopping.r04	0e6fb86b
+i-littleshopping.r05	45a36ff2
+i-littleshopping.rar	1c3c038d
+i-littleshopping.sfv	463bf097

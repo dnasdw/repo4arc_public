@@ -1,0 +1,9 @@
+sxs-overlanders_v131072.nfo	cb8fad55
+sxs-overlanders_v131072.r00	8430be53
+sxs-overlanders_v131072.r01	e128d2dd
+sxs-overlanders_v131072.r02	3ddbc2be
+sxs-overlanders_v131072.r03	ba893eeb
+sxs-overlanders_v131072.r04	8523d610
+sxs-overlanders_v131072.r05	ef2e9810
+sxs-overlanders_v131072.rar	3570e20c
+sxs-overlanders_v131072.sfv	c0f236ad

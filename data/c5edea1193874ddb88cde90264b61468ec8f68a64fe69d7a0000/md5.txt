@@ -1,0 +1,5 @@
+sxs-knights_and_guns_v65536.nfo	203f2b4b7013b093a37d8637aa642257
+sxs-knights_and_guns_v65536.r00	611702e8bbafd8311adbf4a456ffb479
+sxs-knights_and_guns_v65536.r01	271a7031e0a95f0aea036ffca95c4aa8
+sxs-knights_and_guns_v65536.rar	35d31ffa4152162296dd6ffc180de3af
+sxs-knights_and_guns_v65536.sfv	2eff02ac5f0c89fa1287a8a3f9f5d850

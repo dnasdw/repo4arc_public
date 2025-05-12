@@ -1,0 +1,8 @@
+sxs-z_war_apocalypse_shooter.nfo	-	5666	1	0	0	0
+sxs-z_war_apocalypse_shooter.r00	-	100000000	1	5666	0	1
+sxs-z_war_apocalypse_shooter.r01	-	100000000	1	100005666	0	97
+sxs-z_war_apocalypse_shooter.r02	-	100000000	1	200005666	0	193
+sxs-z_war_apocalypse_shooter.r03	-	100000000	1	300005666	0	289
+sxs-z_war_apocalypse_shooter.r04	-	82258245	1	400005666	0	385
+sxs-z_war_apocalypse_shooter.rar	-	100000000	1	482263911	0	464
+sxs-z_war_apocalypse_shooter.sfv	-	258	1	44425472	1	43

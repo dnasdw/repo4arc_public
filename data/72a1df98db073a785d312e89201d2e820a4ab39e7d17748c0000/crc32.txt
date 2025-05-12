@@ -1,0 +1,14 @@
+sxs-cult_of_the_lamb_v524288.nfo	dd26fb7e
+sxs-cult_of_the_lamb_v524288.r00	7b057a0c
+sxs-cult_of_the_lamb_v524288.r01	cbbbed59
+sxs-cult_of_the_lamb_v524288.r02	761b1983
+sxs-cult_of_the_lamb_v524288.r03	41ec50a9
+sxs-cult_of_the_lamb_v524288.r04	f27547b3
+sxs-cult_of_the_lamb_v524288.r05	edde6fb1
+sxs-cult_of_the_lamb_v524288.r06	b5f27089
+sxs-cult_of_the_lamb_v524288.r07	5e22ab47
+sxs-cult_of_the_lamb_v524288.r08	43d3aaee
+sxs-cult_of_the_lamb_v524288.r09	dd555636
+sxs-cult_of_the_lamb_v524288.r10	3b76dba9
+sxs-cult_of_the_lamb_v524288.rar	dc042081
+sxs-cult_of_the_lamb_v524288.sfv	19915f2a

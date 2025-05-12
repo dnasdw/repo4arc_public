@@ -1,0 +1,6 @@
+v-arcadian_atlas_v131072.nfo	625684bfc7e78adf2c3663010a6b94ed
+v-arcadian_atlas_v131072.r00	7eaf8ea0c41b04158f937508479afec0
+v-arcadian_atlas_v131072.r01	c4eea9bdfdaec3d20d28f9aae95a1a33
+v-arcadian_atlas_v131072.r02	b26f9a5a5c4e62e727f3c634da7a0799
+v-arcadian_atlas_v131072.rar	98171c5aabf4ca6be58fca28bd0ec419
+v-arcadian_atlas_v131072.sfv	4143c8b39fd44f46b57c70fc813b81e1

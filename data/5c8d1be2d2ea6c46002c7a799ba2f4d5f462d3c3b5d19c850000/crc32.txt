@@ -1,0 +1,9 @@
+delight.nfo	92ddbcd8
+dl-moderntales.r00	4cd28320
+dl-moderntales.r01	2aab83a1
+dl-moderntales.r02	695ab886
+dl-moderntales.r03	9a04be82
+dl-moderntales.r04	9b17da72
+dl-moderntales.r05	61b5d2b5
+dl-moderntales.rar	36c2ef8c
+dl-moderntales.sfv	3cf43e1e

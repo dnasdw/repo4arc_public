@@ -1,0 +1,9 @@
+sxs-toki_v65536.nfo	e8de44db
+sxs-toki_v65536.r00	5f6aa767
+sxs-toki_v65536.r01	dfe46fed
+sxs-toki_v65536.r02	cec2da55
+sxs-toki_v65536.r03	2c159850
+sxs-toki_v65536.r04	09894e33
+sxs-toki_v65536.r05	10a97dcc
+sxs-toki_v65536.rar	1f07f9e0
+sxs-toki_v65536.sfv	79731f16

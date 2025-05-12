@@ -1,0 +1,4 @@
+sxs-dragon_quest_treasures_v65536.nfo	-	5120	1	0	0	0
+sxs-dragon_quest_treasures_v65536.r00	-	30574150	1	5120	0	1
+sxs-dragon_quest_treasures_v65536.rar	-	50000000	1	30579270	0	31
+sxs-dragon_quest_treasures_v65536.sfv	-	96	1	80579270	0	79

@@ -1,0 +1,12 @@
+sxs-five_nights_at_freddys_2_v131072.nfo	6f860a72
+sxs-five_nights_at_freddys_2_v131072.r00	173fd61e
+sxs-five_nights_at_freddys_2_v131072.r01	d03d57a6
+sxs-five_nights_at_freddys_2_v131072.r02	4f0911f2
+sxs-five_nights_at_freddys_2_v131072.r03	1c7eaa6f
+sxs-five_nights_at_freddys_2_v131072.r04	fe6a6d45
+sxs-five_nights_at_freddys_2_v131072.r05	6b56984b
+sxs-five_nights_at_freddys_2_v131072.r06	35a56583
+sxs-five_nights_at_freddys_2_v131072.r07	b752eb1d
+sxs-five_nights_at_freddys_2_v131072.r08	b0281b4d
+sxs-five_nights_at_freddys_2_v131072.rar	273e8054
+sxs-five_nights_at_freddys_2_v131072.sfv	cf2a6be6

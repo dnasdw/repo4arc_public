@@ -1,0 +1,7 @@
+lfc-linesxl.nfo	-	3803	1	0	0	0
+lfc-linesxl.r00	-	50000000	1	3803	0	1
+lfc-linesxl.r01	-	50000000	1	50003803	0	49
+lfc-linesxl.r02	-	50000000	1	100003803	0	97
+lfc-linesxl.r03	-	43283271	1	150003803	0	145
+lfc-linesxl.rar	-	50000000	1	193287074	0	187
+lfc-linesxl.sfv	-	130	1	243287074	0	235

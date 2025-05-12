@@ -1,0 +1,5 @@
+n-pokemonsnap_v65536.nfo	-	6072	1	0	0	0
+n-pokemonsnap_v65536.r00	-	50000000	1	6072	0	1
+n-pokemonsnap_v65536.r01	-	31392498	1	50006072	0	49
+n-pokemonsnap_v65536.rar	-	50000000	1	81398570	0	79
+n-pokemonsnap_v65536.sfv	-	105	1	131398570	0	127

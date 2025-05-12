@@ -1,0 +1,11 @@
+sxs-spitlings.nfo	a40eeab7d49332abda44471b41941f73
+sxs-spitlings.r00	930d7b61833819b62d988948b747276e
+sxs-spitlings.r01	ac2a87b08fe5cda733b867ad0d00d989
+sxs-spitlings.r02	0e8f396d4cff8655ce059d22417192f7
+sxs-spitlings.r03	279f86c8f5ec21ea4030867b0fa9ca58
+sxs-spitlings.r04	ce06e7bf835e1afa74c7ac359322e15e
+sxs-spitlings.r05	6bbe519d5caa2b2d5f88c911ab03e5b6
+sxs-spitlings.r06	d073b3c20ad2ccc07c86c9f96c31379b
+sxs-spitlings.r07	7e475bd2003475072aa1fa432a7454c6
+sxs-spitlings.rar	26ddb30da45db2db66fba4b9e475c8a0
+sxs-spitlings.sfv	79e1f62069f08dcfff262168e6927d14

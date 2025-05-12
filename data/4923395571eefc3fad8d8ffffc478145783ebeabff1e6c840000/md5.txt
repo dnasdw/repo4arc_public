@@ -1,0 +1,9 @@
+jrp-n-cd.nfo	aec4b15ce9a2e89f6fc9317df0238cd9
+jrp-n-cd.r00	2aab35995207f7f395078e9a07b890fc
+jrp-n-cd.r01	4dc1969a943c791c3f616cc20576946d
+jrp-n-cd.r02	5996651f58a1ebf4b1d92b571de10b64
+jrp-n-cd.r03	7ab376574b910c53880678a07b3e71e3
+jrp-n-cd.r04	4af1b5e00051a75f78be05b8971f0a34
+jrp-n-cd.r05	71ff6217c4bd5b8a873b31d071d40e55
+jrp-n-cd.rar	efbd0bb09ec56ff0f92c01a3deb8ebe2
+jrp-n-cd.sfv	140ea781043d834bb073cff3d55ad9d6

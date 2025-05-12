@@ -1,0 +1,9 @@
+sxs-action_arcade_wrestling_v196608.nfo	44023610
+sxs-action_arcade_wrestling_v196608.r00	843d6495
+sxs-action_arcade_wrestling_v196608.r01	8d3e5899
+sxs-action_arcade_wrestling_v196608.r02	de9da209
+sxs-action_arcade_wrestling_v196608.r03	0be7f56e
+sxs-action_arcade_wrestling_v196608.r04	ddf72752
+sxs-action_arcade_wrestling_v196608.r05	cd09c003
+sxs-action_arcade_wrestling_v196608.rar	04622b1b
+sxs-action_arcade_wrestling_v196608.sfv	a335cc07

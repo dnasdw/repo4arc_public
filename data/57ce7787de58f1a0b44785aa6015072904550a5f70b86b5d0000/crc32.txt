@@ -1,0 +1,7 @@
+v-rainbow_laser_disco_dungeon.nfo	e75b02bf
+v-rainbow_laser_disco_dungeon.r00	7d1faaa1
+v-rainbow_laser_disco_dungeon.r01	0de5b182
+v-rainbow_laser_disco_dungeon.r02	d1898dfa
+v-rainbow_laser_disco_dungeon.r03	8b4eb92d
+v-rainbow_laser_disco_dungeon.rar	706e73eb
+v-rainbow_laser_disco_dungeon.sfv	4e55a865

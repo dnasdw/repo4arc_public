@@ -1,0 +1,10 @@
+v-shadowgate_v131072.nfo	0ddee691fb3ab03ebad9db190e6174f7
+v-shadowgate_v131072.r00	2ed886380c281f9bad5e088098e31e0e
+v-shadowgate_v131072.r01	edb8a8d1a3132c465e35fcf1676f605f
+v-shadowgate_v131072.r02	c186b472d0cccb7163a4450dec9abaf7
+v-shadowgate_v131072.r03	52e1faf1a5d7bee6fd06be47070ce0ac
+v-shadowgate_v131072.r04	a912c39501b7210ab04a8475725b69ee
+v-shadowgate_v131072.r05	4bd9c18d97dc1540af2ea017f4dbe9d6
+v-shadowgate_v131072.r06	d74c4be140304c00b6d202105a15a277
+v-shadowgate_v131072.rar	9e3e5b02134fd1ee1a327d8bbee727ea
+v-shadowgate_v131072.sfv	9d0e40e39c30867ca9e796b29b637482

@@ -1,0 +1,3 @@
+sxs-avicii_invector_dlc.nfo	db524dc3
+sxs-avicii_invector_dlc.rar	bba467b3
+sxs-avicii_invector_dlc.sfv	3ebbe136

@@ -1,0 +1,3 @@
+v-atelier_lulua_special_bgm_dlc.nfo	5ef8b100866aedceb18292c8cc235cec
+v-atelier_lulua_special_bgm_dlc.rar	f0f93d2d09388794bf3b3c91b92a932a
+v-atelier_lulua_special_bgm_dlc.sfv	fc2e1f97186670dcfca998b547ee7bf3

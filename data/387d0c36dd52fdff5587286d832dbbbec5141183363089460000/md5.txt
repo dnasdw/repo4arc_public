@@ -1,0 +1,5 @@
+v-windjammers_2_v196608.nfo	ea86c8c63d82c92a1adb9ea23c2a224b
+v-windjammers_2_v196608.r00	0b7adb57c39cd9ecd776ad8b408dd937
+v-windjammers_2_v196608.r01	ef84a8057f4d9f864577898e7599c739
+v-windjammers_2_v196608.rar	01a4328ffe391f1fd6da2fa99a87f224
+v-windjammers_2_v196608.sfv	4baa09490b7ef574ca4fff67555b0f3d

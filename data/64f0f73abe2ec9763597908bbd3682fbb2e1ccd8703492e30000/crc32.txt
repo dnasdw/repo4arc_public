@@ -1,0 +1,13 @@
+v-orochi_v104.nfo	a0f0bbe4
+v-orochi_v104.r00	1678ae98
+v-orochi_v104.r01	e7a111a1
+v-orochi_v104.r02	73b383a4
+v-orochi_v104.r03	22bca0f9
+v-orochi_v104.r04	f2577d0b
+v-orochi_v104.r05	a33ac84e
+v-orochi_v104.r06	d46928d5
+v-orochi_v104.r07	b8f7e297
+v-orochi_v104.r08	5bd7f35f
+v-orochi_v104.r09	e93488d3
+v-orochi_v104.rar	73509954
+v-orochi_v104.sfv	a438c00b

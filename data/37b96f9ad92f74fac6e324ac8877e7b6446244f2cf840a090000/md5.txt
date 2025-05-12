@@ -1,0 +1,11 @@
+sxs-pictoquest.nfo	c48bd1ff67d9c798d59f33b3a8d5c058
+sxs-pictoquest.r00	797cff5301e360991364f1b3eb564015
+sxs-pictoquest.r01	01c762304c5c7236645126912c793afc
+sxs-pictoquest.r02	2235baddeff0b20005806a5e2c1d9acd
+sxs-pictoquest.r03	7ad911e5b25db5a53ac98768fc1a8082
+sxs-pictoquest.r04	8dede5a0813a2149cc9913da53b181ab
+sxs-pictoquest.r05	58353e9fc5d56e01ea584ad23be07d2f
+sxs-pictoquest.r06	35e1e26d4f257c291e26fb53b26c4ba5
+sxs-pictoquest.r07	6f5c5d9f7a1e6eb5401ffe3c6d5892a1
+sxs-pictoquest.rar	41426102137cc86468b260d966e91e96
+sxs-pictoquest.sfv	0fcf46bb92459608501715af34c6add9

@@ -1,0 +1,6 @@
+i-pulstario.nfo	-	1119	1	0	0	0
+i-pulstario.r00	-	50000000	1	1119	0	1
+i-pulstario.r01	-	50000000	1	50001119	0	49
+i-pulstario.r02	-	32224249	1	100001119	0	97
+i-pulstario.rar	-	50000000	1	132225368	0	128
+i-pulstario.sfv	-	104	1	182225368	0	176

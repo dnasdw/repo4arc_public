@@ -1,0 +1,5 @@
+lfc-boxalign.nfo	584aba30
+lfc-boxalign.r00	39ec84a4
+lfc-boxalign.r01	d00f92ea
+lfc-boxalign.rar	fa0988b8
+lfc-boxalign.sfv	728e5036

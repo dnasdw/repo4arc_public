@@ -1,0 +1,10 @@
+sxs-warparty_v65536.nfo	15626f24
+sxs-warparty_v65536.r00	06d4a271
+sxs-warparty_v65536.r01	46418c37
+sxs-warparty_v65536.r02	95d72891
+sxs-warparty_v65536.r03	0e642250
+sxs-warparty_v65536.r04	5b0419e9
+sxs-warparty_v65536.r05	b9b03304
+sxs-warparty_v65536.r06	94d4cbe6
+sxs-warparty_v65536.rar	40f38625
+sxs-warparty_v65536.sfv	e5023e9c

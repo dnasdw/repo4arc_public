@@ -1,0 +1,5 @@
+sxs-kof02.nfo	a0d4bf774e398b51ba29a81005eb6656
+sxs-kof02.r00	64ccda8b9aee3bef5317c029d1a3eada
+sxs-kof02.r01	e2e3b14b21504c418c689579081d9d8b
+sxs-kof02.rar	0cecda167b19242fdc7fc063083898ad
+sxs-kof02.sfv	5dacc4cb53fbf25c250ab31369251746

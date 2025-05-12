@@ -1,0 +1,4 @@
+sxs-port_royale_4_v65536.nfo	-	6290	1	0	0	0
+sxs-port_royale_4_v65536.r00	-	38505750	1	6290	0	1
+sxs-port_royale_4_v65536.rar	-	50000000	1	38512040	0	38
+sxs-port_royale_4_v65536.sfv	-	78	1	88512040	0	86

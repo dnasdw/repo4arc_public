@@ -1,0 +1,12 @@
+sxs-chop_goblins.nfo	87f4414f
+sxs-chop_goblins.r00	3de8dde2
+sxs-chop_goblins.r01	88509ec8
+sxs-chop_goblins.r02	af645ace
+sxs-chop_goblins.r03	cebf8eca
+sxs-chop_goblins.r04	0b4f4a62
+sxs-chop_goblins.r05	720acf78
+sxs-chop_goblins.r06	a262ce3d
+sxs-chop_goblins.r07	05041aee
+sxs-chop_goblins.r08	c58a3269
+sxs-chop_goblins.rar	3bacba45
+sxs-chop_goblins.sfv	5a9f95fd

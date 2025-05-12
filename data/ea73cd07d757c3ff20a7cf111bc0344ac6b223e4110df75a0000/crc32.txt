@@ -1,0 +1,5 @@
+sxs-singled_out.nfo	5b693947
+sxs-singled_out.r00	12404b42
+sxs-singled_out.r01	c587b119
+sxs-singled_out.rar	ae8fce66
+sxs-singled_out.sfv	04037b25

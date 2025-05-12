@@ -1,0 +1,5 @@
+sxs-tunic_v131072.nfo	89d86172f9e7cf77c9d1f901014dff2c
+sxs-tunic_v131072.r00	8931dee9b42b42fa8b093ecdd7d35a17
+sxs-tunic_v131072.r01	eec2bb283d91920cd16c1b45387aece6
+sxs-tunic_v131072.rar	f93fc4a95c22a57accec610f61e3f08d
+sxs-tunic_v131072.sfv	5b1f374ead9ab55deb4b55ecd2d93232

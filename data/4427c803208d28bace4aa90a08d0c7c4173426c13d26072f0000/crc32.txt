@@ -1,0 +1,12 @@
+sxs-spaceland_v262144.nfo	b9a511d0
+sxs-spaceland_v262144.r00	1e506cf7
+sxs-spaceland_v262144.r01	ce411d66
+sxs-spaceland_v262144.r02	78dc3330
+sxs-spaceland_v262144.r03	326da524
+sxs-spaceland_v262144.r04	f5b5387d
+sxs-spaceland_v262144.r05	94d37fb4
+sxs-spaceland_v262144.r06	b653d182
+sxs-spaceland_v262144.r07	70a9681a
+sxs-spaceland_v262144.r08	473eb4ab
+sxs-spaceland_v262144.rar	0dbc4cf2
+sxs-spaceland_v262144.sfv	476af03c

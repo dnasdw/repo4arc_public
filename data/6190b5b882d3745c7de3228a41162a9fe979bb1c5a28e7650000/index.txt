@@ -1,0 +1,7 @@
+delight.nfo	-	8773	1	0	0	0
+dl-rimelands.r00	-	50000000	1	8773	0	1
+dl-rimelands.r01	-	50000000	1	50008773	0	49
+dl-rimelands.r02	-	50000000	1	100008773	0	97
+dl-rimelands.r03	-	19071531	1	150008773	0	145
+dl-rimelands.rar	-	50000000	1	169080304	0	164
+dl-rimelands.sfv	-	135	1	219080304	0	212

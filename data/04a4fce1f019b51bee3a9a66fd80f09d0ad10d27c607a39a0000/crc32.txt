@@ -1,0 +1,3 @@
+sxs-dead_cells_bad_seed_dlc.nfo	a18f5512
+sxs-dead_cells_bad_seed_dlc.rar	523ec0ef
+sxs-dead_cells_bad_seed_dlc.sfv	bdd358af

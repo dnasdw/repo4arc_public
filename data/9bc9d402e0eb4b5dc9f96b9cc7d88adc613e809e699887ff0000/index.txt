@@ -1,0 +1,15 @@
+Proof	d	0	1	0	0	0
+Proof/v-dolphin_spirit_ocean_mission.jpg	-	450128	1	0	0	0
+v-dolphin_spirit_ocean_mission.nfo	-	5590	1	450128	0	1
+v-dolphin_spirit_ocean_mission.r00	-	100000000	1	455718	0	2
+v-dolphin_spirit_ocean_mission.r01	-	100000000	1	100455718	0	98
+v-dolphin_spirit_ocean_mission.r02	-	100000000	1	200455718	0	194
+v-dolphin_spirit_ocean_mission.r03	-	100000000	1	300455718	0	290
+v-dolphin_spirit_ocean_mission.r04	-	100000000	1	400455718	0	386
+v-dolphin_spirit_ocean_mission.r05	-	100000000	1	500455718	0	482
+v-dolphin_spirit_ocean_mission.r06	-	100000000	1	63299840	1	61
+v-dolphin_spirit_ocean_mission.r07	-	100000000	1	163299840	1	157
+v-dolphin_spirit_ocean_mission.r08	-	100000000	1	263299840	1	253
+v-dolphin_spirit_ocean_mission.r09	-	10878570	1	363299840	1	349
+v-dolphin_spirit_ocean_mission.rar	-	100000000	1	374178410	1	360
+v-dolphin_spirit_ocean_mission.sfv	-	495	1	474178410	1	456

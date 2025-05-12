@@ -1,0 +1,17 @@
+sxs-torchlight_iii_v262144.nfo	c7425bf9
+sxs-torchlight_iii_v262144.r00	fbe2329d
+sxs-torchlight_iii_v262144.r01	8fb9cb08
+sxs-torchlight_iii_v262144.r02	add850ec
+sxs-torchlight_iii_v262144.r03	9d0009ed
+sxs-torchlight_iii_v262144.r04	f969499d
+sxs-torchlight_iii_v262144.r05	a6ae0f89
+sxs-torchlight_iii_v262144.r06	b3672c93
+sxs-torchlight_iii_v262144.r07	24f83cb4
+sxs-torchlight_iii_v262144.r08	babc2cb8
+sxs-torchlight_iii_v262144.r09	8c8be4c2
+sxs-torchlight_iii_v262144.r10	61c5db46
+sxs-torchlight_iii_v262144.r11	1b68ce83
+sxs-torchlight_iii_v262144.r12	a3dd526e
+sxs-torchlight_iii_v262144.r13	053cf161
+sxs-torchlight_iii_v262144.rar	976158b9
+sxs-torchlight_iii_v262144.sfv	b9b803b4

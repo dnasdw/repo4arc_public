@@ -1,0 +1,5 @@
+v-stories_untold_v196608.nfo	-	6370	1	0	0	0
+v-stories_untold_v196608.r00	-	50000000	1	6370	0	1
+v-stories_untold_v196608.r01	-	5877611	1	50006370	0	49
+v-stories_untold_v196608.rar	-	50000000	1	55883981	0	55
+v-stories_untold_v196608.sfv	-	117	1	105883981	0	103

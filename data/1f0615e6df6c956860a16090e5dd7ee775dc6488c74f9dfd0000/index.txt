@@ -1,0 +1,14 @@
+sxs-dreamworks_trolls_remix_rescue_v196608.nfo	-	6446	1	0	0	0
+sxs-dreamworks_trolls_remix_rescue_v196608.r00	-	100000000	1	6446	0	1
+sxs-dreamworks_trolls_remix_rescue_v196608.r01	-	100000000	1	100006446	0	97
+sxs-dreamworks_trolls_remix_rescue_v196608.r02	-	100000000	1	200006446	0	193
+sxs-dreamworks_trolls_remix_rescue_v196608.r03	-	100000000	1	300006446	0	289
+sxs-dreamworks_trolls_remix_rescue_v196608.r04	-	100000000	1	400006446	0	385
+sxs-dreamworks_trolls_remix_rescue_v196608.r05	-	100000000	1	500006446	0	481
+sxs-dreamworks_trolls_remix_rescue_v196608.r06	-	100000000	1	62251264	1	60
+sxs-dreamworks_trolls_remix_rescue_v196608.r07	-	100000000	1	162251264	1	156
+sxs-dreamworks_trolls_remix_rescue_v196608.r08	-	100000000	1	262251264	1	252
+sxs-dreamworks_trolls_remix_rescue_v196608.r09	-	100000000	1	362251264	1	348
+sxs-dreamworks_trolls_remix_rescue_v196608.r10	-	88024980	1	462251264	1	444
+sxs-dreamworks_trolls_remix_rescue_v196608.rar	-	100000000	1	12527508	2	12
+sxs-dreamworks_trolls_remix_rescue_v196608.sfv	-	684	1	112527508	2	108

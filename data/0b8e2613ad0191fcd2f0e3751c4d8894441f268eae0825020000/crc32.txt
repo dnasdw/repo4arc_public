@@ -1,0 +1,17 @@
+sxs-contra_operation_galuga_demo.nfo	4518f521
+sxs-contra_operation_galuga_demo.r00	c8c47932
+sxs-contra_operation_galuga_demo.r01	19560d30
+sxs-contra_operation_galuga_demo.r02	a6595456
+sxs-contra_operation_galuga_demo.r03	391b7d10
+sxs-contra_operation_galuga_demo.r04	1432b44d
+sxs-contra_operation_galuga_demo.r05	08744790
+sxs-contra_operation_galuga_demo.r06	3a017c23
+sxs-contra_operation_galuga_demo.r07	e15d4182
+sxs-contra_operation_galuga_demo.r08	a6023870
+sxs-contra_operation_galuga_demo.r09	d1e12bef
+sxs-contra_operation_galuga_demo.r10	4f5fd364
+sxs-contra_operation_galuga_demo.r11	7015cb85
+sxs-contra_operation_galuga_demo.r12	6953c755
+sxs-contra_operation_galuga_demo.r13	c2d84a43
+sxs-contra_operation_galuga_demo.rar	fb4f213a
+sxs-contra_operation_galuga_demo.sfv	4c9923e0

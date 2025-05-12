@@ -1,0 +1,5 @@
+sxs-rayland_2.nfo	-	5588	1	0	0	0
+sxs-rayland_2.r00	-	100000000	1	5588	0	1
+sxs-rayland_2.r01	-	856448	1	100005588	0	97
+sxs-rayland_2.rar	-	100000000	1	100862036	0	98
+sxs-rayland_2.sfv	-	84	1	200862036	0	194

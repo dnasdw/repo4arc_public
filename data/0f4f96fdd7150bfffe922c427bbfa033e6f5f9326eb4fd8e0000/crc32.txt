@@ -1,0 +1,12 @@
+sxs-titan_quest_v196608.nfo	627f4b96
+sxs-titan_quest_v196608.r00	49f099f5
+sxs-titan_quest_v196608.r01	4dc947f1
+sxs-titan_quest_v196608.r02	62acf93c
+sxs-titan_quest_v196608.r03	1cbc0c1a
+sxs-titan_quest_v196608.r04	a26e53bf
+sxs-titan_quest_v196608.r05	e601b136
+sxs-titan_quest_v196608.r06	86d5200b
+sxs-titan_quest_v196608.r07	3500610e
+sxs-titan_quest_v196608.r08	21965401
+sxs-titan_quest_v196608.rar	4535a87f
+sxs-titan_quest_v196608.sfv	b6ab6694

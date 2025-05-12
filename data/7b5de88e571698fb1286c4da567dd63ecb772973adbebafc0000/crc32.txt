@@ -1,0 +1,11 @@
+lfc-somu_v65536.nfo	bb9c253d
+lfc-somu_v65536.r00	772950ec
+lfc-somu_v65536.r01	a6263bfa
+lfc-somu_v65536.r02	4f753cc9
+lfc-somu_v65536.r03	f1d01073
+lfc-somu_v65536.r04	a15572bc
+lfc-somu_v65536.r05	3062a362
+lfc-somu_v65536.r06	22319a0a
+lfc-somu_v65536.r07	3d6ffb5b
+lfc-somu_v65536.rar	47c51d66
+lfc-somu_v65536.sfv	afa58177

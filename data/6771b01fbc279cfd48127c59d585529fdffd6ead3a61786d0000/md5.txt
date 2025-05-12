@@ -1,0 +1,8 @@
+brw-bpuz.nfo	d1f5dadc4cfbae89a2c2a139dafba4ab
+brw-bpuz.r00	101fb3fd00e6424a645440e660d67031
+brw-bpuz.r01	51565ce482157084c3d51b1271ea13c2
+brw-bpuz.r02	740009e0f93c2f474f0fd9dc3dfc7d55
+brw-bpuz.r03	e4e02eeb4561150713810d993e517734
+brw-bpuz.r04	0a2723195f211a74c553eb82fa12ab34
+brw-bpuz.rar	5d18599a76ea1b2bb2b8a59a7e4d1c4b
+brw-bpuz.sfv	1bb8a1f9602ddd48f4014d1ac56e3a17

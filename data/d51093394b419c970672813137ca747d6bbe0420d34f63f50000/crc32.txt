@@ -1,0 +1,9 @@
+n-legendofzeldatotk_v131072.nfo	eda2f80f
+n-legendofzeldatotk_v131072.r00	84991d26
+n-legendofzeldatotk_v131072.r01	de1d05c6
+n-legendofzeldatotk_v131072.r02	d9363d65
+n-legendofzeldatotk_v131072.r03	a8a881b6
+n-legendofzeldatotk_v131072.r04	73184da1
+n-legendofzeldatotk_v131072.r05	e21fc13f
+n-legendofzeldatotk_v131072.rar	cd9c1d82
+n-legendofzeldatotk_v131072.sfv	cbdd5f18

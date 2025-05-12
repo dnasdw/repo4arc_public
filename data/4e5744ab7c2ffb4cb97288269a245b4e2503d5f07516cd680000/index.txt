@@ -1,0 +1,8 @@
+v-anomaly_agent.nfo	-	5278	1	0	0	0
+v-anomaly_agent.r00	-	100000000	1	5278	0	1
+v-anomaly_agent.r01	-	100000000	1	100005278	0	97
+v-anomaly_agent.r02	-	100000000	1	200005278	0	193
+v-anomaly_agent.r03	-	100000000	1	300005278	0	289
+v-anomaly_agent.r04	-	41010275	1	400005278	0	385
+v-anomaly_agent.rar	-	100000000	1	441015553	0	425
+v-anomaly_agent.sfv	-	180	1	3531008	1	4

@@ -1,0 +1,11 @@
+v-magic_city_detective_wings_of_revenge_collectors_edition.nfo	-	5044	1	0	0	0
+v-magic_city_detective_wings_of_revenge_collectors_edition.r00	-	100000000	1	5044	0	1
+v-magic_city_detective_wings_of_revenge_collectors_edition.r01	-	100000000	1	100005044	0	97
+v-magic_city_detective_wings_of_revenge_collectors_edition.r02	-	100000000	1	200005044	0	193
+v-magic_city_detective_wings_of_revenge_collectors_edition.r03	-	100000000	1	300005044	0	289
+v-magic_city_detective_wings_of_revenge_collectors_edition.r04	-	100000000	1	400005044	0	385
+v-magic_city_detective_wings_of_revenge_collectors_edition.r05	-	100000000	1	500005044	0	481
+v-magic_city_detective_wings_of_revenge_collectors_edition.r06	-	100000000	1	62251264	1	60
+v-magic_city_detective_wings_of_revenge_collectors_edition.r07	-	34370197	1	162251264	1	156
+v-magic_city_detective_wings_of_revenge_collectors_edition.rar	-	100000000	1	196621461	1	189
+v-magic_city_detective_wings_of_revenge_collectors_edition.sfv	-	657	1	296621461	1	285

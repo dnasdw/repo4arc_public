@@ -1,0 +1,17 @@
+v-teslagrad_remastered.nfo	fcdb718f
+v-teslagrad_remastered.r00	af97e3a9
+v-teslagrad_remastered.r01	db87e775
+v-teslagrad_remastered.r02	c38d974f
+v-teslagrad_remastered.r03	953f0576
+v-teslagrad_remastered.r04	a277594f
+v-teslagrad_remastered.r05	78fe5768
+v-teslagrad_remastered.r06	7cb0b40f
+v-teslagrad_remastered.r07	d1465c9e
+v-teslagrad_remastered.r08	16691a32
+v-teslagrad_remastered.r09	cc22c0e0
+v-teslagrad_remastered.r10	80956198
+v-teslagrad_remastered.r11	37a6f183
+v-teslagrad_remastered.r12	d8b0b8ec
+v-teslagrad_remastered.r13	8fe01d38
+v-teslagrad_remastered.rar	eb872f28
+v-teslagrad_remastered.sfv	06f580b6

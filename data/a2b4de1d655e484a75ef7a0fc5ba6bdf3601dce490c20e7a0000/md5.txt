@@ -1,0 +1,15 @@
+sxs-megalan_11.nfo	15bc13c68569fe5a241b810fc89095bb
+sxs-megalan_11.r00	0db4bdc71d7b880cfa812920d32edffc
+sxs-megalan_11.r01	e2bd4fea1ccee4f1286a18f93db216f7
+sxs-megalan_11.r02	634f569fb99cc4c47eda4c6f9ba0e9a7
+sxs-megalan_11.r03	23397efd68669a3a77c85ac068f9f5f0
+sxs-megalan_11.r04	108d42187c04bbcc9539d145a6642f25
+sxs-megalan_11.r05	8a66d588a24343c2fcdc9dd8a87f8b22
+sxs-megalan_11.r06	0e42e5d505e54c0f1c7aefbeda9c9ca6
+sxs-megalan_11.r07	94fdb70b2320c5b9cd84b1be46f7e3a8
+sxs-megalan_11.r08	12f9c83c17ed72c542b54dce6b29ef79
+sxs-megalan_11.r09	1aa35f0b18dcf6d98de55974f54fbbbd
+sxs-megalan_11.r10	d4b774bcf2e065ac5fe3669f1f089035
+sxs-megalan_11.r11	3ca36d26ce8c7ff2cbfa16cb3889995e
+sxs-megalan_11.rar	2c4ee8a555cbe5c79d0f616fb711a564
+sxs-megalan_11.sfv	0634c59f6f345db10f66de7db5545cd9

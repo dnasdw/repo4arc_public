@@ -1,0 +1,5 @@
+v-music_racer_v131072.nfo	759c0a2fc11a624f4851eb7ce3e7cfdbaf739280
+v-music_racer_v131072.r00	5932c3eb5b8bfb15d5dd41757d58981c0dc17d08
+v-music_racer_v131072.r01	8bfab34276e098e3917030b3befb77839e83b4c9
+v-music_racer_v131072.rar	d500ab9d4c5e71b3253fc5fa0749ebd964bef94a
+v-music_racer_v131072.sfv	83cbc6c543800bd274baa3f487fb666c0feba855

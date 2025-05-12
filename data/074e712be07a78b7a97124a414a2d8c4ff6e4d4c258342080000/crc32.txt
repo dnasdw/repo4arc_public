@@ -1,0 +1,4 @@
+v-torchlight_ii_v65536.nfo	41238b3c
+v-torchlight_ii_v65536.r00	86b12fd0
+v-torchlight_ii_v65536.rar	cec63ebe
+v-torchlight_ii_v65536.sfv	78ba2a7f

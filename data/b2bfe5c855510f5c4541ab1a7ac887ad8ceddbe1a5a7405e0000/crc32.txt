@@ -1,0 +1,11 @@
+v-transformers_battlegrounds_v65536.nfo	5b6d33a4
+v-transformers_battlegrounds_v65536.r00	f365eba2
+v-transformers_battlegrounds_v65536.r01	eb329877
+v-transformers_battlegrounds_v65536.r02	e4bea561
+v-transformers_battlegrounds_v65536.r03	e7913f86
+v-transformers_battlegrounds_v65536.r04	f7e459f6
+v-transformers_battlegrounds_v65536.r05	2a4e7575
+v-transformers_battlegrounds_v65536.r06	fc7ef5b4
+v-transformers_battlegrounds_v65536.r07	2b5eb63a
+v-transformers_battlegrounds_v65536.rar	cc03151d
+v-transformers_battlegrounds_v65536.sfv	2cba0f95

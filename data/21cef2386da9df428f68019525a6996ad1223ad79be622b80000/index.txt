@@ -1,0 +1,10 @@
+sxs-my_universe_my_baby_dragon_v196608.nfo	-	6134	1	0	0	0
+sxs-my_universe_my_baby_dragon_v196608.r00	-	100000000	1	6134	0	1
+sxs-my_universe_my_baby_dragon_v196608.r01	-	100000000	1	100006134	0	97
+sxs-my_universe_my_baby_dragon_v196608.r02	-	100000000	1	200006134	0	193
+sxs-my_universe_my_baby_dragon_v196608.r03	-	100000000	1	300006134	0	289
+sxs-my_universe_my_baby_dragon_v196608.r04	-	100000000	1	400006134	0	385
+sxs-my_universe_my_baby_dragon_v196608.r05	-	100000000	1	500006134	0	481
+sxs-my_universe_my_baby_dragon_v196608.r06	-	13894808	1	62251264	1	60
+sxs-my_universe_my_baby_dragon_v196608.rar	-	100000000	1	76146072	1	74
+sxs-my_universe_my_baby_dragon_v196608.sfv	-	424	1	176146072	1	170

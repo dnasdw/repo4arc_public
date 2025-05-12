@@ -1,0 +1,6 @@
+v-doom_64.nfo	41f9c1d5
+v-doom_64.r00	14fedbbd
+v-doom_64.r01	83923c7b
+v-doom_64.r02	9c017611
+v-doom_64.rar	d835e00b
+v-doom_64.sfv	6b1c7a9d

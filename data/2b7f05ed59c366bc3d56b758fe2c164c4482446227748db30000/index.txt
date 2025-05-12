@@ -1,0 +1,3 @@
+sxs-bullet_soul_infinite_burst_v65536.nfo	-	4496	1	0	0	0
+sxs-bullet_soul_infinite_burst_v65536.rar	-	17355832	1	4496	0	1
+sxs-bullet_soul_infinite_burst_v65536.sfv	-	52	1	17360328	0	18

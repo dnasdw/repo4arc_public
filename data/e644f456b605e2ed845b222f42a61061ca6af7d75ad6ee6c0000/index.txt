@@ -1,0 +1,8 @@
+sxs-teppo_and_the_secret_ancient_city.nfo	-	4496	1	0	0	0
+sxs-teppo_and_the_secret_ancient_city.r00	-	100000000	1	4496	0	1
+sxs-teppo_and_the_secret_ancient_city.r01	-	100000000	1	100004496	0	97
+sxs-teppo_and_the_secret_ancient_city.r02	-	100000000	1	200004496	0	193
+sxs-teppo_and_the_secret_ancient_city.r03	-	100000000	1	300004496	0	289
+sxs-teppo_and_the_secret_ancient_city.r04	-	53339882	1	400004496	0	385
+sxs-teppo_and_the_secret_ancient_city.rar	-	100000000	1	453344378	0	436
+sxs-teppo_and_the_secret_ancient_city.sfv	-	312	1	16113920	1	16

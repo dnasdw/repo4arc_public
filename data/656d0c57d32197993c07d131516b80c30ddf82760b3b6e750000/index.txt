@@ -1,0 +1,16 @@
+sxs-dungeon_of_the_endless_v196608.nfo	-	9020	1	0	0	0
+sxs-dungeon_of_the_endless_v196608.r00	-	50000000	1	9020	0	1
+sxs-dungeon_of_the_endless_v196608.r01	-	50000000	1	50009020	0	49
+sxs-dungeon_of_the_endless_v196608.r02	-	50000000	1	100009020	0	97
+sxs-dungeon_of_the_endless_v196608.r03	-	50000000	1	150009020	0	145
+sxs-dungeon_of_the_endless_v196608.r04	-	50000000	1	200009020	0	193
+sxs-dungeon_of_the_endless_v196608.r05	-	50000000	1	250009020	0	241
+sxs-dungeon_of_the_endless_v196608.r06	-	50000000	1	300009020	0	289
+sxs-dungeon_of_the_endless_v196608.r07	-	50000000	1	350009020	0	337
+sxs-dungeon_of_the_endless_v196608.r08	-	50000000	1	400009020	0	385
+sxs-dungeon_of_the_endless_v196608.r09	-	50000000	1	450009020	0	433
+sxs-dungeon_of_the_endless_v196608.r10	-	50000000	1	500009020	0	481
+sxs-dungeon_of_the_endless_v196608.r11	-	50000000	1	12251264	1	12
+sxs-dungeon_of_the_endless_v196608.r12	-	14266801	1	62251264	1	60
+sxs-dungeon_of_the_endless_v196608.rar	-	50000000	1	76518065	1	74
+sxs-dungeon_of_the_endless_v196608.sfv	-	686	1	126518065	1	122

@@ -1,0 +1,3 @@
+v-tntj_v105_dlc.nfo	-	8477	1	0	0	0
+v-tntj_v105_dlc.rar	-	103942	1	8477	0	1
+v-tntj_v105_dlc.sfv	-	30	1	112419	0	2

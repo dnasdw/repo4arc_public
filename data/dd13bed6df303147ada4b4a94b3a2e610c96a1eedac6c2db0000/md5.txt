@@ -1,0 +1,3 @@
+v-ssbu_costumes3_dlc.nfo	04dc59c6f73e6f413b82df8665beb53a
+v-ssbu_costumes3_dlc.rar	d07328559f4ab65829a033c09ad5d021
+v-ssbu_costumes3_dlc.sfv	780db85c79e8f244af60ea4c965e759b

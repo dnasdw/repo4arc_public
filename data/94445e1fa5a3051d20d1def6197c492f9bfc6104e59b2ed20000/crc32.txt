@@ -1,0 +1,6 @@
+sxs-quake_ii_v196608.nfo	2ab41459
+sxs-quake_ii_v196608.r00	b96fcdc6
+sxs-quake_ii_v196608.r01	d4e42c63
+sxs-quake_ii_v196608.r02	d9004c00
+sxs-quake_ii_v196608.rar	d209fcf0
+sxs-quake_ii_v196608.sfv	2adc1223

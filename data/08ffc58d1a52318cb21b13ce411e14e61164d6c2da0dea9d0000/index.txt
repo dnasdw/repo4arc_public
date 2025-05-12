@@ -1,0 +1,4 @@
+sxs-slay_the_spire_v524288.nfo	-	4886	1	0	0	0
+sxs-slay_the_spire_v524288.r00	-	86624255	1	4886	0	1
+sxs-slay_the_spire_v524288.rar	-	100000000	1	86629141	0	84
+sxs-slay_the_spire_v524288.sfv	-	82	1	186629141	0	180

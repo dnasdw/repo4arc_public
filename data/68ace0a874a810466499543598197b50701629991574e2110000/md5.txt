@@ -1,0 +1,4 @@
+sxs-kingdom_rush_v65536.nfo	52ebb1326d389b25647825e596cee400
+sxs-kingdom_rush_v65536.r00	0f0d4b94d33cc3cd1333f30ea26e7ff0
+sxs-kingdom_rush_v65536.rar	89ebac2fa153584469807e3ed54c5624
+sxs-kingdom_rush_v65536.sfv	efd4b1e903dd7d04aee6b5add7bb4114

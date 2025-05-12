@@ -1,0 +1,6 @@
+sxs-worm_jazz.nfo	-	4496	1	0	0	0
+sxs-worm_jazz.r00	-	50000000	1	4496	0	1
+sxs-worm_jazz.r01	-	50000000	1	50004496	0	49
+sxs-worm_jazz.r02	-	29863452	1	100004496	0	97
+sxs-worm_jazz.rar	-	50000000	1	129867948	0	126
+sxs-worm_jazz.sfv	-	112	1	179867948	0	174

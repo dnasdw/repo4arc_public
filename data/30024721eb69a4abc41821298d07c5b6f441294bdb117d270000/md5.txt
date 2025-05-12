@@ -1,0 +1,5 @@
+sxs-slay_the_spire_v196608.nfo	40a21ffd947045f3651593cb912174f7
+sxs-slay_the_spire_v196608.r00	9dc8e5ca219545365408249b08b86ad3
+sxs-slay_the_spire_v196608.r01	fbc1036bfda03afdff36bd1075bf2928
+sxs-slay_the_spire_v196608.rar	f1d7327d27ac0f9c1c7ea36a744ba3b4
+sxs-slay_the_spire_v196608.sfv	a743b52156f8789d0f33defa79b50e70

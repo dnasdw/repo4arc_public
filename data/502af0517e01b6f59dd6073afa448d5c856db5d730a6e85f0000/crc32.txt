@@ -1,0 +1,17 @@
+v-aoxxl2_v131072.nfo	0cb8ac67
+v-aoxxl2_v131072.r00	6f98e3c0
+v-aoxxl2_v131072.r01	f48b1378
+v-aoxxl2_v131072.r02	07a73cdd
+v-aoxxl2_v131072.r03	24096a4a
+v-aoxxl2_v131072.r04	9c206ecd
+v-aoxxl2_v131072.r05	05ac79bd
+v-aoxxl2_v131072.r06	fb9d26f5
+v-aoxxl2_v131072.r07	d8d8e5ab
+v-aoxxl2_v131072.r08	e3a7413a
+v-aoxxl2_v131072.r09	72bd7405
+v-aoxxl2_v131072.r10	90133b25
+v-aoxxl2_v131072.r11	1a44cb02
+v-aoxxl2_v131072.r12	0956f121
+v-aoxxl2_v131072.r13	44c0e4c2
+v-aoxxl2_v131072.rar	f4876a8a
+v-aoxxl2_v131072.sfv	9463ffca

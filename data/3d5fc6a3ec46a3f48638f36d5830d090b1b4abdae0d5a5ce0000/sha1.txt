@@ -1,0 +1,5 @@
+sxs-depixtion_v65536.nfo	e4fd8e29de16b096f6c0f9b0efd98927084d8f21
+sxs-depixtion_v65536.r00	3aaa5604fbe35baa3bac84d5e3ccff70e0f84ac9
+sxs-depixtion_v65536.r01	ac14de84a640fdaeafadfb6b88b9b6212137da34
+sxs-depixtion_v65536.rar	3ba2706fecc2fb4543b05b22bef58bc8477b0e3d
+sxs-depixtion_v65536.sfv	0697d33efe6ca0e97436c4606f856a5d55d740e7

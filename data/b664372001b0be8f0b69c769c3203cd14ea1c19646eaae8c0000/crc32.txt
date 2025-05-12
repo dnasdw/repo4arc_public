@@ -1,0 +1,14 @@
+jrp-n-from.nfo	136475b7
+jrp-n-from.r00	6cb75478
+jrp-n-from.r01	2c065296
+jrp-n-from.r02	b121b504
+jrp-n-from.r03	62f6e922
+jrp-n-from.r04	4b05746f
+jrp-n-from.r05	636a5705
+jrp-n-from.r06	35b226ff
+jrp-n-from.r07	28f5cc46
+jrp-n-from.r08	427ac69f
+jrp-n-from.r09	b6517eb3
+jrp-n-from.r10	47868510
+jrp-n-from.rar	4a8cd9ae
+jrp-n-from.sfv	16f6c214

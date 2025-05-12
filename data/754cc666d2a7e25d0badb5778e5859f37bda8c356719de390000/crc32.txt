@@ -1,0 +1,14 @@
+lfc-lumberhill101upd.nfo	5fbf4616
+lfc-lumberhill101upd.r00	99ddd878
+lfc-lumberhill101upd.r01	90526711
+lfc-lumberhill101upd.r02	108684f0
+lfc-lumberhill101upd.r03	752f2aad
+lfc-lumberhill101upd.r04	145a9cae
+lfc-lumberhill101upd.r05	8f1c401f
+lfc-lumberhill101upd.r06	55ff51bc
+lfc-lumberhill101upd.r07	9c079193
+lfc-lumberhill101upd.r08	f44bf2a8
+lfc-lumberhill101upd.r09	71d57923
+lfc-lumberhill101upd.r10	841fe7af
+lfc-lumberhill101upd.rar	8361b821
+lfc-lumberhill101upd.sfv	4391eb6c

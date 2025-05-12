@@ -1,0 +1,16 @@
+lfc-farmtogether.nfo	5a485d9c
+lfc-farmtogether.r00	0818cc6c
+lfc-farmtogether.r01	aff64c53
+lfc-farmtogether.r02	84190875
+lfc-farmtogether.r03	32630729
+lfc-farmtogether.r04	4cce6c88
+lfc-farmtogether.r05	ad88c3ce
+lfc-farmtogether.r06	c0000eb6
+lfc-farmtogether.r07	52520d7c
+lfc-farmtogether.r08	2ff6d520
+lfc-farmtogether.r09	67f9abe4
+lfc-farmtogether.r10	4dab561a
+lfc-farmtogether.r11	a887addf
+lfc-farmtogether.r12	0f89d4d0
+lfc-farmtogether.rar	e5a675db
+lfc-farmtogether.sfv	76d8efda

@@ -1,0 +1,4 @@
+brw-nusq.nfo	ce2055f1ce1b1e167e31f4a0a6f774687ad4fcf2
+brw-nusq.r00	f704c9b0c31fbe2ee7b8657a300881d815931e5e
+brw-nusq.rar	6c83cfd532331bff2b89e9ca2cb8de60b9d0681e
+brw-nusq.sfv	c408961b4ea8a4a64ae5f571ddd73452d1d5cc37

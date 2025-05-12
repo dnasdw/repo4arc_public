@@ -1,0 +1,3 @@
+sxs-witch_rise.nfo	-	5120	1	0	0	0
+sxs-witch_rise.rar	-	51564065	1	5120	0	1
+sxs-witch_rise.sfv	-	29	1	51569185	0	51

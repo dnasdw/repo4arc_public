@@ -1,0 +1,7 @@
+sxs-missing_features_2d.nfo	d600c8a6bae1003242b99ae2f193ea84
+sxs-missing_features_2d.r00	01f35f949bf38b3021cec757c7ba07a8
+sxs-missing_features_2d.r01	5f8ec67d8bf878e44954000c899c2e62
+sxs-missing_features_2d.r02	4c2b7341f832ee5d671ef3d99808db5f
+sxs-missing_features_2d.r03	077129943d513620bae5453e3ce9ec15
+sxs-missing_features_2d.rar	0d42d30481a251c744d9932f7d59a9e3
+sxs-missing_features_2d.sfv	201d1eadbbaa60e5b97f514dba21447f

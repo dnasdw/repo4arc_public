@@ -1,0 +1,10 @@
+sxs-lost_orbit_terminal_velocity_v65536.nfo	-	5354	1	0	0	0
+sxs-lost_orbit_terminal_velocity_v65536.r00	-	50000000	1	5354	0	1
+sxs-lost_orbit_terminal_velocity_v65536.r01	-	50000000	1	50005354	0	49
+sxs-lost_orbit_terminal_velocity_v65536.r02	-	50000000	1	100005354	0	97
+sxs-lost_orbit_terminal_velocity_v65536.r03	-	50000000	1	150005354	0	145
+sxs-lost_orbit_terminal_velocity_v65536.r04	-	50000000	1	200005354	0	193
+sxs-lost_orbit_terminal_velocity_v65536.r05	-	50000000	1	250005354	0	241
+sxs-lost_orbit_terminal_velocity_v65536.r06	-	39807722	1	300005354	0	289
+sxs-lost_orbit_terminal_velocity_v65536.rar	-	50000000	1	339813076	0	327
+sxs-lost_orbit_terminal_velocity_v65536.sfv	-	432	1	389813076	0	375

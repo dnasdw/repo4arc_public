@@ -1,0 +1,6 @@
+sxs-mythic_ocean_v65536.nfo	bffd75ac52dac3f4ce466a6459dfb28b
+sxs-mythic_ocean_v65536.r00	ba2e5f860885ae3764d355a7767fcfe0
+sxs-mythic_ocean_v65536.r01	413e4e222a24e2ef9486c738fa0c26b3
+sxs-mythic_ocean_v65536.r02	d1ca90e6e440563d32c4bee453a1a706
+sxs-mythic_ocean_v65536.rar	7977d8c84a56d67c1fe6ef3ab2148d78
+sxs-mythic_ocean_v65536.sfv	82a847f405489b2feac65cf4c8407745

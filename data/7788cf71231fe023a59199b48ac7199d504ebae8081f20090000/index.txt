@@ -1,0 +1,4 @@
+v-deep_sky_derelicts_definitive_edition_v65536.nfo	-	5668	1	0	0	0
+v-deep_sky_derelicts_definitive_edition_v65536.r00	-	20709822	1	5668	0	1
+v-deep_sky_derelicts_definitive_edition_v65536.rar	-	50000000	1	20715490	0	21
+v-deep_sky_derelicts_definitive_edition_v65536.sfv	-	122	1	70715490	0	69

@@ -1,0 +1,4 @@
+v-panzer_paladin_v65536.nfo	-	4732	1	0	0	0
+v-panzer_paladin_v65536.r00	-	11156449	1	4732	0	1
+v-panzer_paladin_v65536.rar	-	50000000	1	11161181	0	12
+v-panzer_paladin_v65536.sfv	-	76	1	61161181	0	60

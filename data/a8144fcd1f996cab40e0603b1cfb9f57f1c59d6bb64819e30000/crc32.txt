@@ -1,0 +1,3 @@
+sxs-de_blob_2_v65536.nfo	ac2f16c6
+sxs-de_blob_2_v65536.rar	8d60d9ee
+sxs-de_blob_2_v65536.sfv	950a04ca

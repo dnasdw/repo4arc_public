@@ -1,0 +1,7 @@
+sxs-the_tiny_bang_story.nfo	c39c7082546fce3d555e8b1bb55ec0e6
+sxs-the_tiny_bang_story.r00	c3a6dcd7bfdd00c87cedf1274d5c69d4
+sxs-the_tiny_bang_story.r01	85ab25fc7a33e6f592cf2ad4523b7b0d
+sxs-the_tiny_bang_story.r02	a730692deb9b7d1c57a9b83984368199
+sxs-the_tiny_bang_story.r03	b851585a4bfd0725498d34e077e741ac
+sxs-the_tiny_bang_story.rar	713b44b4cd9e048299c509c884e711c5
+sxs-the_tiny_bang_story.sfv	a3262e6ce5cca77af744c72764387c13

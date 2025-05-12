@@ -1,0 +1,9 @@
+sxs-mystery_box_escape_the_room.nfo	-	4574	1	0	0	0
+sxs-mystery_box_escape_the_room.r00	-	100000000	1	4574	0	1
+sxs-mystery_box_escape_the_room.r01	-	100000000	1	100004574	0	97
+sxs-mystery_box_escape_the_room.r02	-	100000000	1	200004574	0	193
+sxs-mystery_box_escape_the_room.r03	-	100000000	1	300004574	0	289
+sxs-mystery_box_escape_the_room.r04	-	100000000	1	400004574	0	385
+sxs-mystery_box_escape_the_room.r05	-	46385858	1	500004574	0	481
+sxs-mystery_box_escape_the_room.rar	-	100000000	1	8637122	1	9
+sxs-mystery_box_escape_the_room.sfv	-	322	1	108637122	1	105

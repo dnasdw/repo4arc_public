@@ -1,0 +1,3 @@
+sxs-fire_emblem_warriors_three_hopes_owl_feathers_dlc.nfo	-	7151	1	0	0	0
+sxs-fire_emblem_warriors_three_hopes_owl_feathers_dlc.rar	-	104168	1	7151	0	1
+sxs-fire_emblem_warriors_three_hopes_owl_feathers_dlc.sfv	-	68	1	111319	0	2

@@ -1,0 +1,10 @@
+brw-tefl.nfo	649b864b
+brw-tefl.r00	51eb12e2
+brw-tefl.r01	6ae84367
+brw-tefl.r02	0a8c4aba
+brw-tefl.r03	34cbc24c
+brw-tefl.r04	17915ad8
+brw-tefl.r05	a114a654
+brw-tefl.r06	37cbd386
+brw-tefl.rar	473eaeef
+brw-tefl.sfv	633fcb42

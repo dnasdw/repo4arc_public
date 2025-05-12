@@ -1,0 +1,12 @@
+v-skate_city_v196608.nfo	ab052cec
+v-skate_city_v196608.r00	1cae1bf0
+v-skate_city_v196608.r01	ca599ed7
+v-skate_city_v196608.r02	31c813af
+v-skate_city_v196608.r03	f8898554
+v-skate_city_v196608.r04	c5923dcd
+v-skate_city_v196608.r05	1908b227
+v-skate_city_v196608.r06	76673615
+v-skate_city_v196608.r07	3cdcee2b
+v-skate_city_v196608.r08	361c0bc9
+v-skate_city_v196608.rar	95817773
+v-skate_city_v196608.sfv	f28d0305

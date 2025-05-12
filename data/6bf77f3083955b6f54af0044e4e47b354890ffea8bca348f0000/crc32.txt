@@ -1,0 +1,10 @@
+lfc-bwts.nfo	ed69a6bf
+lfc-bwts.r00	5787ae6a
+lfc-bwts.r01	504d8420
+lfc-bwts.r02	0af6c8ac
+lfc-bwts.r03	6eda3c26
+lfc-bwts.r04	3505ff50
+lfc-bwts.r05	67127746
+lfc-bwts.r06	b0d319f3
+lfc-bwts.rar	4f3c7e1a
+lfc-bwts.sfv	ab6d3f83

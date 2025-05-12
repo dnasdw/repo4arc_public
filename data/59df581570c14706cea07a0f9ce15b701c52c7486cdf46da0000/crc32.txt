@@ -1,0 +1,10 @@
+sxs-call_of_juarez_gunslinger_v327680.nfo	3f48c509
+sxs-call_of_juarez_gunslinger_v327680.r00	3768b755
+sxs-call_of_juarez_gunslinger_v327680.r01	2bea6a5e
+sxs-call_of_juarez_gunslinger_v327680.r02	8f783ff4
+sxs-call_of_juarez_gunslinger_v327680.r03	0a42a8db
+sxs-call_of_juarez_gunslinger_v327680.r04	367fbf00
+sxs-call_of_juarez_gunslinger_v327680.r05	2774f0ce
+sxs-call_of_juarez_gunslinger_v327680.r06	a4433b05
+sxs-call_of_juarez_gunslinger_v327680.rar	272ace2a
+sxs-call_of_juarez_gunslinger_v327680.sfv	faf00395

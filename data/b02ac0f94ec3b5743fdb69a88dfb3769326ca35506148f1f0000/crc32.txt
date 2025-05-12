@@ -1,0 +1,15 @@
+v-grandia_hd_collection_v131072.nfo	b940139d
+v-grandia_hd_collection_v131072.r00	32e80646
+v-grandia_hd_collection_v131072.r01	6d0a2a82
+v-grandia_hd_collection_v131072.r02	7f75e211
+v-grandia_hd_collection_v131072.r03	300eed20
+v-grandia_hd_collection_v131072.r04	fce7480a
+v-grandia_hd_collection_v131072.r05	dcbcb851
+v-grandia_hd_collection_v131072.r06	3fafd7fa
+v-grandia_hd_collection_v131072.r07	dab76e8a
+v-grandia_hd_collection_v131072.r08	4312852a
+v-grandia_hd_collection_v131072.r09	305d2fff
+v-grandia_hd_collection_v131072.r10	803f83de
+v-grandia_hd_collection_v131072.r11	a1d0991b
+v-grandia_hd_collection_v131072.rar	ca58ae07
+v-grandia_hd_collection_v131072.sfv	60379b6f

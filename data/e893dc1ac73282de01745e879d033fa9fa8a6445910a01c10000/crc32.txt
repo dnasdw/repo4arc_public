@@ -1,0 +1,3 @@
+v-clue_tropical_pack_dlc.nfo	c54a637c
+v-clue_tropical_pack_dlc.rar	95cb452b
+v-clue_tropical_pack_dlc.sfv	fcd502bd

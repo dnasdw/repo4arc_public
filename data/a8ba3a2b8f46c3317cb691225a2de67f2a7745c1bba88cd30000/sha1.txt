@@ -1,0 +1,3 @@
+sxs-i_zombie_v65536.nfo	851165ebabf2da0df60e79d168a5b363447d1ab6
+sxs-i_zombie_v65536.rar	068b44d65bca2aecd49de505fd4d2ba6b7d5475d
+sxs-i_zombie_v65536.sfv	1690105e2b69306923f0f2128acc38bcfc2322b0

@@ -1,0 +1,5 @@
+sxs-beach_buggy_racing_v65536.nfo	742ea0be28558190dffdee1df5a9935d
+sxs-beach_buggy_racing_v65536.r00	a29908c046807fead252fd8eda22275e
+sxs-beach_buggy_racing_v65536.r01	baded6a54843ae164cf47ce43d16a619
+sxs-beach_buggy_racing_v65536.rar	3dd1a346ed155b35afdbb5b1df0d8d20
+sxs-beach_buggy_racing_v65536.sfv	8dac99bc420cef89a1a42f6fd103267a

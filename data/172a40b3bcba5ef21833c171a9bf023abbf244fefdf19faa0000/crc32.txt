@@ -1,0 +1,3 @@
+v-devilengine_v65536.nfo	2f455552
+v-devilengine_v65536.rar	7c98de48
+v-devilengine_v65536.sfv	a53cd311

@@ -1,0 +1,3 @@
+sxs-aew_fight_forever_the_storm_is_coming_dlc.nfo	-	4964	1	0	0	0
+sxs-aew_fight_forever_the_storm_is_coming_dlc.rar	-	124412	1	4964	0	1
+sxs-aew_fight_forever_the_storm_is_coming_dlc.sfv	-	60	1	129376	0	2

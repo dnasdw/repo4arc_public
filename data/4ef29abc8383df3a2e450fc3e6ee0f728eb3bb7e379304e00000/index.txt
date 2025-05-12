@@ -1,0 +1,3 @@
+sxs-red_death.nfo	-	4886	1	0	0	0
+sxs-red_death.rar	-	40981629	1	4886	0	1
+sxs-red_death.sfv	-	28	1	40986515	0	41

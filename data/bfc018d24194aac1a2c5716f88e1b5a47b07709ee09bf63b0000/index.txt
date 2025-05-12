@@ -1,0 +1,3 @@
+bbb-n-alela.nfo	-	5517	1	0	0	0
+bbb-n-alela.rar	-	52725058	1	5517	0	1
+bbb-n-alela.sfv	-	26	1	52730575	0	52

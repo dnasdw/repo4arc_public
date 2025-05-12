@@ -1,0 +1,4 @@
+sxs-sunsoft_mahjong_solitaire_shanghai_legend__v196608.nfo	-	6836	1	0	0	0
+sxs-sunsoft_mahjong_solitaire_shanghai_legend__v196608.r00	-	8177627	1	6836	0	1
+sxs-sunsoft_mahjong_solitaire_shanghai_legend__v196608.rar	-	100000000	1	8184463	0	9
+sxs-sunsoft_mahjong_solitaire_shanghai_legend__v196608.sfv	-	138	1	108184463	0	105

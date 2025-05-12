@@ -1,0 +1,4 @@
+lfc-kettymaestro.nfo	7242b38f6524ca7ea22284a18bd767147c6cbfe5
+lfc-kettymaestro.r00	2c90b584639a52eac182472a5f978be066e980e2
+lfc-kettymaestro.rar	450e78e15d459567b831e6b61f65ed3529f5d22a
+lfc-kettymaestro.sfv	fb55f12662dd514d5063f7b3fb4ed80719339d14

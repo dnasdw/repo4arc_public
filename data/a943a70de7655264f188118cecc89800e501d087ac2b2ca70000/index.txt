@@ -1,0 +1,6 @@
+sxs-1912_titanic_mystery.nfo	-	4496	1	0	0	0
+sxs-1912_titanic_mystery.r00	-	50000000	1	4496	0	1
+sxs-1912_titanic_mystery.r01	-	50000000	1	50004496	0	49
+sxs-1912_titanic_mystery.r02	-	37733860	1	100004496	0	97
+sxs-1912_titanic_mystery.rar	-	50000000	1	137738356	0	133
+sxs-1912_titanic_mystery.sfv	-	156	1	187738356	0	181

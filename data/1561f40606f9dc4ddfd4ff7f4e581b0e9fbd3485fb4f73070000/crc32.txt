@@ -1,0 +1,10 @@
+sxs-wildbus_v458752.nfo	6f5e02ea
+sxs-wildbus_v458752.r00	6bb3623a
+sxs-wildbus_v458752.r01	6b3c955c
+sxs-wildbus_v458752.r02	b5f4c68f
+sxs-wildbus_v458752.r03	ed9fab23
+sxs-wildbus_v458752.r04	e343e54b
+sxs-wildbus_v458752.r05	b25dbcbc
+sxs-wildbus_v458752.r06	a1b1bbb2
+sxs-wildbus_v458752.rar	67957fc9
+sxs-wildbus_v458752.sfv	c2b1f52a

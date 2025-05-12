@@ -1,0 +1,4 @@
+bbb-n-spkiosk.nfo	cdc2464faa5775400758b1519e7d6336
+bbb-n-spkiosk.part1.rar	af28d5f3e0e6212cf92962762380437b
+bbb-n-spkiosk.part2.rar	b46aa5f36e6815968de71c2b7e901672
+bbb-n-spkiosk.sfv	a164d515bb6b724b61f10344bf407ca8

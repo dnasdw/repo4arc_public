@@ -1,0 +1,8 @@
+v-the_red_strings_club.nfo	4211e87e
+v-the_red_strings_club.r00	e028814e
+v-the_red_strings_club.r01	7b856aed
+v-the_red_strings_club.r02	a65ed394
+v-the_red_strings_club.r03	a5f2facf
+v-the_red_strings_club.r04	5a537b88
+v-the_red_strings_club.rar	9f1fae70
+v-the_red_strings_club.sfv	fe77c339

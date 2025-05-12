@@ -1,0 +1,6 @@
+sxs-super_bomberman_r_2_v327680.nfo	-	8864	1	0	0	0
+sxs-super_bomberman_r_2_v327680.r00	-	100000000	1	8864	0	1
+sxs-super_bomberman_r_2_v327680.r01	-	100000000	1	100008864	0	97
+sxs-super_bomberman_r_2_v327680.r02	-	52403640	1	200008864	0	193
+sxs-super_bomberman_r_2_v327680.rar	-	100000000	1	252412504	0	243
+sxs-super_bomberman_r_2_v327680.sfv	-	184	1	352412504	0	339

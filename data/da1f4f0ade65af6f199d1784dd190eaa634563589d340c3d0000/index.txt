@@ -1,0 +1,3 @@
+v-doom_ii_addons_1_dlc.nfo	-	10660	1	0	0	0
+v-doom_ii_addons_1_dlc.rar	-	41934257	1	10660	0	1
+v-doom_ii_addons_1_dlc.sfv	-	37	1	41944917	0	41

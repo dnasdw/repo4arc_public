@@ -1,0 +1,4 @@
+sxs-piyokoro_v196608.nfo	-	6134	1	0	0	0
+sxs-piyokoro_v196608.r00	-	587671	1	6134	0	1
+sxs-piyokoro_v196608.rar	-	100000000	1	593805	0	2
+sxs-piyokoro_v196608.sfv	-	70	1	100593805	0	98

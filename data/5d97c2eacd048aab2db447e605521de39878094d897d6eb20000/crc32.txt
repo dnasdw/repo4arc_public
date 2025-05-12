@@ -1,0 +1,8 @@
+n-elderand_v65536.nfo	89eb12fd
+n-elderand_v65536.r00	4ad98261
+n-elderand_v65536.r01	4100baf2
+n-elderand_v65536.r02	fca10ca1
+n-elderand_v65536.r03	4e5bfae0
+n-elderand_v65536.r04	c20e5688
+n-elderand_v65536.rar	af636695
+n-elderand_v65536.sfv	7acc95d8

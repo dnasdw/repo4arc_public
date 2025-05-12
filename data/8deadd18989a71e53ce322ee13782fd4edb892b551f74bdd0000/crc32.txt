@@ -1,0 +1,9 @@
+sxs-wild_dogs.nfo	1a4c0b0d
+sxs-wild_dogs.r00	03483c26
+sxs-wild_dogs.r01	81c5ef72
+sxs-wild_dogs.r02	230634fc
+sxs-wild_dogs.r03	685dd63b
+sxs-wild_dogs.r04	da53474a
+sxs-wild_dogs.r05	e05084c6
+sxs-wild_dogs.rar	a35b56b8
+sxs-wild_dogs.sfv	43cfcc4d

@@ -1,0 +1,4 @@
+bbb-h-ajaka.nfo	-	5517	1	0	0	0
+bbb-h-ajaka.part01.rar	-	250000000	1	5517	0	1
+bbb-h-ajaka.part02.rar	-	195006372	1	250005517	0	240
+bbb-h-ajaka.sfv	-	66	1	445011889	0	426

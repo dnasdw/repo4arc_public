@@ -1,0 +1,8 @@
+v-panzer_paladin.nfo	-	4888	1	0	0	0
+v-panzer_paladin.r00	-	50000000	1	4888	0	1
+v-panzer_paladin.r01	-	50000000	1	50004888	0	49
+v-panzer_paladin.r02	-	50000000	1	100004888	0	97
+v-panzer_paladin.r03	-	50000000	1	150004888	0	145
+v-panzer_paladin.r04	-	17550688	1	200004888	0	193
+v-panzer_paladin.rar	-	50000000	1	217555576	0	210
+v-panzer_paladin.sfv	-	186	1	267555576	0	258

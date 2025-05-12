@@ -1,0 +1,11 @@
+v-sniper_elite_4_target_fuhrer_dlc.nfo	300c6c8d
+v-sniper_elite_4_target_fuhrer_dlc.r00	900887ec
+v-sniper_elite_4_target_fuhrer_dlc.r01	e05ba832
+v-sniper_elite_4_target_fuhrer_dlc.r02	e973049f
+v-sniper_elite_4_target_fuhrer_dlc.r03	59f4b085
+v-sniper_elite_4_target_fuhrer_dlc.r04	7ee87aea
+v-sniper_elite_4_target_fuhrer_dlc.r05	8fd011b8
+v-sniper_elite_4_target_fuhrer_dlc.r06	fcfe85f2
+v-sniper_elite_4_target_fuhrer_dlc.r07	cd1d53fb
+v-sniper_elite_4_target_fuhrer_dlc.rar	0fae71bd
+v-sniper_elite_4_target_fuhrer_dlc.sfv	ca62027c

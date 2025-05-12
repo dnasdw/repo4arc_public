@@ -1,0 +1,3 @@
+nsw.standards.v1.1.2019-console.nfo	-	19920	1	0	0	0
+nsw.standards.v1.1.2019-console.rar	-	6435	1	19920	0	1
+nsw.standards.v1.1.2019-console.sfv	-	46	1	26355	0	2

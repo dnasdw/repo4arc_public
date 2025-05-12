@@ -1,0 +1,10 @@
+v-dragon_quest_iii_the_seeds_of_salvation.nfo	5b067649
+v-dragon_quest_iii_the_seeds_of_salvation.r00	a3b44251
+v-dragon_quest_iii_the_seeds_of_salvation.r01	0faf39a6
+v-dragon_quest_iii_the_seeds_of_salvation.r02	7e026aff
+v-dragon_quest_iii_the_seeds_of_salvation.r03	70684488
+v-dragon_quest_iii_the_seeds_of_salvation.r04	f38f30c7
+v-dragon_quest_iii_the_seeds_of_salvation.r05	cd897b58
+v-dragon_quest_iii_the_seeds_of_salvation.r06	5b5ce503
+v-dragon_quest_iii_the_seeds_of_salvation.rar	89d99970
+v-dragon_quest_iii_the_seeds_of_salvation.sfv	7c801f16

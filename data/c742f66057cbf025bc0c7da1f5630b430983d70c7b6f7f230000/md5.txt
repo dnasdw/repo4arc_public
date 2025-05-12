@@ -1,0 +1,4 @@
+sxs-breathing_fear.nfo	a9d39f52b81f726caf2ddec333b971b7
+sxs-breathing_fear.r00	ac367380b9835ebfe9169e819dbf0a05
+sxs-breathing_fear.rar	211049f1df2e660d80fb869954323d2a
+sxs-breathing_fear.sfv	a4bcb0489e7a229f689e67d48e693e7b

@@ -1,0 +1,14 @@
+v-pikmin_1.nfo	c6e5a855
+v-pikmin_1.r00	d3d2f552
+v-pikmin_1.r01	f6e97a71
+v-pikmin_1.r02	0172caca
+v-pikmin_1.r03	db36929b
+v-pikmin_1.r04	b5e2b058
+v-pikmin_1.r05	2c888d9b
+v-pikmin_1.r06	07e7df38
+v-pikmin_1.r07	8f4bcc14
+v-pikmin_1.r08	6d60b608
+v-pikmin_1.r09	f13608d2
+v-pikmin_1.r10	5782bf0b
+v-pikmin_1.rar	994e97cd
+v-pikmin_1.sfv	cb035e91

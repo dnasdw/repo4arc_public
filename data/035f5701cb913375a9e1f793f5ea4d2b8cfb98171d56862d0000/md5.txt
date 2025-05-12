@@ -1,0 +1,7 @@
+delight.nfo	d3f381e3da7a01ae380b1a091d371255
+dl-townsmen.r00	4035442adb28ad0d747b9e5a049bd202
+dl-townsmen.r01	7e94325547126b4be3727342da0d1d3b
+dl-townsmen.r02	cce1d99bd3703e17cb067a579c317f41
+dl-townsmen.r03	6c06b1774a31fb8f2700c53954ad6109
+dl-townsmen.rar	a00da495acacaca6f2e8464d5d01ea7b
+dl-townsmen.sfv	ab806e525a893c9b1d21da95ede85bea

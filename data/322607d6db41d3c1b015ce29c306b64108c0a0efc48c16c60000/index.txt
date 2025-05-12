@@ -1,0 +1,5 @@
+sxs-downslope_v196608.nfo	-	4340	1	0	0	0
+sxs-downslope_v196608.r00	-	50000000	1	4340	0	1
+sxs-downslope_v196608.r01	-	31757985	1	50004340	0	49
+sxs-downslope_v196608.rar	-	50000000	1	81762325	0	80
+sxs-downslope_v196608.sfv	-	108	1	131762325	0	128

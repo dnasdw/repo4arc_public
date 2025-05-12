@@ -1,0 +1,10 @@
+bbb-n-ah5sa.nfo	-	5517	1	0	0	0
+bbb-n-ah5sa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ah5sa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ah5sa.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-ah5sa.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-ah5sa.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-ah5sa.part6.rar	-	250000000	1	174502528	2	167
+bbb-n-ah5sa.part7.rar	-	250000000	1	424502528	2	406
+bbb-n-ah5sa.part8.rar	-	107773142	1	136753792	3	131
+bbb-n-ah5sa.sfv	-	256	1	244526934	3	234

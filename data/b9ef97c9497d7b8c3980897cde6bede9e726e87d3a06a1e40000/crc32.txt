@@ -1,0 +1,9 @@
+v-encodya_v131072.nfo	a35aabca
+v-encodya_v131072.r00	2d5328d2
+v-encodya_v131072.r01	ea6bec6c
+v-encodya_v131072.r02	b2576cb5
+v-encodya_v131072.r03	17b2d45c
+v-encodya_v131072.r04	f97e7113
+v-encodya_v131072.r05	656a3374
+v-encodya_v131072.rar	949b70b4
+v-encodya_v131072.sfv	4045b76c

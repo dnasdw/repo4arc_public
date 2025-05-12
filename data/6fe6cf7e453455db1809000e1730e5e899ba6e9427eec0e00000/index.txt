@@ -1,0 +1,6 @@
+sxs-milli_and_greg.nfo	-	4730	1	0	0	0
+sxs-milli_and_greg.r00	-	50000000	1	4730	0	1
+sxs-milli_and_greg.r01	-	50000000	1	50004730	0	49
+sxs-milli_and_greg.r02	-	36497666	1	100004730	0	97
+sxs-milli_and_greg.rar	-	50000000	1	136502396	0	132
+sxs-milli_and_greg.sfv	-	132	1	186502396	0	180

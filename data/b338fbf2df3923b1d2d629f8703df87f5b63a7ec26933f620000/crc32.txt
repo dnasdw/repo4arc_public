@@ -1,0 +1,5 @@
+sxs-cytus_alpha_v262144.nfo	a97b3311
+sxs-cytus_alpha_v262144.r00	771047a5
+sxs-cytus_alpha_v262144.r01	f35089f0
+sxs-cytus_alpha_v262144.rar	46d5381b
+sxs-cytus_alpha_v262144.sfv	8a32df2f

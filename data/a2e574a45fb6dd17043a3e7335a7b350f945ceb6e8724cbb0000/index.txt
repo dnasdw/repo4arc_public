@@ -1,0 +1,9 @@
+sxs-crymachina_multi_v327680.nfo	-	4340	1	0	0	0
+sxs-crymachina_multi_v327680.r00	-	100000000	1	4340	0	1
+sxs-crymachina_multi_v327680.r01	-	100000000	1	100004340	0	97
+sxs-crymachina_multi_v327680.r02	-	100000000	1	200004340	0	193
+sxs-crymachina_multi_v327680.r03	-	100000000	1	300004340	0	289
+sxs-crymachina_multi_v327680.r04	-	100000000	1	400004340	0	385
+sxs-crymachina_multi_v327680.r05	-	30685331	1	500004340	0	481
+sxs-crymachina_multi_v327680.rar	-	100000000	1	530689671	0	511
+sxs-crymachina_multi_v327680.sfv	-	301	1	93708544	1	90

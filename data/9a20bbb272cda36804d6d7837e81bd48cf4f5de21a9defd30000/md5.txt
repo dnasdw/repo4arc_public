@@ -1,0 +1,14 @@
+i-mrblaster.nfo	ecd8220b70c4477335d04a976c6baaeb
+i-mrblaster.r00	2032cecdc180cfc2a1b940a87c8a31f6
+i-mrblaster.r01	003fec7683e8a6937c1df89a6936eed6
+i-mrblaster.r02	2ca6e4c017cd3b801fb255bced5530fa
+i-mrblaster.r03	92287953a26938dfd17e65f43377245a
+i-mrblaster.r04	14b47f5d5d9579dfd41923c1e49620c5
+i-mrblaster.r05	35040a5e7bf3dc8890c2897ff52fea30
+i-mrblaster.r06	0d11a940c9aab5c0dabe44e219a38f85
+i-mrblaster.r07	d0102e5fa8c5cd850f77b189fc922171
+i-mrblaster.r08	28b8bfd5c5bd7c93a9ea34e2de3613b7
+i-mrblaster.r09	07cd7d65afb6a0d2154428657460a993
+i-mrblaster.r10	85b74b6c2ad3631c4df6b2c7d2f1cd53
+i-mrblaster.rar	38402490be7ecee0e00206622f4870c8
+i-mrblaster.sfv	5edb099f92dcb50b9e49e9517daf8e90

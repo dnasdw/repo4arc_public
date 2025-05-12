@@ -1,0 +1,5 @@
+sxs-steam_tactics.nfo	-	5120	1	0	0	0
+sxs-steam_tactics.r00	-	50000000	1	5120	0	1
+sxs-steam_tactics.r01	-	43384945	1	50005120	0	49
+sxs-steam_tactics.rar	-	50000000	1	93390065	0	91
+sxs-steam_tactics.sfv	-	96	1	143390065	0	139

@@ -1,0 +1,4 @@
+sxs-biolab_wars_v65536.nfo	-	5822	1	0	0	0
+sxs-biolab_wars_v65536.r00	-	3105900	1	5822	0	1
+sxs-biolab_wars_v65536.rar	-	50000000	1	3111722	0	4
+sxs-biolab_wars_v65536.sfv	-	74	1	53111722	0	52

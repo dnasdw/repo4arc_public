@@ -1,0 +1,13 @@
+v-sniper_elite_v2_remastered_v131072.nfo	1ea0745b
+v-sniper_elite_v2_remastered_v131072.r00	9ebaeb3d
+v-sniper_elite_v2_remastered_v131072.r01	7cca4ff7
+v-sniper_elite_v2_remastered_v131072.r02	18fcbd2c
+v-sniper_elite_v2_remastered_v131072.r03	0ed7d417
+v-sniper_elite_v2_remastered_v131072.r04	0261a0d4
+v-sniper_elite_v2_remastered_v131072.r05	46e1c170
+v-sniper_elite_v2_remastered_v131072.r06	1e76979b
+v-sniper_elite_v2_remastered_v131072.r07	29f1df32
+v-sniper_elite_v2_remastered_v131072.r08	2555fbed
+v-sniper_elite_v2_remastered_v131072.r09	f8fe2be1
+v-sniper_elite_v2_remastered_v131072.rar	e53d6f28
+v-sniper_elite_v2_remastered_v131072.sfv	a78c7972

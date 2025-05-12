@@ -1,0 +1,11 @@
+sxs-sea_king.nfo	dee188b0259c65f3365141552f4b95cf
+sxs-sea_king.r00	60af2aef89aee27b6031d7f341bbd8e0
+sxs-sea_king.r01	cb5a20b57ee968400966feb2f4e9c782
+sxs-sea_king.r02	974735bc86561b4fa3274216a8ba7566
+sxs-sea_king.r03	49a041da6bd8d23d577bdd685045fdd5
+sxs-sea_king.r04	c04a0db138b5ca9b85f01523de6b61ce
+sxs-sea_king.r05	15f6f0fd6090c2e5765b880a5ef39f3d
+sxs-sea_king.r06	ee6959f721917b3fcf5054064a4aa9f0
+sxs-sea_king.r07	a3c5af80e9ddddcb5ee87db70041fe3b
+sxs-sea_king.rar	1483d7b41d4630ec8d68e1b6bbde611a
+sxs-sea_king.sfv	b43fc83af7a94298c3a60b1147fb6d4a

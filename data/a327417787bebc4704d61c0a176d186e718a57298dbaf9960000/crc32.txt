@@ -1,0 +1,6 @@
+v-blasphemous_v65536.nfo	b4e0fd75
+v-blasphemous_v65536.r00	13efab9f
+v-blasphemous_v65536.r01	cece06c0
+v-blasphemous_v65536.r02	306996a3
+v-blasphemous_v65536.rar	093ece87
+v-blasphemous_v65536.sfv	eb036b09

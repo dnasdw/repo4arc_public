@@ -1,0 +1,3 @@
+sxs-aot2_additional_costume_pack_dlc.nfo	d7aae338fe2e9cc71518c6f3960252af
+sxs-aot2_additional_costume_pack_dlc.rar	aa192d78e5b2750966473f17dbed700e
+sxs-aot2_additional_costume_pack_dlc.sfv	3c5ec47a5f3ebada1ea19185b9e6d87e

@@ -1,0 +1,9 @@
+sxs-wildbus_v131072.nfo	02b07845
+sxs-wildbus_v131072.r00	dac53dbd
+sxs-wildbus_v131072.r01	8772f2f3
+sxs-wildbus_v131072.r02	dcf37beb
+sxs-wildbus_v131072.r03	d534754e
+sxs-wildbus_v131072.r04	54d899ce
+sxs-wildbus_v131072.r05	6ca34601
+sxs-wildbus_v131072.rar	91bfaed3
+sxs-wildbus_v131072.sfv	210735ca

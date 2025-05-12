@@ -1,0 +1,6 @@
+sxs-cube_decider.nfo	-	6212	1	0	0	0
+sxs-cube_decider.r00	-	50000000	1	6212	0	1
+sxs-cube_decider.r01	-	50000000	1	50006212	0	49
+sxs-cube_decider.r02	-	29175441	1	100006212	0	97
+sxs-cube_decider.rar	-	50000000	1	129181653	0	125
+sxs-cube_decider.sfv	-	124	1	179181653	0	173

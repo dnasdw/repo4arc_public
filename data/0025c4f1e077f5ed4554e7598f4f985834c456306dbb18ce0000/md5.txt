@@ -1,0 +1,14 @@
+jrp-n-word.nfo	174666ae60de92e279941427733fcd1e
+jrp-n-word.r00	e1e586e1997838c6f1fc9a63160fef5b
+jrp-n-word.r01	4d253ee86dfbdc78a0b85160f0d3e0ad
+jrp-n-word.r02	b5fb361f607f245d2f63e7771248bea5
+jrp-n-word.r03	4cd2b9e739c792719eb8a9df3129e146
+jrp-n-word.r04	5aa4ebc19351b791e6cf1c4d983f4b7d
+jrp-n-word.r05	3cf9dbdae65a097fe6f29431ce8c234c
+jrp-n-word.r06	948368a499f24e446c4dfdbf55160c28
+jrp-n-word.r07	1b66a44bb059a751ca1ec5eeca7cf6e4
+jrp-n-word.r08	93aa4d9a221bf8490381a81274b76055
+jrp-n-word.r09	4e2cebd6b49f48d81ae5c69c2cc2aa15
+jrp-n-word.r10	75cfd455eb59dde5383c0f29514cb1c8
+jrp-n-word.rar	e6b3182181e670fd8290b7cf3928163d
+jrp-n-word.sfv	1518f73c5bca8ac2f14ee061c841fc40

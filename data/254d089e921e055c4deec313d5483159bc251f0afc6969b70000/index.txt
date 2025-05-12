@@ -1,0 +1,4 @@
+sxs-genseisuikoden_plus_v196608.nfo	-	4340	1	0	0	0
+sxs-genseisuikoden_plus_v196608.r00	-	87243693	1	4340	0	1
+sxs-genseisuikoden_plus_v196608.rar	-	100000000	1	87248033	0	85
+sxs-genseisuikoden_plus_v196608.sfv	-	92	1	187248033	0	181

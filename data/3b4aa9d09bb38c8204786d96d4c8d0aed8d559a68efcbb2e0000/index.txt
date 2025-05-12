@@ -1,0 +1,3 @@
+hr-avara-dlc.nfo	-	11420	1	0	0	0
+hr-avara-dlc.rar	-	943246	1	11420	0	1
+hr-avara-dlc.sfv	-	27	1	954666	0	2

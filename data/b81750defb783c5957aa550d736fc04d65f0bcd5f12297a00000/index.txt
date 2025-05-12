@@ -1,0 +1,4 @@
+sxs-umihara_kawase_fresh_v262144.nfo	-	6291	1	0	0	0
+sxs-umihara_kawase_fresh_v262144.r00	-	18992050	1	6291	0	1
+sxs-umihara_kawase_fresh_v262144.rar	-	50000000	1	18998341	0	20
+sxs-umihara_kawase_fresh_v262144.sfv	-	94	1	68998341	0	68

@@ -1,0 +1,7 @@
+v-hyperparasite_v65536.nfo	1e1784fc
+v-hyperparasite_v65536.r00	d690a8bd
+v-hyperparasite_v65536.r01	2414adb6
+v-hyperparasite_v65536.r02	2daaf447
+v-hyperparasite_v65536.r03	05c3ed13
+v-hyperparasite_v65536.rar	4e0ecdff
+v-hyperparasite_v65536.sfv	15785f04

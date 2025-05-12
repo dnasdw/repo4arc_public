@@ -1,0 +1,11 @@
+v-the_legend_of_steel_empire.nfo	-	4576	1	0	0	0
+v-the_legend_of_steel_empire.r00	-	100000000	1	4576	0	1
+v-the_legend_of_steel_empire.r01	-	100000000	1	100004576	0	97
+v-the_legend_of_steel_empire.r02	-	100000000	1	200004576	0	193
+v-the_legend_of_steel_empire.r03	-	100000000	1	300004576	0	289
+v-the_legend_of_steel_empire.r04	-	100000000	1	400004576	0	385
+v-the_legend_of_steel_empire.r05	-	100000000	1	500004576	0	481
+v-the_legend_of_steel_empire.r06	-	100000000	1	62251264	1	60
+v-the_legend_of_steel_empire.r07	-	93534599	1	162251264	1	156
+v-the_legend_of_steel_empire.rar	-	100000000	1	255785863	1	246
+v-the_legend_of_steel_empire.sfv	-	387	1	355785863	1	342

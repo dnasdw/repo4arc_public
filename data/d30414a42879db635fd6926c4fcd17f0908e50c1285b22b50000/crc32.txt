@@ -1,0 +1,6 @@
+v-papertris.nfo	36e9e3b4
+v-papertris.r00	656ac01d
+v-papertris.r01	2b997fea
+v-papertris.r02	31cd14b2
+v-papertris.rar	4a3233d4
+v-papertris.sfv	8ae32abf

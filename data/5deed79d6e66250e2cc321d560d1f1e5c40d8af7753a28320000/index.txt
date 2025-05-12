@@ -1,0 +1,4 @@
+sxs-secrets_of_magic_3_happy_halloween.nfo	-	4886	1	0	0	0
+sxs-secrets_of_magic_3_happy_halloween.r00	-	6272952	1	4886	0	1
+sxs-secrets_of_magic_3_happy_halloween.rar	-	100000000	1	6277838	0	7
+sxs-secrets_of_magic_3_happy_halloween.sfv	-	106	1	106277838	0	103

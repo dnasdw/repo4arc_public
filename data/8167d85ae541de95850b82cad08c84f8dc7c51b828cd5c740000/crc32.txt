@@ -1,0 +1,9 @@
+sxs-one_strike_v262144.nfo	cc8882f0
+sxs-one_strike_v262144.r00	629ecf8c
+sxs-one_strike_v262144.r01	e6c9dc46
+sxs-one_strike_v262144.r02	62844853
+sxs-one_strike_v262144.r03	52e209c3
+sxs-one_strike_v262144.r04	5d835b91
+sxs-one_strike_v262144.r05	c482cef9
+sxs-one_strike_v262144.rar	ce42dc62
+sxs-one_strike_v262144.sfv	65575e81

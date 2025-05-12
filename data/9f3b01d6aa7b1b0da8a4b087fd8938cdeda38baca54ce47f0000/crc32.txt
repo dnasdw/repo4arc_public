@@ -1,0 +1,9 @@
+v-towers_watch.nfo	81db54aa
+v-towers_watch.r00	f684d3d3
+v-towers_watch.r01	7523665b
+v-towers_watch.r02	a7463908
+v-towers_watch.r03	c8d759e0
+v-towers_watch.r04	8bf44fbe
+v-towers_watch.r05	f87bc17a
+v-towers_watch.rar	02d3c36a
+v-towers_watch.sfv	7c6b7a3b

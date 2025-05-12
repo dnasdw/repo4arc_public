@@ -1,0 +1,4 @@
+sxs-fault_milestone_one_v131072.nfo	-	5042	1	0	0	0
+sxs-fault_milestone_one_v131072.r00	-	31046063	1	5042	0	1
+sxs-fault_milestone_one_v131072.rar	-	50000000	1	31051105	0	31
+sxs-fault_milestone_one_v131072.sfv	-	92	1	81051105	0	79

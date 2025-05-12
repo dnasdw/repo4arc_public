@@ -1,0 +1,4 @@
+sxs-mahluk_dark_demon_v65536.nfo	adf5361a5a5bc0063a54973bf15e88044833f3dc
+sxs-mahluk_dark_demon_v65536.r00	c647053209d14381ed3f3e0721be8d14feccf242
+sxs-mahluk_dark_demon_v65536.rar	72911e678d0b4b89655020942f7a81febc42fe6e
+sxs-mahluk_dark_demon_v65536.sfv	b9aa487dafec56f7817c7cbc0906bb7898a71ad7

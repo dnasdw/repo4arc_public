@@ -1,0 +1,11 @@
+sxs-angels_of_death_v458752.nfo	2a7300aa
+sxs-angels_of_death_v458752.r00	c08c0ec2
+sxs-angels_of_death_v458752.r01	ad9aefaf
+sxs-angels_of_death_v458752.r02	e9e527db
+sxs-angels_of_death_v458752.r03	c894433c
+sxs-angels_of_death_v458752.r04	0cab6e11
+sxs-angels_of_death_v458752.r05	523a8c4a
+sxs-angels_of_death_v458752.r06	e1c4cf7b
+sxs-angels_of_death_v458752.r07	f6151f5d
+sxs-angels_of_death_v458752.rar	edf33910
+sxs-angels_of_death_v458752.sfv	fb01146b

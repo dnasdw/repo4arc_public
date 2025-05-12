@@ -1,0 +1,8 @@
+sxs-anime_girls_sun_of_a_beach.nfo	-	5822	1	0	0	0
+sxs-anime_girls_sun_of_a_beach.r00	-	100000000	1	5822	0	1
+sxs-anime_girls_sun_of_a_beach.r01	-	100000000	1	100005822	0	97
+sxs-anime_girls_sun_of_a_beach.r02	-	100000000	1	200005822	0	193
+sxs-anime_girls_sun_of_a_beach.r03	-	100000000	1	300005822	0	289
+sxs-anime_girls_sun_of_a_beach.r04	-	65249617	1	400005822	0	385
+sxs-anime_girls_sun_of_a_beach.rar	-	100000000	1	465255439	0	448
+sxs-anime_girls_sun_of_a_beach.sfv	-	270	1	27648256	1	27

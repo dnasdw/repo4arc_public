@@ -1,0 +1,7 @@
+sxs-spooky_chase.nfo	a5a85a91
+sxs-spooky_chase.r00	47d8684c
+sxs-spooky_chase.r01	04a7d6ca
+sxs-spooky_chase.r02	3df587d3
+sxs-spooky_chase.r03	88e31480
+sxs-spooky_chase.rar	bb42a036
+sxs-spooky_chase.sfv	f6620839

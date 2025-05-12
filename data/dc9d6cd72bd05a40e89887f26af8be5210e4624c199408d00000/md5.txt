@@ -1,0 +1,5 @@
+sxs-gravifire.nfo	26005cfbf135c8e5d55378f7a1f5a909
+sxs-gravifire.r00	c67dc31c032cb55ee3e8efb5df051d22
+sxs-gravifire.r01	a9eebc701b464d690fd3b7eacec6076e
+sxs-gravifire.rar	b367d10d8a5a2472c5f39c4232520c15
+sxs-gravifire.sfv	eb881ae283a2100110675fd8a5062dc6

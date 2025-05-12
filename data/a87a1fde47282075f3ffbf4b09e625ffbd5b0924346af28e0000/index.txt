@@ -1,0 +1,3 @@
+sxs-super_adventure_hand_v65536.nfo	-	4964	1	0	0	0
+sxs-super_adventure_hand_v65536.rar	-	83774515	1	4964	0	1
+sxs-super_adventure_hand_v65536.sfv	-	46	1	83779479	0	81

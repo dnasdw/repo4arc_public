@@ -1,0 +1,14 @@
+v-corbid_a_colorful_adventure.nfo	-	3874	1	0	0	0
+v-corbid_a_colorful_adventure.r00	-	100000000	1	3874	0	1
+v-corbid_a_colorful_adventure.r01	-	100000000	1	100003874	0	97
+v-corbid_a_colorful_adventure.r02	-	100000000	1	200003874	0	193
+v-corbid_a_colorful_adventure.r03	-	100000000	1	300003874	0	289
+v-corbid_a_colorful_adventure.r04	-	100000000	1	400003874	0	385
+v-corbid_a_colorful_adventure.r05	-	100000000	1	500003874	0	481
+v-corbid_a_colorful_adventure.r06	-	100000000	1	62251264	1	60
+v-corbid_a_colorful_adventure.r07	-	100000000	1	162251264	1	156
+v-corbid_a_colorful_adventure.r08	-	100000000	1	262251264	1	252
+v-corbid_a_colorful_adventure.r09	-	100000000	1	362251264	1	348
+v-corbid_a_colorful_adventure.r10	-	9188609	1	462251264	1	444
+v-corbid_a_colorful_adventure.rar	-	100000000	1	471439873	1	453
+v-corbid_a_colorful_adventure.sfv	-	528	1	33939712	2	33

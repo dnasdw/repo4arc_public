@@ -1,0 +1,14 @@
+n-dysmantle_v65536.nfo	aa2883bc
+n-dysmantle_v65536.r00	5084c456
+n-dysmantle_v65536.r01	871f84c1
+n-dysmantle_v65536.r02	c7d68c71
+n-dysmantle_v65536.r03	842b775b
+n-dysmantle_v65536.r04	40f40e0a
+n-dysmantle_v65536.r05	a3d973da
+n-dysmantle_v65536.r06	aab508f6
+n-dysmantle_v65536.r07	5bb3a340
+n-dysmantle_v65536.r08	4b28e401
+n-dysmantle_v65536.r09	ff0733e2
+n-dysmantle_v65536.r10	ebd3af97
+n-dysmantle_v65536.rar	b5a6e2c1
+n-dysmantle_v65536.sfv	b79a11f7

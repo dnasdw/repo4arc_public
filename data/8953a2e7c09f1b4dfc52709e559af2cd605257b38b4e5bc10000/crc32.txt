@@ -1,0 +1,8 @@
+lfc-croixleursigmaupd.nfo	0e198e0c
+lfc-croixleursigmaupd.r00	913e6008
+lfc-croixleursigmaupd.r01	7ff5564b
+lfc-croixleursigmaupd.r02	420bd47e
+lfc-croixleursigmaupd.r03	f8e77442
+lfc-croixleursigmaupd.r04	f12de71a
+lfc-croixleursigmaupd.rar	a7f77531
+lfc-croixleursigmaupd.sfv	feac9f84

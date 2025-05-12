@@ -1,0 +1,12 @@
+lfc-sbpr.nfo	949175f699d09024ade8f8d52e2fc2b8
+lfc-sbpr.r00	b34a38081d31b2dba5e0d46b6bce33a4
+lfc-sbpr.r01	7eae6a44cf3b8ce1a46cbf8650e76d9e
+lfc-sbpr.r02	336a260ef70248e99582c5126715fe4f
+lfc-sbpr.r03	42741ba285a95e6c912b1879da253db4
+lfc-sbpr.r04	8b23b22a26b9d9def24df7e22e5b64b1
+lfc-sbpr.r05	57d32cebee96cbef0589d9b28aa1fc52
+lfc-sbpr.r06	56b294870d6d174e874184b6d5f65265
+lfc-sbpr.r07	f6ec78c0b03912eebb31e43028807612
+lfc-sbpr.r08	f4662dc2d0600c5ab8f9c777f16b7780
+lfc-sbpr.rar	87eca7dcb08e3ee5b56aebf8ae9e8e16
+lfc-sbpr.sfv	dbda79738546dd1698718c5609fbda60

@@ -1,0 +1,9 @@
+sxs-chasm_v196608.nfo	b92d03cc
+sxs-chasm_v196608.r00	6dee367c
+sxs-chasm_v196608.r01	d10c8785
+sxs-chasm_v196608.r02	de73b45e
+sxs-chasm_v196608.r03	7cba83ff
+sxs-chasm_v196608.r04	8d48734f
+sxs-chasm_v196608.r05	817459c6
+sxs-chasm_v196608.rar	24a59840
+sxs-chasm_v196608.sfv	66762596

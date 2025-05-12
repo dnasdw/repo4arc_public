@@ -1,0 +1,7 @@
+sxs-badnorth_v458752.nfo	88fa2b6b
+sxs-badnorth_v458752.r00	aaa810e4
+sxs-badnorth_v458752.r01	7042e3a7
+sxs-badnorth_v458752.r02	0628670a
+sxs-badnorth_v458752.r03	6c5a9efe
+sxs-badnorth_v458752.rar	740fc9ea
+sxs-badnorth_v458752.sfv	15633c5b

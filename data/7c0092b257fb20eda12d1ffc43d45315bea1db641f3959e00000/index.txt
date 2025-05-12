@@ -1,0 +1,9 @@
+bbb-h-aaccap.nfo	-	5517	1	0	0	0
+bbb-h-aaccap.part01.rar	-	250000000	1	5517	0	1
+bbb-h-aaccap.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-aaccap.part03.rar	-	250000000	1	500005517	0	479
+bbb-h-aaccap.part04.rar	-	250000000	1	212251264	1	203
+bbb-h-aaccap.part05.rar	-	250000000	1	462251264	1	442
+bbb-h-aaccap.part06.rar	-	250000000	1	174502528	2	167
+bbb-h-aaccap.part07.rar	-	234677725	1	424502528	2	406
+bbb-h-aaccap.sfv	-	238	1	121431517	3	116

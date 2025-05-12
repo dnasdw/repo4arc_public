@@ -1,0 +1,9 @@
+v-picross_s4_v524288.nfo	80d80e2a
+v-picross_s4_v524288.r00	3be41118
+v-picross_s4_v524288.r01	d7972fa3
+v-picross_s4_v524288.r02	c5d1f323
+v-picross_s4_v524288.r03	ce5a7e54
+v-picross_s4_v524288.r04	676abe77
+v-picross_s4_v524288.r05	16a17a75
+v-picross_s4_v524288.rar	cfea452a
+v-picross_s4_v524288.sfv	337c6f0b

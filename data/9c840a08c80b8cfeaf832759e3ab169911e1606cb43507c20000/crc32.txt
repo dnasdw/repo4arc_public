@@ -1,0 +1,8 @@
+sxs-worms_wmd_v196608.nfo	c205fcee
+sxs-worms_wmd_v196608.r00	f1caaf7d
+sxs-worms_wmd_v196608.r01	d4361826
+sxs-worms_wmd_v196608.r02	bd600f01
+sxs-worms_wmd_v196608.r03	b80071ae
+sxs-worms_wmd_v196608.r04	7eb21020
+sxs-worms_wmd_v196608.rar	a27ac9d6
+sxs-worms_wmd_v196608.sfv	c9b49318

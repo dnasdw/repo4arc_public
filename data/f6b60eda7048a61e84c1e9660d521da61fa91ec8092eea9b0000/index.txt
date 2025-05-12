@@ -1,0 +1,9 @@
+sxs-invisigun_reloaded_v262144.nfo	-	6212	1	0	0	0
+sxs-invisigun_reloaded_v262144.r00	-	50000000	1	6212	0	1
+sxs-invisigun_reloaded_v262144.r01	-	50000000	1	50006212	0	49
+sxs-invisigun_reloaded_v262144.r02	-	50000000	1	100006212	0	97
+sxs-invisigun_reloaded_v262144.r03	-	50000000	1	150006212	0	145
+sxs-invisigun_reloaded_v262144.r04	-	50000000	1	200006212	0	193
+sxs-invisigun_reloaded_v262144.r05	-	7107464	1	250006212	0	241
+sxs-invisigun_reloaded_v262144.rar	-	50000000	1	257113676	0	248
+sxs-invisigun_reloaded_v262144.sfv	-	315	1	307113676	0	296

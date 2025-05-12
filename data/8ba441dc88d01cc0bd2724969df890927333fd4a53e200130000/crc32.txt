@@ -1,0 +1,8 @@
+sxs-asscrr_fr_dlc.nfo	b2520c6a
+sxs-asscrr_fr_dlc.r00	6bb08724
+sxs-asscrr_fr_dlc.r01	a30d61a1
+sxs-asscrr_fr_dlc.r02	d97bd3f0
+sxs-asscrr_fr_dlc.r03	543609a9
+sxs-asscrr_fr_dlc.r04	da802a33
+sxs-asscrr_fr_dlc.rar	65987db1
+sxs-asscrr_fr_dlc.sfv	709e8343

@@ -1,0 +1,11 @@
+sxs-spinnys_journey.nfo	fdc706d7
+sxs-spinnys_journey.r00	6136ace0
+sxs-spinnys_journey.r01	6e58f9b7
+sxs-spinnys_journey.r02	b5529f21
+sxs-spinnys_journey.r03	fe4089b8
+sxs-spinnys_journey.r04	8454da53
+sxs-spinnys_journey.r05	48ed9f11
+sxs-spinnys_journey.r06	e0482a59
+sxs-spinnys_journey.r07	a8b88585
+sxs-spinnys_journey.rar	63ee8527
+sxs-spinnys_journey.sfv	0c88cfb7

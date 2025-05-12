@@ -1,0 +1,4 @@
+v-nascar_arcade_rush_v65536.nfo	5e769b83668fc82caf5e3cdb5688efc48c497d5f
+v-nascar_arcade_rush_v65536.r00	9b440ace481ef379f1c913fbc3a00826e43b32e3
+v-nascar_arcade_rush_v65536.rar	d5a273604e997f04e0ea5d2be3422a317b7a13cf
+v-nascar_arcade_rush_v65536.sfv	323e80b7aa96d769e3a9e77b42860025e0bfd3b5

@@ -1,0 +1,4 @@
+bbb-n-aebma.nfo	-	5517	1	0	0	0
+bbb-n-aebma.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aebma.part2.rar	-	174883566	1	250005517	0	240
+bbb-n-aebma.sfv	-	64	1	424889083	0	407

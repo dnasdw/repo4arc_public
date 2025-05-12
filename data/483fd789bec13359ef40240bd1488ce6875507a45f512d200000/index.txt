@@ -1,0 +1,6 @@
+sxs-space_warlord_organ_trading_simulator_v196608.nfo	-	4730	1	0	0	0
+sxs-space_warlord_organ_trading_simulator_v196608.r00	-	100000000	1	4730	0	1
+sxs-space_warlord_organ_trading_simulator_v196608.r01	-	100000000	1	100004730	0	97
+sxs-space_warlord_organ_trading_simulator_v196608.r02	-	88266668	1	200004730	0	193
+sxs-space_warlord_organ_trading_simulator_v196608.rar	-	100000000	1	288271398	0	278
+sxs-space_warlord_organ_trading_simulator_v196608.sfv	-	256	1	388271398	0	374

@@ -1,0 +1,8 @@
+v-will_you_snail.nfo	767abd52068322e3be124ccee6977e36
+v-will_you_snail.r00	f4bce8c2c657b660e1d959ffbae3bffa
+v-will_you_snail.r01	4c9a02fe3e90e5bfccb86037c4387a9e
+v-will_you_snail.r02	4f650c91030a7a492516bcc96ca6d3e6
+v-will_you_snail.r03	0d42b1a37ec56843d5a0d3d2c9fd478a
+v-will_you_snail.r04	2eb881f61a4a23977df5c9ce1ef5c73e
+v-will_you_snail.rar	b3c80d99f88e7d65e8f1cb4cf72a8749
+v-will_you_snail.sfv	e6f71a912fbb474790a1c0ad12cc4289

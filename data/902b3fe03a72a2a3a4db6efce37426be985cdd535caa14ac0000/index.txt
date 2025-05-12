@@ -1,0 +1,7 @@
+sxs-kombinera.nfo	-	5120	1	0	0	0
+sxs-kombinera.r00	-	50000000	1	5120	0	1
+sxs-kombinera.r01	-	50000000	1	50005120	0	49
+sxs-kombinera.r02	-	50000000	1	100005120	0	97
+sxs-kombinera.r03	-	29617144	1	150005120	0	145
+sxs-kombinera.rar	-	50000000	1	179622264	0	174
+sxs-kombinera.sfv	-	140	1	229622264	0	222

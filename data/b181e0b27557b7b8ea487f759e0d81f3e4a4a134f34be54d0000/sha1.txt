@@ -1,0 +1,4 @@
+v-shakedown_hawaii_v262144.nfo	fbf66e0768e65da5e0c4e3d9ff9f4d80a8ce330e
+v-shakedown_hawaii_v262144.r00	ee3036c2db340e0215df894e66b72c9e25db2bb5
+v-shakedown_hawaii_v262144.rar	375ca39f2e39b7ee2cbb5add35bd886189b5a825
+v-shakedown_hawaii_v262144.sfv	2ca27cc537d6e4d5fd9606c676bc2345d8fa5ae4

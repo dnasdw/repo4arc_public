@@ -1,0 +1,13 @@
+v-haiku_the_robot_v131072.nfo	4430c943
+v-haiku_the_robot_v131072.r00	82b4a7a9
+v-haiku_the_robot_v131072.r01	7afc267c
+v-haiku_the_robot_v131072.r02	d1122408
+v-haiku_the_robot_v131072.r03	601840f0
+v-haiku_the_robot_v131072.r04	eb9f27c1
+v-haiku_the_robot_v131072.r05	67dd50ee
+v-haiku_the_robot_v131072.r06	6449c836
+v-haiku_the_robot_v131072.r07	49f5cdc7
+v-haiku_the_robot_v131072.r08	86293d58
+v-haiku_the_robot_v131072.r09	55660cda
+v-haiku_the_robot_v131072.rar	e07195dd
+v-haiku_the_robot_v131072.sfv	691175d6

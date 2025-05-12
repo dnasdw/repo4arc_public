@@ -1,0 +1,7 @@
+v-avenger.nfo	3f452856
+v-avenger.r00	911996e8
+v-avenger.r01	d02a395a
+v-avenger.r02	ffd3f205
+v-avenger.r03	d64c0b82
+v-avenger.rar	698e39c2
+v-avenger.sfv	e739f7c3

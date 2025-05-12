@@ -1,0 +1,7 @@
+sxs-advent_calendar_v262144.nfo	-	6290	1	0	0	0
+sxs-advent_calendar_v262144.r00	-	100000000	1	6290	0	1
+sxs-advent_calendar_v262144.r01	-	100000000	1	100006290	0	97
+sxs-advent_calendar_v262144.r02	-	100000000	1	200006290	0	193
+sxs-advent_calendar_v262144.r03	-	14814286	1	300006290	0	289
+sxs-advent_calendar_v262144.rar	-	100000000	1	314820576	0	304
+sxs-advent_calendar_v262144.sfv	-	210	1	414820576	0	400

@@ -1,0 +1,16 @@
+hr-a8stav65536.nfo	aef10e5c
+hr-a8stav65536.r00	67386a7d
+hr-a8stav65536.r01	b7eaba2f
+hr-a8stav65536.r02	8bcc0a11
+hr-a8stav65536.r03	52c7f0f0
+hr-a8stav65536.r04	7badb5db
+hr-a8stav65536.r05	1de1a840
+hr-a8stav65536.r06	29b06d64
+hr-a8stav65536.r07	4af87aee
+hr-a8stav65536.r08	c2c99590
+hr-a8stav65536.r09	3ef0643b
+hr-a8stav65536.r10	7812c2a0
+hr-a8stav65536.r11	c47ead08
+hr-a8stav65536.r12	90d9974d
+hr-a8stav65536.rar	a9024726
+hr-a8stav65536.sfv	b6f852c6

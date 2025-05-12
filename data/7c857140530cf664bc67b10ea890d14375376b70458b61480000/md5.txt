@@ -1,0 +1,11 @@
+n-tinygladiators.nfo	516c514c1b5815515c781083bb937e7c
+n-tinygladiators.r00	633edc7362d6e450d385b4518c9047c8
+n-tinygladiators.r01	7027a6d068bdbef85d8bd33ce009bc6b
+n-tinygladiators.r02	c0f4fd023551350331939c41e0a647ad
+n-tinygladiators.r03	74fc69933e121849d6b065bb46a18400
+n-tinygladiators.r04	13c19ecc464610da97ead41b3231154b
+n-tinygladiators.r05	542d41cd5cd8fa0faa0113c1f4594595
+n-tinygladiators.r06	6f3bcca3387253b730450f223d928770
+n-tinygladiators.r07	ff84601463987bb975993d2470683e2b
+n-tinygladiators.rar	dfdc7fb681215e6bae0244c140c2f73e
+n-tinygladiators.sfv	249739217042507a6f4995ab7631efd4

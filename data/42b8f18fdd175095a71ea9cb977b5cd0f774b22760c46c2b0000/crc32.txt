@@ -1,0 +1,15 @@
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.nfo	61008820
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.r00	e51a696f
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.r01	a59533b0
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.r02	99fdf4d6
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.r03	32ae973b
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.r04	2fca823a
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.r05	badf1271
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.r06	0e5afdda
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.r07	e51f63bf
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.r08	34a2310e
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.r09	bdd2789d
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.r10	ca07f32e
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.r11	aef5fd68
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.rar	816a6a12
+sxs-ea_sports_fc_24_in-game_commentary_italian_dlc.sfv	2cb22aba

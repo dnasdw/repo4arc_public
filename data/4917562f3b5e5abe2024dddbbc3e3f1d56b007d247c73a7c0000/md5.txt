@@ -1,0 +1,5 @@
+sxs-spirit_roots_v65536.nfo	d294fdef1cc8951ae363fcc9a5f537f5
+sxs-spirit_roots_v65536.r00	48e98b83fda50ac33fff8fba91ed1724
+sxs-spirit_roots_v65536.r01	6c5f20da566a524c11ccf17afedee172
+sxs-spirit_roots_v65536.rar	4ed75bec002307b067aa041ee66c19ba
+sxs-spirit_roots_v65536.sfv	32071ed4abfdfbba13eb0982575f0f51

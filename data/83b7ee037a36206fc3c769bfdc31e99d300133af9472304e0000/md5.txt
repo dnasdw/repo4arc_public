@@ -1,0 +1,8 @@
+lfc-blazingbeaks.nfo	c028c9c4c56f8983301e543563a5ddf2
+lfc-blazingbeaks.r00	934333de5b7e69d5b70e8ef52061b79b
+lfc-blazingbeaks.r01	768696f066d04ef4c7fdbf5f40468b84
+lfc-blazingbeaks.r02	b60c371089f30fbbf87d008d57097295
+lfc-blazingbeaks.r03	daa8ab212d0c27e918ae19f7a13c17fd
+lfc-blazingbeaks.r04	961c7c65e3d626448bafab553da21861
+lfc-blazingbeaks.rar	35b696943c9982100c4643d99abdd2e8
+lfc-blazingbeaks.sfv	d3c0d64c36ea8db82ef2f230304618fe

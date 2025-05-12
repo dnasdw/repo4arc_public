@@ -1,0 +1,12 @@
+sxs-battle_stations_blockade.nfo	5672d853
+sxs-battle_stations_blockade.r00	57182354
+sxs-battle_stations_blockade.r01	be9c9a5d
+sxs-battle_stations_blockade.r02	fba28cdc
+sxs-battle_stations_blockade.r03	45459b28
+sxs-battle_stations_blockade.r04	738ef6bd
+sxs-battle_stations_blockade.r05	bb59755f
+sxs-battle_stations_blockade.r06	84dc708f
+sxs-battle_stations_blockade.r07	0647e33a
+sxs-battle_stations_blockade.r08	858dcbf0
+sxs-battle_stations_blockade.rar	bd527da5
+sxs-battle_stations_blockade.sfv	728a07e6

@@ -1,0 +1,16 @@
+sxs-dysmantle_v262144.nfo	cf5c0605
+sxs-dysmantle_v262144.r00	61054b7a
+sxs-dysmantle_v262144.r01	fdf7e313
+sxs-dysmantle_v262144.r02	ee742333
+sxs-dysmantle_v262144.r03	12150823
+sxs-dysmantle_v262144.r04	0111ac8f
+sxs-dysmantle_v262144.r05	d69728c8
+sxs-dysmantle_v262144.r06	d5a4ad6c
+sxs-dysmantle_v262144.r07	60a44393
+sxs-dysmantle_v262144.r08	53a02491
+sxs-dysmantle_v262144.r09	4c717eb7
+sxs-dysmantle_v262144.r10	04d9f2bd
+sxs-dysmantle_v262144.r11	73affd22
+sxs-dysmantle_v262144.r12	ff2bf538
+sxs-dysmantle_v262144.rar	74a6b741
+sxs-dysmantle_v262144.sfv	e14e2a58

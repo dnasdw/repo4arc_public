@@ -1,0 +1,6 @@
+sxs-onion_assault.nfo	7169353bbaa914e3ad8dd116803f80e010991c34
+sxs-onion_assault.r00	91eb3bf799d02de9b7fa72f8e4d6fe97b1838d1a
+sxs-onion_assault.r01	e00bf334cc7eaac602f9b86837913d1cf85bf3ad
+sxs-onion_assault.r02	4f7a8e69419d7a88e6b24d6f22dc2013af1289db
+sxs-onion_assault.rar	2569bc85bc803f7b80753aeb5da68c635b73ee4e
+sxs-onion_assault.sfv	6d70556c686cf1a6fe64b78fd51139889a53774e

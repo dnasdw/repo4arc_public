@@ -1,0 +1,4 @@
+sxs-chameneon.nfo	a3e4be7eafd762e0cbfd962f7f8f72781a50da1f
+sxs-chameneon.r00	1a191b823f14b4af745678640dccb2ebe5becece
+sxs-chameneon.rar	d6f97ece181fa11ba7c359eaa1f483293fa5cce1
+sxs-chameneon.sfv	f72f614794214daf741646672121c70a0e77cfaa

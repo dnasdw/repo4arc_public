@@ -1,0 +1,6 @@
+sxs-light-it_up.nfo	-	6290	1	0	0	0
+sxs-light-it_up.r00	-	100000000	1	6290	0	1
+sxs-light-it_up.r01	-	100000000	1	100006290	0	97
+sxs-light-it_up.r02	-	60702102	1	200006290	0	193
+sxs-light-it_up.rar	-	100000000	1	260708392	0	251
+sxs-light-it_up.sfv	-	120	1	360708392	0	347

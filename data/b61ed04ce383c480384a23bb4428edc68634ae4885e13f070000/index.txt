@@ -1,0 +1,5 @@
+v-haiku_the_robot_v65536.nfo	-	7072	1	0	0	0
+v-haiku_the_robot_v65536.r00	-	50000000	1	7072	0	1
+v-haiku_the_robot_v65536.r01	-	39336757	1	50007072	0	49
+v-haiku_the_robot_v65536.rar	-	50000000	1	89343829	0	87
+v-haiku_the_robot_v65536.sfv	-	117	1	139343829	0	135

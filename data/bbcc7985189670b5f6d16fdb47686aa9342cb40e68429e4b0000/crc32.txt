@@ -1,0 +1,6 @@
+sxs-squidlit.nfo	cdf4ecfa
+sxs-squidlit.r00	1b1c0626
+sxs-squidlit.r01	3f6576e7
+sxs-squidlit.r02	93dc30e9
+sxs-squidlit.rar	5ad34da4
+sxs-squidlit.sfv	aedd5a64

@@ -1,0 +1,4 @@
+sxs-where_angels_cry_v196608.nfo	-	5432	1	0	0	0
+sxs-where_angels_cry_v196608.r00	-	17150081	1	5432	0	1
+sxs-where_angels_cry_v196608.rar	-	50000000	1	17155513	0	18
+sxs-where_angels_cry_v196608.sfv	-	86	1	67155513	0	66

@@ -1,0 +1,4 @@
+sxs-bomb_chicken_v196608.r00	-	50000000	1	0	0	0
+sxs-bomb_chicken_v196608.r01	-	44524818	1	50000000	0	48
+sxs-bomb_chicken_v196608.rar	-	50000000	1	94524818	0	91
+sxs-bomb_chicken_v196608.sfv	-	117	1	144524818	0	139

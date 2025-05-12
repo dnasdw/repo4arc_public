@@ -1,0 +1,10 @@
+sxs-megabyte_punch.nfo	e22a2cb9
+sxs-megabyte_punch.r00	878e6982
+sxs-megabyte_punch.r01	f4d25776
+sxs-megabyte_punch.r02	8d26d0aa
+sxs-megabyte_punch.r03	3e5da247
+sxs-megabyte_punch.r04	d2152d49
+sxs-megabyte_punch.r05	5e4f5cf6
+sxs-megabyte_punch.r06	6b79844b
+sxs-megabyte_punch.rar	844f991a
+sxs-megabyte_punch.sfv	7b1fab60

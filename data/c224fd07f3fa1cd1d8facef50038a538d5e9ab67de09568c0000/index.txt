@@ -1,0 +1,13 @@
+v-triangle_strategy_v65536.nfo	-	6136	1	0	0	0
+v-triangle_strategy_v65536.r00	-	50000000	1	6136	0	1
+v-triangle_strategy_v65536.r01	-	50000000	1	50006136	0	49
+v-triangle_strategy_v65536.r02	-	50000000	1	100006136	0	97
+v-triangle_strategy_v65536.r03	-	50000000	1	150006136	0	145
+v-triangle_strategy_v65536.r04	-	50000000	1	200006136	0	193
+v-triangle_strategy_v65536.r05	-	50000000	1	250006136	0	241
+v-triangle_strategy_v65536.r06	-	50000000	1	300006136	0	289
+v-triangle_strategy_v65536.r07	-	50000000	1	350006136	0	337
+v-triangle_strategy_v65536.r08	-	50000000	1	400006136	0	385
+v-triangle_strategy_v65536.r09	-	34081702	1	450006136	0	433
+v-triangle_strategy_v65536.rar	-	50000000	1	484087838	0	466
+v-triangle_strategy_v65536.sfv	-	451	1	534087838	0	514

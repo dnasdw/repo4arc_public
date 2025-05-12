@@ -1,0 +1,14 @@
+sxs-gang_beasts_v327680.nfo	cf3721fc
+sxs-gang_beasts_v327680.r00	02f2bd8b
+sxs-gang_beasts_v327680.r01	01fad928
+sxs-gang_beasts_v327680.r02	a5dc4953
+sxs-gang_beasts_v327680.r03	58101901
+sxs-gang_beasts_v327680.r04	b916daa7
+sxs-gang_beasts_v327680.r05	0f76d0c5
+sxs-gang_beasts_v327680.r06	c12e4baf
+sxs-gang_beasts_v327680.r07	77d7d2bd
+sxs-gang_beasts_v327680.r08	3c3a0583
+sxs-gang_beasts_v327680.r09	4d0be432
+sxs-gang_beasts_v327680.r10	0cb72349
+sxs-gang_beasts_v327680.rar	0554b735
+sxs-gang_beasts_v327680.sfv	e07d93f9

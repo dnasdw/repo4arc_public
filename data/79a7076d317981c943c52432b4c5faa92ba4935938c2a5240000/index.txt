@@ -1,0 +1,4 @@
+sxs-gone_home_v262144.nfo	-	6368	1	0	0	0
+sxs-gone_home_v262144.r00	-	41346444	1	6368	0	1
+sxs-gone_home_v262144.rar	-	50000000	1	41352812	0	41
+sxs-gone_home_v262144.sfv	-	72	1	91352812	0	89

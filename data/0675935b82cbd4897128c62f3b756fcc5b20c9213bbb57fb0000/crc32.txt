@@ -1,0 +1,5 @@
+sxs-stau.nfo	c9dc73f2
+sxs-stau.r00	c4471b0e
+sxs-stau.r01	f6d80c54
+sxs-stau.rar	47903a35
+sxs-stau.sfv	d7b4ebc8

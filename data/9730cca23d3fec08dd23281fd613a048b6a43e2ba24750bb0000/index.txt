@@ -1,0 +1,4 @@
+lfc-aaor.nfo	-	5540	1	0	0	0
+lfc-aaor.r00	-	21132218	1	5540	0	1
+lfc-aaor.rar	-	50000000	1	21137758	0	22
+lfc-aaor.sfv	-	46	1	71137758	0	70

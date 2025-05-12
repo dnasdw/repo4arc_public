@@ -1,0 +1,11 @@
+sxs-soul_searching.nfo	020c0c240367c410d4741a45faf03f04
+sxs-soul_searching.r00	de2cecae7368bfe59bdfa1292185bb83
+sxs-soul_searching.r01	162ff020c5a7c74972d70acf887a814e
+sxs-soul_searching.r02	402d8c360ba20be4a8c3acb693ea3a55
+sxs-soul_searching.r03	8e0a3047030830938f9a808f0b5382e8
+sxs-soul_searching.r04	a30c455b6ab0a4ed957972b0b14f430f
+sxs-soul_searching.r05	430b61b1fd23be9cc05c17fbebbfe33b
+sxs-soul_searching.r06	77af3435ec575d3076180b02b1e88404
+sxs-soul_searching.r07	4de44af6ebe4005f5314c97b043356a2
+sxs-soul_searching.rar	1615200f8295f240952c5307e320d0e8
+sxs-soul_searching.sfv	63d98763a465a4cb82cdf1a0efcdd7fb

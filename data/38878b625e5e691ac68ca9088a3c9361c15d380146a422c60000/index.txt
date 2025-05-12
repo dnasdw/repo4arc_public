@@ -1,0 +1,4 @@
+sxs-mickey_storm_and_the_cursed_mask_v65536.nfo	-	6368	1	0	0	0
+sxs-mickey_storm_and_the_cursed_mask_v65536.r00	-	32585113	1	6368	0	1
+sxs-mickey_storm_and_the_cursed_mask_v65536.rar	-	50000000	1	32591481	0	33
+sxs-mickey_storm_and_the_cursed_mask_v65536.sfv	-	116	1	82591481	0	81

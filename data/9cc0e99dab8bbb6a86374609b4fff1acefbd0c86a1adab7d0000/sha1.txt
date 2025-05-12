@@ -1,0 +1,3 @@
+v-oddworld_munchs_oddysee_v65536.nfo	be9dbf0fdbc78ddae4997dc082d57ed9bab05668
+v-oddworld_munchs_oddysee_v65536.rar	ec24c1ad40c0fe6d7181192efd7e69fb6ad1213e
+v-oddworld_munchs_oddysee_v65536.sfv	eaf74d1ae718bfa1d7fe1c3e80cdbd639bc380e3

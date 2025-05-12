@@ -1,0 +1,8 @@
+lfc-tlds.nfo	6ed0cc04
+lfc-tlds.r00	0b5844a1
+lfc-tlds.r01	5f7a5b48
+lfc-tlds.r02	12cb2873
+lfc-tlds.r03	593b3957
+lfc-tlds.r04	2c712ee6
+lfc-tlds.rar	31e68fb9
+lfc-tlds.sfv	b57e00f9

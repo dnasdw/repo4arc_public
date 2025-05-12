@@ -1,0 +1,11 @@
+lfc-mrsr.nfo	f7aeee4bbe1df528f5718f15c19abc22
+lfc-mrsr.r00	ee3dd3bd1e820493fb1622203abdb5d4
+lfc-mrsr.r01	06e825c89eae9e1292a1754717f59f37
+lfc-mrsr.r02	404821a745aa99b8937cb9762249f048
+lfc-mrsr.r03	1e097e9f41722bd69bcfe829f1df5ec7
+lfc-mrsr.r04	f21e5b7838c7a51ab4e2d84e1feb8078
+lfc-mrsr.r05	cb8d382f5963e2fb940c23e3c91482e2
+lfc-mrsr.r06	b0e19ea81e4a82ecdb5e60ef4f588cd7
+lfc-mrsr.r07	8f9c570939c7649930aab6532ffd4321
+lfc-mrsr.rar	08020eb2d296647f0f55069565ef2dd6
+lfc-mrsr.sfv	f9c571defc68eaf8faf4977d4fc03c2a

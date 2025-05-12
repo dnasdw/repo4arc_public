@@ -1,0 +1,3 @@
+sxs-tntd.nfo	-	6524	1	0	0	0
+sxs-tntd.rar	-	123317	1	6524	0	1
+sxs-tntd.sfv	-	23	1	129841	0	2

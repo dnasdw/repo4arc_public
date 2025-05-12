@@ -1,0 +1,4 @@
+v-embracelet_v65536.nfo	-	5902	1	0	0	0
+v-embracelet_v65536.r00	-	31283922	1	5902	0	1
+v-embracelet_v65536.rar	-	50000000	1	31289824	0	31
+v-embracelet_v65536.sfv	-	68	1	81289824	0	79

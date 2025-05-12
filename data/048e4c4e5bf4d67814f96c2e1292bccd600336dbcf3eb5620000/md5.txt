@@ -1,0 +1,7 @@
+lfc-makl.nfo	a05c59d7defb004251512346457d89ac
+lfc-makl.r00	c2968a06b2c49d85c7abd779919e1d19
+lfc-makl.r01	70f7807919eebda2d0e42d6e28949c71
+lfc-makl.r02	0fea40884c59d0d6d80b803ba2ba61fd
+lfc-makl.r03	3d2903d82c4716c4c7c1af1bfddee447
+lfc-makl.rar	84831039132e1c96de20d806ada2e4b8
+lfc-makl.sfv	0127850ea8986191eabc483432fbe0bd

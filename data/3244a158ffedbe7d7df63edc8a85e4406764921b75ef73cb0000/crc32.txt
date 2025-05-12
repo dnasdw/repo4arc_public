@@ -1,0 +1,14 @@
+hr-as4ga.nfo	3a508ec5
+hr-as4ga.r00	3ca6594e
+hr-as4ga.r01	540b4681
+hr-as4ga.r02	1f7c7d61
+hr-as4ga.r03	533cc9ce
+hr-as4ga.r04	8799f2b0
+hr-as4ga.r05	837d68ea
+hr-as4ga.r06	7fd0e91e
+hr-as4ga.r07	da14c6e4
+hr-as4ga.r08	c53db712
+hr-as4ga.r09	d7167167
+hr-as4ga.r10	dca7a0e2
+hr-as4ga.rar	acc8e22a
+hr-as4ga.sfv	3d9e2556

@@ -1,0 +1,13 @@
+sxs-firework.nfo	c9565764
+sxs-firework.r00	b49bc06a
+sxs-firework.r01	981b4ad6
+sxs-firework.r02	6c45d667
+sxs-firework.r03	9665ae97
+sxs-firework.r04	18afb858
+sxs-firework.r05	d5722f8e
+sxs-firework.r06	90c78983
+sxs-firework.r07	1aebde4d
+sxs-firework.r08	0431a3e6
+sxs-firework.r09	0ec7ca08
+sxs-firework.rar	06d436df
+sxs-firework.sfv	05b8058b

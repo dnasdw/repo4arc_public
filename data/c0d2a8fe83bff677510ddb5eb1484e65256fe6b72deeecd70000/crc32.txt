@@ -1,0 +1,7 @@
+sxs-space_elite_force.nfo	60a6238a
+sxs-space_elite_force.r00	d914724f
+sxs-space_elite_force.r01	eee06f3a
+sxs-space_elite_force.r02	7894368c
+sxs-space_elite_force.r03	97d5dd2f
+sxs-space_elite_force.rar	6c0fbc9a
+sxs-space_elite_force.sfv	3df91e9e

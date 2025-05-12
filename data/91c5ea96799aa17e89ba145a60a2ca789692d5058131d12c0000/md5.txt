@@ -1,0 +1,9 @@
+sxs-4x4_dirt_track.nfo	d0c8586abb8d7d4c991864487d7154e8
+sxs-4x4_dirt_track.r00	c9b0741070364baa81e28d08e491d3ba
+sxs-4x4_dirt_track.r01	58e04233bcd7570d97e53889c12a8f82
+sxs-4x4_dirt_track.r02	632e7372b4d9086276725ff239c2a256
+sxs-4x4_dirt_track.r03	a480e39d9cedb9fdb9867e389c195f28
+sxs-4x4_dirt_track.r04	ca6cabc300e62ed7d9d093e49fea56b2
+sxs-4x4_dirt_track.r05	31d69954e5742a0f002a58aca103bb79
+sxs-4x4_dirt_track.rar	cad85f0ba6192cec31d0b81fcad6be63
+sxs-4x4_dirt_track.sfv	246c27c53ac02d57faae9a3a3f69e78d

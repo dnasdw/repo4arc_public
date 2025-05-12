@@ -1,0 +1,16 @@
+v-adam_wolfe.nfo	e524a98479c21ead1a0c7dfd0203f418
+v-adam_wolfe.r00	632d51aba9a68d0a188e97f328240efd
+v-adam_wolfe.r01	f9313489f340b177371d57e646febb5a
+v-adam_wolfe.r02	c6a0c7f34b9dfadaf89cb9b16a74a7fd
+v-adam_wolfe.r03	db8b2852650db033606fd1abea192705
+v-adam_wolfe.r04	974ca7ff1ccdb2df4ab4c59877627302
+v-adam_wolfe.r05	fb776bcf187dae4e400f7f0e791fb154
+v-adam_wolfe.r06	0c35e8dcf58144f8080504cfc5be4e84
+v-adam_wolfe.r07	966a256b11d63e6b810a0331470e3b5c
+v-adam_wolfe.r08	cc0e9d9ba78ceaded1e38825a4b366b2
+v-adam_wolfe.r09	a3cb92ae2296de4c478e0f4aea7e7136
+v-adam_wolfe.r10	4857f29a7b6ef99d208ce8ace2a72c3e
+v-adam_wolfe.r11	a558c9cbb511a4c0c111f02816c9d1fc
+v-adam_wolfe.r12	e2ff164b438ad4c52b2d10cbfd898873
+v-adam_wolfe.rar	4ed5288a415cb0da94227bfcab3292b6
+v-adam_wolfe.sfv	d1708cdb9e84a718ee6d3350ab823278

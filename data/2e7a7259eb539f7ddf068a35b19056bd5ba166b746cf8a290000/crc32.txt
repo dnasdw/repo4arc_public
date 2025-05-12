@@ -1,0 +1,5 @@
+sxs-cytus_alpha_v393216.nfo	6e0435f7
+sxs-cytus_alpha_v393216.r00	53675c0a
+sxs-cytus_alpha_v393216.r01	31030db8
+sxs-cytus_alpha_v393216.rar	bfb6b6db
+sxs-cytus_alpha_v393216.sfv	14fbbb66

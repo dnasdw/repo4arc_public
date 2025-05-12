@@ -1,0 +1,12 @@
+hr-amvlb.nfo	acbc1189e19f03a7ab8071e5cda5db77
+hr-amvlb.r00	5b7a2295cce9432360bcb6dea86b9f2e
+hr-amvlb.r01	db00401e1a0a829d887db73ece477d44
+hr-amvlb.r02	c11461a5fe7697a54acfc5c71cd123d7
+hr-amvlb.r03	d9949e054394067b69126ee383925044
+hr-amvlb.r04	4a827793e1af7a8e21f0d8bd120f839c
+hr-amvlb.r05	324540060d7e7b74bbfb4b0819cce7ea
+hr-amvlb.r06	4fc4445acc4cef2a2bf5a06e0640129d
+hr-amvlb.r07	fb2a1ef28de714c87721db1aec3f6dae
+hr-amvlb.r08	2a5911ed9d21f8329b4afaae3457244e
+hr-amvlb.rar	c655c58d116902e26e3143d42559c6a5
+hr-amvlb.sfv	1dcc8c1fa7b8c28414c24133ac6a8a6c

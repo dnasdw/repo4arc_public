@@ -1,0 +1,4 @@
+bbb-n-akbpa.nfo	-	5517	1	0	0	0
+bbb-n-akbpa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-akbpa.part2.rar	-	146883076	1	250005517	0	240
+bbb-n-akbpa.sfv	-	64	1	396888593	0	381

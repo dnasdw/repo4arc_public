@@ -1,0 +1,12 @@
+v-pumpkin_jack_v131072.nfo	a75d5264
+v-pumpkin_jack_v131072.r00	e3a181e4
+v-pumpkin_jack_v131072.r01	56ce56c4
+v-pumpkin_jack_v131072.r02	8baa58f4
+v-pumpkin_jack_v131072.r03	7a80606f
+v-pumpkin_jack_v131072.r04	362b02f1
+v-pumpkin_jack_v131072.r05	7654f3d3
+v-pumpkin_jack_v131072.r06	4a852c48
+v-pumpkin_jack_v131072.r07	bda0a63b
+v-pumpkin_jack_v131072.r08	2b9854b4
+v-pumpkin_jack_v131072.rar	5c75ba34
+v-pumpkin_jack_v131072.sfv	da7beb73

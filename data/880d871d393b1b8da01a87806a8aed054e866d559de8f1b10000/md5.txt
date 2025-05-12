@@ -1,0 +1,5 @@
+sxs-nesjp_v1310720.nfo	30d1c3261ee2ce3e4fc98344b271cb5b
+sxs-nesjp_v1310720.r00	cfe5f8a40fbe3020fdcece0209bb98f0
+sxs-nesjp_v1310720.r01	921ba360417393a27436f210febdeab2
+sxs-nesjp_v1310720.rar	c7c78e25d1caf6f92206de43de4eefe6
+sxs-nesjp_v1310720.sfv	98a0660c9adc525d516d0f866df9d33c

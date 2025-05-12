@@ -1,0 +1,5 @@
+sxs-tracks_toybox_edition_v65536.nfo	-	6290	1	0	0	0
+sxs-tracks_toybox_edition_v65536.r00	-	50000000	1	6290	0	1
+sxs-tracks_toybox_edition_v65536.r01	-	35487893	1	50006290	0	49
+sxs-tracks_toybox_edition_v65536.rar	-	50000000	1	85494183	0	83
+sxs-tracks_toybox_edition_v65536.sfv	-	141	1	135494183	0	131

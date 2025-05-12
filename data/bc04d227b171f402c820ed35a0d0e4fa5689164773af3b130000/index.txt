@@ -1,0 +1,7 @@
+l-rimelands.nfo	-	279	1	0	0	0
+l-rimelands.r00	-	50000000	1	279	0	1
+l-rimelands.r01	-	50000000	1	50000279	0	49
+l-rimelands.r02	-	50000000	1	100000279	0	97
+l-rimelands.r03	-	18782612	1	150000279	0	145
+l-rimelands.rar	-	50000000	1	168782891	0	163
+l-rimelands.sfv	-	130	1	218782891	0	211

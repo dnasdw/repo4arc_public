@@ -1,0 +1,14 @@
+lfc-bravematch.nfo	1bb77add
+lfc-bravematch.r00	ba264b46
+lfc-bravematch.r01	73eaaf42
+lfc-bravematch.r02	9c11052c
+lfc-bravematch.r03	bff0ad89
+lfc-bravematch.r04	77e194a9
+lfc-bravematch.r05	42e4ae6e
+lfc-bravematch.r06	d110b90c
+lfc-bravematch.r07	261148c5
+lfc-bravematch.r08	55c2d6df
+lfc-bravematch.r09	36e7515b
+lfc-bravematch.r10	9123db1d
+lfc-bravematch.rar	ae239c02
+lfc-bravematch.sfv	c4868f4e

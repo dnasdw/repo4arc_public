@@ -1,0 +1,9 @@
+v-big_pharma.nfo	-	5200	1	0	0	0
+v-big_pharma.r00	-	50000000	1	5200	0	1
+v-big_pharma.r01	-	50000000	1	50005200	0	49
+v-big_pharma.r02	-	50000000	1	100005200	0	97
+v-big_pharma.r03	-	50000000	1	150005200	0	145
+v-big_pharma.r04	-	50000000	1	200005200	0	193
+v-big_pharma.r05	-	8123765	1	250005200	0	241
+v-big_pharma.rar	-	50000000	1	258128965	0	249
+v-big_pharma.sfv	-	189	1	308128965	0	297

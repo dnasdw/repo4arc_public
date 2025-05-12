@@ -1,0 +1,3 @@
+v-northgard_snake_dlc.nfo	b4a6596a1615de63d82974b052eae977
+v-northgard_snake_dlc.rar	0537808823065d507d887216cbd4df6d
+v-northgard_snake_dlc.sfv	b850ee6149d2a2e352fa8b5d4a71a55c

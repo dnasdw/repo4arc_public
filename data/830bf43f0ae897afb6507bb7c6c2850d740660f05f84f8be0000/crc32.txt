@@ -1,0 +1,11 @@
+v-good_job.nfo	58914b78
+v-good_job.r00	4f461d8f
+v-good_job.r01	57078d79
+v-good_job.r02	14ca74e3
+v-good_job.r03	9666b28f
+v-good_job.r04	3c366d90
+v-good_job.r05	f9185245
+v-good_job.r06	3bcd3ee3
+v-good_job.r07	c5b718f7
+v-good_job.rar	824e3224
+v-good_job.sfv	047464e2

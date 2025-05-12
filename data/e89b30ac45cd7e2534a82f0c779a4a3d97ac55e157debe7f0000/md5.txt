@@ -1,0 +1,5 @@
+brw-xfdf.nfo	e2665e654aca1448a35c79a8c91f6ea9
+brw-xfdf.r00	dab260bd2750b7b89e3ac63f3a19199a
+brw-xfdf.r01	b41ec5151a3c4fc8aa0c044cf4773f4c
+brw-xfdf.rar	b61decfb1ca4157d9b92e8feebbc51cb
+brw-xfdf.sfv	435be2ed291e7c91cd1a97185e2c15e4

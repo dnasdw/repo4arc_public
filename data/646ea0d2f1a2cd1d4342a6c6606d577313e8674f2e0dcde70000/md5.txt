@@ -1,0 +1,3 @@
+brw-tndr_v65536.nfo	c834274d372d2fe52b56cbb44539133d
+brw-tndr_v65536.rar	3e0fc945b67aa8afe73e2fa88d93e7bc
+brw-tndr_v65536.sfv	1cc836f6fac25ec30901c129daf5532d

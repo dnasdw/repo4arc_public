@@ -1,0 +1,12 @@
+sxs-black_widow_recharged.nfo	e289fecd
+sxs-black_widow_recharged.r00	527f7557
+sxs-black_widow_recharged.r01	4b4daf96
+sxs-black_widow_recharged.r02	de2ed733
+sxs-black_widow_recharged.r03	c6df3bfb
+sxs-black_widow_recharged.r04	9f16f6ef
+sxs-black_widow_recharged.r05	c8cd009d
+sxs-black_widow_recharged.r06	7e7cf323
+sxs-black_widow_recharged.r07	917621fb
+sxs-black_widow_recharged.r08	b0a91d5d
+sxs-black_widow_recharged.rar	57e6cd62
+sxs-black_widow_recharged.sfv	695edecc

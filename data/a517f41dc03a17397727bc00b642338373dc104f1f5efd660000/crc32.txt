@@ -1,0 +1,7 @@
+jrp-n-fs.nfo	365a925c
+jrp-n-fs.r00	ec19be19
+jrp-n-fs.r01	9057a249
+jrp-n-fs.r02	86b64d64
+jrp-n-fs.r03	6ec720e8
+jrp-n-fs.rar	5eb07897
+jrp-n-fs.sfv	7c05fc8b

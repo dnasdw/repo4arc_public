@@ -1,0 +1,9 @@
+v-sayonara_wild_hearts_v196608.nfo	-	4888	1	0	0	0
+v-sayonara_wild_hearts_v196608.r00	-	50000000	1	4888	0	1
+v-sayonara_wild_hearts_v196608.r01	-	50000000	1	50004888	0	49
+v-sayonara_wild_hearts_v196608.r02	-	50000000	1	100004888	0	97
+v-sayonara_wild_hearts_v196608.r03	-	50000000	1	150004888	0	145
+v-sayonara_wild_hearts_v196608.r04	-	50000000	1	200004888	0	193
+v-sayonara_wild_hearts_v196608.r05	-	40465684	1	250004888	0	241
+v-sayonara_wild_hearts_v196608.rar	-	50000000	1	290470572	0	280
+v-sayonara_wild_hearts_v196608.sfv	-	315	1	340470572	0	328

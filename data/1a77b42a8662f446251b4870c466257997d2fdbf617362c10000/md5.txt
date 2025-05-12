@@ -1,0 +1,4 @@
+v-megaquarium_v65536.nfo	8952376a7a403b4aa50ce251e31c7ea7
+v-megaquarium_v65536.r00	14f35af9ca6558e600aef75400757504
+v-megaquarium_v65536.rar	64eb80399b4d9a49ffa9aa1bdecde9e6
+v-megaquarium_v65536.sfv	1b0d9f26d22da62c6301620183e505d2

@@ -1,0 +1,11 @@
+sxs-quiplash_2_interlashional_the_say_anything_party_game.nfo	-	5120	1	0	0	0
+sxs-quiplash_2_interlashional_the_say_anything_party_game.r00	-	50000000	1	5120	0	1
+sxs-quiplash_2_interlashional_the_say_anything_party_game.r01	-	50000000	1	50005120	0	49
+sxs-quiplash_2_interlashional_the_say_anything_party_game.r02	-	50000000	1	100005120	0	97
+sxs-quiplash_2_interlashional_the_say_anything_party_game.r03	-	50000000	1	150005120	0	145
+sxs-quiplash_2_interlashional_the_say_anything_party_game.r04	-	50000000	1	200005120	0	193
+sxs-quiplash_2_interlashional_the_say_anything_party_game.r05	-	50000000	1	250005120	0	241
+sxs-quiplash_2_interlashional_the_say_anything_party_game.r06	-	50000000	1	300005120	0	289
+sxs-quiplash_2_interlashional_the_say_anything_party_game.r07	-	13669768	1	350005120	0	337
+sxs-quiplash_2_interlashional_the_say_anything_party_game.rar	-	50000000	1	363674888	0	351
+sxs-quiplash_2_interlashional_the_say_anything_party_game.sfv	-	648	1	413674888	0	399

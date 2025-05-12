@@ -1,0 +1,5 @@
+brw-raty_v65536.nfo	5fa7cf0f
+brw-raty_v65536.r00	4f26c822
+brw-raty_v65536.r01	46e36785
+brw-raty_v65536.rar	7ad851d6
+brw-raty_v65536.sfv	1ae36282

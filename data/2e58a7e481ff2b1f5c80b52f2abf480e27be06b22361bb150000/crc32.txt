@@ -1,0 +1,9 @@
+sxs-korg_gadget_v458752.nfo	c2aa9188
+sxs-korg_gadget_v458752.r00	95584268
+sxs-korg_gadget_v458752.r01	cce8f3d8
+sxs-korg_gadget_v458752.r02	f9b97da4
+sxs-korg_gadget_v458752.r03	0e4fec69
+sxs-korg_gadget_v458752.r04	57347e7a
+sxs-korg_gadget_v458752.r05	13f03eb4
+sxs-korg_gadget_v458752.rar	05a8c6ce
+sxs-korg_gadget_v458752.sfv	037e1718

@@ -1,0 +1,3 @@
+v-doom_1993_sigil_ii_dlc.nfo	403fc0a4fe52d2c777d442232c97a020
+v-doom_1993_sigil_ii_dlc.rar	0e468d31819ca7a376328f282cb90c7e
+v-doom_1993_sigil_ii_dlc.sfv	12d09a42e072b6f4a735654e02c047d8

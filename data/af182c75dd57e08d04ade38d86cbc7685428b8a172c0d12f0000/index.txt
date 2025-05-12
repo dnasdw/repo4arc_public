@@ -1,0 +1,6 @@
+v-fighting_ex_layer_another_dash_v327680.nfo	-	4732	1	0	0	0
+v-fighting_ex_layer_another_dash_v327680.r00	-	100000000	1	4732	0	1
+v-fighting_ex_layer_another_dash_v327680.r01	-	100000000	1	100004732	0	97
+v-fighting_ex_layer_another_dash_v327680.r02	-	50981350	1	200004732	0	193
+v-fighting_ex_layer_another_dash_v327680.rar	-	100000000	1	250986082	0	242
+v-fighting_ex_layer_another_dash_v327680.sfv	-	220	1	350986082	0	338

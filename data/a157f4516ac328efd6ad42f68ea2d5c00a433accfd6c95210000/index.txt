@@ -1,0 +1,7 @@
+sxs-ogre_console_edition_v65536.nfo	-	4652	1	0	0	0
+sxs-ogre_console_edition_v65536.r00	-	50000000	1	4652	0	1
+sxs-ogre_console_edition_v65536.r01	-	50000000	1	50004652	0	49
+sxs-ogre_console_edition_v65536.r02	-	50000000	1	100004652	0	97
+sxs-ogre_console_edition_v65536.r03	-	43080618	1	150004652	0	145
+sxs-ogre_console_edition_v65536.rar	-	50000000	1	193085270	0	187
+sxs-ogre_console_edition_v65536.sfv	-	230	1	243085270	0	235

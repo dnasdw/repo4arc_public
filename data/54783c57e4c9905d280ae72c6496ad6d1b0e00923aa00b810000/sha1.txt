@@ -1,0 +1,6 @@
+jrp-n-hp.nfo	e743504826bfbc4a2b4104b93b62e9fb5d961ff9
+jrp-n-hp.r00	c91d6178f9eeb5ddceaff819ce8ca814622e31a7
+jrp-n-hp.r01	00fbe5fe8e513d4f285d4c4d42acf50bc5d4b3fd
+jrp-n-hp.r02	67fe10dc538b9cc7cf53417607329d0e2e785e25
+jrp-n-hp.rar	a364e3769638cbb48610ea69f131ca46e90850dc
+jrp-n-hp.sfv	083b5e8e7623ff92ff82cf3df9f3496d40fc90dc

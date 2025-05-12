@@ -1,0 +1,4 @@
+sxs-metagal.nfo	-	6056	1	0	0	0
+sxs-metagal.r00	-	7724671	1	6056	0	1
+sxs-metagal.rar	-	50000000	1	7730727	0	9
+sxs-metagal.sfv	-	52	1	57730727	0	57

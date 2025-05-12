@@ -1,0 +1,4 @@
+sxs-bugby.nfo	-	4028	1	0	0	0
+sxs-bugby.r00	-	25712511	1	4028	0	1
+sxs-bugby.rar	-	100000000	1	25716539	0	26
+sxs-bugby.sfv	-	48	1	125716539	0	122

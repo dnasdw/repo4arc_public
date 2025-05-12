@@ -1,0 +1,13 @@
+lfc-katwm.nfo	4e90f4d0
+lfc-katwm.r00	13c2723d
+lfc-katwm.r01	4347126c
+lfc-katwm.r02	7132f439
+lfc-katwm.r03	3f5dca8a
+lfc-katwm.r04	e8caf48d
+lfc-katwm.r05	04097ad0
+lfc-katwm.r06	b7e46c89
+lfc-katwm.r07	2a05b5d8
+lfc-katwm.r08	da957eb2
+lfc-katwm.r09	a7177727
+lfc-katwm.rar	e1c4f388
+lfc-katwm.sfv	54e65925

@@ -1,0 +1,17 @@
+v-regions_of_ruin.nfo	88611a2d
+v-regions_of_ruin.r00	c8c0350f
+v-regions_of_ruin.r01	4995bce0
+v-regions_of_ruin.r02	f5f2086e
+v-regions_of_ruin.r03	94212e93
+v-regions_of_ruin.r04	e1ef3c38
+v-regions_of_ruin.r05	d85ad1d9
+v-regions_of_ruin.r06	a8c865cc
+v-regions_of_ruin.r07	46721b3c
+v-regions_of_ruin.r08	1f7069ef
+v-regions_of_ruin.r09	cc3e28f2
+v-regions_of_ruin.r10	ba623ad4
+v-regions_of_ruin.r11	0dfe5ad3
+v-regions_of_ruin.r12	20ec91c3
+v-regions_of_ruin.r13	ced2ef3f
+v-regions_of_ruin.rar	1f365609
+v-regions_of_ruin.sfv	e9d9c046

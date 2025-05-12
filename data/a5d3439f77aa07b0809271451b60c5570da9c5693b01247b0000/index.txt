@@ -1,0 +1,3 @@
+v-turnip_boy_robs_a_bank_v65536.nfo	-	6370	1	0	0	0
+v-turnip_boy_robs_a_bank_v65536.rar	-	49666108	1	6370	0	1
+v-turnip_boy_robs_a_bank_v65536.sfv	-	46	1	49672478	0	49

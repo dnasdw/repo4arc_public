@@ -1,0 +1,7 @@
+lfc-fing.nfo	c700d31f7fcdce30cd61168902c7df35
+lfc-fing.r00	9806d0045b53de5251466673870ca50d
+lfc-fing.r01	95da0d25ec0316d9c8aa4ef274e8c0e4
+lfc-fing.r02	3f4b00121733361a7a16acacc0e77d5d
+lfc-fing.r03	a327d72adb7835aebc8ce51f47bca6e5
+lfc-fing.rar	81e287d138cf1085d1c7d9c961bcc4df
+lfc-fing.sfv	934bd5763bf28343dc0c57d3645aa7b8

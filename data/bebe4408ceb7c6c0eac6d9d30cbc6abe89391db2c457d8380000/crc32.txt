@@ -1,0 +1,13 @@
+v-everspace_v262144.nfo	5886a8b8
+v-everspace_v262144.r00	df2e1fee
+v-everspace_v262144.r01	a64f2400
+v-everspace_v262144.r02	410d1971
+v-everspace_v262144.r03	14da890e
+v-everspace_v262144.r04	3c64e91f
+v-everspace_v262144.r05	ceac962d
+v-everspace_v262144.r06	439b4620
+v-everspace_v262144.r07	d58a29f7
+v-everspace_v262144.r08	ab1b66db
+v-everspace_v262144.r09	4226d656
+v-everspace_v262144.rar	5090e33b
+v-everspace_v262144.sfv	9880bfe4

@@ -1,0 +1,11 @@
+lfc-voxelsword.nfo	3815d87d
+lfc-voxelsword.r00	f04fe8a3
+lfc-voxelsword.r01	dc64c6b1
+lfc-voxelsword.r02	fdb40e8c
+lfc-voxelsword.r03	1fa5a068
+lfc-voxelsword.r04	06ea8114
+lfc-voxelsword.r05	f689eba8
+lfc-voxelsword.r06	1a2ce3b7
+lfc-voxelsword.r07	a6b20d74
+lfc-voxelsword.rar	7f28cdc2
+lfc-voxelsword.sfv	9b8f04da

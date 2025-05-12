@@ -1,0 +1,7 @@
+sxs-tactical_mind_2_v65536.nfo	7b846b7a
+sxs-tactical_mind_2_v65536.r00	0db735f4
+sxs-tactical_mind_2_v65536.r01	68ee0631
+sxs-tactical_mind_2_v65536.r02	2fb0cfd8
+sxs-tactical_mind_2_v65536.r03	fd6f3c55
+sxs-tactical_mind_2_v65536.rar	107bfcbf
+sxs-tactical_mind_2_v65536.sfv	c3c5188c

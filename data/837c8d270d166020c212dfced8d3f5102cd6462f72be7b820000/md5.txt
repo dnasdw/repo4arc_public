@@ -1,0 +1,14 @@
+v-r-type_final_2_dlc_set_3.nfo	31771384d18c9c7b3beba791052bc54d
+v-r-type_final_2_dlc_set_3.r00	2287f16836bcc08b719301d7a3301dd6
+v-r-type_final_2_dlc_set_3.r01	a01283845c2c42cbff8a700778c836d8
+v-r-type_final_2_dlc_set_3.r02	4366191c41e143e1cfc53bf68e9d7302
+v-r-type_final_2_dlc_set_3.r03	2b4fc605d7a197985bee689693445d78
+v-r-type_final_2_dlc_set_3.r04	0ae6acce2b7575708d0b30b58be0c640
+v-r-type_final_2_dlc_set_3.r05	e66cde00758865340ef92faab03d27ce
+v-r-type_final_2_dlc_set_3.r06	f5d04a4647aa68ef88deea993d52f3ec
+v-r-type_final_2_dlc_set_3.r07	5a16052a4e2be65319722d9c3496c797
+v-r-type_final_2_dlc_set_3.r08	37d7a8e3c754c6861909afdbb6a48385
+v-r-type_final_2_dlc_set_3.r09	e8457abff82a8308f3d4abcd237ff890
+v-r-type_final_2_dlc_set_3.r10	1f7141e744b4b098783e8d1e6d505323
+v-r-type_final_2_dlc_set_3.rar	013923e658af587075c47c3c3a95c6cb
+v-r-type_final_2_dlc_set_3.sfv	c0748dabaadc1bf225ed49499cc939ba

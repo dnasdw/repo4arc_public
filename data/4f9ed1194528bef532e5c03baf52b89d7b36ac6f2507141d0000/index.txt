@@ -1,0 +1,9 @@
+sxs-urban_trial_playground_v262144.nfo	-	7148	1	0	0	0
+sxs-urban_trial_playground_v262144.r00	-	100000000	1	7148	0	1
+sxs-urban_trial_playground_v262144.r01	-	100000000	1	100007148	0	97
+sxs-urban_trial_playground_v262144.r02	-	100000000	1	200007148	0	193
+sxs-urban_trial_playground_v262144.r03	-	100000000	1	300007148	0	289
+sxs-urban_trial_playground_v262144.r04	-	100000000	1	400007148	0	385
+sxs-urban_trial_playground_v262144.r05	-	76952441	1	500007148	0	481
+sxs-urban_trial_playground_v262144.rar	-	100000000	1	39203705	1	38
+sxs-urban_trial_playground_v262144.sfv	-	343	1	139203705	1	134

@@ -1,0 +1,3 @@
+sxs-ascendance_v65536.r00	c9f1210e0efb8a043b343ff2e84d249a0756b947
+sxs-ascendance_v65536.rar	e1bb26d0c323b49ed9ce8ca2fec8cf35f8a37e46
+sxs-ascendance_v65536.sfv	22ab270e68ba53ad8a11882d7ad512449991ae41

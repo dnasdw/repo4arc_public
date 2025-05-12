@@ -1,0 +1,6 @@
+sxs-fireball_wizard.nfo	ac9cba68
+sxs-fireball_wizard.r00	b3dc6413
+sxs-fireball_wizard.r01	9dac9bbf
+sxs-fireball_wizard.r02	38405fc9
+sxs-fireball_wizard.rar	45b131b7
+sxs-fireball_wizard.sfv	7552f84f

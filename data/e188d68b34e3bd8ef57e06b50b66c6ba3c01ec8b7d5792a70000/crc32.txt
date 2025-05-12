@@ -1,0 +1,8 @@
+sxs-akihabara.nfo	c4a40486
+sxs-akihabara.r00	b76f6d3f
+sxs-akihabara.r01	52f658c4
+sxs-akihabara.r02	73bddaa4
+sxs-akihabara.r03	03278306
+sxs-akihabara.r04	97c9fe05
+sxs-akihabara.rar	c12b13a3
+sxs-akihabara.sfv	e0977fb7

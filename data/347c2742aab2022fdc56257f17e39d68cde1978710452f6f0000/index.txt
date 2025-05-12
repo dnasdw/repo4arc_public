@@ -1,0 +1,5 @@
+sxs-ufo_henfield.nfo	-	4184	1	0	0	0
+sxs-ufo_henfield.r00	-	100000000	1	4184	0	1
+sxs-ufo_henfield.r01	-	60077289	1	100004184	0	97
+sxs-ufo_henfield.rar	-	100000000	1	160081473	0	155
+sxs-ufo_henfield.sfv	-	93	1	260081473	0	251

@@ -1,0 +1,8 @@
+lfc-huntdownupdv1.0.4.nfo	-	5474	1	0	0	0
+lfc-huntdownupdv1.0.4.r00	-	100000000	1	5474	0	1
+lfc-huntdownupdv1.0.4.r01	-	100000000	1	100005474	0	97
+lfc-huntdownupdv1.0.4.r02	-	100000000	1	200005474	0	193
+lfc-huntdownupdv1.0.4.r03	-	100000000	1	300005474	0	289
+lfc-huntdownupdv1.0.4.r04	-	31041644	1	400005474	0	385
+lfc-huntdownupdv1.0.4.rar	-	100000000	1	431047118	0	415
+lfc-huntdownupdv1.0.4.sfv	-	216	1	531047118	0	511

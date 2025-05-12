@@ -1,0 +1,4 @@
+sxs-cattails.nfo	3415b8eb9df254245af135a537731790
+sxs-cattails.r00	11585f4dcda17c2578b524ef1455d2b6
+sxs-cattails.rar	6b77f17f2d62280cb6c246f97ed96e73
+sxs-cattails.sfv	8a49642c723344d9fee55586bbc564f7

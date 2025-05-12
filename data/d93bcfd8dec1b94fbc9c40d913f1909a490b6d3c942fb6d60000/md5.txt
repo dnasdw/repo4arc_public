@@ -1,0 +1,6 @@
+sxs-pokemon_cafe_mix_v983040.nfo	3f7291dea6c517b17000ea5a50736a21
+sxs-pokemon_cafe_mix_v983040.r00	2e8a8534dd30d84594cf91c9424eec30
+sxs-pokemon_cafe_mix_v983040.r01	f3a4e89054f58ac4295779b730bb1a5b
+sxs-pokemon_cafe_mix_v983040.r02	5814e16b507ba7004822ec4c23e92416
+sxs-pokemon_cafe_mix_v983040.rar	735a1d670a2c0612a211820894941ea1
+sxs-pokemon_cafe_mix_v983040.sfv	8d6df86a1631c599f26ff52370844b9a

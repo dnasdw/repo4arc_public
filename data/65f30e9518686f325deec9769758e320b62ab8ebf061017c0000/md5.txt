@@ -1,0 +1,6 @@
+sxs-riddled_corpses_ex.nfo	1eef7945f3b01319aeb764e023dc167a
+sxs-riddled_corpses_ex.r00	e1b88ddb9accffa5ea49e048df269faa
+sxs-riddled_corpses_ex.r01	c212b9b2117d64ae5363c53529dbc758
+sxs-riddled_corpses_ex.r02	b502efd7d6c818d6823c8b5f99a6210a
+sxs-riddled_corpses_ex.rar	2b0d21d83160ad2c0c70cd3d3268331d
+sxs-riddled_corpses_ex.sfv	e7a7c7045c5cb85756f7a3c069f4955e

@@ -1,0 +1,5 @@
+sxs-nesjp_v1048576.nfo	af08a26b3d42ab9c73d057a1108d8dc3
+sxs-nesjp_v1048576.r00	96ce14e469d6b6d14d0c4710151b6bbe
+sxs-nesjp_v1048576.r01	48479cacbf691c33dbecd4e64d7eefd8
+sxs-nesjp_v1048576.rar	f38e0651a62f748c9fc4808143e0fbec
+sxs-nesjp_v1048576.sfv	c6ee4b1b19a9b5ffadec3a5a40501fb9

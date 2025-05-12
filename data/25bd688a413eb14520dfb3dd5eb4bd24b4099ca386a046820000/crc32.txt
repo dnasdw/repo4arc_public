@@ -1,0 +1,11 @@
+sxs-wer_weiss_denn_sowas_v65536.nfo	611c633a
+sxs-wer_weiss_denn_sowas_v65536.r00	6a8fc740
+sxs-wer_weiss_denn_sowas_v65536.r01	1b77887d
+sxs-wer_weiss_denn_sowas_v65536.r02	5ac94a23
+sxs-wer_weiss_denn_sowas_v65536.r03	57b158d0
+sxs-wer_weiss_denn_sowas_v65536.r04	362e39e7
+sxs-wer_weiss_denn_sowas_v65536.r05	ab868d19
+sxs-wer_weiss_denn_sowas_v65536.r06	94ef5fa1
+sxs-wer_weiss_denn_sowas_v65536.r07	4a4eb7a3
+sxs-wer_weiss_denn_sowas_v65536.rar	0cadb873
+sxs-wer_weiss_denn_sowas_v65536.sfv	29d832d0

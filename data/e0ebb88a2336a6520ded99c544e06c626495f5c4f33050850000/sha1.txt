@@ -1,0 +1,3 @@
+sxs-world_of_goo_v65536.nfo	91ce1d9f797fe4ade5153409852540a31d5df8a4
+sxs-world_of_goo_v65536.rar	eb097ef8caf4494d82cf48134f464304df1660b3
+sxs-world_of_goo_v65536.sfv	eab8cc031c04e2c5349096e6f28ab5c58f351c4f

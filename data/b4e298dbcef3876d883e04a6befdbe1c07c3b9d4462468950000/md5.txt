@@ -1,0 +1,5 @@
+sxs-magical_drop_vi_v131072.nfo	35729731900380ea576529ca7e5e1d44
+sxs-magical_drop_vi_v131072.r00	96b89c6d87f2a75c7feb87fe499f7884
+sxs-magical_drop_vi_v131072.r01	12e26ef586208b88879789897f2c3188
+sxs-magical_drop_vi_v131072.rar	ca095bce608e5d90e6359faff2f42f21
+sxs-magical_drop_vi_v131072.sfv	4a0ff22e5e86a225c9933b31e8f12193

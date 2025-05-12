@@ -1,0 +1,10 @@
+sxs-qube2_v65536.nfo	de7807de
+sxs-qube2_v65536.r00	6991de70
+sxs-qube2_v65536.r01	ce83cf5a
+sxs-qube2_v65536.r02	1ef4503c
+sxs-qube2_v65536.r03	9203a2de
+sxs-qube2_v65536.r04	92257537
+sxs-qube2_v65536.r05	3702b229
+sxs-qube2_v65536.r06	014c6ff7
+sxs-qube2_v65536.rar	0ea0c03e
+sxs-qube2_v65536.sfv	1cebbaef

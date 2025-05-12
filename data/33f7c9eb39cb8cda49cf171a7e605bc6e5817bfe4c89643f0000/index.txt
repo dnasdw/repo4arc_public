@@ -1,0 +1,7 @@
+sxs-animal_lover.nfo	-	5978	1	0	0	0
+sxs-animal_lover.r00	-	100000000	1	5978	0	1
+sxs-animal_lover.r01	-	100000000	1	100005978	0	97
+sxs-animal_lover.r02	-	100000000	1	200005978	0	193
+sxs-animal_lover.r03	-	43336633	1	300005978	0	289
+sxs-animal_lover.rar	-	100000000	1	343342611	0	331
+sxs-animal_lover.sfv	-	155	1	443342611	0	427

@@ -1,0 +1,11 @@
+lfc-rbju.nfo	4ea31afb7e193aa777d3a1b207b0a5af
+lfc-rbju.r00	69d6c8b324c132fe9b50ca689a3b1540
+lfc-rbju.r01	d7275095cf52e6ec4f2c6c61b8c0d5b9
+lfc-rbju.r02	26dd3fc02f3cea2ee9ca5393e06bcca0
+lfc-rbju.r03	63077a11e036a0f1d36824604fdf6456
+lfc-rbju.r04	ac1e810e8d2b2d9da0d44416a783fd06
+lfc-rbju.r05	02bd7171c40d6c20a28a14ae7ad68ce9
+lfc-rbju.r06	c968a289eba8299bbf9f10fc63ff02a2
+lfc-rbju.r07	31890d0461b2d1614a94e72454fb521a
+lfc-rbju.rar	bb055906348ae6c03c15908483e6d5ed
+lfc-rbju.sfv	de4ae227fd3bf26410fe5745f11d19a0

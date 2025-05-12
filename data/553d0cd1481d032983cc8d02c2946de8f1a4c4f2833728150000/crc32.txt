@@ -1,0 +1,6 @@
+sxs-drone_delivery_simulator.nfo	fe9ec305
+sxs-drone_delivery_simulator.r00	0345f78e
+sxs-drone_delivery_simulator.r01	8dbfec44
+sxs-drone_delivery_simulator.r02	f2fd8962
+sxs-drone_delivery_simulator.rar	5bc3f78b
+sxs-drone_delivery_simulator.sfv	f4155c8c

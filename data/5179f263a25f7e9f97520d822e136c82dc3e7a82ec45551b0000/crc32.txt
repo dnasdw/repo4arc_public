@@ -1,0 +1,9 @@
+sxs-crashbots_v65536.nfo	67421306
+sxs-crashbots_v65536.r00	88f3a765
+sxs-crashbots_v65536.r01	5e9c2817
+sxs-crashbots_v65536.r02	11b78ed4
+sxs-crashbots_v65536.r03	da127d8f
+sxs-crashbots_v65536.r04	a5c6b0fd
+sxs-crashbots_v65536.r05	93304177
+sxs-crashbots_v65536.rar	469d44f7
+sxs-crashbots_v65536.sfv	91dbadec

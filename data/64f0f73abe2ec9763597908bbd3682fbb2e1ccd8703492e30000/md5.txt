@@ -1,0 +1,13 @@
+v-orochi_v104.nfo	2c00f43a087cfc3e6180f290b19b9631
+v-orochi_v104.r00	3d7ab36451273ac4b84cbb6748af6d8d
+v-orochi_v104.r01	2afcab40f578e017eaed764e340e4862
+v-orochi_v104.r02	31854f6f82156d51d623114b15c3ba1b
+v-orochi_v104.r03	dfefcae8ca5c9f398bafcb81d6e836dd
+v-orochi_v104.r04	34e7e8334f21b620b57d53318f721c62
+v-orochi_v104.r05	773c805fa7316c9d7cf7aa0040c7b2d1
+v-orochi_v104.r06	3fed6052bf4fd664fba7ff0f3f94d48a
+v-orochi_v104.r07	f9f32d8175c507cdf8732559f1aa12aa
+v-orochi_v104.r08	dfdc5a533312e46260e98a2ccce4bb36
+v-orochi_v104.r09	5116780a61b0b25bfedafa693c22b18a
+v-orochi_v104.rar	99f4aab74a85f2363ff7e2f5f92830c1
+v-orochi_v104.sfv	edf53fc982dfb3e9b33ce1b4c5a20fc6

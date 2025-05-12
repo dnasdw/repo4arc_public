@@ -1,0 +1,4 @@
+v-sam_and_max_beyond_time_and_space_v262144.nfo	-	5980	1	0	0	0
+v-sam_and_max_beyond_time_and_space_v262144.r00	-	22147443	1	5980	0	1
+v-sam_and_max_beyond_time_and_space_v262144.rar	-	50000000	1	22153423	0	23
+v-sam_and_max_beyond_time_and_space_v262144.sfv	-	116	1	72153423	0	71

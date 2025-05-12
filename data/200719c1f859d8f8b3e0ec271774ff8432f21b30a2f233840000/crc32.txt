@@ -1,0 +1,12 @@
+sxs-deep_diving_adventures_v65536.nfo	aabb826a
+sxs-deep_diving_adventures_v65536.r00	30530510
+sxs-deep_diving_adventures_v65536.r01	a411b8e8
+sxs-deep_diving_adventures_v65536.r02	b51a5830
+sxs-deep_diving_adventures_v65536.r03	22bdd704
+sxs-deep_diving_adventures_v65536.r04	edac9096
+sxs-deep_diving_adventures_v65536.r05	f5538fc4
+sxs-deep_diving_adventures_v65536.r06	6ee56a60
+sxs-deep_diving_adventures_v65536.r07	3393f119
+sxs-deep_diving_adventures_v65536.r08	0e66bc48
+sxs-deep_diving_adventures_v65536.rar	a97df309
+sxs-deep_diving_adventures_v65536.sfv	3695aec1

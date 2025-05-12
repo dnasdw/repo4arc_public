@@ -1,0 +1,17 @@
+i-troubleshooter.nfo	42b6179e
+i-troubleshooter.r00	9171dd47
+i-troubleshooter.r01	9d483c58
+i-troubleshooter.r02	bb4bff90
+i-troubleshooter.r03	a3e59117
+i-troubleshooter.r04	2076847b
+i-troubleshooter.r05	767ead95
+i-troubleshooter.r06	391cd193
+i-troubleshooter.r07	e240e978
+i-troubleshooter.r08	4f713531
+i-troubleshooter.r09	32531750
+i-troubleshooter.r10	0d53b187
+i-troubleshooter.r11	651dcb6a
+i-troubleshooter.r12	2e105d44
+i-troubleshooter.r13	b1870ecc
+i-troubleshooter.rar	c3222b45
+i-troubleshooter.sfv	0b65e370

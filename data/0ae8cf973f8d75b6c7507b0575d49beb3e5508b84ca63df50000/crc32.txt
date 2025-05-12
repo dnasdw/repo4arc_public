@@ -1,0 +1,14 @@
+sxs-100_doors_escape_from_prison.nfo	fb86224a
+sxs-100_doors_escape_from_prison.r00	d4114d11
+sxs-100_doors_escape_from_prison.r01	7b795808
+sxs-100_doors_escape_from_prison.r02	74a26398
+sxs-100_doors_escape_from_prison.r03	bc031875
+sxs-100_doors_escape_from_prison.r04	82cdc74a
+sxs-100_doors_escape_from_prison.r05	a575450c
+sxs-100_doors_escape_from_prison.r06	b83a5e3e
+sxs-100_doors_escape_from_prison.r07	30f350f4
+sxs-100_doors_escape_from_prison.r08	8f8d0663
+sxs-100_doors_escape_from_prison.r09	56cf428b
+sxs-100_doors_escape_from_prison.r10	a39e17fc
+sxs-100_doors_escape_from_prison.rar	6b4b8483
+sxs-100_doors_escape_from_prison.sfv	a6ad9f58

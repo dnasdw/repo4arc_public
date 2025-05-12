@@ -1,0 +1,13 @@
+v-shinorubi.nfo	779f8170ea19b060a59edb82d8999a34
+v-shinorubi.r00	4028e2631283c5f40e570e92c2c5e816
+v-shinorubi.r01	8fea4d76569c1458f470ba9fda06096e
+v-shinorubi.r02	a2fbd5f9428121010c0c9247feb168e4
+v-shinorubi.r03	c72bfbe8b22f6c447334c300be63e0ad
+v-shinorubi.r04	0babbcab08a809bedba237b9f9a2781c
+v-shinorubi.r05	0d631971d19772f3d7a9b48dd62b8350
+v-shinorubi.r06	f886180d469fe7c75ac3926a548dd25c
+v-shinorubi.r07	333c042a004692cbb7314e4a8cd67562
+v-shinorubi.r08	e650750e4b55e681f566ea304fb8a503
+v-shinorubi.r09	05b6b9c7a5f2f6dab649393513136b81
+v-shinorubi.rar	ce001bb0c75d278c05632e3621452229
+v-shinorubi.sfv	00cd7ecad802f9ba2b2f635ee62549ea

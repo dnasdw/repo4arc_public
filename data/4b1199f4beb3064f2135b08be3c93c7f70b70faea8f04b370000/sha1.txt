@@ -1,0 +1,4 @@
+lfc-subr.nfo	cf5eeafb11781ddc81cb84473564c18d92f03e20
+lfc-subr.r00	3a1f3278e335b9ef17915594a06636e554002a6f
+lfc-subr.rar	4787ba154e7f46d4f1fa31ebbcef5dd5225a1bbe
+lfc-subr.sfv	d4c3d445de2cda36fcc014cae2c325c2a5f049bb

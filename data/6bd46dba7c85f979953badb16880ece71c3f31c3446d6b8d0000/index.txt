@@ -1,0 +1,4 @@
+sxs-they_always_run_v65536.nfo	-	5588	1	0	0	0
+sxs-they_always_run_v65536.r00	-	323417	1	5588	0	1
+sxs-they_always_run_v65536.rar	-	50000000	1	329005	0	2
+sxs-they_always_run_v65536.sfv	-	82	1	50329005	0	50

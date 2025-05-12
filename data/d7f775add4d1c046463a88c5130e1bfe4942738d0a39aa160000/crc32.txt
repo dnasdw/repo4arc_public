@@ -1,0 +1,3 @@
+lfc-cdos_v65536.nfo	4b7ddbaf
+lfc-cdos_v65536.rar	31636657
+lfc-cdos_v65536.sfv	bc293dbd

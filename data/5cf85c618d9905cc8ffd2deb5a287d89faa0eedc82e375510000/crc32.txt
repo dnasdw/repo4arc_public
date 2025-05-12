@@ -1,0 +1,8 @@
+v-bossgard_v65536.nfo	b81cca95
+v-bossgard_v65536.r00	acb94109
+v-bossgard_v65536.r01	9cb05d0c
+v-bossgard_v65536.r02	906e1b49
+v-bossgard_v65536.r03	e47009c4
+v-bossgard_v65536.r04	1f99d66c
+v-bossgard_v65536.rar	76b69b39
+v-bossgard_v65536.sfv	55e6a61a

@@ -1,0 +1,16 @@
+i-hp.nfo	ab024e2f
+i-hp.r00	b8d8f426
+i-hp.r01	e040f3f5
+i-hp.r02	45f0d051
+i-hp.r03	74370587
+i-hp.r04	d8350916
+i-hp.r05	5032fb02
+i-hp.r06	27733cdf
+i-hp.r07	508e2258
+i-hp.r08	c4c8eaa5
+i-hp.r09	9e106761
+i-hp.r10	5e835336
+i-hp.r11	88d0f7f3
+i-hp.r12	c87aedf7
+i-hp.rar	a69731aa
+i-hp.sfv	c9d0a312

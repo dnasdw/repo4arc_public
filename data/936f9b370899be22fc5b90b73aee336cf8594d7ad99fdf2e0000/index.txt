@@ -1,0 +1,4 @@
+sxs-planescape_torment_and_icewind_dale_enhanced_editions_v65536.nfo	-	4964	1	0	0	0
+sxs-planescape_torment_and_icewind_dale_enhanced_editions_v65536.r00	-	1766973	1	4964	0	1
+sxs-planescape_torment_and_icewind_dale_enhanced_editions_v65536.rar	-	50000000	1	1771937	0	3
+sxs-planescape_torment_and_icewind_dale_enhanced_editions_v65536.sfv	-	158	1	51771937	0	51

@@ -1,0 +1,11 @@
+sxs-ubermosh_santicide.nfo	eea1ebb0
+sxs-ubermosh_santicide.r00	6d4d05dc
+sxs-ubermosh_santicide.r01	61c02cc2
+sxs-ubermosh_santicide.r02	c59d64c8
+sxs-ubermosh_santicide.r03	ff936c9a
+sxs-ubermosh_santicide.r04	515e36d7
+sxs-ubermosh_santicide.r05	2cd13788
+sxs-ubermosh_santicide.r06	5f920ce9
+sxs-ubermosh_santicide.r07	7a7ff2ab
+sxs-ubermosh_santicide.rar	7b45a0ef
+sxs-ubermosh_santicide.sfv	98ef8189

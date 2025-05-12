@@ -1,0 +1,7 @@
+sxs-broken_lines_v65536.nfo	64531e64
+sxs-broken_lines_v65536.r00	470f597e
+sxs-broken_lines_v65536.r01	8d31bb12
+sxs-broken_lines_v65536.r02	59966f81
+sxs-broken_lines_v65536.r03	7b190803
+sxs-broken_lines_v65536.rar	72d11982
+sxs-broken_lines_v65536.sfv	ec0e7256

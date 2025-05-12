@@ -1,0 +1,4 @@
+sxs-vostok_inc_v65536.nfo	-	4575	1	0	0	0
+sxs-vostok_inc_v65536.r00	-	41344148	1	4575	0	1
+sxs-vostok_inc_v65536.rar	-	50000000	1	41348723	0	41
+sxs-vostok_inc_v65536.sfv	-	72	1	91348723	0	89

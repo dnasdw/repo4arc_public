@@ -1,0 +1,16 @@
+sxs-dungeon_of_the_endless_v196608.nfo	1512b1fc
+sxs-dungeon_of_the_endless_v196608.r00	797c2b8a
+sxs-dungeon_of_the_endless_v196608.r01	e27a3059
+sxs-dungeon_of_the_endless_v196608.r02	2f38e90a
+sxs-dungeon_of_the_endless_v196608.r03	ad9346ec
+sxs-dungeon_of_the_endless_v196608.r04	6c1dd08c
+sxs-dungeon_of_the_endless_v196608.r05	ca6720aa
+sxs-dungeon_of_the_endless_v196608.r06	3181b376
+sxs-dungeon_of_the_endless_v196608.r07	58ddb188
+sxs-dungeon_of_the_endless_v196608.r08	96dd547b
+sxs-dungeon_of_the_endless_v196608.r09	68976e59
+sxs-dungeon_of_the_endless_v196608.r10	6ee73606
+sxs-dungeon_of_the_endless_v196608.r11	d5e90433
+sxs-dungeon_of_the_endless_v196608.r12	99911b94
+sxs-dungeon_of_the_endless_v196608.rar	957bc6f4
+sxs-dungeon_of_the_endless_v196608.sfv	ada09e8f

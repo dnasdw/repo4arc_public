@@ -1,0 +1,6 @@
+sxs-word_forward.nfo	-	5588	1	0	0	0
+sxs-word_forward.r00	-	50000000	1	5588	0	1
+sxs-word_forward.r01	-	50000000	1	50005588	0	49
+sxs-word_forward.r02	-	28983610	1	100005588	0	97
+sxs-word_forward.rar	-	50000000	1	128989198	0	125
+sxs-word_forward.sfv	-	124	1	178989198	0	173

@@ -1,0 +1,9 @@
+v-animal_crossing_new_horizons_v131072.nfo	21860862
+v-animal_crossing_new_horizons_v131072.r00	fae0de15
+v-animal_crossing_new_horizons_v131072.r01	3b3809df
+v-animal_crossing_new_horizons_v131072.r02	b8cc26fa
+v-animal_crossing_new_horizons_v131072.r03	49f6516f
+v-animal_crossing_new_horizons_v131072.r04	d377a772
+v-animal_crossing_new_horizons_v131072.r05	38e3ad04
+v-animal_crossing_new_horizons_v131072.rar	f4a8a9dc
+v-animal_crossing_new_horizons_v131072.sfv	2652e4f9

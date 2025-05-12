@@ -1,0 +1,15 @@
+sxs-dying_reborn_v131072.nfo	44685df5
+sxs-dying_reborn_v131072.r00	e2a67eee
+sxs-dying_reborn_v131072.r01	c6c6f257
+sxs-dying_reborn_v131072.r02	ba7ab466
+sxs-dying_reborn_v131072.r03	6ebd6b43
+sxs-dying_reborn_v131072.r04	504b4330
+sxs-dying_reborn_v131072.r05	c95550e8
+sxs-dying_reborn_v131072.r06	26601489
+sxs-dying_reborn_v131072.r07	ca9dda9f
+sxs-dying_reborn_v131072.r08	fb46d3d7
+sxs-dying_reborn_v131072.r09	4c08d8bc
+sxs-dying_reborn_v131072.r10	35c67c12
+sxs-dying_reborn_v131072.r11	e9205900
+sxs-dying_reborn_v131072.rar	81e4d7b7
+sxs-dying_reborn_v131072.sfv	300cd9f4

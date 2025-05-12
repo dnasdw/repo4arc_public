@@ -1,0 +1,10 @@
+jrp-tcbotsk.nfo	938c6ba5
+jrp-tcbotsk.r00	e88c32a0
+jrp-tcbotsk.r01	0bec207f
+jrp-tcbotsk.r02	03cceb71
+jrp-tcbotsk.r03	d37da1dc
+jrp-tcbotsk.r04	38c644ca
+jrp-tcbotsk.r05	2b548a5a
+jrp-tcbotsk.r06	873e9bcc
+jrp-tcbotsk.rar	9760c5e8
+jrp-tcbotsk.sfv	0aa1dada

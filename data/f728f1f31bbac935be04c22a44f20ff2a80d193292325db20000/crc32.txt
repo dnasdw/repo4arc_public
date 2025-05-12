@@ -1,0 +1,14 @@
+sxs-apparition.nfo	8f951d20
+sxs-apparition.r00	9347147f
+sxs-apparition.r01	91d8fdd0
+sxs-apparition.r02	e5f0c328
+sxs-apparition.r03	06429f5b
+sxs-apparition.r04	89267b86
+sxs-apparition.r05	780a112c
+sxs-apparition.r06	30939b72
+sxs-apparition.r07	f1b1981a
+sxs-apparition.r08	fe321822
+sxs-apparition.r09	fe0624a0
+sxs-apparition.r10	85dc4e01
+sxs-apparition.rar	68b8db98
+sxs-apparition.sfv	56754e42

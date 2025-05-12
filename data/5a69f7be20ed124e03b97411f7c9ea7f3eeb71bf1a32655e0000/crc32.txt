@@ -1,0 +1,16 @@
+Proof	00000000
+Proof/sxs-lets_play_curling.jpg	3b033ecd
+sxs-lets_play_curling.nfo	a281b7b1
+sxs-lets_play_curling.r00	89e4a22c
+sxs-lets_play_curling.r01	3960204c
+sxs-lets_play_curling.r02	a5a70a78
+sxs-lets_play_curling.r03	652730e6
+sxs-lets_play_curling.r04	613b2758
+sxs-lets_play_curling.r05	0ee4c7a2
+sxs-lets_play_curling.r06	5d347eb7
+sxs-lets_play_curling.r07	c5ba187d
+sxs-lets_play_curling.r08	ba503b0c
+sxs-lets_play_curling.r09	27e551fa
+sxs-lets_play_curling.r10	15ec4939
+sxs-lets_play_curling.rar	0631fbd3
+sxs-lets_play_curling.sfv	7623022b

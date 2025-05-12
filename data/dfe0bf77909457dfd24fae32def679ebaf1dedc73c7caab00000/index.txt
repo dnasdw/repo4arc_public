@@ -1,0 +1,15 @@
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.nfo	-	5590	1	0	0	0
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.r00	-	50000000	1	5590	0	1
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.r01	-	50000000	1	50005590	0	49
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.r02	-	50000000	1	100005590	0	97
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.r03	-	50000000	1	150005590	0	145
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.r04	-	50000000	1	200005590	0	193
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.r05	-	50000000	1	250005590	0	241
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.r06	-	50000000	1	300005590	0	289
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.r07	-	50000000	1	350005590	0	337
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.r08	-	50000000	1	400005590	0	385
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.r09	-	50000000	1	450005590	0	433
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.r10	-	50000000	1	500005590	0	481
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.r11	-	35882226	1	12251264	1	12
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.rar	-	50000000	1	48133490	1	47
+v-stranded_sails_explorers_of_the_cursed_islands_v327680.sfv	-	923	1	98133490	1	95

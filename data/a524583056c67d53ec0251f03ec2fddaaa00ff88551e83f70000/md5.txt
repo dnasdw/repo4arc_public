@@ -1,0 +1,7 @@
+sxs-the_lost_ashford_ring.nfo	eb4743e57805f5498c4263a977c9d4fa
+sxs-the_lost_ashford_ring.r00	73d8770a1473cf6ce5af2ebe3fe8efa3
+sxs-the_lost_ashford_ring.r01	fc0a3691db29c734fe1412a2f86e24bf
+sxs-the_lost_ashford_ring.r02	e6075b85fd8e0fa1a91cd708e2110733
+sxs-the_lost_ashford_ring.r03	d2feb40cfe4e7e5cb94415ed99e56de5
+sxs-the_lost_ashford_ring.rar	6f0485720720471fd5afad46db8f7e96
+sxs-the_lost_ashford_ring.sfv	55b76d64944b0f64f6ef15f491c010d0

@@ -1,0 +1,5 @@
+sxs-beesim_ptbr.nfo	6548c17d106386450dfdf331de6a1d61
+sxs-beesim_ptbr.r00	141f92e8e4b4603126ecdd90e9dd8ff8
+sxs-beesim_ptbr.r01	2398dc88d5d64f49984e2cb3ad9ff957
+sxs-beesim_ptbr.rar	d75fffceba584784fae126f6fa808321
+sxs-beesim_ptbr.sfv	969ada1b8aa8018c690ef5f2e5760581

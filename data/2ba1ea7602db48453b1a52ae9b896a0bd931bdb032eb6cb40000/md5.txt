@@ -1,0 +1,12 @@
+lfc-brokenblades.nfo	4737299a8e013867c03eec50bcd3a3ab
+lfc-brokenblades.r00	f6f292cd712337396980b56a7d8b23dd
+lfc-brokenblades.r01	8dc729436d6c2d9c6f1d167ef359c9be
+lfc-brokenblades.r02	5594e91d0d990ca3c102665067528cb7
+lfc-brokenblades.r03	13638578d0362d0934982c919d408b67
+lfc-brokenblades.r04	2ef1411b9ed30d865d85d437a8b3f76c
+lfc-brokenblades.r05	cb256ae36e464ca9f3bb5ac97d4f685e
+lfc-brokenblades.r06	bb7ad6bc616e634423b9ea8c37948e14
+lfc-brokenblades.r07	3055143ad8a0586d1c80be082800fe2d
+lfc-brokenblades.r08	aa70d36175ca480443f42c29b376db85
+lfc-brokenblades.rar	ae069540b302f5a5ab64aa3c84aba73e
+lfc-brokenblades.sfv	bc9c6f58a7d83414ab60eb9a6eca49d2

@@ -1,0 +1,17 @@
+lfc-abd7c.jpg	e90b220bed02c22d80fefcb5ebbc2a08
+lfc-abd7c.nfo	754a8ec5e1d566a6beed566a18cb8699
+lfc-abd7c.r00	3318e259411d02c9b47e07d614ce3517
+lfc-abd7c.r01	3d49deb2e6d5e90bd45160baf2cb5fbc
+lfc-abd7c.r02	ff07bc52d8b6aa95db9d002e1209d854
+lfc-abd7c.r03	cdd968c8e822872daa5d9cc9475ffde9
+lfc-abd7c.r04	fc09cea44b7967a1a0ff40c4bd1de0c8
+lfc-abd7c.r05	c9e86ee0e5d336b07a2a07bc9dbd1d21
+lfc-abd7c.r06	78bf98a4d4d8821948f8b048bd17ec98
+lfc-abd7c.r07	d5a1b8b544d13729fe52ad7a6b368de7
+lfc-abd7c.r08	4b6dea6174e60550a3b1251f5408bdec
+lfc-abd7c.r09	1c6171a7926687ea4d2833f64eac6636
+lfc-abd7c.r10	ba0a4b12b46510e1043ddffcbf452012
+lfc-abd7c.r11	08cc1862c7b0bcde92e81c75fdf884f4
+lfc-abd7c.r12	bc97ff079e1fb2db2bd593bfb07e7132
+lfc-abd7c.rar	84951de2ba3cb021056dc26be65deb72
+lfc-abd7c.sfv	a5eda5ba3fef4929e2240dc63540f765

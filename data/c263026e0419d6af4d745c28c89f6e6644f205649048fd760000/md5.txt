@@ -1,0 +1,3 @@
+sxs-contra_rogue_corps_v65536.nfo	fc54655c93fc34a80ed9034f56dbceab
+sxs-contra_rogue_corps_v65536.rar	fc90be6cc6275ac2d0cbb04f5c20400e
+sxs-contra_rogue_corps_v65536.sfv	39cb21fa627cedf952ab112ed839349c

@@ -1,0 +1,11 @@
+sxs-fight_of_animals_arena_v131072.nfo	560d3e5b
+sxs-fight_of_animals_arena_v131072.r00	6797e6f1
+sxs-fight_of_animals_arena_v131072.r01	a1cb28b6
+sxs-fight_of_animals_arena_v131072.r02	51e6cee9
+sxs-fight_of_animals_arena_v131072.r03	48e6be11
+sxs-fight_of_animals_arena_v131072.r04	b080c644
+sxs-fight_of_animals_arena_v131072.r05	203ae555
+sxs-fight_of_animals_arena_v131072.r06	5520dbb6
+sxs-fight_of_animals_arena_v131072.r07	d0d1f58f
+sxs-fight_of_animals_arena_v131072.rar	d83b0284
+sxs-fight_of_animals_arena_v131072.sfv	6b4664a0

@@ -1,0 +1,5 @@
+v-music_racer_v65536.nfo	36ea83e275dea3443cb476d51a98927d615e86a7
+v-music_racer_v65536.r00	cff984dea79e1c8c20a7ff83fe2b21f34efa65fc
+v-music_racer_v65536.r01	8c83d20e694a44e954ec1d9a4ce1b449db466aeb
+v-music_racer_v65536.rar	dc0bdf65617efd3855608ab0c031794b93575d4e
+v-music_racer_v65536.sfv	aba9fd4c8d972b40929b8314bf74a66c8bf19a48

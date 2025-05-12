@@ -1,0 +1,4 @@
+sxs-disaster_detective_saiga_an_indescribable_mystery_v65536.nfo	-	6056	1	0	0	0
+sxs-disaster_detective_saiga_an_indescribable_mystery_v65536.r00	-	12024749	1	6056	0	1
+sxs-disaster_detective_saiga_an_indescribable_mystery_v65536.rar	-	100000000	1	12030805	0	13
+sxs-disaster_detective_saiga_an_indescribable_mystery_v65536.sfv	-	150	1	112030805	0	109

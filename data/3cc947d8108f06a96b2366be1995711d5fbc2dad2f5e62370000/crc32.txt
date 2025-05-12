@@ -1,0 +1,8 @@
+lfc-huntdownupdv1.0.4.nfo	92218faf
+lfc-huntdownupdv1.0.4.r00	bfd7d929
+lfc-huntdownupdv1.0.4.r01	213ab2de
+lfc-huntdownupdv1.0.4.r02	f0f838a5
+lfc-huntdownupdv1.0.4.r03	b1be7a8c
+lfc-huntdownupdv1.0.4.r04	9391c5b9
+lfc-huntdownupdv1.0.4.rar	819b7af5
+lfc-huntdownupdv1.0.4.sfv	fc213dbc

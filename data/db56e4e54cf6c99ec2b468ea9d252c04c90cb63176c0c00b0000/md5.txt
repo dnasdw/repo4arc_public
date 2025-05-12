@@ -1,0 +1,5 @@
+sxs-bears_restaurant_v131072.nfo	07e16879f028ebb49dcacef0c62a451b
+sxs-bears_restaurant_v131072.r00	0467247257903915050e558daacd52af
+sxs-bears_restaurant_v131072.r01	c0313dee185ef40f22c901226f51080d
+sxs-bears_restaurant_v131072.rar	0e47c94e00e01b535d6cbffc8accfd20
+sxs-bears_restaurant_v131072.sfv	df8eb9f2c99d2f5d26116d4407e09bc1

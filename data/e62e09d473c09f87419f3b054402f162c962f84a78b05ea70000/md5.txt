@@ -1,0 +1,4 @@
+lfc-gapa.nfo	305c837019683e38e05154b107b45e97
+lfc-gapa.r00	dcfaf62c6ad64f4cf6a248d94ecd8707
+lfc-gapa.rar	6fa6a0eef3fd35996c28cc2212fa4913
+lfc-gapa.sfv	3f306faa54c21008c91684321de6e921

@@ -1,0 +1,12 @@
+n-pokemonscarlet_v65536.nfo	54e9f7c8
+n-pokemonscarlet_v65536.r00	db645e88
+n-pokemonscarlet_v65536.r01	2f77865a
+n-pokemonscarlet_v65536.r02	9a4580cb
+n-pokemonscarlet_v65536.r03	4e912dfc
+n-pokemonscarlet_v65536.r04	5cf78c43
+n-pokemonscarlet_v65536.r05	b550e677
+n-pokemonscarlet_v65536.r06	25b6e7b2
+n-pokemonscarlet_v65536.r07	350346f3
+n-pokemonscarlet_v65536.r08	68e0dcf4
+n-pokemonscarlet_v65536.rar	82ee341f
+n-pokemonscarlet_v65536.sfv	b64b179f

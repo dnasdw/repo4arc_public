@@ -1,0 +1,15 @@
+sxs-return_to_shironagasu_island_v262144.nfo	-	5588	1	0	0	0
+sxs-return_to_shironagasu_island_v262144.r00	-	100000000	1	5588	0	1
+sxs-return_to_shironagasu_island_v262144.r01	-	100000000	1	100005588	0	97
+sxs-return_to_shironagasu_island_v262144.r02	-	100000000	1	200005588	0	193
+sxs-return_to_shironagasu_island_v262144.r03	-	100000000	1	300005588	0	289
+sxs-return_to_shironagasu_island_v262144.r04	-	100000000	1	400005588	0	385
+sxs-return_to_shironagasu_island_v262144.r05	-	100000000	1	500005588	0	481
+sxs-return_to_shironagasu_island_v262144.r06	-	100000000	1	62251264	1	60
+sxs-return_to_shironagasu_island_v262144.r07	-	100000000	1	162251264	1	156
+sxs-return_to_shironagasu_island_v262144.r08	-	100000000	1	262251264	1	252
+sxs-return_to_shironagasu_island_v262144.r09	-	100000000	1	362251264	1	348
+sxs-return_to_shironagasu_island_v262144.r10	-	100000000	1	462251264	1	444
+sxs-return_to_shironagasu_island_v262144.r11	-	43802438	1	24502528	2	24
+sxs-return_to_shironagasu_island_v262144.rar	-	100000000	1	68304966	2	66
+sxs-return_to_shironagasu_island_v262144.sfv	-	715	1	168304966	2	162

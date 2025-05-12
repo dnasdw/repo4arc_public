@@ -1,0 +1,4 @@
+sxs-slipstream_v327680.nfo	5bdb87e02c0b46a050068038fa69ebb0
+sxs-slipstream_v327680.r00	53843590dcde25c59e12b4475fdff3a4
+sxs-slipstream_v327680.rar	d0761c4b7ad6fcc2f6812cbae45fc05a
+sxs-slipstream_v327680.sfv	774019908f7af22cd80ea9aa1467f6ec

@@ -1,0 +1,9 @@
+brw-ptog.nfo	6593f95b
+brw-ptog.r00	6206235b
+brw-ptog.r01	01699ef7
+brw-ptog.r02	9d9964be
+brw-ptog.r03	75672ac1
+brw-ptog.r04	88c20607
+brw-ptog.r05	bf9b30c9
+brw-ptog.rar	0774dae3
+brw-ptog.sfv	e5f1d1f9

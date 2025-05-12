@@ -1,0 +1,4 @@
+lfc-superskelemania.nfo	3ce765f834125b765b4884ac2b3a1158
+lfc-superskelemania.r00	81a6842ad6a6d6a3e219ec85904adbf9
+lfc-superskelemania.rar	5bbfa613fcffa9ae351ba1e610ba2567
+lfc-superskelemania.sfv	7b549c2aeb94b505d00718fb0f8597c4

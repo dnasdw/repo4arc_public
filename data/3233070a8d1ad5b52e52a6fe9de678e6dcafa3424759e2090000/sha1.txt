@@ -1,0 +1,4 @@
+lfc-cols.nfo	917e7d559e8978af1b2f8a85a127c9f35913976d
+lfc-cols.r00	00f737857eb14bff789f8ac7a6e74459b5cc861d
+lfc-cols.rar	c641bad9f49ddfc1e25aac10ccaec8a4d22598cb
+lfc-cols.sfv	e22789ebec4e828c11670815efac5a033d58f68f

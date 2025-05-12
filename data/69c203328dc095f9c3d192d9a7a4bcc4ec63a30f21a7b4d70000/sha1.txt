@@ -1,0 +1,7 @@
+lfc-linesxl.nfo	f7fefbb5444755bc9e9dcb6bdb22c314535619d4
+lfc-linesxl.r00	bbbbcf628adb0a12faeb085a54bb0eec96dc5424
+lfc-linesxl.r01	c45838cc2235d01481858ae317156c524d4ffc59
+lfc-linesxl.r02	c2c25fcd81d3ab4935208577f0785e96a565be3b
+lfc-linesxl.r03	60f07d84c5e86cf4979f1e6d65480e3fad2367d5
+lfc-linesxl.rar	5fe88768d2ee922b3e1537f82246cab480c1ed01
+lfc-linesxl.sfv	e370263a44255915affbd79fd0c811ef49e67533

@@ -1,0 +1,4 @@
+v-duck_game_v262144.nfo	83f9e7479ad83db30b83dde12a6cfd1e
+v-duck_game_v262144.r00	0cbcb05a5636cf7226c0d838c57c6e08
+v-duck_game_v262144.rar	ff9cec56f300b0e73f72a584c5daeeaf
+v-duck_game_v262144.sfv	bcca01108f28ba49598985ca0327eac2

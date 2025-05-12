@@ -1,0 +1,12 @@
+sxs-chop_goblins.nfo	9042236ad397ff61612abe72f5295f66
+sxs-chop_goblins.r00	e39702c91d569ee30d64bb85144c82b4
+sxs-chop_goblins.r01	36f54fde4bd788b48da43ddbe161effc
+sxs-chop_goblins.r02	ed63d5bf5620b1755ee8f25d23a6cad7
+sxs-chop_goblins.r03	913e2397c9b5bc0ef61ce907cdd83172
+sxs-chop_goblins.r04	f104d4090f88493e269d8a724ed87fdf
+sxs-chop_goblins.r05	15cc3da3badc85e57ccb5d32d273a7e4
+sxs-chop_goblins.r06	393f158e0a81601a93246bc2f6cb179a
+sxs-chop_goblins.r07	51182d2573f0e0705f0f8fc8eee05360
+sxs-chop_goblins.r08	3b2caacf21aaf46a8c0490921c073f29
+sxs-chop_goblins.rar	3c932a7eaa2de2bcd9fb0944d237165f
+sxs-chop_goblins.sfv	0be148666fa4ce64adf1aa5db3940723

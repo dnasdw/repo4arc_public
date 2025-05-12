@@ -1,0 +1,12 @@
+i-collidalot.nfo	9fa97af808b12585941b457d8313b316
+i-collidalot.r00	93a70add97a80a565e7960c45011a332
+i-collidalot.r01	67a68540b2a45ed93966af1046ce9ebd
+i-collidalot.r02	5fd4560b043e698cef048b050126c388
+i-collidalot.r03	09d4092a0a2c084ed750a4d9568113de
+i-collidalot.r04	e64ef3838b83b56c2f6c64fc775a982c
+i-collidalot.r05	b61f7913d136b769a5e4f9489923f06a
+i-collidalot.r06	c5d7227b49aa4b24c4af899dbc96912e
+i-collidalot.r07	5237808cda7f517c3a197a27b9c29224
+i-collidalot.r08	b3b9ed7550b32a320be6b2dc6b2d87f9
+i-collidalot.rar	f387ff8d94bc0410f68cbeedcc920e38
+i-collidalot.sfv	7b927bbeae4b5e21932aca88f3b7badc

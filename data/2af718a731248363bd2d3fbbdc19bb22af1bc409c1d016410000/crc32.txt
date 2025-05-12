@@ -1,0 +1,17 @@
+v-sdbhwm_v524288.nfo	fad94798
+v-sdbhwm_v524288.r00	a1bef266
+v-sdbhwm_v524288.r01	7bedc433
+v-sdbhwm_v524288.r02	ae4d50d6
+v-sdbhwm_v524288.r03	0b8bfed4
+v-sdbhwm_v524288.r04	21119ccb
+v-sdbhwm_v524288.r05	c56445da
+v-sdbhwm_v524288.r06	ecfabf87
+v-sdbhwm_v524288.r07	81a2fcb6
+v-sdbhwm_v524288.r08	829edb1a
+v-sdbhwm_v524288.r09	5c4d10e7
+v-sdbhwm_v524288.r10	a4126b22
+v-sdbhwm_v524288.r11	ee2b2f33
+v-sdbhwm_v524288.r12	6457f763
+v-sdbhwm_v524288.r13	657e1476
+v-sdbhwm_v524288.rar	a425941e
+v-sdbhwm_v524288.sfv	c87ef0cc

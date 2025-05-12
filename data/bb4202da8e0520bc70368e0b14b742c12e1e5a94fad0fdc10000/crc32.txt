@@ -1,0 +1,8 @@
+v-shadowgate_v327680.nfo	db3be2f9
+v-shadowgate_v327680.r00	45871387
+v-shadowgate_v327680.r01	e1a84973
+v-shadowgate_v327680.r02	cad17397
+v-shadowgate_v327680.r03	81d42747
+v-shadowgate_v327680.r04	1efb6d53
+v-shadowgate_v327680.rar	9f19d2a6
+v-shadowgate_v327680.sfv	082a2a21

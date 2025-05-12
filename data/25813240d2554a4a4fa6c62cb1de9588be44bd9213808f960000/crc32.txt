@@ -1,0 +1,10 @@
+sxs-bezier_second_edition.nfo	bcd44666
+sxs-bezier_second_edition.r00	2a0a3bcb
+sxs-bezier_second_edition.r01	579e2ef2
+sxs-bezier_second_edition.r02	58fac6e1
+sxs-bezier_second_edition.r03	b28b6fa7
+sxs-bezier_second_edition.r04	9c55fe96
+sxs-bezier_second_edition.r05	9689667b
+sxs-bezier_second_edition.r06	dc09a321
+sxs-bezier_second_edition.rar	f74a7ebf
+sxs-bezier_second_edition.sfv	fbfbf9d3

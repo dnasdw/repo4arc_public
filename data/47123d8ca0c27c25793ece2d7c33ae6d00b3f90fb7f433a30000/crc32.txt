@@ -1,0 +1,17 @@
+hr-aplpb.nfo	c091bea1
+hr-aplpb.r00	e4d60860
+hr-aplpb.r01	52c74836
+hr-aplpb.r02	d784e2a7
+hr-aplpb.r03	ecd2ba13
+hr-aplpb.r04	0616fcc9
+hr-aplpb.r05	4fb8e91c
+hr-aplpb.r06	71af79ad
+hr-aplpb.r07	095b0722
+hr-aplpb.r08	3c94afc5
+hr-aplpb.r09	5cab36fd
+hr-aplpb.r10	0e2268d9
+hr-aplpb.r11	50e45eab
+hr-aplpb.rar	bf11c5b6
+hr-aplpb.sfv	a7fdb564
+Proof	00000000
+Proof/hr-aplpb.jpg	985b5619

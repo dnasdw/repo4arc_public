@@ -1,0 +1,6 @@
+sxs-saints_row_the_third_the_full_package_v327680.nfo	-	7928	1	0	0	0
+sxs-saints_row_the_third_the_full_package_v327680.r00	-	50000000	1	7928	0	1
+sxs-saints_row_the_third_the_full_package_v327680.r01	-	50000000	1	50007928	0	49
+sxs-saints_row_the_third_the_full_package_v327680.r02	-	8122938	1	100007928	0	97
+sxs-saints_row_the_third_the_full_package_v327680.rar	-	50000000	1	108130866	0	105
+sxs-saints_row_the_third_the_full_package_v327680.sfv	-	256	1	158130866	0	153

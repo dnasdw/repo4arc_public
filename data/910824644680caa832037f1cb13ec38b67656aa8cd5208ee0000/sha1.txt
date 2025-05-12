@@ -1,0 +1,5 @@
+sxs-live_a_live_v65536.nfo	3130585c03a9b6d13d63d97dfd360da861b7ed70
+sxs-live_a_live_v65536.r00	a2b8a5efddde7d96b240fca2175da6bc2426a200
+sxs-live_a_live_v65536.r01	3f4c31dc66ec47669bc1301361f95c423dd14404
+sxs-live_a_live_v65536.rar	8e35d851c5c280cedf087893e4bd9467bcf642ea
+sxs-live_a_live_v65536.sfv	6464ebfb5462ab06a3b0be3bab37b58f1c203726

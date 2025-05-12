@@ -1,0 +1,4 @@
+sxs-castaway_of_steel.nfo	-	6217	1	0	0	0
+sxs-castaway_of_steel.r00	-	36515569	1	6217	0	1
+sxs-castaway_of_steel.rar	-	100000000	1	36521786	0	36
+sxs-castaway_of_steel.sfv	-	72	1	136521786	0	132

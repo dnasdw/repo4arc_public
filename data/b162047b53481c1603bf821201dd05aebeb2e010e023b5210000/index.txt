@@ -1,0 +1,10 @@
+sxs-petit_petit_petit.nfo	-	5822	1	0	0	0
+sxs-petit_petit_petit.r00	-	100000000	1	5822	0	1
+sxs-petit_petit_petit.r01	-	100000000	1	100005822	0	97
+sxs-petit_petit_petit.r02	-	100000000	1	200005822	0	193
+sxs-petit_petit_petit.r03	-	100000000	1	300005822	0	289
+sxs-petit_petit_petit.r04	-	100000000	1	400005822	0	385
+sxs-petit_petit_petit.r05	-	100000000	1	500005822	0	481
+sxs-petit_petit_petit.r06	-	28361543	1	62251264	1	60
+sxs-petit_petit_petit.rar	-	100000000	1	90612807	1	88
+sxs-petit_petit_petit.sfv	-	288	1	190612807	1	184

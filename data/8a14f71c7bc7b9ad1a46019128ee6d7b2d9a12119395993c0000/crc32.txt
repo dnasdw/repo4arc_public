@@ -1,0 +1,7 @@
+v-wreckfest_v65536.nfo	c100b445
+v-wreckfest_v65536.r00	31cef981
+v-wreckfest_v65536.r01	7fcbaed6
+v-wreckfest_v65536.r02	4daa43e6
+v-wreckfest_v65536.r03	339c9003
+v-wreckfest_v65536.rar	7943fc71
+v-wreckfest_v65536.sfv	aa537f61

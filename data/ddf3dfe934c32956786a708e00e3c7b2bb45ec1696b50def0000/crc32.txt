@@ -1,0 +1,6 @@
+lfc-echp.nfo	db8d86c5
+lfc-echp.r00	89ab18a5
+lfc-echp.r01	7fbe7185
+lfc-echp.r02	fdb849a9
+lfc-echp.rar	57e0981b
+lfc-echp.sfv	e3d2a90a

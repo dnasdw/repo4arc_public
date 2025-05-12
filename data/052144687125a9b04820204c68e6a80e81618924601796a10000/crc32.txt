@@ -1,0 +1,14 @@
+v-boomerang_fu.nfo	1073a788
+v-boomerang_fu.r00	b3bd27e9
+v-boomerang_fu.r01	6f8d0671
+v-boomerang_fu.r02	0666628f
+v-boomerang_fu.r03	010803a9
+v-boomerang_fu.r04	d017d08c
+v-boomerang_fu.r05	40c8dced
+v-boomerang_fu.r06	b0aeab7a
+v-boomerang_fu.r07	7acbbd45
+v-boomerang_fu.r08	164c51dd
+v-boomerang_fu.r09	ff31f008
+v-boomerang_fu.r10	655ec8ee
+v-boomerang_fu.rar	e571b7f2
+v-boomerang_fu.sfv	ea3ff87f

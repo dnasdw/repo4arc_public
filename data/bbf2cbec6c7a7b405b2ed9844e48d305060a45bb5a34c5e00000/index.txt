@@ -1,0 +1,17 @@
+darkmoon-earthworms.eshop.nsw.nfo	-	16671	1	0	0	0
+darkmoon-earthworms.eshop.nsw.r00	-	50000000	1	16671	0	1
+darkmoon-earthworms.eshop.nsw.r01	-	50000000	1	50016671	0	49
+darkmoon-earthworms.eshop.nsw.r02	-	50000000	1	100016671	0	97
+darkmoon-earthworms.eshop.nsw.r03	-	50000000	1	150016671	0	145
+darkmoon-earthworms.eshop.nsw.r04	-	50000000	1	200016671	0	193
+darkmoon-earthworms.eshop.nsw.r05	-	50000000	1	250016671	0	241
+darkmoon-earthworms.eshop.nsw.r06	-	50000000	1	300016671	0	289
+darkmoon-earthworms.eshop.nsw.r07	-	50000000	1	350016671	0	337
+darkmoon-earthworms.eshop.nsw.r08	-	50000000	1	400016671	0	385
+darkmoon-earthworms.eshop.nsw.r09	-	50000000	1	450016671	0	433
+darkmoon-earthworms.eshop.nsw.r10	-	50000000	1	500016671	0	481
+darkmoon-earthworms.eshop.nsw.r11	-	50000000	1	12251264	1	12
+darkmoon-earthworms.eshop.nsw.r12	-	50000000	1	62251264	1	60
+darkmoon-earthworms.eshop.nsw.r13	-	33705227	1	112251264	1	108
+darkmoon-earthworms.eshop.nsw.rar	-	50000000	1	145956491	1	141
+darkmoon-earthworms.eshop.nsw.sfv	-	660	1	195956491	1	189

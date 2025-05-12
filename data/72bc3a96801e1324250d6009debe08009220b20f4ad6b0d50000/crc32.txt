@@ -1,0 +1,11 @@
+v-astroneer_v655360.nfo	bd3fc43f
+v-astroneer_v655360.r00	ef90dcbe
+v-astroneer_v655360.r01	c1a39428
+v-astroneer_v655360.r02	64ec0b3c
+v-astroneer_v655360.r03	d0aedb1e
+v-astroneer_v655360.r04	593ad627
+v-astroneer_v655360.r05	d9cf77fe
+v-astroneer_v655360.r06	38dc4c0d
+v-astroneer_v655360.r07	01e8cb22
+v-astroneer_v655360.rar	94979935
+v-astroneer_v655360.sfv	31705a2b

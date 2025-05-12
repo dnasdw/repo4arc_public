@@ -1,0 +1,3 @@
+v-sega_ages_virtua_racing_v65536.nfo	fa72ecfb20b45a6aea59cf8f53e7a3d42c60e53e
+v-sega_ages_virtua_racing_v65536.rar	0fd9608f0622330c3e1ac5745f63e02ebd7a2a5e
+v-sega_ages_virtua_racing_v65536.sfv	4b89da8e4ce946880598b005a5a4a140c176f266

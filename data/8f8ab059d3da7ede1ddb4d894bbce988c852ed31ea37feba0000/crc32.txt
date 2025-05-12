@@ -1,0 +1,8 @@
+sxs-defend_the_base_tower_turret_shooting_range.nfo	5466b775
+sxs-defend_the_base_tower_turret_shooting_range.r00	214e9bd1
+sxs-defend_the_base_tower_turret_shooting_range.r01	d6aaa033
+sxs-defend_the_base_tower_turret_shooting_range.r02	cfd3ebf7
+sxs-defend_the_base_tower_turret_shooting_range.r03	32d48dab
+sxs-defend_the_base_tower_turret_shooting_range.r04	3b3d8d49
+sxs-defend_the_base_tower_turret_shooting_range.rar	fc932d5c
+sxs-defend_the_base_tower_turret_shooting_range.sfv	a7dcf6ae

@@ -1,0 +1,10 @@
+bbb-n-apk7a.nfo	-	5517	1	0	0	0
+bbb-n-apk7a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-apk7a.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-apk7a.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-apk7a.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-apk7a.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-apk7a.part6.rar	-	250000000	1	174502528	2	167
+bbb-n-apk7a.part7.rar	-	250000000	1	424502528	2	406
+bbb-n-apk7a.part8.rar	-	85493585	1	136753792	3	131
+bbb-n-apk7a.sfv	-	256	1	222247377	3	213

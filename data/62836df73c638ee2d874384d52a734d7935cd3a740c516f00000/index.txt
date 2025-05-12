@@ -1,0 +1,3 @@
+sxs-marble_power_blast_v65536.nfo	-	3794	1	0	0	0
+sxs-marble_power_blast_v65536.rar	-	20065649	1	3794	0	1
+sxs-marble_power_blast_v65536.sfv	-	44	1	20069443	0	21

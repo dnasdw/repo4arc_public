@@ -1,0 +1,7 @@
+sxs-puzzletronics.nfo	9cca56dc
+sxs-puzzletronics.r00	27cdbc3b
+sxs-puzzletronics.r01	119a8248
+sxs-puzzletronics.r02	30d993ac
+sxs-puzzletronics.r03	af36dc22
+sxs-puzzletronics.rar	6015b0c2
+sxs-puzzletronics.sfv	52c0d8a6

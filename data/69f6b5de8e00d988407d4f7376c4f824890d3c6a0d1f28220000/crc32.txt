@@ -1,0 +1,12 @@
+v-ion_fury.nfo	1ea4c27c
+v-ion_fury.r00	21fc9a04
+v-ion_fury.r01	45baa427
+v-ion_fury.r02	803ca41e
+v-ion_fury.r03	51aa7fb3
+v-ion_fury.r04	0feb946e
+v-ion_fury.r05	b0c178f9
+v-ion_fury.r06	ec027313
+v-ion_fury.r07	c5e46e7f
+v-ion_fury.r08	691711e9
+v-ion_fury.rar	545a2d78
+v-ion_fury.sfv	eecb9e2f

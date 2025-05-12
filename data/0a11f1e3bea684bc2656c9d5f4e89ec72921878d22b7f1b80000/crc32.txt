@@ -1,0 +1,13 @@
+v-oppw4_v196608.nfo	db9a03ad
+v-oppw4_v196608.r00	2d006f81
+v-oppw4_v196608.r01	d66a958a
+v-oppw4_v196608.r02	80774aa8
+v-oppw4_v196608.r03	a9f42057
+v-oppw4_v196608.r04	f62adacb
+v-oppw4_v196608.r05	7172ff75
+v-oppw4_v196608.r06	bd7660c6
+v-oppw4_v196608.r07	cbb39771
+v-oppw4_v196608.r08	53b1b1eb
+v-oppw4_v196608.r09	38aff4b6
+v-oppw4_v196608.rar	d361ca79
+v-oppw4_v196608.sfv	3393acd9

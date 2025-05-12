@@ -1,0 +1,10 @@
+sxs-azure_striker_gunvolt_3_v196608.nfo	-	6992	1	0	0	0
+sxs-azure_striker_gunvolt_3_v196608.r00	-	50000000	1	6992	0	1
+sxs-azure_striker_gunvolt_3_v196608.r01	-	50000000	1	50006992	0	49
+sxs-azure_striker_gunvolt_3_v196608.r02	-	50000000	1	100006992	0	97
+sxs-azure_striker_gunvolt_3_v196608.r03	-	50000000	1	150006992	0	145
+sxs-azure_striker_gunvolt_3_v196608.r04	-	50000000	1	200006992	0	193
+sxs-azure_striker_gunvolt_3_v196608.r05	-	50000000	1	250006992	0	241
+sxs-azure_striker_gunvolt_3_v196608.r06	-	49552990	1	300006992	0	289
+sxs-azure_striker_gunvolt_3_v196608.rar	-	50000000	1	349559982	0	337
+sxs-azure_striker_gunvolt_3_v196608.sfv	-	400	1	399559982	0	385

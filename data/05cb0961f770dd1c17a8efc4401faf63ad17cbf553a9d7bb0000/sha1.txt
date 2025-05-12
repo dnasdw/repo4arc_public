@@ -1,0 +1,3 @@
+sxs-guacamelee2_dlc.nfo	bf6948019e5eec1a4e67598193c5f418d3a8bb3e
+sxs-guacamelee2_dlc.rar	2dd679278a19ee4fbe4a901226ddcc096421f4f7
+sxs-guacamelee2_dlc.sfv	2374bb0856c9e151adc601297c8940ee54eeef44

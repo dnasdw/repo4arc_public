@@ -1,0 +1,11 @@
+delight.nfo	a7692f38acd9045a755428fad21b280d
+dl-moaivi.r00	e6c034cee02eb56d58da2a817f4b8d28
+dl-moaivi.r01	497f1ade5a288e8b3978d5c65b3fb4c2
+dl-moaivi.r02	d2b8aebd8664649dc59e4d04a5f41cf2
+dl-moaivi.r03	cab76ad41cb4c4767641b0125d0e52ad
+dl-moaivi.r04	32ce49cd71bcb2e0e790df4d28d28fe9
+dl-moaivi.r05	0b434ed3a7538e38cc344c528440bbff
+dl-moaivi.r06	de10f05f61691efed9337907b4878cd8
+dl-moaivi.r07	a32c7cf8fb4a31bfd4c3d821fca978d2
+dl-moaivi.rar	9202c9b6838fbd990cee7f0a93efa9ef
+dl-moaivi.sfv	0f57e81e413337f89ed27c5c0a864666

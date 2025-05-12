@@ -1,0 +1,6 @@
+brw-swsa.nfo	0e7d5ce9
+brw-swsa.r00	8e01176e
+brw-swsa.r01	4a13c03c
+brw-swsa.r02	93c78283
+brw-swsa.rar	982a8648
+brw-swsa.sfv	7a0d2832

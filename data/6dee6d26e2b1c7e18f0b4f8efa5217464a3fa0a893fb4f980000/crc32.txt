@@ -1,0 +1,17 @@
+sxs-instant_sports_tennis_v196608.nfo	f3796f9a
+sxs-instant_sports_tennis_v196608.r00	f5d004cf
+sxs-instant_sports_tennis_v196608.r01	1202e0dd
+sxs-instant_sports_tennis_v196608.r02	1580fb06
+sxs-instant_sports_tennis_v196608.r03	8e1c5baf
+sxs-instant_sports_tennis_v196608.r04	e85695e9
+sxs-instant_sports_tennis_v196608.r05	e6f869c4
+sxs-instant_sports_tennis_v196608.r06	625b6096
+sxs-instant_sports_tennis_v196608.r07	e8791812
+sxs-instant_sports_tennis_v196608.r08	67e81b46
+sxs-instant_sports_tennis_v196608.r09	cc0381c8
+sxs-instant_sports_tennis_v196608.r10	3fa0bfbf
+sxs-instant_sports_tennis_v196608.r11	4454b922
+sxs-instant_sports_tennis_v196608.r12	7f4e8608
+sxs-instant_sports_tennis_v196608.r13	9af4f32c
+sxs-instant_sports_tennis_v196608.rar	4e82e8b4
+sxs-instant_sports_tennis_v196608.sfv	d770367a

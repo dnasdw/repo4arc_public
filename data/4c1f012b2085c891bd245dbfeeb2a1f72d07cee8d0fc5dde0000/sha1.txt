@@ -1,0 +1,3 @@
+sxs-rune_factory_4_special_dlc.nfo	fb51139555fccd1a60af10bef18baa6c4b6ea9cd
+sxs-rune_factory_4_special_dlc.rar	92c0b6b1ab9e843492f2570b7a41c3889ea56b9a
+sxs-rune_factory_4_special_dlc.sfv	1276865e4017ff198212bbab15638b9a50807474

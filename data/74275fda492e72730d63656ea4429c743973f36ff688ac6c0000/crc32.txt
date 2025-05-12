@@ -1,0 +1,16 @@
+lfc-evsf.nfo	fa33d211
+lfc-evsf.r00	d67863a0
+lfc-evsf.r01	ed80f903
+lfc-evsf.r02	11c7828b
+lfc-evsf.r03	c4866639
+lfc-evsf.r04	8478b671
+lfc-evsf.r05	2ead4284
+lfc-evsf.r06	1b8eaaa4
+lfc-evsf.r07	6f63d4d2
+lfc-evsf.r08	028495d1
+lfc-evsf.r09	b8c615ca
+lfc-evsf.r10	4642c119
+lfc-evsf.r11	29353ee6
+lfc-evsf.r12	f9c75f71
+lfc-evsf.rar	c98fbd04
+lfc-evsf.sfv	e24feb0a

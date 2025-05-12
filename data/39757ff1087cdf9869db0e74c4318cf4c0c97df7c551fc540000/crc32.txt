@@ -1,0 +1,16 @@
+sxs-forklift_simulator_2024.nfo	f6d9a080
+sxs-forklift_simulator_2024.r00	8cbe90a4
+sxs-forklift_simulator_2024.r01	62767096
+sxs-forklift_simulator_2024.r02	b23d875c
+sxs-forklift_simulator_2024.r03	d057a902
+sxs-forklift_simulator_2024.r04	b229cddf
+sxs-forklift_simulator_2024.r05	7708bbc3
+sxs-forklift_simulator_2024.r06	0184a024
+sxs-forklift_simulator_2024.r07	df3888cd
+sxs-forklift_simulator_2024.r08	90568158
+sxs-forklift_simulator_2024.r09	70c712ec
+sxs-forklift_simulator_2024.r10	59569f01
+sxs-forklift_simulator_2024.r11	e0436011
+sxs-forklift_simulator_2024.r12	9485e77f
+sxs-forklift_simulator_2024.rar	6305cc92
+sxs-forklift_simulator_2024.sfv	0ac1937f

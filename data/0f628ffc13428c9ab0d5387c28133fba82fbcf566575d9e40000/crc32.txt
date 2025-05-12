@@ -1,0 +1,6 @@
+sxs-splash_cars.nfo	ed6c86e2
+sxs-splash_cars.r00	01127efb
+sxs-splash_cars.r01	1bba9418
+sxs-splash_cars.r02	f631e202
+sxs-splash_cars.rar	fee0d031
+sxs-splash_cars.sfv	a4245907

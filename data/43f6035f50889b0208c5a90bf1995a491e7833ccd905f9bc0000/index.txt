@@ -1,0 +1,4 @@
+sxs-yet_another_zombie_defense_hd_v131072.nfo	-	4574	1	0	0	0
+sxs-yet_another_zombie_defense_hd_v131072.r00	-	39430863	1	4574	0	1
+sxs-yet_another_zombie_defense_hd_v131072.rar	-	50000000	1	39435437	0	39
+sxs-yet_another_zombie_defense_hd_v131072.sfv	-	112	1	89435437	0	87

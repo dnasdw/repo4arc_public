@@ -1,0 +1,4 @@
+sxs-evolution_board_game_v65536.nfo	8e6a1529
+sxs-evolution_board_game_v65536.r00	b7848a8f
+sxs-evolution_board_game_v65536.rar	06f4e2f8
+sxs-evolution_board_game_v65536.sfv	34919bc2

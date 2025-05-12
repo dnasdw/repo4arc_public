@@ -1,0 +1,7 @@
+v-risk_of_rain_returns.nfo	-	10192	1	0	0	0
+v-risk_of_rain_returns.r00	-	100000000	1	10192	0	1
+v-risk_of_rain_returns.r01	-	100000000	1	100010192	0	97
+v-risk_of_rain_returns.r02	-	100000000	1	200010192	0	193
+v-risk_of_rain_returns.r03	-	55786271	1	300010192	0	289
+v-risk_of_rain_returns.rar	-	100000000	1	355796463	0	343
+v-risk_of_rain_returns.sfv	-	185	1	455796463	0	439

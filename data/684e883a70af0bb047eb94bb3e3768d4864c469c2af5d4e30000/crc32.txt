@@ -1,0 +1,6 @@
+sxs-fast_rmx_v196608.nfo	d4c258b3
+sxs-fast_rmx_v196608.r00	f5f3dd34
+sxs-fast_rmx_v196608.r01	707865ff
+sxs-fast_rmx_v196608.r02	ecd9c201
+sxs-fast_rmx_v196608.rar	b434fb94
+sxs-fast_rmx_v196608.sfv	66bd10f3

@@ -1,0 +1,4 @@
+sxs-wrc_generations_multi11_v196608.nfo	4af6cf9bc4bc6ebaf2205a4e809f8eac
+sxs-wrc_generations_multi11_v196608.r00	312653aaa36e725c7d5e338a376ca61e
+sxs-wrc_generations_multi11_v196608.rar	46e9cc35b9543a656cfaf7d7c07ef215
+sxs-wrc_generations_multi11_v196608.sfv	0ffc24dd90e9e62356825ae31d43a573

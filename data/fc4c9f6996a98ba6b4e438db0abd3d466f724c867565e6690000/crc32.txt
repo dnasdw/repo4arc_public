@@ -1,0 +1,6 @@
+sxs-super_bullet_break_v65536.nfo	27dcd5e1
+sxs-super_bullet_break_v65536.r00	b38f127f
+sxs-super_bullet_break_v65536.r01	8f1c2d93
+sxs-super_bullet_break_v65536.r02	ad667afe
+sxs-super_bullet_break_v65536.rar	f1f019f9
+sxs-super_bullet_break_v65536.sfv	3c81ece2

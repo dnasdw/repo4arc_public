@@ -1,0 +1,12 @@
+sxs-invisigun_reloaded_v196608.nfo	740d9ce3
+sxs-invisigun_reloaded_v196608.r00	b2a23874
+sxs-invisigun_reloaded_v196608.r01	90952884
+sxs-invisigun_reloaded_v196608.r02	e92dc7c3
+sxs-invisigun_reloaded_v196608.r03	ca749a2c
+sxs-invisigun_reloaded_v196608.r04	2df2900a
+sxs-invisigun_reloaded_v196608.r05	47b3c5d3
+sxs-invisigun_reloaded_v196608.r06	7b5b7e75
+sxs-invisigun_reloaded_v196608.r07	be2d08a6
+sxs-invisigun_reloaded_v196608.r08	675909ee
+sxs-invisigun_reloaded_v196608.rar	b434105c
+sxs-invisigun_reloaded_v196608.sfv	96db650b

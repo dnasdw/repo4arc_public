@@ -1,0 +1,10 @@
+sxs-monster_truck_xt_airport_derby.nfo	dd8110be
+sxs-monster_truck_xt_airport_derby.r00	77a76954
+sxs-monster_truck_xt_airport_derby.r01	355d3db9
+sxs-monster_truck_xt_airport_derby.r02	de642a24
+sxs-monster_truck_xt_airport_derby.r03	0e930acd
+sxs-monster_truck_xt_airport_derby.r04	28802c94
+sxs-monster_truck_xt_airport_derby.r05	d7c9f411
+sxs-monster_truck_xt_airport_derby.r06	0ebb14ff
+sxs-monster_truck_xt_airport_derby.rar	207ab77f
+sxs-monster_truck_xt_airport_derby.sfv	736586c5

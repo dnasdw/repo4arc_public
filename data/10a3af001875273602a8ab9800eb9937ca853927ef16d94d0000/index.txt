@@ -1,0 +1,3 @@
+v-tntj_v524288_dlc.nfo	-	10514	1	0	0	0
+v-tntj_v524288_dlc.rar	-	104067	1	10514	0	1
+v-tntj_v524288_dlc.sfv	-	33	1	114581	0	2

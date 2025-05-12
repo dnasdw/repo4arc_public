@@ -1,0 +1,8 @@
+v-leisure_suit_larry_wet_dreams_dry_twice_v65536.nfo	-	5434	1	0	0	0
+v-leisure_suit_larry_wet_dreams_dry_twice_v65536.r00	-	50000000	1	5434	0	1
+v-leisure_suit_larry_wet_dreams_dry_twice_v65536.r01	-	50000000	1	50005434	0	49
+v-leisure_suit_larry_wet_dreams_dry_twice_v65536.r02	-	50000000	1	100005434	0	97
+v-leisure_suit_larry_wet_dreams_dry_twice_v65536.r03	-	50000000	1	150005434	0	145
+v-leisure_suit_larry_wet_dreams_dry_twice_v65536.r04	-	30296777	1	200005434	0	193
+v-leisure_suit_larry_wet_dreams_dry_twice_v65536.rar	-	50000000	1	230302211	0	222
+v-leisure_suit_larry_wet_dreams_dry_twice_v65536.sfv	-	378	1	280302211	0	270

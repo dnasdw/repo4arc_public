@@ -1,0 +1,6 @@
+sxs-mermaid_story.nfo	514b2f58d25a87f4c548548cc1043812bec5a731
+sxs-mermaid_story.r00	5082bd3888fbe3c7546948d53414bf8b5fb41c9a
+sxs-mermaid_story.r01	2d2da1053cbafaaf44b62cf584c62e31c15b7dce
+sxs-mermaid_story.r02	ef079f13011b4033358773bc12b68ce2f5239787
+sxs-mermaid_story.rar	b61c376e254b73d05f01a1ec9911463b74c68cee
+sxs-mermaid_story.sfv	98a356199eea0947d936ccc3a0195dcc6db6b678

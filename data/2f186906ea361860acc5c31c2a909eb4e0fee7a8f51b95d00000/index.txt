@@ -1,0 +1,3 @@
+sxs-dokapon_kingdom_connect_v196608.nfo	-	6290	1	0	0	0
+sxs-dokapon_kingdom_connect_v196608.rar	-	72742145	1	6290	0	1
+sxs-dokapon_kingdom_connect_v196608.sfv	-	50	1	72748435	0	71

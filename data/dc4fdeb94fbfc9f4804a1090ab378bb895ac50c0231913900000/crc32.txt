@@ -1,0 +1,16 @@
+v-lslwddd_v196608.nfo	4cc30ade
+v-lslwddd_v196608.r00	3be91c70
+v-lslwddd_v196608.r01	da1e82c3
+v-lslwddd_v196608.r02	0566dc3a
+v-lslwddd_v196608.r03	b11a018e
+v-lslwddd_v196608.r04	a1cc132b
+v-lslwddd_v196608.r05	88ee00a4
+v-lslwddd_v196608.r06	e43de692
+v-lslwddd_v196608.r07	6b2bfa85
+v-lslwddd_v196608.r08	b033eced
+v-lslwddd_v196608.r09	0914e59c
+v-lslwddd_v196608.r10	ed251d7d
+v-lslwddd_v196608.r11	6103e06b
+v-lslwddd_v196608.r12	de6640ed
+v-lslwddd_v196608.rar	26f7a20c
+v-lslwddd_v196608.sfv	dc41fa5b

@@ -1,0 +1,5 @@
+sxs-gimmick_special_edition.nfo	27ae1d120040a04951a9ae656f94cb8b
+sxs-gimmick_special_edition.r00	2258e53c432cfc702a622bb2220a2c23
+sxs-gimmick_special_edition.r01	07b9d1696afbdc5df8ed90026af83a45
+sxs-gimmick_special_edition.rar	0bf50cea76c0974e57d775f235ef1488
+sxs-gimmick_special_edition.sfv	e1a51e4b8d896d992b2f6fc66a8d58b5

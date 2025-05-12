@@ -1,0 +1,11 @@
+lfc-a78sa_v131072.nfo	d4859ca3
+lfc-a78sa_v131072.r00	acc7a86e
+lfc-a78sa_v131072.r01	9b6e84cc
+lfc-a78sa_v131072.r02	e2f0bb03
+lfc-a78sa_v131072.r03	028b7a0d
+lfc-a78sa_v131072.r04	7ac8f4ab
+lfc-a78sa_v131072.r05	aeb410c3
+lfc-a78sa_v131072.r06	ad2d25fe
+lfc-a78sa_v131072.r07	22954920
+lfc-a78sa_v131072.rar	5806074a
+lfc-a78sa_v131072.sfv	88e535b7

@@ -1,0 +1,10 @@
+sxs-escape_first_2_v65536.nfo	5d56f9ba
+sxs-escape_first_2_v65536.r00	4e889fe8
+sxs-escape_first_2_v65536.r01	74fa1dfd
+sxs-escape_first_2_v65536.r02	1e0477ae
+sxs-escape_first_2_v65536.r03	043a6c7b
+sxs-escape_first_2_v65536.r04	f8d5e983
+sxs-escape_first_2_v65536.r05	73df8fa8
+sxs-escape_first_2_v65536.r06	7af733ce
+sxs-escape_first_2_v65536.rar	8ddacd26
+sxs-escape_first_2_v65536.sfv	e02d96ea

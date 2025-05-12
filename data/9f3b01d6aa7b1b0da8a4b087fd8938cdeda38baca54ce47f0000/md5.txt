@@ -1,0 +1,9 @@
+v-towers_watch.nfo	5e4ee63b66b9759e02c4e2b2f5078470
+v-towers_watch.r00	2f82ed5ea59e14c6794755313b4bac39
+v-towers_watch.r01	6628e90e6d0fde5a1fe0f985fc6b6ef5
+v-towers_watch.r02	2b5f4a0c3be5d6fa52a8dbfacaebcf47
+v-towers_watch.r03	bd704012282982afe6c2d6b33d1cf4c2
+v-towers_watch.r04	1832f272d284ca69747f7270912f10bb
+v-towers_watch.r05	38e748b9a5fd3c2a5460a40e8d325d6c
+v-towers_watch.rar	16b0f94fff43805fba949dd03d87d838
+v-towers_watch.sfv	66b2a08ad6bac5019cc6cffd24d90252

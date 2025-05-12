@@ -1,0 +1,7 @@
+v-sniper_elite_v2_remastered_v65536.nfo	7fdbfb85
+v-sniper_elite_v2_remastered_v65536.r00	07fcba07
+v-sniper_elite_v2_remastered_v65536.r01	8a887c6c
+v-sniper_elite_v2_remastered_v65536.r02	acec7d4b
+v-sniper_elite_v2_remastered_v65536.r03	2fdc1cb6
+v-sniper_elite_v2_remastered_v65536.rar	ba0c2a8b
+v-sniper_elite_v2_remastered_v65536.sfv	e864bcb0

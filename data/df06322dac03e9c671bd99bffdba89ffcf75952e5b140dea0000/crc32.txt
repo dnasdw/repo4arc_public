@@ -1,0 +1,4 @@
+sxs-vostok_inc_v65536.nfo	d9caf038
+sxs-vostok_inc_v65536.r00	b8f010b1
+sxs-vostok_inc_v65536.rar	c3c4b599
+sxs-vostok_inc_v65536.sfv	f9a31cc9

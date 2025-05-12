@@ -1,0 +1,7 @@
+v-prince_of_persia_the_lost_crown_v196608.nfo	-	5590	1	0	0	0
+v-prince_of_persia_the_lost_crown_v196608.r00	-	100000000	1	5590	0	1
+v-prince_of_persia_the_lost_crown_v196608.r01	-	100000000	1	100005590	0	97
+v-prince_of_persia_the_lost_crown_v196608.r02	-	100000000	1	200005590	0	193
+v-prince_of_persia_the_lost_crown_v196608.r03	-	1279838	1	300005590	0	289
+v-prince_of_persia_the_lost_crown_v196608.rar	-	100000000	1	301285428	0	291
+v-prince_of_persia_the_lost_crown_v196608.sfv	-	280	1	401285428	0	387

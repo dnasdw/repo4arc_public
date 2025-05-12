@@ -1,0 +1,9 @@
+sxs-oninaki_v65536.nfo	f394434e
+sxs-oninaki_v65536.r00	8a6e6b00
+sxs-oninaki_v65536.r01	f8f6a64b
+sxs-oninaki_v65536.r02	d203c0f7
+sxs-oninaki_v65536.r03	2e50e14c
+sxs-oninaki_v65536.r04	1e131727
+sxs-oninaki_v65536.r05	cc6f3986
+sxs-oninaki_v65536.rar	f63a5576
+sxs-oninaki_v65536.sfv	7351eeed

@@ -1,0 +1,4 @@
+lfc-fnafsl_v1.0.1_upd.nfo	b1cebc4bfc814d92c72ee2e3b2478cbc116db6d33c7ff8e322dfb97c9aa7bc15
+lfc-fnafsl_v1.0.1_upd.r00	a226055ac59a4526067a5800d57d3dd6a83afac1d6aad07afaf2e284d0b433bf
+lfc-fnafsl_v1.0.1_upd.rar	b4acca0b5f5fc25ecdc2c8751aa272f91b7619f4dc571dc07e883eda4b232d5e
+lfc-fnafsl_v1.0.1_upd.sfv	aa57e86295ec530ca296a5e1d1b3f0e10a9e478a47a595e8b6ac1f629b4e7b05

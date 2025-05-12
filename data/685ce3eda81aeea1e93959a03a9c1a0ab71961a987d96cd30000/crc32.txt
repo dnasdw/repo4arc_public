@@ -1,0 +1,17 @@
+sxs-space_ribbon_v196608.nfo	665380d6
+sxs-space_ribbon_v196608.r00	af643be6
+sxs-space_ribbon_v196608.r01	87600198
+sxs-space_ribbon_v196608.r02	5dc1699d
+sxs-space_ribbon_v196608.r03	c2be77a8
+sxs-space_ribbon_v196608.r04	92e52271
+sxs-space_ribbon_v196608.r05	6493171f
+sxs-space_ribbon_v196608.r06	e4f6b34f
+sxs-space_ribbon_v196608.r07	75ec460d
+sxs-space_ribbon_v196608.r08	eed98141
+sxs-space_ribbon_v196608.r09	56e09872
+sxs-space_ribbon_v196608.r10	d901b67d
+sxs-space_ribbon_v196608.r11	400b2ced
+sxs-space_ribbon_v196608.r12	5293843d
+sxs-space_ribbon_v196608.r13	a17fe4fb
+sxs-space_ribbon_v196608.rar	7d197608
+sxs-space_ribbon_v196608.sfv	2405c30d

@@ -1,0 +1,5 @@
+lfc-mrdv1.0.1.update.nfo	f695d18a
+lfc-mrdv1.0.1.update.r00	3b20476b
+lfc-mrdv1.0.1.update.r01	6b8f6d72
+lfc-mrdv1.0.1.update.rar	f492d812
+lfc-mrdv1.0.1.update.sfv	e4e755cd

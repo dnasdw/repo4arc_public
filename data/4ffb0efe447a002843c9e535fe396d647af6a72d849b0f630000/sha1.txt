@@ -1,0 +1,12 @@
+lfc-mave.nfo	e9e04f0c008af5d74afb6380526c5c0719b2296c
+lfc-mave.r00	49b4a64f75ff5bc0cd6be50ecd03c6d0efa4d2c5
+lfc-mave.r01	13586c389add610b3c3e2141fb91458cb4a45ca7
+lfc-mave.r02	957db9b74fadc121fafabd7effe18f33f27f1fbc
+lfc-mave.r03	56994d693e5c378e06e8a694e2087ae67b357384
+lfc-mave.r04	2b1234fb7f3124b2de1f5e16beec055f9e9bebe8
+lfc-mave.r05	18c2ec9aef844aa9dc3a9e6a57683b8ccd634bc1
+lfc-mave.r06	37d370e0b3d027348bbdbdd61d72beaf1b3dd6fb
+lfc-mave.r07	12caa07d591af3adac02471e3e5afb6aa4db46e2
+lfc-mave.r08	4f100dee14b349ae614621928510a7836b6ddfd0
+lfc-mave.rar	cd2b2dc73ad946a999e59a20f33a6cc60d22e7a4
+lfc-mave.sfv	39c0ad4e0c609c01a92e48c84e369007b744c8f5

@@ -1,0 +1,4 @@
+v-far_lone_sails_v65536.nfo	-	5044	1	0	0	0
+v-far_lone_sails_v65536.r00	-	3078104	1	5044	0	1
+v-far_lone_sails_v65536.rar	-	100000000	1	3083148	0	4
+v-far_lone_sails_v65536.sfv	-	76	1	103083148	0	100

@@ -1,0 +1,9 @@
+sxs-sokocat_combo.nfo	972d4bf3fe2cdd7bb72403b24ba02e13
+sxs-sokocat_combo.r00	3093032c68d8b857a59371f3186b04ea
+sxs-sokocat_combo.r01	f3c05e8fde6a2e8d19cd1606c184f309
+sxs-sokocat_combo.r02	96d521dfbdca64ebca998e54c4110a29
+sxs-sokocat_combo.r03	fe503f1f21fef05bda0491777e0a0f43
+sxs-sokocat_combo.r04	a587124cf4bc47f9ae0b04f678909071
+sxs-sokocat_combo.r05	078295f1016c18f5bd4177b4dc089a5e
+sxs-sokocat_combo.rar	972a10437183bafd086247d37fb03c5d
+sxs-sokocat_combo.sfv	a702c850cd6d64203828e67323053eea

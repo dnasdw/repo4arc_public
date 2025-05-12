@@ -1,0 +1,10 @@
+sxs-into_the_breach_v262144.nfo	5e2dced9
+sxs-into_the_breach_v262144.r00	78b964fc
+sxs-into_the_breach_v262144.r01	5887bdfe
+sxs-into_the_breach_v262144.r02	1123393c
+sxs-into_the_breach_v262144.r03	11f0f403
+sxs-into_the_breach_v262144.r04	1782780e
+sxs-into_the_breach_v262144.r05	b6af4445
+sxs-into_the_breach_v262144.r06	7f865711
+sxs-into_the_breach_v262144.rar	e4171629
+sxs-into_the_breach_v262144.sfv	1cefe6a4

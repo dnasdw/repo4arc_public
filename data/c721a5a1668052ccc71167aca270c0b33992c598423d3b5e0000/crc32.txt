@@ -1,0 +1,11 @@
+v-football_manager_2024_touch_v131072.nfo	d0f939eb
+v-football_manager_2024_touch_v131072.r00	192a727f
+v-football_manager_2024_touch_v131072.r01	ad7095b2
+v-football_manager_2024_touch_v131072.r02	8534993b
+v-football_manager_2024_touch_v131072.r03	9b0b799b
+v-football_manager_2024_touch_v131072.r04	b1951911
+v-football_manager_2024_touch_v131072.r05	c7fdcc74
+v-football_manager_2024_touch_v131072.r06	1fc66d9f
+v-football_manager_2024_touch_v131072.r07	6a13d3f1
+v-football_manager_2024_touch_v131072.rar	ac0a621b
+v-football_manager_2024_touch_v131072.sfv	43c5f8dc

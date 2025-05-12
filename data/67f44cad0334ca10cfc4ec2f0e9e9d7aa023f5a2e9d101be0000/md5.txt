@@ -1,0 +1,8 @@
+v-goatsim_goaty_v65536.nfo	e70d9bccf32d7209c7eaf49f73ed3ee4
+v-goatsim_goaty_v65536.r00	5e5ad9c28f882ced9421046fa702d5cc
+v-goatsim_goaty_v65536.r01	9bab494509710f5dc61329063161ef89
+v-goatsim_goaty_v65536.r02	1037102a66fa20bcb129885bc16e3a17
+v-goatsim_goaty_v65536.r03	0dada55c474eac40b9dea999f1469294
+v-goatsim_goaty_v65536.r04	5739886a6c53ccd97f020456b099e738
+v-goatsim_goaty_v65536.rar	a5b01564c33543f3ae2a502e2b05a3e3
+v-goatsim_goaty_v65536.sfv	2643127dc3ba974b0b8d92d980605357

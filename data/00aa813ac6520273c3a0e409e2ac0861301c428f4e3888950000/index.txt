@@ -1,0 +1,15 @@
+sxs-warriors_of_the_nile_2.nfo	-	6290	1	0	0	0
+sxs-warriors_of_the_nile_2.r00	-	100000000	1	6290	0	1
+sxs-warriors_of_the_nile_2.r01	-	100000000	1	100006290	0	97
+sxs-warriors_of_the_nile_2.r02	-	100000000	1	200006290	0	193
+sxs-warriors_of_the_nile_2.r03	-	100000000	1	300006290	0	289
+sxs-warriors_of_the_nile_2.r04	-	100000000	1	400006290	0	385
+sxs-warriors_of_the_nile_2.r05	-	100000000	1	500006290	0	481
+sxs-warriors_of_the_nile_2.r06	-	100000000	1	62251264	1	60
+sxs-warriors_of_the_nile_2.r07	-	100000000	1	162251264	1	156
+sxs-warriors_of_the_nile_2.r08	-	100000000	1	262251264	1	252
+sxs-warriors_of_the_nile_2.r09	-	100000000	1	362251264	1	348
+sxs-warriors_of_the_nile_2.r10	-	100000000	1	462251264	1	444
+sxs-warriors_of_the_nile_2.r11	-	23694970	1	24502528	2	24
+sxs-warriors_of_the_nile_2.rar	-	100000000	1	48197498	2	47
+sxs-warriors_of_the_nile_2.sfv	-	533	1	148197498	2	143

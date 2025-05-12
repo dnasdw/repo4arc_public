@@ -1,0 +1,6 @@
+sxs-genetic_disaster_v65536.nfo	03c2a899
+sxs-genetic_disaster_v65536.r00	a877d8f5
+sxs-genetic_disaster_v65536.r01	a1b2244e
+sxs-genetic_disaster_v65536.r02	1218f49d
+sxs-genetic_disaster_v65536.rar	0f78ef71
+sxs-genetic_disaster_v65536.sfv	b0fc9bdb

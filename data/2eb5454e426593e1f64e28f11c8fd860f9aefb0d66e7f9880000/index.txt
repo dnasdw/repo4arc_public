@@ -1,0 +1,8 @@
+sxs-stellar_interface_v327680.nfo	-	6836	1	0	0	0
+sxs-stellar_interface_v327680.r00	-	50000000	1	6836	0	1
+sxs-stellar_interface_v327680.r01	-	50000000	1	50006836	0	49
+sxs-stellar_interface_v327680.r02	-	50000000	1	100006836	0	97
+sxs-stellar_interface_v327680.r03	-	50000000	1	150006836	0	145
+sxs-stellar_interface_v327680.r04	-	15455997	1	200006836	0	193
+sxs-stellar_interface_v327680.rar	-	50000000	1	215462833	0	208
+sxs-stellar_interface_v327680.sfv	-	264	1	265462833	0	256

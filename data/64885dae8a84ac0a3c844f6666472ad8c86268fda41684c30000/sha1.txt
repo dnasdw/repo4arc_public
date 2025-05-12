@@ -1,0 +1,3 @@
+sxs-knights_and_guns_armor_pack_1_dlc.nfo	0f3d852f6f6c882f9135f80eaee226df1b96d46e
+sxs-knights_and_guns_armor_pack_1_dlc.rar	f2d98792e1172cd6254c8a187852b798bc78b5a3
+sxs-knights_and_guns_armor_pack_1_dlc.sfv	6c6519d8b65b32a578c06c50c99708be103ede3c

@@ -1,0 +1,17 @@
+i-jdmr.nfo	cf3306f4
+i-jdmr.r00	e4c82633
+i-jdmr.r01	df9afa6c
+i-jdmr.r02	0fed3806
+i-jdmr.r03	33b74a15
+i-jdmr.r04	81abdaa8
+i-jdmr.r05	147bbc49
+i-jdmr.r06	10af901e
+i-jdmr.r07	febe55ec
+i-jdmr.r08	2024a16c
+i-jdmr.r09	cad30256
+i-jdmr.r10	8e4baf3f
+i-jdmr.r11	156778db
+i-jdmr.r12	cc0f2070
+i-jdmr.r13	256c7925
+i-jdmr.rar	dd5aa64a
+i-jdmr.sfv	1a9aa0f0

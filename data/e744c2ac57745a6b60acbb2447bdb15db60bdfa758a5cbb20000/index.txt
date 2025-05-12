@@ -1,0 +1,8 @@
+sxs-magicolors.nfo	-	6524	1	0	0	0
+sxs-magicolors.r00	-	50000000	1	6524	0	1
+sxs-magicolors.r01	-	50000000	1	50006524	0	49
+sxs-magicolors.r02	-	50000000	1	100006524	0	97
+sxs-magicolors.r03	-	50000000	1	150006524	0	145
+sxs-magicolors.r04	-	24402511	1	200006524	0	193
+sxs-magicolors.rar	-	50000000	1	224409035	0	217
+sxs-magicolors.sfv	-	174	1	274409035	0	265

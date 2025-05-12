@@ -1,0 +1,4 @@
+lfc-clhe_v65536.nfo	d5f9926dbd4f0f32e78064b4af2a5452
+lfc-clhe_v65536.r00	f4d64cee9c17a74d9e4fe18df3593b19
+lfc-clhe_v65536.rar	a2ab055d008b8de3053dc066ac7677dd
+lfc-clhe_v65536.sfv	a4dbbc3659fca7f14538d525f0613c06

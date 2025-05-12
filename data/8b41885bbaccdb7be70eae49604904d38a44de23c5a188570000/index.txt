@@ -1,0 +1,3 @@
+sxs-bowling_fever_v65536.nfo	-	4886	1	0	0	0
+sxs-bowling_fever_v65536.rar	-	45022763	1	4886	0	1
+sxs-bowling_fever_v65536.sfv	-	39	1	45027649	0	44

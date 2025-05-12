@@ -1,0 +1,13 @@
+sxs-monkey_barrels_v131072.nfo	e45194b4
+sxs-monkey_barrels_v131072.r00	0bd5cb1e
+sxs-monkey_barrels_v131072.r01	397487a0
+sxs-monkey_barrels_v131072.r02	b5f40979
+sxs-monkey_barrels_v131072.r03	5f6c7735
+sxs-monkey_barrels_v131072.r04	120a6b8e
+sxs-monkey_barrels_v131072.r05	b868e402
+sxs-monkey_barrels_v131072.r06	93028fba
+sxs-monkey_barrels_v131072.r07	07e54f95
+sxs-monkey_barrels_v131072.r08	87382824
+sxs-monkey_barrels_v131072.r09	ba27f97e
+sxs-monkey_barrels_v131072.rar	b3aa1d9e
+sxs-monkey_barrels_v131072.sfv	0e3acfbb

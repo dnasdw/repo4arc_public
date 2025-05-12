@@ -1,0 +1,12 @@
+sxs-rico_london_v65536.nfo	42926038
+sxs-rico_london_v65536.r00	8a541097
+sxs-rico_london_v65536.r01	d611995d
+sxs-rico_london_v65536.r02	7542f8c8
+sxs-rico_london_v65536.r03	e23378c2
+sxs-rico_london_v65536.r04	5118afcb
+sxs-rico_london_v65536.r05	eb69732e
+sxs-rico_london_v65536.r06	48fdfec2
+sxs-rico_london_v65536.r07	98cd26bf
+sxs-rico_london_v65536.r08	1d51e99e
+sxs-rico_london_v65536.rar	2a61c53d
+sxs-rico_london_v65536.sfv	2811d2d6

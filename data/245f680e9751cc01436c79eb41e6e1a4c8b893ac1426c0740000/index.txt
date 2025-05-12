@@ -1,0 +1,7 @@
+sxs-survive_on_raft_v196608.nfo	-	6447	1	0	0	0
+sxs-survive_on_raft_v196608.r00	-	50000000	1	6447	0	1
+sxs-survive_on_raft_v196608.r01	-	50000000	1	50006447	0	49
+sxs-survive_on_raft_v196608.r02	-	50000000	1	100006447	0	97
+sxs-survive_on_raft_v196608.r03	-	2779956	1	150006447	0	145
+sxs-survive_on_raft_v196608.rar	-	50000000	1	152786403	0	148
+sxs-survive_on_raft_v196608.sfv	-	210	1	202786403	0	196

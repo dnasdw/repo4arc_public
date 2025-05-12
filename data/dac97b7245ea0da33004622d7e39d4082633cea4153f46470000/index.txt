@@ -1,0 +1,17 @@
+sxs-hentai_rpg_isekai_journey.nfo	-	4652	1	0	0	0
+sxs-hentai_rpg_isekai_journey.r00	-	100000000	1	4652	0	1
+sxs-hentai_rpg_isekai_journey.r01	-	100000000	1	100004652	0	97
+sxs-hentai_rpg_isekai_journey.r02	-	100000000	1	200004652	0	193
+sxs-hentai_rpg_isekai_journey.r03	-	100000000	1	300004652	0	289
+sxs-hentai_rpg_isekai_journey.r04	-	100000000	1	400004652	0	385
+sxs-hentai_rpg_isekai_journey.r05	-	100000000	1	500004652	0	481
+sxs-hentai_rpg_isekai_journey.r06	-	100000000	1	62251264	1	60
+sxs-hentai_rpg_isekai_journey.r07	-	100000000	1	162251264	1	156
+sxs-hentai_rpg_isekai_journey.r08	-	100000000	1	262251264	1	252
+sxs-hentai_rpg_isekai_journey.r09	-	100000000	1	362251264	1	348
+sxs-hentai_rpg_isekai_journey.r10	-	100000000	1	462251264	1	444
+sxs-hentai_rpg_isekai_journey.r11	-	100000000	1	24502528	2	24
+sxs-hentai_rpg_isekai_journey.r12	-	100000000	1	124502528	2	120
+sxs-hentai_rpg_isekai_journey.r13	-	89354237	1	224502528	2	216
+sxs-hentai_rpg_isekai_journey.rar	-	100000000	1	313856765	2	302
+sxs-hentai_rpg_isekai_journey.sfv	-	660	1	413856765	2	398

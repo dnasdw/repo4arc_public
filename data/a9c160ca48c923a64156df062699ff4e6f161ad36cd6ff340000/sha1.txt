@@ -1,0 +1,4 @@
+lfc-echp_v65536.nfo	9e0ad6a14e2d960746bef1e2308bbefa82e3bec4
+lfc-echp_v65536.r00	5b4063aed2e1120177bcd32718e1c722db3bde90
+lfc-echp_v65536.rar	ec9bd5bc2fc5ca4bdc40a08a3d9716c0cad29eb2
+lfc-echp_v65536.sfv	76cfb40e1fb5e2ec473da8dc27a5b0b8a8305270

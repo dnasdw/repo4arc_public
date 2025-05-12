@@ -1,0 +1,8 @@
+sxs-pinballfx3_v786432.nfo	c4a338db
+sxs-pinballfx3_v786432.r00	2cc97d0d
+sxs-pinballfx3_v786432.r01	67e5a21e
+sxs-pinballfx3_v786432.r02	6c9b9815
+sxs-pinballfx3_v786432.r03	b043964e
+sxs-pinballfx3_v786432.r04	a95579d7
+sxs-pinballfx3_v786432.rar	cb0992fd
+sxs-pinballfx3_v786432.sfv	46444868

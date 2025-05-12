@@ -1,0 +1,17 @@
+sxs-farm_together_v851968.nfo	292330fb
+sxs-farm_together_v851968.r00	70259855
+sxs-farm_together_v851968.r01	16660c64
+sxs-farm_together_v851968.r02	4b3fd0fd
+sxs-farm_together_v851968.r03	71668e27
+sxs-farm_together_v851968.r04	975fb07d
+sxs-farm_together_v851968.r05	7bdd741a
+sxs-farm_together_v851968.r06	d9009d79
+sxs-farm_together_v851968.r07	bcf86c1b
+sxs-farm_together_v851968.r08	ea47c075
+sxs-farm_together_v851968.r09	5e0eceb1
+sxs-farm_together_v851968.r10	1b6e563c
+sxs-farm_together_v851968.r11	12ac307e
+sxs-farm_together_v851968.r12	bae71ea2
+sxs-farm_together_v851968.r13	6dbbd7aa
+sxs-farm_together_v851968.rar	53951e46
+sxs-farm_together_v851968.sfv	970878e4

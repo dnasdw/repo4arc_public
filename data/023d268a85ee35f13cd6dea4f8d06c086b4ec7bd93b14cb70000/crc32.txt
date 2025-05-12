@@ -1,0 +1,9 @@
+sxs-ding_dong_xl_v196608.nfo	fdff8574
+sxs-ding_dong_xl_v196608.r00	0f4087c7
+sxs-ding_dong_xl_v196608.r01	f46f98a6
+sxs-ding_dong_xl_v196608.r02	2e32ee5f
+sxs-ding_dong_xl_v196608.r03	5d133db7
+sxs-ding_dong_xl_v196608.r04	20ba5247
+sxs-ding_dong_xl_v196608.r05	15a6a8b2
+sxs-ding_dong_xl_v196608.rar	80eacf43
+sxs-ding_dong_xl_v196608.sfv	e694a492

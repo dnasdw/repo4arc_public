@@ -1,0 +1,8 @@
+sxs-magicolors.nfo	65a7f94859ee1b5380bea1fc2c6776dc
+sxs-magicolors.r00	f0d757187865ba716121195149ec79fd
+sxs-magicolors.r01	7e96f8ee1276013e42f460193443125e
+sxs-magicolors.r02	670d18d0c7c624145ad45effbf53b4c0
+sxs-magicolors.r03	d1275f77e08f936321ea27505a0f3216
+sxs-magicolors.r04	79e4e457d64286f59182d3ca6021edc3
+sxs-magicolors.rar	742b02838dc2f7da05f70d76c04c03ad
+sxs-magicolors.sfv	d4840c2c3382e7478ae8c470ca8c9502

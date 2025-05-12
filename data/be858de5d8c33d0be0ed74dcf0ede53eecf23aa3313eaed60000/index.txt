@@ -1,0 +1,3 @@
+v-rainbow_laser_disco_dungeon_v65536.nfo	-	6214	1	0	0	0
+v-rainbow_laser_disco_dungeon_v65536.rar	-	36536896	1	6214	0	1
+v-rainbow_laser_disco_dungeon_v65536.sfv	-	51	1	36543110	0	36

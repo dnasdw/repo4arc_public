@@ -1,0 +1,14 @@
+sxs-alpha_particle.nfo	2a26d27f
+sxs-alpha_particle.r00	e042f7b8
+sxs-alpha_particle.r01	e4923f2e
+sxs-alpha_particle.r02	3cff66eb
+sxs-alpha_particle.r03	fe1631f1
+sxs-alpha_particle.r04	b36d643e
+sxs-alpha_particle.r05	3688726c
+sxs-alpha_particle.r06	690f9a14
+sxs-alpha_particle.r07	5840b780
+sxs-alpha_particle.r08	da99f4fc
+sxs-alpha_particle.r09	f2d4f3f2
+sxs-alpha_particle.r10	65640b63
+sxs-alpha_particle.rar	87f4fbd0
+sxs-alpha_particle.sfv	fe985d63

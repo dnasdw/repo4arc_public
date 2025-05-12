@@ -1,0 +1,3 @@
+v-pikmin_1_v65536.nfo	74aa51601fd8a101f2320204ba31c32e30f317ac
+v-pikmin_1_v65536.rar	36dc503ccafae1b10b9c4c4a48383e9d87d4f81f
+v-pikmin_1_v65536.sfv	cbdf2acbc5f4838602faea0028740dd16019a0dd

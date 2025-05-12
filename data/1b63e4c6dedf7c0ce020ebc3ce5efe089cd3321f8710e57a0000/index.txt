@@ -1,0 +1,6 @@
+lfc-castleofnoeascape2.nfo	-	4756	1	0	0	0
+lfc-castleofnoeascape2.r00	-	50000000	1	4756	0	1
+lfc-castleofnoeascape2.r01	-	50000000	1	50004756	0	49
+lfc-castleofnoeascape2.r02	-	8432327	1	100004756	0	97
+lfc-castleofnoeascape2.rar	-	50000000	1	108437083	0	106
+lfc-castleofnoeascape2.sfv	-	148	1	158437083	0	154

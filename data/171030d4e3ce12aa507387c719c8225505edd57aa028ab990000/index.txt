@@ -1,0 +1,6 @@
+sxs-thunderflash.nfo	-	5276	1	0	0	0
+sxs-thunderflash.r00	-	50000000	1	5276	0	1
+sxs-thunderflash.r01	-	50000000	1	50005276	0	49
+sxs-thunderflash.r02	-	1538333	1	100005276	0	97
+sxs-thunderflash.rar	-	50000000	1	101543609	0	99
+sxs-thunderflash.sfv	-	124	1	151543609	0	147

@@ -1,0 +1,3 @@
+sxs-farm_together_dlc.nfo	-	18772	1	0	0	0
+sxs-farm_together_dlc.rar	-	110083	1	18772	0	1
+sxs-farm_together_dlc.sfv	-	36	1	128855	0	2

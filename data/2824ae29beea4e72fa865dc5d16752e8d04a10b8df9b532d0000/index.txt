@@ -1,0 +1,6 @@
+bbb-h-adlra.nfo	-	5517	1	0	0	0
+bbb-h-adlra.part1.rar	-	250000000	1	5517	0	1
+bbb-h-adlra.part2.rar	-	250000000	1	250005517	0	240
+bbb-h-adlra.part3.rar	-	250000000	1	500005517	0	479
+bbb-h-adlra.part4.rar	-	163618217	1	212251264	1	203
+bbb-h-adlra.sfv	-	128	1	375869481	1	360

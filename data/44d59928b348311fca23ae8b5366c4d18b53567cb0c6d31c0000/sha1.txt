@@ -1,0 +1,5 @@
+lfc-qctc.nfo	f106fa3f6b4fccb3395cabca8c12c3deff056948
+lfc-qctc.r00	03878f1adc60a7593a603fb4caeee4dd28da490f
+lfc-qctc.r01	5e753f27ec600170ec4ae3f6a5a9b249a486a790
+lfc-qctc.rar	4e5e2b11fd51911b453f7702a0955f2792818e68
+lfc-qctc.sfv	4e5a01ee94411d7bde688c4880016c5cf94c4ed4

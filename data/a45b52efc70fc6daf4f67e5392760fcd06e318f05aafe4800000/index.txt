@@ -1,0 +1,4 @@
+sxs-lilas_sky_ark_v131072.nfo	-	4574	1	0	0	0
+sxs-lilas_sky_ark_v131072.r00	-	47785687	1	4574	0	1
+sxs-lilas_sky_ark_v131072.rar	-	50000000	1	47790261	0	47
+sxs-lilas_sky_ark_v131072.sfv	-	80	1	97790261	0	95

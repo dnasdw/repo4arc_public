@@ -1,0 +1,5 @@
+sxs-food_truck_tycoon_v458752.nfo	21cf1ab6eeab9ea48bb8a3d66e0af5c2
+sxs-food_truck_tycoon_v458752.r00	cb05398a9b087dd5c5f4aea45847a83d
+sxs-food_truck_tycoon_v458752.r01	6e53207422b782bef1608e3006541a2c
+sxs-food_truck_tycoon_v458752.rar	390ad5a6675340fd5d160a69c56b482c
+sxs-food_truck_tycoon_v458752.sfv	c475cf34ca6933281b894dafe9e9f2fa

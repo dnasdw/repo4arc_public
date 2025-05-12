@@ -1,0 +1,6 @@
+sxs-sphinx_and_the_cursed_mummy_v65536.nfo	9058311f
+sxs-sphinx_and_the_cursed_mummy_v65536.r00	8573dd4a
+sxs-sphinx_and_the_cursed_mummy_v65536.r01	f0cabbf3
+sxs-sphinx_and_the_cursed_mummy_v65536.r02	220dc603
+sxs-sphinx_and_the_cursed_mummy_v65536.rar	991510df
+sxs-sphinx_and_the_cursed_mummy_v65536.sfv	a4d1edb7

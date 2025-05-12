@@ -1,0 +1,7 @@
+lfc-evol.nfo	39643825
+lfc-evol.r00	a4c44c3b
+lfc-evol.r01	93850934
+lfc-evol.r02	46890ab0
+lfc-evol.r03	3c13b76e
+lfc-evol.rar	275f81b8
+lfc-evol.sfv	157524f4

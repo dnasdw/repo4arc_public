@@ -1,0 +1,7 @@
+sxs-yono_and_the_celestial_elephants_v131072.nfo	-	5588	1	0	0	0
+sxs-yono_and_the_celestial_elephants_v131072.r00	-	50000000	1	5588	0	1
+sxs-yono_and_the_celestial_elephants_v131072.r01	-	50000000	1	50005588	0	49
+sxs-yono_and_the_celestial_elephants_v131072.r02	-	50000000	1	100005588	0	97
+sxs-yono_and_the_celestial_elephants_v131072.r03	-	17045687	1	150005588	0	145
+sxs-yono_and_the_celestial_elephants_v131072.rar	-	50000000	1	167051275	0	162
+sxs-yono_and_the_celestial_elephants_v131072.sfv	-	295	1	217051275	0	210

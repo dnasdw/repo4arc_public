@@ -1,0 +1,9 @@
+sxs-saint_kotar_v131072.nfo	0e296fcf
+sxs-saint_kotar_v131072.r00	acbd3bad
+sxs-saint_kotar_v131072.r01	41f45c8d
+sxs-saint_kotar_v131072.r02	497702f3
+sxs-saint_kotar_v131072.r03	748170b9
+sxs-saint_kotar_v131072.r04	ed6bf1c2
+sxs-saint_kotar_v131072.r05	627cf091
+sxs-saint_kotar_v131072.rar	3467ee69
+sxs-saint_kotar_v131072.sfv	1a1f0c8a

@@ -1,0 +1,12 @@
+sxs-spartan_v327680.nfo	3c90b430
+sxs-spartan_v327680.r00	82d92404
+sxs-spartan_v327680.r01	296ea9d4
+sxs-spartan_v327680.r02	a41b13f7
+sxs-spartan_v327680.r03	4401bace
+sxs-spartan_v327680.r04	f09acd74
+sxs-spartan_v327680.r05	40de278f
+sxs-spartan_v327680.r06	05fc79dd
+sxs-spartan_v327680.r07	17b50b41
+sxs-spartan_v327680.r08	d74ab45d
+sxs-spartan_v327680.rar	6dd17b71
+sxs-spartan_v327680.sfv	6e15ff25

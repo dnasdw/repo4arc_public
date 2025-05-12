@@ -1,0 +1,14 @@
+v-horizon_chase_turbo_v720896.nfo	-	6448	1	0	0	0
+v-horizon_chase_turbo_v720896.r00	-	50000000	1	6448	0	1
+v-horizon_chase_turbo_v720896.r01	-	50000000	1	50006448	0	49
+v-horizon_chase_turbo_v720896.r02	-	50000000	1	100006448	0	97
+v-horizon_chase_turbo_v720896.r03	-	50000000	1	150006448	0	145
+v-horizon_chase_turbo_v720896.r04	-	50000000	1	200006448	0	193
+v-horizon_chase_turbo_v720896.r05	-	50000000	1	250006448	0	241
+v-horizon_chase_turbo_v720896.r06	-	50000000	1	300006448	0	289
+v-horizon_chase_turbo_v720896.r07	-	50000000	1	350006448	0	337
+v-horizon_chase_turbo_v720896.r08	-	50000000	1	400006448	0	385
+v-horizon_chase_turbo_v720896.r09	-	50000000	1	450006448	0	433
+v-horizon_chase_turbo_v720896.r10	-	19601086	1	500006448	0	481
+v-horizon_chase_turbo_v720896.rar	-	50000000	1	519607534	0	500
+v-horizon_chase_turbo_v720896.sfv	-	528	1	32174208	1	31

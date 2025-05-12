@@ -1,0 +1,8 @@
+sxs-redemption_reapers_v458752.nfo	-	8864	1	0	0	0
+sxs-redemption_reapers_v458752.r00	-	100000000	1	8864	0	1
+sxs-redemption_reapers_v458752.r01	-	100000000	1	100008864	0	97
+sxs-redemption_reapers_v458752.r02	-	100000000	1	200008864	0	193
+sxs-redemption_reapers_v458752.r03	-	100000000	1	300008864	0	289
+sxs-redemption_reapers_v458752.r04	-	36037897	1	400008864	0	385
+sxs-redemption_reapers_v458752.rar	-	100000000	1	436046761	0	420
+sxs-redemption_reapers_v458752.sfv	-	270	1	536046761	0	516

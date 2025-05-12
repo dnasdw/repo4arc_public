@@ -1,0 +1,13 @@
+lfc-mdvi.nfo	8b2f9802
+lfc-mdvi.r00	f1cc26f6
+lfc-mdvi.r01	0bcfda81
+lfc-mdvi.r02	e6c90c6e
+lfc-mdvi.r03	7c480b1d
+lfc-mdvi.r04	270818bd
+lfc-mdvi.r05	b786e24d
+lfc-mdvi.r06	15748fd6
+lfc-mdvi.r07	c4d49e3d
+lfc-mdvi.r08	7d435ed8
+lfc-mdvi.r09	862feeec
+lfc-mdvi.rar	b5af3c67
+lfc-mdvi.sfv	a6de8494

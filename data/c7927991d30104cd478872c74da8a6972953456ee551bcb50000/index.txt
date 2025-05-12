@@ -1,0 +1,4 @@
+sxs-shanghai_summer_v196608.nfo	-	7928	1	0	0	0
+sxs-shanghai_summer_v196608.r00	-	15385509	1	7928	0	1
+sxs-shanghai_summer_v196608.rar	-	100000000	1	15393437	0	16
+sxs-shanghai_summer_v196608.sfv	-	84	1	115393437	0	112

@@ -1,0 +1,16 @@
+hr-ar6sa.nfo	36b71e89
+hr-ar6sa.r00	8877f782
+hr-ar6sa.r01	baa9f31b
+hr-ar6sa.r02	3189f471
+hr-ar6sa.r03	e49c4fb1
+hr-ar6sa.r04	48e7188e
+hr-ar6sa.r05	d495a918
+hr-ar6sa.r06	bf35361e
+hr-ar6sa.r07	07ba1a47
+hr-ar6sa.r08	e9e83c3f
+hr-ar6sa.r09	44e98a77
+hr-ar6sa.r10	7be63438
+hr-ar6sa.rar	dc6eebc9
+hr-ar6sa.sfv	c8a1e829
+Proof	00000000
+Proof/hr-ar6sa.jpg	8e0483e3

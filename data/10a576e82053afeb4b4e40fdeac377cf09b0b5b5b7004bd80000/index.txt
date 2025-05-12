@@ -1,0 +1,9 @@
+sxs-loop8_summer_of_gods_v131072.nfo	-	6524	1	0	0	0
+sxs-loop8_summer_of_gods_v131072.r00	-	100000000	1	6524	0	1
+sxs-loop8_summer_of_gods_v131072.r01	-	100000000	1	100006524	0	97
+sxs-loop8_summer_of_gods_v131072.r02	-	100000000	1	200006524	0	193
+sxs-loop8_summer_of_gods_v131072.r03	-	100000000	1	300006524	0	289
+sxs-loop8_summer_of_gods_v131072.r04	-	100000000	1	400006524	0	385
+sxs-loop8_summer_of_gods_v131072.r05	-	70763402	1	500006524	0	481
+sxs-loop8_summer_of_gods_v131072.rar	-	100000000	1	33014666	1	32
+sxs-loop8_summer_of_gods_v131072.sfv	-	329	1	133014666	1	128

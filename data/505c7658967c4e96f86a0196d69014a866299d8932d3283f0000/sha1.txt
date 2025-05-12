@@ -1,0 +1,5 @@
+sxs-mana_spark_v131072.nfo	d02aa5a57c3216b18f7ef4ab4f822e338b204f43
+sxs-mana_spark_v131072.r00	84b9a883780981d8d2531730aeb2a1eab30ea2b8
+sxs-mana_spark_v131072.r01	7ff2b86cfb9deb14563beb3f3ee8e7a71a3663bf
+sxs-mana_spark_v131072.rar	dd390cd457722dd02f3d04e8f2240eb11d137ebb
+sxs-mana_spark_v131072.sfv	f9197e35ddfbd319dd08c4af263a012954bb3eb5

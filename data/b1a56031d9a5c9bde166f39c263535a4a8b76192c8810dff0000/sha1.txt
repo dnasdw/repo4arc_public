@@ -1,0 +1,3 @@
+v-capbac_v65536.nfo	e83b8eae35fb51821343bc5b83aacd970425c2af
+v-capbac_v65536.rar	fa21d7f4cf7b34c174dfa00ca8e28b391e96d124
+v-capbac_v65536.sfv	6dce200dbcaf01c4a27f26bda484c50e0d187f77

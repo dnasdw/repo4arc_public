@@ -1,0 +1,7 @@
+sxs-sea_of_stars_demo.nfo	d8ceffb9
+sxs-sea_of_stars_demo.r00	973e00b0
+sxs-sea_of_stars_demo.r01	7ad6c4f1
+sxs-sea_of_stars_demo.r02	da2ea9f7
+sxs-sea_of_stars_demo.r03	078f85cf
+sxs-sea_of_stars_demo.rar	205b7a69
+sxs-sea_of_stars_demo.sfv	81066ac0

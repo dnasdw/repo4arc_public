@@ -1,0 +1,5 @@
+sxs-big_rumble_boxing_creed_champions_v65536.nfo	-	7616	1	0	0	0
+sxs-big_rumble_boxing_creed_champions_v65536.r00	-	50000000	1	7616	0	1
+sxs-big_rumble_boxing_creed_champions_v65536.r01	-	2982664	1	50007616	0	49
+sxs-big_rumble_boxing_creed_champions_v65536.rar	-	50000000	1	52990280	0	52
+sxs-big_rumble_boxing_creed_champions_v65536.sfv	-	177	1	102990280	0	100

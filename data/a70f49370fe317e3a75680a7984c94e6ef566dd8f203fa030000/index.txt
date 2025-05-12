@@ -1,0 +1,7 @@
+lfc-goblinsword.nfo	-	3881	1	0	0	0
+lfc-goblinsword.r00	-	50000000	1	3881	0	1
+lfc-goblinsword.r01	-	50000000	1	50003881	0	49
+lfc-goblinsword.r02	-	50000000	1	100003881	0	97
+lfc-goblinsword.r03	-	38873961	1	150003881	0	145
+lfc-goblinsword.rar	-	50000000	1	188877842	0	183
+lfc-goblinsword.sfv	-	150	1	238877842	0	231

@@ -1,0 +1,10 @@
+sxs-quake_ii_v131072.nfo	95690372
+sxs-quake_ii_v131072.r00	fa6601be
+sxs-quake_ii_v131072.r01	e082f5ca
+sxs-quake_ii_v131072.r02	0a21bc1a
+sxs-quake_ii_v131072.r03	f3e8e5da
+sxs-quake_ii_v131072.r04	9585d3de
+sxs-quake_ii_v131072.r05	bbbdb88e
+sxs-quake_ii_v131072.r06	d6e0e18a
+sxs-quake_ii_v131072.rar	9692d370
+sxs-quake_ii_v131072.sfv	b2c52477

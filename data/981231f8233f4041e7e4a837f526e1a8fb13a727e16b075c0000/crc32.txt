@@ -1,0 +1,5 @@
+brw-lsam.nfo	162e152f
+brw-lsam.r00	568c10df
+brw-lsam.r01	d3e619b4
+brw-lsam.rar	df9ff054
+brw-lsam.sfv	af639d0f

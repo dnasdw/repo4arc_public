@@ -1,0 +1,7 @@
+v-collection_of_saga_final_fantasy_legend.nfo	-	5590	1	0	0	0
+v-collection_of_saga_final_fantasy_legend.r00	-	50000000	1	5590	0	1
+v-collection_of_saga_final_fantasy_legend.r01	-	50000000	1	50005590	0	49
+v-collection_of_saga_final_fantasy_legend.r02	-	50000000	1	100005590	0	97
+v-collection_of_saga_final_fantasy_legend.r03	-	23247613	1	150005590	0	145
+v-collection_of_saga_final_fantasy_legend.rar	-	50000000	1	173253203	0	168
+v-collection_of_saga_final_fantasy_legend.sfv	-	280	1	223253203	0	216

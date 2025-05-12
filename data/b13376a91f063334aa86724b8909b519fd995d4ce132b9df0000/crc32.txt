@@ -1,0 +1,7 @@
+sxs-hammerhelm_v131072.nfo	6b9dc807
+sxs-hammerhelm_v131072.r00	61dea020
+sxs-hammerhelm_v131072.r01	153bbe48
+sxs-hammerhelm_v131072.r02	edcb1d6b
+sxs-hammerhelm_v131072.r03	294636ff
+sxs-hammerhelm_v131072.rar	263fd763
+sxs-hammerhelm_v131072.sfv	9c412f93

@@ -1,0 +1,10 @@
+sxs-morphies_law_v103.nfo	6b35e80b
+sxs-morphies_law_v103.r00	d0849f9a
+sxs-morphies_law_v103.r01	65dc734a
+sxs-morphies_law_v103.r02	993807a5
+sxs-morphies_law_v103.r03	c12920e3
+sxs-morphies_law_v103.r04	9a45155a
+sxs-morphies_law_v103.r05	b22bf1e1
+sxs-morphies_law_v103.r06	af4ffe0d
+sxs-morphies_law_v103.rar	9234f947
+sxs-morphies_law_v103.sfv	65d5055f

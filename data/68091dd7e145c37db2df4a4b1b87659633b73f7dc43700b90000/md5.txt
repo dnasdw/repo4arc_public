@@ -1,0 +1,17 @@
+v-dark_devotion.nfo	5d607069adf35572acece5c6f026f522
+v-dark_devotion.r00	ed99ca838c714a51a1b199fef01de320
+v-dark_devotion.r01	4d58be110b9637ebfb651b3395f6d8c2
+v-dark_devotion.r02	b2710406b8d9b9ed176b78ce252b8fad
+v-dark_devotion.r03	168824f70e6308bb709af1198424adb8
+v-dark_devotion.r04	d5043a25a9d43ea806686a45f8f3d433
+v-dark_devotion.r05	07bdfe48063aabe0aeeaaa98d84ad54a
+v-dark_devotion.r06	485d62a519d2957958c451e5c220d4ad
+v-dark_devotion.r07	1b1ce31ee105b146083246e5ba22e244
+v-dark_devotion.r08	1b2ce166097b95330f5cd4a4adb904ad
+v-dark_devotion.r09	d7b929473c180549c032eedabc00f73a
+v-dark_devotion.r10	687a4af1e9d1e036c2c6cefac7a095c0
+v-dark_devotion.r11	1c23e11ca448a930e9fa09d2a5c79a37
+v-dark_devotion.r12	12f725978f772f2b502938abd95ac29c
+v-dark_devotion.r13	665c09775c5d8623939099e96d30ff47
+v-dark_devotion.rar	915e1cbc5396f0800224f558609fed69
+v-dark_devotion.sfv	924c39ae8d0f497b052622570fa6e79d

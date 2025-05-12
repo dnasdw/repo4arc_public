@@ -1,0 +1,4 @@
+sxs-mahjong_woods.nfo	cfc356a6fd65ee8afcaf3b65eb0d0f42
+sxs-mahjong_woods.r00	4bc3226feba919b9778efac496e30872
+sxs-mahjong_woods.rar	cf963a6f618057e9226a4d0d60378289
+sxs-mahjong_woods.sfv	e99687b5b8b8ea23a0a59ffa085d090d

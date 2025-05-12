@@ -1,0 +1,10 @@
+v-taiko_v262144.nfo	1461f2dd
+v-taiko_v262144.r00	2d8d598a
+v-taiko_v262144.r01	9aad53f6
+v-taiko_v262144.r02	32a60716
+v-taiko_v262144.r03	dc169d1e
+v-taiko_v262144.r04	d1ced2e9
+v-taiko_v262144.r05	7d761468
+v-taiko_v262144.r06	f8b2890c
+v-taiko_v262144.rar	44047c83
+v-taiko_v262144.sfv	2cab96c4

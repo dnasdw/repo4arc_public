@@ -1,0 +1,4 @@
+sxs-immortal_redneck_v65536.nfo	-	7460	1	0	0	0
+sxs-immortal_redneck_v65536.r00	-	16763617	1	7460	0	1
+sxs-immortal_redneck_v65536.rar	-	100000000	1	16771077	0	17
+sxs-immortal_redneck_v65536.sfv	-	84	1	116771077	0	113

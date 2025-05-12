@@ -1,0 +1,14 @@
+sxs-melty_blood_type_lumina_v524288.nfo	-	8014	1	0	0	0
+sxs-melty_blood_type_lumina_v524288.r00	-	50000000	1	8014	0	1
+sxs-melty_blood_type_lumina_v524288.r01	-	50000000	1	50008014	0	49
+sxs-melty_blood_type_lumina_v524288.r02	-	50000000	1	100008014	0	97
+sxs-melty_blood_type_lumina_v524288.r03	-	50000000	1	150008014	0	145
+sxs-melty_blood_type_lumina_v524288.r04	-	50000000	1	200008014	0	193
+sxs-melty_blood_type_lumina_v524288.r05	-	50000000	1	250008014	0	241
+sxs-melty_blood_type_lumina_v524288.r06	-	50000000	1	300008014	0	289
+sxs-melty_blood_type_lumina_v524288.r07	-	50000000	1	350008014	0	337
+sxs-melty_blood_type_lumina_v524288.r08	-	50000000	1	400008014	0	385
+sxs-melty_blood_type_lumina_v524288.r09	-	50000000	1	450008014	0	433
+sxs-melty_blood_type_lumina_v524288.r10	-	37587248	1	500008014	0	481
+sxs-melty_blood_type_lumina_v524288.rar	-	50000000	1	0	1	0
+sxs-melty_blood_type_lumina_v524288.sfv	-	600	1	50000000	1	48

@@ -1,0 +1,3 @@
+sxs-the_coma_2_vicious_sisters_dlc.nfo	-	7776	1	0	0	0
+sxs-the_coma_2_vicious_sisters_dlc.rar	-	831403	1	7776	0	1
+sxs-the_coma_2_vicious_sisters_dlc.sfv	-	49	1	839179	0	2

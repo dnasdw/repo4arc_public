@@ -1,0 +1,5 @@
+brw-neph.nfo	68ea39f4b13929818170ec71141e62ec
+brw-neph.r00	d54d4613a9bb6dc8d700e2aefd2ee5fa
+brw-neph.r01	30aa3e1677cacdcafb354d04691b8da3
+brw-neph.rar	856206b0f895ba6c2f8d4daf0bb9d4e6
+brw-neph.sfv	a7b00368d7ec16873f644bf5be9edfbc

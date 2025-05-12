@@ -1,0 +1,9 @@
+brw-kror.nfo	20ac19cc
+brw-kror.r00	92207055
+brw-kror.r01	8075ea2c
+brw-kror.r02	9056b7f3
+brw-kror.r03	e79c9c60
+brw-kror.r04	43050396
+brw-kror.r05	971229eb
+brw-kror.rar	38e6f08d
+brw-kror.sfv	89d7cc38

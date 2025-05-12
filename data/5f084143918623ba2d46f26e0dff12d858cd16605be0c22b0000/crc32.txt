@@ -1,0 +1,11 @@
+sxs-tbtwt_ko_dlc.nfo	39039440
+sxs-tbtwt_ko_dlc.r00	ce20bc19
+sxs-tbtwt_ko_dlc.r01	00f6f1b6
+sxs-tbtwt_ko_dlc.r02	cf588796
+sxs-tbtwt_ko_dlc.r03	791cf7cd
+sxs-tbtwt_ko_dlc.r04	0912616e
+sxs-tbtwt_ko_dlc.r05	95d69c1c
+sxs-tbtwt_ko_dlc.r06	fb7e4706
+sxs-tbtwt_ko_dlc.r07	babc30ee
+sxs-tbtwt_ko_dlc.rar	953ccf71
+sxs-tbtwt_ko_dlc.sfv	bead0057

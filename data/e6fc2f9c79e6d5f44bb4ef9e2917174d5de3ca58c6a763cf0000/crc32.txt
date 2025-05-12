@@ -1,0 +1,15 @@
+v-diablo_ii_resurrected_v1507328.nfo	84b68231
+v-diablo_ii_resurrected_v1507328.r00	d654345b
+v-diablo_ii_resurrected_v1507328.r01	5a2e91a9
+v-diablo_ii_resurrected_v1507328.r02	2fba2dd7
+v-diablo_ii_resurrected_v1507328.r03	5a6cc5bc
+v-diablo_ii_resurrected_v1507328.r04	10db4f72
+v-diablo_ii_resurrected_v1507328.r05	45253465
+v-diablo_ii_resurrected_v1507328.r06	d31d7de8
+v-diablo_ii_resurrected_v1507328.r07	920d28a0
+v-diablo_ii_resurrected_v1507328.r08	f7f4cb6b
+v-diablo_ii_resurrected_v1507328.r09	018f9e64
+v-diablo_ii_resurrected_v1507328.r10	78f7e6e0
+v-diablo_ii_resurrected_v1507328.r11	3e53b38f
+v-diablo_ii_resurrected_v1507328.rar	78866a8a
+v-diablo_ii_resurrected_v1507328.sfv	c4c9fbce

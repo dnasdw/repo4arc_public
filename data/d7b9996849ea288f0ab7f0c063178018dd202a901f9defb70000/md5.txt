@@ -1,0 +1,5 @@
+sxs-gemini.nfo	82ee47962d12199cd89eb09a7dd520cd
+sxs-gemini.r00	a8ede85c7ea327c44b75ac0674e82113
+sxs-gemini.r01	54e161bc40b9475794a7c7f5bfee2b40
+sxs-gemini.rar	2c34d72a20b49a24e88e69649442d222
+sxs-gemini.sfv	a3abdae6d95555e952bb42c99c085b04

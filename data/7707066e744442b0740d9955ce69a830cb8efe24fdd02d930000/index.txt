@@ -1,0 +1,13 @@
+sxs-alive_paint.nfo	-	5432	1	0	0	0
+sxs-alive_paint.r00	-	100000000	1	5432	0	1
+sxs-alive_paint.r01	-	100000000	1	100005432	0	97
+sxs-alive_paint.r02	-	100000000	1	200005432	0	193
+sxs-alive_paint.r03	-	100000000	1	300005432	0	289
+sxs-alive_paint.r04	-	100000000	1	400005432	0	385
+sxs-alive_paint.r05	-	100000000	1	500005432	0	481
+sxs-alive_paint.r06	-	100000000	1	62251264	1	60
+sxs-alive_paint.r07	-	100000000	1	162251264	1	156
+sxs-alive_paint.r08	-	100000000	1	262251264	1	252
+sxs-alive_paint.r09	-	20369679	1	362251264	1	348
+sxs-alive_paint.rar	-	100000000	1	382620943	1	368
+sxs-alive_paint.sfv	-	330	1	482620943	1	464

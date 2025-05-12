@@ -1,0 +1,9 @@
+v-code_shifter.nfo	e3c11137
+v-code_shifter.r00	d55fbc18
+v-code_shifter.r01	9833f329
+v-code_shifter.r02	5755a2c9
+v-code_shifter.r03	9235f37e
+v-code_shifter.r04	82cc6d70
+v-code_shifter.r05	0989b8aa
+v-code_shifter.rar	6cddbce3
+v-code_shifter.sfv	dc6ab055

@@ -1,0 +1,5 @@
+sxs-skybolt_zack_v196608.nfo	-	8630	1	0	0	0
+sxs-skybolt_zack_v196608.r00	-	50000000	1	8630	0	1
+sxs-skybolt_zack_v196608.r01	-	8762934	1	50008630	0	49
+sxs-skybolt_zack_v196608.rar	-	50000000	1	58771564	0	58
+sxs-skybolt_zack_v196608.sfv	-	117	1	108771564	0	106

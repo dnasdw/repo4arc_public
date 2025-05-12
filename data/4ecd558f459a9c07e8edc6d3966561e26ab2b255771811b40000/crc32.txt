@@ -1,0 +1,5 @@
+sxs-coloring_book.nfo	b44d10ca
+sxs-coloring_book.r00	50194806
+sxs-coloring_book.r01	bc95f33f
+sxs-coloring_book.rar	9cf64c5e
+sxs-coloring_book.sfv	737e057b

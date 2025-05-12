@@ -1,0 +1,14 @@
+sxs-ace_angler_fishing_spirits_v196608.nfo	e9841f44
+sxs-ace_angler_fishing_spirits_v196608.r00	0046174a
+sxs-ace_angler_fishing_spirits_v196608.r01	737a4d87
+sxs-ace_angler_fishing_spirits_v196608.r02	8ce0cdda
+sxs-ace_angler_fishing_spirits_v196608.r03	759183a5
+sxs-ace_angler_fishing_spirits_v196608.r04	7f1e5377
+sxs-ace_angler_fishing_spirits_v196608.r05	4e7a51a1
+sxs-ace_angler_fishing_spirits_v196608.r06	e78d94d5
+sxs-ace_angler_fishing_spirits_v196608.r07	37c2ecfc
+sxs-ace_angler_fishing_spirits_v196608.r08	69d3b730
+sxs-ace_angler_fishing_spirits_v196608.r09	8c9ca226
+sxs-ace_angler_fishing_spirits_v196608.r10	635b3ca3
+sxs-ace_angler_fishing_spirits_v196608.rar	13195467
+sxs-ace_angler_fishing_spirits_v196608.sfv	fb8e74f8

@@ -1,0 +1,8 @@
+v-kona_ii_brume_v196608.nfo	4b9a01456a80620b289c55da4cea13b7
+v-kona_ii_brume_v196608.r00	da4dc136767886f1daf55857be8d2e2c
+v-kona_ii_brume_v196608.r01	0dca6428fae2e4102d881e28029397ab
+v-kona_ii_brume_v196608.r02	a7e35cc60f7019c08f4f99836eb515a3
+v-kona_ii_brume_v196608.r03	80f37a04accbad28660473797de02e01
+v-kona_ii_brume_v196608.r04	372f2e2d11ab6767a8dd9f91f6e0f97f
+v-kona_ii_brume_v196608.rar	32890685d39fa89f7c327ebd3b73fa38
+v-kona_ii_brume_v196608.sfv	fa51a2d340ae863027480eb6866ff4fc

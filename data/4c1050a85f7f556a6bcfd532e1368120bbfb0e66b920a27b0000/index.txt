@@ -1,0 +1,4 @@
+bbb-n-aqe7a.nfo	-	5517	1	0	0	0
+bbb-n-aqe7a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aqe7a.part2.rar	-	57042505	1	250005517	0	240
+bbb-n-aqe7a.sfv	-	64	1	307048022	0	295

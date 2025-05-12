@@ -1,0 +1,5 @@
+sxs-samshom_sogetsu_dlc.nfo	699b3cc1e2ad943720ae35a02a8d1fd6
+sxs-samshom_sogetsu_dlc.r00	39d50d2088e38645a36fb00fca746009
+sxs-samshom_sogetsu_dlc.r01	dbcc6b42b3504b64f53b4e3a18de5cc5
+sxs-samshom_sogetsu_dlc.rar	3a4ab0b7745086c21f88847984973403
+sxs-samshom_sogetsu_dlc.sfv	7311ea339789ccb4402b0844168c54cf

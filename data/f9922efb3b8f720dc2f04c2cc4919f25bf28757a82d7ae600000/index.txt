@@ -1,0 +1,4 @@
+v-dynasty_warriors_9_empires_v65536.nfo	-	6370	1	0	0	0
+v-dynasty_warriors_9_empires_v65536.r00	-	17777884	1	6370	0	1
+v-dynasty_warriors_9_empires_v65536.rar	-	50000000	1	17784254	0	18
+v-dynasty_warriors_9_empires_v65536.sfv	-	100	1	67784254	0	66

@@ -1,0 +1,17 @@
+v-sky_racket_v458752.nfo	8d0c57c9
+v-sky_racket_v458752.r00	4f9a2b63
+v-sky_racket_v458752.r01	66e06dcb
+v-sky_racket_v458752.r02	aaabe240
+v-sky_racket_v458752.r03	73d1f140
+v-sky_racket_v458752.r04	b64baa6b
+v-sky_racket_v458752.r05	fbc87c8a
+v-sky_racket_v458752.r06	42608c14
+v-sky_racket_v458752.r07	fe9274b4
+v-sky_racket_v458752.r08	280c2628
+v-sky_racket_v458752.r09	bf5e67ec
+v-sky_racket_v458752.r10	69f099e5
+v-sky_racket_v458752.r11	8225eba6
+v-sky_racket_v458752.r12	9cd8bc05
+v-sky_racket_v458752.r13	68253bc9
+v-sky_racket_v458752.rar	5c5dcb93
+v-sky_racket_v458752.sfv	2a8d62a7

@@ -1,0 +1,3 @@
+sxs-wurroom_v65536.nfo	-	5042	1	0	0	0
+sxs-wurroom_v65536.rar	-	27310275	1	5042	0	1
+sxs-wurroom_v65536.sfv	-	33	1	27315317	0	28

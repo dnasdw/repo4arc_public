@@ -1,0 +1,16 @@
+v-darq_complete_edition_v262144.nfo	-	5200	1	0	0	0
+v-darq_complete_edition_v262144.r00	-	50000000	1	5200	0	1
+v-darq_complete_edition_v262144.r01	-	50000000	1	50005200	0	49
+v-darq_complete_edition_v262144.r02	-	50000000	1	100005200	0	97
+v-darq_complete_edition_v262144.r03	-	50000000	1	150005200	0	145
+v-darq_complete_edition_v262144.r04	-	50000000	1	200005200	0	193
+v-darq_complete_edition_v262144.r05	-	50000000	1	250005200	0	241
+v-darq_complete_edition_v262144.r06	-	50000000	1	300005200	0	289
+v-darq_complete_edition_v262144.r07	-	50000000	1	350005200	0	337
+v-darq_complete_edition_v262144.r08	-	50000000	1	400005200	0	385
+v-darq_complete_edition_v262144.r09	-	50000000	1	450005200	0	433
+v-darq_complete_edition_v262144.r10	-	50000000	1	500005200	0	481
+v-darq_complete_edition_v262144.r11	-	50000000	1	12251264	1	12
+v-darq_complete_edition_v262144.r12	-	27086169	1	62251264	1	60
+v-darq_complete_edition_v262144.rar	-	50000000	1	89337433	1	86
+v-darq_complete_edition_v262144.sfv	-	644	1	139337433	1	134

@@ -1,0 +1,5 @@
+sxs-pool_pro_gold.nfo	-	6290	1	0	0	0
+sxs-pool_pro_gold.r00	-	50000000	1	6290	0	1
+sxs-pool_pro_gold.r01	-	47964789	1	50006290	0	49
+sxs-pool_pro_gold.rar	-	50000000	1	97971079	0	95
+sxs-pool_pro_gold.sfv	-	96	1	147971079	0	143

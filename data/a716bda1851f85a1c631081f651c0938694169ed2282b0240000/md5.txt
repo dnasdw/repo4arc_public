@@ -1,0 +1,6 @@
+sxs-running_fable_v262144.nfo	6d61af3d4264fed3852f19f37a168469
+sxs-running_fable_v262144.r00	73ca71679cb7b78864c85596dc15bee2
+sxs-running_fable_v262144.r01	ba00a4e97ffe7769224fa48665259a2b
+sxs-running_fable_v262144.r02	a94f9c4e6d3d55d2cacbd6803b6a8e91
+sxs-running_fable_v262144.rar	41a84f3c06ddd4349e88d1418f68b0db
+sxs-running_fable_v262144.sfv	8d9630ef54ebf5da13949b6443aa7feb

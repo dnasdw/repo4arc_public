@@ -1,0 +1,4 @@
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v65536.nfo	-	4964	1	0	0	0
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v65536.r00	-	27536688	1	4964	0	1
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v65536.rar	-	50000000	1	27541652	0	28
+sxs-shin_megami_tensei_iii_nocturne_hd_remaster_v65536.sfv	-	138	1	77541652	0	76

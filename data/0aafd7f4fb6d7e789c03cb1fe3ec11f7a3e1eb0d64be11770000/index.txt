@@ -1,0 +1,4 @@
+sxs-roman_empire_simulator.nfo	-	6836	1	0	0	0
+sxs-roman_empire_simulator.r00	-	88896417	1	6836	0	1
+sxs-roman_empire_simulator.rar	-	100000000	1	88903253	0	86
+sxs-roman_empire_simulator.sfv	-	82	1	188903253	0	182

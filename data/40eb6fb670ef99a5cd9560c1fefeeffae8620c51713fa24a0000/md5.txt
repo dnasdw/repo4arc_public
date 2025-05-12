@@ -1,0 +1,5 @@
+sxs-snes.nfo	81a0fb392f4ae3ac5f8e9f1e713e1bb0
+sxs-snes.r00	84f8d9c1eb74a61bc9b46f8b8cefc178
+sxs-snes.r01	41a22dc2cea63ecd41e252c1b5f35e98
+sxs-snes.rar	2e34d6700e06ba78c31b9999dcb76606
+sxs-snes.sfv	5c2344edfb6aa45bff9a4ebe8adc6df3

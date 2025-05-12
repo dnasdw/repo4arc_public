@@ -1,0 +1,8 @@
+v-lords_of_exile.nfo	-	6370	1	0	0	0
+v-lords_of_exile.r00	-	100000000	1	6370	0	1
+v-lords_of_exile.r01	-	100000000	1	100006370	0	97
+v-lords_of_exile.r02	-	100000000	1	200006370	0	193
+v-lords_of_exile.r03	-	100000000	1	300006370	0	289
+v-lords_of_exile.r04	-	19980039	1	400006370	0	385
+v-lords_of_exile.rar	-	100000000	1	419986409	0	405
+v-lords_of_exile.sfv	-	186	1	519986409	0	501

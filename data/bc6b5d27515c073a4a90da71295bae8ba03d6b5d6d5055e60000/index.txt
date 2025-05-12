@@ -1,0 +1,15 @@
+sxs-snow_moto_racing_adventure.nfo	-	5432	1	0	0	0
+sxs-snow_moto_racing_adventure.r00	-	100000000	1	5432	0	1
+sxs-snow_moto_racing_adventure.r01	-	100000000	1	100005432	0	97
+sxs-snow_moto_racing_adventure.r02	-	100000000	1	200005432	0	193
+sxs-snow_moto_racing_adventure.r03	-	100000000	1	300005432	0	289
+sxs-snow_moto_racing_adventure.r04	-	100000000	1	400005432	0	385
+sxs-snow_moto_racing_adventure.r05	-	100000000	1	500005432	0	481
+sxs-snow_moto_racing_adventure.r06	-	100000000	1	62251264	1	60
+sxs-snow_moto_racing_adventure.r07	-	100000000	1	162251264	1	156
+sxs-snow_moto_racing_adventure.r08	-	100000000	1	262251264	1	252
+sxs-snow_moto_racing_adventure.r09	-	100000000	1	362251264	1	348
+sxs-snow_moto_racing_adventure.r10	-	100000000	1	462251264	1	444
+sxs-snow_moto_racing_adventure.r11	-	39337784	1	24502528	2	24
+sxs-snow_moto_racing_adventure.rar	-	100000000	1	63840312	2	62
+sxs-snow_moto_racing_adventure.sfv	-	585	1	163840312	2	158

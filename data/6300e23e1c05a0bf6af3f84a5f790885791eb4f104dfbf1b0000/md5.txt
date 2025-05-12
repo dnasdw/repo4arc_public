@@ -1,0 +1,16 @@
+hr-atptav4.nfo	5e2ac52ed41f12d47b54aa5b3b73ef9c
+hr-atptav4.r00	0f271fecf8880bc436cf566bd56cb654
+hr-atptav4.r01	00d097a2e95ce573e4dcc5df4553915e
+hr-atptav4.r02	40795a9abfc4ed03243df271700e5f61
+hr-atptav4.r03	7bdaf824f5c6fd1f75fe97c263868cbc
+hr-atptav4.r04	1a4333fab98f3c10b5a95f08b3700bf9
+hr-atptav4.r05	c034a8bb5003d0fa7f1a8bbce3699cd4
+hr-atptav4.r06	47e8ff445cd5136ec177d06dd74495c0
+hr-atptav4.r07	af7745bc65f33db306b75d7439aa85b9
+hr-atptav4.r08	4f878f2c8adf12ad0023e3c158010846
+hr-atptav4.r09	a79079ab45a52a6769acefcf0e1ac1f6
+hr-atptav4.r10	1e4905fd3d1850c1002b690c806c8c77
+hr-atptav4.r11	10cb0e4786e254872c21d4e3c9ccc23e
+hr-atptav4.r12	7dcc010ae09f3ea756ea1da1ccebfb1d
+hr-atptav4.rar	13b97a96585dcefd2e9ca5a3a6a83924
+hr-atptav4.sfv	52220c21593a579c68540258c86464d3

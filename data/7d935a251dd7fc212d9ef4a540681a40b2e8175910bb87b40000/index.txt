@@ -1,0 +1,4 @@
+sxs-geojelly.nfo	-	5744	1	0	0	0
+sxs-geojelly.r00	-	6615429	1	5744	0	1
+sxs-geojelly.rar	-	100000000	1	6621173	0	8
+sxs-geojelly.sfv	-	54	1	106621173	0	104

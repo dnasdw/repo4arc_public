@@ -1,0 +1,11 @@
+v-wife_quest_v131072.nfo	0d4adaf9
+v-wife_quest_v131072.r00	2dbea998
+v-wife_quest_v131072.r01	88a7b8a6
+v-wife_quest_v131072.r02	8ef17191
+v-wife_quest_v131072.r03	43c1945e
+v-wife_quest_v131072.r04	05a290ef
+v-wife_quest_v131072.r05	c41938ef
+v-wife_quest_v131072.r06	4093fec7
+v-wife_quest_v131072.r07	80e74299
+v-wife_quest_v131072.rar	e9bec415
+v-wife_quest_v131072.sfv	96262e2f

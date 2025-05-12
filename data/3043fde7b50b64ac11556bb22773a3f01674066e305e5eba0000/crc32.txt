@@ -1,0 +1,13 @@
+lfc-glassmasquerade.nfo	02d936c0
+lfc-glassmasquerade.r00	fab868e9
+lfc-glassmasquerade.r01	c3eaef9b
+lfc-glassmasquerade.r02	96ae5b54
+lfc-glassmasquerade.r03	0f16f455
+lfc-glassmasquerade.r04	35cf2cca
+lfc-glassmasquerade.r05	54c3fd2f
+lfc-glassmasquerade.r06	a802d745
+lfc-glassmasquerade.r07	618bf51f
+lfc-glassmasquerade.r08	7f076e2e
+lfc-glassmasquerade.r09	3356a5dc
+lfc-glassmasquerade.rar	13860dee
+lfc-glassmasquerade.sfv	e437996d

@@ -1,0 +1,6 @@
+sxs-marble_maid.nfo	edee5e5e50617e63f93a2b4f763fe242
+sxs-marble_maid.r00	ec4cbbaee4358e9850f19bb39ecbb285
+sxs-marble_maid.r01	8d2c9e2ae23004cbf157d82b7823d5aa
+sxs-marble_maid.r02	577ce4e9db6e8bc4f6b2d92e4797d6aa
+sxs-marble_maid.rar	b3e3607c32dac28c7782636acbb49c59
+sxs-marble_maid.sfv	501a58ca6e0dd36894f901973596c431

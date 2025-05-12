@@ -1,0 +1,9 @@
+sxs-japan_train_models_jr_kyushu_edition.nfo	4116d1fe
+sxs-japan_train_models_jr_kyushu_edition.r00	13d74035
+sxs-japan_train_models_jr_kyushu_edition.r01	04ecb902
+sxs-japan_train_models_jr_kyushu_edition.r02	2cbc4779
+sxs-japan_train_models_jr_kyushu_edition.r03	2980259d
+sxs-japan_train_models_jr_kyushu_edition.r04	3f667996
+sxs-japan_train_models_jr_kyushu_edition.r05	7b9753b6
+sxs-japan_train_models_jr_kyushu_edition.rar	faa93948
+sxs-japan_train_models_jr_kyushu_edition.sfv	55ebe670

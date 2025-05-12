@@ -1,0 +1,9 @@
+v-girls_und_panzer_v131072.nfo	8405e1f9
+v-girls_und_panzer_v131072.r00	b6376164
+v-girls_und_panzer_v131072.r01	640dc3a0
+v-girls_und_panzer_v131072.r02	57563cd0
+v-girls_und_panzer_v131072.r03	ccb3927c
+v-girls_und_panzer_v131072.r04	2a022f47
+v-girls_und_panzer_v131072.r05	66608075
+v-girls_und_panzer_v131072.rar	45ef7a52
+v-girls_und_panzer_v131072.sfv	42565ded

@@ -1,0 +1,4 @@
+sxs-samurai_shodown_neogeo_collection_v196608.nfo	-	7616	1	0	0	0
+sxs-samurai_shodown_neogeo_collection_v196608.r00	-	31667540	1	7616	0	1
+sxs-samurai_shodown_neogeo_collection_v196608.rar	-	50000000	1	31675156	0	32
+sxs-samurai_shodown_neogeo_collection_v196608.sfv	-	120	1	81675156	0	80

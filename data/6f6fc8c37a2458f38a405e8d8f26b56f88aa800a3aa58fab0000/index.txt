@@ -1,0 +1,3 @@
+sxs-lego_worlds_showcase_1_dlc.nfo	-	4730	1	0	0	0
+sxs-lego_worlds_showcase_1_dlc.rar	-	118547	1	4730	0	1
+sxs-lego_worlds_showcase_1_dlc.sfv	-	45	1	123277	0	2

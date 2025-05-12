@@ -1,0 +1,3 @@
+sxs-easy_red_2_stalingrad_dlc.nfo	-	12452	1	0	0	0
+sxs-easy_red_2_stalingrad_dlc.rar	-	104080	1	12452	0	1
+sxs-easy_red_2_stalingrad_dlc.sfv	-	44	1	116532	0	2

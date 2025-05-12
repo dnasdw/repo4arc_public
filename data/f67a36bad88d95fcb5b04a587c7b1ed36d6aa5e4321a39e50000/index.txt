@@ -1,0 +1,6 @@
+sxs-doomed_to_hell.nfo	-	5120	1	0	0	0
+sxs-doomed_to_hell.r00	-	50000000	1	5120	0	1
+sxs-doomed_to_hell.r01	-	50000000	1	50005120	0	49
+sxs-doomed_to_hell.r02	-	32797230	1	100005120	0	97
+sxs-doomed_to_hell.rar	-	50000000	1	132802350	0	129
+sxs-doomed_to_hell.sfv	-	132	1	182802350	0	177

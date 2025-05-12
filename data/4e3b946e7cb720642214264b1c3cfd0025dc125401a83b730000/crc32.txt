@@ -1,0 +1,8 @@
+sxs-horace_v262144.nfo	c1d4cd02
+sxs-horace_v262144.r00	0b80ad12
+sxs-horace_v262144.r01	2e2ef316
+sxs-horace_v262144.r02	e7abf613
+sxs-horace_v262144.r03	501bcc25
+sxs-horace_v262144.r04	d10a2151
+sxs-horace_v262144.rar	871e9f7a
+sxs-horace_v262144.sfv	55fbe2f6

@@ -1,0 +1,4 @@
+hr-dodgeballv131072.nfo	-	11258	1	0	0	0
+hr-dodgeballv131072.r00	-	17286191	1	11258	0	1
+hr-dodgeballv131072.rar	-	50000000	1	17297449	0	18
+hr-dodgeballv131072.sfv	-	68	1	67297449	0	66

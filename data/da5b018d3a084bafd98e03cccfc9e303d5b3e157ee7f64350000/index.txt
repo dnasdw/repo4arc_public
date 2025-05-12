@@ -1,0 +1,5 @@
+sxs-savage_halloween_v131072.nfo	-	6758	1	0	0	0
+sxs-savage_halloween_v131072.r00	-	50000000	1	6758	0	1
+sxs-savage_halloween_v131072.r01	-	5912639	1	50006758	0	49
+sxs-savage_halloween_v131072.rar	-	50000000	1	55919397	0	55
+sxs-savage_halloween_v131072.sfv	-	129	1	105919397	0	103

@@ -1,0 +1,7 @@
+sxs-wildbus_v196608.nfo	68a3c987
+sxs-wildbus_v196608.r00	3857353b
+sxs-wildbus_v196608.r01	fc501e73
+sxs-wildbus_v196608.r02	5eb7cab2
+sxs-wildbus_v196608.r03	d07bf0d5
+sxs-wildbus_v196608.rar	26018d99
+sxs-wildbus_v196608.sfv	c32d067a

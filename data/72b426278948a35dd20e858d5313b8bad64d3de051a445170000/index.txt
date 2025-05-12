@@ -1,0 +1,12 @@
+sxs-the_pizza_delivery_boy_who_saved_the_world.nfo	-	5276	1	0	0	0
+sxs-the_pizza_delivery_boy_who_saved_the_world.r00	-	50000000	1	5276	0	1
+sxs-the_pizza_delivery_boy_who_saved_the_world.r01	-	50000000	1	50005276	0	49
+sxs-the_pizza_delivery_boy_who_saved_the_world.r02	-	50000000	1	100005276	0	97
+sxs-the_pizza_delivery_boy_who_saved_the_world.r03	-	50000000	1	150005276	0	145
+sxs-the_pizza_delivery_boy_who_saved_the_world.r04	-	50000000	1	200005276	0	193
+sxs-the_pizza_delivery_boy_who_saved_the_world.r05	-	50000000	1	250005276	0	241
+sxs-the_pizza_delivery_boy_who_saved_the_world.r06	-	50000000	1	300005276	0	289
+sxs-the_pizza_delivery_boy_who_saved_the_world.r07	-	50000000	1	350005276	0	337
+sxs-the_pizza_delivery_boy_who_saved_the_world.r08	-	4348929	1	400005276	0	385
+sxs-the_pizza_delivery_boy_who_saved_the_world.rar	-	50000000	1	404354205	0	390
+sxs-the_pizza_delivery_boy_who_saved_the_world.sfv	-	610	1	454354205	0	438

@@ -1,0 +1,3 @@
+sxs-mmzzxl_dlc.nfo	-	4418	1	0	0	0
+sxs-mmzzxl_dlc.rar	-	19191821	1	4418	0	1
+sxs-mmzzxl_dlc.sfv	-	29	1	19196239	0	20

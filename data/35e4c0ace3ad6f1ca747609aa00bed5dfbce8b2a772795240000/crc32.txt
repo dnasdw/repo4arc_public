@@ -1,0 +1,5 @@
+sxs-remnant_from_the_ashes_spanish_language_pack_dlc.nfo	cf592c1d
+sxs-remnant_from_the_ashes_spanish_language_pack_dlc.r00	f61ba274
+sxs-remnant_from_the_ashes_spanish_language_pack_dlc.r01	23a2d9c1
+sxs-remnant_from_the_ashes_spanish_language_pack_dlc.rar	7068fde0
+sxs-remnant_from_the_ashes_spanish_language_pack_dlc.sfv	1bf69604

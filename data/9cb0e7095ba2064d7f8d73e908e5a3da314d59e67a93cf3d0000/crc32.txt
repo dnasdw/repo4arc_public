@@ -1,0 +1,13 @@
+sxs-escape_from_tethys.nfo	485e58a7
+sxs-escape_from_tethys.r00	1982f2b0
+sxs-escape_from_tethys.r01	afbbcebf
+sxs-escape_from_tethys.r02	8fd74a88
+sxs-escape_from_tethys.r03	600b46ee
+sxs-escape_from_tethys.r04	52292091
+sxs-escape_from_tethys.r05	d42676bd
+sxs-escape_from_tethys.r06	b1590cc0
+sxs-escape_from_tethys.r07	14378831
+sxs-escape_from_tethys.r08	faaa48ff
+sxs-escape_from_tethys.r09	548b25ab
+sxs-escape_from_tethys.rar	8b8dad89
+sxs-escape_from_tethys.sfv	a5efcdf4

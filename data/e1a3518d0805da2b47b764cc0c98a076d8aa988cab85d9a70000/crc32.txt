@@ -1,0 +1,8 @@
+v-silk_v131072.nfo	02716e51
+v-silk_v131072.r00	71e8e4ae
+v-silk_v131072.r01	6db9c00b
+v-silk_v131072.r02	e03cbf64
+v-silk_v131072.r03	d78384a5
+v-silk_v131072.r04	fd8a2d51
+v-silk_v131072.rar	c15490e0
+v-silk_v131072.sfv	0422df0a

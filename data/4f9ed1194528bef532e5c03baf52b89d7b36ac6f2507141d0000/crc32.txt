@@ -1,0 +1,9 @@
+sxs-urban_trial_playground_v262144.nfo	0d5ec133
+sxs-urban_trial_playground_v262144.r00	2aed7e5d
+sxs-urban_trial_playground_v262144.r01	8ce9a972
+sxs-urban_trial_playground_v262144.r02	d917d5dd
+sxs-urban_trial_playground_v262144.r03	8c2704f0
+sxs-urban_trial_playground_v262144.r04	d6c28965
+sxs-urban_trial_playground_v262144.r05	8618e477
+sxs-urban_trial_playground_v262144.rar	383fec6c
+sxs-urban_trial_playground_v262144.sfv	eedb330b

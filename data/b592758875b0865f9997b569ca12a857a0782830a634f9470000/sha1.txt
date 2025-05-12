@@ -1,0 +1,4 @@
+v-metaloid_origin_v196608.nfo	12664624d86543b7033ba3e511be4407ad09867c
+v-metaloid_origin_v196608.r00	37dd20221726d9ac3a2188defb8145f4475adb47
+v-metaloid_origin_v196608.rar	a3c7a443e23aab2c2e2fe6d309faefc55add9cd5
+v-metaloid_origin_v196608.sfv	0ebe8d79b2c49dd28bdcc28f7ee577f7fcb00e22

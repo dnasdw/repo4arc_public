@@ -1,0 +1,15 @@
+hr-alfmav196608.nfo	dd6356b4
+hr-alfmav196608.r00	8abcf387
+hr-alfmav196608.r01	fe462615
+hr-alfmav196608.r02	633c9868
+hr-alfmav196608.r03	a375f136
+hr-alfmav196608.r04	2a3c2f02
+hr-alfmav196608.r05	945591a0
+hr-alfmav196608.r06	25888036
+hr-alfmav196608.r07	1aae421b
+hr-alfmav196608.r08	36588880
+hr-alfmav196608.r09	92982260
+hr-alfmav196608.r10	8d7a7206
+hr-alfmav196608.r11	51d5d3e1
+hr-alfmav196608.rar	a8064777
+hr-alfmav196608.sfv	0f84c78b

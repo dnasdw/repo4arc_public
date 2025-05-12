@@ -1,0 +1,5 @@
+sxs-slay_the_spire_v262144.nfo	0a3018a4
+sxs-slay_the_spire_v262144.r00	729a7f36
+sxs-slay_the_spire_v262144.r01	3224797e
+sxs-slay_the_spire_v262144.rar	46975044
+sxs-slay_the_spire_v262144.sfv	3e2f8a40

@@ -1,0 +1,17 @@
+v-dark_devotion.nfo	539bf370
+v-dark_devotion.r00	38adbc2a
+v-dark_devotion.r01	e4826f82
+v-dark_devotion.r02	8502a671
+v-dark_devotion.r03	30cbe7af
+v-dark_devotion.r04	35203be6
+v-dark_devotion.r05	04846669
+v-dark_devotion.r06	4bc3cfbd
+v-dark_devotion.r07	afc0aa93
+v-dark_devotion.r08	8e18b3ed
+v-dark_devotion.r09	b33117db
+v-dark_devotion.r10	4abe35c2
+v-dark_devotion.r11	4c337475
+v-dark_devotion.r12	a9489ec2
+v-dark_devotion.r13	a1ab6c93
+v-dark_devotion.rar	f0a6222a
+v-dark_devotion.sfv	e4ea7503

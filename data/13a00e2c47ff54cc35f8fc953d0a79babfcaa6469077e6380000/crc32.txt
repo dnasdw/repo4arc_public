@@ -1,0 +1,16 @@
+v-ultimate_racing_2d.nfo	acf2b26d
+v-ultimate_racing_2d.r00	7a444cec
+v-ultimate_racing_2d.r01	df3e643d
+v-ultimate_racing_2d.r02	2cbc69bb
+v-ultimate_racing_2d.r03	3ab23b71
+v-ultimate_racing_2d.r04	11ad53e8
+v-ultimate_racing_2d.r05	f8a2a168
+v-ultimate_racing_2d.r06	5d04779d
+v-ultimate_racing_2d.r07	362e949f
+v-ultimate_racing_2d.r08	77e458ed
+v-ultimate_racing_2d.r09	66ba17f5
+v-ultimate_racing_2d.r10	2f33e5fc
+v-ultimate_racing_2d.r11	a4996e61
+v-ultimate_racing_2d.r12	df9db3e4
+v-ultimate_racing_2d.rar	4187ee64
+v-ultimate_racing_2d.sfv	650c9771

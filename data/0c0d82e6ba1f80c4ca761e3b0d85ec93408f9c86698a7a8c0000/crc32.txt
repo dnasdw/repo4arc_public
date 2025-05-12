@@ -1,0 +1,5 @@
+v-resident_evil_6_v131072.nfo	97993944
+v-resident_evil_6_v131072.r00	06cfb715
+v-resident_evil_6_v131072.r01	d865920c
+v-resident_evil_6_v131072.rar	ca136631
+v-resident_evil_6_v131072.sfv	5f015448

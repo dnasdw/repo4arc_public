@@ -1,0 +1,6 @@
+v-pinballfx3_williams_6_dlc.nfo	50f4e3b496252ad350364629d7362d9a
+v-pinballfx3_williams_6_dlc.r00	420193f926567c0d654fe72a64d24472
+v-pinballfx3_williams_6_dlc.r01	fc62bad880a6da10d035d999769e88cd
+v-pinballfx3_williams_6_dlc.r02	57b063681ab2d10eea9dacd5d65b1a75
+v-pinballfx3_williams_6_dlc.rar	fda1f0b4c003a3f6e3830b73a8fa7697
+v-pinballfx3_williams_6_dlc.sfv	7495634cd34fd4efd20c94a30eae6d68

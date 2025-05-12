@@ -1,0 +1,12 @@
+v-gato_roboto_v196608.nfo	2c65f67c
+v-gato_roboto_v196608.r00	c975f398
+v-gato_roboto_v196608.r01	f0bba03a
+v-gato_roboto_v196608.r02	c4e905cd
+v-gato_roboto_v196608.r03	f74f2104
+v-gato_roboto_v196608.r04	0d429eda
+v-gato_roboto_v196608.r05	90fc3e9e
+v-gato_roboto_v196608.r06	d8da27e2
+v-gato_roboto_v196608.r07	ee932413
+v-gato_roboto_v196608.r08	f6575e1e
+v-gato_roboto_v196608.rar	26017a32
+v-gato_roboto_v196608.sfv	db6e0a61

@@ -1,0 +1,2 @@
+Manifest.nfo	a4aa7497ebb15fc490b0967e933eb033
+NintendoSDK 15.3.2.7z	7132dfe07c2e00bd7f073b735fd062c0

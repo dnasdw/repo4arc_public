@@ -1,0 +1,7 @@
+sxs-disney_illusion_island_v327680.nfo	-	5510	1	0	0	0
+sxs-disney_illusion_island_v327680.r00	-	100000000	1	5510	0	1
+sxs-disney_illusion_island_v327680.r01	-	100000000	1	100005510	0	97
+sxs-disney_illusion_island_v327680.r02	-	100000000	1	200005510	0	193
+sxs-disney_illusion_island_v327680.r03	-	80184317	1	300005510	0	289
+sxs-disney_illusion_island_v327680.rar	-	100000000	1	380189827	0	366
+sxs-disney_illusion_island_v327680.sfv	-	245	1	480189827	0	462

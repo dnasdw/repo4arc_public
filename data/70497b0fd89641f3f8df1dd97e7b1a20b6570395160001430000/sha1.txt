@@ -1,0 +1,6 @@
+bbb-n-mtakiosk.nfo	2bb09ed7d717416c94f65b7bfa33551ce0b8bc48
+bbb-n-mtakiosk.part1.rar	ecbdd44845676b76f1a6ff7a9b9778d5ee3a76cc
+bbb-n-mtakiosk.part2.rar	05dbf342c4aad7c462f575f28dacb93e33b08958
+bbb-n-mtakiosk.part3.rar	e164bd7f7a9610f1098ec0502536c6ed5cc49ee8
+bbb-n-mtakiosk.part4.rar	f7d30fcb38fb658e239372f4af251b17dab56f50
+bbb-n-mtakiosk.sfv	449e94ed8b029424f08b2b3298ffe871c8f0c962

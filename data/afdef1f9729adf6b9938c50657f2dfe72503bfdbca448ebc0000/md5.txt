@@ -1,0 +1,5 @@
+sxs-defentron_v131072.nfo	146bfa4f408bf011dea67e76e190fbc1
+sxs-defentron_v131072.r00	0f27d7ee8378bd16001887d0044ace72
+sxs-defentron_v131072.r01	35174141ed59cbc5bf5c2124ecfa7712
+sxs-defentron_v131072.rar	b4942e5c51771fbc7384d8c4c6e0b222
+sxs-defentron_v131072.sfv	666d16137692b0cb15a97bf55d98a9c6

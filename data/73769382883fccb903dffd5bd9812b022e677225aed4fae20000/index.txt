@@ -1,0 +1,5 @@
+sxs-amazing_breaker_v65536.nfo	-	5442	1	0	0	0
+sxs-amazing_breaker_v65536.r00	-	50000000	1	5442	0	1
+sxs-amazing_breaker_v65536.r01	-	9259427	1	50005442	0	49
+sxs-amazing_breaker_v65536.rar	-	50000000	1	59264869	0	58
+sxs-amazing_breaker_v65536.sfv	-	123	1	109264869	0	106

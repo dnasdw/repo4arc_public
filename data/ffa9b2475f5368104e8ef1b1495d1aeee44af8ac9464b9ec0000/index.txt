@@ -1,0 +1,5 @@
+bbb-n-ap2da.nfo	-	5517	1	0	0	0
+bbb-n-ap2da.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ap2da.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ap2da.part3.rar	-	153365654	1	500005517	0	479
+bbb-n-ap2da.sfv	-	96	1	115616918	1	111

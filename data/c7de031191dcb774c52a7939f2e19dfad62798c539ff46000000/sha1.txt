@@ -1,0 +1,4 @@
+sxs-potion_party.nfo	2bc8b310b150e6d0e76c3dd034c8ab722c0282be
+sxs-potion_party.r00	5a9ab177acc983b9a439b8bab1e87102bdb9559c
+sxs-potion_party.rar	1586ffa7146fcb41a18d2bbeac9521a515bb8fdd
+sxs-potion_party.sfv	15ba84b0889e25a7477bfbfd25190803cb4ff87f

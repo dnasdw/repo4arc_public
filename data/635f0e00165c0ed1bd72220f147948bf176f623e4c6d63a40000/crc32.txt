@@ -1,0 +1,17 @@
+lfc-snfi.nfo	d56370d7
+lfc-snfi.r00	d85292ea
+lfc-snfi.r01	37a30f76
+lfc-snfi.r02	d5d8e31d
+lfc-snfi.r03	141a9514
+lfc-snfi.r04	34bdea21
+lfc-snfi.r05	b1731f02
+lfc-snfi.r06	6da6c68e
+lfc-snfi.r07	537e320c
+lfc-snfi.r08	07b89007
+lfc-snfi.r09	cf3b69ad
+lfc-snfi.r10	1ca2ad05
+lfc-snfi.r11	53b2af2a
+lfc-snfi.r12	b39892dd
+lfc-snfi.r13	3f1f3e3d
+lfc-snfi.rar	86f7cb53
+lfc-snfi.sfv	fda9dfd6

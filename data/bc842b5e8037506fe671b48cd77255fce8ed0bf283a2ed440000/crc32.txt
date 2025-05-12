@@ -1,0 +1,10 @@
+sxs-tracks_toybox_edition_v262144.nfo	980153d3
+sxs-tracks_toybox_edition_v262144.r00	2aad0e4b
+sxs-tracks_toybox_edition_v262144.r01	3a568a2f
+sxs-tracks_toybox_edition_v262144.r02	98fd1a97
+sxs-tracks_toybox_edition_v262144.r03	00ef3ef5
+sxs-tracks_toybox_edition_v262144.r04	5b4d2004
+sxs-tracks_toybox_edition_v262144.r05	6d95f679
+sxs-tracks_toybox_edition_v262144.r06	7d86a947
+sxs-tracks_toybox_edition_v262144.rar	b3505bda
+sxs-tracks_toybox_edition_v262144.sfv	f8a8a661

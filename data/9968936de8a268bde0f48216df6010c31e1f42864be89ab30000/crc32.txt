@@ -1,0 +1,5 @@
+sxs-spiritsphere_dx_v131072.nfo	9d1aa898
+sxs-spiritsphere_dx_v131072.r00	e546f7e3
+sxs-spiritsphere_dx_v131072.r01	16bde32f
+sxs-spiritsphere_dx_v131072.rar	f1432815
+sxs-spiritsphere_dx_v131072.sfv	64abaf96

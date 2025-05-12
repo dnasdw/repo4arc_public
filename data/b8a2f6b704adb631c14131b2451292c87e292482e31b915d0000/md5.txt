@@ -1,0 +1,13 @@
+sxs-fatum_betula.nfo	3e857a98d8ee8bee0a82aaa031756d22
+sxs-fatum_betula.r00	49adb5361e6753a8b2f0d9f9e05be8e7
+sxs-fatum_betula.r01	d79b2b6ea770ccd325cad32d4b3875fd
+sxs-fatum_betula.r02	640eb46a4e1cbd1e37d7df8dc183acf8
+sxs-fatum_betula.r03	233f5632d2b821e5ef53f5dac4582428
+sxs-fatum_betula.r04	8955ce81011957817812e63496607f28
+sxs-fatum_betula.r05	92dc89a074ff9c2c20c8c7ba91457c48
+sxs-fatum_betula.r06	9a237c5c7a06680d636afec375e067d2
+sxs-fatum_betula.r07	2727550df45664d6ad866e9b240b47ed
+sxs-fatum_betula.r08	52526853ad8a884db6924a91c7c79ad9
+sxs-fatum_betula.r09	231300a23a7c8089414fc0480e4c1e48
+sxs-fatum_betula.rar	3cf106bec5428fb19028a03fdbc91cba
+sxs-fatum_betula.sfv	de8929b2e72893a732be399859f921aa

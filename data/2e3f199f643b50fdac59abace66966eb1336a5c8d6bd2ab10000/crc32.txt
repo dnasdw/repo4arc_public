@@ -1,0 +1,14 @@
+v-turok_2_seeds_of_evil.nfo	330e0efb
+v-turok_2_seeds_of_evil.r00	1a4a44ab
+v-turok_2_seeds_of_evil.r01	13e5c57d
+v-turok_2_seeds_of_evil.r02	472975ed
+v-turok_2_seeds_of_evil.r03	125624d7
+v-turok_2_seeds_of_evil.r04	4bc6ca87
+v-turok_2_seeds_of_evil.r05	828624e1
+v-turok_2_seeds_of_evil.r06	cd6c4c4d
+v-turok_2_seeds_of_evil.r07	2b619bef
+v-turok_2_seeds_of_evil.r08	1f83076e
+v-turok_2_seeds_of_evil.r09	7770d747
+v-turok_2_seeds_of_evil.r10	0bc81ee0
+v-turok_2_seeds_of_evil.rar	73ab79ff
+v-turok_2_seeds_of_evil.sfv	b30d687e

@@ -1,0 +1,11 @@
+v-northgard_v393216.nfo	ba9b82d4
+v-northgard_v393216.r00	ac2ecd06
+v-northgard_v393216.r01	bb489a28
+v-northgard_v393216.r02	e0a30434
+v-northgard_v393216.r03	cceebdbc
+v-northgard_v393216.r04	1a16f449
+v-northgard_v393216.r05	3cfa3e0b
+v-northgard_v393216.r06	794d4cb4
+v-northgard_v393216.r07	2dc04ddf
+v-northgard_v393216.rar	dca52820
+v-northgard_v393216.sfv	96b95055

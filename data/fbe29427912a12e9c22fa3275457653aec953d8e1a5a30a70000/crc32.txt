@@ -1,0 +1,4 @@
+v-pinball_fx3_indiana_jones_the_pinball_adventure_dlc.nfo	45811590
+v-pinball_fx3_indiana_jones_the_pinball_adventure_dlc.r00	fd212680
+v-pinball_fx3_indiana_jones_the_pinball_adventure_dlc.rar	bc1d3fd9
+v-pinball_fx3_indiana_jones_the_pinball_adventure_dlc.sfv	e052e47f

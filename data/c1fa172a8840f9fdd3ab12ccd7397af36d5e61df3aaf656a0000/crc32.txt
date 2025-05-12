@@ -1,0 +1,5 @@
+sxs-breakneck_city.nfo	4bcc0255
+sxs-breakneck_city.r00	112e3ea3
+sxs-breakneck_city.r01	3cd3315b
+sxs-breakneck_city.rar	9f9d4283
+sxs-breakneck_city.sfv	84b0263f

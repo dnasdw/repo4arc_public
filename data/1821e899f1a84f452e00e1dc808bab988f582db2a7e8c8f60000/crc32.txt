@@ -1,0 +1,4 @@
+sxs-snes_v1310720.nfo	c365bb1e
+sxs-snes_v1310720.r00	9e815c3b
+sxs-snes_v1310720.rar	c8de5d53
+sxs-snes_v1310720.sfv	070835ff

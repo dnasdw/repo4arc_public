@@ -1,0 +1,6 @@
+sxs-arcade_machine_gophers_revenge.nfo	598f290c
+sxs-arcade_machine_gophers_revenge.r00	92eafd7f
+sxs-arcade_machine_gophers_revenge.r01	8d01c60a
+sxs-arcade_machine_gophers_revenge.r02	e9e78b37
+sxs-arcade_machine_gophers_revenge.rar	323daea8
+sxs-arcade_machine_gophers_revenge.sfv	350b7ba4

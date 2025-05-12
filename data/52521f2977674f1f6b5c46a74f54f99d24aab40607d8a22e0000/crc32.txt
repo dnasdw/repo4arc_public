@@ -1,0 +1,10 @@
+sxs-brawl_chess.nfo	1deefc2c
+sxs-brawl_chess.r00	6bcc2197
+sxs-brawl_chess.r01	124b205c
+sxs-brawl_chess.r02	8cc6191b
+sxs-brawl_chess.r03	df413787
+sxs-brawl_chess.r04	9b3f7996
+sxs-brawl_chess.r05	5e548f46
+sxs-brawl_chess.r06	36a9c9bc
+sxs-brawl_chess.rar	94e29af7
+sxs-brawl_chess.sfv	049ddc59

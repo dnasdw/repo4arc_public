@@ -1,0 +1,8 @@
+sxs-bucket_knight.nfo	b69f0e087e1f3ede1cb4dd6b09b31eaa
+sxs-bucket_knight.r00	1bbb2fd063f076a5f1e3bb831ad46082
+sxs-bucket_knight.r01	43f26548480b10d4cd1cdfc1e655a456
+sxs-bucket_knight.r02	98018218837815b73e53b48d7b080abd
+sxs-bucket_knight.r03	29fa1f581041d85dea5ffe909cc9249a
+sxs-bucket_knight.r04	437d5f452625e3e162ad2610f868a83e
+sxs-bucket_knight.rar	6500f6e9d950efa8dfb3e34b4e3f34ae
+sxs-bucket_knight.sfv	c4b94df225148ba839dacbb5c04de87a

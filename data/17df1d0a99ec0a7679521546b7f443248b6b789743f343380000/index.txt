@@ -1,0 +1,16 @@
+sxs-football_manager_2023_touch_v458752.nfo	-	7382	1	0	0	0
+sxs-football_manager_2023_touch_v458752.r00	-	100000000	1	7382	0	1
+sxs-football_manager_2023_touch_v458752.r01	-	100000000	1	100007382	0	97
+sxs-football_manager_2023_touch_v458752.r02	-	100000000	1	200007382	0	193
+sxs-football_manager_2023_touch_v458752.r03	-	100000000	1	300007382	0	289
+sxs-football_manager_2023_touch_v458752.r04	-	100000000	1	400007382	0	385
+sxs-football_manager_2023_touch_v458752.r05	-	100000000	1	500007382	0	481
+sxs-football_manager_2023_touch_v458752.r06	-	100000000	1	62251264	1	60
+sxs-football_manager_2023_touch_v458752.r07	-	100000000	1	162251264	1	156
+sxs-football_manager_2023_touch_v458752.r08	-	100000000	1	262251264	1	252
+sxs-football_manager_2023_touch_v458752.r09	-	100000000	1	362251264	1	348
+sxs-football_manager_2023_touch_v458752.r10	-	100000000	1	462251264	1	444
+sxs-football_manager_2023_touch_v458752.r11	-	100000000	1	24502528	2	24
+sxs-football_manager_2023_touch_v458752.r12	-	22577846	1	124502528	2	120
+sxs-football_manager_2023_touch_v458752.rar	-	100000000	1	147080374	2	142
+sxs-football_manager_2023_touch_v458752.sfv	-	756	1	247080374	2	238

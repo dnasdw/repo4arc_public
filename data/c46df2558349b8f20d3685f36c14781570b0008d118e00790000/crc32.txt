@@ -1,0 +1,7 @@
+lfc-okru_v131072.nfo	f6453e1c
+lfc-okru_v131072.r00	b3cd6e40
+lfc-okru_v131072.r01	ed603c91
+lfc-okru_v131072.r02	e6cf3b46
+lfc-okru_v131072.r03	a8ccf5d6
+lfc-okru_v131072.rar	23a0a8bb
+lfc-okru_v131072.sfv	abebd85c

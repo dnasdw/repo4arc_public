@@ -1,0 +1,11 @@
+l-spidersolitaire.nfo	-	319	1	0	0	0
+l-spidersolitaire.r00	-	50000000	1	319	0	1
+l-spidersolitaire.r01	-	50000000	1	50000319	0	49
+l-spidersolitaire.r02	-	50000000	1	100000319	0	97
+l-spidersolitaire.r03	-	50000000	1	150000319	0	145
+l-spidersolitaire.r04	-	50000000	1	200000319	0	193
+l-spidersolitaire.r05	-	50000000	1	250000319	0	241
+l-spidersolitaire.r06	-	50000000	1	300000319	0	289
+l-spidersolitaire.r07	-	15037956	1	350000319	0	337
+l-spidersolitaire.rar	-	50000000	1	365038275	0	352
+l-spidersolitaire.sfv	-	288	1	415038275	0	400

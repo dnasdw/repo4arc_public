@@ -1,0 +1,4 @@
+lfc-tole_v65536.nfo	292385b7918469bab389bfc389af8191bcaa4a3d
+lfc-tole_v65536.r00	c4c8621f85b4ec2237a25d5a4fd2a1f1cbcbe3ff
+lfc-tole_v65536.rar	f57d4f21a2310162b49d70d519c25f0b2cdf53d1
+lfc-tole_v65536.sfv	c645b6e8ba496aee95d0ffe8faaff7b2554efa8c

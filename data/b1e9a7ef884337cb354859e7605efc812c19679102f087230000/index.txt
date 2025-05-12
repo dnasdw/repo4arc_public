@@ -1,0 +1,17 @@
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.nfo	-	5746	1	0	0	0
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r00	-	100000000	1	5746	0	1
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r01	-	100000000	1	100005746	0	97
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r02	-	100000000	1	200005746	0	193
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r03	-	100000000	1	300005746	0	289
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r04	-	100000000	1	400005746	0	385
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r05	-	100000000	1	500005746	0	481
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r06	-	100000000	1	62251264	1	60
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r07	-	100000000	1	162251264	1	156
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r08	-	100000000	1	262251264	1	252
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r09	-	100000000	1	362251264	1	348
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r10	-	100000000	1	462251264	1	444
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r11	-	100000000	1	24502528	2	24
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r12	-	100000000	1	124502528	2	120
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.r13	-	4577018	1	224502528	2	216
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.rar	-	100000000	1	229079546	2	221
+v-hogwarts_legacy_portuguese_brazil_language_pack_dlc.sfv	-	1020	1	329079546	2	317

@@ -1,0 +1,11 @@
+v-sky_racket_v131072.nfo	dad45556
+v-sky_racket_v131072.r00	072f537d
+v-sky_racket_v131072.r01	f476ef7d
+v-sky_racket_v131072.r02	e608f422
+v-sky_racket_v131072.r03	6e9a87f4
+v-sky_racket_v131072.r04	0ed7b14b
+v-sky_racket_v131072.r05	14fe2b6d
+v-sky_racket_v131072.r06	f9e6b086
+v-sky_racket_v131072.r07	6066ceae
+v-sky_racket_v131072.rar	ef4fa4a7
+v-sky_racket_v131072.sfv	ea8af55e

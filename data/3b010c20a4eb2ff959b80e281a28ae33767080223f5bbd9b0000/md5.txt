@@ -1,0 +1,11 @@
+sxs-99vidas.nfo	b2379fa94e65a14879d8bd1302382ea8
+sxs-99vidas.r00	d012851532ac599a51984af77e3d44fa
+sxs-99vidas.r01	ff6d2b8bf71860c842bf2920148af78f
+sxs-99vidas.r02	2a862f039bc70d62e289a7e5db530c12
+sxs-99vidas.r03	4b779deb63f3187c9361f6eb2c17bb4d
+sxs-99vidas.r04	6dd9bde38ee6bdf6880e11f6e50275bf
+sxs-99vidas.r05	cbc8f05fae3759f03d42129f6c089ce9
+sxs-99vidas.r06	3ea4736b5d82ba7f86c9f0a6f93df0a9
+sxs-99vidas.r07	b4ececae773b3f9d3c225cca4b79b2bd
+sxs-99vidas.rar	02d58a5b1e1bbdf5803b094462b15965
+sxs-99vidas.sfv	4a4b9b867b2dcabaccfbfdfa6a3251bc

@@ -1,0 +1,6 @@
+v-arcadian_atlas_v131072.nfo	-	7384	1	0	0	0
+v-arcadian_atlas_v131072.r00	-	100000000	1	7384	0	1
+v-arcadian_atlas_v131072.r01	-	100000000	1	100007384	0	97
+v-arcadian_atlas_v131072.r02	-	30422128	1	200007384	0	193
+v-arcadian_atlas_v131072.rar	-	100000000	1	230429512	0	223
+v-arcadian_atlas_v131072.sfv	-	156	1	330429512	0	319

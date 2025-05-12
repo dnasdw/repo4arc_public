@@ -1,0 +1,15 @@
+v-turnip_boy_robs_a_bank.nfo	b1989b74
+v-turnip_boy_robs_a_bank.r00	65f70b0f
+v-turnip_boy_robs_a_bank.r01	9c4ccbaf
+v-turnip_boy_robs_a_bank.r02	6a9c6a84
+v-turnip_boy_robs_a_bank.r03	d1f855f3
+v-turnip_boy_robs_a_bank.r04	bfd4c350
+v-turnip_boy_robs_a_bank.r05	211566b6
+v-turnip_boy_robs_a_bank.r06	71cf98f3
+v-turnip_boy_robs_a_bank.r07	217da230
+v-turnip_boy_robs_a_bank.r08	f5ffa02c
+v-turnip_boy_robs_a_bank.r09	a88771a1
+v-turnip_boy_robs_a_bank.r10	174327b3
+v-turnip_boy_robs_a_bank.r11	5856ea56
+v-turnip_boy_robs_a_bank.rar	3567bec5
+v-turnip_boy_robs_a_bank.sfv	b5f5ddd9

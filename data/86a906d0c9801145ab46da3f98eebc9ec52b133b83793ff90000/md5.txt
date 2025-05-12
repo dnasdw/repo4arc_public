@@ -1,0 +1,9 @@
+hr-kwaidan.nfo	b60819f2705d9612086da89efdc9d872
+hr-kwaidan.r00	88fdf3d8803c2642ca58a604c3794ed4
+hr-kwaidan.r01	dfff9c612b19b8c8e4c97c63a8e0c1b7
+hr-kwaidan.r02	dc411d375ba2f456cde1b88a165f6839
+hr-kwaidan.r03	c91d781af14e751672e59112459795a5
+hr-kwaidan.r04	c88296c93447f9c9f199eb88e3218cf3
+hr-kwaidan.r05	4e362aff2a40b2aad209867d7904b564
+hr-kwaidan.rar	e76ee4ee4a36483ad4839e52819be701
+hr-kwaidan.sfv	bfb44e0e146508d046b5fae1cd2afb4b

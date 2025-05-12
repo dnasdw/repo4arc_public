@@ -1,0 +1,3 @@
+v-taiko_v983040_dlc.nfo	-	17759	1	0	0	0
+v-taiko_v983040_dlc.rar	-	104125	1	17759	0	1
+v-taiko_v983040_dlc.sfv	-	34	1	121884	0	2

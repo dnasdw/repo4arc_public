@@ -1,0 +1,13 @@
+v-dr4sm_v65536.nfo	aaf01376
+v-dr4sm_v65536.r00	168f5b8d
+v-dr4sm_v65536.r01	f59b3bc1
+v-dr4sm_v65536.r02	11fdb8dd
+v-dr4sm_v65536.r03	818cecd1
+v-dr4sm_v65536.r04	27e30042
+v-dr4sm_v65536.r05	f4cb0e60
+v-dr4sm_v65536.r06	469d5a99
+v-dr4sm_v65536.r07	f303afd3
+v-dr4sm_v65536.r08	22716503
+v-dr4sm_v65536.r09	ba568397
+v-dr4sm_v65536.rar	9309b8ed
+v-dr4sm_v65536.sfv	9c090566

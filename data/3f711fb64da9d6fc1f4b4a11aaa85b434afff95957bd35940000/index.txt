@@ -1,0 +1,9 @@
+sxs-a_little_to_the_left_v327680.nfo	-	5822	1	0	0	0
+sxs-a_little_to_the_left_v327680.r00	-	100000000	1	5822	0	1
+sxs-a_little_to_the_left_v327680.r01	-	100000000	1	100005822	0	97
+sxs-a_little_to_the_left_v327680.r02	-	100000000	1	200005822	0	193
+sxs-a_little_to_the_left_v327680.r03	-	100000000	1	300005822	0	289
+sxs-a_little_to_the_left_v327680.r04	-	100000000	1	400005822	0	385
+sxs-a_little_to_the_left_v327680.r05	-	29028389	1	500005822	0	481
+sxs-a_little_to_the_left_v327680.rar	-	100000000	1	529034211	0	509
+sxs-a_little_to_the_left_v327680.sfv	-	329	1	91611392	1	88

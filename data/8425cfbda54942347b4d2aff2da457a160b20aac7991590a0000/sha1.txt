@@ -1,0 +1,6 @@
+sxs-wood_guy.nfo	13d280a1292bc27d963569f7007e565884dd5525
+sxs-wood_guy.r00	45b91eebac552f6d1dbfabaabbd229d5fe56e453
+sxs-wood_guy.r01	177eca0feabc243962177b0f574e6f1f7e2585f2
+sxs-wood_guy.r02	96bca691327edea068afd04eb4ca41a78a6b8c6c
+sxs-wood_guy.rar	aeb291653bd9740fc17bafa484e1f67b3ac2f631
+sxs-wood_guy.sfv	4db4d3b4962a963a9964c090f2477dbbfef3b276

@@ -1,0 +1,10 @@
+v-muse_dash_v196608.nfo	4077d90b
+v-muse_dash_v196608.r00	92d35d92
+v-muse_dash_v196608.r01	af3f5db8
+v-muse_dash_v196608.r02	d56a58f8
+v-muse_dash_v196608.r03	343040e7
+v-muse_dash_v196608.r04	54bdaacd
+v-muse_dash_v196608.r05	f32e3b67
+v-muse_dash_v196608.r06	ff666cea
+v-muse_dash_v196608.rar	4f06cc7f
+v-muse_dash_v196608.sfv	bc704de8

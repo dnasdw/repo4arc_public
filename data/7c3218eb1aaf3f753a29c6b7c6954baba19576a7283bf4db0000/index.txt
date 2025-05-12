@@ -1,0 +1,7 @@
+sxs-the_legend_of_zelda_tears_of_the_kingdom_v327680.nfo	-	4574	1	0	0	0
+sxs-the_legend_of_zelda_tears_of_the_kingdom_v327680.r00	-	100000000	1	4574	0	1
+sxs-the_legend_of_zelda_tears_of_the_kingdom_v327680.r01	-	100000000	1	100004574	0	97
+sxs-the_legend_of_zelda_tears_of_the_kingdom_v327680.r02	-	100000000	1	200004574	0	193
+sxs-the_legend_of_zelda_tears_of_the_kingdom_v327680.r03	-	57463922	1	300004574	0	289
+sxs-the_legend_of_zelda_tears_of_the_kingdom_v327680.rar	-	100000000	1	357468496	0	344
+sxs-the_legend_of_zelda_tears_of_the_kingdom_v327680.sfv	-	335	1	457468496	0	440

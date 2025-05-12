@@ -1,0 +1,5 @@
+sxs-space_moth_lunar_edition.nfo	-	5120	1	0	0	0
+sxs-space_moth_lunar_edition.r00	-	50000000	1	5120	0	1
+sxs-space_moth_lunar_edition.r01	-	40329302	1	50005120	0	49
+sxs-space_moth_lunar_edition.rar	-	50000000	1	90334422	0	88
+sxs-space_moth_lunar_edition.sfv	-	129	1	140334422	0	136

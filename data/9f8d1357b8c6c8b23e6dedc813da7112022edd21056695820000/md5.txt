@@ -1,0 +1,3 @@
+brw-fqui_v65536.nfo	97c1d2fe843541796fb37feea9ea4d2d
+brw-fqui_v65536.rar	2cbfc6ae0ef1a49dd7b04d71cdfd531f
+brw-fqui_v65536.sfv	e7483a07144f53f9dfddbe6396b7a58b

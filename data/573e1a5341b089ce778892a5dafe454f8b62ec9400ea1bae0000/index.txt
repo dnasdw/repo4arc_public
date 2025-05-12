@@ -1,0 +1,6 @@
+sxs-silver_falls_guardians_and_metal_exterminators_s.nfo	-	6524	1	0	0	0
+sxs-silver_falls_guardians_and_metal_exterminators_s.r00	-	100000000	1	6524	0	1
+sxs-silver_falls_guardians_and_metal_exterminators_s.r01	-	100000000	1	100006524	0	97
+sxs-silver_falls_guardians_and_metal_exterminators_s.r02	-	60410581	1	200006524	0	193
+sxs-silver_falls_guardians_and_metal_exterminators_s.rar	-	100000000	1	260417105	0	251
+sxs-silver_falls_guardians_and_metal_exterminators_s.sfv	-	268	1	360417105	0	347

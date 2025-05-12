@@ -1,0 +1,3 @@
+sxs-the_next_penelope_v131072.nfo	-	5198	1	0	0	0
+sxs-the_next_penelope_v131072.rar	-	33766639	1	5198	0	1
+sxs-the_next_penelope_v131072.sfv	-	44	1	33771837	0	34

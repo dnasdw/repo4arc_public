@@ -1,0 +1,11 @@
+sxs-detective_gallo_v327680.nfo	-	4809	1	0	0	0
+sxs-detective_gallo_v327680.r00	-	50000000	1	4809	0	1
+sxs-detective_gallo_v327680.r01	-	50000000	1	50004809	0	49
+sxs-detective_gallo_v327680.r02	-	50000000	1	100004809	0	97
+sxs-detective_gallo_v327680.r03	-	50000000	1	150004809	0	145
+sxs-detective_gallo_v327680.r04	-	50000000	1	200004809	0	193
+sxs-detective_gallo_v327680.r05	-	50000000	1	250004809	0	241
+sxs-detective_gallo_v327680.r06	-	50000000	1	300004809	0	289
+sxs-detective_gallo_v327680.r07	-	8851423	1	350004809	0	337
+sxs-detective_gallo_v327680.rar	-	50000000	1	358856232	0	346
+sxs-detective_gallo_v327680.sfv	-	378	1	408856232	0	394

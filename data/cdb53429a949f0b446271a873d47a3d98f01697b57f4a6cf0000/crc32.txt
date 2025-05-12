@@ -1,0 +1,15 @@
+sxs-double_pug_switch.nfo	3e942ca4
+sxs-double_pug_switch.r00	5dcddb8c
+sxs-double_pug_switch.r01	5044702f
+sxs-double_pug_switch.r02	310b4e75
+sxs-double_pug_switch.r03	5054d565
+sxs-double_pug_switch.r04	99a3a32e
+sxs-double_pug_switch.r05	efecf099
+sxs-double_pug_switch.r06	f23fd79e
+sxs-double_pug_switch.r07	39414d29
+sxs-double_pug_switch.r08	99b62025
+sxs-double_pug_switch.r09	92891052
+sxs-double_pug_switch.r10	15780c3c
+sxs-double_pug_switch.r11	aa8a4dc1
+sxs-double_pug_switch.rar	40ee9d78
+sxs-double_pug_switch.sfv	e0dbd7b5

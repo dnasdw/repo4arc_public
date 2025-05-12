@@ -1,0 +1,3 @@
+sxs-hardcore_mecha_gurren_lagann_dlc.nfo	-	10346	1	0	0	0
+sxs-hardcore_mecha_gurren_lagann_dlc.rar	-	104140	1	10346	0	1
+sxs-hardcore_mecha_gurren_lagann_dlc.sfv	-	51	1	114486	0	2

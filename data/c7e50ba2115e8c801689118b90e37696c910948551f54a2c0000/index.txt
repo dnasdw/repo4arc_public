@@ -1,0 +1,5 @@
+sxs-piano_learn_and_play.nfo	-	5900	1	0	0	0
+sxs-piano_learn_and_play.r00	-	100000000	1	5900	0	1
+sxs-piano_learn_and_play.r01	-	52022370	1	100005900	0	97
+sxs-piano_learn_and_play.rar	-	100000000	1	152028270	0	147
+sxs-piano_learn_and_play.sfv	-	117	1	252028270	0	243

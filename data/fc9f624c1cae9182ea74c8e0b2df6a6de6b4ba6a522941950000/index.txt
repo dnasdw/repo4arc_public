@@ -1,0 +1,10 @@
+lfc-nerdbookvol1.nfo	-	6072	1	0	0	0
+lfc-nerdbookvol1.r00	-	100000000	1	6072	0	1
+lfc-nerdbookvol1.r01	-	100000000	1	100006072	0	97
+lfc-nerdbookvol1.r02	-	100000000	1	200006072	0	193
+lfc-nerdbookvol1.r03	-	100000000	1	300006072	0	289
+lfc-nerdbookvol1.r04	-	100000000	1	400006072	0	385
+lfc-nerdbookvol1.r05	-	100000000	1	500006072	0	481
+lfc-nerdbookvol1.r06	-	93170869	1	62251264	1	60
+lfc-nerdbookvol1.rar	-	100000000	1	155422133	1	149
+lfc-nerdbookvol1.sfv	-	248	1	255422133	1	245

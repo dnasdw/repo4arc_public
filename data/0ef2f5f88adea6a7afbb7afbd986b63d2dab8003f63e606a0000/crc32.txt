@@ -1,0 +1,14 @@
+v-corbid_a_colorful_adventure.nfo	c45feebb
+v-corbid_a_colorful_adventure.r00	0286c773
+v-corbid_a_colorful_adventure.r01	a879e40c
+v-corbid_a_colorful_adventure.r02	a33f385e
+v-corbid_a_colorful_adventure.r03	ccc191f2
+v-corbid_a_colorful_adventure.r04	8a5f5e97
+v-corbid_a_colorful_adventure.r05	faf5e077
+v-corbid_a_colorful_adventure.r06	87548739
+v-corbid_a_colorful_adventure.r07	4c071afc
+v-corbid_a_colorful_adventure.r08	a0950958
+v-corbid_a_colorful_adventure.r09	26ecdcbe
+v-corbid_a_colorful_adventure.r10	5766bb46
+v-corbid_a_colorful_adventure.rar	a5d41dcc
+v-corbid_a_colorful_adventure.sfv	4ff75104

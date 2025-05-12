@@ -1,0 +1,13 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-cuddly_forest_friends.jpg	-	162216	1	0	0	0
+sxs-cuddly_forest_friends.nfo	-	3560	1	162216	0	1
+sxs-cuddly_forest_friends.r00	-	100000000	1	165776	0	2
+sxs-cuddly_forest_friends.r01	-	100000000	1	100165776	0	98
+sxs-cuddly_forest_friends.r02	-	100000000	1	200165776	0	194
+sxs-cuddly_forest_friends.r03	-	100000000	1	300165776	0	290
+sxs-cuddly_forest_friends.r04	-	100000000	1	400165776	0	386
+sxs-cuddly_forest_friends.r05	-	100000000	1	500165776	0	482
+sxs-cuddly_forest_friends.r06	-	100000000	1	62251264	1	60
+sxs-cuddly_forest_friends.r07	-	15517264	1	162251264	1	156
+sxs-cuddly_forest_friends.rar	-	100000000	1	177768528	1	171
+sxs-cuddly_forest_friends.sfv	-	360	1	277768528	1	267

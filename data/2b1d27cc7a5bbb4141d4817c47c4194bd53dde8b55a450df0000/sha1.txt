@@ -1,0 +1,3 @@
+sxs-asdivine_dios_dlc.nfo	c571caf93eb1d95da9a8d4213a282bf4b1293e9b
+sxs-asdivine_dios_dlc.rar	35a5b9ece1787c32c7b18db0c1db4277f1c240db
+sxs-asdivine_dios_dlc.sfv	aca2ce4ce90766cfed9860c8b209244bdc07e96a

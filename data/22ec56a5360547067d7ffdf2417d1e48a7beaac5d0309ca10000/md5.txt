@@ -1,0 +1,5 @@
+sxs-farming_simulator_20_v65536.nfo	1126698aad018f518db8f8a1685c0a40
+sxs-farming_simulator_20_v65536.r00	77b59cc20e57f4c6e23a30c3053c5e1f
+sxs-farming_simulator_20_v65536.r01	705f91845c0daab1d8e333aa1f6f665e
+sxs-farming_simulator_20_v65536.rar	85b7bbf12fd17319150a9420841042f7
+sxs-farming_simulator_20_v65536.sfv	3fa3f12cf36eef74e30fbdb3eac7ec43

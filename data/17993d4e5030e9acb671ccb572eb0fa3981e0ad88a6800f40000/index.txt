@@ -1,0 +1,6 @@
+bbb-n-aecza.nfo	-	5517	1	0	0	0
+bbb-n-aecza.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aecza.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aecza.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-aecza.part4.rar	-	187394942	1	212251264	1	203
+bbb-n-aecza.sfv	-	128	1	399646206	1	382

@@ -1,0 +1,7 @@
+sxs-katamari_damacy_reroll_v131072.nfo	ff3d3d9b
+sxs-katamari_damacy_reroll_v131072.r00	b94fc668
+sxs-katamari_damacy_reroll_v131072.r01	979abd40
+sxs-katamari_damacy_reroll_v131072.r02	f61145a2
+sxs-katamari_damacy_reroll_v131072.r03	9baa3dbb
+sxs-katamari_damacy_reroll_v131072.rar	f332c345
+sxs-katamari_damacy_reroll_v131072.sfv	f051b3b1

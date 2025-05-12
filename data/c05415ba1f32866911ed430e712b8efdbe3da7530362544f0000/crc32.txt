@@ -1,0 +1,7 @@
+lfc-pffb.nfo	622ecd62
+lfc-pffb.r00	9037415a
+lfc-pffb.r01	2466364f
+lfc-pffb.r02	1ce2ff04
+lfc-pffb.r03	c964b352
+lfc-pffb.rar	dea34854
+lfc-pffb.sfv	35ffe0c9

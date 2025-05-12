@@ -1,0 +1,5 @@
+darkmoon-fly.oclock.eshop.nsw.nfo	-	16675	1	0	0	0
+darkmoon-fly.oclock.eshop.nsw.r00	-	50000000	1	16675	0	1
+darkmoon-fly.oclock.eshop.nsw.r01	-	8282806	1	50016675	0	49
+darkmoon-fly.oclock.eshop.nsw.rar	-	50000000	1	58299481	0	57
+darkmoon-fly.oclock.eshop.nsw.sfv	-	132	1	108299481	0	105

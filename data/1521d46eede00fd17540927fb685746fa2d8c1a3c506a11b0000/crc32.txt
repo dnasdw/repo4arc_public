@@ -1,0 +1,15 @@
+sxs-georifters_v262144.nfo	00665e73
+sxs-georifters_v262144.r00	90788aa4
+sxs-georifters_v262144.r01	41ca2d74
+sxs-georifters_v262144.r02	4966b3b9
+sxs-georifters_v262144.r03	59cbb519
+sxs-georifters_v262144.r04	ea1d176f
+sxs-georifters_v262144.r05	461a1b9c
+sxs-georifters_v262144.r06	db185d33
+sxs-georifters_v262144.r07	efcd7196
+sxs-georifters_v262144.r08	94fb053b
+sxs-georifters_v262144.r09	ef8db073
+sxs-georifters_v262144.r10	98878eb0
+sxs-georifters_v262144.r11	0ec54407
+sxs-georifters_v262144.rar	80992958
+sxs-georifters_v262144.sfv	b723531d

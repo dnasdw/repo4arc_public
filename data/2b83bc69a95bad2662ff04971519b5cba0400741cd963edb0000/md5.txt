@@ -1,0 +1,17 @@
+v-herodes.nfo	39c77d092b7eb72949d896b465b1ac11
+v-herodes.r00	77c69540f756406d3bb8e1f6be27a297
+v-herodes.r01	6d92bc6dde859d251b619beeffdb4b6d
+v-herodes.r02	f0fddda292e42fe47b816733923ffb6f
+v-herodes.r03	2430ff240060c305b30494c044397152
+v-herodes.r04	92e0381691fcdb6c8aa149b4d2121511
+v-herodes.r05	4198e22b860697d5d67ff6dca74fb9f0
+v-herodes.r06	1708fe4565fd86e92763b64d0c565c24
+v-herodes.r07	aeee457ad8a56151a849391d393974b2
+v-herodes.r08	c8b4e3b1ba7ab8d37e496a635091c707
+v-herodes.r09	46527caabcea54017368c2179aabe3ca
+v-herodes.r10	cc31741b41e112fafd6a7ba467c192a8
+v-herodes.r11	4efeb20c8a20f37ae3a11e832674242c
+v-herodes.r12	efa299a5be9e8fd9e5ceedc4c1fb31e8
+v-herodes.r13	61c9e3abdce39eaf54663c652b66367e
+v-herodes.rar	e1a2b59549d84b19fb09d2f18b5df396
+v-herodes.sfv	3e974e2030c30f26d47fb00aff526413

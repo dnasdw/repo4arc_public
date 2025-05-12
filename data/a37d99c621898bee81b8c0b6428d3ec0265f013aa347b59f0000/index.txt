@@ -1,0 +1,4 @@
+v-metroid_dread_v262144.nfo	-	8164	1	0	0	0
+v-metroid_dread_v262144.r00	-	28508372	1	8164	0	1
+v-metroid_dread_v262144.rar	-	50000000	1	28516536	0	29
+v-metroid_dread_v262144.sfv	-	76	1	78516536	0	77

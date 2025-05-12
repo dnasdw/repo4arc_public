@@ -1,0 +1,4 @@
+v-prinny_presents_nis_classics_volume_2_v131072.nfo	-	4576	1	0	0	0
+v-prinny_presents_nis_classics_volume_2_v131072.r00	-	18267154	1	4576	0	1
+v-prinny_presents_nis_classics_volume_2_v131072.rar	-	50000000	1	18271730	0	19
+v-prinny_presents_nis_classics_volume_2_v131072.sfv	-	124	1	68271730	0	67

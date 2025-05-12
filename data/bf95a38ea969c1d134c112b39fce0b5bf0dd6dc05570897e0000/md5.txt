@@ -1,0 +1,4 @@
+sxs-n64jp18plus.nfo	37669ae6e9fdc2ccccf1d656e9ae89fd
+sxs-n64jp18plus.r00	e1d6934d48ddbf3f09c8c22f74c4b64a
+sxs-n64jp18plus.rar	34496486c59d0dacb1c9947c312fe95f
+sxs-n64jp18plus.sfv	7aa69a158ce58fc404f63416f3e388e2

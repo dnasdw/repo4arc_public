@@ -1,0 +1,4 @@
+sxs-crypt_of_the_necrodancer_v196608.nfo	-	4184	1	0	0	0
+sxs-crypt_of_the_necrodancer_v196608.r00	-	11703354	1	4184	0	1
+sxs-crypt_of_the_necrodancer_v196608.rar	-	50000000	1	11707538	0	13
+sxs-crypt_of_the_necrodancer_v196608.sfv	-	102	1	61707538	0	61

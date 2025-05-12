@@ -1,0 +1,4 @@
+sxs-one_strike_v131072.nfo	-	5433	1	0	0	0
+sxs-one_strike_v131072.r00	-	26920412	1	5433	0	1
+sxs-one_strike_v131072.rar	-	50000000	1	26925845	0	27
+sxs-one_strike_v131072.sfv	-	74	1	76925845	0	75

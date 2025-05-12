@@ -1,0 +1,3 @@
+sxs-retro_highway_v65536.nfo	7704f8d72242b93c05754ffbb61d65a0a65b1af7
+sxs-retro_highway_v65536.rar	f399a5aebd8896e1811ccf650f027fd1843ae010
+sxs-retro_highway_v65536.sfv	023f1127d521b0e7f9ddab96ce969976059a20cb

@@ -1,0 +1,15 @@
+sxs-super_kart_mini_car_race.nfo	-	7304	1	0	0	0
+sxs-super_kart_mini_car_race.r00	-	100000000	1	7304	0	1
+sxs-super_kart_mini_car_race.r01	-	100000000	1	100007304	0	97
+sxs-super_kart_mini_car_race.r02	-	100000000	1	200007304	0	193
+sxs-super_kart_mini_car_race.r03	-	100000000	1	300007304	0	289
+sxs-super_kart_mini_car_race.r04	-	100000000	1	400007304	0	385
+sxs-super_kart_mini_car_race.r05	-	100000000	1	500007304	0	481
+sxs-super_kart_mini_car_race.r06	-	100000000	1	62251264	1	60
+sxs-super_kart_mini_car_race.r07	-	100000000	1	162251264	1	156
+sxs-super_kart_mini_car_race.r08	-	100000000	1	262251264	1	252
+sxs-super_kart_mini_car_race.r09	-	100000000	1	362251264	1	348
+sxs-super_kart_mini_car_race.r10	-	100000000	1	462251264	1	444
+sxs-super_kart_mini_car_race.r11	-	83089182	1	24502528	2	24
+sxs-super_kart_mini_car_race.rar	-	100000000	1	107591710	2	104
+sxs-super_kart_mini_car_race.sfv	-	559	1	207591710	2	200

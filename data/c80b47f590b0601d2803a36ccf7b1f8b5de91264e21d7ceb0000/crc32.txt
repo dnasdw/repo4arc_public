@@ -1,0 +1,5 @@
+lfc-mmbf.nfo	7a9213cb
+lfc-mmbf.r00	1e787425
+lfc-mmbf.r01	26fea49d
+lfc-mmbf.rar	ac450c64
+lfc-mmbf.sfv	64e93832

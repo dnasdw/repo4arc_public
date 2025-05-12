@@ -1,0 +1,3 @@
+bbb-n-adwsa.nfo	-	5517	1	0	0	0
+bbb-n-adwsa.rar	-	169540404	1	5517	0	1
+bbb-n-adwsa.sfv	-	26	1	169545921	0	163

@@ -1,0 +1,5 @@
+sxs-mystic_gate.nfo	57bcdb5164913a4c105f26091335e26e9342d362
+sxs-mystic_gate.r00	be3ce52ba91f1ac85cb15b0c1dcceb6776d8b6a6
+sxs-mystic_gate.r01	7730102d476e8a0c43bb18387d917c771810881c
+sxs-mystic_gate.rar	90f3c75ff258b1b0c6e27b06bc00f6ae34179797
+sxs-mystic_gate.sfv	d7ac2c7c42be97ed22d832428366833100d6972e

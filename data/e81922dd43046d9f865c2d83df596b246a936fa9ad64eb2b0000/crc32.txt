@@ -1,0 +1,11 @@
+lfc-baddreamfever.nfo	6e6b56e0
+lfc-baddreamfever.r00	66f48871
+lfc-baddreamfever.r01	7ba2579c
+lfc-baddreamfever.r02	ac26af83
+lfc-baddreamfever.r03	9f29ef2f
+lfc-baddreamfever.r04	6f914c2d
+lfc-baddreamfever.r05	40dd643e
+lfc-baddreamfever.r06	93489146
+lfc-baddreamfever.r07	306b655c
+lfc-baddreamfever.rar	e13f764a
+lfc-baddreamfever.sfv	22e053ef

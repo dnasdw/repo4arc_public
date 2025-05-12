@@ -1,0 +1,3 @@
+sxs-el_gancho_v65536.nfo	-	5822	1	0	0	0
+sxs-el_gancho_v65536.rar	-	32598566	1	5822	0	1
+sxs-el_gancho_v65536.sfv	-	35	1	32604388	0	33

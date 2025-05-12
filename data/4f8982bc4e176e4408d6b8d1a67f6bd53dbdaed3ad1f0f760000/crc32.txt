@@ -1,0 +1,11 @@
+v-astroneer_v720896.nfo	6352dbc7
+v-astroneer_v720896.r00	90b0859c
+v-astroneer_v720896.r01	6c534eb2
+v-astroneer_v720896.r02	d0ae7308
+v-astroneer_v720896.r03	c80e3f2b
+v-astroneer_v720896.r04	39ad838e
+v-astroneer_v720896.r05	4e2286f4
+v-astroneer_v720896.r06	51901cd9
+v-astroneer_v720896.r07	667c652f
+v-astroneer_v720896.rar	84cf0d64
+v-astroneer_v720896.sfv	5641d1f4

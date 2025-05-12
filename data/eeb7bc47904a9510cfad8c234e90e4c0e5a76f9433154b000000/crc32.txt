@@ -1,0 +1,4 @@
+sxs-aca_neogeo_samurai_shodown_v65536.nfo	96d0e221
+sxs-aca_neogeo_samurai_shodown_v65536.r00	cdc77e8b
+sxs-aca_neogeo_samurai_shodown_v65536.rar	da906b78
+sxs-aca_neogeo_samurai_shodown_v65536.sfv	ba962dcc

@@ -1,0 +1,5 @@
+v-vandals_v65536.nfo	4133d081
+v-vandals_v65536.r00	79d8a4ab
+v-vandals_v65536.r01	53426f6d
+v-vandals_v65536.rar	77e9063c
+v-vandals_v65536.sfv	b15ded92

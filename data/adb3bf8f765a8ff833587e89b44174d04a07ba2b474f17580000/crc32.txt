@@ -1,0 +1,4 @@
+sxs-hermitage_strange_case_files_v65536.nfo	78dfd111
+sxs-hermitage_strange_case_files_v65536.r00	c0e64523
+sxs-hermitage_strange_case_files_v65536.rar	1ca82f97
+sxs-hermitage_strange_case_files_v65536.sfv	c729d1a6

@@ -1,0 +1,13 @@
+sxs-sunblaze.nfo	df170fd6
+sxs-sunblaze.r00	64798515
+sxs-sunblaze.r01	f279b8b3
+sxs-sunblaze.r02	421b59e1
+sxs-sunblaze.r03	5aec818b
+sxs-sunblaze.r04	f9139c6f
+sxs-sunblaze.r05	61bf4500
+sxs-sunblaze.r06	075b7b52
+sxs-sunblaze.r07	85f19be4
+sxs-sunblaze.r08	f0e903a6
+sxs-sunblaze.r09	64be1ede
+sxs-sunblaze.rar	74439d96
+sxs-sunblaze.sfv	0add4592

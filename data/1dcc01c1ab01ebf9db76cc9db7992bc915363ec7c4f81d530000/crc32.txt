@@ -1,0 +1,4 @@
+v-scrapnaut_v65536.nfo	6477d02d
+v-scrapnaut_v65536.r00	12f62116
+v-scrapnaut_v65536.rar	b5785227
+v-scrapnaut_v65536.sfv	eeca255e

@@ -1,0 +1,6 @@
+l-crocsworld3.nfo	-	1047	1	0	0	0
+l-crocsworld3.r00	-	100000000	1	1047	0	1
+l-crocsworld3.r01	-	100000000	1	100001047	0	97
+l-crocsworld3.r02	-	50987202	1	200001047	0	193
+l-crocsworld3.rar	-	100000000	1	250988249	0	242
+l-crocsworld3.sfv	-	112	1	350988249	0	338

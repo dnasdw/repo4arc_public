@@ -1,0 +1,5 @@
+sxs-ash_of_gods_the_way_v262144.nfo	-	3950	1	0	0	0
+sxs-ash_of_gods_the_way_v262144.r00	-	100000000	1	3950	0	1
+sxs-ash_of_gods_the_way_v262144.r01	-	94570561	1	100003950	0	97
+sxs-ash_of_gods_the_way_v262144.rar	-	100000000	1	194574511	0	188
+sxs-ash_of_gods_the_way_v262144.sfv	-	138	1	294574511	0	284

@@ -1,0 +1,17 @@
+sxs-the_spectrum_retreat_v131072.nfo	-	4496	1	0	0	0
+sxs-the_spectrum_retreat_v131072.r00	-	50000000	1	4496	0	1
+sxs-the_spectrum_retreat_v131072.r01	-	50000000	1	50004496	0	49
+sxs-the_spectrum_retreat_v131072.r02	-	50000000	1	100004496	0	97
+sxs-the_spectrum_retreat_v131072.r03	-	50000000	1	150004496	0	145
+sxs-the_spectrum_retreat_v131072.r04	-	50000000	1	200004496	0	193
+sxs-the_spectrum_retreat_v131072.r05	-	50000000	1	250004496	0	241
+sxs-the_spectrum_retreat_v131072.r06	-	50000000	1	300004496	0	289
+sxs-the_spectrum_retreat_v131072.r07	-	50000000	1	350004496	0	337
+sxs-the_spectrum_retreat_v131072.r08	-	50000000	1	400004496	0	385
+sxs-the_spectrum_retreat_v131072.r09	-	50000000	1	450004496	0	433
+sxs-the_spectrum_retreat_v131072.r10	-	50000000	1	500004496	0	481
+sxs-the_spectrum_retreat_v131072.r11	-	50000000	1	12251264	1	12
+sxs-the_spectrum_retreat_v131072.r12	-	50000000	1	62251264	1	60
+sxs-the_spectrum_retreat_v131072.r13	-	47510946	1	112251264	1	108
+sxs-the_spectrum_retreat_v131072.rar	-	50000000	1	159762210	1	154
+sxs-the_spectrum_retreat_v131072.sfv	-	705	1	209762210	1	202

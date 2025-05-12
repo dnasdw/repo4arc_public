@@ -1,0 +1,9 @@
+hr-at9hav65536.nfo	3fb9377a
+hr-at9hav65536.r00	555c4d40
+hr-at9hav65536.r01	6d8e7af1
+hr-at9hav65536.r02	3f3be004
+hr-at9hav65536.r03	cf561cfe
+hr-at9hav65536.r04	5eaf6eb5
+hr-at9hav65536.r05	0da216d5
+hr-at9hav65536.rar	c2326226
+hr-at9hav65536.sfv	f7ba936e

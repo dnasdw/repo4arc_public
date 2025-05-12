@@ -1,0 +1,3 @@
+v-the_legend_of_zelda_skyward_sword_hd_v65536.nfo	-	5746	1	0	0	0
+v-the_legend_of_zelda_skyward_sword_hd_v65536.rar	-	42871370	1	5746	0	1
+v-the_legend_of_zelda_skyward_sword_hd_v65536.sfv	-	60	1	42877116	0	42

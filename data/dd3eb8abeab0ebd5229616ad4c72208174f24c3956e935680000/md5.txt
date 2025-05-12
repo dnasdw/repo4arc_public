@@ -1,0 +1,4 @@
+lfc-bcmha_v65536.nfo	5f733cc654f60ecc53ea01f32bab58b7
+lfc-bcmha_v65536.r00	f11db4c446c042285b182c9bed88d8ff
+lfc-bcmha_v65536.rar	f8b40ce9ffd5feeeb46ded57b5d36975
+lfc-bcmha_v65536.sfv	238008e5e76b204b0b0db24a77ebd6da

@@ -1,0 +1,12 @@
+v-fight_n_rage.nfo	9bb67959
+v-fight_n_rage.r00	f2d65f94
+v-fight_n_rage.r01	8bc268dd
+v-fight_n_rage.r02	19006555
+v-fight_n_rage.r03	31079855
+v-fight_n_rage.r04	f908f726
+v-fight_n_rage.r05	6ca29144
+v-fight_n_rage.r06	2cee2db0
+v-fight_n_rage.r07	8b6f18fc
+v-fight_n_rage.r08	fab03acf
+v-fight_n_rage.rar	b652e221
+v-fight_n_rage.sfv	1854246b

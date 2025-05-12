@@ -1,0 +1,6 @@
+sxs-shovel_knight_specter_of_torment_v196608.nfo	-	6758	1	0	0	0
+sxs-shovel_knight_specter_of_torment_v196608.r00	-	50000000	1	6758	0	1
+sxs-shovel_knight_specter_of_torment_v196608.r01	-	50000000	1	50006758	0	49
+sxs-shovel_knight_specter_of_torment_v196608.r02	-	33678234	1	100006758	0	97
+sxs-shovel_knight_specter_of_torment_v196608.rar	-	50000000	1	133684992	0	130
+sxs-shovel_knight_specter_of_torment_v196608.sfv	-	236	1	183684992	0	178

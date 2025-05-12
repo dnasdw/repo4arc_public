@@ -1,0 +1,5 @@
+sxs-splashy_cube.nfo	b77df562
+sxs-splashy_cube.r00	cb28d759
+sxs-splashy_cube.r01	e06cb363
+sxs-splashy_cube.rar	b8c8d2f5
+sxs-splashy_cube.sfv	6d3aeba0

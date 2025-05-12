@@ -1,0 +1,5 @@
+v-trombone_champ_v655360.nfo	9211cdf5c083f5e88b0b25a4d191043c
+v-trombone_champ_v655360.r00	fa0b0187424bba1f99df9e64c270f41f
+v-trombone_champ_v655360.r01	983795da0bb4f4be655e31a4b5311641
+v-trombone_champ_v655360.rar	c316570d8211ef04946deb96d90234d9
+v-trombone_champ_v655360.sfv	b29894565f2b4502a229969d71f57dd2

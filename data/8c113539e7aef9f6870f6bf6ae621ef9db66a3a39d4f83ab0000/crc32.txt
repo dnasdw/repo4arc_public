@@ -1,0 +1,8 @@
+sxs-total_arcade_racing_v393216.nfo	7bf65286
+sxs-total_arcade_racing_v393216.r00	b68e6872
+sxs-total_arcade_racing_v393216.r01	fca2e0ab
+sxs-total_arcade_racing_v393216.r02	a9d95a39
+sxs-total_arcade_racing_v393216.r03	cbed83f7
+sxs-total_arcade_racing_v393216.r04	2c17bdd1
+sxs-total_arcade_racing_v393216.rar	b31e2001
+sxs-total_arcade_racing_v393216.sfv	0264fa11

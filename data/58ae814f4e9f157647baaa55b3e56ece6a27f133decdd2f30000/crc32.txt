@@ -1,0 +1,8 @@
+sxs-puzzle_box_maker_v131072.nfo	96ee8d97
+sxs-puzzle_box_maker_v131072.r00	3c23edab
+sxs-puzzle_box_maker_v131072.r01	22cabe28
+sxs-puzzle_box_maker_v131072.r02	1a99c2cc
+sxs-puzzle_box_maker_v131072.r03	7c09aad3
+sxs-puzzle_box_maker_v131072.r04	6fe07502
+sxs-puzzle_box_maker_v131072.rar	98f803d5
+sxs-puzzle_box_maker_v131072.sfv	a37aed22

@@ -1,0 +1,17 @@
+sxs-space_tail_every_journey_leads_home_v65536.nfo	-	7616	1	0	0	0
+sxs-space_tail_every_journey_leads_home_v65536.r00	-	100000000	1	7616	0	1
+sxs-space_tail_every_journey_leads_home_v65536.r01	-	100000000	1	100007616	0	97
+sxs-space_tail_every_journey_leads_home_v65536.r02	-	100000000	1	200007616	0	193
+sxs-space_tail_every_journey_leads_home_v65536.r03	-	100000000	1	300007616	0	289
+sxs-space_tail_every_journey_leads_home_v65536.r04	-	100000000	1	400007616	0	385
+sxs-space_tail_every_journey_leads_home_v65536.r05	-	100000000	1	500007616	0	481
+sxs-space_tail_every_journey_leads_home_v65536.r06	-	100000000	1	62251264	1	60
+sxs-space_tail_every_journey_leads_home_v65536.r07	-	100000000	1	162251264	1	156
+sxs-space_tail_every_journey_leads_home_v65536.r08	-	100000000	1	262251264	1	252
+sxs-space_tail_every_journey_leads_home_v65536.r09	-	100000000	1	362251264	1	348
+sxs-space_tail_every_journey_leads_home_v65536.r10	-	100000000	1	462251264	1	444
+sxs-space_tail_every_journey_leads_home_v65536.r11	-	100000000	1	24502528	2	24
+sxs-space_tail_every_journey_leads_home_v65536.r12	-	100000000	1	124502528	2	120
+sxs-space_tail_every_journey_leads_home_v65536.r13	-	6957918	1	224502528	2	216
+sxs-space_tail_every_journey_leads_home_v65536.rar	-	100000000	1	231460446	2	223
+sxs-space_tail_every_journey_leads_home_v65536.sfv	-	915	1	331460446	2	319

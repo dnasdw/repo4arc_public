@@ -1,0 +1,9 @@
+v-the_vanishing_of_ethan_carter_v65536.nfo	-	4498	1	0	0	0
+v-the_vanishing_of_ethan_carter_v65536.r00	-	50000000	1	4498	0	1
+v-the_vanishing_of_ethan_carter_v65536.r01	-	50000000	1	50004498	0	49
+v-the_vanishing_of_ethan_carter_v65536.r02	-	50000000	1	100004498	0	97
+v-the_vanishing_of_ethan_carter_v65536.r03	-	50000000	1	150004498	0	145
+v-the_vanishing_of_ethan_carter_v65536.r04	-	50000000	1	200004498	0	193
+v-the_vanishing_of_ethan_carter_v65536.r05	-	43955022	1	250004498	0	241
+v-the_vanishing_of_ethan_carter_v65536.rar	-	50000000	1	293959520	0	283
+v-the_vanishing_of_ethan_carter_v65536.sfv	-	371	1	343959520	0	331

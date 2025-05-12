@@ -1,0 +1,8 @@
+sxs-geometry_survivor.nfo	6a578288
+sxs-geometry_survivor.r00	bb6d6363
+sxs-geometry_survivor.r01	b820d038
+sxs-geometry_survivor.r02	dfc6e71a
+sxs-geometry_survivor.r03	d129364a
+sxs-geometry_survivor.r04	2f19a358
+sxs-geometry_survivor.rar	51c0f987
+sxs-geometry_survivor.sfv	631d7345

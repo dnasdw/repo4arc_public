@@ -1,0 +1,9 @@
+jrp-as3ma-jpn.nfo	520461fd
+jrp-as3ma-jpn.r00	c10f0f41
+jrp-as3ma-jpn.r01	9111161f
+jrp-as3ma-jpn.r02	a061149f
+jrp-as3ma-jpn.r03	92815002
+jrp-as3ma-jpn.r04	c1a72cfa
+jrp-as3ma-jpn.r05	32d7c6fa
+jrp-as3ma-jpn.rar	4fb39e7a
+jrp-as3ma-jpn.sfv	c262ab75

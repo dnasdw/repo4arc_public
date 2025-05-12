@@ -1,0 +1,9 @@
+sxs-haven_v131072.nfo	b6d055b7
+sxs-haven_v131072.r00	639d12a5
+sxs-haven_v131072.r01	be38cd02
+sxs-haven_v131072.r02	6c87a757
+sxs-haven_v131072.r03	d48f2343
+sxs-haven_v131072.r04	955265cb
+sxs-haven_v131072.r05	7f533671
+sxs-haven_v131072.rar	ecb02138
+sxs-haven_v131072.sfv	d4e1ca30

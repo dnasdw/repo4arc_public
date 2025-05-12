@@ -1,0 +1,10 @@
+sxs-dead_cells_v524288.nfo	a76d0ba3
+sxs-dead_cells_v524288.r00	328b280e
+sxs-dead_cells_v524288.r01	72d730e4
+sxs-dead_cells_v524288.r02	5038cf39
+sxs-dead_cells_v524288.r03	812f4c3a
+sxs-dead_cells_v524288.r04	7a2aa2cf
+sxs-dead_cells_v524288.r05	9ea00b13
+sxs-dead_cells_v524288.r06	a97c5e52
+sxs-dead_cells_v524288.rar	540e2319
+sxs-dead_cells_v524288.sfv	d8813fa5

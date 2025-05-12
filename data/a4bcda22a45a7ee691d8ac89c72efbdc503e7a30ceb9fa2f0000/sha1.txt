@@ -1,0 +1,3 @@
+v-gas_guzzlers_extreme_v65536.nfo	be135f44160ceef149507f62a7dacfa061f41c71
+v-gas_guzzlers_extreme_v65536.rar	d1f7157b86149cf4b9b66e88bc4090c5c15c195f
+v-gas_guzzlers_extreme_v65536.sfv	8289daf942f3aef3853b250d486de47f1c3db793

@@ -1,0 +1,11 @@
+sxs-carry_onward.nfo	-	5198	1	0	0	0
+sxs-carry_onward.r00	-	100000000	1	5198	0	1
+sxs-carry_onward.r01	-	100000000	1	100005198	0	97
+sxs-carry_onward.r02	-	100000000	1	200005198	0	193
+sxs-carry_onward.r03	-	100000000	1	300005198	0	289
+sxs-carry_onward.r04	-	100000000	1	400005198	0	385
+sxs-carry_onward.r05	-	100000000	1	500005198	0	481
+sxs-carry_onward.r06	-	100000000	1	62251264	1	60
+sxs-carry_onward.r07	-	83409681	1	162251264	1	156
+sxs-carry_onward.rar	-	100000000	1	245660945	1	236
+sxs-carry_onward.sfv	-	279	1	345660945	1	332

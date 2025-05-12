@@ -1,0 +1,5 @@
+v-sumohd_v65536.nfo	57ac774a
+v-sumohd_v65536.r00	4dc9eade
+v-sumohd_v65536.r01	23633933
+v-sumohd_v65536.rar	3084f48b
+v-sumohd_v65536.sfv	d6b2bcee

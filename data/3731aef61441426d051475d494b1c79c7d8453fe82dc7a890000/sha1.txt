@@ -1,0 +1,14 @@
+n-stormboy.nfo	e8ae8955c5beb878dc80f8220a909204922eff11
+n-stormboy.r00	8060badf74d18d510739773bf04a45c1702be2fc
+n-stormboy.r01	f9fd610b102a2a1ff8ed6d71a70ad8609e0480c5
+n-stormboy.r02	6aa8a21db7e004ba4ac2d7fd56c747a0a3edf4a2
+n-stormboy.r03	c05c256eb28abbf2f0ebbbdccdd3fddca705609b
+n-stormboy.r04	9aa59cdd75046b1e3a8640eef5bc0e4efd890c1c
+n-stormboy.r05	4d467a3ffb2bbe08980a912aa9586288e40f7575
+n-stormboy.r06	10f5dee8fee8339873622044841b4033f986feb4
+n-stormboy.r07	8e32537a0876cb5a631f8346a27172fd4b4ab25b
+n-stormboy.r08	0e33a99d37aa659ea163dddbc8262a54e8ff829b
+n-stormboy.r09	3bbf904a6d9332bc0f07b4b735898601fa3aeecd
+n-stormboy.r10	99190c5a27c9ce9dcf15c1a7e00d44630854f322
+n-stormboy.rar	2aac0919d27abc6d0f35e08355027c89b36f6300
+n-stormboy.sfv	b41b6f86ae81b95e027fb426381e8d32de8739fe

@@ -1,0 +1,15 @@
+lfc-vmjs.nfo	d333edfe40810b27cfc0dcc8b3b5c690
+lfc-vmjs.r00	c4fc827eacd8eeac5767e560352fe28d
+lfc-vmjs.r01	db65b6985f65385a23a822e26046866a
+lfc-vmjs.r02	e4e93050b6406e94a969e750eeddc27b
+lfc-vmjs.r03	c7cb0a81bfbc1de59f7a7ce5d8a268fa
+lfc-vmjs.r04	ed5de59ae2e7d11714863ba0f7f27e60
+lfc-vmjs.r05	6a7c7d1af7b891e6151440fa2d0a90a1
+lfc-vmjs.r06	7c9b637bf494e10ef3f0b28c06a4a978
+lfc-vmjs.r07	cc41222040c7c8ac7c7e11892e07eba5
+lfc-vmjs.r08	bb696524cb65c4bc33edc3f18ae28d43
+lfc-vmjs.r09	22f2eac2083056ceead995aeebb92baa
+lfc-vmjs.r10	22522f6f96b0d4717284b5ec4f6f26f0
+lfc-vmjs.r11	8fe45f538d71fc180d628233f07ebdcb
+lfc-vmjs.rar	d63a1f63f43ec557081c766ea3e5716f
+lfc-vmjs.sfv	ab66cb8275ecf4b0a9ed50458f00e7c0

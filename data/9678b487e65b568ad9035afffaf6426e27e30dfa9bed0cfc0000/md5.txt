@@ -1,0 +1,16 @@
+lfc-farmtogether.nfo	de44ac6c5e0734563b2aba46dec217fc
+lfc-farmtogether.r00	03dc84988e0e934382c01102ed677541
+lfc-farmtogether.r01	4ab59954211056ed77e0d0e393664db3
+lfc-farmtogether.r02	f672a9261842307e8b7ed31caba92b89
+lfc-farmtogether.r03	5f365ea7c1bafd078175d261876c8fc5
+lfc-farmtogether.r04	9034da2db110096d524a69b6b4f6805d
+lfc-farmtogether.r05	f0d27a6c2785b82f30a9b30be66a3862
+lfc-farmtogether.r06	e04eaedc03f1ec4b94ab84b1e73904ba
+lfc-farmtogether.r07	67a450f73074580e5ca3d71ba56d6794
+lfc-farmtogether.r08	00366b43207cb9be9f802957471895bc
+lfc-farmtogether.r09	08b351f64f985b3ebac1a45c427a392f
+lfc-farmtogether.r10	bc86bac5a4b7cb66a6769b94112d13ca
+lfc-farmtogether.r11	dbd6e726197555f80fcd07bb107cbb73
+lfc-farmtogether.r12	c53f9160b048b8ba011f7409dc128550
+lfc-farmtogether.rar	dfa8dd6c9e0a0269aa077648b28c6443
+lfc-farmtogether.sfv	004994e6310d81ef57b2f5ba8be96897

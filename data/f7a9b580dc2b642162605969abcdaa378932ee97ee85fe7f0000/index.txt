@@ -1,0 +1,5 @@
+sxs-dungeons_and_bombs.nfo	-	4730	1	0	0	0
+sxs-dungeons_and_bombs.r00	-	50000000	1	4730	0	1
+sxs-dungeons_and_bombs.r01	-	43778330	1	50004730	0	49
+sxs-dungeons_and_bombs.rar	-	50000000	1	93783060	0	91
+sxs-dungeons_and_bombs.sfv	-	111	1	143783060	0	139

@@ -1,0 +1,10 @@
+lfc-mela_v393216.nfo	5601df53
+lfc-mela_v393216.r00	ebcc6bcd
+lfc-mela_v393216.r01	17b4bff2
+lfc-mela_v393216.r02	e65542e9
+lfc-mela_v393216.r03	8ac7061a
+lfc-mela_v393216.r04	c25d1955
+lfc-mela_v393216.r05	ca9ccd39
+lfc-mela_v393216.r06	fac1d716
+lfc-mela_v393216.rar	91581649
+lfc-mela_v393216.sfv	8e32421b

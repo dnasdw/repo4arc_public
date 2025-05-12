@@ -1,0 +1,5 @@
+sxs-minecraft_legends_v196608.nfo	-	4574	1	0	0	0
+sxs-minecraft_legends_v196608.r00	-	100000000	1	4574	0	1
+sxs-minecraft_legends_v196608.r01	-	67414530	1	100004574	0	97
+sxs-minecraft_legends_v196608.rar	-	100000000	1	167419104	0	162
+sxs-minecraft_legends_v196608.sfv	-	132	1	267419104	0	258

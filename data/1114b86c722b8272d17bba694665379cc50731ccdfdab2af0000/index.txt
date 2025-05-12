@@ -1,0 +1,3 @@
+lfc-rawo.nfo	-	4978	1	0	0	0
+lfc-rawo.rar	-	47171479	1	4978	0	1
+lfc-rawo.sfv	-	23	1	47176457	0	46

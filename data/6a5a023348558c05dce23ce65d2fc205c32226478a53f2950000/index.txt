@@ -1,0 +1,3 @@
+sxs-mushroom_quest.nfo	-	4652	1	0	0	0
+sxs-mushroom_quest.rar	-	42352965	1	4652	0	1
+sxs-mushroom_quest.sfv	-	33	1	42357617	0	42

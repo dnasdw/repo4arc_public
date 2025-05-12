@@ -1,0 +1,3 @@
+sxs-redraptor_v65536.nfo	0e0dfb52063449230f6c92b294e5cb38
+sxs-redraptor_v65536.rar	93c8e2aed548cd3e34b76e96ab9a7d14
+sxs-redraptor_v65536.sfv	362bd6981cc4c906b2d82f496b64b464

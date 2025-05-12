@@ -1,0 +1,4 @@
+sxs-kid_ball_adventure.nfo	8050a242
+sxs-kid_ball_adventure.r00	a0ce2451
+sxs-kid_ball_adventure.rar	4c7b10a8
+sxs-kid_ball_adventure.sfv	4ccc70b3

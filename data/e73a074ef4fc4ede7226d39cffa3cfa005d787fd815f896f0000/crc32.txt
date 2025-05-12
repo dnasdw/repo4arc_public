@@ -1,0 +1,6 @@
+v-demon_pit_v131072.nfo	c1253f0c
+v-demon_pit_v131072.r00	9ed48778
+v-demon_pit_v131072.r01	bf4ac4f9
+v-demon_pit_v131072.r02	6fc5f20d
+v-demon_pit_v131072.rar	80e2f6f9
+v-demon_pit_v131072.sfv	89058127

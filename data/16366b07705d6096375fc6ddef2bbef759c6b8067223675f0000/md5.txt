@@ -1,0 +1,6 @@
+nnssww_devastator.nfo	8d5d3a0452232291182d0e6ce3b4db38
+nnssww_devastator.r00	c39edb72858d12df29e14eab6a752b53
+nnssww_devastator.r01	ad560f2574f3ea1075584cf6db1b9d78
+nnssww_devastator.r02	126922cb6ed95117038825d56c007d76
+nnssww_devastator.rar	07b5d0aa2a5aede501bc075d09151003
+nnssww_devastator.sfv	fd3b337a4ec49979815c297e4c18dbb7

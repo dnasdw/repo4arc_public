@@ -1,0 +1,10 @@
+sxs-lumini_v131072.nfo	3db4ad93
+sxs-lumini_v131072.r00	c30567ba
+sxs-lumini_v131072.r01	b809672e
+sxs-lumini_v131072.r02	a66a7671
+sxs-lumini_v131072.r03	2564d31a
+sxs-lumini_v131072.r04	ede1b62d
+sxs-lumini_v131072.r05	5c03a3bb
+sxs-lumini_v131072.r06	81dfa7fc
+sxs-lumini_v131072.rar	8f0fadfc
+sxs-lumini_v131072.sfv	ee4eea60

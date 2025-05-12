@@ -1,0 +1,7 @@
+v-rainbow_laser_disco_dungeon.nfo	-	6136	1	0	0	0
+v-rainbow_laser_disco_dungeon.r00	-	50000000	1	6136	0	1
+v-rainbow_laser_disco_dungeon.r01	-	50000000	1	50006136	0	49
+v-rainbow_laser_disco_dungeon.r02	-	50000000	1	100006136	0	97
+v-rainbow_laser_disco_dungeon.r03	-	45452331	1	150006136	0	145
+v-rainbow_laser_disco_dungeon.rar	-	50000000	1	195458467	0	189
+v-rainbow_laser_disco_dungeon.sfv	-	220	1	245458467	0	237

@@ -1,0 +1,4 @@
+brw-ffgo.nfo	baf39b66111a3ef7aa082b5839fd1d93
+brw-ffgo.r00	498da76cd6cd11a542d2f852131969fd
+brw-ffgo.rar	7eb50a7ffbd46c1eb426705698a6cfde
+brw-ffgo.sfv	a4ce4f95a73e523d22e5892e4368eb44

@@ -1,0 +1,4 @@
+sxs-pirates_caribbean_chronicles.nfo	-	4262	1	0	0	0
+sxs-pirates_caribbean_chronicles.r00	-	2533293	1	4262	0	1
+sxs-pirates_caribbean_chronicles.rar	-	100000000	1	2537555	0	4
+sxs-pirates_caribbean_chronicles.sfv	-	94	1	102537555	0	100

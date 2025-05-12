@@ -1,0 +1,14 @@
+delight.nfo	ea629157
+dl-darkquest2.r00	57571bee
+dl-darkquest2.r01	52aa66c4
+dl-darkquest2.r02	c6dedd79
+dl-darkquest2.r03	07f996ce
+dl-darkquest2.r04	26bb10a9
+dl-darkquest2.r05	bf9d0582
+dl-darkquest2.r06	5fae7ab8
+dl-darkquest2.r07	f6572d35
+dl-darkquest2.r08	52eb111a
+dl-darkquest2.r09	4b969e10
+dl-darkquest2.r10	00e574f2
+dl-darkquest2.rar	4a5762a2
+dl-darkquest2.sfv	4cb32e2a

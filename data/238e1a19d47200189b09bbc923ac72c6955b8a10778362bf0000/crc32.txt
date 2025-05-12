@@ -1,0 +1,17 @@
+sxs-robo_revenge_squad_v131072.nfo	3ecc4e5d
+sxs-robo_revenge_squad_v131072.r00	78e6fff8
+sxs-robo_revenge_squad_v131072.r01	f6711f65
+sxs-robo_revenge_squad_v131072.r02	06061c8c
+sxs-robo_revenge_squad_v131072.r03	158d69f8
+sxs-robo_revenge_squad_v131072.r04	3be51a8d
+sxs-robo_revenge_squad_v131072.r05	22a2ee5f
+sxs-robo_revenge_squad_v131072.r06	d326cfc5
+sxs-robo_revenge_squad_v131072.r07	a3300b57
+sxs-robo_revenge_squad_v131072.r08	df56670c
+sxs-robo_revenge_squad_v131072.r09	a671d7bd
+sxs-robo_revenge_squad_v131072.r10	5387a7e6
+sxs-robo_revenge_squad_v131072.r11	cc7753d9
+sxs-robo_revenge_squad_v131072.r12	80f62f67
+sxs-robo_revenge_squad_v131072.r13	5617232a
+sxs-robo_revenge_squad_v131072.rar	f3b61819
+sxs-robo_revenge_squad_v131072.sfv	d2b7ffcb

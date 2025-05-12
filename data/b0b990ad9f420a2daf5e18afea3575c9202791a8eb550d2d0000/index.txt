@@ -1,0 +1,13 @@
+v-dcs_justice_league_cosmic_chaos_v196608.nfo	-	5278	1	0	0	0
+v-dcs_justice_league_cosmic_chaos_v196608.r00	-	100000000	1	5278	0	1
+v-dcs_justice_league_cosmic_chaos_v196608.r01	-	100000000	1	100005278	0	97
+v-dcs_justice_league_cosmic_chaos_v196608.r02	-	100000000	1	200005278	0	193
+v-dcs_justice_league_cosmic_chaos_v196608.r03	-	100000000	1	300005278	0	289
+v-dcs_justice_league_cosmic_chaos_v196608.r04	-	100000000	1	400005278	0	385
+v-dcs_justice_league_cosmic_chaos_v196608.r05	-	100000000	1	500005278	0	481
+v-dcs_justice_league_cosmic_chaos_v196608.r06	-	100000000	1	62251264	1	60
+v-dcs_justice_league_cosmic_chaos_v196608.r07	-	100000000	1	162251264	1	156
+v-dcs_justice_league_cosmic_chaos_v196608.r08	-	100000000	1	262251264	1	252
+v-dcs_justice_league_cosmic_chaos_v196608.r09	-	57631977	1	362251264	1	348
+v-dcs_justice_league_cosmic_chaos_v196608.rar	-	100000000	1	419883241	1	403
+v-dcs_justice_league_cosmic_chaos_v196608.sfv	-	616	1	519883241	1	499

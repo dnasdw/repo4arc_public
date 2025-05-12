@@ -1,0 +1,5 @@
+sxs-professor_rubiks_brain_fitness_v65536.nfo	8e2340c5
+sxs-professor_rubiks_brain_fitness_v65536.r00	a7d3ac8f
+sxs-professor_rubiks_brain_fitness_v65536.r01	144bc9e3
+sxs-professor_rubiks_brain_fitness_v65536.rar	3680dc25
+sxs-professor_rubiks_brain_fitness_v65536.sfv	974b59ee

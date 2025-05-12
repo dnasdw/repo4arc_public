@@ -1,0 +1,7 @@
+sxs-badnorth_v393216.nfo	4d8a1a2d
+sxs-badnorth_v393216.r00	68816389
+sxs-badnorth_v393216.r01	ef6ef01d
+sxs-badnorth_v393216.r02	4a513751
+sxs-badnorth_v393216.r03	dc5c06ba
+sxs-badnorth_v393216.rar	4e1f3e73
+sxs-badnorth_v393216.sfv	e24bb160

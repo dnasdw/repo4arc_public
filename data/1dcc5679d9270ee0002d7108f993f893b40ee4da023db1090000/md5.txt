@@ -1,0 +1,7 @@
+sxs-fortress_defense.nfo	0c6e31685db8a57cde742976a79d442c
+sxs-fortress_defense.r00	b723496b632c4ab09c7e37e5b56a4ef7
+sxs-fortress_defense.r01	0d7182de8705f6b66988192a10b1c2a4
+sxs-fortress_defense.r02	a6e96d2c4b0a9a1ba5e21000f545bf1c
+sxs-fortress_defense.r03	cfcb07d4288ca848d4d6bcc2b4add09b
+sxs-fortress_defense.rar	a19157e46498d6540be718e2f8eb6b17
+sxs-fortress_defense.sfv	7cb39a1e53f946f358b45c2cfb910ef3

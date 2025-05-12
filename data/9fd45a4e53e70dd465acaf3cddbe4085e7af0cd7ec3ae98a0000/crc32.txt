@@ -1,0 +1,16 @@
+v-turok_2_seeds_of_evil_v131072.nfo	9582471e
+v-turok_2_seeds_of_evil_v131072.r00	f14694a0
+v-turok_2_seeds_of_evil_v131072.r01	9715cce0
+v-turok_2_seeds_of_evil_v131072.r02	60133746
+v-turok_2_seeds_of_evil_v131072.r03	a29af0bd
+v-turok_2_seeds_of_evil_v131072.r04	d52275ff
+v-turok_2_seeds_of_evil_v131072.r05	b4b21f46
+v-turok_2_seeds_of_evil_v131072.r06	15c932b2
+v-turok_2_seeds_of_evil_v131072.r07	40ab550a
+v-turok_2_seeds_of_evil_v131072.r08	7acd768d
+v-turok_2_seeds_of_evil_v131072.r09	0c9e7de8
+v-turok_2_seeds_of_evil_v131072.r10	79c2320e
+v-turok_2_seeds_of_evil_v131072.r11	917bc8e8
+v-turok_2_seeds_of_evil_v131072.r12	aa11fa6e
+v-turok_2_seeds_of_evil_v131072.rar	0341f7db
+v-turok_2_seeds_of_evil_v131072.sfv	f39562af

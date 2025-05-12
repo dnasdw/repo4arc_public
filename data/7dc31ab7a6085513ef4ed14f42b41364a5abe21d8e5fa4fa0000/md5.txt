@@ -1,0 +1,10 @@
+i-rhsuvn.nfo	5f7c3c31f63eb0fbfd438b84434c9c11
+i-rhsuvn.r00	2a9e8960288d10b3f82e21cb39d77b30
+i-rhsuvn.r01	c18cc3a08d13ea4d0f5db90ed1976e2f
+i-rhsuvn.r02	12babbb163dadfb7c8e002b272eaa611
+i-rhsuvn.r03	d0eecf03957bb828291af6b5d1836fbe
+i-rhsuvn.r04	7253815a3e0ddedcb7341b06f838a2a0
+i-rhsuvn.r05	b362f5a6ee4000b5a1fc2bdaf0c2b72b
+i-rhsuvn.r06	ed2a4cb79afd08fea5e50ff2fbd60f74
+i-rhsuvn.rar	218db1ef4233031749fc01cfb8d2a013
+i-rhsuvn.sfv	3cadede3a8437a25a49be4c34f7fbe64

@@ -1,0 +1,4 @@
+sxs-beefense_beemastered_v65536.nfo	2bb04a51a662a557059db4d626e8fbea
+sxs-beefense_beemastered_v65536.r00	0ce710af871351333415c6c11860bab0
+sxs-beefense_beemastered_v65536.rar	39b68e489adb0c99fbd5bfe784058c33
+sxs-beefense_beemastered_v65536.sfv	7f6921a8c1175f4aa2bb461ab5257a94

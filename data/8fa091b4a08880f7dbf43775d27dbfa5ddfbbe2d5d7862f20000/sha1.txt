@@ -1,0 +1,5 @@
+sxs-the_nom.nfo	b7102c8777f6153a6a302056728dd6916e0df155
+sxs-the_nom.r00	d497fc4c0287c9a1acaf46106b0a00ba4d24eab9
+sxs-the_nom.r01	67b2fe5b0d09ba030656b8e2abfeef9f658815bd
+sxs-the_nom.rar	cb61bd665f56bc999ef56d9851ba538b789a5327
+sxs-the_nom.sfv	661b030968d96787ea037183dccb3b5e57128382

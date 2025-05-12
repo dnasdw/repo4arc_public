@@ -1,0 +1,5 @@
+sxs-snesjp.nfo	c1499fc2a7f3fc95f1526f058acfe833
+sxs-snesjp.r00	415fca8ff1716c6b7bb43126f87ae5c6
+sxs-snesjp.r01	0ee3680e37682a5ae4f1e3d881a36ee1
+sxs-snesjp.rar	fd78fb42184d347bdff921c8c2130878
+sxs-snesjp.sfv	6833f9cd06d663fc47ce930819ec6ff2

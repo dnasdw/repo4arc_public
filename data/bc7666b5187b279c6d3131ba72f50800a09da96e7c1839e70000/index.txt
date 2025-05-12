@@ -1,0 +1,6 @@
+sxs-unlock_the_king.nfo	-	4418	1	0	0	0
+sxs-unlock_the_king.r00	-	50000000	1	4418	0	1
+sxs-unlock_the_king.r01	-	50000000	1	50004418	0	49
+sxs-unlock_the_king.r02	-	25853102	1	100004418	0	97
+sxs-unlock_the_king.rar	-	50000000	1	125857520	0	122
+sxs-unlock_the_king.sfv	-	136	1	175857520	0	170

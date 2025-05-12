@@ -1,0 +1,13 @@
+v-roots_of_pacha.nfo	-	6216	1	0	0	0
+v-roots_of_pacha.r00	-	100000000	1	6216	0	1
+v-roots_of_pacha.r01	-	100000000	1	100006216	0	97
+v-roots_of_pacha.r02	-	100000000	1	200006216	0	193
+v-roots_of_pacha.r03	-	100000000	1	300006216	0	289
+v-roots_of_pacha.r04	-	100000000	1	400006216	0	385
+v-roots_of_pacha.r05	-	100000000	1	500006216	0	481
+v-roots_of_pacha.r06	-	100000000	1	62251264	1	60
+v-roots_of_pacha.r07	-	100000000	1	162251264	1	156
+v-roots_of_pacha.r08	-	100000000	1	262251264	1	252
+v-roots_of_pacha.r09	-	41609533	1	362251264	1	348
+v-roots_of_pacha.rar	-	100000000	1	403860797	1	388
+v-roots_of_pacha.sfv	-	341	1	503860797	1	484

@@ -1,0 +1,3 @@
+v-hogwarts_legacy_dark_arts_pack_dlc.nfo	28c81c2f56e14c5d204d17899c78cbd78d4d3106
+v-hogwarts_legacy_dark_arts_pack_dlc.rar	3510e8691e1fa71ec89063592ec224b75238eab0
+v-hogwarts_legacy_dark_arts_pack_dlc.sfv	fe7264bc98d725c68a22cfaaee3e5cb698f1cb3c

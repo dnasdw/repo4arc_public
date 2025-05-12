@@ -1,0 +1,7 @@
+sxs-pikuniku_v131072.nfo	702ae0a9
+sxs-pikuniku_v131072.r00	5f761154
+sxs-pikuniku_v131072.r01	9e5627d3
+sxs-pikuniku_v131072.r02	00d282ec
+sxs-pikuniku_v131072.r03	cfc2e1de
+sxs-pikuniku_v131072.rar	c65f520d
+sxs-pikuniku_v131072.sfv	203c22a5

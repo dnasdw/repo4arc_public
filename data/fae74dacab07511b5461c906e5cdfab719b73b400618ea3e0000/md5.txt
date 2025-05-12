@@ -1,0 +1,7 @@
+sxs-pikuniku_v131072.nfo	9cb600fe745693b0b00b2fd47ac2f8dc
+sxs-pikuniku_v131072.r00	2c8e2dc01f30ef7107d54c18b246fbe7
+sxs-pikuniku_v131072.r01	437cbad93666017f14de8aad15f40aab
+sxs-pikuniku_v131072.r02	24ba847c68b550c0812f0e3aeb453fa4
+sxs-pikuniku_v131072.r03	456f2fe80b730053babf4479684aa8a2
+sxs-pikuniku_v131072.rar	8a0ac44d169030f28eb79b6fa2822f2b
+sxs-pikuniku_v131072.sfv	9fcc1899891bdb1d09ee5ff3e70a239e

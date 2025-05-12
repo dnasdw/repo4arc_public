@@ -1,0 +1,17 @@
+sxs-my_little_riding_champion_v196608.nfo	ca604651
+sxs-my_little_riding_champion_v196608.r00	ed084ba4
+sxs-my_little_riding_champion_v196608.r01	2d8b1263
+sxs-my_little_riding_champion_v196608.r02	50327295
+sxs-my_little_riding_champion_v196608.r03	1881614a
+sxs-my_little_riding_champion_v196608.r04	50378abd
+sxs-my_little_riding_champion_v196608.r05	3e81819d
+sxs-my_little_riding_champion_v196608.r06	9da1a15f
+sxs-my_little_riding_champion_v196608.r07	f9cdf0a0
+sxs-my_little_riding_champion_v196608.r08	7b1a414d
+sxs-my_little_riding_champion_v196608.r09	d5cc1100
+sxs-my_little_riding_champion_v196608.r10	bc770a53
+sxs-my_little_riding_champion_v196608.r11	caeaa422
+sxs-my_little_riding_champion_v196608.r12	f46a1f76
+sxs-my_little_riding_champion_v196608.r13	2224e056
+sxs-my_little_riding_champion_v196608.rar	24cceed4
+sxs-my_little_riding_champion_v196608.sfv	f0308358

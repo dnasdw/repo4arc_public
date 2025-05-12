@@ -1,0 +1,6 @@
+bbb-h-ad6qb.nfo	-	5517	1	0	0	0
+bbb-h-ad6qb.part01.rar	-	250000000	1	5517	0	1
+bbb-h-ad6qb.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-ad6qb.part03.rar	-	250000000	1	500005517	0	479
+bbb-h-ad6qb.part04.rar	-	233989451	1	212251264	1	203
+bbb-h-ad6qb.sfv	-	132	1	446240715	1	427

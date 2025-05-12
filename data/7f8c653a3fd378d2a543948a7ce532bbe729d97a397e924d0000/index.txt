@@ -1,0 +1,3 @@
+sxs-minecraft_dungeons_hidden_depths_dlc.nfo	-	6836	1	0	0	0
+sxs-minecraft_dungeons_hidden_depths_dlc.rar	-	104129	1	6836	0	1
+sxs-minecraft_dungeons_hidden_depths_dlc.sfv	-	55	1	110965	0	2

@@ -1,0 +1,6 @@
+v-a_jugglers_tale_v131072.nfo	4d835c66
+v-a_jugglers_tale_v131072.r00	7103ba7f
+v-a_jugglers_tale_v131072.r01	2dca2968
+v-a_jugglers_tale_v131072.r02	720b5959
+v-a_jugglers_tale_v131072.rar	191a27f6
+v-a_jugglers_tale_v131072.sfv	c6717d98

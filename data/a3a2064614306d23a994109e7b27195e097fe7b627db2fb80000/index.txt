@@ -1,0 +1,15 @@
+v-radiant_silvergun.nfo	-	7618	1	0	0	0
+v-radiant_silvergun.r00	-	50000000	1	7618	0	1
+v-radiant_silvergun.r01	-	50000000	1	50007618	0	49
+v-radiant_silvergun.r02	-	50000000	1	100007618	0	97
+v-radiant_silvergun.r03	-	50000000	1	150007618	0	145
+v-radiant_silvergun.r04	-	50000000	1	200007618	0	193
+v-radiant_silvergun.r05	-	50000000	1	250007618	0	241
+v-radiant_silvergun.r06	-	50000000	1	300007618	0	289
+v-radiant_silvergun.r07	-	50000000	1	350007618	0	337
+v-radiant_silvergun.r08	-	50000000	1	400007618	0	385
+v-radiant_silvergun.r09	-	50000000	1	450007618	0	433
+v-radiant_silvergun.r10	-	50000000	1	500007618	0	481
+v-radiant_silvergun.r11	-	49202870	1	12251264	1	12
+v-radiant_silvergun.rar	-	50000000	1	61454134	1	59
+v-radiant_silvergun.sfv	-	442	1	111454134	1	107

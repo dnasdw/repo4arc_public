@@ -1,0 +1,6 @@
+sxs-trash_sailors_v65536.nfo	149e02a6e381897a83a47e6566c319c2
+sxs-trash_sailors_v65536.r00	afb9464521162a1516e6ca306d0e3767
+sxs-trash_sailors_v65536.r01	3f47e5701654faa1d4a83b776d8ee2d1
+sxs-trash_sailors_v65536.r02	5fbee0bf7cf78a1017caffc267deb4f4
+sxs-trash_sailors_v65536.rar	cd1df5bb994b0651376a60ac27165a8f
+sxs-trash_sailors_v65536.sfv	64bafd1fc8cf9b30bb92b4c792ac39ff

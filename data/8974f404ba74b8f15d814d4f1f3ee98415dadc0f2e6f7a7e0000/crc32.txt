@@ -1,0 +1,7 @@
+sxs-sausage_wars_v131072.nfo	5baccb32
+sxs-sausage_wars_v131072.r00	464c019a
+sxs-sausage_wars_v131072.r01	63633588
+sxs-sausage_wars_v131072.r02	2f888659
+sxs-sausage_wars_v131072.r03	8d799dfc
+sxs-sausage_wars_v131072.rar	1714c04a
+sxs-sausage_wars_v131072.sfv	6d9b5127

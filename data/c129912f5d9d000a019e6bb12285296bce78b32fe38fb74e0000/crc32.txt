@@ -1,0 +1,9 @@
+v-mario_strikers_battle_league_football_v65536.nfo	a9646efd
+v-mario_strikers_battle_league_football_v65536.r00	d88c9b93
+v-mario_strikers_battle_league_football_v65536.r01	83b8b369
+v-mario_strikers_battle_league_football_v65536.r02	608c84b8
+v-mario_strikers_battle_league_football_v65536.r03	71e31b11
+v-mario_strikers_battle_league_football_v65536.r04	be6edcef
+v-mario_strikers_battle_league_football_v65536.r05	03670a0b
+v-mario_strikers_battle_league_football_v65536.rar	d79c50cf
+v-mario_strikers_battle_league_football_v65536.sfv	436b9229

@@ -1,0 +1,11 @@
+sxs-hike_adventures.nfo	-	5354	1	0	0	0
+sxs-hike_adventures.r00	-	100000000	1	5354	0	1
+sxs-hike_adventures.r01	-	100000000	1	100005354	0	97
+sxs-hike_adventures.r02	-	100000000	1	200005354	0	193
+sxs-hike_adventures.r03	-	100000000	1	300005354	0	289
+sxs-hike_adventures.r04	-	100000000	1	400005354	0	385
+sxs-hike_adventures.r05	-	100000000	1	500005354	0	481
+sxs-hike_adventures.r06	-	100000000	1	62251264	1	60
+sxs-hike_adventures.r07	-	37164	1	162251264	1	156
+sxs-hike_adventures.rar	-	100000000	1	162288428	1	157
+sxs-hike_adventures.sfv	-	306	1	262288428	1	253

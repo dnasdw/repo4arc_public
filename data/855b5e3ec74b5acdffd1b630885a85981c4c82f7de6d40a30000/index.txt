@@ -1,0 +1,4 @@
+lfc-alsi.nfo	-	5793	1	0	0	0
+lfc-alsi.r00	-	7171560	1	5793	0	1
+lfc-alsi.rar	-	50000000	1	7177353	0	8
+lfc-alsi.sfv	-	46	1	57177353	0	56

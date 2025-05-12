@@ -1,0 +1,16 @@
+lfc-chickenrider.nfo	baaf613926203c5b67323791b3f7d032
+lfc-chickenrider.r00	7a228fe0b70cac7d6b577f1b269688cb
+lfc-chickenrider.r01	691b5b4da588194d1371d42cee543ddd
+lfc-chickenrider.r02	30dadc3f0b36cb28516543a274f2a614
+lfc-chickenrider.r03	9f91dfd23d1fa4dff92a54bd19595e3a
+lfc-chickenrider.r04	1c674d83613ffdbe880c7a0a1152b8a9
+lfc-chickenrider.r05	b21729d7c044bc59c330cf58c0fc618f
+lfc-chickenrider.r06	f2e5c11559bde333a81802d12cfa771e
+lfc-chickenrider.r07	f4ea70f058a3d7ae2e89a8d8f823ca40
+lfc-chickenrider.r08	bd51d216b2280f2292caf99f58585cb1
+lfc-chickenrider.r09	441ded8f08b2402f0f3add915fa31ed6
+lfc-chickenrider.r10	b9a8dcc9cdb4e901c423947b7b1b4f1b
+lfc-chickenrider.r11	ad8c4b50580e7cb98887702e646ea17d
+lfc-chickenrider.r12	db23b9aae4025538596421fa9856eeec
+lfc-chickenrider.rar	326413f64b80e4ff3d72886f2ec066d1
+lfc-chickenrider.sfv	e62183206dadc0cee7f5c850a813370e

@@ -1,0 +1,13 @@
+lfc-quarantinecircular.nfo	-	4267	1	0	0	0
+lfc-quarantinecircular.r00	-	100000000	1	4267	0	1
+lfc-quarantinecircular.r01	-	100000000	1	100004267	0	97
+lfc-quarantinecircular.r02	-	100000000	1	200004267	0	193
+lfc-quarantinecircular.r03	-	100000000	1	300004267	0	289
+lfc-quarantinecircular.r04	-	100000000	1	400004267	0	385
+lfc-quarantinecircular.r05	-	100000000	1	500004267	0	481
+lfc-quarantinecircular.r06	-	100000000	1	62251264	1	60
+lfc-quarantinecircular.r07	-	100000000	1	162251264	1	156
+lfc-quarantinecircular.r08	-	100000000	1	262251264	1	252
+lfc-quarantinecircular.r09	-	5552374	1	362251264	1	348
+lfc-quarantinecircular.rar	-	100000000	1	367803638	1	354
+lfc-quarantinecircular.sfv	-	407	1	467803638	1	450

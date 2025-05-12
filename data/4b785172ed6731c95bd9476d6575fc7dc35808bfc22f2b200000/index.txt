@@ -1,0 +1,4 @@
+sxs-crosscode_v327680.nfo	-	6056	1	0	0	0
+sxs-crosscode_v327680.r00	-	20954912	1	6056	0	1
+sxs-crosscode_v327680.rar	-	50000000	1	20960968	0	21
+sxs-crosscode_v327680.sfv	-	72	1	70960968	0	69

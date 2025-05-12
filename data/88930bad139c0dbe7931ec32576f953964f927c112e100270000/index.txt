@@ -1,0 +1,4 @@
+sxs-unmetal_v196608.nfo	-	5822	1	0	0	0
+sxs-unmetal_v196608.r00	-	13376870	1	5822	0	1
+sxs-unmetal_v196608.rar	-	50000000	1	13382692	0	14
+sxs-unmetal_v196608.sfv	-	68	1	63382692	0	62

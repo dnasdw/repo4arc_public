@@ -1,0 +1,6 @@
+sxs-live_factory.nfo	-	4730	1	0	0	0
+sxs-live_factory.r00	-	100000000	1	4730	0	1
+sxs-live_factory.r01	-	100000000	1	100004730	0	97
+sxs-live_factory.r02	-	77562503	1	200004730	0	193
+sxs-live_factory.rar	-	100000000	1	277567233	0	267
+sxs-live_factory.sfv	-	124	1	377567233	0	363

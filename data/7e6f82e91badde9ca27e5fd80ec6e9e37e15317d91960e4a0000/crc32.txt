@@ -1,0 +1,4 @@
+sxs-smd_v655360.nfo	b85af247
+sxs-smd_v655360.r00	fec9694a
+sxs-smd_v655360.rar	83141dcc
+sxs-smd_v655360.sfv	9bcb92cc

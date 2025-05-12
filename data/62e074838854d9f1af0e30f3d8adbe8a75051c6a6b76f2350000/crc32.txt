@@ -1,0 +1,6 @@
+lfc-ghostgrab.nfo	ed1819d1
+lfc-ghostgrab.r00	346b5771
+lfc-ghostgrab.r01	f5a2c082
+lfc-ghostgrab.r02	3f4ba619
+lfc-ghostgrab.rar	7be41390
+lfc-ghostgrab.sfv	a7f209ca

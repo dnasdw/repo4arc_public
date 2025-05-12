@@ -1,0 +1,4 @@
+sxs-cogen_sword_of_rewind_v327680.nfo	-	5822	1	0	0	0
+sxs-cogen_sword_of_rewind_v327680.r00	-	76256020	1	5822	0	1
+sxs-cogen_sword_of_rewind_v327680.rar	-	100000000	1	76261842	0	74
+sxs-cogen_sword_of_rewind_v327680.sfv	-	96	1	176261842	0	170

@@ -1,0 +1,8 @@
+brw-30xx_v196608.nfo	0f4ac99c
+brw-30xx_v196608.r00	ecd7bed1
+brw-30xx_v196608.r01	212dc29b
+brw-30xx_v196608.r02	dcf579e5
+brw-30xx_v196608.r03	25a0d95a
+brw-30xx_v196608.r04	ef46f7f9
+brw-30xx_v196608.rar	371286ff
+brw-30xx_v196608.sfv	cda57346

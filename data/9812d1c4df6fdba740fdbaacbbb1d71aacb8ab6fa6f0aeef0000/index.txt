@@ -1,0 +1,15 @@
+v-monster_loves_you_too.nfo	-	4186	1	0	0	0
+v-monster_loves_you_too.r00	-	100000000	1	4186	0	1
+v-monster_loves_you_too.r01	-	100000000	1	100004186	0	97
+v-monster_loves_you_too.r02	-	100000000	1	200004186	0	193
+v-monster_loves_you_too.r03	-	100000000	1	300004186	0	289
+v-monster_loves_you_too.r04	-	100000000	1	400004186	0	385
+v-monster_loves_you_too.r05	-	100000000	1	500004186	0	481
+v-monster_loves_you_too.r06	-	100000000	1	62251264	1	60
+v-monster_loves_you_too.r07	-	100000000	1	162251264	1	156
+v-monster_loves_you_too.r08	-	100000000	1	262251264	1	252
+v-monster_loves_you_too.r09	-	100000000	1	362251264	1	348
+v-monster_loves_you_too.r10	-	100000000	1	462251264	1	444
+v-monster_loves_you_too.r11	-	1985767	1	24502528	2	24
+v-monster_loves_you_too.rar	-	100000000	1	26488295	2	26
+v-monster_loves_you_too.sfv	-	494	1	126488295	2	122

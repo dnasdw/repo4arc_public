@@ -1,0 +1,3 @@
+sxs-minecraft_dungeons_hero_dlc.nfo	5d31def5836c28215466ad7d472e3e35342bbd29
+sxs-minecraft_dungeons_hero_dlc.rar	8acfd98f7cbe632eefe87d550396bd10482126aa
+sxs-minecraft_dungeons_hero_dlc.sfv	7dec53f17e92b2c707a2ae06be195b12e2545b11

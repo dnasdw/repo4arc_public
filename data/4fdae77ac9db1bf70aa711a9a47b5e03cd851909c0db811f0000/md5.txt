@@ -1,0 +1,6 @@
+v-picross_s3_v327680.nfo	b99a6531e1022d6dc2d041da038a53f6
+v-picross_s3_v327680.r00	1cb9f48289f1d11e02fee3e4b8684579
+v-picross_s3_v327680.r01	185d79c9e658dddd58aad89aed70daf9
+v-picross_s3_v327680.r02	30d4240f129d8a99ed6f9b2621923867
+v-picross_s3_v327680.rar	db990c022801fdad7d7f9190c50c9cdf
+v-picross_s3_v327680.sfv	a5ba25eaa1665bc219edebeabefe4eab

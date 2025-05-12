@@ -1,0 +1,11 @@
+sxs-rogue_trooper_redux_v65536.nfo	-	5510	1	0	0	0
+sxs-rogue_trooper_redux_v65536.r00	-	100000000	1	5510	0	1
+sxs-rogue_trooper_redux_v65536.r01	-	100000000	1	100005510	0	97
+sxs-rogue_trooper_redux_v65536.r02	-	100000000	1	200005510	0	193
+sxs-rogue_trooper_redux_v65536.r03	-	100000000	1	300005510	0	289
+sxs-rogue_trooper_redux_v65536.r04	-	100000000	1	400005510	0	385
+sxs-rogue_trooper_redux_v65536.r05	-	100000000	1	500005510	0	481
+sxs-rogue_trooper_redux_v65536.r06	-	100000000	1	62251264	1	60
+sxs-rogue_trooper_redux_v65536.r07	-	2543919	1	162251264	1	156
+sxs-rogue_trooper_redux_v65536.rar	-	100000000	1	164795183	1	159
+sxs-rogue_trooper_redux_v65536.sfv	-	405	1	264795183	1	255

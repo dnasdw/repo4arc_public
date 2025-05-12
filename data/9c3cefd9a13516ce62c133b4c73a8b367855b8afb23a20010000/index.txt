@@ -1,0 +1,11 @@
+bbb-n-akqya.nfo	-	5517	1	0	0	0
+bbb-n-akqya.part01.rar	-	250000000	1	5517	0	1
+bbb-n-akqya.part02.rar	-	250000000	1	250005517	0	240
+bbb-n-akqya.part03.rar	-	250000000	1	500005517	0	479
+bbb-n-akqya.part04.rar	-	250000000	1	212251264	1	203
+bbb-n-akqya.part05.rar	-	250000000	1	462251264	1	442
+bbb-n-akqya.part06.rar	-	250000000	1	174502528	2	167
+bbb-n-akqya.part07.rar	-	250000000	1	424502528	2	406
+bbb-n-akqya.part08.rar	-	250000000	1	136753792	3	131
+bbb-n-akqya.part09.rar	-	232628405	1	386753792	3	370
+bbb-n-akqya.sfv	-	297	1	81633461	4	78

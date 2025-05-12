@@ -1,0 +1,4 @@
+sxs-hammerwatch_v458752.nfo	-	6524	1	0	0	0
+sxs-hammerwatch_v458752.r00	-	27113058	1	6524	0	1
+sxs-hammerwatch_v458752.rar	-	50000000	1	27119582	0	27
+sxs-hammerwatch_v458752.sfv	-	76	1	77119582	0	75

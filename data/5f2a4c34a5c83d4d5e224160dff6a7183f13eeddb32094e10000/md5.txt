@@ -1,0 +1,12 @@
+lfc-unicornicopia.nfo	88108d6023bad80e7a4b402593d8664b
+lfc-unicornicopia.r00	8994be81ea3f0d2e1f63cf62861aa0fe
+lfc-unicornicopia.r01	35b704fa9e274357abcbaaa0771e3f61
+lfc-unicornicopia.r02	5dbf387fc46671124d956ef8be7ddfc2
+lfc-unicornicopia.r03	d180703d190910cf6fa18170fb7f46a4
+lfc-unicornicopia.r04	15b2c21c377d3a7c9acaf77c76557259
+lfc-unicornicopia.r05	f786de3d5f89e7fcd4913f2c5d71cec0
+lfc-unicornicopia.r06	e7b321911b619fa5d9e641376cc9c23c
+lfc-unicornicopia.r07	83ea33a56dd071f0b40094b75e504a2a
+lfc-unicornicopia.r08	12dd15d1fb9e72c010637220436d1e5e
+lfc-unicornicopia.rar	6ef3a498e74dc378364f3f7d696ef493
+lfc-unicornicopia.sfv	df486bf03d48e7886e42df3376c3cbc8

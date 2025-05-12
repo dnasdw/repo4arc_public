@@ -1,0 +1,8 @@
+v-paperbound_brawlers.nfo	5dbc7729a2105ee9c961e3fb006804ca
+v-paperbound_brawlers.r00	986304c2bf10cc67053e13e67d67a336
+v-paperbound_brawlers.r01	e0a569d6175ce2330308bb34b0ee7630
+v-paperbound_brawlers.r02	d8700ac1d87d832f8d2b4da0e072166c
+v-paperbound_brawlers.r03	9d81df5bff13993d3d94a49894c708a8
+v-paperbound_brawlers.r04	5017e791872d2582638556e752d982db
+v-paperbound_brawlers.rar	03ae2ad0b8a547f02d997db33942f06c
+v-paperbound_brawlers.sfv	e817cc28b15ba6371f780ba688fbc86a

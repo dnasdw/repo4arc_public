@@ -1,0 +1,15 @@
+n-littleracer.nfo	412442cb
+n-littleracer.r00	0d96fa42
+n-littleracer.r01	c4a4f9dd
+n-littleracer.r02	3f1e5719
+n-littleracer.r03	f400b417
+n-littleracer.r04	cc42d226
+n-littleracer.r05	c679d07d
+n-littleracer.r06	5700e8e6
+n-littleracer.r07	800e0f7e
+n-littleracer.r08	eba626cd
+n-littleracer.r09	7fa9f25c
+n-littleracer.r10	4af7c1f6
+n-littleracer.r11	4d64b2a6
+n-littleracer.rar	c98220bc
+n-littleracer.sfv	60942669

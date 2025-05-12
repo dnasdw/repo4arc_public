@@ -1,0 +1,5 @@
+v-fate_samurai_remnant_v524288.nfo	1b08aca1
+v-fate_samurai_remnant_v524288.r00	51b44634
+v-fate_samurai_remnant_v524288.r01	dcde8396
+v-fate_samurai_remnant_v524288.rar	8cee7eea
+v-fate_samurai_remnant_v524288.sfv	db0e6711

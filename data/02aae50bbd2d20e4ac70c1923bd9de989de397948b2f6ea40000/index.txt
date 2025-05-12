@@ -1,0 +1,5 @@
+sxs-cubicban.nfo	-	4340	1	0	0	0
+sxs-cubicban.r00	-	50000000	1	4340	0	1
+sxs-cubicban.r01	-	8746100	1	50004340	0	49
+sxs-cubicban.rar	-	50000000	1	58750440	0	58
+sxs-cubicban.sfv	-	81	1	108750440	0	106

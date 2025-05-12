@@ -1,0 +1,10 @@
+sxs-bamerang.nfo	3d04cadcefd9e279a7861fdd5f1f6a43
+sxs-bamerang.r00	f490688555c3fa1dddf8f320deec3b5f
+sxs-bamerang.r01	f0d93d23c44dcedfa3379875d02bf107
+sxs-bamerang.r02	cb22467fd59d8797b892d7f86fac3e7e
+sxs-bamerang.r03	f3c128658fcd479e4e6673e94eeaba3c
+sxs-bamerang.r04	301acc2c6d1f3fb95ce48063b39c5263
+sxs-bamerang.r05	3b3e62731aad258a8ae75666a292812b
+sxs-bamerang.r06	e8d9ff8d87f54a072fbd8ac7803e6893
+sxs-bamerang.rar	0aaf6813237e9e4ea37dda5422cf4857
+sxs-bamerang.sfv	5d1d66a7d148b639b1377fedf74224f3

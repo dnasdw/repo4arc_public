@@ -1,0 +1,5 @@
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_v131072.nfo	-	6524	1	0	0	0
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_v131072.r00	-	100000000	1	6524	0	1
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_v131072.r01	-	21877848	1	100006524	0	97
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_v131072.rar	-	100000000	1	121884372	0	118
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_v131072.sfv	-	207	1	221884372	0	214

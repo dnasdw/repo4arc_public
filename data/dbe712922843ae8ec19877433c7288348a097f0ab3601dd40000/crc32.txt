@@ -1,0 +1,9 @@
+v-chained_echoes_v524288.nfo	2b1a31da
+v-chained_echoes_v524288.r00	03b2c892
+v-chained_echoes_v524288.r01	2f4bd610
+v-chained_echoes_v524288.r02	eb493878
+v-chained_echoes_v524288.r03	020b0e88
+v-chained_echoes_v524288.r04	10ff6717
+v-chained_echoes_v524288.r05	3dfcab42
+v-chained_echoes_v524288.rar	95baaf79
+v-chained_echoes_v524288.sfv	7c540177

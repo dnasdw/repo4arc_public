@@ -1,0 +1,5 @@
+sxs-food_truck_tycoon_v393216.nfo	-	5432	1	0	0	0
+sxs-food_truck_tycoon_v393216.r00	-	100000000	1	5432	0	1
+sxs-food_truck_tycoon_v393216.r01	-	23113034	1	100005432	0	97
+sxs-food_truck_tycoon_v393216.rar	-	100000000	1	123118466	0	120
+sxs-food_truck_tycoon_v393216.sfv	-	132	1	223118466	0	216

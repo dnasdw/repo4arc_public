@@ -1,0 +1,4 @@
+v-granada.nfo	2532449fd606e289dce65adc4373618e4adc2376
+v-granada.r00	99bcb63a8d212903628088e06950c9ccedb7243d
+v-granada.rar	997b03ac47f0f7e73e33adbc7668ac16ee49af77
+v-granada.sfv	e72b468eb1f83b98a70dda5493d799ef6166bbea

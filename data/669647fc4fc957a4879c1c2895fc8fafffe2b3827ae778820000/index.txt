@@ -1,0 +1,10 @@
+sxs-bittrip_presents_runner2_future_legend_of_rhythm_alien.nfo	-	4418	1	0	0	0
+sxs-bittrip_presents_runner2_future_legend_of_rhythm_alien.r00	-	100000000	1	4418	0	1
+sxs-bittrip_presents_runner2_future_legend_of_rhythm_alien.r01	-	100000000	1	100004418	0	97
+sxs-bittrip_presents_runner2_future_legend_of_rhythm_alien.r02	-	100000000	1	200004418	0	193
+sxs-bittrip_presents_runner2_future_legend_of_rhythm_alien.r03	-	100000000	1	300004418	0	289
+sxs-bittrip_presents_runner2_future_legend_of_rhythm_alien.r04	-	100000000	1	400004418	0	385
+sxs-bittrip_presents_runner2_future_legend_of_rhythm_alien.r05	-	100000000	1	500004418	0	481
+sxs-bittrip_presents_runner2_future_legend_of_rhythm_alien.r06	-	4689157	1	62251264	1	60
+sxs-bittrip_presents_runner2_future_legend_of_rhythm_alien.rar	-	100000000	1	66940421	1	65
+sxs-bittrip_presents_runner2_future_legend_of_rhythm_alien.sfv	-	584	1	166940421	1	161

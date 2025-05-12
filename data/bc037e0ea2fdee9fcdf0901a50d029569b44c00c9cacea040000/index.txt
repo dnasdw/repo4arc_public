@@ -1,0 +1,6 @@
+v-cannibal_abduction.nfo	-	6917	1	0	0	0
+v-cannibal_abduction.r00	-	100000000	1	6917	0	1
+v-cannibal_abduction.r01	-	100000000	1	100006917	0	97
+v-cannibal_abduction.r02	-	2958943	1	200006917	0	193
+v-cannibal_abduction.rar	-	100000000	1	202965860	0	196
+v-cannibal_abduction.sfv	-	140	1	302965860	0	292

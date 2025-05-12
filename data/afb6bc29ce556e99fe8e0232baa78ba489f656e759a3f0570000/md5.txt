@@ -1,0 +1,6 @@
+v-a_highland_song_v196608.nfo	9b1cf0167c9d2cd6ddf29cceda8a33f7
+v-a_highland_song_v196608.r00	b25112cda8941c1276cde6065fa5bc4d
+v-a_highland_song_v196608.r01	f6c78d65609343afee3ed15fc0602e99
+v-a_highland_song_v196608.r02	dd815f1b5b3f66045797ff91f1ebb0ff
+v-a_highland_song_v196608.rar	7dda9d9ae22ea10874cfebfcaa83142b
+v-a_highland_song_v196608.sfv	030992f57fbb139353432aebf2db82a6

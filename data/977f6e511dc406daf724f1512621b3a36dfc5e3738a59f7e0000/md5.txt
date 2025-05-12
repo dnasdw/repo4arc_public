@@ -1,0 +1,3 @@
+sxs-namcot_collection_v65536.nfo	6cf4f60df2223574e9a696948c636f10
+sxs-namcot_collection_v65536.rar	b79fea2763e3ad5e4805363a45cacb97
+sxs-namcot_collection_v65536.sfv	da2de84637c87789f10ef7c0d5a6ad5f

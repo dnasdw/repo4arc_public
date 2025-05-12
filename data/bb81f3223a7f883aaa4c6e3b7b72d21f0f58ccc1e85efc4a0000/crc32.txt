@@ -1,0 +1,5 @@
+sxs-mario_party_superstars_v65536.nfo	abccfae8
+sxs-mario_party_superstars_v65536.r00	bbc7bbeb
+sxs-mario_party_superstars_v65536.r01	b767f11c
+sxs-mario_party_superstars_v65536.rar	8dfaea3d
+sxs-mario_party_superstars_v65536.sfv	d8ff7ebe

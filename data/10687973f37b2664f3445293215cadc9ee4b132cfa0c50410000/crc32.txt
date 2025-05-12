@@ -1,0 +1,11 @@
+sxs-among_us_v2162688.nfo	867d13c0
+sxs-among_us_v2162688.r00	cdaf215e
+sxs-among_us_v2162688.r01	10353617
+sxs-among_us_v2162688.r02	8269062c
+sxs-among_us_v2162688.r03	ded3bc2c
+sxs-among_us_v2162688.r04	3926e8f3
+sxs-among_us_v2162688.r05	27afaf4e
+sxs-among_us_v2162688.r06	964f1048
+sxs-among_us_v2162688.r07	c85292ea
+sxs-among_us_v2162688.rar	1b5d6e4c
+sxs-among_us_v2162688.sfv	5b8da859

@@ -1,0 +1,5 @@
+sxs-labyrinth_of_refrain_coven_of_dusk_v196608.nfo	-	4262	1	0	0	0
+sxs-labyrinth_of_refrain_coven_of_dusk_v196608.r00	-	50000000	1	4262	0	1
+sxs-labyrinth_of_refrain_coven_of_dusk_v196608.r01	-	657266	1	50004262	0	49
+sxs-labyrinth_of_refrain_coven_of_dusk_v196608.rar	-	50000000	1	50661528	0	50
+sxs-labyrinth_of_refrain_coven_of_dusk_v196608.sfv	-	183	1	100661528	0	98

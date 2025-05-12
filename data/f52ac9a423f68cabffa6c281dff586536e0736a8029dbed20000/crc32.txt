@@ -1,0 +1,5 @@
+sxs-nes_v1900544.nfo	abeefa74
+sxs-nes_v1900544.r00	e3e04386
+sxs-nes_v1900544.r01	48d91d4c
+sxs-nes_v1900544.rar	848f0d60
+sxs-nes_v1900544.sfv	aef7a68a

@@ -1,0 +1,9 @@
+sxs-checkers_for_kids.nfo	ea88599f2bf43ba6969545f811f33ec4
+sxs-checkers_for_kids.r00	90d85a317b2ca891c8d2da04803a9de9
+sxs-checkers_for_kids.r01	0fdd5bbf073ea6b0b463a2289cf1d66c
+sxs-checkers_for_kids.r02	5070b6d326d6a9023a76195e06dbcbae
+sxs-checkers_for_kids.r03	7de16b3aff1aab3aa64e3f70b1c8cdd8
+sxs-checkers_for_kids.r04	7ba6d68b6d97f4143de58a2859e82567
+sxs-checkers_for_kids.r05	f0b7224361cc1473c505afae68d6b83d
+sxs-checkers_for_kids.rar	056b5cd9d987cdc27453ffc54a35b7a9
+sxs-checkers_for_kids.sfv	1333467420d3d5d6f9e01f4a6df1a2cf

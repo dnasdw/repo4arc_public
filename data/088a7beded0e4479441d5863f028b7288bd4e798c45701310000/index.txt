@@ -1,0 +1,4 @@
+sxs-steel_assault_v65536.nfo	-	3794	1	0	0	0
+sxs-steel_assault_v65536.r00	-	6705342	1	3794	0	1
+sxs-steel_assault_v65536.rar	-	50000000	1	6709136	0	8
+sxs-steel_assault_v65536.sfv	-	78	1	56709136	0	56

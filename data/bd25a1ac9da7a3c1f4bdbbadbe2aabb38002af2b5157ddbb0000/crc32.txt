@@ -1,0 +1,9 @@
+v-demon_pit.nfo	d708f210
+v-demon_pit.r00	f723d323
+v-demon_pit.r01	567a21fa
+v-demon_pit.r02	08aec2e3
+v-demon_pit.r03	d5cfcf6f
+v-demon_pit.r04	78d8248d
+v-demon_pit.r05	43900ddc
+v-demon_pit.rar	a6329966
+v-demon_pit.sfv	3e4f9b7d

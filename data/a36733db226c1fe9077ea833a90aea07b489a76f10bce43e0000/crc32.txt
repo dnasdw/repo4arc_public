@@ -1,0 +1,4 @@
+lfc-vogo.nfo	e5800951
+lfc-vogo.r00	67dd8348
+lfc-vogo.rar	36c3564a
+lfc-vogo.sfv	0db5c2c7

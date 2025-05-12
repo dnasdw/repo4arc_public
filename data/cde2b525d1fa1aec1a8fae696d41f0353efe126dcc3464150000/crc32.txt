@@ -1,0 +1,9 @@
+sxs-z_warp.nfo	54c27756
+sxs-z_warp.r00	3e61e04d
+sxs-z_warp.r01	f9523bfc
+sxs-z_warp.r02	8b34ff27
+sxs-z_warp.r03	8b911b31
+sxs-z_warp.r04	d508776d
+sxs-z_warp.r05	58e7d3e2
+sxs-z_warp.rar	f3b8f8ee
+sxs-z_warp.sfv	c270d19c

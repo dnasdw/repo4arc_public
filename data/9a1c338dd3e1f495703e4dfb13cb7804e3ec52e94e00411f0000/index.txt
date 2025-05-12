@@ -1,0 +1,12 @@
+sxs-gi_joe_operation_blackout_v327680.nfo	-	5198	1	0	0	0
+sxs-gi_joe_operation_blackout_v327680.r00	-	50000000	1	5198	0	1
+sxs-gi_joe_operation_blackout_v327680.r01	-	50000000	1	50005198	0	49
+sxs-gi_joe_operation_blackout_v327680.r02	-	50000000	1	100005198	0	97
+sxs-gi_joe_operation_blackout_v327680.r03	-	50000000	1	150005198	0	145
+sxs-gi_joe_operation_blackout_v327680.r04	-	50000000	1	200005198	0	193
+sxs-gi_joe_operation_blackout_v327680.r05	-	50000000	1	250005198	0	241
+sxs-gi_joe_operation_blackout_v327680.r06	-	50000000	1	300005198	0	289
+sxs-gi_joe_operation_blackout_v327680.r07	-	50000000	1	350005198	0	337
+sxs-gi_joe_operation_blackout_v327680.r08	-	32354893	1	400005198	0	385
+sxs-gi_joe_operation_blackout_v327680.rar	-	50000000	1	432360091	0	416
+sxs-gi_joe_operation_blackout_v327680.sfv	-	520	1	482360091	0	464

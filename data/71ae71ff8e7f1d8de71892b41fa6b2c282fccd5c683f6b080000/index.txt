@@ -1,0 +1,4 @@
+brw-btel.nfo	-	3749	1	0	0	0
+brw-btel.r00	-	202642	1	3749	0	1
+brw-btel.rar	-	50000000	1	206391	0	2
+brw-btel.sfv	-	46	1	50206391	0	50

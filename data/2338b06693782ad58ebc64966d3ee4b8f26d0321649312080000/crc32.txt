@@ -1,0 +1,13 @@
+v-spopar_v196608.nfo	90936c89
+v-spopar_v196608.r00	cb4faac1
+v-spopar_v196608.r01	df369196
+v-spopar_v196608.r02	9810b8ab
+v-spopar_v196608.r03	5f3ddc29
+v-spopar_v196608.r04	7b6e7ac1
+v-spopar_v196608.r05	1a90125b
+v-spopar_v196608.r06	729704ce
+v-spopar_v196608.r07	c22d12fd
+v-spopar_v196608.r08	be75b3ff
+v-spopar_v196608.r09	ff4af6fc
+v-spopar_v196608.rar	b9895e18
+v-spopar_v196608.sfv	1c459405

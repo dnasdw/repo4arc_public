@@ -1,0 +1,3 @@
+sxs-snowrunner_dlc.nfo	cd06fe48ab878544bda771c284d5d90c
+sxs-snowrunner_dlc.rar	18071208fa88837ce6191230e479e573
+sxs-snowrunner_dlc.sfv	e4862cd8bbd6774fac5f57305c0ab611

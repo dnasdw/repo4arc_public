@@ -1,0 +1,17 @@
+v-vaporum_v131072.nfo	94f365f4
+v-vaporum_v131072.r00	b1b4e73e
+v-vaporum_v131072.r01	7326007e
+v-vaporum_v131072.r02	cf9e352f
+v-vaporum_v131072.r03	3e02f54d
+v-vaporum_v131072.r04	948c30fa
+v-vaporum_v131072.r05	bdd597b7
+v-vaporum_v131072.r06	330d492d
+v-vaporum_v131072.r07	39d624b5
+v-vaporum_v131072.r08	039c1100
+v-vaporum_v131072.r09	495075fd
+v-vaporum_v131072.r10	1f8165cc
+v-vaporum_v131072.r11	13eb247f
+v-vaporum_v131072.r12	f385fd97
+v-vaporum_v131072.r13	e307386a
+v-vaporum_v131072.rar	9c574ac1
+v-vaporum_v131072.sfv	d0277cb7

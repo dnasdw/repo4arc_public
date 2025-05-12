@@ -1,0 +1,6 @@
+sxs-pba_pro_bowling_2021_v196608.nfo	-	5666	1	0	0	0
+sxs-pba_pro_bowling_2021_v196608.r00	-	50000000	1	5666	0	1
+sxs-pba_pro_bowling_2021_v196608.r01	-	50000000	1	50005666	0	49
+sxs-pba_pro_bowling_2021_v196608.r02	-	45413678	1	100005666	0	97
+sxs-pba_pro_bowling_2021_v196608.rar	-	50000000	1	145419344	0	141
+sxs-pba_pro_bowling_2021_v196608.sfv	-	188	1	195419344	0	189

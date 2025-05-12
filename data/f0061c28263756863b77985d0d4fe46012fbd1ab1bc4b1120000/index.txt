@@ -1,0 +1,3 @@
+sxs-azure_striker_gunvolt_3_ex_image_pulses_stratos_and_ghauri_dlc.nfo	-	7928	1	0	0	0
+sxs-azure_striker_gunvolt_3_ex_image_pulses_stratos_and_ghauri_dlc.rar	-	9706971	1	7928	0	1
+sxs-azure_striker_gunvolt_3_ex_image_pulses_stratos_and_ghauri_dlc.sfv	-	81	1	9714899	0	11

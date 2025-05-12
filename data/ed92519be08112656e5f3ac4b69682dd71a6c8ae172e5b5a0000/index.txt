@@ -1,0 +1,7 @@
+sxs-defentron.nfo	-	4652	1	0	0	0
+sxs-defentron.r00	-	50000000	1	4652	0	1
+sxs-defentron.r01	-	50000000	1	50004652	0	49
+sxs-defentron.r02	-	50000000	1	100004652	0	97
+sxs-defentron.r03	-	39789461	1	150004652	0	145
+sxs-defentron.rar	-	50000000	1	189794113	0	183
+sxs-defentron.sfv	-	140	1	239794113	0	231

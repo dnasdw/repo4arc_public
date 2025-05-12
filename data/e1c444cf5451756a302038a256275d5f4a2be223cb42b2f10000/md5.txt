@@ -1,0 +1,7 @@
+v-risk_of_rain_returns.nfo	fae14a6a1afae9823d6f2cc7353e2d8a
+v-risk_of_rain_returns.r00	a0a4c054e99be7e297b7764a2b21ffd7
+v-risk_of_rain_returns.r01	a03ce23c30b016eb2f1464a3bc1771ae
+v-risk_of_rain_returns.r02	747cba2481380581ef8c3a33a5621223
+v-risk_of_rain_returns.r03	e13609493c2e2fe36940a1054eb6821a
+v-risk_of_rain_returns.rar	e63b15bf1211a4b295f293c6ead11f8b
+v-risk_of_rain_returns.sfv	8bf428afb5d3e3e0d4c31284578c3f46

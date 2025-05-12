@@ -1,0 +1,4 @@
+sxs-unpacking_v327680.nfo	-	5276	1	0	0	0
+sxs-unpacking_v327680.r00	-	69621658	1	5276	0	1
+sxs-unpacking_v327680.rar	-	100000000	1	69626934	0	68
+sxs-unpacking_v327680.sfv	-	72	1	169626934	0	164

@@ -1,0 +1,6 @@
+sxs-graviter.nfo	ad40626b7e799cb7a054e23e6e3bf849
+sxs-graviter.r00	14546ec7b17623208f25a77973a528b4
+sxs-graviter.r01	2b91cfa100f710a8ac7cfa0512a3beb2
+sxs-graviter.r02	be393e087fa3947da18b4499aa37f4d1
+sxs-graviter.rar	9f51ba5c56a5993a70bfb5e070da9e68
+sxs-graviter.sfv	8a100d217a2c8065928d7135fc7b7e45

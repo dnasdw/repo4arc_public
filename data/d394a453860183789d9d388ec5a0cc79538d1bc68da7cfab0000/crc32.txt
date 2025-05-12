@@ -1,0 +1,17 @@
+hr-aslnav102.nfo	e1dfb218
+hr-aslnav102.r00	03e9ddd4
+hr-aslnav102.r01	c052e691
+hr-aslnav102.r02	6ec40e5d
+hr-aslnav102.r03	2e2697ac
+hr-aslnav102.r04	7b9cca15
+hr-aslnav102.r05	4c9e35d6
+hr-aslnav102.r06	05e7ea2d
+hr-aslnav102.r07	1316f6df
+hr-aslnav102.r08	c5c313c8
+hr-aslnav102.r09	813c6a0c
+hr-aslnav102.r10	6c82d941
+hr-aslnav102.r11	4c4b259a
+hr-aslnav102.r12	aeccffdf
+hr-aslnav102.r13	9221b5ff
+hr-aslnav102.rar	1e71faa0
+hr-aslnav102.sfv	9ada1d2a

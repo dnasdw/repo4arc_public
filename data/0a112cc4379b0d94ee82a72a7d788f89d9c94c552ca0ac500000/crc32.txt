@@ -1,0 +1,9 @@
+v-ufouria_2_the_saga.nfo	701dc2bc
+v-ufouria_2_the_saga.r00	0cbaf5f3
+v-ufouria_2_the_saga.r01	1f60e84c
+v-ufouria_2_the_saga.r02	807a4035
+v-ufouria_2_the_saga.r03	5cdff287
+v-ufouria_2_the_saga.r04	eaea3062
+v-ufouria_2_the_saga.r05	4cdaf8de
+v-ufouria_2_the_saga.rar	34db1b14
+v-ufouria_2_the_saga.sfv	a2d9c5d7

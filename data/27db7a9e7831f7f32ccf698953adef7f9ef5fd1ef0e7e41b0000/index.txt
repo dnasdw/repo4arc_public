@@ -1,0 +1,6 @@
+v-persona_5_tactica_v196608.nfo	-	5902	1	0	0	0
+v-persona_5_tactica_v196608.r00	-	100000000	1	5902	0	1
+v-persona_5_tactica_v196608.r01	-	100000000	1	100005902	0	97
+v-persona_5_tactica_v196608.r02	-	16356477	1	200005902	0	193
+v-persona_5_tactica_v196608.rar	-	100000000	1	216362379	0	209
+v-persona_5_tactica_v196608.sfv	-	168	1	316362379	0	305

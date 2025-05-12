@@ -1,0 +1,5 @@
+sxs-my_child_lebensborn_remastered.nfo	05e84f1a
+sxs-my_child_lebensborn_remastered.r00	0f4c0345
+sxs-my_child_lebensborn_remastered.r01	c35769a5
+sxs-my_child_lebensborn_remastered.rar	bda4ab01
+sxs-my_child_lebensborn_remastered.sfv	1b88ea2b

@@ -1,0 +1,13 @@
+hr-bb6uav65536.nfo	f82b3f0f
+hr-bb6uav65536.r00	04cd1063
+hr-bb6uav65536.r01	b23a85f8
+hr-bb6uav65536.r02	29b11417
+hr-bb6uav65536.r03	739fb330
+hr-bb6uav65536.r04	1b9d3ee0
+hr-bb6uav65536.r05	4c7671af
+hr-bb6uav65536.r06	0e290265
+hr-bb6uav65536.r07	e18e4058
+hr-bb6uav65536.r08	71534e0e
+hr-bb6uav65536.r09	99d733c8
+hr-bb6uav65536.rar	b48d37ba
+hr-bb6uav65536.sfv	081cd309

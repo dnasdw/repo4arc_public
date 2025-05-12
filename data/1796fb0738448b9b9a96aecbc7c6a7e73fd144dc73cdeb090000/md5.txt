@@ -1,0 +1,3 @@
+v-lang12_bgm_dlc.nfo	eaf4ea5631a67a1a7fd4c5275f771677
+v-lang12_bgm_dlc.rar	8fd1cac42c2e32efb89b81fec3c89899
+v-lang12_bgm_dlc.sfv	beed01d54c7af02a8adffb4d32985981

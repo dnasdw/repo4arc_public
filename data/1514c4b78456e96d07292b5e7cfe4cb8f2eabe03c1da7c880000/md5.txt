@@ -1,0 +1,3 @@
+lfc-indiecalypse.r29	5a9f642acb3287be32f4ef37c7ef5cbc
+lfc-indiecalypse_rarfix.nfo	e17b57cf254d1839a59b18affd501fc7
+lfc-indiecalypse_rarfix.sfv	e24a3d1196e333a2a11da23afd8d62ab

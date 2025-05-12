@@ -1,0 +1,3 @@
+sxs-minecraft_dungeons_hero_dlc.nfo	-	5432	1	0	0	0
+sxs-minecraft_dungeons_hero_dlc.rar	-	104141	1	5432	0	1
+sxs-minecraft_dungeons_hero_dlc.sfv	-	46	1	109573	0	2

@@ -1,0 +1,4 @@
+sxs-dungeonoid_2_awakening.nfo	-	5822	1	0	0	0
+sxs-dungeonoid_2_awakening.r00	-	51180282	1	5822	0	1
+sxs-dungeonoid_2_awakening.rar	-	100000000	1	51186104	0	50
+sxs-dungeonoid_2_awakening.sfv	-	82	1	151186104	0	146

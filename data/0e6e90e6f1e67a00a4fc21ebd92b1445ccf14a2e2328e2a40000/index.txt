@@ -1,0 +1,6 @@
+sxs-mystery_box_the_journey.nfo	-	4574	1	0	0	0
+sxs-mystery_box_the_journey.r00	-	100000000	1	4574	0	1
+sxs-mystery_box_the_journey.r01	-	100000000	1	100004574	0	97
+sxs-mystery_box_the_journey.r02	-	39831153	1	200004574	0	193
+sxs-mystery_box_the_journey.rar	-	100000000	1	239835727	0	231
+sxs-mystery_box_the_journey.sfv	-	168	1	339835727	0	327

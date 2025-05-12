@@ -1,0 +1,12 @@
+sxs-crazy_trucks.nfo	-	6212	1	0	0	0
+sxs-crazy_trucks.r00	-	50000000	1	6212	0	1
+sxs-crazy_trucks.r01	-	50000000	1	50006212	0	49
+sxs-crazy_trucks.r02	-	50000000	1	100006212	0	97
+sxs-crazy_trucks.r03	-	50000000	1	150006212	0	145
+sxs-crazy_trucks.r04	-	50000000	1	200006212	0	193
+sxs-crazy_trucks.r05	-	50000000	1	250006212	0	241
+sxs-crazy_trucks.r06	-	50000000	1	300006212	0	289
+sxs-crazy_trucks.r07	-	50000000	1	350006212	0	337
+sxs-crazy_trucks.r08	-	26703906	1	400006212	0	385
+sxs-crazy_trucks.rar	-	50000000	1	426710118	0	411
+sxs-crazy_trucks.sfv	-	310	1	476710118	0	459

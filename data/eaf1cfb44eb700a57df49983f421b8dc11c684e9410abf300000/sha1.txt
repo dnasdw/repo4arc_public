@@ -1,0 +1,4 @@
+v-deadcraft_v262144.nfo	d237c303b2976c4031f1f4202b7ae5959248bc9a
+v-deadcraft_v262144.r00	d3fabf262d1e2a79cca1aac3b45eb54a3e5bae7f
+v-deadcraft_v262144.rar	688a534d4b26e260cbb9012e64bba1cbc93756f2
+v-deadcraft_v262144.sfv	2e7c7fc8d7909a841bdd6550a8cb7f23ac6a056e

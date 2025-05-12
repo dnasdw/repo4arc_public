@@ -1,0 +1,12 @@
+sxs-chef_life_a_restaurant_simulator_multi12_v262144.nfo	-	6370	1	0	0	0
+sxs-chef_life_a_restaurant_simulator_multi12_v262144.r00	-	100000000	1	6370	0	1
+sxs-chef_life_a_restaurant_simulator_multi12_v262144.r01	-	100000000	1	100006370	0	97
+sxs-chef_life_a_restaurant_simulator_multi12_v262144.r02	-	100000000	1	200006370	0	193
+sxs-chef_life_a_restaurant_simulator_multi12_v262144.r03	-	100000000	1	300006370	0	289
+sxs-chef_life_a_restaurant_simulator_multi12_v262144.r04	-	100000000	1	400006370	0	385
+sxs-chef_life_a_restaurant_simulator_multi12_v262144.r05	-	100000000	1	500006370	0	481
+sxs-chef_life_a_restaurant_simulator_multi12_v262144.r06	-	100000000	1	62251264	1	60
+sxs-chef_life_a_restaurant_simulator_multi12_v262144.r07	-	100000000	1	162251264	1	156
+sxs-chef_life_a_restaurant_simulator_multi12_v262144.r08	-	27783948	1	262251264	1	252
+sxs-chef_life_a_restaurant_simulator_multi12_v262144.rar	-	100000000	1	290035212	1	279
+sxs-chef_life_a_restaurant_simulator_multi12_v262144.sfv	-	670	1	390035212	1	375

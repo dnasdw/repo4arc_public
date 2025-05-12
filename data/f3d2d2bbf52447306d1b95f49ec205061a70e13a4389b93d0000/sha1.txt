@@ -1,0 +1,4 @@
+sxs-guts_n_goals_v65536.nfo	412cedada2e9c95080c8dfcfff70b4456f2e4442
+sxs-guts_n_goals_v65536.r00	5d321e165e56c8d3880fe3a119a4ebe7632b7b86
+sxs-guts_n_goals_v65536.rar	a6de947af5727f26eac549d59bc489b42f82e96c
+sxs-guts_n_goals_v65536.sfv	0b3946daf1404af38e27ce20689513fa4fdee26d

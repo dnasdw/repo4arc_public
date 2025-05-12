@@ -1,0 +1,6 @@
+sxs-hippo_little_red_riding_hood.nfo	-	5354	1	0	0	0
+sxs-hippo_little_red_riding_hood.r00	-	100000000	1	5354	0	1
+sxs-hippo_little_red_riding_hood.r01	-	100000000	1	100005354	0	97
+sxs-hippo_little_red_riding_hood.r02	-	29583174	1	200005354	0	193
+sxs-hippo_little_red_riding_hood.rar	-	100000000	1	229588528	0	222
+sxs-hippo_little_red_riding_hood.sfv	-	188	1	329588528	0	318

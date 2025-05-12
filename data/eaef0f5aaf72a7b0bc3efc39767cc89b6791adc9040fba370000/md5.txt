@@ -1,0 +1,11 @@
+v-wind_of_shuriken.nfo	ddf316405f4f64d6567499ddb297bd47
+v-wind_of_shuriken.r00	e3b13b76337e7bbae99b733ad1758ad3
+v-wind_of_shuriken.r01	979229301fe325f2a66572c433a6bcc7
+v-wind_of_shuriken.r02	9da3300f8727b5fd2db7ab440f2be9ae
+v-wind_of_shuriken.r03	ebb37530b089780821d0d26e5571bfbc
+v-wind_of_shuriken.r04	bbb0faf98238060e1e44dae7dc19c410
+v-wind_of_shuriken.r05	4b94df460a9b56286e77752c0d4d9589
+v-wind_of_shuriken.r06	228ea03cb842ec692ab9a20c5d7333a5
+v-wind_of_shuriken.r07	9881616b8b53ccb43632f46213c874b3
+v-wind_of_shuriken.rar	02fbff553bcf1ed997329ebdc587c8f9
+v-wind_of_shuriken.sfv	2fc2d974ee1043fbe3a2e58387ce3a0b

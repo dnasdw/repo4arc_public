@@ -1,0 +1,6 @@
+sxs-overlanders_v196608.nfo	322459298d139ee8e48cf274b4bad1d4
+sxs-overlanders_v196608.r00	a235369c89020a804ff2efdb6cf26018
+sxs-overlanders_v196608.r01	5735e6f462e74f3e907f376c5c7b3742
+sxs-overlanders_v196608.r02	1793afc29c2aea49632db372e00c0e04
+sxs-overlanders_v196608.rar	91573c0b032967cfa3cce24f95435a04
+sxs-overlanders_v196608.sfv	b43b65e432f3d4a34eda8b9e758fa53f

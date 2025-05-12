@@ -1,0 +1,12 @@
+sxs-pixeljunk_monsters2_v196608.nfo	a1e7f51c
+sxs-pixeljunk_monsters2_v196608.r00	5b8ececf
+sxs-pixeljunk_monsters2_v196608.r01	f0388a83
+sxs-pixeljunk_monsters2_v196608.r02	49f3a6c3
+sxs-pixeljunk_monsters2_v196608.r03	0649c746
+sxs-pixeljunk_monsters2_v196608.r04	d5117028
+sxs-pixeljunk_monsters2_v196608.r05	d521f14a
+sxs-pixeljunk_monsters2_v196608.r06	424dcd39
+sxs-pixeljunk_monsters2_v196608.r07	2e515330
+sxs-pixeljunk_monsters2_v196608.r08	c464147e
+sxs-pixeljunk_monsters2_v196608.rar	a9a18b11
+sxs-pixeljunk_monsters2_v196608.sfv	9e04222f

@@ -1,0 +1,7 @@
+sxs-super_mega_space_blaster_special_turbo_v196608.nfo	-	8630	1	0	0	0
+sxs-super_mega_space_blaster_special_turbo_v196608.r00	-	50000000	1	8630	0	1
+sxs-super_mega_space_blaster_special_turbo_v196608.r01	-	50000000	1	50008630	0	49
+sxs-super_mega_space_blaster_special_turbo_v196608.r02	-	50000000	1	100008630	0	97
+sxs-super_mega_space_blaster_special_turbo_v196608.r03	-	31151422	1	150008630	0	145
+sxs-super_mega_space_blaster_special_turbo_v196608.rar	-	50000000	1	181160052	0	175
+sxs-super_mega_space_blaster_special_turbo_v196608.sfv	-	325	1	231160052	0	223

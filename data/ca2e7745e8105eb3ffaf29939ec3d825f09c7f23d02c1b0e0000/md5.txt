@@ -1,0 +1,3 @@
+v-taiko_v196608_dlc.nfo	a57b888ca133a290fa18be4a5ab9260f
+v-taiko_v196608_dlc.rar	413568aca87773e066df1b6d4b9901e2
+v-taiko_v196608_dlc.sfv	5bcbc1a337a40edac2f212a2a134802e

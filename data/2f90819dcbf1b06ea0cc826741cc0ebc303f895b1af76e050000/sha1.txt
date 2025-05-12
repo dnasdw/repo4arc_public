@@ -1,0 +1,3 @@
+sxs-retro_city_rampage_dx_v65536.nfo	9b2801b32b4e1f60747faba6145eac6d39c4443a
+sxs-retro_city_rampage_dx_v65536.rar	f89a5b6a766ed5aa7d5d03c8ca52eb4ce26818f9
+sxs-retro_city_rampage_dx_v65536.sfv	6fb3eb9508e3f6a8ba0120d42fb745886d7c53c6

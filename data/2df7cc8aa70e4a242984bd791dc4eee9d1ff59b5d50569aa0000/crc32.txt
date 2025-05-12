@@ -1,0 +1,7 @@
+sxs-varion_v131072.nfo	ba9b9008
+sxs-varion_v131072.r00	c175fea1
+sxs-varion_v131072.r01	da2663e0
+sxs-varion_v131072.r02	aeea3e6a
+sxs-varion_v131072.r03	6f2c27a4
+sxs-varion_v131072.rar	51c64ff4
+sxs-varion_v131072.sfv	011a0b2b

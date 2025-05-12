@@ -1,0 +1,3 @@
+v-oddworld_new_n_tasty_v65536.nfo	-	4576	1	0	0	0
+v-oddworld_new_n_tasty_v65536.rar	-	29549626	1	4576	0	1
+v-oddworld_new_n_tasty_v65536.sfv	-	44	1	29554202	0	30

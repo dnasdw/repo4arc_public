@@ -1,0 +1,16 @@
+sxs-the_big_journey.nfo	8584be72
+sxs-the_big_journey.r00	e955f4b2
+sxs-the_big_journey.r01	72c14484
+sxs-the_big_journey.r02	f2bb26b2
+sxs-the_big_journey.r03	2914b5a6
+sxs-the_big_journey.r04	7892486b
+sxs-the_big_journey.r05	df0b3e55
+sxs-the_big_journey.r06	781131c7
+sxs-the_big_journey.r07	56d86e91
+sxs-the_big_journey.r08	c9c6f3fa
+sxs-the_big_journey.r09	53ecdae2
+sxs-the_big_journey.r10	78e4b927
+sxs-the_big_journey.r11	df748d92
+sxs-the_big_journey.r12	ae65ce9f
+sxs-the_big_journey.rar	ba208dc5
+sxs-the_big_journey.sfv	b5e80d9f

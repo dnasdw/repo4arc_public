@@ -1,0 +1,4 @@
+sxs-laserpitium_v262144.nfo	-	5978	1	0	0	0
+sxs-laserpitium_v262144.r00	-	52707256	1	5978	0	1
+sxs-laserpitium_v262144.rar	-	100000000	1	52713234	0	52
+sxs-laserpitium_v262144.sfv	-	76	1	152713234	0	148

@@ -1,0 +1,3 @@
+v-daemon_x_machina_dlc.nfo	-	9256	1	0	0	0
+v-daemon_x_machina_dlc.rar	-	727610	1	9256	0	1
+v-daemon_x_machina_dlc.sfv	-	37	1	736866	0	2

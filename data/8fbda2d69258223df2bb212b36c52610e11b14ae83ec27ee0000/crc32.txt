@@ -1,0 +1,7 @@
+sxs-escape_game_the_old_folk_house.nfo	536e73ef
+sxs-escape_game_the_old_folk_house.r00	115294bd
+sxs-escape_game_the_old_folk_house.r01	79ecfc87
+sxs-escape_game_the_old_folk_house.r02	75997462
+sxs-escape_game_the_old_folk_house.r03	d82480d5
+sxs-escape_game_the_old_folk_house.rar	8c84fba6
+sxs-escape_game_the_old_folk_house.sfv	dd599b8d

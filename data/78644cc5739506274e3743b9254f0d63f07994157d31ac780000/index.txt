@@ -1,0 +1,3 @@
+sxs-the_spy_who_shot_me_v65536.nfo	-	4886	1	0	0	0
+sxs-the_spy_who_shot_me_v65536.rar	-	99732017	1	4886	0	1
+sxs-the_spy_who_shot_me_v65536.sfv	-	45	1	99736903	0	97

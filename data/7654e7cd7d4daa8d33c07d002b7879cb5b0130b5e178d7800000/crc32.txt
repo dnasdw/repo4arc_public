@@ -1,0 +1,11 @@
+v-timespinner.nfo	1776c5cb
+v-timespinner.r00	a91ead19
+v-timespinner.r01	314bd571
+v-timespinner.r02	17099805
+v-timespinner.r03	92b5a2be
+v-timespinner.r04	bf31de29
+v-timespinner.r05	46acfb88
+v-timespinner.r06	96a0d58c
+v-timespinner.r07	bc4d6617
+v-timespinner.rar	41759dae
+v-timespinner.sfv	96dacaca

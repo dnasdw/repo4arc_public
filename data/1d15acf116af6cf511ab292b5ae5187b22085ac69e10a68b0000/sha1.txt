@@ -1,0 +1,4 @@
+sxs-bugby.nfo	50af1877699743e03ae3a76908db42f9e49195f3
+sxs-bugby.r00	f4d9c9322156bef791b679fb312f8d7ef97f0d4a
+sxs-bugby.rar	bd32729c51a77890de250bee70c4aae2ca449302
+sxs-bugby.sfv	ed3e55689b5d20f4ba8d15ff5e514d49092fc8af

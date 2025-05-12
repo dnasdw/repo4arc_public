@@ -1,0 +1,7 @@
+sxs-bomber_crew_v65536.nfo	f87af79a
+sxs-bomber_crew_v65536.r00	479417b3
+sxs-bomber_crew_v65536.r01	1a50c10c
+sxs-bomber_crew_v65536.r02	badd7032
+sxs-bomber_crew_v65536.r03	19c58e5f
+sxs-bomber_crew_v65536.rar	96eb76a0
+sxs-bomber_crew_v65536.sfv	6df9953c

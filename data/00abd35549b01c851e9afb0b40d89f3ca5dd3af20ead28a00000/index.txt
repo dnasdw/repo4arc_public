@@ -1,0 +1,4 @@
+v-momodora_v262144.nfo	-	6370	1	0	0	0
+v-momodora_v262144.r00	-	24697696	1	6370	0	1
+v-momodora_v262144.rar	-	50000000	1	24704066	0	25
+v-momodora_v262144.sfv	-	66	1	74704066	0	73

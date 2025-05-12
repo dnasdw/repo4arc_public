@@ -1,0 +1,7 @@
+sxs-sculpt_people.nfo	ebef7e0b
+sxs-sculpt_people.r00	a3b607b4
+sxs-sculpt_people.r01	d6b3e255
+sxs-sculpt_people.r02	d8b99aca
+sxs-sculpt_people.r03	e911386d
+sxs-sculpt_people.rar	82fc7b6c
+sxs-sculpt_people.sfv	6b603be8

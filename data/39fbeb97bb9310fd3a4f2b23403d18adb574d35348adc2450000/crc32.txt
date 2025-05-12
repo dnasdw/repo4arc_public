@@ -1,0 +1,5 @@
+sxs-smd_v524288.nfo	d681b28b
+sxs-smd_v524288.r00	d36c54f5
+sxs-smd_v524288.r01	3df6f180
+sxs-smd_v524288.rar	5866098c
+sxs-smd_v524288.sfv	92dc7e7d

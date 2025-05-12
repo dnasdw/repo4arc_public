@@ -1,0 +1,9 @@
+Proof	00000000
+Proof/sxs-goodbye_world.jpg	d809812f
+sxs-goodbye_world.nfo	39f1c5da
+sxs-goodbye_world.r00	e3f00532
+sxs-goodbye_world.r01	c2e5f449
+sxs-goodbye_world.r02	d0c0601b
+sxs-goodbye_world.r03	037f9d02
+sxs-goodbye_world.rar	df795075
+sxs-goodbye_world.sfv	5a054281

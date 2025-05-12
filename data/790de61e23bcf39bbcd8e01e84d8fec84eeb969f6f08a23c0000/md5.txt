@@ -1,0 +1,11 @@
+hr-kingdomrush.nfo	ad5f32df8f352a4bcd27e29c2155893b
+hr-kingdomrush.r00	444a680b79a25bdaa4ba94a047374578
+hr-kingdomrush.r01	f7e87105935d3f7b24024d2418a88f61
+hr-kingdomrush.r02	8eb43824a811d0c4dfcf006092b297bf
+hr-kingdomrush.r03	b32dc178619d82c2ec463197d734b9e6
+hr-kingdomrush.r04	7ac39e771826dbeb6a6b5fe56aed7e06
+hr-kingdomrush.r05	e5dc4603be7e8b22dec7f1ea50f7b139
+hr-kingdomrush.r06	da4ba227d325637e23aff9439206a2d0
+hr-kingdomrush.r07	dd378868aa3d6b0c9d00c860ab3a83a8
+hr-kingdomrush.rar	82989120ca9ac026d3d9ae93e3edf0e7
+hr-kingdomrush.sfv	6e201560f0de6efd7219131604b86e53

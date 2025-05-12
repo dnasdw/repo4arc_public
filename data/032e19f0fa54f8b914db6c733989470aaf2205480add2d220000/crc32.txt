@@ -1,0 +1,4 @@
+sxs-carnivores_dinosaur_hunt_v65536.nfo	674a5e81
+sxs-carnivores_dinosaur_hunt_v65536.r00	a328da55
+sxs-carnivores_dinosaur_hunt_v65536.rar	ec3f9f4b
+sxs-carnivores_dinosaur_hunt_v65536.sfv	84daeefa

@@ -1,0 +1,7 @@
+delight.nfo	491e1cbe
+dl-pathofsin.r00	a84ba806
+dl-pathofsin.r01	1af68ce7
+dl-pathofsin.r02	4e4f15b7
+dl-pathofsin.r03	9f044767
+dl-pathofsin.rar	dc601bab
+dl-pathofsin.sfv	ee26fdcb

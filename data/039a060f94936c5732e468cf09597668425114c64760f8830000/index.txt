@@ -1,0 +1,3 @@
+sxs-tales_of_symphonia_remastered_v196608.nfo	-	4652	1	0	0	0
+sxs-tales_of_symphonia_remastered_v196608.rar	-	76077319	1	4652	0	1
+sxs-tales_of_symphonia_remastered_v196608.sfv	-	56	1	76081971	0	74

@@ -1,0 +1,3 @@
+v-cupid_parasite_v65536.nfo	-	6214	1	0	0	0
+v-cupid_parasite_v65536.rar	-	48941619	1	6214	0	1
+v-cupid_parasite_v65536.sfv	-	38	1	48947833	0	48

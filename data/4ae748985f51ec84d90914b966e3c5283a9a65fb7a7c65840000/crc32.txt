@@ -1,0 +1,9 @@
+sxs-keep_talking_and_nobody_explodes_v65536.nfo	4d197099
+sxs-keep_talking_and_nobody_explodes_v65536.r00	ebdf59f7
+sxs-keep_talking_and_nobody_explodes_v65536.r01	5d3aa358
+sxs-keep_talking_and_nobody_explodes_v65536.r02	a2948e43
+sxs-keep_talking_and_nobody_explodes_v65536.r03	921eaa82
+sxs-keep_talking_and_nobody_explodes_v65536.r04	e28451fd
+sxs-keep_talking_and_nobody_explodes_v65536.r05	f4e32488
+sxs-keep_talking_and_nobody_explodes_v65536.rar	a06dd269
+sxs-keep_talking_and_nobody_explodes_v65536.sfv	2c7c7677

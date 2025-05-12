@@ -1,0 +1,8 @@
+sxs-little_red_riding_hood_wonder_animals.nfo	4d49a5e3
+sxs-little_red_riding_hood_wonder_animals.r00	a6418bfb
+sxs-little_red_riding_hood_wonder_animals.r01	a856b6f0
+sxs-little_red_riding_hood_wonder_animals.r02	be6fa1d6
+sxs-little_red_riding_hood_wonder_animals.r03	b236d07c
+sxs-little_red_riding_hood_wonder_animals.r04	5559a427
+sxs-little_red_riding_hood_wonder_animals.rar	8a059e5c
+sxs-little_red_riding_hood_wonder_animals.sfv	5bafa902

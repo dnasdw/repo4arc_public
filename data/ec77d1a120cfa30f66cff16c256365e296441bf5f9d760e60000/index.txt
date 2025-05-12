@@ -1,0 +1,4 @@
+sxs-beesim_it.nfo	-	4340	1	0	0	0
+sxs-beesim_it.r00	-	48247615	1	4340	0	1
+sxs-beesim_it.rar	-	50000000	1	48251955	0	48
+sxs-beesim_it.sfv	-	56	1	98251955	0	96

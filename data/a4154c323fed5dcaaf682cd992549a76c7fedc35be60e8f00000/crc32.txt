@@ -1,0 +1,6 @@
+sxs-slay_the_spire_v393216.nfo	b60d1929
+sxs-slay_the_spire_v393216.r00	bd60eb24
+sxs-slay_the_spire_v393216.r01	e5b4b56a
+sxs-slay_the_spire_v393216.r02	cad567b3
+sxs-slay_the_spire_v393216.rar	46e6bcbe
+sxs-slay_the_spire_v393216.sfv	bf523bb8

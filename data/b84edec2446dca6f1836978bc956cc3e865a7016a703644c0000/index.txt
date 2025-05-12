@@ -1,0 +1,4 @@
+sxs-real_boxing_2_v65536.nfo	-	6992	1	0	0	0
+sxs-real_boxing_2_v65536.r00	-	14940466	1	6992	0	1
+sxs-real_boxing_2_v65536.rar	-	50000000	1	14947458	0	16
+sxs-real_boxing_2_v65536.sfv	-	78	1	64947458	0	64

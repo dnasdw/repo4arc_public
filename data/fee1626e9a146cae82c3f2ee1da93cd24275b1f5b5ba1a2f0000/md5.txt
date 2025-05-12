@@ -1,0 +1,4 @@
+sxs-korg_gadget_v327680.nfo	23e9b8bec52c7deb26a7d1465c2d54b7
+sxs-korg_gadget_v327680.r00	690a03e64a2f7a52f59669e6c5bb87c6
+sxs-korg_gadget_v327680.rar	c9db964673af7888a3906ac2e6365e38
+sxs-korg_gadget_v327680.sfv	36300a250687a92e8947e6b2f28ce240

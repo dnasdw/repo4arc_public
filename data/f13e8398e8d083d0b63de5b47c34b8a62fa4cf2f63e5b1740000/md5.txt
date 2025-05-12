@@ -1,0 +1,17 @@
+lfc-cluedo.nfo	68e4abca2aa2d0710ff7b21f3617f443
+lfc-cluedoupd.r00	b45ac1679f80d8b871102c3e7053c787
+lfc-cluedoupd.r01	b0cd183553aa49f4afd2d7fb2b76d849
+lfc-cluedoupd.r02	cd71590fe5d376478913e7acd43089f2
+lfc-cluedoupd.r03	35b78d1a4f90c5fa36585dee1908941f
+lfc-cluedoupd.r04	e87c6a15337b055c39589e03ea908b5d
+lfc-cluedoupd.r05	518ca78e8fe1754d19593c437fcd2701
+lfc-cluedoupd.r06	ed3c4b847b5380cc5ce76d7459aaee9b
+lfc-cluedoupd.r07	c629df2fad7068ce623be072e7249b05
+lfc-cluedoupd.r08	bb65c8dc069f51f4ef2fe2e7a92af1a4
+lfc-cluedoupd.r09	8d7d0f759badd41a63ce3672ff8b6328
+lfc-cluedoupd.r10	ab96b6982560e831444c08164e893aa2
+lfc-cluedoupd.r11	7cd88a89b1bc60ee934135994e52173e
+lfc-cluedoupd.r12	94b1d809a2d33c0b6f69c581bce53c1f
+lfc-cluedoupd.r13	23b83bd58a702c9bf042edfe64c1611b
+lfc-cluedoupd.rar	0619b8bfbf300e98586ddd7039727baf
+lfc-cluedoupd.sfv	1e7b9fa1d1c1f2e148c4347a22da0248

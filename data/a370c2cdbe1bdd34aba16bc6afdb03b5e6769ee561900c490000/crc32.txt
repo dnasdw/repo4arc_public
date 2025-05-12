@@ -1,0 +1,7 @@
+v-radiant_silvergun_v196608.nfo	47161bd1
+v-radiant_silvergun_v196608.r00	a124beb6
+v-radiant_silvergun_v196608.r01	88a94623
+v-radiant_silvergun_v196608.r02	81b96339
+v-radiant_silvergun_v196608.r03	b7f17d2f
+v-radiant_silvergun_v196608.rar	833fb54a
+v-radiant_silvergun_v196608.sfv	153c480b

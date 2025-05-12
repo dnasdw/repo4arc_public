@@ -1,0 +1,12 @@
+lfc-muid.nfo	498015affc4768066479d220ef694758
+lfc-muid.r00	7585cbcd444ee72514b98eedfaa6e998
+lfc-muid.r01	b8afb2a51a40ad07ccefb4f2d041429e
+lfc-muid.r02	e24fea2d76381fcdfd8688b8d2ece40d
+lfc-muid.r03	7504bfc1f02315a92a331d61e17a127a
+lfc-muid.r04	d8e45878c07399a9cdb5ed3879b58930
+lfc-muid.r05	18fff75af771c5d3d1bf60a57da052e8
+lfc-muid.r06	cae7bd502255f2b2fdeb1c0a902f9848
+lfc-muid.r07	05eb8adb9ddfee87bf6a82ff3f34e2a6
+lfc-muid.r08	da6bf3dfcd592c4993a411bc9bff59d9
+lfc-muid.rar	21c8818a56fb84482e4242b44a3c636d
+lfc-muid.sfv	1391bbd04726f004273e21f63b9dc966

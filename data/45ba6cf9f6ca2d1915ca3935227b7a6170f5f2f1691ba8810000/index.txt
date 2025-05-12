@@ -1,0 +1,4 @@
+v-prinny_presents_nis_classics_volume_3_v65536.nfo	-	4576	1	0	0	0
+v-prinny_presents_nis_classics_volume_3_v65536.r00	-	6929742	1	4576	0	1
+v-prinny_presents_nis_classics_volume_3_v65536.rar	-	50000000	1	6934318	0	8
+v-prinny_presents_nis_classics_volume_3_v65536.sfv	-	122	1	56934318	0	56

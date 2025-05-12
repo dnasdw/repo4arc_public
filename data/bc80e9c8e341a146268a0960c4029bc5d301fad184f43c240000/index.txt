@@ -1,0 +1,7 @@
+v-ben_10_power_trip_v65536.nfo	-	5434	1	0	0	0
+v-ben_10_power_trip_v65536.r00	-	50000000	1	5434	0	1
+v-ben_10_power_trip_v65536.r01	-	50000000	1	50005434	0	49
+v-ben_10_power_trip_v65536.r02	-	50000000	1	100005434	0	97
+v-ben_10_power_trip_v65536.r03	-	20602883	1	150005434	0	145
+v-ben_10_power_trip_v65536.rar	-	50000000	1	170608317	0	165
+v-ben_10_power_trip_v65536.sfv	-	205	1	220608317	0	213

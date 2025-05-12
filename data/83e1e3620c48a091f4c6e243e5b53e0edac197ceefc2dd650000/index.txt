@@ -1,0 +1,4 @@
+sxs-farm_mystery_v65536.nfo	-	3872	1	0	0	0
+sxs-farm_mystery_v65536.r00	-	29425687	1	3872	0	1
+sxs-farm_mystery_v65536.rar	-	50000000	1	29429559	0	30
+sxs-farm_mystery_v65536.sfv	-	76	1	79429559	0	78

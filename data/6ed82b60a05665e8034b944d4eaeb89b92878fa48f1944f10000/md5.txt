@@ -1,0 +1,4 @@
+sxs-mana_spark_v65536.nfo	e15254789a7a34c26e324d062e5623a0
+sxs-mana_spark_v65536.r00	01a00700cd5f77190b5f0ca568b3e182
+sxs-mana_spark_v65536.rar	450afea00d334160b9c0ea8be860a3f1
+sxs-mana_spark_v65536.sfv	18d1fe8d78351cb95583814c8a7ddb97

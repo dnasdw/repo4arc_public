@@ -1,0 +1,8 @@
+sxs-dead_cells_v102.nfo	36fda0e3dd7d07c174e843925119fed5
+sxs-dead_cells_v102.r00	7f6c1488bdaa45141bd4aa614797d284
+sxs-dead_cells_v102.r01	722ce91ec036c0e2b2f2974a871991a0
+sxs-dead_cells_v102.r02	4dc5f960b0475c806ee5f408933277ca
+sxs-dead_cells_v102.r03	7b35a6b6c0cebad230f7f4e66d71aa2f
+sxs-dead_cells_v102.r04	c04da20649d581510f285f4bca821cd1
+sxs-dead_cells_v102.rar	aa1a52f29870c8b8f47af7bf17ac18c9
+sxs-dead_cells_v102.sfv	e75e83abf121bb6149510d3510ccbbaf

@@ -1,0 +1,6 @@
+v-quake_quake_64_dlc.nfo	-	11206	1	0	0	0
+v-quake_quake_64_dlc.r00	-	50000000	1	11206	0	1
+v-quake_quake_64_dlc.r01	-	50000000	1	50011206	0	49
+v-quake_quake_64_dlc.r02	-	23173820	1	100011206	0	97
+v-quake_quake_64_dlc.rar	-	50000000	1	123185026	0	120
+v-quake_quake_64_dlc.sfv	-	140	1	173185026	0	168

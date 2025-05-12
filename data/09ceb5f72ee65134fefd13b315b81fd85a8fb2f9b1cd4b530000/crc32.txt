@@ -1,0 +1,9 @@
+sxs-papas_quiz_v65536.nfo	9f95e5ac
+sxs-papas_quiz_v65536.r00	2dd5e70e
+sxs-papas_quiz_v65536.r01	a83143cc
+sxs-papas_quiz_v65536.r02	d07b08dc
+sxs-papas_quiz_v65536.r03	88e07943
+sxs-papas_quiz_v65536.r04	7a91c0ec
+sxs-papas_quiz_v65536.r05	3c0a51be
+sxs-papas_quiz_v65536.rar	25161e33
+sxs-papas_quiz_v65536.sfv	56a40aa8

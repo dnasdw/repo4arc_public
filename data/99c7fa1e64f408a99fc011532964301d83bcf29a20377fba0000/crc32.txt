@@ -1,0 +1,13 @@
+l-aktua.nfo	c85a27f6
+l-aktua.r00	28a7de23
+l-aktua.r01	55214a08
+l-aktua.r02	98c193f2
+l-aktua.r03	53f6c619
+l-aktua.r04	d7e0595a
+l-aktua.r05	e9cc1f53
+l-aktua.r06	4c637938
+l-aktua.r07	6986fdf3
+l-aktua.rar	ab277592
+l-aktua.sfv	ef31aed8
+Proof	00000000
+Proof/l-aktua.jpg	66bfc211

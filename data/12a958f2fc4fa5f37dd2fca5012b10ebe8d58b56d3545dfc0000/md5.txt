@@ -1,0 +1,4 @@
+sxs-castaway_of_steel.nfo	18ba5ab8c80a58c849b8f9ccd3e92b71
+sxs-castaway_of_steel.r00	a586ccbcde1a6e36f139524e971d7cf6
+sxs-castaway_of_steel.rar	e5eb3232431ccefd519051c1626639cd
+sxs-castaway_of_steel.sfv	a7a7327de8e6acf7e99619c449c449f6

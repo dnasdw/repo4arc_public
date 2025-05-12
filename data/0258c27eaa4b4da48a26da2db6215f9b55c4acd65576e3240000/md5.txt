@@ -1,0 +1,10 @@
+v-super_korotama.nfo	f31f9b7988f174cae27dec1842685be9
+v-super_korotama.r00	3a32c9f2c8d60507853e617ccdc8a472
+v-super_korotama.r01	69e42b0f47b743a23ce6e80ffb57e896
+v-super_korotama.r02	3f0439d97aa3fa242dfdd4c4fb64e536
+v-super_korotama.r03	a9c7050ea51e39b4a8a4f000e901c5fc
+v-super_korotama.r04	cc271444d1227dd2496ce3845f987642
+v-super_korotama.r05	f476c0bda77301d83d938085d05442aa
+v-super_korotama.r06	61d79b47a4c8d3674331948f45574246
+v-super_korotama.rar	bbbd89c95d7b0d2ad196e0a30f925dd9
+v-super_korotama.sfv	cfcb890819c520024ee0f2b724e70089

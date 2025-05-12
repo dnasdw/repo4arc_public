@@ -1,0 +1,3 @@
+v-gclub2_porsche_edition_dlc.nfo	-	9808	1	0	0	0
+v-gclub2_porsche_edition_dlc.rar	-	207961	1	9808	0	1
+v-gclub2_porsche_edition_dlc.sfv	-	43	1	217769	0	2

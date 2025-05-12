@@ -1,0 +1,10 @@
+sxs-evolution_board_game_v458752.nfo	-	6446	1	0	0	0
+sxs-evolution_board_game_v458752.r00	-	100000000	1	6446	0	1
+sxs-evolution_board_game_v458752.r01	-	100000000	1	100006446	0	97
+sxs-evolution_board_game_v458752.r02	-	100000000	1	200006446	0	193
+sxs-evolution_board_game_v458752.r03	-	100000000	1	300006446	0	289
+sxs-evolution_board_game_v458752.r04	-	100000000	1	400006446	0	385
+sxs-evolution_board_game_v458752.r05	-	100000000	1	500006446	0	481
+sxs-evolution_board_game_v458752.r06	-	93054444	1	62251264	1	60
+sxs-evolution_board_game_v458752.rar	-	100000000	1	155305708	1	149
+sxs-evolution_board_game_v458752.sfv	-	376	1	255305708	1	245

@@ -1,0 +1,17 @@
+hr-asuca.nfo	0eb2e858e41488bef5145e67b8e81b85
+hr-asuca.r00	c78215b522513e6ab9fcdb954e2d51a2
+hr-asuca.r01	81e7e9ce200238c11bd780ad2a5972dc
+hr-asuca.r02	dc46e539c3b3e451cce8af979ccb683c
+hr-asuca.r03	c941d86d1b3f200df275289e75e1a1e6
+hr-asuca.r04	a3eb42730ad17fba6fdfd8cb16b3b65a
+hr-asuca.r05	5b6d9185327073e0d2b7bbae45dd50d1
+hr-asuca.r06	c069209f3bcd693fb8a9c9df49dc50bf
+hr-asuca.r07	1bfeda6a8a4da598979f3fde59a660b9
+hr-asuca.r08	16c0e93632fe8c6491e94e83740b1489
+hr-asuca.r09	b1de45bed22cae3a52028f4cd74b4d1b
+hr-asuca.r10	eba5f75954e67b851ecb4c1bee21cce4
+hr-asuca.r11	057341767e4f9c706ceaa4c42b632933
+hr-asuca.rar	c86098f1f61d103127d807cbb633f667
+hr-asuca.sfv	5d116ba302103fdf8887af60e4a4ccaf
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/hr-asuca.jpg	5fe42cc31406b62a62b8a2dd30bb0ae3

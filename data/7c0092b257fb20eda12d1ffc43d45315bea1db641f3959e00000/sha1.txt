@@ -1,0 +1,9 @@
+bbb-h-aaccap.nfo	70bc8dee8ae019175c46208b35b1f011f11d95e3
+bbb-h-aaccap.part01.rar	4d3d4fa08aa7dc0530c21fa8565dfa718c89a658
+bbb-h-aaccap.part02.rar	5156a170fda4ceb7d429489e8040b70958cb0be0
+bbb-h-aaccap.part03.rar	6468597f70a0ab0946304f7846a0a7a4e0446e58
+bbb-h-aaccap.part04.rar	042000771b765e2e1c747bfe0c0d0387708a88ae
+bbb-h-aaccap.part05.rar	711e883ab03cc25e4f5ae8a5e975172e96197534
+bbb-h-aaccap.part06.rar	f86d02fb882f4a29089bd2751601124a8967d9c0
+bbb-h-aaccap.part07.rar	bfd83d5d1dd16fcfcf15c9049c828ec46790fd50
+bbb-h-aaccap.sfv	0d243e712889e1c26898c6cd69a7110528cc3343

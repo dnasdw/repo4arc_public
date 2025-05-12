@@ -1,0 +1,8 @@
+sxs-bug_fables_the_everlasting_sapling.nfo	-	6446	1	0	0	0
+sxs-bug_fables_the_everlasting_sapling.r00	-	50000000	1	6446	0	1
+sxs-bug_fables_the_everlasting_sapling.r01	-	50000000	1	50006446	0	49
+sxs-bug_fables_the_everlasting_sapling.r02	-	50000000	1	100006446	0	97
+sxs-bug_fables_the_everlasting_sapling.r03	-	50000000	1	150006446	0	145
+sxs-bug_fables_the_everlasting_sapling.r04	-	2702365	1	200006446	0	193
+sxs-bug_fables_the_everlasting_sapling.rar	-	50000000	1	202708811	0	196
+sxs-bug_fables_the_everlasting_sapling.sfv	-	318	1	252708811	0	244

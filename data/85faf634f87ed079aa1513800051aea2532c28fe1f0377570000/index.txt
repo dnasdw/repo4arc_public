@@ -1,0 +1,3 @@
+sxs-urban_flow_winter_expansion_pack_dlc.nfo	-	7772	1	0	0	0
+sxs-urban_flow_winter_expansion_pack_dlc.rar	-	104151	1	7772	0	1
+sxs-urban_flow_winter_expansion_pack_dlc.sfv	-	55	1	111923	0	2

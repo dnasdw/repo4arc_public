@@ -1,0 +1,11 @@
+v-lego_bricktales_v393216.nfo	31784700
+v-lego_bricktales_v393216.r00	5ba8280e
+v-lego_bricktales_v393216.r01	336f8f5c
+v-lego_bricktales_v393216.r02	cfb76f1e
+v-lego_bricktales_v393216.r03	5c821a27
+v-lego_bricktales_v393216.r04	748d076a
+v-lego_bricktales_v393216.r05	fb63a07a
+v-lego_bricktales_v393216.r06	e193fe1e
+v-lego_bricktales_v393216.r07	f5a0e0d9
+v-lego_bricktales_v393216.rar	fd1b7bee
+v-lego_bricktales_v393216.sfv	5b1039ef

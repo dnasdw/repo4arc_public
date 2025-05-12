@@ -1,0 +1,7 @@
+sxs-midnight_is_lost.nfo	-	4808	1	0	0	0
+sxs-midnight_is_lost.r00	-	100000000	1	4808	0	1
+sxs-midnight_is_lost.r01	-	100000000	1	100004808	0	97
+sxs-midnight_is_lost.r02	-	100000000	1	200004808	0	193
+sxs-midnight_is_lost.r03	-	39533534	1	300004808	0	289
+sxs-midnight_is_lost.rar	-	100000000	1	339538342	0	327
+sxs-midnight_is_lost.sfv	-	175	1	439538342	0	423

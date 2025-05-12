@@ -1,0 +1,10 @@
+sxs-a_winters_daydream.nfo	-	6914	1	0	0	0
+sxs-a_winters_daydream.r00	-	50000000	1	6914	0	1
+sxs-a_winters_daydream.r01	-	50000000	1	50006914	0	49
+sxs-a_winters_daydream.r02	-	50000000	1	100006914	0	97
+sxs-a_winters_daydream.r03	-	50000000	1	150006914	0	145
+sxs-a_winters_daydream.r04	-	50000000	1	200006914	0	193
+sxs-a_winters_daydream.r05	-	50000000	1	250006914	0	241
+sxs-a_winters_daydream.r06	-	42052285	1	300006914	0	289
+sxs-a_winters_daydream.rar	-	50000000	1	342059199	0	330
+sxs-a_winters_daydream.sfv	-	296	1	392059199	0	378

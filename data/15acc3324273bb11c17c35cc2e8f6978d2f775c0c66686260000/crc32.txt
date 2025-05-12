@@ -1,0 +1,14 @@
+v-unruly_heroes_v65536.nfo	20ae794e
+v-unruly_heroes_v65536.r00	ece304d0
+v-unruly_heroes_v65536.r01	ffa362e7
+v-unruly_heroes_v65536.r02	7bd31ff1
+v-unruly_heroes_v65536.r03	ed77aaa6
+v-unruly_heroes_v65536.r04	dc2ea533
+v-unruly_heroes_v65536.r05	2df68697
+v-unruly_heroes_v65536.r06	1b49358c
+v-unruly_heroes_v65536.r07	f79eae04
+v-unruly_heroes_v65536.r08	21e68c21
+v-unruly_heroes_v65536.r09	c9f1eb68
+v-unruly_heroes_v65536.r10	00b6d0f0
+v-unruly_heroes_v65536.rar	11f83e86
+v-unruly_heroes_v65536.sfv	e2ff27d6

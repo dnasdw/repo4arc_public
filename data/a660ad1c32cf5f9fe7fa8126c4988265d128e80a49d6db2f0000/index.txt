@@ -1,0 +1,10 @@
+sxs-josh_journey_darkness_totems_v196608.nfo	-	6212	1	0	0	0
+sxs-josh_journey_darkness_totems_v196608.r00	-	50000000	1	6212	0	1
+sxs-josh_journey_darkness_totems_v196608.r01	-	50000000	1	50006212	0	49
+sxs-josh_journey_darkness_totems_v196608.r02	-	50000000	1	100006212	0	97
+sxs-josh_journey_darkness_totems_v196608.r03	-	50000000	1	150006212	0	145
+sxs-josh_journey_darkness_totems_v196608.r04	-	50000000	1	200006212	0	193
+sxs-josh_journey_darkness_totems_v196608.r05	-	50000000	1	250006212	0	241
+sxs-josh_journey_darkness_totems_v196608.r06	-	30277943	1	300006212	0	289
+sxs-josh_journey_darkness_totems_v196608.rar	-	50000000	1	330284155	0	318
+sxs-josh_journey_darkness_totems_v196608.sfv	-	440	1	380284155	0	366

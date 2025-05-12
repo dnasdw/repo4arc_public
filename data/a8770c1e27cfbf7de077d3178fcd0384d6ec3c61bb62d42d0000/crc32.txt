@@ -1,0 +1,10 @@
+sxs-gensokyo_defenders_v393216.nfo	0dddaeb1
+sxs-gensokyo_defenders_v393216.r00	f2c6b45e
+sxs-gensokyo_defenders_v393216.r01	84868735
+sxs-gensokyo_defenders_v393216.r02	a19dd94a
+sxs-gensokyo_defenders_v393216.r03	5d3cf39e
+sxs-gensokyo_defenders_v393216.r04	3194ec81
+sxs-gensokyo_defenders_v393216.r05	d881a3b5
+sxs-gensokyo_defenders_v393216.r06	5c386053
+sxs-gensokyo_defenders_v393216.rar	2c87ac23
+sxs-gensokyo_defenders_v393216.sfv	37a1aede

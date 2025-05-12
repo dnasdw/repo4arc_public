@@ -1,0 +1,15 @@
+Proof	d	0	1	0	0	0
+Proof/v-bluey_the_videogame.jpg	-	148832	1	0	0	0
+v-bluey_the_videogame.nfo	-	5512	1	148832	0	1
+v-bluey_the_videogame.r00	-	100000000	1	154344	0	2
+v-bluey_the_videogame.r01	-	100000000	1	100154344	0	98
+v-bluey_the_videogame.r02	-	100000000	1	200154344	0	194
+v-bluey_the_videogame.r03	-	100000000	1	300154344	0	290
+v-bluey_the_videogame.r04	-	100000000	1	400154344	0	386
+v-bluey_the_videogame.r05	-	100000000	1	500154344	0	482
+v-bluey_the_videogame.r06	-	100000000	1	62251264	1	60
+v-bluey_the_videogame.r07	-	100000000	1	162251264	1	156
+v-bluey_the_videogame.r08	-	100000000	1	262251264	1	252
+v-bluey_the_videogame.r09	-	20023648	1	362251264	1	348
+v-bluey_the_videogame.rar	-	100000000	1	382274912	1	368
+v-bluey_the_videogame.sfv	-	396	1	482274912	1	464

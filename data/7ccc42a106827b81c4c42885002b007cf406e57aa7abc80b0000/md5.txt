@@ -1,0 +1,5 @@
+sxs-soul_searching_v65536.nfo	e05e758479e3b2a29d0f65713597f304
+sxs-soul_searching_v65536.r00	83221cfa972722def6b96e72ca53a3e7
+sxs-soul_searching_v65536.r01	bd7e1c4314fba9cc4d03b7e1cb578a79
+sxs-soul_searching_v65536.rar	28c438be476148cf570383bc84f4597b
+sxs-soul_searching_v65536.sfv	07e9eebe25707803fb7a765d41cf3f6a

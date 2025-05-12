@@ -1,0 +1,5 @@
+sxs-gemini.nfo	-	3872	1	0	0	0
+sxs-gemini.r00	-	50000000	1	3872	0	1
+sxs-gemini.r01	-	9611001	1	50003872	0	49
+sxs-gemini.rar	-	50000000	1	59614873	0	59
+sxs-gemini.sfv	-	75	1	109614873	0	107

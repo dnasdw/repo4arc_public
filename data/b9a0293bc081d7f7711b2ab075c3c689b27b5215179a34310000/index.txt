@@ -1,0 +1,4 @@
+bbb-n-amuma.nfo	-	5517	1	0	0	0
+bbb-n-amuma.part1.rar	-	250000000	1	5517	0	1
+bbb-n-amuma.part2.rar	-	22679450	1	250005517	0	240
+bbb-n-amuma.sfv	-	64	1	272684967	0	262

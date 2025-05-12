@@ -1,0 +1,11 @@
+sxs-super_squidlit.nfo	0af89e08
+sxs-super_squidlit.r00	634fb74e
+sxs-super_squidlit.r01	56db2ef0
+sxs-super_squidlit.r02	6483ea3c
+sxs-super_squidlit.r03	ce141c22
+sxs-super_squidlit.r04	7a167e53
+sxs-super_squidlit.r05	4b9c44db
+sxs-super_squidlit.r06	8a502244
+sxs-super_squidlit.r07	8eca7574
+sxs-super_squidlit.rar	42fb64b6
+sxs-super_squidlit.sfv	47e9d578

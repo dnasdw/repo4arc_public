@@ -1,0 +1,5 @@
+sxs-kashido.nfo	-	5354	1	0	0	0
+sxs-kashido.r00	-	100000000	1	5354	0	1
+sxs-kashido.r01	-	92039716	1	100005354	0	97
+sxs-kashido.rar	-	100000000	1	192045070	0	185
+sxs-kashido.sfv	-	78	1	292045070	0	281

@@ -1,0 +1,11 @@
+v-ssbu_v65536.nfo	e8161f06
+v-ssbu_v65536.r00	55f795d6
+v-ssbu_v65536.r01	60366b45
+v-ssbu_v65536.r02	d3c82849
+v-ssbu_v65536.r03	56dd18c1
+v-ssbu_v65536.r04	cc885c6f
+v-ssbu_v65536.r05	e918a794
+v-ssbu_v65536.r06	06911ca1
+v-ssbu_v65536.r07	db4787f2
+v-ssbu_v65536.rar	92a5e817
+v-ssbu_v65536.sfv	5863986c

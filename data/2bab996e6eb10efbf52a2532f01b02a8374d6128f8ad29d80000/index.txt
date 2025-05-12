@@ -1,0 +1,6 @@
+sxs-mixx_island_remix_plus.nfo	-	5744	1	0	0	0
+sxs-mixx_island_remix_plus.r00	-	100000000	1	5744	0	1
+sxs-mixx_island_remix_plus.r01	-	100000000	1	100005744	0	97
+sxs-mixx_island_remix_plus.r02	-	14774380	1	200005744	0	193
+sxs-mixx_island_remix_plus.rar	-	100000000	1	214780124	0	208
+sxs-mixx_island_remix_plus.sfv	-	164	1	314780124	0	304

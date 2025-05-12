@@ -1,0 +1,8 @@
+v-motor4_v131072.nfo	d30001e5
+v-motor4_v131072.r00	4e995fa2
+v-motor4_v131072.r01	c93031a2
+v-motor4_v131072.r02	8bfce033
+v-motor4_v131072.r03	4f03d51c
+v-motor4_v131072.r04	b2d40fbb
+v-motor4_v131072.rar	9ee00c6b
+v-motor4_v131072.sfv	e706dd91

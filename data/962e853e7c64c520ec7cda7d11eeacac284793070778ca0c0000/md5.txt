@@ -1,0 +1,9 @@
+v-feather.nfo	be4aa7f82428596e0b53fec505a09b3a
+v-feather.r00	e13db6a16a3faba28e892be5ad220a77
+v-feather.r01	fbeb89c53c67a132b4f8c8b3d0dc5d5c
+v-feather.r02	3ef75e76b1f10a6e91a3f7444d28a09d
+v-feather.r03	d1057d1fdc05538dbc09b481c66981aa
+v-feather.r04	72b47cbbf90d5f6026a5235383be085c
+v-feather.r05	579170e10ae4fe7f218bc0e75b3f9219
+v-feather.rar	4d7d54fa651d3de3c2dc447b09807d76
+v-feather.sfv	b10e1038dfff99ce9fe8a4c4984bc264

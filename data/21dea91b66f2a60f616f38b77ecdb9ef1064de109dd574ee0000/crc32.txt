@@ -1,0 +1,11 @@
+sxs-hike_adventures.nfo	d4ca3c69
+sxs-hike_adventures.r00	9972c1e8
+sxs-hike_adventures.r01	af9e7543
+sxs-hike_adventures.r02	2d4b9b72
+sxs-hike_adventures.r03	1241b530
+sxs-hike_adventures.r04	4c3896f5
+sxs-hike_adventures.r05	8970b835
+sxs-hike_adventures.r06	3a4e68c5
+sxs-hike_adventures.r07	3d060604
+sxs-hike_adventures.rar	6d805137
+sxs-hike_adventures.sfv	acc4f01c

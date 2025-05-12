@@ -1,0 +1,4 @@
+sxs-clannad_v458752.nfo	-	5822	1	0	0	0
+sxs-clannad_v458752.r00	-	3677339	1	5822	0	1
+sxs-clannad_v458752.rar	-	50000000	1	3683161	0	5
+sxs-clannad_v458752.sfv	-	68	1	53683161	0	53

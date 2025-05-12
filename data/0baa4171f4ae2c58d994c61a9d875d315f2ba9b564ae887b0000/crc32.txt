@@ -1,0 +1,16 @@
+sxs-actraiser_renaissance_v65536.nfo	16ac1631
+sxs-actraiser_renaissance_v65536.r00	3a45e1e1
+sxs-actraiser_renaissance_v65536.r01	f993dc7d
+sxs-actraiser_renaissance_v65536.r02	ce9561fd
+sxs-actraiser_renaissance_v65536.r03	bad2bcf6
+sxs-actraiser_renaissance_v65536.r04	207c57d5
+sxs-actraiser_renaissance_v65536.r05	309cd8af
+sxs-actraiser_renaissance_v65536.r06	d0e44fbe
+sxs-actraiser_renaissance_v65536.r07	0ff3c2d5
+sxs-actraiser_renaissance_v65536.r08	c07a8a71
+sxs-actraiser_renaissance_v65536.r09	07b09174
+sxs-actraiser_renaissance_v65536.r10	71a7b894
+sxs-actraiser_renaissance_v65536.r11	386954fa
+sxs-actraiser_renaissance_v65536.r12	a6daf1d0
+sxs-actraiser_renaissance_v65536.rar	f934ac7d
+sxs-actraiser_renaissance_v65536.sfv	5bca7dab

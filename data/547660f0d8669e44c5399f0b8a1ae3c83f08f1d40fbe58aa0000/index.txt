@@ -1,0 +1,4 @@
+lfc-ares.nfo	-	4990	1	0	0	0
+lfc-ares.r00	-	31104706	1	4990	0	1
+lfc-ares.rar	-	50000000	1	31109696	0	31
+lfc-ares.sfv	-	46	1	81109696	0	79

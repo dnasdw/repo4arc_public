@@ -1,0 +1,5 @@
+lfc-omno_v65536.nfo	ac2e7c28
+lfc-omno_v65536.r00	59d30966
+lfc-omno_v65536.r01	02ea9e55
+lfc-omno_v65536.rar	0fdadb2c
+lfc-omno_v65536.sfv	566c8043

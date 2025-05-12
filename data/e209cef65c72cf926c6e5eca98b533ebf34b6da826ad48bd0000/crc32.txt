@@ -1,0 +1,10 @@
+sxs-fear_effect_sedna_v131072.nfo	aa8ac2bb
+sxs-fear_effect_sedna_v131072.r00	1640746d
+sxs-fear_effect_sedna_v131072.r01	a0f36f7a
+sxs-fear_effect_sedna_v131072.r02	d9bd9395
+sxs-fear_effect_sedna_v131072.r03	6fbef093
+sxs-fear_effect_sedna_v131072.r04	47d0f726
+sxs-fear_effect_sedna_v131072.r05	9eb3f5ee
+sxs-fear_effect_sedna_v131072.r06	eb740dac
+sxs-fear_effect_sedna_v131072.rar	8a955492
+sxs-fear_effect_sedna_v131072.sfv	0a2f8c28

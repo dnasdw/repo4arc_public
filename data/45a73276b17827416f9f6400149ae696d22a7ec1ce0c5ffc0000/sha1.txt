@@ -1,0 +1,5 @@
+sxs-pokemon_cafe_mix.nfo	45dac1aaa09147fbd3c472467aebb8a592b27f5b
+sxs-pokemon_cafe_mix.r00	a38fd08cacaed522305cba432712be1d0b7b51f1
+sxs-pokemon_cafe_mix.r01	cd57153e88cf4d64954f70c8f5741f6e72035376
+sxs-pokemon_cafe_mix.rar	5c5100dbc326d12425c6f794fa32d65cd3986516
+sxs-pokemon_cafe_mix.sfv	d82673604370cda40d16de54ed3e766a01e4db76

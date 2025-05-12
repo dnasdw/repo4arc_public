@@ -1,0 +1,6 @@
+v-dragon_quest.nfo	6fd3217ca44f8754501f5aa0a8cd891a
+v-dragon_quest.r00	1a6c6f0cae13f1420cb2d3bea782f479
+v-dragon_quest.r01	4ed9fdeedc2c05421c790469eeeb8fd2
+v-dragon_quest.r02	74be0113497b3013aefff49321471291
+v-dragon_quest.rar	294335485e98eddd6392f9159f3e7679
+v-dragon_quest.sfv	b5060bf65b78ffbb2edaf55acf260f4c

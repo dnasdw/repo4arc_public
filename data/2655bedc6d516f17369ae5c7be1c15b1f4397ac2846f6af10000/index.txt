@@ -1,0 +1,5 @@
+sxs-mini_motorways_v589824.nfo	-	6524	1	0	0	0
+sxs-mini_motorways_v589824.r00	-	100000000	1	6524	0	1
+sxs-mini_motorways_v589824.r01	-	30282473	1	100006524	0	97
+sxs-mini_motorways_v589824.rar	-	100000000	1	130288997	0	126
+sxs-mini_motorways_v589824.sfv	-	123	1	230288997	0	222

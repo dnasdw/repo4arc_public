@@ -1,0 +1,4 @@
+lfc-kettymaestro.nfo	-	3931	1	0	0	0
+lfc-kettymaestro.r00	-	43072137	1	3931	0	1
+lfc-kettymaestro.rar	-	50000000	1	43076068	0	43
+lfc-kettymaestro.sfv	-	62	1	93076068	0	91

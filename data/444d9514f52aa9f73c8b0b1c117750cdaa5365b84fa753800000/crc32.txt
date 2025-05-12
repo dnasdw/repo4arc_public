@@ -1,0 +1,11 @@
+sxs-bunker_21_extended_edition.nfo	eff1af5e
+sxs-bunker_21_extended_edition.r00	0a8c4843
+sxs-bunker_21_extended_edition.r01	64063ebb
+sxs-bunker_21_extended_edition.r02	0aaa359c
+sxs-bunker_21_extended_edition.r03	c94372f3
+sxs-bunker_21_extended_edition.r04	396c16f5
+sxs-bunker_21_extended_edition.r05	a84deba1
+sxs-bunker_21_extended_edition.r06	e9b4f89a
+sxs-bunker_21_extended_edition.r07	0b17cd89
+sxs-bunker_21_extended_edition.rar	dd281719
+sxs-bunker_21_extended_edition.sfv	9e23bdf4

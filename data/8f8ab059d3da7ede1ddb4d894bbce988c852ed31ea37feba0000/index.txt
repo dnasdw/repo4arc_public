@@ -1,0 +1,8 @@
+sxs-defend_the_base_tower_turret_shooting_range.nfo	-	5448	1	0	0	0
+sxs-defend_the_base_tower_turret_shooting_range.r00	-	100000000	1	5448	0	1
+sxs-defend_the_base_tower_turret_shooting_range.r01	-	100000000	1	100005448	0	97
+sxs-defend_the_base_tower_turret_shooting_range.r02	-	100000000	1	200005448	0	193
+sxs-defend_the_base_tower_turret_shooting_range.r03	-	100000000	1	300005448	0	289
+sxs-defend_the_base_tower_turret_shooting_range.r04	-	80729015	1	400005448	0	385
+sxs-defend_the_base_tower_turret_shooting_range.rar	-	100000000	1	480734463	0	462
+sxs-defend_the_base_tower_turret_shooting_range.sfv	-	372	1	43376896	1	42

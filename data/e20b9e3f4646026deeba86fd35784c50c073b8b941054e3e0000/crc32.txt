@@ -1,0 +1,15 @@
+brw-amci.nfo	09417768
+brw-amci.r00	7f14f6bb
+brw-amci.r01	49e94d4e
+brw-amci.r02	edc89966
+brw-amci.r03	94af2b63
+brw-amci.r04	dff2ece3
+brw-amci.r05	eef1c9ab
+brw-amci.r06	4bb2ee76
+brw-amci.r07	fbeaa5c8
+brw-amci.r08	5967ab61
+brw-amci.r09	f6e22427
+brw-amci.r10	54501ea2
+brw-amci.r11	771325c7
+brw-amci.rar	2afd9dff
+brw-amci.sfv	ebfbb35e

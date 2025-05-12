@@ -1,0 +1,4 @@
+v-romancing_saga_3_v131072.nfo	b02f90848a56d488fc2c15d403847cc1b6c95560
+v-romancing_saga_3_v131072.r00	b341b85e8485fb07e9f5451ed51810470d013c48
+v-romancing_saga_3_v131072.rar	0724fe841fb19dbb263fe075d6ea8e9da4f9bf53
+v-romancing_saga_3_v131072.sfv	acc854810b6407c19e58bdda46bd00200cd11420

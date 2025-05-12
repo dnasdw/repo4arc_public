@@ -1,0 +1,4 @@
+sxs-tactics_ogre_reborn_v327680.nfo	-	8318	1	0	0	0
+sxs-tactics_ogre_reborn_v327680.r00	-	58545685	1	8318	0	1
+sxs-tactics_ogre_reborn_v327680.rar	-	100000000	1	58554003	0	57
+sxs-tactics_ogre_reborn_v327680.sfv	-	92	1	158554003	0	153

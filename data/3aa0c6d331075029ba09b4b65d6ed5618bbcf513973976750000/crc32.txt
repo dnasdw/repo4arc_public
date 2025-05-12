@@ -1,0 +1,9 @@
+sxs-jump_king_v196608.nfo	37062189
+sxs-jump_king_v196608.r00	d4a8e406
+sxs-jump_king_v196608.r01	1ff887e5
+sxs-jump_king_v196608.r02	e49ea1f2
+sxs-jump_king_v196608.r03	a8db0c9f
+sxs-jump_king_v196608.r04	89e3f484
+sxs-jump_king_v196608.r05	d1e9cb17
+sxs-jump_king_v196608.rar	7a990012
+sxs-jump_king_v196608.sfv	30ad88a1

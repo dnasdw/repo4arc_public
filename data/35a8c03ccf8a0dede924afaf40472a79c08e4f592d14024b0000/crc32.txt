@@ -1,0 +1,4 @@
+sxs-pokemon_lets_go_pikachu_v131072.nfo	8608818c
+sxs-pokemon_lets_go_pikachu_v131072.r00	f331c67a
+sxs-pokemon_lets_go_pikachu_v131072.rar	ead98f98
+sxs-pokemon_lets_go_pikachu_v131072.sfv	75d924fc

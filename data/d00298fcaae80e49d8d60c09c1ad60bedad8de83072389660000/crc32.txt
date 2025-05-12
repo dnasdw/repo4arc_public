@@ -1,0 +1,6 @@
+lfc-mimo.nfo	dca118fb
+lfc-mimo.r00	bc784e25
+lfc-mimo.r01	01c68a68
+lfc-mimo.r02	95790229
+lfc-mimo.rar	9b1ff815
+lfc-mimo.sfv	d1c9c3e4

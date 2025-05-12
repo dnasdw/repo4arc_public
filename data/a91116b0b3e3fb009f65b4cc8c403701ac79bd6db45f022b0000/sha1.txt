@@ -1,0 +1,6 @@
+v-80s_overdrive.nfo	e538fe1b10f23f398dda9d175d2c3c581575563e
+v-80s_overdrive.r00	ed0ffd350a7a6b35f027e03563843ea4ae7f990f
+v-80s_overdrive.r01	1c2d2bc930d6ff6652eada5466d188ffcd9fc084
+v-80s_overdrive.r02	c412e5f6b5d636d8f24a0c5c8bf41179cd344a63
+v-80s_overdrive.rar	1f124892db44fbb538c93c6be6bbd4b3cb849df8
+v-80s_overdrive.sfv	cef3da8e6fa1d9189a03e78f6ffdfab968bb7ebb

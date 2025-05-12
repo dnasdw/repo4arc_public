@@ -1,0 +1,10 @@
+v-winter_games_challenge.nfo	2d65c2ac
+v-winter_games_challenge.r00	242e32d3
+v-winter_games_challenge.r01	eebf470f
+v-winter_games_challenge.r02	cf829a40
+v-winter_games_challenge.r03	9253cadf
+v-winter_games_challenge.r04	622f1d54
+v-winter_games_challenge.r05	f859e5b9
+v-winter_games_challenge.r06	d5510665
+v-winter_games_challenge.rar	3b173fd4
+v-winter_games_challenge.sfv	4d316c69

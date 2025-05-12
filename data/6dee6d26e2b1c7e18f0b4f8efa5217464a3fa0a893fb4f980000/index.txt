@@ -1,0 +1,17 @@
+sxs-instant_sports_tennis_v196608.nfo	-	4418	1	0	0	0
+sxs-instant_sports_tennis_v196608.r00	-	50000000	1	4418	0	1
+sxs-instant_sports_tennis_v196608.r01	-	50000000	1	50004418	0	49
+sxs-instant_sports_tennis_v196608.r02	-	50000000	1	100004418	0	97
+sxs-instant_sports_tennis_v196608.r03	-	50000000	1	150004418	0	145
+sxs-instant_sports_tennis_v196608.r04	-	50000000	1	200004418	0	193
+sxs-instant_sports_tennis_v196608.r05	-	50000000	1	250004418	0	241
+sxs-instant_sports_tennis_v196608.r06	-	50000000	1	300004418	0	289
+sxs-instant_sports_tennis_v196608.r07	-	50000000	1	350004418	0	337
+sxs-instant_sports_tennis_v196608.r08	-	50000000	1	400004418	0	385
+sxs-instant_sports_tennis_v196608.r09	-	50000000	1	450004418	0	433
+sxs-instant_sports_tennis_v196608.r10	-	50000000	1	500004418	0	481
+sxs-instant_sports_tennis_v196608.r11	-	50000000	1	12251264	1	12
+sxs-instant_sports_tennis_v196608.r12	-	50000000	1	62251264	1	60
+sxs-instant_sports_tennis_v196608.r13	-	13213709	1	112251264	1	108
+sxs-instant_sports_tennis_v196608.rar	-	50000000	1	125464973	1	121
+sxs-instant_sports_tennis_v196608.sfv	-	720	1	175464973	1	169

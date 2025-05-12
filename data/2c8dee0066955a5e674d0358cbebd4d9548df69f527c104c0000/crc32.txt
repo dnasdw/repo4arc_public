@@ -1,0 +1,4 @@
+sxs-redraptor.nfo	aea17cb4
+sxs-redraptor.r00	5d70d911
+sxs-redraptor.rar	e1befdfd
+sxs-redraptor.sfv	d839b6de

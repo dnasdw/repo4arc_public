@@ -1,0 +1,5 @@
+sxs-game_dev_story_v196608.nfo	d6ca58168051dfcd7f19d68008903f99
+sxs-game_dev_story_v196608.r00	93fe76294b0dd8891af44cddb80fc42e
+sxs-game_dev_story_v196608.r01	6d86a6e270a0225a1dd9f4b66aa61b3f
+sxs-game_dev_story_v196608.rar	839bfb5e2bf43c5a9ea1c87029107d07
+sxs-game_dev_story_v196608.sfv	7da42142c5fc0530d1bd330fd6050c1a

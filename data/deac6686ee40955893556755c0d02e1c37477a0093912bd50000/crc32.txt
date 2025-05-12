@@ -1,0 +1,14 @@
+sxs-blazblue_cross_tag_battle_v393216.nfo	109df62f
+sxs-blazblue_cross_tag_battle_v393216.r00	b8b3fb4f
+sxs-blazblue_cross_tag_battle_v393216.r01	662507e8
+sxs-blazblue_cross_tag_battle_v393216.r02	67dc61cb
+sxs-blazblue_cross_tag_battle_v393216.r03	2ea7dd5b
+sxs-blazblue_cross_tag_battle_v393216.r04	10602902
+sxs-blazblue_cross_tag_battle_v393216.r05	2e0aa70e
+sxs-blazblue_cross_tag_battle_v393216.r06	949bd048
+sxs-blazblue_cross_tag_battle_v393216.r07	d5400579
+sxs-blazblue_cross_tag_battle_v393216.r08	bafbaa44
+sxs-blazblue_cross_tag_battle_v393216.r09	da6f014a
+sxs-blazblue_cross_tag_battle_v393216.r10	76295ed1
+sxs-blazblue_cross_tag_battle_v393216.rar	7f072dd1
+sxs-blazblue_cross_tag_battle_v393216.sfv	e015c483

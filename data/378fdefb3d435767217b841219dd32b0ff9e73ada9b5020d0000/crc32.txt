@@ -1,0 +1,10 @@
+v-farm_tycoon_v262144.nfo	ec0d6347
+v-farm_tycoon_v262144.r00	60bb3d45
+v-farm_tycoon_v262144.r01	74275dfe
+v-farm_tycoon_v262144.r02	6f405290
+v-farm_tycoon_v262144.r03	9acbcf5e
+v-farm_tycoon_v262144.r04	ebffb903
+v-farm_tycoon_v262144.r05	b1464e5f
+v-farm_tycoon_v262144.r06	9686ed5b
+v-farm_tycoon_v262144.rar	86f09165
+v-farm_tycoon_v262144.sfv	8c1205bc

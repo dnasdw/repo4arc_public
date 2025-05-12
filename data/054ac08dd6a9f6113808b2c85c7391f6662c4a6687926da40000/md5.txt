@@ -1,0 +1,4 @@
+v-pokemon_lets_go_eevee_v131072.nfo	8bc33a7d64d264367f239fa3868cd604
+v-pokemon_lets_go_eevee_v131072.r00	ea4a0017fa663263ad6b4693c2f5edd3
+v-pokemon_lets_go_eevee_v131072.rar	82cd62ed197f1e11a257e4d372400849
+v-pokemon_lets_go_eevee_v131072.sfv	3eb70aa5a04fd00fe86f8a95f1bbb302

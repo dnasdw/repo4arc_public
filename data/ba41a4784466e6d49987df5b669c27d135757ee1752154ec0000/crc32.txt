@@ -1,0 +1,16 @@
+sxs-drunken_fist_2_zombie_hangover.nfo	01e129f7
+sxs-drunken_fist_2_zombie_hangover.r00	06c634be
+sxs-drunken_fist_2_zombie_hangover.r01	3fb95a23
+sxs-drunken_fist_2_zombie_hangover.r02	df808a69
+sxs-drunken_fist_2_zombie_hangover.r03	73125e57
+sxs-drunken_fist_2_zombie_hangover.r04	e7422be0
+sxs-drunken_fist_2_zombie_hangover.r05	1df935ef
+sxs-drunken_fist_2_zombie_hangover.r06	a80d2b32
+sxs-drunken_fist_2_zombie_hangover.r07	d17567ee
+sxs-drunken_fist_2_zombie_hangover.r08	eca5495a
+sxs-drunken_fist_2_zombie_hangover.r09	06326d8d
+sxs-drunken_fist_2_zombie_hangover.r10	9bd9e98e
+sxs-drunken_fist_2_zombie_hangover.r11	0f31d1d2
+sxs-drunken_fist_2_zombie_hangover.r12	f2c60140
+sxs-drunken_fist_2_zombie_hangover.rar	e60aa526
+sxs-drunken_fist_2_zombie_hangover.sfv	2c6e0af3

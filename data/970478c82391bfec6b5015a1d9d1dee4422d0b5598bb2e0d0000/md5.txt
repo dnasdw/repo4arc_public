@@ -1,0 +1,6 @@
+sxs-infernax_v262144.nfo	b1785c8663a912ca95442d6e463fad23
+sxs-infernax_v262144.r00	bfdea5283d2fbe91008cf162f3dcedc1
+sxs-infernax_v262144.r01	1e763fd51c6c818d3060ccb8fb98123e
+sxs-infernax_v262144.r02	51338483a47aae1658fb5ae3c298ba29
+sxs-infernax_v262144.rar	1a9a7e4e9b3fc177a7ef06961ab8177d
+sxs-infernax_v262144.sfv	0ff827d493451352cc65c07d61d36daa

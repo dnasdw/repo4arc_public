@@ -1,0 +1,12 @@
+lfc-unsi_v196608.nfo	d9f049ba
+lfc-unsi_v196608.r00	3bd04b74
+lfc-unsi_v196608.r01	66a01a39
+lfc-unsi_v196608.r02	fae19205
+lfc-unsi_v196608.r03	90db82bb
+lfc-unsi_v196608.r04	c6dc5b3e
+lfc-unsi_v196608.r05	6ba1ca31
+lfc-unsi_v196608.r06	4be500e1
+lfc-unsi_v196608.r07	d7680690
+lfc-unsi_v196608.r08	4e05c4de
+lfc-unsi_v196608.rar	0764f198
+lfc-unsi_v196608.sfv	bc4d7792

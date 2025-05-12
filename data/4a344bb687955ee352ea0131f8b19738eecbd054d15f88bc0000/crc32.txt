@@ -1,0 +1,7 @@
+sxs-farm_knight_adventures.nfo	445379cc
+sxs-farm_knight_adventures.r00	62c0aefe
+sxs-farm_knight_adventures.r01	93ab0a8c
+sxs-farm_knight_adventures.r02	99a82f88
+sxs-farm_knight_adventures.r03	57500f1c
+sxs-farm_knight_adventures.rar	fd606790
+sxs-farm_knight_adventures.sfv	39dcbd1a

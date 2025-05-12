@@ -1,0 +1,9 @@
+lfc-slip.nfo	21164c7b20a899e8d7d8e304ccf49464
+lfc-slip.r00	154c2043074c1b003544d2b0805bc5e9
+lfc-slip.r01	85a8ffd99042a95ce5da4fcc7c07e3ed
+lfc-slip.r02	491dcebb43b41a13bc58648dd4c9913e
+lfc-slip.r03	20bdb7078b3ad3a6f1c17719d2bb8b6f
+lfc-slip.r04	a0d994332a4a0ef40f7412f33de47c18
+lfc-slip.r05	41fb55f3a68bbda60b14d2e4cca29ec9
+lfc-slip.rar	181f9f03d196e030d0f472a131425ecf
+lfc-slip.sfv	b62bdd2f4bf5baae4eea5fde31d75ceb

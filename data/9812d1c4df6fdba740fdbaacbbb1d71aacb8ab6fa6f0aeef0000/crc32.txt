@@ -1,0 +1,15 @@
+v-monster_loves_you_too.nfo	73586099
+v-monster_loves_you_too.r00	fd235160
+v-monster_loves_you_too.r01	630fb7a0
+v-monster_loves_you_too.r02	5bd898cc
+v-monster_loves_you_too.r03	7ebb1930
+v-monster_loves_you_too.r04	bf7ae2c3
+v-monster_loves_you_too.r05	4ecb9d55
+v-monster_loves_you_too.r06	283af972
+v-monster_loves_you_too.r07	3b193865
+v-monster_loves_you_too.r08	1dc1d152
+v-monster_loves_you_too.r09	bfb17b01
+v-monster_loves_you_too.r10	1bb24f9a
+v-monster_loves_you_too.r11	1452038b
+v-monster_loves_you_too.rar	87a9e144
+v-monster_loves_you_too.sfv	48ca547e

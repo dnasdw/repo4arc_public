@@ -1,0 +1,7 @@
+sxs-monster_crown_v327680.nfo	-	3716	1	0	0	0
+sxs-monster_crown_v327680.r00	-	100000000	1	3716	0	1
+sxs-monster_crown_v327680.r01	-	100000000	1	100003716	0	97
+sxs-monster_crown_v327680.r02	-	100000000	1	200003716	0	193
+sxs-monster_crown_v327680.r03	-	96415937	1	300003716	0	289
+sxs-monster_crown_v327680.rar	-	100000000	1	396419653	0	381
+sxs-monster_crown_v327680.sfv	-	200	1	496419653	0	477

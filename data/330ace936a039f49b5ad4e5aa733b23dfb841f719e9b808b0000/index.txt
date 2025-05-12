@@ -1,0 +1,4 @@
+sxs-pups_and_purrs_animal_hospital_v65536.nfo	-	4808	1	0	0	0
+sxs-pups_and_purrs_animal_hospital_v65536.r00	-	48482507	1	4808	0	1
+sxs-pups_and_purrs_animal_hospital_v65536.rar	-	50000000	1	48487315	0	48
+sxs-pups_and_purrs_animal_hospital_v65536.sfv	-	112	1	98487315	0	96

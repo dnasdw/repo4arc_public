@@ -1,0 +1,3 @@
+sxs-dead_cells_dlc_internal.nfo	-	10970	1	0	0	0
+sxs-dead_cells_dlc_internal.rar	-	118540	1	10970	0	1
+sxs-dead_cells_dlc_internal.sfv	-	42	1	129510	0	2

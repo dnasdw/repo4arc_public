@@ -1,0 +1,9 @@
+sxs-dead_cells_internal_v393216.nfo	1ffb216d
+sxs-dead_cells_internal_v393216.r00	805bb9c8
+sxs-dead_cells_internal_v393216.r01	2dfad199
+sxs-dead_cells_internal_v393216.r02	a13f62b7
+sxs-dead_cells_internal_v393216.r03	b19f4f2c
+sxs-dead_cells_internal_v393216.r04	1ec93f9a
+sxs-dead_cells_internal_v393216.r05	49ee5d91
+sxs-dead_cells_internal_v393216.rar	be3fa2e0
+sxs-dead_cells_internal_v393216.sfv	ddf9d580

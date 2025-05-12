@@ -1,0 +1,16 @@
+sxs-death_squared_v262144.nfo	22d8482f
+sxs-death_squared_v262144.r00	85f29138
+sxs-death_squared_v262144.r01	46aea9bb
+sxs-death_squared_v262144.r02	3271130b
+sxs-death_squared_v262144.r03	6790bdf1
+sxs-death_squared_v262144.r04	8cf3d88a
+sxs-death_squared_v262144.r05	a224dfde
+sxs-death_squared_v262144.r06	1ecb352c
+sxs-death_squared_v262144.r07	6b175117
+sxs-death_squared_v262144.r08	608abb25
+sxs-death_squared_v262144.r09	afd2db83
+sxs-death_squared_v262144.r10	0ee6620f
+sxs-death_squared_v262144.r11	fb0a1163
+sxs-death_squared_v262144.r12	56159702
+sxs-death_squared_v262144.rar	e44d2247
+sxs-death_squared_v262144.sfv	83518b24

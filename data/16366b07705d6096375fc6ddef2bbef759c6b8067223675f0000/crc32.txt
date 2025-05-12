@@ -1,0 +1,6 @@
+nnssww_devastator.nfo	97470750
+nnssww_devastator.r00	9a420e81
+nnssww_devastator.r01	0a005db6
+nnssww_devastator.r02	888d81c4
+nnssww_devastator.rar	2b0fd87b
+nnssww_devastator.sfv	fda3979f

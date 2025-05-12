@@ -1,0 +1,9 @@
+v-convoy_a_tactical_roguelike_v65536.nfo	fa8eb4c0
+v-convoy_a_tactical_roguelike_v65536.r00	fbbacace
+v-convoy_a_tactical_roguelike_v65536.r01	221053f3
+v-convoy_a_tactical_roguelike_v65536.r02	54dac57d
+v-convoy_a_tactical_roguelike_v65536.r03	1ce5595f
+v-convoy_a_tactical_roguelike_v65536.r04	ed601d16
+v-convoy_a_tactical_roguelike_v65536.r05	473709f7
+v-convoy_a_tactical_roguelike_v65536.rar	26783650
+v-convoy_a_tactical_roguelike_v65536.sfv	17e151a6

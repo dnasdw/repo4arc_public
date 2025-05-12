@@ -1,0 +1,8 @@
+sxs-binaries_v65536.nfo	d67ca3e6
+sxs-binaries_v65536.r00	680e940a
+sxs-binaries_v65536.r01	ba83c334
+sxs-binaries_v65536.r02	a77d2114
+sxs-binaries_v65536.r03	eedf562f
+sxs-binaries_v65536.r04	31c39f80
+sxs-binaries_v65536.rar	cebe76f7
+sxs-binaries_v65536.sfv	686b330e

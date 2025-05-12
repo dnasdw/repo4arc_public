@@ -1,0 +1,10 @@
+filthypov.18.12.07.keilani.kita.4k.r06	-	11337728	1	0	0	0
+v-solo_islands_of_the_heart_v65536.nfo	-	4732	1	11337728	0	11
+v-solo_islands_of_the_heart_v65536.r00	-	50000000	1	11342460	0	12
+v-solo_islands_of_the_heart_v65536.r01	-	50000000	1	61342460	0	60
+v-solo_islands_of_the_heart_v65536.r02	-	50000000	1	111342460	0	108
+v-solo_islands_of_the_heart_v65536.r03	-	50000000	1	161342460	0	156
+v-solo_islands_of_the_heart_v65536.r04	-	50000000	1	211342460	0	204
+v-solo_islands_of_the_heart_v65536.r05	-	21364287	1	261342460	0	252
+v-solo_islands_of_the_heart_v65536.rar	-	50000000	1	282706747	0	273
+v-solo_islands_of_the_heart_v65536.sfv	-	343	1	332706747	0	321

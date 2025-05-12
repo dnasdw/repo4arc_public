@@ -1,0 +1,8 @@
+sxs-sunblaze_v196608.nfo	a1f14ded3e70be91150924954a346b4b
+sxs-sunblaze_v196608.r00	fd83cd92caf5075296c1a06b543c169d
+sxs-sunblaze_v196608.r01	d14984b77fbf4ef32227f7e6bbfb6070
+sxs-sunblaze_v196608.r02	47f275b07638e1ea69ba84e3fcb2ba7b
+sxs-sunblaze_v196608.r03	2ebd0ba62ec89fab79c3279c377175bf
+sxs-sunblaze_v196608.r04	5a017f3a06bf4c32bc673ed819205db4
+sxs-sunblaze_v196608.rar	d833eafd3f2ebec2d179a345dcfa70d2
+sxs-sunblaze_v196608.sfv	f01e25249f5c112b825dccf7b866bc59

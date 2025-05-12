@@ -1,0 +1,6 @@
+lfc-dicelegacyupd1.1.0.nfo	-	7109	1	0	0	0
+lfc-dicelegacyupd1.1.0.r00	-	100000000	1	7109	0	1
+lfc-dicelegacyupd1.1.0.r01	-	100000000	1	100007109	0	97
+lfc-dicelegacyupd1.1.0.r02	-	2270349	1	200007109	0	193
+lfc-dicelegacyupd1.1.0.rar	-	100000000	1	202277458	0	196
+lfc-dicelegacyupd1.1.0.sfv	-	148	1	302277458	0	292

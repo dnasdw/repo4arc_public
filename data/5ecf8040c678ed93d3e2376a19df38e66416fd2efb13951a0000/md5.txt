@@ -1,0 +1,7 @@
+lfc-fivenightsatfreddies.nfo	c1f2d37fa506db5ababacbc278ae2810
+lfc-fivenightsatfreddies.r00	644c86c5a5c691280f4e65691b4a11dd
+lfc-fivenightsatfreddies.r01	e5b2bbe13802b1c0fc63f68c5f205121
+lfc-fivenightsatfreddies.r02	005ab3116a6c3d49011c39a424fe1360
+lfc-fivenightsatfreddies.r03	df36166f82287a0b5dd5b97ac282737f
+lfc-fivenightsatfreddies.rar	47813de92dd570550c92f16c11018366
+lfc-fivenightsatfreddies.sfv	1988e87e3acbdd688818cc1738a49ead

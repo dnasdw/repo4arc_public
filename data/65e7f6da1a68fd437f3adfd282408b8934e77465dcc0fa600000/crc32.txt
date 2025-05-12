@@ -1,0 +1,6 @@
+lfc-caco.nfo	f2f96eee
+lfc-caco.r00	f4ef255c
+lfc-caco.r01	e076b882
+lfc-caco.r02	239dc300
+lfc-caco.rar	c794feee
+lfc-caco.sfv	ccd38631

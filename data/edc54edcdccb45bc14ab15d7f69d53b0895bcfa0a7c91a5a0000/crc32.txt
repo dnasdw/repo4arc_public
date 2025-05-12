@@ -1,0 +1,11 @@
+sxs-asscrebel_es_audio_dlc.nfo	208c67cf
+sxs-asscrebel_es_audio_dlc.r00	0214a5ae
+sxs-asscrebel_es_audio_dlc.r01	97a14312
+sxs-asscrebel_es_audio_dlc.r02	9eca25a5
+sxs-asscrebel_es_audio_dlc.r03	35351355
+sxs-asscrebel_es_audio_dlc.r04	51f7eeb6
+sxs-asscrebel_es_audio_dlc.r05	b8770a81
+sxs-asscrebel_es_audio_dlc.r06	1f47a292
+sxs-asscrebel_es_audio_dlc.r07	f5c113db
+sxs-asscrebel_es_audio_dlc.rar	d0bda5a5
+sxs-asscrebel_es_audio_dlc.sfv	390bf239

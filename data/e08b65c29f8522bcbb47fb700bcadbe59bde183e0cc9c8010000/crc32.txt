@@ -1,0 +1,14 @@
+brw-scaa.nfo	2bec0bad
+brw-scaa.r00	f6bf329e
+brw-scaa.r01	b44c4056
+brw-scaa.r02	8d96153b
+brw-scaa.r03	53a85dc3
+brw-scaa.r04	a3f0aae8
+brw-scaa.r05	36738f34
+brw-scaa.r06	e3dc3a9f
+brw-scaa.r07	3fa1fc2c
+brw-scaa.r08	41b9e12c
+brw-scaa.r09	49191360
+brw-scaa.r10	ec0854b5
+brw-scaa.rar	d7009cff
+brw-scaa.sfv	b0e3a10b

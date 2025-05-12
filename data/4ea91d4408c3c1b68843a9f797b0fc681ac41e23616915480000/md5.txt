@@ -1,0 +1,15 @@
+v-vectronom.nfo	6269aae561a909823f0c29231b96db59
+v-vectronom.r00	e143b6d44910b48bf0e483b004f10536
+v-vectronom.r01	64535ec5d5ceee477a86455b97332391
+v-vectronom.r02	09c186733679ae9396f6e25265bb9e75
+v-vectronom.r03	cc4f207ba1977c2eb25e1d79bc791f30
+v-vectronom.r04	53208d9d9dd384cbbfbf117a60696655
+v-vectronom.r05	2b119125503ffc51aee26b062d56d131
+v-vectronom.r06	c25784b4431ec6b8afd484ae46a96632
+v-vectronom.r07	e6efee06df2e9eaca9dd5418a770eef5
+v-vectronom.r08	cd5437215341a6d12f122462a6a0f634
+v-vectronom.r09	dfe883b24d89df13b1bdc21f140690ba
+v-vectronom.r10	dc124c6f507fb6f1a966cfe7647bd3fe
+v-vectronom.r11	43fef6aa875bfafc0c790d2be234eae7
+v-vectronom.rar	f43a1b91efee78c8337ddc59b55c706c
+v-vectronom.sfv	3698ea6c5cd4b81d48e64b680a2a1776

@@ -1,0 +1,5 @@
+v-trombone_champ_v589824.nfo	-	4732	1	0	0	0
+v-trombone_champ_v589824.r00	-	100000000	1	4732	0	1
+v-trombone_champ_v589824.r01	-	69098766	1	100004732	0	97
+v-trombone_champ_v589824.rar	-	100000000	1	169103498	0	163
+v-trombone_champ_v589824.sfv	-	117	1	269103498	0	259

@@ -1,0 +1,5 @@
+sxs-growth.nfo	-	6290	1	0	0	0
+sxs-growth.r00	-	100000000	1	6290	0	1
+sxs-growth.r01	-	52402392	1	100006290	0	97
+sxs-growth.rar	-	100000000	1	152408682	0	147
+sxs-growth.sfv	-	75	1	252408682	0	243

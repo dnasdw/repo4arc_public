@@ -1,0 +1,15 @@
+lfc-asit_v65536.nfo	3b7147cc
+lfc-asit_v65536.r00	db02b959
+lfc-asit_v65536.r01	3016ea65
+lfc-asit_v65536.r02	2be43685
+lfc-asit_v65536.r03	a01262be
+lfc-asit_v65536.r04	9ba1cd3a
+lfc-asit_v65536.r05	0c8d6f96
+lfc-asit_v65536.r06	ed63844d
+lfc-asit_v65536.r07	16c111d1
+lfc-asit_v65536.r08	ed60380d
+lfc-asit_v65536.r09	44e010f1
+lfc-asit_v65536.r10	366b495d
+lfc-asit_v65536.r11	42e31669
+lfc-asit_v65536.rar	a626fa44
+lfc-asit_v65536.sfv	41c00ead

@@ -1,0 +1,12 @@
+v-feather_v262144.nfo	0fe1675b
+v-feather_v262144.r00	7defb2ca
+v-feather_v262144.r01	c459cb22
+v-feather_v262144.r02	8a3488a2
+v-feather_v262144.r03	52863c57
+v-feather_v262144.r04	f1a0581d
+v-feather_v262144.r05	8d0536c2
+v-feather_v262144.r06	75509eb8
+v-feather_v262144.r07	066debdf
+v-feather_v262144.r08	918270ea
+v-feather_v262144.rar	0ad6be46
+v-feather_v262144.sfv	e82a670b

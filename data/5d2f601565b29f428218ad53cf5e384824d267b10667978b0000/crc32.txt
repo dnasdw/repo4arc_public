@@ -1,0 +1,8 @@
+v-smmak2_v196608.nfo	6d5132fc
+v-smmak2_v196608.r00	ac9e0048
+v-smmak2_v196608.r01	0b3ae61b
+v-smmak2_v196608.r02	405830b7
+v-smmak2_v196608.r03	35b776f3
+v-smmak2_v196608.r04	0dded173
+v-smmak2_v196608.rar	04cb1c5c
+v-smmak2_v196608.sfv	ab93d832

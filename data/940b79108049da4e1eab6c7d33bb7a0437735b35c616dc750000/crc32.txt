@@ -1,0 +1,8 @@
+v-snowboarding_the_next_phase_v65536.nfo	d78634bf
+v-snowboarding_the_next_phase_v65536.r00	db670de2
+v-snowboarding_the_next_phase_v65536.r01	47926a37
+v-snowboarding_the_next_phase_v65536.r02	dd161dcb
+v-snowboarding_the_next_phase_v65536.r03	3560b5b7
+v-snowboarding_the_next_phase_v65536.r04	77fe5d19
+v-snowboarding_the_next_phase_v65536.rar	11775c86
+v-snowboarding_the_next_phase_v65536.sfv	cdd09f3e

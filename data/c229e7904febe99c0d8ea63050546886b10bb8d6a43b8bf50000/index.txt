@@ -1,0 +1,4 @@
+sxs-void_trrlm_void_terrarium_v65536.nfo	-	3872	1	0	0	0
+sxs-void_trrlm_void_terrarium_v65536.r00	-	42290810	1	3872	0	1
+sxs-void_trrlm_void_terrarium_v65536.rar	-	50000000	1	42294682	0	42
+sxs-void_trrlm_void_terrarium_v65536.sfv	-	102	1	92294682	0	90

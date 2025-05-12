@@ -1,0 +1,5 @@
+sxs-cubicban.nfo	f4ebacf74f872c0f4ae158392023a0bf
+sxs-cubicban.r00	5c5af977735d4c252df568fa9cd5bcbf
+sxs-cubicban.r01	9faff5bcfe91d12810b3ca8a2a541a09
+sxs-cubicban.rar	854d70d8a5622c80d1b907ed4d45c2d0
+sxs-cubicban.sfv	13fcbc4de9965f2f95d801b1d4e42388

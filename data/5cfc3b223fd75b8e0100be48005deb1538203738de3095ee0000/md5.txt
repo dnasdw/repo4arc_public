@@ -1,0 +1,3 @@
+v-transformers_battlegrounds_dlc.nfo	7a0a743ed157e5d380e546ac9e94d393
+v-transformers_battlegrounds_dlc.rar	09492f9596bf1ff3f91197c01e39015f
+v-transformers_battlegrounds_dlc.sfv	5963ec549409d71c0bb639d5dcc0bb8c

@@ -1,0 +1,6 @@
+sxs-inspector_gadget_mad_time_party_v65536.nfo	-	5900	1	0	0	0
+sxs-inspector_gadget_mad_time_party_v65536.r00	-	100000000	1	5900	0	1
+sxs-inspector_gadget_mad_time_party_v65536.r01	-	100000000	1	100005900	0	97
+sxs-inspector_gadget_mad_time_party_v65536.r02	-	65565218	1	200005900	0	193
+sxs-inspector_gadget_mad_time_party_v65536.rar	-	100000000	1	265571118	0	256
+sxs-inspector_gadget_mad_time_party_v65536.sfv	-	228	1	365571118	0	352

@@ -1,0 +1,16 @@
+sxs-coffee_crisis.nfo	5a973b7c
+sxs-coffee_crisis.r00	5d53590b
+sxs-coffee_crisis.r01	cca87cf2
+sxs-coffee_crisis.r02	7c827f3d
+sxs-coffee_crisis.r03	b1b655f1
+sxs-coffee_crisis.r04	670200ff
+sxs-coffee_crisis.r05	9129b89f
+sxs-coffee_crisis.r06	8ba53c97
+sxs-coffee_crisis.r07	0d3d213c
+sxs-coffee_crisis.r08	332fa51f
+sxs-coffee_crisis.r09	c5e8a2bd
+sxs-coffee_crisis.r10	caf2ef3c
+sxs-coffee_crisis.r11	f2a3c53d
+sxs-coffee_crisis.r12	182145e9
+sxs-coffee_crisis.rar	39dd53a1
+sxs-coffee_crisis.sfv	f7bcb727

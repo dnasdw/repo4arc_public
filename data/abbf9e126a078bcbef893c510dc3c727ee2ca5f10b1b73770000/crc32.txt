@@ -1,0 +1,4 @@
+v-fight_n_rage_v131072.nfo	13f34b82
+v-fight_n_rage_v131072.r00	df036537
+v-fight_n_rage_v131072.rar	16fac679
+v-fight_n_rage_v131072.sfv	a664e9cf

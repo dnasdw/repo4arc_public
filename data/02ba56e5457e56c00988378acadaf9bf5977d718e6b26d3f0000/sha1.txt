@@ -1,0 +1,3 @@
+v-doom_ii_btsx_1_dlc.nfo	0684ded936437cb91d072daa4ad5034b9fc04ac2
+v-doom_ii_btsx_1_dlc.rar	63d04df4e1dc0246f9b65c914ce2cc28d067418d
+v-doom_ii_btsx_1_dlc.sfv	a15ceda3682ab3a99b3c36f05734b2f372eb73b0

@@ -1,0 +1,5 @@
+sxs-morto_chapter_2.nfo	3720bc73
+sxs-morto_chapter_2.r00	79485fe3
+sxs-morto_chapter_2.r01	9da11dde
+sxs-morto_chapter_2.rar	e9f10da7
+sxs-morto_chapter_2.sfv	22414dae

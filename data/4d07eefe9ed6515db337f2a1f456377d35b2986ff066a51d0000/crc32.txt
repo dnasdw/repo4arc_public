@@ -1,0 +1,3 @@
+sxs-osm_mv_expo_dlc.nfo	523e26c5
+sxs-osm_mv_expo_dlc.rar	ad9cc05a
+sxs-osm_mv_expo_dlc.sfv	b75948ec

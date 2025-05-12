@@ -1,0 +1,11 @@
+sxs-art_sqool.nfo	9ec91bf0
+sxs-art_sqool.r00	658621c4
+sxs-art_sqool.r01	aade961b
+sxs-art_sqool.r02	efd5e659
+sxs-art_sqool.r03	7c06baa1
+sxs-art_sqool.r04	fb7bd7a2
+sxs-art_sqool.r05	91a54774
+sxs-art_sqool.r06	e37650e8
+sxs-art_sqool.r07	477ade06
+sxs-art_sqool.rar	79982a97
+sxs-art_sqool.sfv	f600f662

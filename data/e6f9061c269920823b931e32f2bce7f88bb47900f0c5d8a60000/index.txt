@@ -1,0 +1,7 @@
+sxs-deathsmiles_i_and_ii_v262144.nfo	-	6529	1	0	0	0
+sxs-deathsmiles_i_and_ii_v262144.r00	-	50000000	1	6529	0	1
+sxs-deathsmiles_i_and_ii_v262144.r01	-	50000000	1	50006529	0	49
+sxs-deathsmiles_i_and_ii_v262144.r02	-	50000000	1	100006529	0	97
+sxs-deathsmiles_i_and_ii_v262144.r03	-	35467792	1	150006529	0	145
+sxs-deathsmiles_i_and_ii_v262144.rar	-	50000000	1	185474321	0	179
+sxs-deathsmiles_i_and_ii_v262144.sfv	-	235	1	235474321	0	227

@@ -1,0 +1,8 @@
+ycn-army_of_ruin.nfo	-	1973	1	0	0	0
+ycn-army_of_ruin.r00	-	50000000	1	1973	0	1
+ycn-army_of_ruin.r01	-	50000000	1	50001973	0	49
+ycn-army_of_ruin.r02	-	50000000	1	100001973	0	97
+ycn-army_of_ruin.r03	-	50000000	1	150001973	0	145
+ycn-army_of_ruin.r04	-	32500102	1	200001973	0	193
+ycn-army_of_ruin.rar	-	50000000	1	232502075	0	224
+ycn-army_of_ruin.sfv	-	186	1	282502075	0	272

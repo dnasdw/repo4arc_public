@@ -1,0 +1,4 @@
+sxs-save_your_nuts_v65536.nfo	-	4106	1	0	0	0
+sxs-save_your_nuts_v65536.r00	-	16767885	1	4106	0	1
+sxs-save_your_nuts_v65536.rar	-	50000000	1	16771991	0	17
+sxs-save_your_nuts_v65536.sfv	-	80	1	66771991	0	65

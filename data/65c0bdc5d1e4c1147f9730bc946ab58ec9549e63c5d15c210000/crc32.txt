@@ -1,0 +1,17 @@
+v-suspga.nfo	285a5583
+v-suspga.r00	ea875564
+v-suspga.r01	e31ed15a
+v-suspga.r02	b6556c7a
+v-suspga.r03	4acecccd
+v-suspga.r04	af876dcd
+v-suspga.r05	8944ab5b
+v-suspga.r06	87761547
+v-suspga.r07	245103fa
+v-suspga.r08	367b5348
+v-suspga.r09	c95d58ef
+v-suspga.r10	a0919f2e
+v-suspga.r11	5a75cca0
+v-suspga.r12	c8b8ce89
+v-suspga.r13	aabc27e1
+v-suspga.rar	348491fa
+v-suspga.sfv	ac6ffd7e

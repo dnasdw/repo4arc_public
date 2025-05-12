@@ -1,0 +1,11 @@
+sxs-nekopara1_v196608.nfo	1d50442a
+sxs-nekopara1_v196608.r00	3e28c44b
+sxs-nekopara1_v196608.r01	de62e256
+sxs-nekopara1_v196608.r02	a11e0f58
+sxs-nekopara1_v196608.r03	1dd50cd4
+sxs-nekopara1_v196608.r04	3e978929
+sxs-nekopara1_v196608.r05	9ac46d3f
+sxs-nekopara1_v196608.r06	a16d2b73
+sxs-nekopara1_v196608.r07	7be893c6
+sxs-nekopara1_v196608.rar	7ddf9230
+sxs-nekopara1_v196608.sfv	f4ef44fe

@@ -1,0 +1,4 @@
+sxs-crocs_world_v196608.nfo	9d74e2a6eb27f7da67e3eff2628d377a
+sxs-crocs_world_v196608.r00	3968d0087869590a7ba1aa5ea48baa5b
+sxs-crocs_world_v196608.rar	59484670b5a78ffcac7fad0a03d5f1fb
+sxs-crocs_world_v196608.sfv	8013c37265b0672fd02c35381bdcb527

@@ -1,0 +1,10 @@
+sxs-full_metal_furies_v196608.nfo	86ba88ed
+sxs-full_metal_furies_v196608.r00	65718e53
+sxs-full_metal_furies_v196608.r01	3eac235a
+sxs-full_metal_furies_v196608.r02	f0f2ab04
+sxs-full_metal_furies_v196608.r03	03918d77
+sxs-full_metal_furies_v196608.r04	891478a2
+sxs-full_metal_furies_v196608.r05	9f3749d4
+sxs-full_metal_furies_v196608.r06	39d68c3d
+sxs-full_metal_furies_v196608.rar	e9261d6e
+sxs-full_metal_furies_v196608.sfv	53877b73

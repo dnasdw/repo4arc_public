@@ -1,0 +1,12 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-exzeus_the_complete_collection.jpg	-	126228	1	0	0	0
+sxs-exzeus_the_complete_collection.nfo	-	7304	1	126228	0	1
+sxs-exzeus_the_complete_collection.r00	-	100000000	1	133532	0	2
+sxs-exzeus_the_complete_collection.r01	-	100000000	1	100133532	0	98
+sxs-exzeus_the_complete_collection.r02	-	100000000	1	200133532	0	194
+sxs-exzeus_the_complete_collection.r03	-	100000000	1	300133532	0	290
+sxs-exzeus_the_complete_collection.r04	-	100000000	1	400133532	0	386
+sxs-exzeus_the_complete_collection.r05	-	100000000	1	500133532	0	482
+sxs-exzeus_the_complete_collection.r06	-	99906799	1	62251264	1	60
+sxs-exzeus_the_complete_collection.rar	-	100000000	1	162158063	1	156
+sxs-exzeus_the_complete_collection.sfv	-	392	1	262158063	1	252

@@ -1,0 +1,4 @@
+sxs-sea_king_v65536.nfo	-	4106	1	0	0	0
+sxs-sea_king_v65536.r00	-	17693363	1	4106	0	1
+sxs-sea_king_v65536.rar	-	50000000	1	17697469	0	18
+sxs-sea_king_v65536.sfv	-	68	1	67697469	0	66

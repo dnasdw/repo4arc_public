@@ -1,0 +1,6 @@
+sxs-heaven_dust_v65536.nfo	-	6134	1	0	0	0
+sxs-heaven_dust_v65536.r00	-	50000000	1	6134	0	1
+sxs-heaven_dust_v65536.r01	-	50000000	1	50006134	0	49
+sxs-heaven_dust_v65536.r02	-	27270920	1	100006134	0	97
+sxs-heaven_dust_v65536.rar	-	50000000	1	127277054	0	124
+sxs-heaven_dust_v65536.sfv	-	148	1	177277054	0	172

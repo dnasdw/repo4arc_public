@@ -1,0 +1,17 @@
+brw-idea.nfo	7a8b5d64
+brw-idea.r00	ff20423a
+brw-idea.r01	27ed1c3c
+brw-idea.r02	d29a08bb
+brw-idea.r03	83b77894
+brw-idea.r04	09d91a2c
+brw-idea.r05	66879106
+brw-idea.r06	89369b2e
+brw-idea.r07	9b1fc6a5
+brw-idea.r08	a91f2282
+brw-idea.r09	a0999aa5
+brw-idea.r10	43f71a49
+brw-idea.r11	1428e6a1
+brw-idea.r12	2ba86cf8
+brw-idea.r13	9ed0201a
+brw-idea.rar	100d3242
+brw-idea.sfv	56fbe42a

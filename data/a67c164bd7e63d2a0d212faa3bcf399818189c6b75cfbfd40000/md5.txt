@@ -1,0 +1,5 @@
+sxs-pokemon_cafe_mix_v786432.nfo	6796d9447a1a53c57489129929cef6d8
+sxs-pokemon_cafe_mix_v786432.r00	9fc7873370cd8662e502df101838cc5f
+sxs-pokemon_cafe_mix_v786432.r01	20e824a9e23868af3027db5332f1b1e1
+sxs-pokemon_cafe_mix_v786432.rar	36c4acf9439352bdf9554eed80db64e3
+sxs-pokemon_cafe_mix_v786432.sfv	93365f8ede127e34dba9e9c9a3ba14f2

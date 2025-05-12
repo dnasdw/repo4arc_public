@@ -1,0 +1,4 @@
+bbb-n-amzha.nfo	-	5517	1	0	0	0
+bbb-n-amzha.part1.rar	-	250000000	1	5517	0	1
+bbb-n-amzha.part2.rar	-	27155882	1	250005517	0	240
+bbb-n-amzha.sfv	-	64	1	277161399	0	266

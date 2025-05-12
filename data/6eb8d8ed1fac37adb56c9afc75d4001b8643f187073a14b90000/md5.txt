@@ -1,0 +1,16 @@
+lfc-dicelegacy.nfo	9c0de578c777dc543d307f8a238a3c9c
+lfc-dicelegacy.r00	83b43b1f53b5d5789b1e8159792c428f
+lfc-dicelegacy.r01	6901149e465463faca4bdc37e6a4700a
+lfc-dicelegacy.r02	528d641494917e7754ba0183e37ed068
+lfc-dicelegacy.r03	8bec6bb025b403d9106dd9cfb8396ab1
+lfc-dicelegacy.r04	e4b30ee649fbd7d1032ed50d74587055
+lfc-dicelegacy.r05	60ccbc26fa812cd9a8f314b5c70b781d
+lfc-dicelegacy.r06	a3612c7d286b6d25e1611c6b76d0957b
+lfc-dicelegacy.r07	a06aebcdd12eb880abd9382926aa9ed3
+lfc-dicelegacy.r08	1b0ff5e4197ac0c5c4936b3487a4635b
+lfc-dicelegacy.r09	91f7a0635af600756adf57bc544d4920
+lfc-dicelegacy.r10	0d44d7d1a91a85ceca458008dd7daab6
+lfc-dicelegacy.r11	fdf26e16c8be2c01b473c4c496c2ce3f
+lfc-dicelegacy.r12	631243bce761ffb41a054b5c3d3bbcdb
+lfc-dicelegacy.rar	4b1fd5cf0dc22116302ccab3556c91fb
+lfc-dicelegacy.sfv	2fa460dff70d8e86b38c4caef8d194ea

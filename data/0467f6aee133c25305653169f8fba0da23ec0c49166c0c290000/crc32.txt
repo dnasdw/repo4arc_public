@@ -1,0 +1,6 @@
+sxs-dead_secret_circle_v65536.nfo	14d0dc28
+sxs-dead_secret_circle_v65536.r00	243d90ea
+sxs-dead_secret_circle_v65536.r01	ab36d4bf
+sxs-dead_secret_circle_v65536.r02	332b4661
+sxs-dead_secret_circle_v65536.rar	0bfc3f83
+sxs-dead_secret_circle_v65536.sfv	3dcb8484

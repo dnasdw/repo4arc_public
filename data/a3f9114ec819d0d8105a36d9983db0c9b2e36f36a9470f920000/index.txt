@@ -1,0 +1,4 @@
+sxs-sweets_drop.nfo	-	4652	1	0	0	0
+sxs-sweets_drop.r00	-	28533131	1	4652	0	1
+sxs-sweets_drop.rar	-	100000000	1	28537783	0	29
+sxs-sweets_drop.sfv	-	60	1	128537783	0	125

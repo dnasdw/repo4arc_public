@@ -1,0 +1,5 @@
+sxs-dungeons_and_bombs.nfo	0fad3092cbca89d1018cb6155de9fd83
+sxs-dungeons_and_bombs.r00	361b2567d4ecb5053442c231b97b3882
+sxs-dungeons_and_bombs.r01	f073452a9c55e869ea03d8077bb69878
+sxs-dungeons_and_bombs.rar	d64f74f3ed28f8a3d7b94488f14fc7da
+sxs-dungeons_and_bombs.sfv	36efad9695623cebc702f022a55ab0f9

@@ -1,0 +1,9 @@
+sxs-papas_quiz_v65536.nfo	1a6b7a04bb77da5e5113bd2d8440b409
+sxs-papas_quiz_v65536.r00	f72041936b44a525f0ec010e5e8676cb
+sxs-papas_quiz_v65536.r01	ce944612478e62897717f60dd8dc5962
+sxs-papas_quiz_v65536.r02	42d3613b2574d3385a3413f3b0eb320f
+sxs-papas_quiz_v65536.r03	df010c42459bc058dafb79f7e852a817
+sxs-papas_quiz_v65536.r04	50aab3757f09e7e8c37146b7cbfbd444
+sxs-papas_quiz_v65536.r05	97fe8e2fa7a0176c50d86e19d8bbfb1f
+sxs-papas_quiz_v65536.rar	8294e6fddf686e4a9856b9e22501db3c
+sxs-papas_quiz_v65536.sfv	bdc6dafaefbce6dc6912cf5ab575ef12

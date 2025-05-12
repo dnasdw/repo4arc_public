@@ -1,0 +1,5 @@
+v-way_of_the_passive_fist.nfo	-	5668	1	0	0	0
+v-way_of_the_passive_fist.r00	-	50000000	1	5668	0	1
+v-way_of_the_passive_fist.r01	-	27086324	1	50005668	0	49
+v-way_of_the_passive_fist.rar	-	50000000	1	77091992	0	75
+v-way_of_the_passive_fist.sfv	-	120	1	127091992	0	123

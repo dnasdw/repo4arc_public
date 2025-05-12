@@ -1,0 +1,12 @@
+sxs-zombie_army_4_dead_war_v65536.nfo	a834f135
+sxs-zombie_army_4_dead_war_v65536.r00	6ac85084
+sxs-zombie_army_4_dead_war_v65536.r01	c99b32c3
+sxs-zombie_army_4_dead_war_v65536.r02	b498e155
+sxs-zombie_army_4_dead_war_v65536.r03	2421b835
+sxs-zombie_army_4_dead_war_v65536.r04	08bb9b3e
+sxs-zombie_army_4_dead_war_v65536.r05	79a9b6cf
+sxs-zombie_army_4_dead_war_v65536.r06	7377bf71
+sxs-zombie_army_4_dead_war_v65536.r07	01b85f01
+sxs-zombie_army_4_dead_war_v65536.r08	cd6bcc60
+sxs-zombie_army_4_dead_war_v65536.rar	13454367
+sxs-zombie_army_4_dead_war_v65536.sfv	6c89ff07

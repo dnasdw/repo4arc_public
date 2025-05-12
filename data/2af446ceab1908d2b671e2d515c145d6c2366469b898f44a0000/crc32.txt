@@ -1,0 +1,4 @@
+sxs-pixel_heroes_mega_byte_and_magic_v131072.nfo	09e1a982
+sxs-pixel_heroes_mega_byte_and_magic_v131072.r00	02c204df
+sxs-pixel_heroes_mega_byte_and_magic_v131072.rar	498e08a9
+sxs-pixel_heroes_mega_byte_and_magic_v131072.sfv	ebd830e2

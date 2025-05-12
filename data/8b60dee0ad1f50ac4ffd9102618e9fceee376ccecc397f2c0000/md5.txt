@@ -1,0 +1,6 @@
+sxs-jeopardy_v131072.nfo	7aceaf560a76a17a4b8e5dc1fa0c03c0
+sxs-jeopardy_v131072.r00	e10e0b70c28427f7082d8ddafb9bd57b
+sxs-jeopardy_v131072.r01	9a7e4ca4c1adfc25fa145b8bb8e4945d
+sxs-jeopardy_v131072.r02	8b0610e1656c01d2376db5c768babe2a
+sxs-jeopardy_v131072.rar	19f39093914a0c60c460ba2cdf25e456
+sxs-jeopardy_v131072.sfv	5ead8afe142010185084aca2491a71d7

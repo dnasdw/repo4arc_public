@@ -1,0 +1,11 @@
+n-tinygladiators.nfo	97ee28a6
+n-tinygladiators.r00	4e238e32
+n-tinygladiators.r01	481ba4cd
+n-tinygladiators.r02	4b18ca47
+n-tinygladiators.r03	7323db6c
+n-tinygladiators.r04	977a117c
+n-tinygladiators.r05	f1e60018
+n-tinygladiators.r06	3e5f3240
+n-tinygladiators.r07	c02469a1
+n-tinygladiators.rar	cbcd8922
+n-tinygladiators.sfv	43e085f0

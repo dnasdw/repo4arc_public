@@ -1,0 +1,3 @@
+v-mk11_aftermath_dlc.nfo	-	8008	1	0	0	0
+v-mk11_aftermath_dlc.rar	-	831379	1	8008	0	1
+v-mk11_aftermath_dlc.sfv	-	35	1	839387	0	2

@@ -1,0 +1,7 @@
+v-northgard_v524288.nfo	49c1deaa
+v-northgard_v524288.r00	4bda1250
+v-northgard_v524288.r01	e8a953ec
+v-northgard_v524288.r02	5f7b191e
+v-northgard_v524288.r03	bb1d71f3
+v-northgard_v524288.rar	b62c6402
+v-northgard_v524288.sfv	df41e755

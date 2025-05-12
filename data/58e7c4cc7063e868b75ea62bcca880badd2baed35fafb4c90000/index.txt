@@ -1,0 +1,4 @@
+lfc-aasf.nfo	-	5812	1	0	0	0
+lfc-aasf.r00	-	7710679	1	5812	0	1
+lfc-aasf.rar	-	50000000	1	7716491	0	9
+lfc-aasf.sfv	-	46	1	57716491	0	57

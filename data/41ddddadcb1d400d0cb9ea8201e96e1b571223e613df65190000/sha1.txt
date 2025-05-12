@@ -1,0 +1,7 @@
+v-immortal_planet.nfo	c01330d99ad887b2c4b7e7eb897d2002a103f396
+v-immortal_planet.r00	4aef08ef293c909dfcbfe436734e552a062d3371
+v-immortal_planet.r01	9121db2dbeed5cca63d2156a0c7b4486f6ffdcef
+v-immortal_planet.r02	040c18c9104669905b27b53786230c2248631860
+v-immortal_planet.r03	ed1ed64ddc2f1203a68d8c6e236d8b9b8de3401b
+v-immortal_planet.rar	61989b64394f66e1026cd3e766144f49b8fe7618
+v-immortal_planet.sfv	ab7d9c916de40d33f02cd8ec8a472252f764b7f0

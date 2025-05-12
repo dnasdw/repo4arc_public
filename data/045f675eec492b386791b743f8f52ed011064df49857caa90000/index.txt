@@ -1,0 +1,5 @@
+bbb-n-an39a.nfo	-	5517	1	0	0	0
+bbb-n-an39a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-an39a.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-an39a.part3.rar	-	87909177	1	500005517	0	479
+bbb-n-an39a.sfv	-	96	1	50160441	1	48

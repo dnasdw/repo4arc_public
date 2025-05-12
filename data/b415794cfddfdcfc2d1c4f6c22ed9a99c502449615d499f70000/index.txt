@@ -1,0 +1,7 @@
+sxs-neko_navy.nfo	-	4653	1	0	0	0
+sxs-neko_navy.r00	-	50000000	1	4653	0	1
+sxs-neko_navy.r01	-	50000000	1	50004653	0	49
+sxs-neko_navy.r02	-	50000000	1	100004653	0	97
+sxs-neko_navy.r03	-	19514632	1	150004653	0	145
+sxs-neko_navy.rar	-	50000000	1	169519285	0	164
+sxs-neko_navy.sfv	-	140	1	219519285	0	212

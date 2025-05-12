@@ -1,0 +1,6 @@
+lfc-castleofnoeascape2.nfo	7e7a87ed
+lfc-castleofnoeascape2.r00	f64d25f3
+lfc-castleofnoeascape2.r01	b89aa777
+lfc-castleofnoeascape2.r02	4c6723b8
+lfc-castleofnoeascape2.rar	bd50e8e1
+lfc-castleofnoeascape2.sfv	d0250518

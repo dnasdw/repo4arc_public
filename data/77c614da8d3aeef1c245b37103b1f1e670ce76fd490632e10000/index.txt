@@ -1,0 +1,11 @@
+sxs-strange_field_football_v786432.nfo	-	4808	1	0	0	0
+sxs-strange_field_football_v786432.r00	-	50000000	1	4808	0	1
+sxs-strange_field_football_v786432.r01	-	50000000	1	50004808	0	49
+sxs-strange_field_football_v786432.r02	-	50000000	1	100004808	0	97
+sxs-strange_field_football_v786432.r03	-	50000000	1	150004808	0	145
+sxs-strange_field_football_v786432.r04	-	50000000	1	200004808	0	193
+sxs-strange_field_football_v786432.r05	-	50000000	1	250004808	0	241
+sxs-strange_field_football_v786432.r06	-	50000000	1	300004808	0	289
+sxs-strange_field_football_v786432.r07	-	3733601	1	350004808	0	337
+sxs-strange_field_football_v786432.rar	-	50000000	1	353738409	0	341
+sxs-strange_field_football_v786432.sfv	-	441	1	403738409	0	389

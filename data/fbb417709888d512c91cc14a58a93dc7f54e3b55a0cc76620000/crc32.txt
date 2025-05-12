@@ -1,0 +1,10 @@
+lfc-a9ada_v65536.nfo	8dec5de2
+lfc-a9ada_v65536.r00	f4acaa6d
+lfc-a9ada_v65536.r01	4692e1ef
+lfc-a9ada_v65536.r02	650dae89
+lfc-a9ada_v65536.r03	2beb88d3
+lfc-a9ada_v65536.r04	e3afa70b
+lfc-a9ada_v65536.r05	1333bf35
+lfc-a9ada_v65536.r06	e60f9e3a
+lfc-a9ada_v65536.rar	d71578e4
+lfc-a9ada_v65536.sfv	020e4b07

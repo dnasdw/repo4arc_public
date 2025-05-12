@@ -1,0 +1,8 @@
+sxs-spacewing_war.nfo	cd082df65dbde7ff9f39cfa8c55d9c9c
+sxs-spacewing_war.r00	3c82b78481788f58a95acca46e47bbb0
+sxs-spacewing_war.r01	3bd8b5494bf303d306e9f7c5f8b1510d
+sxs-spacewing_war.r02	4db02b4abeae8d3db41ab7d7663ac65b
+sxs-spacewing_war.r03	0254b6e7deef4dd267ae51fe76b7d6c8
+sxs-spacewing_war.r04	f23a01f56a81beb510dc7b15516f462e
+sxs-spacewing_war.rar	384305ff2bc4241046dbf2fd97ae8572
+sxs-spacewing_war.sfv	cb0728ce01651b7646477941329e9fc7

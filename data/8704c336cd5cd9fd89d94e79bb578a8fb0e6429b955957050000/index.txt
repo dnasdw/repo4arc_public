@@ -1,0 +1,12 @@
+bbb-n-anrma.nfo	-	5517	1	0	0	0
+bbb-n-anrma.part01.rar	-	250000000	1	5517	0	1
+bbb-n-anrma.part02.rar	-	250000000	1	250005517	0	240
+bbb-n-anrma.part03.rar	-	250000000	1	500005517	0	479
+bbb-n-anrma.part04.rar	-	250000000	1	212251264	1	203
+bbb-n-anrma.part05.rar	-	250000000	1	462251264	1	442
+bbb-n-anrma.part06.rar	-	250000000	1	174502528	2	167
+bbb-n-anrma.part07.rar	-	250000000	1	424502528	2	406
+bbb-n-anrma.part08.rar	-	250000000	1	136753792	3	131
+bbb-n-anrma.part09.rar	-	250000000	1	386753792	3	370
+bbb-n-anrma.part10.rar	-	16500505	1	99005056	4	95
+bbb-n-anrma.sfv	-	330	1	115505561	4	111

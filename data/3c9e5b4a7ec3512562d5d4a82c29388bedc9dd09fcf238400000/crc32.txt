@@ -1,0 +1,5 @@
+sxs-tunic_v131072.nfo	30a754f2
+sxs-tunic_v131072.r00	6cd7de4a
+sxs-tunic_v131072.r01	2db536ab
+sxs-tunic_v131072.rar	a0f46272
+sxs-tunic_v131072.sfv	3030b1e8

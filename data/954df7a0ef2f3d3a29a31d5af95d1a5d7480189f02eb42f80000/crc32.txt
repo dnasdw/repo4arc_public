@@ -1,0 +1,3 @@
+v-atelier_ryza_v65536_dlc.nfo	fac7224a
+v-atelier_ryza_v65536_dlc.rar	28e7d6e3
+v-atelier_ryza_v65536_dlc.sfv	342fb33c

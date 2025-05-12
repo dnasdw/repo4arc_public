@@ -1,0 +1,5 @@
+sxs-raft_survival_simulator.nfo	-	6758	1	0	0	0
+sxs-raft_survival_simulator.r00	-	100000000	1	6758	0	1
+sxs-raft_survival_simulator.r01	-	38513418	1	100006758	0	97
+sxs-raft_survival_simulator.rar	-	100000000	1	138520176	0	134
+sxs-raft_survival_simulator.sfv	-	126	1	238520176	0	230

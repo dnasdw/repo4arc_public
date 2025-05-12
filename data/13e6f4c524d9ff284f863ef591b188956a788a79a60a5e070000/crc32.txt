@@ -1,0 +1,3 @@
+sxs-potion_party_v65536.nfo	8bc0817b
+sxs-potion_party_v65536.rar	c2835c47
+sxs-potion_party_v65536.sfv	249f48dc

@@ -1,0 +1,7 @@
+brw-hidb.nfo	a77fa54f
+brw-hidb.r00	222fa339
+brw-hidb.r01	d47d3c81
+brw-hidb.r02	b3e703b7
+brw-hidb.r03	de7a7dee
+brw-hidb.rar	93828046
+brw-hidb.sfv	57475302

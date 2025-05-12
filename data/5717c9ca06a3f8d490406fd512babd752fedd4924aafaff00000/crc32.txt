@@ -1,0 +1,4 @@
+sxs-jump_king_v131072.nfo	85d3cda2
+sxs-jump_king_v131072.r00	6f1a098d
+sxs-jump_king_v131072.rar	1c9382be
+sxs-jump_king_v131072.sfv	fc341f91

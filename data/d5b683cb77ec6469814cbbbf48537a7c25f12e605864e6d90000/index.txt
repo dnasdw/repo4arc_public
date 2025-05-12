@@ -1,0 +1,6 @@
+sxs-onion_force.nfo	-	5666	1	0	0	0
+sxs-onion_force.r00	-	100000000	1	5666	0	1
+sxs-onion_force.r01	-	100000000	1	100005666	0	97
+sxs-onion_force.r02	-	6354497	1	200005666	0	193
+sxs-onion_force.rar	-	100000000	1	206360163	0	200
+sxs-onion_force.sfv	-	120	1	306360163	0	296

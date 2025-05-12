@@ -1,0 +1,9 @@
+v-demon_pit.nfo	c7650076e92ef87d35e2b53702a592b0
+v-demon_pit.r00	d3d7bcd244b99e6fd2315a4c3169bd42
+v-demon_pit.r01	0b77b5e4762464be48b1b03e4a4240b7
+v-demon_pit.r02	f488000053b94ed48fe25267aaf346df
+v-demon_pit.r03	d3f461d59418c98387b2dedc78837315
+v-demon_pit.r04	2f0d022763da5f14f3a39e3c165798a2
+v-demon_pit.r05	1ce777801ebd26f48ccc52243cb0d06d
+v-demon_pit.rar	a5f59e33d38de567a51ddafe3085adf5
+v-demon_pit.sfv	435948ba217929dd3d85ee159e034f02

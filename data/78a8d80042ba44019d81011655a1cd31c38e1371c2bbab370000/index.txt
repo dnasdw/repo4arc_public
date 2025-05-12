@@ -1,0 +1,3 @@
+hr-axtpa-dlc-vol1.nfo	-	12959	1	0	0	0
+hr-axtpa-dlc-vol1.rar	-	1255275	1	12959	0	1
+hr-axtpa-dlc-vol1.sfv	-	32	1	1268234	0	3

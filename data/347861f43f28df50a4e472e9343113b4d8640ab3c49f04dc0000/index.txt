@@ -1,0 +1,15 @@
+sxs-catty_and_batty_the_spirit_guide.nfo	-	5432	1	0	0	0
+sxs-catty_and_batty_the_spirit_guide.r00	-	50000000	1	5432	0	1
+sxs-catty_and_batty_the_spirit_guide.r01	-	50000000	1	50005432	0	49
+sxs-catty_and_batty_the_spirit_guide.r02	-	50000000	1	100005432	0	97
+sxs-catty_and_batty_the_spirit_guide.r03	-	50000000	1	150005432	0	145
+sxs-catty_and_batty_the_spirit_guide.r04	-	50000000	1	200005432	0	193
+sxs-catty_and_batty_the_spirit_guide.r05	-	50000000	1	250005432	0	241
+sxs-catty_and_batty_the_spirit_guide.r06	-	50000000	1	300005432	0	289
+sxs-catty_and_batty_the_spirit_guide.r07	-	50000000	1	350005432	0	337
+sxs-catty_and_batty_the_spirit_guide.r08	-	50000000	1	400005432	0	385
+sxs-catty_and_batty_the_spirit_guide.r09	-	50000000	1	450005432	0	433
+sxs-catty_and_batty_the_spirit_guide.r10	-	50000000	1	500005432	0	481
+sxs-catty_and_batty_the_spirit_guide.r11	-	18001914	1	12251264	1	12
+sxs-catty_and_batty_the_spirit_guide.rar	-	50000000	1	30253178	1	30
+sxs-catty_and_batty_the_spirit_guide.sfv	-	663	1	80253178	1	78

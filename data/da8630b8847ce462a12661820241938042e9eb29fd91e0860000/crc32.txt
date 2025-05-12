@@ -1,0 +1,15 @@
+sxs-super_kart_mini_car_race.nfo	2e0cd560
+sxs-super_kart_mini_car_race.r00	7f3c3e51
+sxs-super_kart_mini_car_race.r01	d9786dbd
+sxs-super_kart_mini_car_race.r02	4a856e13
+sxs-super_kart_mini_car_race.r03	0cce468f
+sxs-super_kart_mini_car_race.r04	f4e17aa5
+sxs-super_kart_mini_car_race.r05	be7afa31
+sxs-super_kart_mini_car_race.r06	8448334f
+sxs-super_kart_mini_car_race.r07	1d852522
+sxs-super_kart_mini_car_race.r08	9785815b
+sxs-super_kart_mini_car_race.r09	4103e810
+sxs-super_kart_mini_car_race.r10	9b3cb6a2
+sxs-super_kart_mini_car_race.r11	f5e40ebf
+sxs-super_kart_mini_car_race.rar	d5df82b4
+sxs-super_kart_mini_car_race.sfv	e83d4e1b

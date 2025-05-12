@@ -1,0 +1,5 @@
+brw-sett.nfo	47c43ce2
+brw-sett.r00	9b17f175
+brw-sett.r01	0ae54975
+brw-sett.rar	b7c046c0
+brw-sett.sfv	563869e7

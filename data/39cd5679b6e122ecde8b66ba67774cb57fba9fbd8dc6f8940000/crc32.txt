@@ -1,0 +1,10 @@
+sxs-nippon_marathon_v65536.nfo	f1f5f2b3
+sxs-nippon_marathon_v65536.r00	071ec78a
+sxs-nippon_marathon_v65536.r01	d5990ba6
+sxs-nippon_marathon_v65536.r02	73c18833
+sxs-nippon_marathon_v65536.r03	1aef4644
+sxs-nippon_marathon_v65536.r04	8682556f
+sxs-nippon_marathon_v65536.r05	db42b707
+sxs-nippon_marathon_v65536.r06	15b9db1b
+sxs-nippon_marathon_v65536.rar	4d2ee0cc
+sxs-nippon_marathon_v65536.sfv	3432b667

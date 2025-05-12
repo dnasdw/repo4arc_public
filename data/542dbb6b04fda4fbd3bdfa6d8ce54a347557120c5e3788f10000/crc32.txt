@@ -1,0 +1,14 @@
+sxs-seabed_v131072.nfo	16337695
+sxs-seabed_v131072.r00	f7d7ad37
+sxs-seabed_v131072.r01	8d1fbbfa
+sxs-seabed_v131072.r02	3c4041de
+sxs-seabed_v131072.r03	a850535c
+sxs-seabed_v131072.r04	a7475329
+sxs-seabed_v131072.r05	a228ba08
+sxs-seabed_v131072.r06	67eaeff3
+sxs-seabed_v131072.r07	67234a70
+sxs-seabed_v131072.r08	1544c6be
+sxs-seabed_v131072.r09	45cd30ae
+sxs-seabed_v131072.r10	c3b0310a
+sxs-seabed_v131072.rar	60e871ae
+sxs-seabed_v131072.sfv	17ac0a57

@@ -1,0 +1,4 @@
+v-doom_ii_v458752_dlc.nfo	-	8086	1	0	0	0
+v-doom_ii_v458752_dlc.r00	-	46688946	1	8086	0	1
+v-doom_ii_v458752_dlc.rar	-	50000000	1	46697032	0	46
+v-doom_ii_v458752_dlc.sfv	-	72	1	96697032	0	94

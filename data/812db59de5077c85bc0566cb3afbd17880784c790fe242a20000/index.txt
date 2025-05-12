@@ -1,0 +1,3 @@
+sxs-banner_of_the_maid_miss_elisas_journal_dlc.nfo	-	8162	1	0	0	0
+sxs-banner_of_the_maid_miss_elisas_journal_dlc.rar	-	563192	1	8162	0	1
+sxs-banner_of_the_maid_miss_elisas_journal_dlc.sfv	-	61	1	571354	0	2

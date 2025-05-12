@@ -1,0 +1,3 @@
+v-civilization_vi_dlc.nfo	9ab437f5892bd5f7f9d92455641e3891
+v-civilization_vi_dlc.rar	b22af98ab8b5ee7b58d98cd9a4c3c711
+v-civilization_vi_dlc.sfv	361c2f2ba0123fd27f03410c01c5f505

@@ -1,0 +1,3 @@
+sxs-love_esquire_v65536.nfo	-	6068	1	0	0	0
+sxs-love_esquire_v65536.rar	-	53320745	1	6068	0	1
+sxs-love_esquire_v65536.sfv	-	38	1	53326813	0	52

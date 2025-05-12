@@ -1,0 +1,13 @@
+brw-mnab.nfo	b95175e8
+brw-mnab.r00	1660dd79
+brw-mnab.r01	c15c7fc6
+brw-mnab.r02	ccad1b63
+brw-mnab.r03	c34ff2de
+brw-mnab.r04	02b90ce5
+brw-mnab.r05	dd3a0a3f
+brw-mnab.r06	5baa7411
+brw-mnab.r07	7f8d7a44
+brw-mnab.r08	33226836
+brw-mnab.r09	568a63ae
+brw-mnab.rar	26fa0418
+brw-mnab.sfv	eb1d4798

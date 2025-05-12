@@ -1,0 +1,3 @@
+v-hat_in_time_nyakuza_metro_dlc.nfo	-	4420	1	0	0	0
+v-hat_in_time_nyakuza_metro_dlc.rar	-	104095	1	4420	0	1
+v-hat_in_time_nyakuza_metro_dlc.sfv	-	46	1	108515	0	2

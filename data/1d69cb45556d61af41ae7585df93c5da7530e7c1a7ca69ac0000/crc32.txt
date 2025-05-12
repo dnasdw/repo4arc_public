@@ -1,0 +1,5 @@
+sxs-debris_infinity_v131072.nfo	9c4e0638
+sxs-debris_infinity_v131072.r00	0f2f9962
+sxs-debris_infinity_v131072.r01	0585c754
+sxs-debris_infinity_v131072.rar	8db5fbe7
+sxs-debris_infinity_v131072.sfv	1dfd7f2a

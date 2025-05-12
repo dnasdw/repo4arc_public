@@ -1,0 +1,9 @@
+jrp-n-nt.nfo	0a4b529f
+jrp-n-nt.r00	1fe4e19b
+jrp-n-nt.r01	3620ecba
+jrp-n-nt.r02	40e9c00a
+jrp-n-nt.r03	317070d3
+jrp-n-nt.r04	cc600e28
+jrp-n-nt.r05	cf94f470
+jrp-n-nt.rar	126ed9dc
+jrp-n-nt.sfv	417e6e12

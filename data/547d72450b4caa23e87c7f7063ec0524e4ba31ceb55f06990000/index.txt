@@ -1,0 +1,10 @@
+v-labyrinth_city_pierre_the_maze_detective_v65536.nfo	-	7462	1	0	0	0
+v-labyrinth_city_pierre_the_maze_detective_v65536.r00	-	50000000	1	7462	0	1
+v-labyrinth_city_pierre_the_maze_detective_v65536.r01	-	50000000	1	50007462	0	49
+v-labyrinth_city_pierre_the_maze_detective_v65536.r02	-	50000000	1	100007462	0	97
+v-labyrinth_city_pierre_the_maze_detective_v65536.r03	-	50000000	1	150007462	0	145
+v-labyrinth_city_pierre_the_maze_detective_v65536.r04	-	50000000	1	200007462	0	193
+v-labyrinth_city_pierre_the_maze_detective_v65536.r05	-	50000000	1	250007462	0	241
+v-labyrinth_city_pierre_the_maze_detective_v65536.r06	-	39527847	1	300007462	0	289
+v-labyrinth_city_pierre_the_maze_detective_v65536.rar	-	50000000	1	339535309	0	327
+v-labyrinth_city_pierre_the_maze_detective_v65536.sfv	-	512	1	389535309	0	375

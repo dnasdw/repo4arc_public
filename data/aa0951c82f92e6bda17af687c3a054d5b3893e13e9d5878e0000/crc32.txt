@@ -1,0 +1,7 @@
+sxs-pets_no_more.nfo	2aba559a
+sxs-pets_no_more.r00	45cebbb8
+sxs-pets_no_more.r01	fe663de6
+sxs-pets_no_more.r02	ea8b87d6
+sxs-pets_no_more.r03	6afa7877
+sxs-pets_no_more.rar	a1a6b3f6
+sxs-pets_no_more.sfv	1dcb7da9

@@ -1,0 +1,4 @@
+bbb-h-baaza.nfo	-	5517	1	0	0	0
+bbb-h-baaza.part1.rar	-	250000000	1	5517	0	1
+bbb-h-baaza.part2.rar	-	143037134	1	250005517	0	240
+bbb-h-baaza.sfv	-	64	1	393042651	0	377

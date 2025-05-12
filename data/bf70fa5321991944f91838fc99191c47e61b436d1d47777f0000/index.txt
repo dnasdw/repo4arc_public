@@ -1,0 +1,7 @@
+v-streets_of_rage_4_v196608.nfo	-	10442	1	0	0	0
+v-streets_of_rage_4_v196608.r00	-	50000000	1	10442	0	1
+v-streets_of_rage_4_v196608.r01	-	50000000	1	50010442	0	49
+v-streets_of_rage_4_v196608.r02	-	50000000	1	100010442	0	97
+v-streets_of_rage_4_v196608.r03	-	41812449	1	150010442	0	145
+v-streets_of_rage_4_v196608.rar	-	50000000	1	191822891	0	185
+v-streets_of_rage_4_v196608.sfv	-	210	1	241822891	0	233

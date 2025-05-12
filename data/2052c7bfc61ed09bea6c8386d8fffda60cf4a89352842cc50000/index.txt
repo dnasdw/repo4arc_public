@@ -1,0 +1,11 @@
+sxs-just_die_already_v262144.nfo	-	10814	1	0	0	0
+sxs-just_die_already_v262144.r00	-	50000000	1	10814	0	1
+sxs-just_die_already_v262144.r01	-	50000000	1	50010814	0	49
+sxs-just_die_already_v262144.r02	-	50000000	1	100010814	0	97
+sxs-just_die_already_v262144.r03	-	50000000	1	150010814	0	145
+sxs-just_die_already_v262144.r04	-	50000000	1	200010814	0	193
+sxs-just_die_already_v262144.r05	-	50000000	1	250010814	0	241
+sxs-just_die_already_v262144.r06	-	50000000	1	300010814	0	289
+sxs-just_die_already_v262144.r07	-	38230492	1	350010814	0	337
+sxs-just_die_already_v262144.rar	-	50000000	1	388241306	0	374
+sxs-just_die_already_v262144.sfv	-	387	1	438241306	0	422

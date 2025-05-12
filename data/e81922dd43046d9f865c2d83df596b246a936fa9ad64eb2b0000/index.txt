@@ -1,0 +1,11 @@
+lfc-baddreamfever.nfo	-	4245	1	0	0	0
+lfc-baddreamfever.r00	-	50000000	1	4245	0	1
+lfc-baddreamfever.r01	-	50000000	1	50004245	0	49
+lfc-baddreamfever.r02	-	50000000	1	100004245	0	97
+lfc-baddreamfever.r03	-	50000000	1	150004245	0	145
+lfc-baddreamfever.r04	-	50000000	1	200004245	0	193
+lfc-baddreamfever.r05	-	50000000	1	250004245	0	241
+lfc-baddreamfever.r06	-	50000000	1	300004245	0	289
+lfc-baddreamfever.r07	-	15353365	1	350004245	0	337
+lfc-baddreamfever.rar	-	50000000	1	365357610	0	352
+lfc-baddreamfever.sfv	-	288	1	415357610	0	400

@@ -1,0 +1,10 @@
+sxs-flatland_vol1.nfo	-	4808	1	0	0	0
+sxs-flatland_vol1.r00	-	50000000	1	4808	0	1
+sxs-flatland_vol1.r01	-	50000000	1	50004808	0	49
+sxs-flatland_vol1.r02	-	50000000	1	100004808	0	97
+sxs-flatland_vol1.r03	-	50000000	1	150004808	0	145
+sxs-flatland_vol1.r04	-	50000000	1	200004808	0	193
+sxs-flatland_vol1.r05	-	50000000	1	250004808	0	241
+sxs-flatland_vol1.r06	-	19914750	1	300004808	0	289
+sxs-flatland_vol1.rar	-	50000000	1	319919558	0	308
+sxs-flatland_vol1.sfv	-	256	1	369919558	0	356

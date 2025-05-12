@@ -1,0 +1,3 @@
+sxs-betomis.nfo	-	4886	1	0	0	0
+sxs-betomis.rar	-	45049880	1	4886	0	1
+sxs-betomis.sfv	-	26	1	45054766	0	44

@@ -1,0 +1,14 @@
+hr-akzza.nfo	8e46661c221a7716c6561be9df6b32c7
+hr-akzza.r00	b3be7e595b2c60c7dd128c392d5f148f
+hr-akzza.r01	2da704473ee58be8c2269c16e9e30e8d
+hr-akzza.r02	eb228081a7a7e8dcf9aad9b3e0360c12
+hr-akzza.r03	82821e34825b4cb2c70a5ec283b2b55c
+hr-akzza.r04	136cdcea58fa1a5dbc9a2665418e19f6
+hr-akzza.r05	42a989fbbb30789fcd2248d0b3d4e534
+hr-akzza.r06	2236d4c922ed65ca77f83a5fd250b1fe
+hr-akzza.r07	563f1a11529713fdc3c9ce4c9852ebbd
+hr-akzza.r08	f27fc4fa5e721ef27f6c988ad3f3ed81
+hr-akzza.rar	ca70d4e5d10a8a07d860ccb302396a83
+hr-akzza.sfv	03c1a0a73a65e84a521c80b47ad74d8d
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/hr-akzza.jpg	cc1c6077292d793d7dc0f6bd5ee839fa

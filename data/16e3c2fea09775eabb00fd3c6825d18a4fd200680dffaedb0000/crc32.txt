@@ -1,0 +1,7 @@
+v-thoth.nfo	3f685b78
+v-thoth.r00	ccb0df4c
+v-thoth.r01	8cc077fe
+v-thoth.r02	a958f13c
+v-thoth.r03	63a19f97
+v-thoth.rar	dad49cc3
+v-thoth.sfv	b513203d

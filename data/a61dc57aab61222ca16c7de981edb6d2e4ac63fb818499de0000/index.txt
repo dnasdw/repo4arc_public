@@ -1,0 +1,6 @@
+sxs-rift_adventure.nfo	-	4340	1	0	0	0
+sxs-rift_adventure.r00	-	50000000	1	4340	0	1
+sxs-rift_adventure.r01	-	50000000	1	50004340	0	49
+sxs-rift_adventure.r02	-	18707302	1	100004340	0	97
+sxs-rift_adventure.rar	-	50000000	1	118711642	0	115
+sxs-rift_adventure.sfv	-	132	1	168711642	0	163

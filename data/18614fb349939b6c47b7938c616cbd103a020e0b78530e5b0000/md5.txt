@@ -1,0 +1,5 @@
+sxs-final_fantasy_v_v262144.nfo	aa29d8a4de6b16140d62288046b7e2d3
+sxs-final_fantasy_v_v262144.r00	90636b3ed8d8d4347fbfbcfd63f4b531
+sxs-final_fantasy_v_v262144.r01	eb5e31fa07b932db577ad1b717a9f983
+sxs-final_fantasy_v_v262144.rar	0c3c18dffb4bb8be3bb25f7e39a73ea6
+sxs-final_fantasy_v_v262144.sfv	a3b85e4d3b25f1088bcabb71883acbc4

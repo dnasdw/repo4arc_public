@@ -1,0 +1,5 @@
+bbb-n-ajsba.nfo	-	5517	1	0	0	0
+bbb-n-ajsba.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ajsba.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ajsba.part3.rar	-	189237287	1	500005517	0	479
+bbb-n-ajsba.sfv	-	96	1	151488551	1	145

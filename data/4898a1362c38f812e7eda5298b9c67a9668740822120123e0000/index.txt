@@ -1,0 +1,6 @@
+v-virtuaracing.nfo	-	5590	1	0	0	0
+v-virtuaracing.r00	-	50000000	1	5590	0	1
+v-virtuaracing.r01	-	50000000	1	50005590	0	49
+v-virtuaracing.r02	-	47138068	1	100005590	0	97
+v-virtuaracing.rar	-	50000000	1	147143658	0	142
+v-virtuaracing.sfv	-	116	1	197143658	0	190

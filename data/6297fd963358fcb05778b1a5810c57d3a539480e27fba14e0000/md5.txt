@@ -1,0 +1,4 @@
+brw-bcru.nfo	e16c867f8bc2d7d997ede62aab718e19
+brw-bcru.r00	b3076b7f782b43a928d6d15cfa38991c
+brw-bcru.rar	503c2e0f9e65b315527b4f961d7de1c1
+brw-bcru.sfv	35a645514a6c1aaae7d4c93601e64369

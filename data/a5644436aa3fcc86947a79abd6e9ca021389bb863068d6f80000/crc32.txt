@@ -1,0 +1,11 @@
+sxs-pac_man_museum_plus_v262144.nfo	d89665c6
+sxs-pac_man_museum_plus_v262144.r00	7df32b5b
+sxs-pac_man_museum_plus_v262144.r01	b46be8bb
+sxs-pac_man_museum_plus_v262144.r02	8b83753e
+sxs-pac_man_museum_plus_v262144.r03	cea46095
+sxs-pac_man_museum_plus_v262144.r04	d050302b
+sxs-pac_man_museum_plus_v262144.r05	cb1255bb
+sxs-pac_man_museum_plus_v262144.r06	836fe809
+sxs-pac_man_museum_plus_v262144.r07	80bbd245
+sxs-pac_man_museum_plus_v262144.rar	eef9f506
+sxs-pac_man_museum_plus_v262144.sfv	7eab6e12

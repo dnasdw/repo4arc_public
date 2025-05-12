@@ -1,0 +1,11 @@
+sxs-gunsmith_workshop_simulator.nfo	10d13130
+sxs-gunsmith_workshop_simulator.r00	ae94df99
+sxs-gunsmith_workshop_simulator.r01	9431abdb
+sxs-gunsmith_workshop_simulator.r02	db8e213f
+sxs-gunsmith_workshop_simulator.r03	29363dee
+sxs-gunsmith_workshop_simulator.r04	7e86e733
+sxs-gunsmith_workshop_simulator.r05	8b72966b
+sxs-gunsmith_workshop_simulator.r06	40ba3e22
+sxs-gunsmith_workshop_simulator.r07	a8b85eef
+sxs-gunsmith_workshop_simulator.rar	53d55b6d
+sxs-gunsmith_workshop_simulator.sfv	d576f73e

@@ -1,0 +1,13 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-astro_aqua_kitty_pawsome_collection.jpg	-	144373	1	0	0	0
+sxs-astro_aqua_kitty_pawsome_collection.nfo	-	5747	1	144373	0	1
+sxs-astro_aqua_kitty_pawsome_collection.r00	-	100000000	1	150120	0	2
+sxs-astro_aqua_kitty_pawsome_collection.r01	-	100000000	1	100150120	0	98
+sxs-astro_aqua_kitty_pawsome_collection.r02	-	100000000	1	200150120	0	194
+sxs-astro_aqua_kitty_pawsome_collection.r03	-	100000000	1	300150120	0	290
+sxs-astro_aqua_kitty_pawsome_collection.r04	-	100000000	1	400150120	0	386
+sxs-astro_aqua_kitty_pawsome_collection.r05	-	100000000	1	500150120	0	482
+sxs-astro_aqua_kitty_pawsome_collection.r06	-	100000000	1	62251264	1	60
+sxs-astro_aqua_kitty_pawsome_collection.r07	-	20412108	1	162251264	1	156
+sxs-astro_aqua_kitty_pawsome_collection.rar	-	100000000	1	182663372	1	176
+sxs-astro_aqua_kitty_pawsome_collection.sfv	-	486	1	282663372	1	272

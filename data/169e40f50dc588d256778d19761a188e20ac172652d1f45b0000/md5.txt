@@ -1,0 +1,3 @@
+sxs-the_pigeon_simulator_v65536.nfo	dbd567f4750f33e0142004e1931d603b
+sxs-the_pigeon_simulator_v65536.rar	9a75833f3ca64333bde483e3ea397b68
+sxs-the_pigeon_simulator_v65536.sfv	ac132d85f2df0477f297bbd0846a698e

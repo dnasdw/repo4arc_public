@@ -1,0 +1,6 @@
+jrp-contraptions.nfo	-	6099	1	0	0	0
+jrp-contraptions.r00	-	50000000	1	6099	0	1
+jrp-contraptions.r01	-	50000000	1	50006099	0	49
+jrp-contraptions.r02	-	7396784	1	100006099	0	97
+jrp-contraptions.rar	-	50000000	1	107402883	0	105
+jrp-contraptions.sfv	-	124	1	157402883	0	153

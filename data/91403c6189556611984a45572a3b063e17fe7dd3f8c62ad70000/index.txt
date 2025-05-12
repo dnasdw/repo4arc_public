@@ -1,0 +1,5 @@
+v-hammerwatch_2_v131072.nfo	-	6604	1	0	0	0
+v-hammerwatch_2_v131072.r00	-	100000000	1	6604	0	1
+v-hammerwatch_2_v131072.r01	-	335113	1	100006604	0	97
+v-hammerwatch_2_v131072.rar	-	100000000	1	100341717	0	98
+v-hammerwatch_2_v131072.sfv	-	114	1	200341717	0	194

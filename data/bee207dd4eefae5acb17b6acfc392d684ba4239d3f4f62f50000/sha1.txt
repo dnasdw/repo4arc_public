@@ -1,0 +1,7 @@
+sxs-sculpt_people.nfo	5840c38f0240cc37806f4856a7cd8077f2a219c1
+sxs-sculpt_people.r00	d8b952b524521effc760ea892e1f73219b46ee4c
+sxs-sculpt_people.r01	463180355a68d4c25acbdbaa3bd17395398dc271
+sxs-sculpt_people.r02	80d342dafa82c06a5408ec9631f9d606f75e5a5f
+sxs-sculpt_people.r03	7dd4b33da676d088822c4527d2f9e61a2d56c1fd
+sxs-sculpt_people.rar	84567bd8fa70d589963f47c7df55c3ed37604f28
+sxs-sculpt_people.sfv	4320388cc2ad7afc0f1082e98f669caebaa2d8c4

@@ -1,0 +1,10 @@
+sxs-monster_truck_xt_airport_derby.nfo	-	6376	1	0	0	0
+sxs-monster_truck_xt_airport_derby.r00	-	100000000	1	6376	0	1
+sxs-monster_truck_xt_airport_derby.r01	-	100000000	1	100006376	0	97
+sxs-monster_truck_xt_airport_derby.r02	-	100000000	1	200006376	0	193
+sxs-monster_truck_xt_airport_derby.r03	-	100000000	1	300006376	0	289
+sxs-monster_truck_xt_airport_derby.r04	-	100000000	1	400006376	0	385
+sxs-monster_truck_xt_airport_derby.r05	-	100000000	1	500006376	0	481
+sxs-monster_truck_xt_airport_derby.r06	-	5025860	1	62251264	1	60
+sxs-monster_truck_xt_airport_derby.rar	-	100000000	1	67277124	1	65
+sxs-monster_truck_xt_airport_derby.sfv	-	392	1	167277124	1	161

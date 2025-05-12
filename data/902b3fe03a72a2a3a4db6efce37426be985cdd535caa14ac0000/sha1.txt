@@ -1,0 +1,7 @@
+sxs-kombinera.nfo	2ff36bca0e2b9924a8cbad72bcee98b4513cc726
+sxs-kombinera.r00	03623e0f48b70414657965dec18f118a394d9dcd
+sxs-kombinera.r01	917e83fca159c2ca1290a18afe6cd37e7143b8ca
+sxs-kombinera.r02	a3e4a15e02f7ca5e033c7575a71cc1801bb57110
+sxs-kombinera.r03	475fc7eeec1aecdd59ddea1f9e94958c8f123319
+sxs-kombinera.rar	841dcd28f4f496456e8051576544da0257a94738
+sxs-kombinera.sfv	dc163d46cbd5643dc68a382c27ee9aaf59cd0479

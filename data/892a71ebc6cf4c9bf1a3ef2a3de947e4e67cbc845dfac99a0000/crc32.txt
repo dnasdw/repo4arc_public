@@ -1,0 +1,5 @@
+sxs-deaths_door_v131072.nfo	37f88e2a
+sxs-deaths_door_v131072.r00	8b733223
+sxs-deaths_door_v131072.r01	c4bc7291
+sxs-deaths_door_v131072.rar	db924d66
+sxs-deaths_door_v131072.sfv	13d73429

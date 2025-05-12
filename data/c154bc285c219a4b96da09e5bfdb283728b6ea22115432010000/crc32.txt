@@ -1,0 +1,13 @@
+i-stuvn.nfo	7b1f076f
+i-stuvn.r00	760558ea
+i-stuvn.r01	886054e0
+i-stuvn.r02	432558e5
+i-stuvn.r03	66e3dcfd
+i-stuvn.r04	f3a26e0f
+i-stuvn.r05	de330267
+i-stuvn.r06	1af18322
+i-stuvn.r07	5e5b5851
+i-stuvn.r08	1c430a34
+i-stuvn.r09	0ef68217
+i-stuvn.rar	e509286e
+i-stuvn.sfv	25a3906a

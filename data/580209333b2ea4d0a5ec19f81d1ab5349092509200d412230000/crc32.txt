@@ -1,0 +1,14 @@
+sxs-concordia_digital_edition_v131072.nfo	6ba1b9d7
+sxs-concordia_digital_edition_v131072.r00	0f64a19f
+sxs-concordia_digital_edition_v131072.r01	53577331
+sxs-concordia_digital_edition_v131072.r02	1dfbb7c2
+sxs-concordia_digital_edition_v131072.r03	850938e7
+sxs-concordia_digital_edition_v131072.r04	db34bf39
+sxs-concordia_digital_edition_v131072.r05	7b2544fd
+sxs-concordia_digital_edition_v131072.r06	cbd65088
+sxs-concordia_digital_edition_v131072.r07	223ed607
+sxs-concordia_digital_edition_v131072.r08	34ae6f05
+sxs-concordia_digital_edition_v131072.r09	854c75b5
+sxs-concordia_digital_edition_v131072.r10	6a816688
+sxs-concordia_digital_edition_v131072.rar	7c00b0ae
+sxs-concordia_digital_edition_v131072.sfv	f704b82a

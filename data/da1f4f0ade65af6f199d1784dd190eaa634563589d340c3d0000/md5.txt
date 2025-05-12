@@ -1,0 +1,3 @@
+v-doom_ii_addons_1_dlc.nfo	c37f1b7a1354c58061daa96495d2746f
+v-doom_ii_addons_1_dlc.rar	61bf3b6859702372c1c13dfe28a54be0
+v-doom_ii_addons_1_dlc.sfv	4ab051f79741b8a220bc83e3223d2f94

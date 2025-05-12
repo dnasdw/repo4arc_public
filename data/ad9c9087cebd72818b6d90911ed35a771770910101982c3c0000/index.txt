@@ -1,0 +1,4 @@
+v-the_almost_gone_v65536.nfo	-	6137	1	0	0	0
+v-the_almost_gone_v65536.r00	-	35752590	1	6137	0	1
+v-the_almost_gone_v65536.rar	-	50000000	1	35758727	0	36
+v-the_almost_gone_v65536.sfv	-	78	1	85758727	0	84

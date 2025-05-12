@@ -1,0 +1,11 @@
+sxs-juicy_realm_v524288.nfo	73642d15
+sxs-juicy_realm_v524288.r00	b44112ef
+sxs-juicy_realm_v524288.r01	4e7637b8
+sxs-juicy_realm_v524288.r02	062c044b
+sxs-juicy_realm_v524288.r03	25f7b99e
+sxs-juicy_realm_v524288.r04	f61d4765
+sxs-juicy_realm_v524288.r05	198b6e96
+sxs-juicy_realm_v524288.r06	d3156307
+sxs-juicy_realm_v524288.r07	022b06d6
+sxs-juicy_realm_v524288.rar	87803b8a
+sxs-juicy_realm_v524288.sfv	e02ea851

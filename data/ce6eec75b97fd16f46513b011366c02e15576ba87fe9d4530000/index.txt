@@ -1,0 +1,12 @@
+sxs-swimsanity.nfo	-	5978	1	0	0	0
+sxs-swimsanity.r00	-	50000000	1	5978	0	1
+sxs-swimsanity.r01	-	50000000	1	50005978	0	49
+sxs-swimsanity.r02	-	50000000	1	100005978	0	97
+sxs-swimsanity.r03	-	50000000	1	150005978	0	145
+sxs-swimsanity.r04	-	50000000	1	200005978	0	193
+sxs-swimsanity.r05	-	50000000	1	250005978	0	241
+sxs-swimsanity.r06	-	50000000	1	300005978	0	289
+sxs-swimsanity.r07	-	50000000	1	350005978	0	337
+sxs-swimsanity.r08	-	24257051	1	400005978	0	385
+sxs-swimsanity.rar	-	50000000	1	424263029	0	409
+sxs-swimsanity.sfv	-	290	1	474263029	0	457

@@ -1,0 +1,3 @@
+v-ssbu_costumes5_dlc.nfo	03c7644f87f642f223fa3b3b98d303bd00df5877
+v-ssbu_costumes5_dlc.rar	9fbbad688a86a2e0fcc06a0429dfadb039f4fd0b
+v-ssbu_costumes5_dlc.sfv	6320a517676d428675d6034af54641b88071ca26

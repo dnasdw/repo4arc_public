@@ -1,0 +1,4 @@
+sxs-jigsaw_masterpieces_2.nfo	-	6535	1	0	0	0
+sxs-jigsaw_masterpieces_2.r00	-	63529887	1	6535	0	1
+sxs-jigsaw_masterpieces_2.rar	-	100000000	1	63536422	0	62
+sxs-jigsaw_masterpieces_2.sfv	-	80	1	163536422	0	158

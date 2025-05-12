@@ -1,0 +1,16 @@
+sxs-spelunker_hd_deluxe_v327680.nfo	42d9b04e
+sxs-spelunker_hd_deluxe_v327680.r00	7a064975
+sxs-spelunker_hd_deluxe_v327680.r01	4f4dcd30
+sxs-spelunker_hd_deluxe_v327680.r02	9fc992d5
+sxs-spelunker_hd_deluxe_v327680.r03	cb933d08
+sxs-spelunker_hd_deluxe_v327680.r04	8ba816d0
+sxs-spelunker_hd_deluxe_v327680.r05	2c1e7612
+sxs-spelunker_hd_deluxe_v327680.r06	2a77416a
+sxs-spelunker_hd_deluxe_v327680.r07	94cb52e2
+sxs-spelunker_hd_deluxe_v327680.r08	68196700
+sxs-spelunker_hd_deluxe_v327680.r09	ba9b75a9
+sxs-spelunker_hd_deluxe_v327680.r10	e278d477
+sxs-spelunker_hd_deluxe_v327680.r11	d6f16d21
+sxs-spelunker_hd_deluxe_v327680.r12	fdb91f18
+sxs-spelunker_hd_deluxe_v327680.rar	d06196db
+sxs-spelunker_hd_deluxe_v327680.sfv	3ecde9b2

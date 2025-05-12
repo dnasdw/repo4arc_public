@@ -1,0 +1,5 @@
+sxs-shiftlings_enhanced_edition_v131072r.nfo	-	4418	1	0	0	0
+sxs-shiftlings_enhanced_edition_v131072r.r00	-	100000000	1	4418	0	1
+sxs-shiftlings_enhanced_edition_v131072r.r01	-	21593893	1	100004418	0	97
+sxs-shiftlings_enhanced_edition_v131072r.rar	-	100000000	1	121598311	0	118
+sxs-shiftlings_enhanced_edition_v131072r.sfv	-	165	1	221598311	0	214

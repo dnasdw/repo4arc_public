@@ -1,0 +1,6 @@
+lfc-padd.nfo	8d2994f927cd9a3031ddfd7a73fc1429
+lfc-padd.r00	86e12e0fbe6360e5e59830e7e13cdba3
+lfc-padd.r01	22b70fd8b1a4570ddd7219a3bd0a331a
+lfc-padd.r02	3876e7639263c1e64db8d34e3733fe7b
+lfc-padd.rar	08a90bcd76e359e23fc95227d32a1592
+lfc-padd.sfv	c297d25f1dcfd98c744eb8d00c36748a

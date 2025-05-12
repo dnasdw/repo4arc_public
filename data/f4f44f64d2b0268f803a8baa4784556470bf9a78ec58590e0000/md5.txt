@@ -1,0 +1,6 @@
+hr-arx2av1.nfo	a9d0e0c100fc8db88ee591f09dbc205b
+hr-arx2av1.r00	c4cb7c77e9d325dfa7b7ecf4349ff3a9
+hr-arx2av1.r01	bdab7d9adfa377ef7d941c6ca64fa5b3
+hr-arx2av1.r02	5c3c7a9bcffef7db0ef347a14f9aed39
+hr-arx2av1.rar	822c96431e30aeec3da971947465a479
+hr-arx2av1.sfv	e67d81ca4101084b9e4e62d2cb6c35ee

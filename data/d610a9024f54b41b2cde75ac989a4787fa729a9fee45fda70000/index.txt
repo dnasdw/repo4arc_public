@@ -1,0 +1,4 @@
+sxs-radon_break.nfo	-	5042	1	0	0	0
+sxs-radon_break.r00	-	32007809	1	5042	0	1
+sxs-radon_break.rar	-	50000000	1	32012851	0	32
+sxs-radon_break.sfv	-	60	1	82012851	0	80

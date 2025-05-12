@@ -1,0 +1,5 @@
+sxs-cities_skylines_v131072.nfo	ab5792e9e5e09e269ea68618acc0517a
+sxs-cities_skylines_v131072.r00	479708d4162d03acf9acfa59350993f7
+sxs-cities_skylines_v131072.r01	35108fe24979cdb678a230c503130059
+sxs-cities_skylines_v131072.rar	47ef19eaab6e71c70a6a4121fa9d5071
+sxs-cities_skylines_v131072.sfv	9208a95ba78e2c89c722e49fe7c8c97b

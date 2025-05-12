@@ -1,0 +1,4 @@
+sxs-swords_and_adventures.nfo	aeea24db
+sxs-swords_and_adventures.r00	c7c4fda8
+sxs-swords_and_adventures.rar	9c74c6b5
+sxs-swords_and_adventures.sfv	129e4844

@@ -1,0 +1,4 @@
+sxs-neko_navy_v131072.nfo	-	4653	1	0	0	0
+sxs-neko_navy_v131072.r00	-	9222803	1	4653	0	1
+sxs-neko_navy_v131072.rar	-	50000000	1	9227456	0	10
+sxs-neko_navy_v131072.sfv	-	72	1	59227456	0	58

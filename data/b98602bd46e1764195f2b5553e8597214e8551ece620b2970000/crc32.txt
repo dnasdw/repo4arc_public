@@ -1,0 +1,9 @@
+v-gripper_v131072.nfo	ebed3c47
+v-gripper_v131072.r00	674cc010
+v-gripper_v131072.r01	65145711
+v-gripper_v131072.r02	e6eb41f8
+v-gripper_v131072.r03	00c3c8f4
+v-gripper_v131072.r04	77f79d2e
+v-gripper_v131072.r05	5c81563d
+v-gripper_v131072.rar	d585c64c
+v-gripper_v131072.sfv	3ff5175c

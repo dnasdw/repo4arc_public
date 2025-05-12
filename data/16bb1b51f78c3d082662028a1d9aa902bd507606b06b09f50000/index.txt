@@ -1,0 +1,4 @@
+v-momodora_v327680.nfo	-	6370	1	0	0	0
+v-momodora_v327680.r00	-	36698373	1	6370	0	1
+v-momodora_v327680.rar	-	50000000	1	36704743	0	36
+v-momodora_v327680.sfv	-	66	1	86704743	0	84

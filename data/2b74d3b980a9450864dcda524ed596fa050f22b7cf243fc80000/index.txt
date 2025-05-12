@@ -1,0 +1,12 @@
+sxs-five_nights_at_freddys_2_v131072.nfo	-	4886	1	0	0	0
+sxs-five_nights_at_freddys_2_v131072.r00	-	50000000	1	4886	0	1
+sxs-five_nights_at_freddys_2_v131072.r01	-	50000000	1	50004886	0	49
+sxs-five_nights_at_freddys_2_v131072.r02	-	50000000	1	100004886	0	97
+sxs-five_nights_at_freddys_2_v131072.r03	-	50000000	1	150004886	0	145
+sxs-five_nights_at_freddys_2_v131072.r04	-	50000000	1	200004886	0	193
+sxs-five_nights_at_freddys_2_v131072.r05	-	50000000	1	250004886	0	241
+sxs-five_nights_at_freddys_2_v131072.r06	-	50000000	1	300004886	0	289
+sxs-five_nights_at_freddys_2_v131072.r07	-	50000000	1	350004886	0	337
+sxs-five_nights_at_freddys_2_v131072.r08	-	28225709	1	400004886	0	385
+sxs-five_nights_at_freddys_2_v131072.rar	-	50000000	1	428230595	0	412
+sxs-five_nights_at_freddys_2_v131072.sfv	-	510	1	478230595	0	460

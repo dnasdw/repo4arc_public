@@ -1,0 +1,7 @@
+sxs-ash_of_gods_the_way_v196608.nfo	-	3950	1	0	0	0
+sxs-ash_of_gods_the_way_v196608.r00	-	100000000	1	3950	0	1
+sxs-ash_of_gods_the_way_v196608.r01	-	100000000	1	100003950	0	97
+sxs-ash_of_gods_the_way_v196608.r02	-	100000000	1	200003950	0	193
+sxs-ash_of_gods_the_way_v196608.r03	-	30858381	1	300003950	0	289
+sxs-ash_of_gods_the_way_v196608.rar	-	100000000	1	330862331	0	319
+sxs-ash_of_gods_the_way_v196608.sfv	-	230	1	430862331	0	415

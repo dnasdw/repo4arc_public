@@ -1,0 +1,10 @@
+sxs-reventure_v458752.nfo	c63289fc
+sxs-reventure_v458752.r00	b60b5fd3
+sxs-reventure_v458752.r01	af20f518
+sxs-reventure_v458752.r02	1427b3ea
+sxs-reventure_v458752.r03	337368f0
+sxs-reventure_v458752.r04	73340250
+sxs-reventure_v458752.r05	f77d32cd
+sxs-reventure_v458752.r06	8a66e9ba
+sxs-reventure_v458752.rar	89a6a7af
+sxs-reventure_v458752.sfv	3c11f069

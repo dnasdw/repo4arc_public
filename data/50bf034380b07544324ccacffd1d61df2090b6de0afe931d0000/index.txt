@@ -1,0 +1,6 @@
+sxs-shovel_knight_treasure_trove_v458752.nfo	-	10502	1	0	0	0
+sxs-shovel_knight_treasure_trove_v458752.r00	-	50000000	1	10502	0	1
+sxs-shovel_knight_treasure_trove_v458752.r01	-	50000000	1	50010502	0	49
+sxs-shovel_knight_treasure_trove_v458752.r02	-	30203730	1	100010502	0	97
+sxs-shovel_knight_treasure_trove_v458752.rar	-	50000000	1	130214232	0	126
+sxs-shovel_knight_treasure_trove_v458752.sfv	-	220	1	180214232	0	174

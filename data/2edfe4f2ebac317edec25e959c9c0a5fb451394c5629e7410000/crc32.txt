@@ -1,0 +1,4 @@
+lfc-kettymaestro.nfo	dcb0d495
+lfc-kettymaestro.r00	eb5a1c5a
+lfc-kettymaestro.rar	7c699967
+lfc-kettymaestro.sfv	691a7ddc

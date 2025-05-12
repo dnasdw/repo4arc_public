@@ -1,0 +1,11 @@
+sxs-the_wanderer_frankensteins_creature_v65536.nfo	-	6914	1	0	0	0
+sxs-the_wanderer_frankensteins_creature_v65536.r00	-	50000000	1	6914	0	1
+sxs-the_wanderer_frankensteins_creature_v65536.r01	-	50000000	1	50006914	0	49
+sxs-the_wanderer_frankensteins_creature_v65536.r02	-	50000000	1	100006914	0	97
+sxs-the_wanderer_frankensteins_creature_v65536.r03	-	50000000	1	150006914	0	145
+sxs-the_wanderer_frankensteins_creature_v65536.r04	-	50000000	1	200006914	0	193
+sxs-the_wanderer_frankensteins_creature_v65536.r05	-	50000000	1	250006914	0	241
+sxs-the_wanderer_frankensteins_creature_v65536.r06	-	50000000	1	300006914	0	289
+sxs-the_wanderer_frankensteins_creature_v65536.r07	-	24597298	1	350006914	0	337
+sxs-the_wanderer_frankensteins_creature_v65536.rar	-	50000000	1	374604212	0	361
+sxs-the_wanderer_frankensteins_creature_v65536.sfv	-	549	1	424604212	0	409

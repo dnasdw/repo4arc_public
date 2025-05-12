@@ -1,0 +1,11 @@
+lfc-baddreamfever.nfo	e97d9248d1eba58fe47ab954a4d3d532
+lfc-baddreamfever.r00	5a9220bbb7183d3872748a5c42e9c72c
+lfc-baddreamfever.r01	dab64957ac4d748c25e97db6b2490f20
+lfc-baddreamfever.r02	f068e9bbb20c020c91a880454844b204
+lfc-baddreamfever.r03	79e70f1199e00a15a81584d4dfe113b5
+lfc-baddreamfever.r04	94316eeb1548396ad465b63b01d23f3d
+lfc-baddreamfever.r05	091fb29dcbe6e76ee24ed08ab7a59446
+lfc-baddreamfever.r06	bfce5dd3469d364d403c8433194a788e
+lfc-baddreamfever.r07	336b5705bd9f9e13b865adbfb6836497
+lfc-baddreamfever.rar	9077ffb9a368153b2ea9fc2fccf35d33
+lfc-baddreamfever.sfv	c2119cf541bdd5e3342b80687c8ec837

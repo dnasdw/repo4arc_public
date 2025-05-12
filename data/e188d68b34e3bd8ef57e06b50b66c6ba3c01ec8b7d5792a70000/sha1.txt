@@ -1,0 +1,8 @@
+sxs-akihabara.nfo	fa536f059efdad82ef4ec8c6d59e4d3796d0383c
+sxs-akihabara.r00	b711be6bb3d1a0bab776a4c55c29affe99114b01
+sxs-akihabara.r01	469256fa4b9734618418503b8e28ba61632df957
+sxs-akihabara.r02	ad027250348b40d23c0813d9e8ad56c3231b1d46
+sxs-akihabara.r03	00cf13429f475de953f2ef3865af66d6a19e9cab
+sxs-akihabara.r04	b77afe297c818e2fd36a6cd81367ca47a9efe6d2
+sxs-akihabara.rar	1c87d0393faced4fe27f9c7c819c0c36b77b9ba0
+sxs-akihabara.sfv	cea6a7fa0d1cc4df883e430b582fd3fc4801d7ac

@@ -1,0 +1,16 @@
+v-embracelet.nfo	0adad0ecc9c3e14df9d6c78318c66e46
+v-embracelet.r00	58c1b09adb7affd1d8766dc09d4cd52a
+v-embracelet.r01	8e03b9c26b1251f5456785cde4832d54
+v-embracelet.r02	458fd4adc664848dd966e66d798993be
+v-embracelet.r03	b10f8955ec3bfa9419b965faf479d86a
+v-embracelet.r04	da948be1a129a6bf2c758ac4b54e1cca
+v-embracelet.r05	63bc334dd5da1a97b952e0139d554822
+v-embracelet.r06	442528049c4cccc928ba64dda83d256c
+v-embracelet.r07	1832aac871823e39e993ddf2a127c85e
+v-embracelet.r08	3311f357902e68a15a6ddb3d73480f5f
+v-embracelet.r09	368643f25895ffd25781284e3aa6949b
+v-embracelet.r10	90c674fc0f11fc164aa88ea694f15ab0
+v-embracelet.r11	0c6e94d57593ed1ac081957e904f3345
+v-embracelet.r12	e770d34438067035e28d01ceeee7d925
+v-embracelet.rar	c00bc974014549788eb0dab9cfc0748b
+v-embracelet.sfv	bfb5fcaec6141fc16c65432a8fa0a4de

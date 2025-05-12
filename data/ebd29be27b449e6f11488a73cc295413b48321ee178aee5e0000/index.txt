@@ -1,0 +1,13 @@
+sxs-the_way_remastered_v196608.nfo	-	6212	1	0	0	0
+sxs-the_way_remastered_v196608.r00	-	50000000	1	6212	0	1
+sxs-the_way_remastered_v196608.r01	-	50000000	1	50006212	0	49
+sxs-the_way_remastered_v196608.r02	-	50000000	1	100006212	0	97
+sxs-the_way_remastered_v196608.r03	-	50000000	1	150006212	0	145
+sxs-the_way_remastered_v196608.r04	-	50000000	1	200006212	0	193
+sxs-the_way_remastered_v196608.r05	-	50000000	1	250006212	0	241
+sxs-the_way_remastered_v196608.r06	-	50000000	1	300006212	0	289
+sxs-the_way_remastered_v196608.r07	-	50000000	1	350006212	0	337
+sxs-the_way_remastered_v196608.r08	-	50000000	1	400006212	0	385
+sxs-the_way_remastered_v196608.r09	-	25704475	1	450006212	0	433
+sxs-the_way_remastered_v196608.rar	-	50000000	1	475710687	0	458
+sxs-the_way_remastered_v196608.sfv	-	495	1	525710687	0	506

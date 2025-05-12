@@ -1,0 +1,9 @@
+v-doublecross_v262144.nfo	19bf32fb
+v-doublecross_v262144.r00	e7877306
+v-doublecross_v262144.r01	642943fe
+v-doublecross_v262144.r02	7ff9165b
+v-doublecross_v262144.r03	689077fc
+v-doublecross_v262144.r04	9afc5149
+v-doublecross_v262144.r05	728f912e
+v-doublecross_v262144.rar	01261a84
+v-doublecross_v262144.sfv	4681764a

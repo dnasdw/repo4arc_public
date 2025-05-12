@@ -1,0 +1,5 @@
+sxs-pyramid_quest_v196608.nfo	-	4418	1	0	0	0
+sxs-pyramid_quest_v196608.r00	-	50000000	1	4418	0	1
+sxs-pyramid_quest_v196608.r01	-	39804242	1	50004418	0	49
+sxs-pyramid_quest_v196608.rar	-	50000000	1	89808660	0	87
+sxs-pyramid_quest_v196608.sfv	-	120	1	139808660	0	135

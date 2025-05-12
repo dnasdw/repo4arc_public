@@ -1,0 +1,13 @@
+sxs-swoon_earth_escape_v262144.nfo	67c6147a
+sxs-swoon_earth_escape_v262144.r00	084b12ba
+sxs-swoon_earth_escape_v262144.r01	6f4cebfb
+sxs-swoon_earth_escape_v262144.r02	10ac9d64
+sxs-swoon_earth_escape_v262144.r03	d97e7bf2
+sxs-swoon_earth_escape_v262144.r04	3610f8e2
+sxs-swoon_earth_escape_v262144.r05	9da02a11
+sxs-swoon_earth_escape_v262144.r06	ad162794
+sxs-swoon_earth_escape_v262144.r07	49702c8c
+sxs-swoon_earth_escape_v262144.r08	fe6851d7
+sxs-swoon_earth_escape_v262144.r09	e6b56f54
+sxs-swoon_earth_escape_v262144.rar	0354fbe1
+sxs-swoon_earth_escape_v262144.sfv	b9a08ded

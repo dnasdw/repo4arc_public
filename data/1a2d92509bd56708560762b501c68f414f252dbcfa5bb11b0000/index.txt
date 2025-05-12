@@ -1,0 +1,3 @@
+sxs-galacticon_v65536.nfo	-	6758	1	0	0	0
+sxs-galacticon_v65536.rar	-	46032424	1	6758	0	1
+sxs-galacticon_v65536.sfv	-	36	1	46039182	0	45

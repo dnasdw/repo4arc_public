@@ -1,0 +1,7 @@
+sxs-neverawake_v131072.nfo	2d7c849e
+sxs-neverawake_v131072.r00	fbe739f2
+sxs-neverawake_v131072.r01	17b4e334
+sxs-neverawake_v131072.r02	9e2b8c06
+sxs-neverawake_v131072.r03	03ae3fab
+sxs-neverawake_v131072.rar	9de2a9ef
+sxs-neverawake_v131072.sfv	18adbe5b

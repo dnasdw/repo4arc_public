@@ -1,0 +1,5 @@
+sxs-paw_patrol_world_v131072.nfo	f3c6c6a4f22c2c2caaa379ffc74882be
+sxs-paw_patrol_world_v131072.r00	e774b5a92be364ed8e3155e863d76560
+sxs-paw_patrol_world_v131072.r01	1abe43649b67d6211e16bceb9f141c71
+sxs-paw_patrol_world_v131072.rar	81f5e8f5f8b35723f84f55499e203d0f
+sxs-paw_patrol_world_v131072.sfv	4fdeb589908c179174752790c3e93665

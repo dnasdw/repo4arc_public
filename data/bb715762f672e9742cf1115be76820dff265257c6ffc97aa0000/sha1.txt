@@ -1,0 +1,5 @@
+sxs-growth.nfo	4b81a6d298bed0f22cc280360dbe9454c7050059
+sxs-growth.r00	cd1656c9bdf7781e7ca93a60799df8078e960df6
+sxs-growth.r01	e50e87e6d105bb81995024956c043c51da6ad57a
+sxs-growth.rar	09e4fbafdd59a0d175c67c3631d6069ed4b87d3b
+sxs-growth.sfv	0c7a0bdae4d3dafe655f6786e494c045abc55eef

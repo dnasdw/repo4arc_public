@@ -1,0 +1,16 @@
+nnssww_food_delivery_battle.nfo	33312ddc
+nnssww_food_delivery_battle.r00	7ae8fcd1
+nnssww_food_delivery_battle.r01	bcdf68b8
+nnssww_food_delivery_battle.r02	93948270
+nnssww_food_delivery_battle.r03	6376200d
+nnssww_food_delivery_battle.r04	671cdcbd
+nnssww_food_delivery_battle.r05	99347b5d
+nnssww_food_delivery_battle.r06	7ac26c13
+nnssww_food_delivery_battle.r07	a112cde9
+nnssww_food_delivery_battle.r08	69297269
+nnssww_food_delivery_battle.r09	a7d6448f
+nnssww_food_delivery_battle.r10	eda08e6e
+nnssww_food_delivery_battle.r11	4e24f750
+nnssww_food_delivery_battle.r12	7bda6ab1
+nnssww_food_delivery_battle.rar	eaaf4fcd
+nnssww_food_delivery_battle.sfv	839b95a0

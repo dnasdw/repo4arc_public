@@ -1,0 +1,7 @@
+bbb-n-smpkiosk.nfo	-	5517	1	0	0	0
+bbb-n-smpkiosk.part1.rar	-	250000000	1	5517	0	1
+bbb-n-smpkiosk.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-smpkiosk.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-smpkiosk.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-smpkiosk.part5.rar	-	141976654	1	462251264	1	442
+bbb-n-smpkiosk.sfv	-	175	1	66479182	2	64

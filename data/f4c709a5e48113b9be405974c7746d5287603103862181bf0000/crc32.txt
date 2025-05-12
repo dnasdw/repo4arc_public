@@ -1,0 +1,14 @@
+sxs-a_duel_hand_disaster_trackher_v196608.nfo	84784f11
+sxs-a_duel_hand_disaster_trackher_v196608.r00	1805161a
+sxs-a_duel_hand_disaster_trackher_v196608.r01	4b13a9a0
+sxs-a_duel_hand_disaster_trackher_v196608.r02	82e25a28
+sxs-a_duel_hand_disaster_trackher_v196608.r03	d598f486
+sxs-a_duel_hand_disaster_trackher_v196608.r04	56c30ea7
+sxs-a_duel_hand_disaster_trackher_v196608.r05	8d36b3c5
+sxs-a_duel_hand_disaster_trackher_v196608.r06	6054798e
+sxs-a_duel_hand_disaster_trackher_v196608.r07	6fc07b00
+sxs-a_duel_hand_disaster_trackher_v196608.r08	ea251147
+sxs-a_duel_hand_disaster_trackher_v196608.r09	d9f3e2ca
+sxs-a_duel_hand_disaster_trackher_v196608.r10	23d42acc
+sxs-a_duel_hand_disaster_trackher_v196608.rar	ba491cdc
+sxs-a_duel_hand_disaster_trackher_v196608.sfv	030c7e42

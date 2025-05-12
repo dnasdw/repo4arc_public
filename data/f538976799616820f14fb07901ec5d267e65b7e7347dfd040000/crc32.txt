@@ -1,0 +1,14 @@
+sxs-chimp_quest_spirit_isle.nfo	3f131178
+sxs-chimp_quest_spirit_isle.r00	e0882fde
+sxs-chimp_quest_spirit_isle.r01	9a81d05a
+sxs-chimp_quest_spirit_isle.r02	92068d4b
+sxs-chimp_quest_spirit_isle.r03	41bb914e
+sxs-chimp_quest_spirit_isle.r04	65ba6c0b
+sxs-chimp_quest_spirit_isle.r05	0e8dedf5
+sxs-chimp_quest_spirit_isle.r06	0c6450bc
+sxs-chimp_quest_spirit_isle.r07	6e0c1c25
+sxs-chimp_quest_spirit_isle.r08	31157368
+sxs-chimp_quest_spirit_isle.r09	d50b246c
+sxs-chimp_quest_spirit_isle.r10	b46de80e
+sxs-chimp_quest_spirit_isle.rar	516deca2
+sxs-chimp_quest_spirit_isle.sfv	3fbe3c8b

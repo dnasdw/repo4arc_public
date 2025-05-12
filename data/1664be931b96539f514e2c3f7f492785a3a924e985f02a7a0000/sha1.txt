@@ -1,0 +1,5 @@
+sxs-monster_puzzle.nfo	9d17ce03a740e5f90df395b6a7cb3df4bca2950d
+sxs-monster_puzzle.r00	ae9f9aebf1f4201a902f653eda8862ef5aeb914c
+sxs-monster_puzzle.r01	78473e6a912ae84161615c20e7f99f838c01e4b2
+sxs-monster_puzzle.rar	01ae462a77151e8ee0d3bdd91ab48608d79d6a60
+sxs-monster_puzzle.sfv	bd243a1c4fd127d77c6a8b74471847d5fba6a1af

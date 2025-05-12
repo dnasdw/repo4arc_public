@@ -1,0 +1,4 @@
+lfc-repr.nfo	0609234a
+lfc-repr.r00	09f2981a
+lfc-repr.rar	1ccda5b2
+lfc-repr.sfv	bf7c08cb

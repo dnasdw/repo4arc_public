@@ -1,0 +1,15 @@
+lfc-drop.nfo	0fd28ab54399bedae2b45b48cbde8b26445f9446
+lfc-drop.r00	5e75a9fca76f7a39431aaebaa2ea3f24c7a76f8e
+lfc-drop.r01	17fca1a360c57ba7f8e6d2f857c32697fd3bc314
+lfc-drop.r02	81efe7003bff60d28ef751d12a84843221b680bb
+lfc-drop.r03	089a719a11d1011a01ee5a6987c58a4c6ef54bb3
+lfc-drop.r04	456263f9347f090fd5d216ce7c169fcab6541730
+lfc-drop.r05	d7c751943cd46dbaba63e4c00bcf9ddbbf2bfc97
+lfc-drop.r06	9e92e1fda6ccd506cfc5cd2abc925dda05d3bb1e
+lfc-drop.r07	3448fce9bc2f2c783182e6d7b33a8ad0620e7e74
+lfc-drop.r08	014aa3e7abc64036da9046c9b0ce31b5e89c51ba
+lfc-drop.r09	dcddd0e5bc3c8a9fdcef4cd7fafa5150dc250dbc
+lfc-drop.r10	5d904bbefc54ce09bcd696ab5e894f6b783dbd3f
+lfc-drop.r11	67933e33a49095bf978d1a0ba999baa045ae4fd5
+lfc-drop.rar	41cb5f875e84544e0630e5d08f847c69691492d7
+lfc-drop.sfv	18d6aee9ab4508cb7b4126c5db7c11b03c0565fd

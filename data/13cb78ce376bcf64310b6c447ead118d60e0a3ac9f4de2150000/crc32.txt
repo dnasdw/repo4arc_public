@@ -1,0 +1,15 @@
+v-the_cub.nfo	2b060798
+v-the_cub.r00	1c839367
+v-the_cub.r01	276cc317
+v-the_cub.r02	0629ed48
+v-the_cub.r03	7f5c8972
+v-the_cub.r04	00091520
+v-the_cub.r05	d1ad5d4b
+v-the_cub.r06	0053fe68
+v-the_cub.r07	36d585ff
+v-the_cub.r08	bfe5d055
+v-the_cub.r09	e482a631
+v-the_cub.r10	babb4066
+v-the_cub.r11	b82521e4
+v-the_cub.rar	e5537015
+v-the_cub.sfv	2e7681b2

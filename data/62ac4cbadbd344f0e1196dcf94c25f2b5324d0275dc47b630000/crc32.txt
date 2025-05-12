@@ -1,0 +1,3 @@
+v-ssbu_fighters_pass_dlc.nfo	2c327d82
+v-ssbu_fighters_pass_dlc.rar	577657bc
+v-ssbu_fighters_pass_dlc.sfv	b53eb825

@@ -1,0 +1,3 @@
+v-oddworld_new_n_tasty_alfs_escape_dlc.nfo	-	5044	1	0	0	0
+v-oddworld_new_n_tasty_alfs_escape_dlc.rar	-	118543	1	5044	0	1
+v-oddworld_new_n_tasty_alfs_escape_dlc.sfv	-	53	1	123587	0	2

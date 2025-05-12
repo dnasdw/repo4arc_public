@@ -1,0 +1,10 @@
+sxs-horatio_goes_snowboarding.nfo	-	5978	1	0	0	0
+sxs-horatio_goes_snowboarding.r00	-	50000000	1	5978	0	1
+sxs-horatio_goes_snowboarding.r01	-	50000000	1	50005978	0	49
+sxs-horatio_goes_snowboarding.r02	-	50000000	1	100005978	0	97
+sxs-horatio_goes_snowboarding.r03	-	50000000	1	150005978	0	145
+sxs-horatio_goes_snowboarding.r04	-	50000000	1	200005978	0	193
+sxs-horatio_goes_snowboarding.r05	-	50000000	1	250005978	0	241
+sxs-horatio_goes_snowboarding.r06	-	26541317	1	300005978	0	289
+sxs-horatio_goes_snowboarding.rar	-	50000000	1	326547295	0	315
+sxs-horatio_goes_snowboarding.sfv	-	352	1	376547295	0	363

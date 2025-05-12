@@ -1,0 +1,4 @@
+bbb-n-anq5a.nfo	-	5517	1	0	0	0
+bbb-n-anq5a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-anq5a.part2.rar	-	139868933	1	250005517	0	240
+bbb-n-anq5a.sfv	-	64	1	389874450	0	374

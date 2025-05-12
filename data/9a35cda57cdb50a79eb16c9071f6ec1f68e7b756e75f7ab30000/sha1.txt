@@ -1,0 +1,3 @@
+ind-dqxoffline.dlc.nfo	58749e471fd041b5d7b8357c97e68ae0c0c676df
+ind-dqxoffline.dlc.rar	fb4e06a9f82a0e0496469b4e43adba3cd63a4878
+ind-dqxoffline.dlc.sfv	7b3754f6b827e9455ca6faa2f9ef80b701ba373f

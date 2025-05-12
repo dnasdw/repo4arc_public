@@ -1,0 +1,14 @@
+lfc-bcdpa.nfo	06548803
+lfc-bcdpa.r00	9f9d9431
+lfc-bcdpa.r01	174b5bc5
+lfc-bcdpa.r02	efc08ec6
+lfc-bcdpa.r03	444ba7dd
+lfc-bcdpa.r04	639a7fe2
+lfc-bcdpa.r05	a43edf15
+lfc-bcdpa.r06	ca3e3266
+lfc-bcdpa.r07	e0529941
+lfc-bcdpa.r08	88ba7008
+lfc-bcdpa.rar	863e9370
+lfc-bcdpa.sfv	d6ab6498
+Proof	00000000
+Proof/lfc-bcdpa.jpg	bae1c9d0

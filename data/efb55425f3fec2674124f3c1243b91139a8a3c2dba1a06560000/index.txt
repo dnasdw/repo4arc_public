@@ -1,0 +1,11 @@
+jrp-h-ajv7b-cht.jpg	-	42603	1	0	0	0
+jrp-h-ajv7b-cht.nfo	-	6223	1	42603	0	1
+jrp-h-ajv7b-cht.r00	-	100000000	1	48826	0	2
+jrp-h-ajv7b-cht.r01	-	100000000	1	100048826	0	98
+jrp-h-ajv7b-cht.r02	-	100000000	1	200048826	0	194
+jrp-h-ajv7b-cht.r03	-	100000000	1	300048826	0	290
+jrp-h-ajv7b-cht.r04	-	100000000	1	400048826	0	386
+jrp-h-ajv7b-cht.r05	-	100000000	1	500048826	0	482
+jrp-h-ajv7b-cht.r06	-	97234839	1	62251264	1	60
+jrp-h-ajv7b-cht.rar	-	100000000	1	159486103	1	153
+jrp-h-ajv7b-cht.sfv	-	240	1	259486103	1	249

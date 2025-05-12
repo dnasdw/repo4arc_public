@@ -1,0 +1,4 @@
+v-pikmin_4_v65536.nfo	ac1abded
+v-pikmin_4_v65536.r00	cce34e04
+v-pikmin_4_v65536.rar	7d333906
+v-pikmin_4_v65536.sfv	709f038e

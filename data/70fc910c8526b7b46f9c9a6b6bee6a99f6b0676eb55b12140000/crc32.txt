@@ -1,0 +1,10 @@
+sxs-pictoquest_v196608.nfo	5a38a5ae
+sxs-pictoquest_v196608.r00	661d4cfb
+sxs-pictoquest_v196608.r01	f366bc03
+sxs-pictoquest_v196608.r02	38ab6916
+sxs-pictoquest_v196608.r03	49b31ae1
+sxs-pictoquest_v196608.r04	d32646e7
+sxs-pictoquest_v196608.r05	b3bf1685
+sxs-pictoquest_v196608.r06	bb212fab
+sxs-pictoquest_v196608.rar	74e084c6
+sxs-pictoquest_v196608.sfv	97b406b5

@@ -1,0 +1,13 @@
+sxs-tetris_effect_connected_v1114112.nfo	b1e6fd3b
+sxs-tetris_effect_connected_v1114112.r00	dc971472
+sxs-tetris_effect_connected_v1114112.r01	b964d9ac
+sxs-tetris_effect_connected_v1114112.r02	4fa29007
+sxs-tetris_effect_connected_v1114112.r03	a1164c81
+sxs-tetris_effect_connected_v1114112.r04	e7ec5560
+sxs-tetris_effect_connected_v1114112.r05	1e25014b
+sxs-tetris_effect_connected_v1114112.r06	2ac809d4
+sxs-tetris_effect_connected_v1114112.r07	0d78affb
+sxs-tetris_effect_connected_v1114112.r08	499515c2
+sxs-tetris_effect_connected_v1114112.r09	aa9f6b94
+sxs-tetris_effect_connected_v1114112.rar	ad82f280
+sxs-tetris_effect_connected_v1114112.sfv	7a76e813

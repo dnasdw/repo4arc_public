@@ -1,0 +1,6 @@
+lfc-rtca.nfo	1184ddc4ce469995bf095e66b43c3f93b0a06ad8
+lfc-rtca.r00	8da9130e0649be86691d3bff53f4351dc0342831
+lfc-rtca.r01	4cc20c3dfb4b800e51bea6d58e69bf8ded829d03
+lfc-rtca.r02	1892a817e69c4f2acd8d87d8eb4c783f975ce3b1
+lfc-rtca.rar	91651bcd864fb709321589e6d0ddccf253ffefe9
+lfc-rtca.sfv	a38d12cb32534e7a2fe2972fafed43e8fedc3d16

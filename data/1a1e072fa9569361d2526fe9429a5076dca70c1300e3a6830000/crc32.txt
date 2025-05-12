@@ -1,0 +1,4 @@
+sxs-double_pug_switch_v65536.nfo	ca55a2d4
+sxs-double_pug_switch_v65536.r00	3992d8a1
+sxs-double_pug_switch_v65536.rar	e6aea24c
+sxs-double_pug_switch_v65536.sfv	13f45cd5

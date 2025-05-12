@@ -1,0 +1,12 @@
+sxs-fifa_20_russian_dlc.nfo	a64958c6
+sxs-fifa_20_russian_dlc.r00	c65611db
+sxs-fifa_20_russian_dlc.r01	369d4c98
+sxs-fifa_20_russian_dlc.r02	5fb758ee
+sxs-fifa_20_russian_dlc.r03	0b6edc47
+sxs-fifa_20_russian_dlc.r04	9e4fe956
+sxs-fifa_20_russian_dlc.r05	fc9dc175
+sxs-fifa_20_russian_dlc.r06	7678e044
+sxs-fifa_20_russian_dlc.r07	3ca59426
+sxs-fifa_20_russian_dlc.r08	49b604ed
+sxs-fifa_20_russian_dlc.rar	6ff7a90a
+sxs-fifa_20_russian_dlc.sfv	b0b26dc0

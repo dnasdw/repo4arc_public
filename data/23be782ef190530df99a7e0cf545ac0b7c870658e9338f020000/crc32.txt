@@ -1,0 +1,13 @@
+sxs-gorsd_v196608.nfo	2e4b087e
+sxs-gorsd_v196608.r00	b85f4615
+sxs-gorsd_v196608.r01	139df771
+sxs-gorsd_v196608.r02	052ee6c1
+sxs-gorsd_v196608.r03	d6b2ba5b
+sxs-gorsd_v196608.r04	a9803475
+sxs-gorsd_v196608.r05	c287b736
+sxs-gorsd_v196608.r06	78b9d6ed
+sxs-gorsd_v196608.r07	7b97c2ff
+sxs-gorsd_v196608.r08	b3410968
+sxs-gorsd_v196608.r09	ba161ef3
+sxs-gorsd_v196608.rar	dedbd819
+sxs-gorsd_v196608.sfv	47c4ae2b

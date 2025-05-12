@@ -1,0 +1,7 @@
+sxs-mary_skelter_2_dlc.nfo	-	8942	1	0	0	0
+sxs-mary_skelter_2_dlc.r00	-	50000000	1	8942	0	1
+sxs-mary_skelter_2_dlc.r01	-	50000000	1	50008942	0	49
+sxs-mary_skelter_2_dlc.r02	-	50000000	1	100008942	0	97
+sxs-mary_skelter_2_dlc.r03	-	7716330	1	150008942	0	145
+sxs-mary_skelter_2_dlc.rar	-	50000000	1	157725272	0	153
+sxs-mary_skelter_2_dlc.sfv	-	185	1	207725272	0	201

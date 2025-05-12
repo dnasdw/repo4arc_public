@@ -1,0 +1,14 @@
+i-blackmoor2.nfo	7d640b54
+i-blackmoor2.r00	aaf1e516
+i-blackmoor2.r01	edba8300
+i-blackmoor2.r02	0038cf8f
+i-blackmoor2.r03	2d1ef50f
+i-blackmoor2.r04	6700e5e4
+i-blackmoor2.r05	04614d75
+i-blackmoor2.r06	5462001f
+i-blackmoor2.r07	c8bbbf9c
+i-blackmoor2.r08	31b4ecc7
+i-blackmoor2.r09	58d552fd
+i-blackmoor2.r10	bbd7d461
+i-blackmoor2.rar	068fcd2b
+i-blackmoor2.sfv	21508da9

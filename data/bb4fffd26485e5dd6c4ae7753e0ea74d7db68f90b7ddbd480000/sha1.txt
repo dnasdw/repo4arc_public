@@ -1,0 +1,4 @@
+sxs-pokemon_cafe_mix_v196608.nfo	c68842cbe8ccb26fc82963c5b60c4a712c87827b
+sxs-pokemon_cafe_mix_v196608.r00	5ed03e66f6887ab829e52d021db4771b59d6cc42
+sxs-pokemon_cafe_mix_v196608.rar	23db6713fdbd360210917449857d91b8f8f37ee8
+sxs-pokemon_cafe_mix_v196608.sfv	df0a6ed44bfee7fa2b1ee4c5b87ce0209d0ddf55

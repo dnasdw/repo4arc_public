@@ -1,0 +1,16 @@
+sxs-legendary_heroes.nfo	3bc5b225
+sxs-legendary_heroes.r00	d33dae57
+sxs-legendary_heroes.r01	e665ec92
+sxs-legendary_heroes.r02	937eb85f
+sxs-legendary_heroes.r03	286d6c4c
+sxs-legendary_heroes.r04	01c9a643
+sxs-legendary_heroes.r05	bf54a350
+sxs-legendary_heroes.r06	2a7aad82
+sxs-legendary_heroes.r07	5c2fe3aa
+sxs-legendary_heroes.r08	cd0b7eae
+sxs-legendary_heroes.r09	375adb59
+sxs-legendary_heroes.r10	526dcd9e
+sxs-legendary_heroes.r11	b77e07f0
+sxs-legendary_heroes.r12	aa0a1983
+sxs-legendary_heroes.rar	4f42913b
+sxs-legendary_heroes.sfv	67fc1c4b

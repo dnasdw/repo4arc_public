@@ -1,0 +1,4 @@
+sxs-swords_and_adventures.nfo	-	4340	1	0	0	0
+sxs-swords_and_adventures.r00	-	7010207	1	4340	0	1
+sxs-swords_and_adventures.rar	-	100000000	1	7014547	0	8
+sxs-swords_and_adventures.sfv	-	80	1	107014547	0	104

@@ -1,0 +1,7 @@
+brw-grlc.nfo	d265d294
+brw-grlc.r00	6fcc711c
+brw-grlc.r01	01f2f9cc
+brw-grlc.r02	138b9cd8
+brw-grlc.r03	3f6695a8
+brw-grlc.rar	d29cd39f
+brw-grlc.sfv	f6cf4bd0

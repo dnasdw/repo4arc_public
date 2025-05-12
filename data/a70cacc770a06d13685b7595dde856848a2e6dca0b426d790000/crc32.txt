@@ -1,0 +1,9 @@
+sxs-alders_blood_v196608.nfo	f2295e95
+sxs-alders_blood_v196608.r00	6be56f2a
+sxs-alders_blood_v196608.r01	bba571f5
+sxs-alders_blood_v196608.r02	0d221a52
+sxs-alders_blood_v196608.r03	ca80124e
+sxs-alders_blood_v196608.r04	4368023c
+sxs-alders_blood_v196608.r05	3866c82c
+sxs-alders_blood_v196608.rar	0db0e2c2
+sxs-alders_blood_v196608.sfv	dfc4a58b

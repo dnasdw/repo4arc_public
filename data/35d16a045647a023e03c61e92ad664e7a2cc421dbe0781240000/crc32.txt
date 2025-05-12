@@ -1,0 +1,14 @@
+sxs-stay.nfo	2532fe1a
+sxs-stay.r00	e5f20725
+sxs-stay.r01	4346477d
+sxs-stay.r02	89837411
+sxs-stay.r03	440644ad
+sxs-stay.r04	b446812d
+sxs-stay.r05	efc50cdb
+sxs-stay.r06	0f5e709d
+sxs-stay.r07	f1ea8ff2
+sxs-stay.r08	c13e2efd
+sxs-stay.r09	c52bc87a
+sxs-stay.r10	6ae1193d
+sxs-stay.rar	e25756a5
+sxs-stay.sfv	26b7847d

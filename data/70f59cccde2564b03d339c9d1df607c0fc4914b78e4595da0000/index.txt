@@ -1,0 +1,4 @@
+sxs-snesjp_v393216.nfo	-	5669	1	0	0	0
+sxs-snesjp_v393216.r00	-	47291558	1	5669	0	1
+sxs-snesjp_v393216.rar	-	50000000	1	47297227	0	47
+sxs-snesjp_v393216.sfv	-	66	1	97297227	0	95

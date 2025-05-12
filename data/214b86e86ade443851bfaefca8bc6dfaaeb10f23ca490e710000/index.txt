@@ -1,0 +1,4 @@
+sxs-robo_revenge_squad_v65536.nfo	-	6602	1	0	0	0
+sxs-robo_revenge_squad_v65536.r00	-	44783919	1	6602	0	1
+sxs-robo_revenge_squad_v65536.rar	-	50000000	1	44790521	0	44
+sxs-robo_revenge_squad_v65536.sfv	-	88	1	94790521	0	92

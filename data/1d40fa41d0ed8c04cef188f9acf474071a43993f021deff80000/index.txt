@@ -1,0 +1,6 @@
+sxs-zoo_dentist.nfo	-	4808	1	0	0	0
+sxs-zoo_dentist.r00	-	50000000	1	4808	0	1
+sxs-zoo_dentist.r01	-	50000000	1	50004808	0	49
+sxs-zoo_dentist.r02	-	18521453	1	100004808	0	97
+sxs-zoo_dentist.rar	-	50000000	1	118526261	0	115
+sxs-zoo_dentist.sfv	-	120	1	168526261	0	163

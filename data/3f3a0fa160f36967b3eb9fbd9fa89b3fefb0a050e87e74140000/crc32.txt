@@ -1,0 +1,6 @@
+sxs-60_parsecs_v65536.nfo	e5164291
+sxs-60_parsecs_v65536.r00	ae8cdc12
+sxs-60_parsecs_v65536.r01	5eb70c90
+sxs-60_parsecs_v65536.r02	7b481da2
+sxs-60_parsecs_v65536.rar	57847737
+sxs-60_parsecs_v65536.sfv	038d70f7

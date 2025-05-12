@@ -1,0 +1,8 @@
+sxs-paw_patrol_grand_prix_v196608.nfo	27742f98
+sxs-paw_patrol_grand_prix_v196608.r00	db56c118
+sxs-paw_patrol_grand_prix_v196608.r01	1271206d
+sxs-paw_patrol_grand_prix_v196608.r02	04188588
+sxs-paw_patrol_grand_prix_v196608.r03	0c01cf75
+sxs-paw_patrol_grand_prix_v196608.r04	678ca315
+sxs-paw_patrol_grand_prix_v196608.rar	b1e072e3
+sxs-paw_patrol_grand_prix_v196608.sfv	b88d520f

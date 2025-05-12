@@ -1,0 +1,4 @@
+sxs-henry_the_hamster_handler_v65536.nfo	-	3794	1	0	0	0
+sxs-henry_the_hamster_handler_v65536.r00	-	53134215	1	3794	0	1
+sxs-henry_the_hamster_handler_v65536.rar	-	100000000	1	53138009	0	52
+sxs-henry_the_hamster_handler_v65536.sfv	-	102	1	153138009	0	148

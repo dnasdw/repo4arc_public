@@ -1,0 +1,5 @@
+v-samurai_shodown_mina_dlc.nfo	683b6066
+v-samurai_shodown_mina_dlc.r00	39b1d27f
+v-samurai_shodown_mina_dlc.r01	1f6508b5
+v-samurai_shodown_mina_dlc.rar	1c8c0a70
+v-samurai_shodown_mina_dlc.sfv	f19f7ccf

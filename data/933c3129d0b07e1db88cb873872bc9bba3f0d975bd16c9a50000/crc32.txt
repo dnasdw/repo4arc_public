@@ -1,0 +1,8 @@
+sxs-shin_megami_tensei_v_v131072.nfo	c20e84a1
+sxs-shin_megami_tensei_v_v131072.r00	88b05981
+sxs-shin_megami_tensei_v_v131072.r01	e73703bd
+sxs-shin_megami_tensei_v_v131072.r02	ec395275
+sxs-shin_megami_tensei_v_v131072.r03	50b9db7f
+sxs-shin_megami_tensei_v_v131072.r04	35f224d5
+sxs-shin_megami_tensei_v_v131072.rar	a7db7358
+sxs-shin_megami_tensei_v_v131072.sfv	e6f74f4a

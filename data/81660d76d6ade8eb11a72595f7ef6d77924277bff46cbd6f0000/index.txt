@@ -1,0 +1,3 @@
+sxs-azur_lane_crosswave_dlc.nfo	-	4028	1	0	0	0
+sxs-azur_lane_crosswave_dlc.rar	-	623610	1	4028	0	1
+sxs-azur_lane_crosswave_dlc.sfv	-	42	1	627638	0	2

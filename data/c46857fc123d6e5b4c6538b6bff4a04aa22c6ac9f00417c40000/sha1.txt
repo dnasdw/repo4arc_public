@@ -1,0 +1,5 @@
+sxs-exiled.nfo	2f5a12254b6a3baa68712bc38134813e61262f10
+sxs-exiled.r00	b6d3bbcde2d623d295a288e81be29a1ecb05da28
+sxs-exiled.r01	2d1b08ce702c57a7f53a21169e68df40c3aad34b
+sxs-exiled.rar	e0f7a92c1cebd65d6e3bdf98c82552bcad8e6adf
+sxs-exiled.sfv	e91aa74a0390247f639dca648c4ab292a8abaf5b

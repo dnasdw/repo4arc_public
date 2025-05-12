@@ -1,0 +1,17 @@
+v-regions_of_ruin.nfo	-	6136	1	0	0	0
+v-regions_of_ruin.r00	-	50000000	1	6136	0	1
+v-regions_of_ruin.r01	-	50000000	1	50006136	0	49
+v-regions_of_ruin.r02	-	50000000	1	100006136	0	97
+v-regions_of_ruin.r03	-	50000000	1	150006136	0	145
+v-regions_of_ruin.r04	-	50000000	1	200006136	0	193
+v-regions_of_ruin.r05	-	50000000	1	250006136	0	241
+v-regions_of_ruin.r06	-	50000000	1	300006136	0	289
+v-regions_of_ruin.r07	-	50000000	1	350006136	0	337
+v-regions_of_ruin.r08	-	50000000	1	400006136	0	385
+v-regions_of_ruin.r09	-	50000000	1	450006136	0	433
+v-regions_of_ruin.r10	-	50000000	1	500006136	0	481
+v-regions_of_ruin.r11	-	50000000	1	12251264	1	12
+v-regions_of_ruin.r12	-	50000000	1	62251264	1	60
+v-regions_of_ruin.r13	-	13849637	1	112251264	1	108
+v-regions_of_ruin.rar	-	50000000	1	126100901	1	122
+v-regions_of_ruin.sfv	-	480	1	176100901	1	170

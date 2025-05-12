@@ -1,0 +1,5 @@
+v-hourglass_v65536.nfo	-	3952	1	0	0	0
+v-hourglass_v65536.r00	-	50000000	1	3952	0	1
+v-hourglass_v65536.r01	-	47790242	1	50003952	0	49
+v-hourglass_v65536.rar	-	50000000	1	97794194	0	95
+v-hourglass_v65536.sfv	-	99	1	147794194	0	143

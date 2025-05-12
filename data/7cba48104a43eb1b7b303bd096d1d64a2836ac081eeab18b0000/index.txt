@@ -1,0 +1,16 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-axiom_verge_1_plus_2.jpg	-	151246	1	0	0	0
+sxs-axiom_verge_1_plus_2.nfo	-	5477	1	151246	0	1
+sxs-axiom_verge_1_plus_2.r00	-	100000000	1	156723	0	2
+sxs-axiom_verge_1_plus_2.r01	-	100000000	1	100156723	0	98
+sxs-axiom_verge_1_plus_2.r02	-	100000000	1	200156723	0	194
+sxs-axiom_verge_1_plus_2.r03	-	100000000	1	300156723	0	290
+sxs-axiom_verge_1_plus_2.r04	-	100000000	1	400156723	0	386
+sxs-axiom_verge_1_plus_2.r05	-	100000000	1	500156723	0	482
+sxs-axiom_verge_1_plus_2.r06	-	100000000	1	62251264	1	60
+sxs-axiom_verge_1_plus_2.r07	-	100000000	1	162251264	1	156
+sxs-axiom_verge_1_plus_2.r08	-	100000000	1	262251264	1	252
+sxs-axiom_verge_1_plus_2.r09	-	100000000	1	362251264	1	348
+sxs-axiom_verge_1_plus_2.r10	-	3519069	1	462251264	1	444
+sxs-axiom_verge_1_plus_2.rar	-	100000000	1	465770333	1	448
+sxs-axiom_verge_1_plus_2.sfv	-	468	1	28696832	2	28

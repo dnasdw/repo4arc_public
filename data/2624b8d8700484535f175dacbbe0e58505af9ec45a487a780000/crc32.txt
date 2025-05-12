@@ -1,0 +1,7 @@
+sxs-drift_legends_v65536.nfo	6a2f809f
+sxs-drift_legends_v65536.r00	ed546753
+sxs-drift_legends_v65536.r01	d47b24c7
+sxs-drift_legends_v65536.r02	b6d52236
+sxs-drift_legends_v65536.r03	57b5fd39
+sxs-drift_legends_v65536.rar	d6b99940
+sxs-drift_legends_v65536.sfv	841b6d21

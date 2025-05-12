@@ -1,0 +1,8 @@
+brw-raty.nfo	0482cd28
+brw-raty.r00	44e4fc4e
+brw-raty.r01	9d178220
+brw-raty.r02	b548498b
+brw-raty.r03	917cb8d5
+brw-raty.r04	c64af4be
+brw-raty.rar	c97b53cf
+brw-raty.sfv	fa7555eb

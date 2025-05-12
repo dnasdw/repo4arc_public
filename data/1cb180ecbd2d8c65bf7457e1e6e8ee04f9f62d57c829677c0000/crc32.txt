@@ -1,0 +1,9 @@
+sxs-lyrica2_stars_align_v131072.nfo	58bdc363
+sxs-lyrica2_stars_align_v131072.r00	ea9cbb6b
+sxs-lyrica2_stars_align_v131072.r01	3f16997b
+sxs-lyrica2_stars_align_v131072.r02	896b7626
+sxs-lyrica2_stars_align_v131072.r03	31339157
+sxs-lyrica2_stars_align_v131072.r04	f871369e
+sxs-lyrica2_stars_align_v131072.r05	c27344b5
+sxs-lyrica2_stars_align_v131072.rar	1d4832c0
+sxs-lyrica2_stars_align_v131072.sfv	0ad6b843

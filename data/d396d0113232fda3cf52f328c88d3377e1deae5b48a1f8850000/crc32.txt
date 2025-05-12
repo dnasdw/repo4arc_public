@@ -1,0 +1,11 @@
+lfc-sebu_v131072.nfo	3d2c1265
+lfc-sebu_v131072.r00	81c7d362
+lfc-sebu_v131072.r01	a5bfb919
+lfc-sebu_v131072.r02	edaa7119
+lfc-sebu_v131072.r03	37496459
+lfc-sebu_v131072.r04	6f760df9
+lfc-sebu_v131072.r05	e0654735
+lfc-sebu_v131072.r06	426200f9
+lfc-sebu_v131072.r07	bc30cdd8
+lfc-sebu_v131072.rar	6fdff641
+lfc-sebu_v131072.sfv	f8644d6a

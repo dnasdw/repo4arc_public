@@ -1,0 +1,5 @@
+sxs-cubic_figures_v131072.nfo	17be3cb707583f1efa424070672bfaea
+sxs-cubic_figures_v131072.r00	967272265ff0685b474970fbd9c2b8c5
+sxs-cubic_figures_v131072.r01	2139fead2e31953a0e64f941e3fa2cd4
+sxs-cubic_figures_v131072.rar	c8f6e1f84aedbc2ede70d86f9e8bd3b6
+sxs-cubic_figures_v131072.sfv	411d36ee76c12887e2fddafc36156333

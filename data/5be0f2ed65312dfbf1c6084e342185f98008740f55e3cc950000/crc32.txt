@@ -1,0 +1,16 @@
+sxs-bloodrayne_revamped_v65536.nfo	52164576
+sxs-bloodrayne_revamped_v65536.r00	fff93d72
+sxs-bloodrayne_revamped_v65536.r01	8f35f727
+sxs-bloodrayne_revamped_v65536.r02	a5f58846
+sxs-bloodrayne_revamped_v65536.r03	0cb31949
+sxs-bloodrayne_revamped_v65536.r04	b05ea2d6
+sxs-bloodrayne_revamped_v65536.r05	4d498647
+sxs-bloodrayne_revamped_v65536.r06	c268dd13
+sxs-bloodrayne_revamped_v65536.r07	458c9a79
+sxs-bloodrayne_revamped_v65536.r08	6b2bc55b
+sxs-bloodrayne_revamped_v65536.r09	d71a4588
+sxs-bloodrayne_revamped_v65536.r10	ce2ad172
+sxs-bloodrayne_revamped_v65536.r11	fa9f5b5c
+sxs-bloodrayne_revamped_v65536.r12	75c2cc72
+sxs-bloodrayne_revamped_v65536.rar	3234d92d
+sxs-bloodrayne_revamped_v65536.sfv	e9e154a5

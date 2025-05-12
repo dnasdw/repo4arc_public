@@ -1,0 +1,3 @@
+v-doom_ii_the_troopers_playground_dlc.nfo	-	7540	1	0	0	0
+v-doom_ii_the_troopers_playground_dlc.rar	-	6704583	1	7540	0	1
+v-doom_ii_the_troopers_playground_dlc.sfv	-	52	1	6712123	0	8

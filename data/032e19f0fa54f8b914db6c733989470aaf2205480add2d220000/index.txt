@@ -1,0 +1,4 @@
+sxs-carnivores_dinosaur_hunt_v65536.nfo	-	8552	1	0	0	0
+sxs-carnivores_dinosaur_hunt_v65536.r00	-	35168434	1	8552	0	1
+sxs-carnivores_dinosaur_hunt_v65536.rar	-	50000000	1	35176986	0	35
+sxs-carnivores_dinosaur_hunt_v65536.sfv	-	100	1	85176986	0	83

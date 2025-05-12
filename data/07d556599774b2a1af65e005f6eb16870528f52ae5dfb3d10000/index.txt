@@ -1,0 +1,11 @@
+sxs-fire_emblem_three_houses_v262144.nfo	-	6836	1	0	0	0
+sxs-fire_emblem_three_houses_v262144.r00	-	50000000	1	6836	0	1
+sxs-fire_emblem_three_houses_v262144.r01	-	50000000	1	50006836	0	49
+sxs-fire_emblem_three_houses_v262144.r02	-	50000000	1	100006836	0	97
+sxs-fire_emblem_three_houses_v262144.r03	-	50000000	1	150006836	0	145
+sxs-fire_emblem_three_houses_v262144.r04	-	50000000	1	200006836	0	193
+sxs-fire_emblem_three_houses_v262144.r05	-	50000000	1	250006836	0	241
+sxs-fire_emblem_three_houses_v262144.r06	-	50000000	1	300006836	0	289
+sxs-fire_emblem_three_houses_v262144.r07	-	1622705	1	350006836	0	337
+sxs-fire_emblem_three_houses_v262144.rar	-	50000000	1	351629541	0	339
+sxs-fire_emblem_three_houses_v262144.sfv	-	459	1	401629541	0	387

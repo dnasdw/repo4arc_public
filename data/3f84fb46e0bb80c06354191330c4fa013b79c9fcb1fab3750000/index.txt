@@ -1,0 +1,6 @@
+sxs-how_buddys_parents_met.nfo	-	5120	1	0	0	0
+sxs-how_buddys_parents_met.r00	-	50000000	1	5120	0	1
+sxs-how_buddys_parents_met.r01	-	50000000	1	50005120	0	49
+sxs-how_buddys_parents_met.r02	-	42656297	1	100005120	0	97
+sxs-how_buddys_parents_met.rar	-	50000000	1	142661417	0	138
+sxs-how_buddys_parents_met.sfv	-	164	1	192661417	0	186

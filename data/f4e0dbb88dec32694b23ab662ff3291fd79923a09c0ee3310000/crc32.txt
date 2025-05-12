@@ -1,0 +1,8 @@
+v-feather_v131072.nfo	3de27792
+v-feather_v131072.r00	e11d0ae6
+v-feather_v131072.r01	9fe8f35b
+v-feather_v131072.r02	39b07734
+v-feather_v131072.r03	2b35d1a3
+v-feather_v131072.r04	e92938d4
+v-feather_v131072.rar	434d13db
+v-feather_v131072.sfv	d26d53cd

@@ -1,0 +1,12 @@
+lfc-89bp.nfo	4660deb2
+lfc-89bp.r00	78c15015
+lfc-89bp.r01	257f4a97
+lfc-89bp.r02	301c9084
+lfc-89bp.r03	eac72816
+lfc-89bp.r04	7cb42356
+lfc-89bp.r05	cd24532e
+lfc-89bp.r06	1dd2795a
+lfc-89bp.r07	64cb93cc
+lfc-89bp.r08	7ff47639
+lfc-89bp.rar	a36747fd
+lfc-89bp.sfv	60f7fd05

@@ -1,0 +1,11 @@
+v-getsufumaden_undying_moon_v65536.nfo	05e80667
+v-getsufumaden_undying_moon_v65536.r00	8bb86e52
+v-getsufumaden_undying_moon_v65536.r01	ab9890bb
+v-getsufumaden_undying_moon_v65536.r02	27f8b855
+v-getsufumaden_undying_moon_v65536.r03	8150586c
+v-getsufumaden_undying_moon_v65536.r04	0adfc04d
+v-getsufumaden_undying_moon_v65536.r05	19e14594
+v-getsufumaden_undying_moon_v65536.r06	2bd1ea77
+v-getsufumaden_undying_moon_v65536.r07	b026268f
+v-getsufumaden_undying_moon_v65536.rar	03343edb
+v-getsufumaden_undying_moon_v65536.sfv	2073171b

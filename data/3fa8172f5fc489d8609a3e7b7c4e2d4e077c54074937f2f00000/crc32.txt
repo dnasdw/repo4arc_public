@@ -1,0 +1,15 @@
+sxs-dnf_duel_whos_next_v196608.nfo	3db3ddb6
+sxs-dnf_duel_whos_next_v196608.r00	3bffe067
+sxs-dnf_duel_whos_next_v196608.r01	7db28425
+sxs-dnf_duel_whos_next_v196608.r02	16df0d22
+sxs-dnf_duel_whos_next_v196608.r03	3edbf43e
+sxs-dnf_duel_whos_next_v196608.r04	6a861ea3
+sxs-dnf_duel_whos_next_v196608.r05	d6ee1602
+sxs-dnf_duel_whos_next_v196608.r06	b6d4e1b6
+sxs-dnf_duel_whos_next_v196608.r07	8765cfd2
+sxs-dnf_duel_whos_next_v196608.r08	7c3a8863
+sxs-dnf_duel_whos_next_v196608.r09	8cafbe0a
+sxs-dnf_duel_whos_next_v196608.r10	f1f183ee
+sxs-dnf_duel_whos_next_v196608.r11	491be288
+sxs-dnf_duel_whos_next_v196608.rar	ab6a5865
+sxs-dnf_duel_whos_next_v196608.sfv	2810d4ea

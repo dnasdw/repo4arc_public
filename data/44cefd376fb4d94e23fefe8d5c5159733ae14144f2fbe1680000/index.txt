@@ -1,0 +1,3 @@
+sxs-sonic_frontiers_holiday_cheer_suit_dlc.nfo	-	7538	1	0	0	0
+sxs-sonic_frontiers_holiday_cheer_suit_dlc.rar	-	1119700	1	7538	0	1
+sxs-sonic_frontiers_holiday_cheer_suit_dlc.sfv	-	57	1	1127238	0	3

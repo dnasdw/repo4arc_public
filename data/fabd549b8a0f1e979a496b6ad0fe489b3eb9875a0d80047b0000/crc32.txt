@@ -1,0 +1,12 @@
+v-loud.nfo	7cb4446a
+v-loud.r00	5cf2b404
+v-loud.r01	513114e9
+v-loud.r02	cefc2802
+v-loud.r03	29399f26
+v-loud.r04	e8ebf104
+v-loud.r05	9271a02e
+v-loud.r06	8fcc2987
+v-loud.r07	a07e268c
+v-loud.r08	cc9c7bc1
+v-loud.rar	16906ebb
+v-loud.sfv	e9abbab3

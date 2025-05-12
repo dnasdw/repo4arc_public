@@ -1,0 +1,13 @@
+sxs-fallout_shelter_v131072.nfo	0a092277
+sxs-fallout_shelter_v131072.r00	e1a7f025
+sxs-fallout_shelter_v131072.r01	34c6c966
+sxs-fallout_shelter_v131072.r02	0021459b
+sxs-fallout_shelter_v131072.r03	f5ec4451
+sxs-fallout_shelter_v131072.r04	fb1bca73
+sxs-fallout_shelter_v131072.r05	10ef31f4
+sxs-fallout_shelter_v131072.r06	8dafea85
+sxs-fallout_shelter_v131072.r07	d7171544
+sxs-fallout_shelter_v131072.r08	f6359eda
+sxs-fallout_shelter_v131072.r09	061ddb0f
+sxs-fallout_shelter_v131072.rar	bbee7a0c
+sxs-fallout_shelter_v131072.sfv	473ee4dc

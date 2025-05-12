@@ -1,0 +1,8 @@
+sxs-knight_squad_2_v131072.nfo	39c51aea
+sxs-knight_squad_2_v131072.r00	6fe83c50
+sxs-knight_squad_2_v131072.r01	dd95f892
+sxs-knight_squad_2_v131072.r02	74ae4ad7
+sxs-knight_squad_2_v131072.r03	e3465cbc
+sxs-knight_squad_2_v131072.r04	364fbbce
+sxs-knight_squad_2_v131072.rar	c8167bf3
+sxs-knight_squad_2_v131072.sfv	4fd7cf09

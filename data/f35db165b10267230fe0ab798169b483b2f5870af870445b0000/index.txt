@@ -1,0 +1,8 @@
+sxs-detective_agency_gray_tie_collectors_edition.nfo	-	5510	1	0	0	0
+sxs-detective_agency_gray_tie_collectors_edition.r00	-	100000000	1	5510	0	1
+sxs-detective_agency_gray_tie_collectors_edition.r01	-	100000000	1	100005510	0	97
+sxs-detective_agency_gray_tie_collectors_edition.r02	-	100000000	1	200005510	0	193
+sxs-detective_agency_gray_tie_collectors_edition.r03	-	100000000	1	300005510	0	289
+sxs-detective_agency_gray_tie_collectors_edition.r04	-	28810715	1	400005510	0	385
+sxs-detective_agency_gray_tie_collectors_edition.rar	-	100000000	1	428816225	0	413
+sxs-detective_agency_gray_tie_collectors_edition.sfv	-	378	1	528816225	0	509

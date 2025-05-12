@@ -1,0 +1,6 @@
+sxs-sky_rogue_v131072.nfo	614cded24a2ebc035b2ffdf82d007b08
+sxs-sky_rogue_v131072.r00	535bfb6efd69fb6daf434d5c8024c470
+sxs-sky_rogue_v131072.r01	edcdb2d2f462b236d25ea61f3d798c94
+sxs-sky_rogue_v131072.r02	d71497fb88077067cc0154f306c7a6bb
+sxs-sky_rogue_v131072.rar	6023a513cadfd317c6ef37214313da30
+sxs-sky_rogue_v131072.sfv	5ed6599408225c3a2b4cb503e258973c

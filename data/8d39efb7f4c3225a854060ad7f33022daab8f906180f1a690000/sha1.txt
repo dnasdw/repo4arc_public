@@ -1,0 +1,3 @@
+v-ssbu_usbcp4_dlc.nfo	dde85845a6e7e17030e3f4ebe9a58c833df18260
+v-ssbu_usbcp4_dlc.rar	909f76ae1850e370dc2f8823e2c2a0d67a1d9fda
+v-ssbu_usbcp4_dlc.sfv	7a3ce904a2e07f4a9815885a4d74e6196b7f9510

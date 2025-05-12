@@ -1,0 +1,3 @@
+sxs-brave_soldier_invasion_of_cyborgs.nfo	-	5198	1	0	0	0
+sxs-brave_soldier_invasion_of_cyborgs.rar	-	40113202	1	5198	0	1
+sxs-brave_soldier_invasion_of_cyborgs.sfv	-	52	1	40118400	0	40

@@ -1,0 +1,11 @@
+lfc-mcre.nfo	dcffc7a9dd41e0d11df2974779d69acb
+lfc-mcre.r00	699ac4f89781950623afb9c3d0c9c04c
+lfc-mcre.r01	032c8da44b262d120998bcf1e3c20b50
+lfc-mcre.r02	8197095a829ee4e5b5aedfc63cf223dc
+lfc-mcre.r03	bb3932e5ad04e69aa8f1ac0746c3708a
+lfc-mcre.r04	45d0656176742ae63ee6dc1c193b8b89
+lfc-mcre.r05	316ee98746d323fca12edfd4635ab3e6
+lfc-mcre.r06	8d1fe0571f7f9c9a31467d5417fea2cd
+lfc-mcre.r07	49f4efa0f88ecde486936925843d8a69
+lfc-mcre.rar	d30c9898e74be821ce695ede6a9566c0
+lfc-mcre.sfv	2bc86701f9dbe31ad175e63cb01f950f

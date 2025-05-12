@@ -1,0 +1,13 @@
+sxs-inner_ashes_v131072.nfo	09bc4616
+sxs-inner_ashes_v131072.r00	8aea55f4
+sxs-inner_ashes_v131072.r01	c77c329b
+sxs-inner_ashes_v131072.r02	8e3dbda3
+sxs-inner_ashes_v131072.r03	c1779f7d
+sxs-inner_ashes_v131072.r04	5240f11b
+sxs-inner_ashes_v131072.r05	db569a6c
+sxs-inner_ashes_v131072.r06	a517f47e
+sxs-inner_ashes_v131072.r07	51e8a7c0
+sxs-inner_ashes_v131072.r08	a72925ca
+sxs-inner_ashes_v131072.r09	26b12855
+sxs-inner_ashes_v131072.rar	e24358d7
+sxs-inner_ashes_v131072.sfv	52d80398

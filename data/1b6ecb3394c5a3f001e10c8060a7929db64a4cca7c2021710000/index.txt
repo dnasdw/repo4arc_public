@@ -1,0 +1,13 @@
+n-aeternanoctis.nfo	-	6072	1	0	0	0
+n-aeternanoctis.r00	-	50000000	1	6072	0	1
+n-aeternanoctis.r01	-	50000000	1	50006072	0	49
+n-aeternanoctis.r02	-	50000000	1	100006072	0	97
+n-aeternanoctis.r03	-	50000000	1	150006072	0	145
+n-aeternanoctis.r04	-	50000000	1	200006072	0	193
+n-aeternanoctis.r05	-	50000000	1	250006072	0	241
+n-aeternanoctis.r06	-	50000000	1	300006072	0	289
+n-aeternanoctis.r07	-	50000000	1	350006072	0	337
+n-aeternanoctis.r08	-	50000000	1	400006072	0	385
+n-aeternanoctis.r09	-	31704143	1	450006072	0	433
+n-aeternanoctis.rar	-	50000000	1	481710215	0	464
+n-aeternanoctis.sfv	-	330	1	531710215	0	512

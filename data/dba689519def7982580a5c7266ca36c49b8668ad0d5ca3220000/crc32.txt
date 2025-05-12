@@ -1,0 +1,15 @@
+sxs-buggy_race_racing_master.nfo	c8b2737d
+sxs-buggy_race_racing_master.r00	98a6e682
+sxs-buggy_race_racing_master.r01	08def195
+sxs-buggy_race_racing_master.r02	7f0b6473
+sxs-buggy_race_racing_master.r03	24659e1b
+sxs-buggy_race_racing_master.r04	85be4e0c
+sxs-buggy_race_racing_master.r05	9f475463
+sxs-buggy_race_racing_master.r06	1c96f9e5
+sxs-buggy_race_racing_master.r07	0d5d377f
+sxs-buggy_race_racing_master.r08	c8536c27
+sxs-buggy_race_racing_master.r09	c6833ea4
+sxs-buggy_race_racing_master.r10	72786534
+sxs-buggy_race_racing_master.r11	ab85508e
+sxs-buggy_race_racing_master.rar	1fce9d5d
+sxs-buggy_race_racing_master.sfv	5d337350

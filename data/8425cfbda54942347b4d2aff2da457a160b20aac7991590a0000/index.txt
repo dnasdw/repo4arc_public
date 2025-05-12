@@ -1,0 +1,6 @@
+sxs-wood_guy.nfo	-	4496	1	0	0	0
+sxs-wood_guy.r00	-	100000000	1	4496	0	1
+sxs-wood_guy.r01	-	100000000	1	100004496	0	97
+sxs-wood_guy.r02	-	56259637	1	200004496	0	193
+sxs-wood_guy.rar	-	100000000	1	256264133	0	247
+sxs-wood_guy.sfv	-	108	1	356264133	0	343

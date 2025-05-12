@@ -1,0 +1,5 @@
+lfc-alst.nfo	dc19cb35
+lfc-alst.r00	47fd178b
+lfc-alst.r01	6cd9e6ca
+lfc-alst.rar	d4c752d5
+lfc-alst.sfv	0b0f0f6e

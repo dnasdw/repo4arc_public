@@ -1,0 +1,5 @@
+sxs-ufo_henfield.nfo	b8d489c14d05344036cc679b4d73f44c43ef37e4
+sxs-ufo_henfield.r00	17cebef8c3726db5b6bd27ad91a0becb8f5d89b8
+sxs-ufo_henfield.r01	db55c5db4e025ad4ee658376ca4056537ee04449
+sxs-ufo_henfield.rar	8c7901d0e4485b6e4a416f61445d746f3a138414
+sxs-ufo_henfield.sfv	aeda04bab4b0d6edca9aea44d0f792f6150606ff

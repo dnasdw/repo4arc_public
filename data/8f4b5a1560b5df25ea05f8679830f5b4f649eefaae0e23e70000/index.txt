@@ -1,0 +1,6 @@
+sxs-disco_dodgeball_remix_v65536.nfo	-	3872	1	0	0	0
+sxs-disco_dodgeball_remix_v65536.r00	-	50000000	1	3872	0	1
+sxs-disco_dodgeball_remix_v65536.r01	-	50000000	1	50003872	0	49
+sxs-disco_dodgeball_remix_v65536.r02	-	5478188	1	100003872	0	97
+sxs-disco_dodgeball_remix_v65536.rar	-	50000000	1	105482060	0	103
+sxs-disco_dodgeball_remix_v65536.sfv	-	188	1	155482060	0	151

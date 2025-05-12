@@ -1,0 +1,4 @@
+sxs-dungeonoid_2_awakening.nfo	e8e85141
+sxs-dungeonoid_2_awakening.r00	9f30d72f
+sxs-dungeonoid_2_awakening.rar	390b393b
+sxs-dungeonoid_2_awakening.sfv	7b2c6be3

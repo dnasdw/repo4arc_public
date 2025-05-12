@@ -1,0 +1,6 @@
+v-astralchain_v65536.nfo	95625c76
+v-astralchain_v65536.r00	5731131a
+v-astralchain_v65536.r01	47845a9b
+v-astralchain_v65536.r02	1e92c151
+v-astralchain_v65536.rar	e295a6f0
+v-astralchain_v65536.sfv	f196ac66

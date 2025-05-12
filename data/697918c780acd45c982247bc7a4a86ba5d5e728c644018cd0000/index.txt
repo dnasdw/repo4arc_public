@@ -1,0 +1,11 @@
+sxs-driving_world_aspen.nfo	-	7226	1	0	0	0
+sxs-driving_world_aspen.r00	-	100000000	1	7226	0	1
+sxs-driving_world_aspen.r01	-	100000000	1	100007226	0	97
+sxs-driving_world_aspen.r02	-	100000000	1	200007226	0	193
+sxs-driving_world_aspen.r03	-	100000000	1	300007226	0	289
+sxs-driving_world_aspen.r04	-	100000000	1	400007226	0	385
+sxs-driving_world_aspen.r05	-	100000000	1	500007226	0	481
+sxs-driving_world_aspen.r06	-	100000000	1	62251264	1	60
+sxs-driving_world_aspen.r07	-	9422671	1	162251264	1	156
+sxs-driving_world_aspen.rar	-	100000000	1	171673935	1	165
+sxs-driving_world_aspen.sfv	-	342	1	271673935	1	261

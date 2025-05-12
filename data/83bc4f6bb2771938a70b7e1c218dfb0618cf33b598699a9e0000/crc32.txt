@@ -1,0 +1,10 @@
+sxs-indiecalypse_v65536.nfo	e1b7bfb6
+sxs-indiecalypse_v65536.r00	914cb4d4
+sxs-indiecalypse_v65536.r01	084ec5af
+sxs-indiecalypse_v65536.r02	7e0f3f30
+sxs-indiecalypse_v65536.r03	ee7680fb
+sxs-indiecalypse_v65536.r04	97e66dbd
+sxs-indiecalypse_v65536.r05	1e830926
+sxs-indiecalypse_v65536.r06	a3185c3a
+sxs-indiecalypse_v65536.rar	df7795e5
+sxs-indiecalypse_v65536.sfv	b0fed4d4

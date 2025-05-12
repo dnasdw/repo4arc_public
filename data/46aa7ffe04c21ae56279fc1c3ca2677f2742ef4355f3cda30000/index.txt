@@ -1,0 +1,11 @@
+sxs-fifa_20_arabic_dlc.nfo	-	4028	1	0	0	0
+sxs-fifa_20_arabic_dlc.r00	-	50000000	1	4028	0	1
+sxs-fifa_20_arabic_dlc.r01	-	50000000	1	50004028	0	49
+sxs-fifa_20_arabic_dlc.r02	-	50000000	1	100004028	0	97
+sxs-fifa_20_arabic_dlc.r03	-	50000000	1	150004028	0	145
+sxs-fifa_20_arabic_dlc.r04	-	50000000	1	200004028	0	193
+sxs-fifa_20_arabic_dlc.r05	-	50000000	1	250004028	0	241
+sxs-fifa_20_arabic_dlc.r06	-	50000000	1	300004028	0	289
+sxs-fifa_20_arabic_dlc.r07	-	32041665	1	350004028	0	337
+sxs-fifa_20_arabic_dlc.rar	-	50000000	1	382045693	0	368
+sxs-fifa_20_arabic_dlc.sfv	-	333	1	432045693	0	416

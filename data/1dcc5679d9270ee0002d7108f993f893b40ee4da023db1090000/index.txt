@@ -1,0 +1,7 @@
+sxs-fortress_defense.nfo	-	5354	1	0	0	0
+sxs-fortress_defense.r00	-	100000000	1	5354	0	1
+sxs-fortress_defense.r01	-	100000000	1	100005354	0	97
+sxs-fortress_defense.r02	-	100000000	1	200005354	0	193
+sxs-fortress_defense.r03	-	81829098	1	300005354	0	289
+sxs-fortress_defense.rar	-	100000000	1	381834452	0	368
+sxs-fortress_defense.sfv	-	175	1	481834452	0	464

@@ -1,0 +1,4 @@
+brw-fqui.nfo	86c41da40fbc9a6317d14149a85f5e8aafc3c90a
+brw-fqui.r00	39e6ffac73b23a80e0e430ee3f7c2dfa0be3cf9e
+brw-fqui.rar	bed48f2452d5e2bb736b92ca552718694cfa9a2d
+brw-fqui.sfv	72ab0702eb955196b055ee1649b7396a05efad82

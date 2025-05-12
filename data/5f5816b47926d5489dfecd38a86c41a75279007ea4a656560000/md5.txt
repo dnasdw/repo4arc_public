@@ -1,0 +1,9 @@
+sxs-fldu.nfo	ae06c29f57596f52b1e9cf632cc564fd
+sxs-fldu.r00	67774751d064a9ea032c4f082ec0872a
+sxs-fldu.r01	5b4bfd7f62c2375036b3fc1a29a1c440
+sxs-fldu.r02	f76674a37e1e4baffdb5451f74847f59
+sxs-fldu.r03	09ea30e3313df727d21fec1c2b9e59a6
+sxs-fldu.r04	7462c6d9eadce2ea1a72d4297110d861
+sxs-fldu.r05	b88fddbaed4dfe6531e7a47cc7a7c1f2
+sxs-fldu.rar	3d29604abff8814e4a07f68465c90b88
+sxs-fldu.sfv	79d043f8ec5ddd37bd7f3c23eb38ba4a

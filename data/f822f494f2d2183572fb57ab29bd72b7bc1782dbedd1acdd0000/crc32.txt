@@ -1,0 +1,5 @@
+sxs-space_roguelike_adventure_v131072.nfo	1da2bca2
+sxs-space_roguelike_adventure_v131072.r00	120cced6
+sxs-space_roguelike_adventure_v131072.r01	7dfe409c
+sxs-space_roguelike_adventure_v131072.rar	6388961b
+sxs-space_roguelike_adventure_v131072.sfv	cec41997

@@ -1,0 +1,10 @@
+v-widget_satchel_v196608.nfo	a03c5f9c
+v-widget_satchel_v196608.r00	44a50024
+v-widget_satchel_v196608.r01	a086486d
+v-widget_satchel_v196608.r02	b6b5afcf
+v-widget_satchel_v196608.r03	5a9ec356
+v-widget_satchel_v196608.r04	5736b7af
+v-widget_satchel_v196608.r05	5010e1a3
+v-widget_satchel_v196608.r06	6f6d5e27
+v-widget_satchel_v196608.rar	df53fd6a
+v-widget_satchel_v196608.sfv	24ebe311

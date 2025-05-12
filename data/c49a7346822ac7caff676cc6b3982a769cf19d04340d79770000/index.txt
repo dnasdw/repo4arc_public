@@ -1,0 +1,4 @@
+sxs-trigger_dungeon.nfo	-	3716	1	0	0	0
+sxs-trigger_dungeon.r00	-	13038952	1	3716	0	1
+sxs-trigger_dungeon.rar	-	50000000	1	13042668	0	14
+sxs-trigger_dungeon.sfv	-	68	1	63042668	0	62

@@ -1,0 +1,10 @@
+sxs-hellstuck_rage_with_your_friends.nfo	-	4574	1	0	0	0
+sxs-hellstuck_rage_with_your_friends.r00	-	100000000	1	4574	0	1
+sxs-hellstuck_rage_with_your_friends.r01	-	100000000	1	100004574	0	97
+sxs-hellstuck_rage_with_your_friends.r02	-	100000000	1	200004574	0	193
+sxs-hellstuck_rage_with_your_friends.r03	-	100000000	1	300004574	0	289
+sxs-hellstuck_rage_with_your_friends.r04	-	100000000	1	400004574	0	385
+sxs-hellstuck_rage_with_your_friends.r05	-	100000000	1	500004574	0	481
+sxs-hellstuck_rage_with_your_friends.r06	-	54775743	1	62251264	1	60
+sxs-hellstuck_rage_with_your_friends.rar	-	100000000	1	117027007	1	113
+sxs-hellstuck_rage_with_your_friends.sfv	-	408	1	217027007	1	209

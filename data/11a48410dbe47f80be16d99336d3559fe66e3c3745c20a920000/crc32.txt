@@ -1,0 +1,10 @@
+sxs-thea_the_awakening_v196608.nfo	4469db1e
+sxs-thea_the_awakening_v196608.r00	dc869930
+sxs-thea_the_awakening_v196608.r01	74c11ee8
+sxs-thea_the_awakening_v196608.r02	9f455e7f
+sxs-thea_the_awakening_v196608.r03	748623c5
+sxs-thea_the_awakening_v196608.r04	60ddfa53
+sxs-thea_the_awakening_v196608.r05	935d12d7
+sxs-thea_the_awakening_v196608.r06	4539520f
+sxs-thea_the_awakening_v196608.rar	bd6feac0
+sxs-thea_the_awakening_v196608.sfv	1d09c366

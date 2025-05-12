@@ -1,0 +1,3 @@
+sxs-toodee_and_topdee_v65536.nfo	-	5120	1	0	0	0
+sxs-toodee_and_topdee_v65536.rar	-	33103407	1	5120	0	1
+sxs-toodee_and_topdee_v65536.sfv	-	43	1	33108527	0	33

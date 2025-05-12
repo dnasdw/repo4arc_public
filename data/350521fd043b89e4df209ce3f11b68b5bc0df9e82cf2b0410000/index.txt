@@ -1,0 +1,3 @@
+lfc-deepspacerush.nfo	-	3919	1	0	0	0
+lfc-deepspacerush.rar	-	23614678	1	3919	0	1
+lfc-deepspacerush.sfv	-	32	1	23618597	0	24

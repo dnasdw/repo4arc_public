@@ -1,0 +1,9 @@
+v-fell_seal_arbiters_mark_v262144.nfo	fd90aaf6
+v-fell_seal_arbiters_mark_v262144.r00	bda4ca84
+v-fell_seal_arbiters_mark_v262144.r01	54383a57
+v-fell_seal_arbiters_mark_v262144.r02	bc8fccd7
+v-fell_seal_arbiters_mark_v262144.r03	cf110a83
+v-fell_seal_arbiters_mark_v262144.r04	aa82a501
+v-fell_seal_arbiters_mark_v262144.r05	84dfcc57
+v-fell_seal_arbiters_mark_v262144.rar	3947a443
+v-fell_seal_arbiters_mark_v262144.sfv	6cbb654d

@@ -1,0 +1,3 @@
+v-doom_1993_harmony_dlc.nfo	374ec65c9ff68e6fda4e7da7d1c237c2172f07bb
+v-doom_1993_harmony_dlc.rar	d67264f5f37bf5deef10a669735e86914b2cb5dd
+v-doom_1993_harmony_dlc.sfv	ccf9f1e501f970c7b89fe0afddee32301d34131a

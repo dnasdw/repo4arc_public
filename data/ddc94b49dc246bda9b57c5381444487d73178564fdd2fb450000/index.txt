@@ -1,0 +1,4 @@
+hr-deemorebornv131072.nfo	-	11258	1	0	0	0
+hr-deemorebornv131072.r00	-	13368693	1	11258	0	1
+hr-deemorebornv131072.rar	-	50000000	1	13379951	0	14
+hr-deemorebornv131072.sfv	-	72	1	63379951	0	62

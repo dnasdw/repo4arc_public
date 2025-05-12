@@ -1,0 +1,7 @@
+v-catqst_v101.nfo	bf5ecafe29e674a28c3a209bbf87022c
+v-catqst_v101.r00	7469fe83b3b1570fcc6e2d682c463201
+v-catqst_v101.r01	f536ed00ce135f4c0807f64b7adf51ec
+v-catqst_v101.r02	95797f3444981013eaf28df42e84fc3a
+v-catqst_v101.r03	cd50464003ec9202378dde7ab3a8e37e
+v-catqst_v101.rar	754ecfcca2b33bad71a925f01178352f
+v-catqst_v101.sfv	d16865ca517df4ebd92351041af8ffff

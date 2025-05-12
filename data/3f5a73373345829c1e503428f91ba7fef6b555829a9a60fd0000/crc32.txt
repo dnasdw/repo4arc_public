@@ -1,0 +1,14 @@
+sxs-korg_gadget_v393216.nfo	8fea0635
+sxs-korg_gadget_v393216.r00	15195b2e
+sxs-korg_gadget_v393216.r01	3c92756e
+sxs-korg_gadget_v393216.r02	b89687ff
+sxs-korg_gadget_v393216.r03	f759be9c
+sxs-korg_gadget_v393216.r04	0f3b470e
+sxs-korg_gadget_v393216.r05	4086a885
+sxs-korg_gadget_v393216.r06	5e8b6005
+sxs-korg_gadget_v393216.r07	ef15597d
+sxs-korg_gadget_v393216.r08	eca06507
+sxs-korg_gadget_v393216.r09	67e7540b
+sxs-korg_gadget_v393216.r10	a5c053c7
+sxs-korg_gadget_v393216.rar	6dd8b9a4
+sxs-korg_gadget_v393216.sfv	d764cac5

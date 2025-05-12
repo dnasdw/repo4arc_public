@@ -1,0 +1,4 @@
+v-rollercoaster_tycoon_adventures_deluxe_v262144.nfo	-	7072	1	0	0	0
+v-rollercoaster_tycoon_adventures_deluxe_v262144.r00	-	91792857	1	7072	0	1
+v-rollercoaster_tycoon_adventures_deluxe_v262144.rar	-	100000000	1	91799929	0	89
+v-rollercoaster_tycoon_adventures_deluxe_v262144.sfv	-	126	1	191799929	0	185

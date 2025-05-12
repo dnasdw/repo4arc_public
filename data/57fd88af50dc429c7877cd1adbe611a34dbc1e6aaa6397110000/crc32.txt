@@ -1,0 +1,16 @@
+sxs-baila_latino_bonus_pack_dlc.nfo	f72d8b60
+sxs-baila_latino_bonus_pack_dlc.r00	f1703061
+sxs-baila_latino_bonus_pack_dlc.r01	139efc3d
+sxs-baila_latino_bonus_pack_dlc.r02	7e28c457
+sxs-baila_latino_bonus_pack_dlc.r03	d2fc5789
+sxs-baila_latino_bonus_pack_dlc.r04	957e9846
+sxs-baila_latino_bonus_pack_dlc.r05	ec397f17
+sxs-baila_latino_bonus_pack_dlc.r06	2a9bebfd
+sxs-baila_latino_bonus_pack_dlc.r07	f6191bfb
+sxs-baila_latino_bonus_pack_dlc.r08	82f9bcf6
+sxs-baila_latino_bonus_pack_dlc.r09	daf453b6
+sxs-baila_latino_bonus_pack_dlc.r10	2c9e918b
+sxs-baila_latino_bonus_pack_dlc.r11	b46e0acc
+sxs-baila_latino_bonus_pack_dlc.r12	a68d99ba
+sxs-baila_latino_bonus_pack_dlc.rar	1abdd3c8
+sxs-baila_latino_bonus_pack_dlc.sfv	90c9f24d

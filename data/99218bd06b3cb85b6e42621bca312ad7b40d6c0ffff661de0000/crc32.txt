@@ -1,0 +1,4 @@
+sxs-snes_v1376256.nfo	1c6d4e75
+sxs-snes_v1376256.r00	57614e26
+sxs-snes_v1376256.rar	fc8071d1
+sxs-snes_v1376256.sfv	90102f37

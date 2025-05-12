@@ -1,0 +1,6 @@
+sxs-superfluous_returnz.nfo	dead7ab6
+sxs-superfluous_returnz.r00	c90e813d
+sxs-superfluous_returnz.r01	e203a286
+sxs-superfluous_returnz.r02	9448239e
+sxs-superfluous_returnz.rar	71b92919
+sxs-superfluous_returnz.sfv	703df53b

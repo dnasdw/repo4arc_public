@@ -1,0 +1,10 @@
+sxs-punch_a_bunch.nfo	-	7304	1	0	0	0
+sxs-punch_a_bunch.r00	-	100000000	1	7304	0	1
+sxs-punch_a_bunch.r01	-	100000000	1	100007304	0	97
+sxs-punch_a_bunch.r02	-	100000000	1	200007304	0	193
+sxs-punch_a_bunch.r03	-	100000000	1	300007304	0	289
+sxs-punch_a_bunch.r04	-	100000000	1	400007304	0	385
+sxs-punch_a_bunch.r05	-	100000000	1	500007304	0	481
+sxs-punch_a_bunch.r06	-	27337992	1	62251264	1	60
+sxs-punch_a_bunch.rar	-	100000000	1	89589256	1	87
+sxs-punch_a_bunch.sfv	-	256	1	189589256	1	183

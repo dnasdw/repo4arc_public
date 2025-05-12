@@ -1,0 +1,14 @@
+sxs-castaway_paradise.nfo	-	4746	1	0	0	0
+sxs-castaway_paradise.r00	-	50000000	1	4746	0	1
+sxs-castaway_paradise.r01	-	50000000	1	50004746	0	49
+sxs-castaway_paradise.r02	-	50000000	1	100004746	0	97
+sxs-castaway_paradise.r03	-	50000000	1	150004746	0	145
+sxs-castaway_paradise.r04	-	50000000	1	200004746	0	193
+sxs-castaway_paradise.r05	-	50000000	1	250004746	0	241
+sxs-castaway_paradise.r06	-	50000000	1	300004746	0	289
+sxs-castaway_paradise.r07	-	50000000	1	350004746	0	337
+sxs-castaway_paradise.r08	-	50000000	1	400004746	0	385
+sxs-castaway_paradise.r09	-	50000000	1	450004746	0	433
+sxs-castaway_paradise.r10	-	18494272	1	500004746	0	481
+sxs-castaway_paradise.rar	-	50000000	1	518499018	0	499
+sxs-castaway_paradise.sfv	-	432	1	31125632	1	30

@@ -1,0 +1,13 @@
+lfc-popu.nfo	99234b8c
+lfc-popu.r00	5a47c714
+lfc-popu.r01	6f5a782d
+lfc-popu.r02	7270dee4
+lfc-popu.r03	167db7b9
+lfc-popu.r04	63c4b6ef
+lfc-popu.r05	f5ef46ca
+lfc-popu.r06	95e33ec7
+lfc-popu.r07	d0ae9135
+lfc-popu.r08	af22a576
+lfc-popu.r09	4a9aa1a1
+lfc-popu.rar	6a189236
+lfc-popu.sfv	d1b4ec1b

@@ -1,0 +1,4 @@
+v-worldffmaxima_v65536.nfo	100b26bc
+v-worldffmaxima_v65536.r00	28f5a48a
+v-worldffmaxima_v65536.rar	31b6928f
+v-worldffmaxima_v65536.sfv	34432bc8

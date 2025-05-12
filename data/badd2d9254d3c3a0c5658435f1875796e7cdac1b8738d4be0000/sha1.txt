@@ -1,0 +1,6 @@
+i-pulstario.nfo	bbf75849b56efbeb16e4a6f65c31053bdcb1291c
+i-pulstario.r00	63bb24bcc663ccfafaa6502fab3f668c3cdf1ddc
+i-pulstario.r01	8fc3bcbfb1afa31a0f3c5936748c3a900b6dfdb6
+i-pulstario.r02	785ad9cced3589883667923e295bf72c037d3b78
+i-pulstario.rar	9632c9eacbc7978b96e6399883273af41bce49b0
+i-pulstario.sfv	764dad1720531889f0985457a8924390ade4e713

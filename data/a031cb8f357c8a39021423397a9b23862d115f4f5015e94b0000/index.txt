@@ -1,0 +1,4 @@
+jrp-n-mafapd.nfo	-	6304	1	0	0	0
+jrp-n-mafapd.r00	-	10184284	1	6304	0	1
+jrp-n-mafapd.rar	-	50000000	1	10190588	0	11
+jrp-n-mafapd.sfv	-	54	1	60190588	0	59

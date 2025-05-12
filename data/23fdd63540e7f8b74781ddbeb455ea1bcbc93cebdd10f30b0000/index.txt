@@ -1,0 +1,4 @@
+sxs-fuze_player_v65536.nfo	-	6602	1	0	0	0
+sxs-fuze_player_v65536.r00	-	42804517	1	6602	0	1
+sxs-fuze_player_v65536.rar	-	50000000	1	42811119	0	42
+sxs-fuze_player_v65536.sfv	-	74	1	92811119	0	90

@@ -1,0 +1,11 @@
+v-nba2kp2_v196608.nfo	773c81f7
+v-nba2kp2_v196608.r00	f5eae453
+v-nba2kp2_v196608.r01	a1b7c794
+v-nba2kp2_v196608.r02	69c8dde2
+v-nba2kp2_v196608.r03	cd7f6213
+v-nba2kp2_v196608.r04	82b36f30
+v-nba2kp2_v196608.r05	cc626770
+v-nba2kp2_v196608.r06	d86f0e88
+v-nba2kp2_v196608.r07	78a974f8
+v-nba2kp2_v196608.rar	9c9c13ca
+v-nba2kp2_v196608.sfv	c62c8417

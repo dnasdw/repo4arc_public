@@ -1,0 +1,4 @@
+sxs-garden_story_v393216.nfo	-	5666	1	0	0	0
+sxs-garden_story_v393216.r00	-	43267933	1	5666	0	1
+sxs-garden_story_v393216.rar	-	100000000	1	43273599	0	43
+sxs-garden_story_v393216.sfv	-	78	1	143273599	0	139

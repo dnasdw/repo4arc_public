@@ -1,0 +1,10 @@
+lfc-skdi.nfo	7cba6244
+lfc-skdi.r00	0e75a3ba
+lfc-skdi.r01	96996461
+lfc-skdi.r02	ae69c8a3
+lfc-skdi.r03	4b7a3bc9
+lfc-skdi.r04	b9b7f1fa
+lfc-skdi.r05	558d8215
+lfc-skdi.r06	9d3d621d
+lfc-skdi.rar	2b8a878c
+lfc-skdi.sfv	67ee8966

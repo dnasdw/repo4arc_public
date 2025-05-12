@@ -1,0 +1,17 @@
+v-cadence_of_hyrule.nfo	-	5200	1	0	0	0
+v-cadence_of_hyrule.r00	-	50000000	1	5200	0	1
+v-cadence_of_hyrule.r01	-	50000000	1	50005200	0	49
+v-cadence_of_hyrule.r02	-	50000000	1	100005200	0	97
+v-cadence_of_hyrule.r03	-	50000000	1	150005200	0	145
+v-cadence_of_hyrule.r04	-	50000000	1	200005200	0	193
+v-cadence_of_hyrule.r05	-	50000000	1	250005200	0	241
+v-cadence_of_hyrule.r06	-	50000000	1	300005200	0	289
+v-cadence_of_hyrule.r07	-	50000000	1	350005200	0	337
+v-cadence_of_hyrule.r08	-	50000000	1	400005200	0	385
+v-cadence_of_hyrule.r09	-	50000000	1	450005200	0	433
+v-cadence_of_hyrule.r10	-	50000000	1	500005200	0	481
+v-cadence_of_hyrule.r11	-	50000000	1	12251264	1	12
+v-cadence_of_hyrule.r12	-	50000000	1	62251264	1	60
+v-cadence_of_hyrule.r13	-	4432664	1	112251264	1	108
+v-cadence_of_hyrule.rar	-	50000000	1	116683928	1	113
+v-cadence_of_hyrule.sfv	-	510	1	166683928	1	161

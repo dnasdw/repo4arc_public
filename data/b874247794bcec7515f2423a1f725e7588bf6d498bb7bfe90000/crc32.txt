@@ -1,0 +1,10 @@
+v-kamenc_v131072.nfo	455bbde6
+v-kamenc_v131072.r00	5f1a64aa
+v-kamenc_v131072.r01	b6fb4944
+v-kamenc_v131072.r02	16ff3ce6
+v-kamenc_v131072.r03	e509da0f
+v-kamenc_v131072.r04	b6601c3d
+v-kamenc_v131072.r05	4b865eae
+v-kamenc_v131072.r06	811dfc89
+v-kamenc_v131072.rar	c22ed623
+v-kamenc_v131072.sfv	e7292aa8

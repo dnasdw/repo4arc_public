@@ -1,0 +1,4 @@
+v-fell_seal_arbiters_mark_v65536.nfo	-	4810	1	0	0	0
+v-fell_seal_arbiters_mark_v65536.r00	-	8715372	1	4810	0	1
+v-fell_seal_arbiters_mark_v65536.rar	-	50000000	1	8720182	0	10
+v-fell_seal_arbiters_mark_v65536.sfv	-	94	1	58720182	0	58

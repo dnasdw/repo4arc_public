@@ -1,0 +1,15 @@
+lfc-axu6a.nfo	ae5f6dab
+lfc-axu6a.r00	f9bce5c6
+lfc-axu6a.r01	8e7644c0
+lfc-axu6a.r02	e0c24e07
+lfc-axu6a.r03	71f30a17
+lfc-axu6a.r04	3374640b
+lfc-axu6a.r05	106957a6
+lfc-axu6a.r06	e7ff10c0
+lfc-axu6a.r07	99ba2b89
+lfc-axu6a.r08	57a67a34
+lfc-axu6a.r09	1f45d714
+lfc-axu6a.rar	3a4f9b95
+lfc-axu6a.sfv	b63e62a9
+Proof	00000000
+Proof/lfc-axu6a.jpg	01629364

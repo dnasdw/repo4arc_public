@@ -1,0 +1,3 @@
+bbb-n-aquga.nfo	-	5517	1	0	0	0
+bbb-n-aquga.rar	-	198668928	1	5517	0	1
+bbb-n-aquga.sfv	-	26	1	198674445	0	191

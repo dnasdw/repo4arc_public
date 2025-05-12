@@ -1,0 +1,6 @@
+sxs-darts_club.nfo	-	5432	1	0	0	0
+sxs-darts_club.r00	-	100000000	1	5432	0	1
+sxs-darts_club.r01	-	100000000	1	100005432	0	97
+sxs-darts_club.r02	-	6708797	1	200005432	0	193
+sxs-darts_club.rar	-	100000000	1	206714229	0	200
+sxs-darts_club.sfv	-	116	1	306714229	0	296

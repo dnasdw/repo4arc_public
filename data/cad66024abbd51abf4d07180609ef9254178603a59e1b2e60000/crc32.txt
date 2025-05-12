@@ -1,0 +1,12 @@
+l-mybrotherrabbit_v65536.nfo	49c39578
+l-mybrotherrabbit_v65536.r00	b705d10f
+l-mybrotherrabbit_v65536.r01	6eb12b5e
+l-mybrotherrabbit_v65536.r02	532fb4fb
+l-mybrotherrabbit_v65536.r03	2b9d4307
+l-mybrotherrabbit_v65536.r04	8c543b21
+l-mybrotherrabbit_v65536.r05	3fb750ec
+l-mybrotherrabbit_v65536.r06	f1816bd1
+l-mybrotherrabbit_v65536.r07	00eb9b1e
+l-mybrotherrabbit_v65536.r08	101f992c
+l-mybrotherrabbit_v65536.rar	9f4d44b6
+l-mybrotherrabbit_v65536.sfv	46c5417b

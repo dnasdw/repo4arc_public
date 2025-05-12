@@ -1,0 +1,7 @@
+sxs-pixel_heroes_mega_byte_and_magic.nfo	f7faee2a
+sxs-pixel_heroes_mega_byte_and_magic.r00	ee1e3b98
+sxs-pixel_heroes_mega_byte_and_magic.r01	a99af5a2
+sxs-pixel_heroes_mega_byte_and_magic.r02	097df070
+sxs-pixel_heroes_mega_byte_and_magic.r03	87b3d94f
+sxs-pixel_heroes_mega_byte_and_magic.rar	5b9e07cb
+sxs-pixel_heroes_mega_byte_and_magic.sfv	08f3dff4

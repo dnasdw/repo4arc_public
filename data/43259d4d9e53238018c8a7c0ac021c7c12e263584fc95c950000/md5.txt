@@ -1,0 +1,5 @@
+sxs-nes_v851968.nfo	578f5fd4e09a8ec354a837839f6a4176
+sxs-nes_v851968.r00	456d31b2c881cb7c9b4ed68c708bd40b
+sxs-nes_v851968.r01	f2bf3c356633f1b3e63fdde53b8feeca
+sxs-nes_v851968.rar	fbbab5b0dae03baaaf944d1b0ed6614b
+sxs-nes_v851968.sfv	eabe86f635b6ca00fceb629b7eab5cb6

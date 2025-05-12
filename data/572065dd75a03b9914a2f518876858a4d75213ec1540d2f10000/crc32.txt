@@ -1,0 +1,7 @@
+v-pinballfx3_williams_vol2_dlc.nfo	9eca4469
+v-pinballfx3_williams_vol2_dlc.r00	7021c4ef
+v-pinballfx3_williams_vol2_dlc.r01	0c230b4e
+v-pinballfx3_williams_vol2_dlc.r02	1c122e32
+v-pinballfx3_williams_vol2_dlc.r03	0dfe8216
+v-pinballfx3_williams_vol2_dlc.rar	b92a2a3f
+v-pinballfx3_williams_vol2_dlc.sfv	9e17043a

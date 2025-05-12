@@ -1,0 +1,14 @@
+v-armello_v131072.nfo	d87293d0
+v-armello_v131072.r00	4beaa246
+v-armello_v131072.r01	70caf530
+v-armello_v131072.r02	28712ac5
+v-armello_v131072.r03	2cc566e1
+v-armello_v131072.r04	cbb33a8c
+v-armello_v131072.r05	5506d804
+v-armello_v131072.r06	e8378f88
+v-armello_v131072.r07	44b6d679
+v-armello_v131072.r08	ebcbf125
+v-armello_v131072.r09	312141af
+v-armello_v131072.r10	8a293a54
+v-armello_v131072.rar	7336d513
+v-armello_v131072.sfv	8aeeb9e3

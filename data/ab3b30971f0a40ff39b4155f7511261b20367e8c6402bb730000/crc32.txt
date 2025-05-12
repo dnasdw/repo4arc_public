@@ -1,0 +1,4 @@
+sxs-celebrity_slot_machine.nfo	e240dd80
+sxs-celebrity_slot_machine.r00	6ccd0c27
+sxs-celebrity_slot_machine.rar	41addd8d
+sxs-celebrity_slot_machine.sfv	c24eccbf

@@ -1,0 +1,8 @@
+sxs-doodle_derby.nfo	c2b4a0693d58eccd5312d1b80db579b8
+sxs-doodle_derby.r00	c97ed60c0ef59a747f1557cf534f8afe
+sxs-doodle_derby.r01	8136c407f27beefe15a35113c4457eff
+sxs-doodle_derby.r02	d70b93b418c94cbb05b6c58898c4a0a2
+sxs-doodle_derby.r03	e9c32f7839ae55d1e85583c5343e07c7
+sxs-doodle_derby.r04	8ffc2d434ee26b93d037d594f6d21fd6
+sxs-doodle_derby.rar	8166c5f131a6b3310b2a63619b2568ab
+sxs-doodle_derby.sfv	024295fd1947b92a3debdbe372df24ec

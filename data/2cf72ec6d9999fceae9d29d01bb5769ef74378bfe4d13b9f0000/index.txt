@@ -1,0 +1,6 @@
+sxs-paw_patrol_grand_prix_v65536.nfo	-	6056	1	0	0	0
+sxs-paw_patrol_grand_prix_v65536.r00	-	50000000	1	6056	0	1
+sxs-paw_patrol_grand_prix_v65536.r01	-	50000000	1	50006056	0	49
+sxs-paw_patrol_grand_prix_v65536.r02	-	3779023	1	100006056	0	97
+sxs-paw_patrol_grand_prix_v65536.rar	-	50000000	1	103785079	0	101
+sxs-paw_patrol_grand_prix_v65536.sfv	-	188	1	153785079	0	149

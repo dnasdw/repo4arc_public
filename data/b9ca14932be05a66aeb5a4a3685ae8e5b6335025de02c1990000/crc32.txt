@@ -1,0 +1,7 @@
+v-the_sinking_city_v65536.nfo	a0d87a03
+v-the_sinking_city_v65536.r00	8f58ad08
+v-the_sinking_city_v65536.r01	eb535fda
+v-the_sinking_city_v65536.r02	b467445f
+v-the_sinking_city_v65536.r03	1ee12655
+v-the_sinking_city_v65536.rar	4700fa7d
+v-the_sinking_city_v65536.sfv	74dd9732

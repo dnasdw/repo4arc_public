@@ -1,0 +1,14 @@
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.nfo	-	5745	1	0	0	0
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.r00	-	50000000	1	5745	0	1
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.r01	-	50000000	1	50005745	0	49
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.r02	-	50000000	1	100005745	0	97
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.r03	-	50000000	1	150005745	0	145
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.r04	-	50000000	1	200005745	0	193
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.r05	-	50000000	1	250005745	0	241
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.r06	-	50000000	1	300005745	0	289
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.r07	-	50000000	1	350005745	0	337
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.r08	-	50000000	1	400005745	0	385
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.r09	-	50000000	1	450005745	0	433
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.r10	-	33694228	1	500005745	0	481
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.rar	-	50000000	1	533699973	0	514
+sxs-lets_sing_2020_mit_deutschen_hits_v196608.sfv	-	720	1	45805696	1	44

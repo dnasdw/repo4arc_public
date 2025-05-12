@@ -1,0 +1,3 @@
+v-freaky_trip_dlc.nfo	-	6916	1	0	0	0
+v-freaky_trip_dlc.rar	-	473522	1	6916	0	1
+v-freaky_trip_dlc.sfv	-	32	1	480438	0	2

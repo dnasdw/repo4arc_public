@@ -1,0 +1,4 @@
+sxs-arcanoid_breakout_v131072.nfo	e0946df9
+sxs-arcanoid_breakout_v131072.r00	e4dae0d9
+sxs-arcanoid_breakout_v131072.rar	13fd10d7
+sxs-arcanoid_breakout_v131072.sfv	6527c4e8

@@ -1,0 +1,5 @@
+sxs-bug_fables_the_everlasting_sapling_v65536.nfo	d9e5b724
+sxs-bug_fables_the_everlasting_sapling_v65536.r00	895620ab
+sxs-bug_fables_the_everlasting_sapling_v65536.r01	c0f110db
+sxs-bug_fables_the_everlasting_sapling_v65536.rar	492ba9f0
+sxs-bug_fables_the_everlasting_sapling_v65536.sfv	00825be0

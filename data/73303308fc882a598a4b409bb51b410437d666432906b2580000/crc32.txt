@@ -1,0 +1,7 @@
+sxs-crystar_v131072.nfo	aa51b088
+sxs-crystar_v131072.r00	41afe272
+sxs-crystar_v131072.r01	d1d49e6e
+sxs-crystar_v131072.r02	046ee7bb
+sxs-crystar_v131072.r03	1291f71b
+sxs-crystar_v131072.rar	178250dd
+sxs-crystar_v131072.sfv	b2e75e00

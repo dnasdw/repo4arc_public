@@ -1,0 +1,9 @@
+sxs-ball_lab_ii.nfo	-	5666	1	0	0	0
+sxs-ball_lab_ii.r00	-	100000000	1	5666	0	1
+sxs-ball_lab_ii.r01	-	100000000	1	100005666	0	97
+sxs-ball_lab_ii.r02	-	100000000	1	200005666	0	193
+sxs-ball_lab_ii.r03	-	100000000	1	300005666	0	289
+sxs-ball_lab_ii.r04	-	100000000	1	400005666	0	385
+sxs-ball_lab_ii.r05	-	70263563	1	500005666	0	481
+sxs-ball_lab_ii.rar	-	100000000	1	32514827	1	32
+sxs-ball_lab_ii.sfv	-	210	1	132514827	1	128

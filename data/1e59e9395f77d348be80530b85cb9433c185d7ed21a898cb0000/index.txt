@@ -1,0 +1,5 @@
+sxs-mini_car_racing_2_v65536.nfo	-	3794	1	0	0	0
+sxs-mini_car_racing_2_v65536.r00	-	50000000	1	3794	0	1
+sxs-mini_car_racing_2_v65536.r01	-	11051659	1	50003794	0	49
+sxs-mini_car_racing_2_v65536.rar	-	50000000	1	61055453	0	60
+sxs-mini_car_racing_2_v65536.sfv	-	129	1	111055453	0	108

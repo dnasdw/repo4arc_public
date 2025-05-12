@@ -1,0 +1,7 @@
+sxs-gensokyo_defenders_v131072.nfo	99627706
+sxs-gensokyo_defenders_v131072.r00	56754b6d
+sxs-gensokyo_defenders_v131072.r01	3987582e
+sxs-gensokyo_defenders_v131072.r02	b73d5da5
+sxs-gensokyo_defenders_v131072.r03	852301f3
+sxs-gensokyo_defenders_v131072.rar	0da2f4d6
+sxs-gensokyo_defenders_v131072.sfv	c58cef4c

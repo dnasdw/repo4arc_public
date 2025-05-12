@@ -1,0 +1,11 @@
+sxs-stau_v196608.nfo	265dd528
+sxs-stau_v196608.r00	75df772c
+sxs-stau_v196608.r01	83c41b68
+sxs-stau_v196608.r02	293544dc
+sxs-stau_v196608.r03	0d42094c
+sxs-stau_v196608.r04	9331c651
+sxs-stau_v196608.r05	1e0c5415
+sxs-stau_v196608.r06	29f2e7b0
+sxs-stau_v196608.r07	edaa96db
+sxs-stau_v196608.rar	6f70e15b
+sxs-stau_v196608.sfv	ca4be629

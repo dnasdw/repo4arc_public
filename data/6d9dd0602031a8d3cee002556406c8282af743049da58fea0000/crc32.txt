@@ -1,0 +1,15 @@
+sxs-titan_quest_v262144.nfo	3c02057e
+sxs-titan_quest_v262144.r00	53b3e669
+sxs-titan_quest_v262144.r01	9087fa15
+sxs-titan_quest_v262144.r02	d37f1574
+sxs-titan_quest_v262144.r03	4d01db0f
+sxs-titan_quest_v262144.r04	6ce90084
+sxs-titan_quest_v262144.r05	5ec6baa6
+sxs-titan_quest_v262144.r06	14521eff
+sxs-titan_quest_v262144.r07	9661fb07
+sxs-titan_quest_v262144.r08	ee413662
+sxs-titan_quest_v262144.r09	af7784a4
+sxs-titan_quest_v262144.r10	0f6c6514
+sxs-titan_quest_v262144.r11	b6dfd42b
+sxs-titan_quest_v262144.rar	1f513193
+sxs-titan_quest_v262144.sfv	9e146b30

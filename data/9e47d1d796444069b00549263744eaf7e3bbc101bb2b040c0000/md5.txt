@@ -1,0 +1,9 @@
+lfc-aimo.nfo	26ed3a9a39aeadd2740577fbde36c903
+lfc-aimo.r00	494545171b1e87d2b860e2df24dba912
+lfc-aimo.r01	4d4595b9bf18fef0bf79ae62349442a0
+lfc-aimo.r02	ebfe42daeaac8e3721b7a6f5c2a4181a
+lfc-aimo.r03	24f6e65c01e428e44e2936c5ce445d2e
+lfc-aimo.r04	6afe2bb2f1d3cd2fd06e23b753cbd5c1
+lfc-aimo.r05	f4e076c569a848962985f64d9df7ab2e
+lfc-aimo.rar	bec9d86d84af472305d104a6c70dfe34
+lfc-aimo.sfv	2b0dd4ef1d0662d6a9710dea949a732b

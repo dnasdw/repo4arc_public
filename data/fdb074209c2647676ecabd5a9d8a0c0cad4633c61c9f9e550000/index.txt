@@ -1,0 +1,4 @@
+sxs-zombillie_v65536.nfo	-	5900	1	0	0	0
+sxs-zombillie_v65536.r00	-	26062922	1	5900	0	1
+sxs-zombillie_v65536.rar	-	50000000	1	26068822	0	26
+sxs-zombillie_v65536.sfv	-	70	1	76068822	0	74

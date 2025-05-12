@@ -1,0 +1,11 @@
+sxs-tbtwt_jp_dlc.nfo	888de45aa910181e966fa00e7878eb95
+sxs-tbtwt_jp_dlc.r00	06f60b0e029d00bc3cbbeb142ba42cd4
+sxs-tbtwt_jp_dlc.r01	63394b79e6e70580b872c8b901bef7d5
+sxs-tbtwt_jp_dlc.r02	78efc0d72d5529fc020722600b48179d
+sxs-tbtwt_jp_dlc.r03	ff3597541f742016b037faa1ef28c1dd
+sxs-tbtwt_jp_dlc.r04	b29e62e20353310afbb35d1b2eaef699
+sxs-tbtwt_jp_dlc.r05	677cd94a16d4352cd5b51ab98de10f65
+sxs-tbtwt_jp_dlc.r06	0421856e7499501daeb940a30edea9fc
+sxs-tbtwt_jp_dlc.r07	adba22f2e9bd834c06bd3d5da8959a41
+sxs-tbtwt_jp_dlc.rar	daf8b3cc103461d08829d678d1bbd649
+sxs-tbtwt_jp_dlc.sfv	4ee74df762b08dcc218e7a616599660a

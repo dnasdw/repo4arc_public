@@ -1,0 +1,4 @@
+sxs-astro_bears_v196608.nfo	-	6836	1	0	0	0
+sxs-astro_bears_v196608.r00	-	25876927	1	6836	0	1
+sxs-astro_bears_v196608.rar	-	50000000	1	25883763	0	26
+sxs-astro_bears_v196608.sfv	-	76	1	75883763	0	74

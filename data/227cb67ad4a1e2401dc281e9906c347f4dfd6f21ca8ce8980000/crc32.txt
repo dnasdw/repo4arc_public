@@ -1,0 +1,5 @@
+v-qomp2.nfo	fa01bb0d
+v-qomp2.r00	b393dec9
+v-qomp2.r01	6495cb44
+v-qomp2.rar	541158f5
+v-qomp2.sfv	024cde57

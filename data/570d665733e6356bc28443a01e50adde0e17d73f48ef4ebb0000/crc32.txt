@@ -1,0 +1,7 @@
+sxs-20xx_v262144.nfo	ee71defb
+sxs-20xx_v262144.r00	71b3afb4
+sxs-20xx_v262144.r01	318a5132
+sxs-20xx_v262144.r02	c7fa43d6
+sxs-20xx_v262144.r03	1c62323a
+sxs-20xx_v262144.rar	031cdf4d
+sxs-20xx_v262144.sfv	2ad761fe

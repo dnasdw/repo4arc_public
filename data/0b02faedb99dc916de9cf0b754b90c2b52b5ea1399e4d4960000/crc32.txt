@@ -1,0 +1,15 @@
+sxs-nintendo_switch_sports_v65536.nfo	feea2f73
+sxs-nintendo_switch_sports_v65536.r00	d0f87e25
+sxs-nintendo_switch_sports_v65536.r01	d1b024cf
+sxs-nintendo_switch_sports_v65536.r02	d8a45a53
+sxs-nintendo_switch_sports_v65536.r03	3b12de78
+sxs-nintendo_switch_sports_v65536.r04	a77c9ba2
+sxs-nintendo_switch_sports_v65536.r05	fa4d2873
+sxs-nintendo_switch_sports_v65536.r06	8f006f8e
+sxs-nintendo_switch_sports_v65536.r07	bbba2c56
+sxs-nintendo_switch_sports_v65536.r08	201eb773
+sxs-nintendo_switch_sports_v65536.r09	f9c2a272
+sxs-nintendo_switch_sports_v65536.r10	152e4e31
+sxs-nintendo_switch_sports_v65536.r11	04245bd0
+sxs-nintendo_switch_sports_v65536.rar	06ff4405
+sxs-nintendo_switch_sports_v65536.sfv	00765555

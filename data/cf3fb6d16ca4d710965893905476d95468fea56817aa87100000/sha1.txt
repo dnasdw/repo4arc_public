@@ -1,0 +1,3 @@
+v-trinity_trigger_v65536_dlc.nfo	791f05f8f153eaffc0427f898bf0aba9f5849dae
+v-trinity_trigger_v65536_dlc.rar	fb7c150c3980b9d1abbf7d5dfa4fa3857e8baddf
+v-trinity_trigger_v65536_dlc.sfv	76eb706b8abeef3712ddb81ddddf45492d2b9575

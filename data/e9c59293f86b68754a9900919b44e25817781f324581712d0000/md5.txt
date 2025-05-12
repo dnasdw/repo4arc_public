@@ -1,0 +1,6 @@
+sxs-skully_v65536.nfo	d1e761e8836d828d49407d549fba141b
+sxs-skully_v65536.r00	37318c6e5141877ecd25cc9af7e147ac
+sxs-skully_v65536.r01	3d1ce203c5bec87bdc9ce2ed2d429c7b
+sxs-skully_v65536.r02	76cc0e70fc4d183c7b29e4d7d8628e3d
+sxs-skully_v65536.rar	37ce2db3caac4a9517d16870c424f1c9
+sxs-skully_v65536.sfv	306a943021e3d2d58466124badd5fd8e

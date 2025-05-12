@@ -1,0 +1,3 @@
+sxs-asdivine_menace_v131072.nfo	-	4730	1	0	0	0
+sxs-asdivine_menace_v131072.rar	-	69197048	1	4730	0	1
+sxs-asdivine_menace_v131072.sfv	-	42	1	69201778	0	67

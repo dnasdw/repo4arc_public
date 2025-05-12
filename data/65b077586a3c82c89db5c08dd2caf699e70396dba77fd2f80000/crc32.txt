@@ -1,0 +1,9 @@
+v-collection_of_mana.nfo	8b15ed50
+v-collection_of_mana.r00	a531bd95
+v-collection_of_mana.r01	7e984886
+v-collection_of_mana.r02	26038392
+v-collection_of_mana.r03	236d9f58
+v-collection_of_mana.r04	1c9b8718
+v-collection_of_mana.r05	27892b91
+v-collection_of_mana.rar	5e99028e
+v-collection_of_mana.sfv	349f0f47

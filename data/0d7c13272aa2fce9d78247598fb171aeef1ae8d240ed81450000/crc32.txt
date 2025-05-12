@@ -1,0 +1,4 @@
+brw-bcru_v65536.nfo	1fc91099
+brw-bcru_v65536.r00	0693171a
+brw-bcru_v65536.rar	54e809e4
+brw-bcru_v65536.sfv	14a21015

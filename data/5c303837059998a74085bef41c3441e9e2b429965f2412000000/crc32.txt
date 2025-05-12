@@ -1,0 +1,13 @@
+v-shinorubi.nfo	ffb713d2
+v-shinorubi.r00	ec1659b8
+v-shinorubi.r01	87cc4015
+v-shinorubi.r02	b7f221ee
+v-shinorubi.r03	6cb47b7a
+v-shinorubi.r04	bc686914
+v-shinorubi.r05	cd31b924
+v-shinorubi.r06	0b11c267
+v-shinorubi.r07	7781e72a
+v-shinorubi.r08	c83f3cc5
+v-shinorubi.r09	e7c43c32
+v-shinorubi.rar	7529e98a
+v-shinorubi.sfv	46e2b319

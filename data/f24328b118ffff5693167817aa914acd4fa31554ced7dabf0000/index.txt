@@ -1,0 +1,5 @@
+sxs-puzzle_book_v65536.nfo	-	5432	1	0	0	0
+sxs-puzzle_book_v65536.r00	-	50000000	1	5432	0	1
+sxs-puzzle_book_v65536.r01	-	46139105	1	50005432	0	49
+sxs-puzzle_book_v65536.rar	-	50000000	1	96144537	0	94
+sxs-puzzle_book_v65536.sfv	-	111	1	146144537	0	142

@@ -1,0 +1,8 @@
+sxs-crashmetal_drift_racing_car_driving_simulator_2022_games.nfo	-	6836	1	0	0	0
+sxs-crashmetal_drift_racing_car_driving_simulator_2022_games.r00	-	100000000	1	6836	0	1
+sxs-crashmetal_drift_racing_car_driving_simulator_2022_games.r01	-	100000000	1	100006836	0	97
+sxs-crashmetal_drift_racing_car_driving_simulator_2022_games.r02	-	100000000	1	200006836	0	193
+sxs-crashmetal_drift_racing_car_driving_simulator_2022_games.r03	-	100000000	1	300006836	0	289
+sxs-crashmetal_drift_racing_car_driving_simulator_2022_games.r04	-	7966597	1	400006836	0	385
+sxs-crashmetal_drift_racing_car_driving_simulator_2022_games.rar	-	100000000	1	407973433	0	393
+sxs-crashmetal_drift_racing_car_driving_simulator_2022_games.sfv	-	450	1	507973433	0	489

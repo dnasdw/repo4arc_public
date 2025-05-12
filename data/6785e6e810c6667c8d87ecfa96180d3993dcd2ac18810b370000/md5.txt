@@ -1,0 +1,5 @@
+sxs-samshom_iroha_dlc.nfo	aaa1b99b7ed1074a490f6f65e2e83b28
+sxs-samshom_iroha_dlc.r00	90444e76d2ae547982501a4592b1d4ed
+sxs-samshom_iroha_dlc.r01	362c48455e2451544bec938f0a7fefef
+sxs-samshom_iroha_dlc.rar	c96d01e79e151a9613b560109fcd8031
+sxs-samshom_iroha_dlc.sfv	a51a64e769ef86adfaaa9489ed044f74

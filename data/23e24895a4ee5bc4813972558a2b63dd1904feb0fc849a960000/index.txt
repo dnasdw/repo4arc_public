@@ -1,0 +1,5 @@
+v-pillars_of_dust.nfo	-	5200	1	0	0	0
+v-pillars_of_dust.r00	-	100000000	1	5200	0	1
+v-pillars_of_dust.r01	-	37773244	1	100005200	0	97
+v-pillars_of_dust.rar	-	100000000	1	137778444	0	134
+v-pillars_of_dust.sfv	-	96	1	237778444	0	230

@@ -1,0 +1,17 @@
+v-dark_devotion.nfo	-	5590	1	0	0	0
+v-dark_devotion.r00	-	50000000	1	5590	0	1
+v-dark_devotion.r01	-	50000000	1	50005590	0	49
+v-dark_devotion.r02	-	50000000	1	100005590	0	97
+v-dark_devotion.r03	-	50000000	1	150005590	0	145
+v-dark_devotion.r04	-	50000000	1	200005590	0	193
+v-dark_devotion.r05	-	50000000	1	250005590	0	241
+v-dark_devotion.r06	-	50000000	1	300005590	0	289
+v-dark_devotion.r07	-	50000000	1	350005590	0	337
+v-dark_devotion.r08	-	50000000	1	400005590	0	385
+v-dark_devotion.r09	-	50000000	1	450005590	0	433
+v-dark_devotion.r10	-	50000000	1	500005590	0	481
+v-dark_devotion.r11	-	50000000	1	12251264	1	12
+v-dark_devotion.r12	-	50000000	1	62251264	1	60
+v-dark_devotion.r13	-	22864531	1	112251264	1	108
+v-dark_devotion.rar	-	50000000	1	135115795	1	130
+v-dark_devotion.sfv	-	450	1	185115795	1	178

@@ -1,0 +1,15 @@
+sxs-warriors_of_the_nile_2.nfo	4c6c4777
+sxs-warriors_of_the_nile_2.r00	7f8a37d6
+sxs-warriors_of_the_nile_2.r01	218cac43
+sxs-warriors_of_the_nile_2.r02	27f509d9
+sxs-warriors_of_the_nile_2.r03	8ff541c7
+sxs-warriors_of_the_nile_2.r04	3ec76724
+sxs-warriors_of_the_nile_2.r05	55f62768
+sxs-warriors_of_the_nile_2.r06	14c7eb64
+sxs-warriors_of_the_nile_2.r07	df0a6f60
+sxs-warriors_of_the_nile_2.r08	790f8831
+sxs-warriors_of_the_nile_2.r09	77d6111c
+sxs-warriors_of_the_nile_2.r10	ee9a0156
+sxs-warriors_of_the_nile_2.r11	263e8332
+sxs-warriors_of_the_nile_2.rar	fa6e1a74
+sxs-warriors_of_the_nile_2.sfv	55b4f14d

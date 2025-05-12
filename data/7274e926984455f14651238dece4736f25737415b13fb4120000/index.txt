@@ -1,0 +1,3 @@
+sxs-farming_simulator_nintendo_switch_edition_v65536.nfo	-	5822	1	0	0	0
+sxs-farming_simulator_nintendo_switch_edition_v65536.rar	-	8097350	1	5822	0	1
+sxs-farming_simulator_nintendo_switch_edition_v65536.sfv	-	67	1	8103172	0	9

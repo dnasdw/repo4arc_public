@@ -1,0 +1,5 @@
+bbb-n-am4la.nfo	-	5517	1	0	0	0
+bbb-n-am4la.part1.rar	-	250000000	1	5517	0	1
+bbb-n-am4la.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-am4la.part3.rar	-	132326722	1	500005517	0	479
+bbb-n-am4la.sfv	-	96	1	94577986	1	91

@@ -1,0 +1,9 @@
+v-picross_s3_v524288.nfo	57be4ac1
+v-picross_s3_v524288.r00	82a3d48a
+v-picross_s3_v524288.r01	285547b2
+v-picross_s3_v524288.r02	64facd71
+v-picross_s3_v524288.r03	1daf861b
+v-picross_s3_v524288.r04	340160b4
+v-picross_s3_v524288.r05	8b403073
+v-picross_s3_v524288.rar	51ed6477
+v-picross_s3_v524288.sfv	55ab3823

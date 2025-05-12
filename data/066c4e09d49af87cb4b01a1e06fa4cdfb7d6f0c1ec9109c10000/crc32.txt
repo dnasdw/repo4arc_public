@@ -1,0 +1,5 @@
+brw-kitt_rf.nfo	62293b84
+brw-kitt_rf.r00	b0bff83b
+brw-kitt_rf.r01	7f9b4d46
+brw-kitt_rf.rar	b9fc5b73
+brw-kitt_rf.sfv	e577e431

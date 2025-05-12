@@ -1,0 +1,16 @@
+sxs-beasties.nfo	72a7ee38d45d42c9b46a407ac9098b70
+sxs-beasties.r00	9130ad6c87ed2aaba65883e8964bebe3
+sxs-beasties.r01	6181760c78691c6490f19f33da3321f1
+sxs-beasties.r02	df1d91a0522e0ed4c99abb474ea96e2a
+sxs-beasties.r03	bd51012c4beaec6ec6166063dbeeacf2
+sxs-beasties.r04	0505c9271e55feb4ff241a206a30537b
+sxs-beasties.r05	e6843d11dbaf4d4699ceac04e60095ec
+sxs-beasties.r06	ed24d18064a985952a2833d52d4f5117
+sxs-beasties.r07	e39abe19214114982de302f212a2c9b0
+sxs-beasties.r08	c84634cbc64f03bccc1d7f0edaed8f50
+sxs-beasties.r09	55c0d71c91a5c44d0e238b070f12be65
+sxs-beasties.r10	6d55df87453b3c04ae62780baa8218aa
+sxs-beasties.r11	c8cb58fdf0bba1498ad77c0728e5d2dc
+sxs-beasties.r12	790280405ba39fa6cb16077edddc3066
+sxs-beasties.rar	e3acff0b6b5bcdab3b7f6954055cb510
+sxs-beasties.sfv	b1dc6ea83377796b147fd1863a51656c

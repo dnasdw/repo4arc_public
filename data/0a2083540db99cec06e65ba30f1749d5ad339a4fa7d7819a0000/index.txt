@@ -1,0 +1,3 @@
+nrz-dkctf.nfo	-	104	1	0	0	0
+nrz-dkctf.rar	-	1531852	1	104	0	1
+nrz-dkctf.sfv	-	24	1	1531956	0	3

@@ -1,0 +1,12 @@
+brw-arvl.nfo	fbc3ad8e
+brw-arvl.r00	03d72c09
+brw-arvl.r01	0f4cdb4e
+brw-arvl.r02	a0258086
+brw-arvl.r03	1d599672
+brw-arvl.r04	37a3fa6b
+brw-arvl.r05	3743688c
+brw-arvl.r06	f51694f9
+brw-arvl.r07	9d12f8fb
+brw-arvl.r08	9822dc48
+brw-arvl.rar	80da19b9
+brw-arvl.sfv	aaa957bb

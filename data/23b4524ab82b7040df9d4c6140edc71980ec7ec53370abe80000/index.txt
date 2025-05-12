@@ -1,0 +1,5 @@
+sxs-rescue_tale_v196608.nfo	-	3560	1	0	0	0
+sxs-rescue_tale_v196608.r00	-	50000000	1	3560	0	1
+sxs-rescue_tale_v196608.r01	-	41724707	1	50003560	0	49
+sxs-rescue_tale_v196608.rar	-	50000000	1	91728267	0	89
+sxs-rescue_tale_v196608.sfv	-	114	1	141728267	0	137

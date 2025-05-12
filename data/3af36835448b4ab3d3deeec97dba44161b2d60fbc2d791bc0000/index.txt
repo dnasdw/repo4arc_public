@@ -1,0 +1,3 @@
+sxs-sword_art_online_alicization_lycoris_blooming_of_forget_me_not_dlc.nfo	-	7148	1	0	0	0
+sxs-sword_art_online_alicization_lycoris_blooming_of_forget_me_not_dlc.rar	-	103988	1	7148	0	1
+sxs-sword_art_online_alicization_lycoris_blooming_of_forget_me_not_dlc.sfv	-	85	1	111136	0	2

@@ -1,0 +1,6 @@
+sxs-filmechanism.nfo	058f2702c676fcac5464cce3c687f0ff0d070d6f
+sxs-filmechanism.r00	1bc1af49d1be475d1eebad820e52103a5e824757
+sxs-filmechanism.r01	776ae4a561249fc2b3c2e6bad01b676b2ad82927
+sxs-filmechanism.r02	9e279068ae727f744d0ffab3d764cb53b27dd62b
+sxs-filmechanism.rar	dcc1d444bedb68f15e319ec345fee1327fe9634a
+sxs-filmechanism.sfv	127e4e7dcf4741bd618bdbc965d8d191c9b9a68f

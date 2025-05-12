@@ -1,0 +1,3 @@
+v-trialm_dlc.nfo	-	5356	1	0	0	0
+v-trialm_dlc.rar	-	5405134	1	5356	0	1
+v-trialm_dlc.sfv	-	27	1	5410490	0	7

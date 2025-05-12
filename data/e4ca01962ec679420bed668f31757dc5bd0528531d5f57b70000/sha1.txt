@@ -1,0 +1,3 @@
+sxs-wrc_generations_multi11_dlc.nfo	0150e22423e4a7ecbc29e8f262d45a29cc70fb69
+sxs-wrc_generations_multi11_dlc.rar	540325e37391c775a1f641ba5cdf4fbef8b1a10f
+sxs-wrc_generations_multi11_dlc.sfv	c4536ca5559f37ef6bc10deb5ac7dd5229033750

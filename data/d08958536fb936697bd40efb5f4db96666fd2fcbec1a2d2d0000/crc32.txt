@@ -1,0 +1,15 @@
+v-waww_v131072.nfo	c9ec3b23
+v-waww_v131072.r00	b51e174c
+v-waww_v131072.r01	767f9992
+v-waww_v131072.r02	570aa23d
+v-waww_v131072.r03	8009f928
+v-waww_v131072.r04	7b210d46
+v-waww_v131072.r05	c288c0c7
+v-waww_v131072.r06	fda8de82
+v-waww_v131072.r07	874fe91a
+v-waww_v131072.r08	a417f14f
+v-waww_v131072.r09	db45969e
+v-waww_v131072.r10	c070bfea
+v-waww_v131072.r11	ef0bc41a
+v-waww_v131072.rar	06216146
+v-waww_v131072.sfv	b8939066

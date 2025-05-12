@@ -1,0 +1,13 @@
+lfc-shadowsofadamupd.nfo	eabc7af3
+lfc-shadowsofadamupd.r00	54856d7b
+lfc-shadowsofadamupd.r01	15d22544
+lfc-shadowsofadamupd.r02	01042837
+lfc-shadowsofadamupd.r03	0858ac65
+lfc-shadowsofadamupd.r04	583a537a
+lfc-shadowsofadamupd.r05	68618f4e
+lfc-shadowsofadamupd.r06	46f78f06
+lfc-shadowsofadamupd.r07	0eec34ef
+lfc-shadowsofadamupd.r08	82e9dedd
+lfc-shadowsofadamupd.r09	cd43b1a2
+lfc-shadowsofadamupd.rar	0733b96f
+lfc-shadowsofadamupd.sfv	86b18d32

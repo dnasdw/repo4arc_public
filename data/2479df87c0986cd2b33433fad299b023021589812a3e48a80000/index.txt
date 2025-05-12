@@ -1,0 +1,3 @@
+bbb-n-ctttkiosk.nfo	-	5517	1	0	0	0
+bbb-n-ctttkiosk.rar	-	215354601	1	5517	0	1
+bbb-n-ctttkiosk.sfv	-	30	1	215360118	0	207

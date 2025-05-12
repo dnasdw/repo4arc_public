@@ -1,0 +1,13 @@
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.nfo	-	5666	1	0	0	0
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.r00	-	50000000	1	5666	0	1
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.r01	-	50000000	1	50005666	0	49
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.r02	-	50000000	1	100005666	0	97
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.r03	-	50000000	1	150005666	0	145
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.r04	-	50000000	1	200005666	0	193
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.r05	-	50000000	1	250005666	0	241
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.r06	-	50000000	1	300005666	0	289
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.r07	-	50000000	1	350005666	0	337
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.r08	-	50000000	1	400005666	0	385
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.r09	-	41645722	1	450005666	0	433
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.rar	-	50000000	1	491651388	0	473
+sxs-the_bards_tale_arpg_remastered_and_resnarkled_v131072.sfv	-	792	1	3862656	1	4

@@ -1,0 +1,10 @@
+sxs-samshom_cham_cham_dlc.nfo	619690da
+sxs-samshom_cham_cham_dlc.r00	61d7944a
+sxs-samshom_cham_cham_dlc.r01	b96b8893
+sxs-samshom_cham_cham_dlc.r02	4b854b72
+sxs-samshom_cham_cham_dlc.r03	73762753
+sxs-samshom_cham_cham_dlc.r04	a7bc357d
+sxs-samshom_cham_cham_dlc.r05	a9b3d9c6
+sxs-samshom_cham_cham_dlc.r06	864005db
+sxs-samshom_cham_cham_dlc.rar	9fd1ea25
+sxs-samshom_cham_cham_dlc.sfv	411f9eeb

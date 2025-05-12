@@ -1,0 +1,13 @@
+Proof	00000000
+Proof/sxs-astronite.jpg	f5c07eee
+sxs-astronite.nfo	4697699b
+sxs-astronite.r00	032e0551
+sxs-astronite.r01	64c0ea59
+sxs-astronite.r02	2ce59dd5
+sxs-astronite.r03	9f67f48c
+sxs-astronite.r04	06ebd28e
+sxs-astronite.r05	e424c692
+sxs-astronite.r06	153bc881
+sxs-astronite.r07	b938caf2
+sxs-astronite.rar	dd804ce9
+sxs-astronite.sfv	28661005

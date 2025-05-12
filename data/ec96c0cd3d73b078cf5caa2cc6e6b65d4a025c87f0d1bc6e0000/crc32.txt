@@ -1,0 +1,10 @@
+sxs-pac_man_museum_plus_v65536.nfo	2892b1b2
+sxs-pac_man_museum_plus_v65536.r00	23b2063d
+sxs-pac_man_museum_plus_v65536.r01	2df2898c
+sxs-pac_man_museum_plus_v65536.r02	743a46db
+sxs-pac_man_museum_plus_v65536.r03	ce541f49
+sxs-pac_man_museum_plus_v65536.r04	d33eaa26
+sxs-pac_man_museum_plus_v65536.r05	ad254402
+sxs-pac_man_museum_plus_v65536.r06	2585d6da
+sxs-pac_man_museum_plus_v65536.rar	a768d427
+sxs-pac_man_museum_plus_v65536.sfv	915ec0b2

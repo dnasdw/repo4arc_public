@@ -1,0 +1,16 @@
+sxs-uno_for_nintendo_switch_v327680.nfo	c9eacb0b
+sxs-uno_for_nintendo_switch_v327680.r00	2d8ea887
+sxs-uno_for_nintendo_switch_v327680.r01	aed7122b
+sxs-uno_for_nintendo_switch_v327680.r02	5aa999b9
+sxs-uno_for_nintendo_switch_v327680.r03	d4d55642
+sxs-uno_for_nintendo_switch_v327680.r04	ae780bfb
+sxs-uno_for_nintendo_switch_v327680.r05	6699cf3d
+sxs-uno_for_nintendo_switch_v327680.r06	67edc3f6
+sxs-uno_for_nintendo_switch_v327680.r07	44831f55
+sxs-uno_for_nintendo_switch_v327680.r08	de8bb480
+sxs-uno_for_nintendo_switch_v327680.r09	c0e4a556
+sxs-uno_for_nintendo_switch_v327680.r10	80df4b56
+sxs-uno_for_nintendo_switch_v327680.r11	7855559d
+sxs-uno_for_nintendo_switch_v327680.r12	3dd4d741
+sxs-uno_for_nintendo_switch_v327680.rar	09f839d5
+sxs-uno_for_nintendo_switch_v327680.sfv	53f77558

@@ -1,0 +1,8 @@
+bbb-h-adfua.nfo	-	6717	1	0	0	0
+bbb-h-adfua.part01.rar	-	250000000	1	6717	0	1
+bbb-h-adfua.part02.rar	-	250000000	1	250006717	0	240
+bbb-h-adfua.part03.rar	-	250000000	1	500006717	0	479
+bbb-h-adfua.part04.rar	-	250000000	1	212251264	1	203
+bbb-h-adfua.part05.rar	-	250000000	1	462251264	1	442
+bbb-h-adfua.part06.rar	-	140167632	1	174502528	2	167
+bbb-h-adfua.sfv	-	198	1	314670160	2	301

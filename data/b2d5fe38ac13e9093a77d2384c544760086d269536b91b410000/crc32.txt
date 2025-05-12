@@ -1,0 +1,12 @@
+v-muse_dash_v131072.nfo	21c4d2ee
+v-muse_dash_v131072.r00	c2e25b79
+v-muse_dash_v131072.r01	e923bd27
+v-muse_dash_v131072.r02	3280251c
+v-muse_dash_v131072.r03	a978fe43
+v-muse_dash_v131072.r04	b438f427
+v-muse_dash_v131072.r05	c5cbf1bc
+v-muse_dash_v131072.r06	95fe6e64
+v-muse_dash_v131072.r07	47d2b435
+v-muse_dash_v131072.r08	f97ce16e
+v-muse_dash_v131072.rar	dc9f5244
+v-muse_dash_v131072.sfv	0a879a6a

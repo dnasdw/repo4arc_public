@@ -1,0 +1,7 @@
+sxs-atelier_ryza_ever_darkness_and_the_secret_hideout_v65536.nfo	-	10892	1	0	0	0
+sxs-atelier_ryza_ever_darkness_and_the_secret_hideout_v65536.r00	-	50000000	1	10892	0	1
+sxs-atelier_ryza_ever_darkness_and_the_secret_hideout_v65536.r01	-	50000000	1	50010892	0	49
+sxs-atelier_ryza_ever_darkness_and_the_secret_hideout_v65536.r02	-	50000000	1	100010892	0	97
+sxs-atelier_ryza_ever_darkness_and_the_secret_hideout_v65536.r03	-	41183501	1	150010892	0	145
+sxs-atelier_ryza_ever_darkness_and_the_secret_hideout_v65536.rar	-	50000000	1	191194393	0	185
+sxs-atelier_ryza_ever_darkness_and_the_secret_hideout_v65536.sfv	-	375	1	241194393	0	233

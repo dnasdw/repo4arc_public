@@ -1,0 +1,12 @@
+v-orochi_v327680.nfo	96b0f7ed
+v-orochi_v327680.r00	6259d5d1
+v-orochi_v327680.r01	cbfe6746
+v-orochi_v327680.r02	c5509473
+v-orochi_v327680.r03	424bf59e
+v-orochi_v327680.r04	e2a0f635
+v-orochi_v327680.r05	099c26ad
+v-orochi_v327680.r06	b407f234
+v-orochi_v327680.r07	4af0ab54
+v-orochi_v327680.r08	a9609598
+v-orochi_v327680.rar	ac79ae37
+v-orochi_v327680.sfv	fcaf6906

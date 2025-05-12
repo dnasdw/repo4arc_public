@@ -1,0 +1,11 @@
+sxs-angels_of_death_v393216.nfo	-	4574	1	0	0	0
+sxs-angels_of_death_v393216.r00	-	50000000	1	4574	0	1
+sxs-angels_of_death_v393216.r01	-	50000000	1	50004574	0	49
+sxs-angels_of_death_v393216.r02	-	50000000	1	100004574	0	97
+sxs-angels_of_death_v393216.r03	-	50000000	1	150004574	0	145
+sxs-angels_of_death_v393216.r04	-	50000000	1	200004574	0	193
+sxs-angels_of_death_v393216.r05	-	50000000	1	250004574	0	241
+sxs-angels_of_death_v393216.r06	-	50000000	1	300004574	0	289
+sxs-angels_of_death_v393216.r07	-	676209	1	350004574	0	337
+sxs-angels_of_death_v393216.rar	-	50000000	1	350680783	0	338
+sxs-angels_of_death_v393216.sfv	-	378	1	400680783	0	386

@@ -1,0 +1,11 @@
+sxs-persephone.nfo	462fb8071cab34d1f125cfac14229f79
+sxs-persephone.r00	41f496d8456061c53bc7d38e691bae7b
+sxs-persephone.r01	244c61163f41e1bf3472fa2f07986ced
+sxs-persephone.r02	19c1e31732605cf4155008f6d68720d4
+sxs-persephone.r03	86b17f3b93105c8914ed09396649fb38
+sxs-persephone.r04	52941fb95d08a74320f89a2df1f2c77e
+sxs-persephone.r05	3ec67684da0bac4e802f7a5e720ba48b
+sxs-persephone.r06	74546050e257b547886108b064001152
+sxs-persephone.r07	1909985a0eff5cf38a1afa62a5ff9355
+sxs-persephone.rar	eef457e4f5a1a311a52af90d73f28d62
+sxs-persephone.sfv	8acbe335a2231c5ff05a0b94c169fc7c

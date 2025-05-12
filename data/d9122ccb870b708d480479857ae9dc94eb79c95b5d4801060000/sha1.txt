@@ -1,0 +1,10 @@
+lfc-code.nfo	62222bfbd6b5ed74baf3e31d1bbfed482b1cb10f
+lfc-code.r00	13a4bccb0512dfdfd3adbd9c16a4f77a899a6395
+lfc-code.r01	e6e2eea97ae6b7a1dbafec21e18b175f5fd38254
+lfc-code.r02	18fcc1e55bed467ea9a063fab0ab43f47c2c3942
+lfc-code.r03	ce341e25250fb7fcb0dc4fcb8b0406d83fe8198d
+lfc-code.r04	7f2195a9addbe3b81e88425df6a60052ba6976e8
+lfc-code.r05	70f40ee0184a3bbb3df1b6c1fc9e4e778bfa708b
+lfc-code.r06	dc7a12a3cdfc2ad5bfd61a41aafba288e719bfe4
+lfc-code.rar	ef82c9d46a5adce41d1d0a933355877774b9ea60
+lfc-code.sfv	a51b14587596d92e2d51145563be25cbb8a8b33e

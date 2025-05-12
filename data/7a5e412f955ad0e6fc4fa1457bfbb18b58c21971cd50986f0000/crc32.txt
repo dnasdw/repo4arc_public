@@ -1,0 +1,17 @@
+sxs-pokemon_sword_v65536.nfo	9e4061c3
+sxs-pokemon_sword_v65536.r00	99924490
+sxs-pokemon_sword_v65536.r01	99254363
+sxs-pokemon_sword_v65536.r02	90ad61eb
+sxs-pokemon_sword_v65536.r03	54d131c9
+sxs-pokemon_sword_v65536.r04	da00daa7
+sxs-pokemon_sword_v65536.r05	0be0ed12
+sxs-pokemon_sword_v65536.r06	adb45c2f
+sxs-pokemon_sword_v65536.r07	e0c15790
+sxs-pokemon_sword_v65536.r08	cbcc9f9d
+sxs-pokemon_sword_v65536.r09	cdfe0969
+sxs-pokemon_sword_v65536.r10	0175964f
+sxs-pokemon_sword_v65536.r11	022fc1d5
+sxs-pokemon_sword_v65536.r12	2d10e0dd
+sxs-pokemon_sword_v65536.r13	c1beb902
+sxs-pokemon_sword_v65536.rar	d05993ec
+sxs-pokemon_sword_v65536.sfv	d090bd2d

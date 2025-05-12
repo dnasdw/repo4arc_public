@@ -1,0 +1,4 @@
+lfc-cosi.nfo	e783b1fa5cdaf4406a2bd14befdf79bf
+lfc-cosi.r00	d50f2c35621a041fb39d4b4ca6d902e0
+lfc-cosi.rar	6771b51e7cd804de6c08654c7089a70a
+lfc-cosi.sfv	2af72f5233ef5e5281b61edfea3d704c

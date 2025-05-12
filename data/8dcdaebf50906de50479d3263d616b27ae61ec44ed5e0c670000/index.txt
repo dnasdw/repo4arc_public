@@ -1,0 +1,5 @@
+sxs-castaway_paradise_v65536.nfo	-	4824	1	0	0	0
+sxs-castaway_paradise_v65536.r00	-	50000000	1	4824	0	1
+sxs-castaway_paradise_v65536.r01	-	31649551	1	50004824	0	49
+sxs-castaway_paradise_v65536.rar	-	50000000	1	81654375	0	80
+sxs-castaway_paradise_v65536.sfv	-	129	1	131654375	0	128

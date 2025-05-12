@@ -1,0 +1,9 @@
+sxs-yu_gi_oh_legacy_of_the_duelist__link_evolution_v65536.nfo	-	5120	1	0	0	0
+sxs-yu_gi_oh_legacy_of_the_duelist__link_evolution_v65536.r00	-	50000000	1	5120	0	1
+sxs-yu_gi_oh_legacy_of_the_duelist__link_evolution_v65536.r01	-	50000000	1	50005120	0	49
+sxs-yu_gi_oh_legacy_of_the_duelist__link_evolution_v65536.r02	-	50000000	1	100005120	0	97
+sxs-yu_gi_oh_legacy_of_the_duelist__link_evolution_v65536.r03	-	50000000	1	150005120	0	145
+sxs-yu_gi_oh_legacy_of_the_duelist__link_evolution_v65536.r04	-	50000000	1	200005120	0	193
+sxs-yu_gi_oh_legacy_of_the_duelist__link_evolution_v65536.r05	-	11157404	1	250005120	0	241
+sxs-yu_gi_oh_legacy_of_the_duelist__link_evolution_v65536.rar	-	50000000	1	261162524	0	252
+sxs-yu_gi_oh_legacy_of_the_duelist__link_evolution_v65536.sfv	-	504	1	311162524	0	300

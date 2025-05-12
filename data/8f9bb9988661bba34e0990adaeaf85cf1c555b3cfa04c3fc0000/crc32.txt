@@ -1,0 +1,8 @@
+sxs-retimed_v458752.nfo	6a2c163e
+sxs-retimed_v458752.r00	be9c23ad
+sxs-retimed_v458752.r01	2d67eb91
+sxs-retimed_v458752.r02	fe3cab18
+sxs-retimed_v458752.r03	57ce9252
+sxs-retimed_v458752.r04	6ee61fcd
+sxs-retimed_v458752.rar	69a7d688
+sxs-retimed_v458752.sfv	bdc97395

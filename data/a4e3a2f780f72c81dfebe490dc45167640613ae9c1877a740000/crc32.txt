@@ -1,0 +1,11 @@
+v-wargroove_2_v262144.nfo	ef01d8de
+v-wargroove_2_v262144.r00	a16dafe3
+v-wargroove_2_v262144.r01	deafdf1d
+v-wargroove_2_v262144.r02	bbf9d2de
+v-wargroove_2_v262144.r03	98ae7a64
+v-wargroove_2_v262144.r04	39a01f33
+v-wargroove_2_v262144.r05	1f142c5d
+v-wargroove_2_v262144.r06	470d3439
+v-wargroove_2_v262144.r07	d9ec4555
+v-wargroove_2_v262144.rar	60fb2533
+v-wargroove_2_v262144.sfv	32bbfed0

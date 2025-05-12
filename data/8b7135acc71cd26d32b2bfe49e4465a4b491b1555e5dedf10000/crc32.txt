@@ -1,0 +1,17 @@
+v-banchou_tactics.nfo	1c8041cb
+v-banchou_tactics.r00	24b950c3
+v-banchou_tactics.r01	68c0fab0
+v-banchou_tactics.r02	6edb5e8d
+v-banchou_tactics.r03	eff15831
+v-banchou_tactics.r04	f329a0db
+v-banchou_tactics.r05	9895d6ba
+v-banchou_tactics.r06	b1dc1504
+v-banchou_tactics.r07	210b2aee
+v-banchou_tactics.r08	e23a6cd5
+v-banchou_tactics.r09	a5e6d65e
+v-banchou_tactics.r10	e9d1dcf6
+v-banchou_tactics.r11	aa8241dc
+v-banchou_tactics.r12	e82f6e6b
+v-banchou_tactics.r13	d260eb1a
+v-banchou_tactics.rar	4bbe59c2
+v-banchou_tactics.sfv	c9bc6dbd

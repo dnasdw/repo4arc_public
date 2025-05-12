@@ -1,0 +1,8 @@
+sxs-asscrr_de_dlc.nfo	0586a6ef
+sxs-asscrr_de_dlc.r00	d039a389
+sxs-asscrr_de_dlc.r01	8b8d4305
+sxs-asscrr_de_dlc.r02	56e0a4e8
+sxs-asscrr_de_dlc.r03	837b4dbc
+sxs-asscrr_de_dlc.r04	19e9ebb5
+sxs-asscrr_de_dlc.rar	c3d337d3
+sxs-asscrr_de_dlc.sfv	3ce5c97e

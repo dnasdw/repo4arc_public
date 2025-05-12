@@ -1,0 +1,11 @@
+v-superepic_the_entertainment_war_v65536.nfo	f8b3ee59
+v-superepic_the_entertainment_war_v65536.r00	a5fe20ee
+v-superepic_the_entertainment_war_v65536.r01	ca365428
+v-superepic_the_entertainment_war_v65536.r02	d8d672c1
+v-superepic_the_entertainment_war_v65536.r03	918e7ddf
+v-superepic_the_entertainment_war_v65536.r04	2f589688
+v-superepic_the_entertainment_war_v65536.r05	5e4c680f
+v-superepic_the_entertainment_war_v65536.r06	ecc6f295
+v-superepic_the_entertainment_war_v65536.r07	04c1ea94
+v-superepic_the_entertainment_war_v65536.rar	cd9c0b8d
+v-superepic_the_entertainment_war_v65536.sfv	b7483deb

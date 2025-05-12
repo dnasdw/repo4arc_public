@@ -1,0 +1,9 @@
+sxs-flatland_prologue.nfo	70cc4beb
+sxs-flatland_prologue.r00	3026f893
+sxs-flatland_prologue.r01	75eab218
+sxs-flatland_prologue.r02	d44ca1a4
+sxs-flatland_prologue.r03	967b56a9
+sxs-flatland_prologue.r04	13799072
+sxs-flatland_prologue.r05	b23f0d89
+sxs-flatland_prologue.rar	adb0f86f
+sxs-flatland_prologue.sfv	7a7b7b15

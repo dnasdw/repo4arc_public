@@ -1,0 +1,8 @@
+v-aliisha_the_oblivion_of_twin_goddesses_v65536.nfo	-	4888	1	0	0	0
+v-aliisha_the_oblivion_of_twin_goddesses_v65536.r00	-	50000000	1	4888	0	1
+v-aliisha_the_oblivion_of_twin_goddesses_v65536.r01	-	50000000	1	50004888	0	49
+v-aliisha_the_oblivion_of_twin_goddesses_v65536.r02	-	50000000	1	100004888	0	97
+v-aliisha_the_oblivion_of_twin_goddesses_v65536.r03	-	50000000	1	150004888	0	145
+v-aliisha_the_oblivion_of_twin_goddesses_v65536.r04	-	3384406	1	200004888	0	193
+v-aliisha_the_oblivion_of_twin_goddesses_v65536.rar	-	50000000	1	203389294	0	197
+v-aliisha_the_oblivion_of_twin_goddesses_v65536.sfv	-	372	1	253389294	0	245

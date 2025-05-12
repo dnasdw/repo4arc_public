@@ -1,0 +1,12 @@
+lfc-yrdd_v131072.nfo	71e71560
+lfc-yrdd_v131072.r00	609444f5
+lfc-yrdd_v131072.r01	adf1d134
+lfc-yrdd_v131072.r02	25db3d40
+lfc-yrdd_v131072.r03	d4f9bcc1
+lfc-yrdd_v131072.r04	3b96bf5a
+lfc-yrdd_v131072.r05	f1334d51
+lfc-yrdd_v131072.r06	8b1f70ac
+lfc-yrdd_v131072.r07	adbad9e7
+lfc-yrdd_v131072.r08	9b7e5d35
+lfc-yrdd_v131072.rar	cb05138c
+lfc-yrdd_v131072.sfv	7dd26a38

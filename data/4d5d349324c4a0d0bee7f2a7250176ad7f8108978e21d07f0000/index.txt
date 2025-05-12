@@ -1,0 +1,8 @@
+bbb-n-agfra.nfo	-	5517	1	0	0	0
+bbb-n-agfra.part1.rar	-	250000000	1	5517	0	1
+bbb-n-agfra.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-agfra.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-agfra.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-agfra.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-agfra.part6.rar	-	211155614	1	174502528	2	167
+bbb-n-agfra.sfv	-	192	1	385658142	2	369

@@ -1,0 +1,3 @@
+v-cadence_of_hyrule_dlc1.nfo	-	5512	1	0	0	0
+v-cadence_of_hyrule_dlc1.rar	-	6942821	1	5512	0	1
+v-cadence_of_hyrule_dlc1.sfv	-	39	1	6948333	0	8

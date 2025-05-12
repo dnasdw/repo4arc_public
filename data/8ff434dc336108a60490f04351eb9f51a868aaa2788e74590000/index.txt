@@ -1,0 +1,4 @@
+v-deadly_premonition_origins_v196608.nfo	-	4342	1	0	0	0
+v-deadly_premonition_origins_v196608.r00	-	4920655	1	4342	0	1
+v-deadly_premonition_origins_v196608.rar	-	50000000	1	4924997	0	6
+v-deadly_premonition_origins_v196608.sfv	-	102	1	54924997	0	54

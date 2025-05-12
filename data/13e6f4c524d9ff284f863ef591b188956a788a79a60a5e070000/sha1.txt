@@ -1,0 +1,3 @@
+sxs-potion_party_v65536.nfo	6bd70140607bb8c9606f717b7d1b804f61b11095
+sxs-potion_party_v65536.rar	4e4f8532e6aa89cd02b673bdf755ecba8041bcd9
+sxs-potion_party_v65536.sfv	689c55a36c18f26c7f4268044efed82b380b37cb

@@ -1,0 +1,8 @@
+v-dark_devotion_v65536.nfo	7750da7c
+v-dark_devotion_v65536.r00	7903b7a6
+v-dark_devotion_v65536.r01	1c51290f
+v-dark_devotion_v65536.r02	d711291d
+v-dark_devotion_v65536.r03	16326c55
+v-dark_devotion_v65536.r04	f0968bcd
+v-dark_devotion_v65536.rar	2ecda649
+v-dark_devotion_v65536.sfv	b12fa41c

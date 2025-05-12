@@ -1,0 +1,3 @@
+nsw.standards.v1.1.2019-console.nfo	442d6b3f9a9a51adbbdf0b020a55380096f42c85
+nsw.standards.v1.1.2019-console.rar	a8b221ede0d54492d56f9aad67639d426485e908
+nsw.standards.v1.1.2019-console.sfv	dfc19e6fa33769005124a3356e59905a11faa37c

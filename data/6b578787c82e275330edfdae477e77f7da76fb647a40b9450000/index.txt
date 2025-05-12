@@ -1,0 +1,5 @@
+v-super_monkey_ball_banana_mania_v262144.nfo	-	5512	1	0	0	0
+v-super_monkey_ball_banana_mania_v262144.r00	-	100000000	1	5512	0	1
+v-super_monkey_ball_banana_mania_v262144.r01	-	46668993	1	100005512	0	97
+v-super_monkey_ball_banana_mania_v262144.rar	-	100000000	1	146674505	0	142
+v-super_monkey_ball_banana_mania_v262144.sfv	-	165	1	246674505	0	238

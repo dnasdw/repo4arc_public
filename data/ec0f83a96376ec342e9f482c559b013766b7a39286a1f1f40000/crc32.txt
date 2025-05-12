@@ -1,0 +1,8 @@
+sxs-n64jp_v262144.nfo	ab3c5559
+sxs-n64jp_v262144.r00	2e91c951
+sxs-n64jp_v262144.r01	eb07cfc7
+sxs-n64jp_v262144.r02	6c728434
+sxs-n64jp_v262144.r03	a0209e53
+sxs-n64jp_v262144.r04	1d0e3b88
+sxs-n64jp_v262144.rar	d71b437c
+sxs-n64jp_v262144.sfv	5c617720

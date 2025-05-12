@@ -1,0 +1,3 @@
+sxs-bowling_fever_expansion_pack_dlc.nfo	20caf28a3f14dde1b6b93d6c66481cc5051a146e
+sxs-bowling_fever_expansion_pack_dlc.rar	dbc7fd8fca64585e88196546329086a06fd26e4f
+sxs-bowling_fever_expansion_pack_dlc.sfv	3ddcf39ef42e3642ed07ea4b95d71f99ec0f9d4b

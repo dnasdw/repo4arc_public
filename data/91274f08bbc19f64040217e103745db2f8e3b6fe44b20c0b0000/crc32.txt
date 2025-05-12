@@ -1,0 +1,14 @@
+sxs-action_arcade_wrestling_v65536.nfo	a6824222
+sxs-action_arcade_wrestling_v65536.r00	0715c3e8
+sxs-action_arcade_wrestling_v65536.r01	c7080a42
+sxs-action_arcade_wrestling_v65536.r02	70dc34d9
+sxs-action_arcade_wrestling_v65536.r03	b348fc73
+sxs-action_arcade_wrestling_v65536.r04	392e8311
+sxs-action_arcade_wrestling_v65536.r05	0820b0de
+sxs-action_arcade_wrestling_v65536.r06	ceed2fd4
+sxs-action_arcade_wrestling_v65536.r07	ba0708f2
+sxs-action_arcade_wrestling_v65536.r08	a69f83ee
+sxs-action_arcade_wrestling_v65536.r09	e6760541
+sxs-action_arcade_wrestling_v65536.r10	9873a825
+sxs-action_arcade_wrestling_v65536.rar	9d637c5b
+sxs-action_arcade_wrestling_v65536.sfv	6997fac7

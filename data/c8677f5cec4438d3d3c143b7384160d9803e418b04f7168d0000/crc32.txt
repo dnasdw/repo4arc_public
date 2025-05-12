@@ -1,0 +1,9 @@
+sxs-rivals_of_aether_v458752.nfo	cb471997
+sxs-rivals_of_aether_v458752.r00	9b1b6b20
+sxs-rivals_of_aether_v458752.r01	0e49d4af
+sxs-rivals_of_aether_v458752.r02	9c585650
+sxs-rivals_of_aether_v458752.r03	9d415d26
+sxs-rivals_of_aether_v458752.r04	4c180d92
+sxs-rivals_of_aether_v458752.r05	2fd149ef
+sxs-rivals_of_aether_v458752.rar	63a9b98a
+sxs-rivals_of_aether_v458752.sfv	503771cb

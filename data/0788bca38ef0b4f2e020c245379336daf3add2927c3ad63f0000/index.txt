@@ -1,0 +1,5 @@
+sxs-remnant_from_the_ashes_french_language_pack_dlc.nfo	-	6758	1	0	0	0
+sxs-remnant_from_the_ashes_french_language_pack_dlc.r00	-	100000000	1	6758	0	1
+sxs-remnant_from_the_ashes_french_language_pack_dlc.r01	-	24590401	1	100006758	0	97
+sxs-remnant_from_the_ashes_french_language_pack_dlc.rar	-	100000000	1	124597159	0	121
+sxs-remnant_from_the_ashes_french_language_pack_dlc.sfv	-	198	1	224597159	0	217

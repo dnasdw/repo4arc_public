@@ -1,0 +1,3 @@
+collected-asqzd-dlc.nfo	-	1083	1	0	0	0
+collected-asqzd-dlc.rar	-	237723	1	1083	0	1
+collected-asqzd-dlc.sfv	-	34	1	238806	0	2

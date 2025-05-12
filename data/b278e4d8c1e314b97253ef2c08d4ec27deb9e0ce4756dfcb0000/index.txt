@@ -1,0 +1,11 @@
+sxs-focus_tower.nfo	-	4262	1	0	0	0
+sxs-focus_tower.r00	-	100000000	1	4262	0	1
+sxs-focus_tower.r01	-	100000000	1	100004262	0	97
+sxs-focus_tower.r02	-	100000000	1	200004262	0	193
+sxs-focus_tower.r03	-	100000000	1	300004262	0	289
+sxs-focus_tower.r04	-	100000000	1	400004262	0	385
+sxs-focus_tower.r05	-	100000000	1	500004262	0	481
+sxs-focus_tower.r06	-	100000000	1	62251264	1	60
+sxs-focus_tower.r07	-	82903816	1	162251264	1	156
+sxs-focus_tower.rar	-	100000000	1	245155080	1	236
+sxs-focus_tower.sfv	-	270	1	345155080	1	332

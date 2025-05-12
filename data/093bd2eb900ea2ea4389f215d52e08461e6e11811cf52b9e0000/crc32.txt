@@ -1,0 +1,9 @@
+sxs-super_mario_3d_all_stars_v131072.nfo	031a3cb8
+sxs-super_mario_3d_all_stars_v131072.r00	2416230c
+sxs-super_mario_3d_all_stars_v131072.r01	0becdcf5
+sxs-super_mario_3d_all_stars_v131072.r02	d0bba6a5
+sxs-super_mario_3d_all_stars_v131072.r03	31257254
+sxs-super_mario_3d_all_stars_v131072.r04	5eca8b71
+sxs-super_mario_3d_all_stars_v131072.r05	4bd37a0d
+sxs-super_mario_3d_all_stars_v131072.rar	be01345c
+sxs-super_mario_3d_all_stars_v131072.sfv	1567e71d

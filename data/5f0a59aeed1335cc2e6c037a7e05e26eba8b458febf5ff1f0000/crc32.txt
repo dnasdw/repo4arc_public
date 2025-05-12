@@ -1,0 +1,11 @@
+sxs-ooblets_v1048576.nfo	461e2c88
+sxs-ooblets_v1048576.r00	19805396
+sxs-ooblets_v1048576.r01	2f056f3f
+sxs-ooblets_v1048576.r02	c89225d2
+sxs-ooblets_v1048576.r03	13705d70
+sxs-ooblets_v1048576.r04	ee2f5686
+sxs-ooblets_v1048576.r05	e83f9fbe
+sxs-ooblets_v1048576.r06	c36cc9db
+sxs-ooblets_v1048576.r07	208a9792
+sxs-ooblets_v1048576.rar	613d8253
+sxs-ooblets_v1048576.sfv	5a63b25f

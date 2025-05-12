@@ -1,0 +1,3 @@
+v-ctrnf_dlc_v524288.nfo	-	8164	1	0	0	0
+v-ctrnf_dlc_v524288.rar	-	577390	1	8164	0	1
+v-ctrnf_dlc_v524288.sfv	-	34	1	585554	0	2

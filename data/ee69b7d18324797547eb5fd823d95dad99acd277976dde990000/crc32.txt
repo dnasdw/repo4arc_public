@@ -1,0 +1,9 @@
+sxs-mazm_pechka.nfo	fa4c7afb
+sxs-mazm_pechka.r00	f9d7eef5
+sxs-mazm_pechka.r01	9a2f78be
+sxs-mazm_pechka.r02	d345ecb7
+sxs-mazm_pechka.r03	37c0763c
+sxs-mazm_pechka.r04	981bc561
+sxs-mazm_pechka.r05	b769dd67
+sxs-mazm_pechka.rar	8bd6dd75
+sxs-mazm_pechka.sfv	fe66a278

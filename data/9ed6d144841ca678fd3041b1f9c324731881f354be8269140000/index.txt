@@ -1,0 +1,5 @@
+ycn-chronobreach_ultra.nfo	-	1794	1	0	0	0
+ycn-chronobreach_ultra.r00	-	50000000	1	1794	0	1
+ycn-chronobreach_ultra.r01	-	8750019	1	50001794	0	49
+ycn-chronobreach_ultra.rar	-	50000000	1	58751813	0	58
+ycn-chronobreach_ultra.sfv	-	111	1	108751813	0	106

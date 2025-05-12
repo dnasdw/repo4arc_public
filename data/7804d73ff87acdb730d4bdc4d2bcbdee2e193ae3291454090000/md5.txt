@@ -1,0 +1,10 @@
+sxs-escapists2_v65536.nfo	63b1744884789431d30083ae4d624b7c
+sxs-escapists2_v65536.r00	5bb4fe23f57e19fece54343ebe201cf0
+sxs-escapists2_v65536.r01	359a4513e8078623af58f091345c4d27
+sxs-escapists2_v65536.r02	ac102d2dceae41d1deae0288bccbe137
+sxs-escapists2_v65536.r03	8726a02f5ca867024afaea4498af90a3
+sxs-escapists2_v65536.r04	2cf69f0a84ffae110f90f3ea7d4c06eb
+sxs-escapists2_v65536.r05	0e5a40868b9441c3c5744bd187124ca3
+sxs-escapists2_v65536.r06	6ffa2bb1663f1cdfc93110e67d6c67fd
+sxs-escapists2_v65536.rar	c8b4d4de89d92b9e25480dcba2d53fe4
+sxs-escapists2_v65536.sfv	dd778f547a1a7d3c611ac4a7ef9b21f0

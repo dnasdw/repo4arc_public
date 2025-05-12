@@ -1,0 +1,8 @@
+bbb-h-aeqka.nfo	-	5517	1	0	0	0
+bbb-h-aeqka.part01.rar	-	250000000	1	5517	0	1
+bbb-h-aeqka.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-aeqka.part03.rar	-	250000000	1	500005517	0	479
+bbb-h-aeqka.part04.rar	-	250000000	1	212251264	1	203
+bbb-h-aeqka.part05.rar	-	250000000	1	462251264	1	442
+bbb-h-aeqka.part06.rar	-	41075917	1	174502528	2	167
+bbb-h-aeqka.sfv	-	198	1	215578445	2	207

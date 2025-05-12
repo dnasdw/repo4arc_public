@@ -1,0 +1,6 @@
+sxs-genetic_disaster_v65536.nfo	-	6446	1	0	0	0
+sxs-genetic_disaster_v65536.r00	-	50000000	1	6446	0	1
+sxs-genetic_disaster_v65536.r01	-	50000000	1	50006446	0	49
+sxs-genetic_disaster_v65536.r02	-	21138431	1	100006446	0	97
+sxs-genetic_disaster_v65536.rar	-	50000000	1	121144877	0	118
+sxs-genetic_disaster_v65536.sfv	-	168	1	171144877	0	166

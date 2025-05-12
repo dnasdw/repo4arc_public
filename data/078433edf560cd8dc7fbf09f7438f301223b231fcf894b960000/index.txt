@@ -1,0 +1,10 @@
+sxs-one_step_from_eden_v524288.nfo	-	5120	1	0	0	0
+sxs-one_step_from_eden_v524288.r00	-	100000000	1	5120	0	1
+sxs-one_step_from_eden_v524288.r01	-	100000000	1	100005120	0	97
+sxs-one_step_from_eden_v524288.r02	-	100000000	1	200005120	0	193
+sxs-one_step_from_eden_v524288.r03	-	100000000	1	300005120	0	289
+sxs-one_step_from_eden_v524288.r04	-	100000000	1	400005120	0	385
+sxs-one_step_from_eden_v524288.r05	-	100000000	1	500005120	0	481
+sxs-one_step_from_eden_v524288.r06	-	2832525	1	62251264	1	60
+sxs-one_step_from_eden_v524288.rar	-	100000000	1	65083789	1	63
+sxs-one_step_from_eden_v524288.sfv	-	360	1	165083789	1	159

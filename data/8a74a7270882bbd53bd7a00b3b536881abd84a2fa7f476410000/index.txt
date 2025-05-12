@@ -1,0 +1,4 @@
+bbb-n-apfta.nfo	-	5517	1	0	0	0
+bbb-n-apfta.part1.rar	-	250000000	1	5517	0	1
+bbb-n-apfta.part2.rar	-	91243774	1	250005517	0	240
+bbb-n-apfta.sfv	-	64	1	341249291	0	328

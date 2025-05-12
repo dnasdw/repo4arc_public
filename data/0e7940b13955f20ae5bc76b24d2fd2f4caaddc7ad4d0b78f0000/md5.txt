@@ -1,0 +1,6 @@
+sxs-karmazoo_v262144.nfo	bfb450e4b4cf49f3138a652141700bb1
+sxs-karmazoo_v262144.r00	f2fee14577f7a8d497c8332c53b15046
+sxs-karmazoo_v262144.r01	e9dd860a6b8aa45d33f455467d7816b5
+sxs-karmazoo_v262144.r02	2b7d3de239f5fe9fa1f621e39fe9c8f1
+sxs-karmazoo_v262144.rar	0afc6be40f5c654eef2caa1cde2afd72
+sxs-karmazoo_v262144.sfv	fed7fe7727ec524c2dbe1b9a56fc4411

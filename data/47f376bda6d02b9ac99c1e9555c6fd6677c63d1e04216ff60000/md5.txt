@@ -1,0 +1,6 @@
+sxs-shapeshooter.nfo	b2a14cc438a54fb21462180561d7310f
+sxs-shapeshooter.r00	b2e316b56de9b6fd8c0b5ab3ef773970
+sxs-shapeshooter.r01	ef0182dc86e0b5ce67b7a867b0b1e4f4
+sxs-shapeshooter.r02	eafc1dad861f813687e4c5004c78b0b2
+sxs-shapeshooter.rar	9508e6da3023272dac21a29c0cf485b3
+sxs-shapeshooter.sfv	4c32e9ff6371e0cddd50da40b51ef923

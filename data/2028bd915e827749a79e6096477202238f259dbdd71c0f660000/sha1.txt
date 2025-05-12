@@ -1,0 +1,4 @@
+sxs-remote_life_v131072.nfo	6f1bd9d72a43d58c7dfa1f3c9aa602bc2dde315a
+sxs-remote_life_v131072.r00	27ccecc41b9fc7b6290498dd17fb46a1b6e4cfec
+sxs-remote_life_v131072.rar	a42a77be0b5a26bc1aa153d02257d4ae673a848e
+sxs-remote_life_v131072.sfv	3f3502c40c7426abf72979eccf5699bd2eebfb8c

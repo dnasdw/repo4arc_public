@@ -1,0 +1,9 @@
+brw-sphv.nfo	bfe8e888
+brw-sphv.r00	ec3caca9
+brw-sphv.r01	d5083c23
+brw-sphv.r02	f14c0c8a
+brw-sphv.r03	db4bc664
+brw-sphv.r04	75edfab8
+brw-sphv.r05	36ab5201
+brw-sphv.rar	7980f7da
+brw-sphv.sfv	ae733aa5

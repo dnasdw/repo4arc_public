@@ -1,0 +1,7 @@
+sxs-sky_rogue_v196608.nfo	8fc94570
+sxs-sky_rogue_v196608.r00	fe854547
+sxs-sky_rogue_v196608.r01	0a2981cb
+sxs-sky_rogue_v196608.r02	737ba381
+sxs-sky_rogue_v196608.r03	9edb0ecc
+sxs-sky_rogue_v196608.rar	99289ec2
+sxs-sky_rogue_v196608.sfv	02033113

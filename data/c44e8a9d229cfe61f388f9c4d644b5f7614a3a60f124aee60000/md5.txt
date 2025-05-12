@@ -1,0 +1,5 @@
+lfc-itsk.nfo	9c17020a12ff8c3283d10a316e49fe54
+lfc-itsk.r00	35ae0fcd15c700c56dd1f662ee5d8e0a
+lfc-itsk.r01	9ed47a07d75ff42bb01a34bc9508bae5
+lfc-itsk.rar	5e25d0f2ce429c1ed4da6710131df06c
+lfc-itsk.sfv	affd09a19a770c67faaa654beaeacea3

@@ -1,0 +1,12 @@
+lfc-wast_v65536.nfo	b0c6b4e4
+lfc-wast_v65536.r00	eb00f79b
+lfc-wast_v65536.r01	b4101c5b
+lfc-wast_v65536.r02	86bb6fe7
+lfc-wast_v65536.r03	116b4e1f
+lfc-wast_v65536.r04	afeb8548
+lfc-wast_v65536.r05	293f3128
+lfc-wast_v65536.r06	1afddbe3
+lfc-wast_v65536.r07	2ef4793c
+lfc-wast_v65536.r08	b02d83ea
+lfc-wast_v65536.rar	186eaec6
+lfc-wast_v65536.sfv	1182c27d

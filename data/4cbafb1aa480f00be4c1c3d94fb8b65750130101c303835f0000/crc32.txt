@@ -1,0 +1,12 @@
+sxs-darkwood_v327680.nfo	1b76c8f0
+sxs-darkwood_v327680.r00	d9d742fa
+sxs-darkwood_v327680.r01	c27aeffa
+sxs-darkwood_v327680.r02	b25bda0c
+sxs-darkwood_v327680.r03	5dbc4763
+sxs-darkwood_v327680.r04	8629106f
+sxs-darkwood_v327680.r05	53304d93
+sxs-darkwood_v327680.r06	308b6ceb
+sxs-darkwood_v327680.r07	d1ae0979
+sxs-darkwood_v327680.r08	d950c284
+sxs-darkwood_v327680.rar	b3d41656
+sxs-darkwood_v327680.sfv	34c7182e

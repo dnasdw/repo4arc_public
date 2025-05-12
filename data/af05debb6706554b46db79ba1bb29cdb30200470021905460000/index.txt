@@ -1,0 +1,11 @@
+l-stellarinterface.nfo	-	321	1	0	0	0
+l-stellarinterface.r00	-	50000000	1	321	0	1
+l-stellarinterface.r01	-	50000000	1	50000321	0	49
+l-stellarinterface.r02	-	50000000	1	100000321	0	97
+l-stellarinterface.r03	-	50000000	1	150000321	0	145
+l-stellarinterface.r04	-	50000000	1	200000321	0	193
+l-stellarinterface.r05	-	50000000	1	250000321	0	241
+l-stellarinterface.r06	-	50000000	1	300000321	0	289
+l-stellarinterface.r07	-	13259582	1	350000321	0	337
+l-stellarinterface.rar	-	50000000	1	363259903	0	350
+l-stellarinterface.sfv	-	297	1	413259903	0	398

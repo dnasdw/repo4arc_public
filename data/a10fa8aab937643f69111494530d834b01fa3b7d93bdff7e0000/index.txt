@@ -1,0 +1,7 @@
+bbb-h-ad3hd.nfo	-	5517	1	0	0	0
+bbb-h-ad3hd.part01.rar	-	250000000	1	5517	0	1
+bbb-h-ad3hd.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-ad3hd.part03.rar	-	250000000	1	500005517	0	479
+bbb-h-ad3hd.part04.rar	-	250000000	1	212251264	1	203
+bbb-h-ad3hd.part05.rar	-	195810601	1	462251264	1	442
+bbb-h-ad3hd.sfv	-	165	1	120313129	2	115

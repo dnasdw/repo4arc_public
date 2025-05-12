@@ -1,0 +1,15 @@
+brw-bfat_v65536.nfo	c80857a0
+brw-bfat_v65536.r00	16d4caf9
+brw-bfat_v65536.r01	f3dd9a42
+brw-bfat_v65536.r02	2a63f34f
+brw-bfat_v65536.r03	35dcca07
+brw-bfat_v65536.r04	f1605906
+brw-bfat_v65536.r05	21c787f0
+brw-bfat_v65536.r06	a8b87e04
+brw-bfat_v65536.r07	3bb48b66
+brw-bfat_v65536.r08	7aa38771
+brw-bfat_v65536.r09	065700a1
+brw-bfat_v65536.r10	986a3d1d
+brw-bfat_v65536.r11	c734844e
+brw-bfat_v65536.rar	87dc11cb
+brw-bfat_v65536.sfv	d99d3dbe

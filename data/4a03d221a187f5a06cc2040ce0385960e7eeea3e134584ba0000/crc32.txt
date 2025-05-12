@@ -1,0 +1,15 @@
+v-devilengine.nfo	25a2a876
+v-devilengine.r00	51cb0ac4
+v-devilengine.r01	725b3e3f
+v-devilengine.r02	816a8c87
+v-devilengine.r03	c27c57e2
+v-devilengine.r04	690fbf43
+v-devilengine.r05	4250323b
+v-devilengine.r06	dd6f3856
+v-devilengine.r07	423bfa59
+v-devilengine.r08	8d4bd397
+v-devilengine.r09	1f1cea54
+v-devilengine.r10	b69adb69
+v-devilengine.r11	64cc30a9
+v-devilengine.rar	4b1f3cfd
+v-devilengine.sfv	1908167d

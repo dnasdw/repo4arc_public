@@ -1,0 +1,7 @@
+lfc-fbrd.nfo	fd73b556
+lfc-fbrd.r00	a723442e
+lfc-fbrd.r01	f537052c
+lfc-fbrd.r02	2082b8d1
+lfc-fbrd.r03	72b5fc96
+lfc-fbrd.rar	1a14c69a
+lfc-fbrd.sfv	23241bdc

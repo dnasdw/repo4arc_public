@@ -1,0 +1,7 @@
+sxs-the_library_of_babel_v327680.nfo	-	6200	1	0	0	0
+sxs-the_library_of_babel_v327680.r00	-	100000000	1	6200	0	1
+sxs-the_library_of_babel_v327680.r01	-	100000000	1	100006200	0	97
+sxs-the_library_of_babel_v327680.r02	-	100000000	1	200006200	0	193
+sxs-the_library_of_babel_v327680.r03	-	35187138	1	300006200	0	289
+sxs-the_library_of_babel_v327680.rar	-	100000000	1	335193338	0	323
+sxs-the_library_of_babel_v327680.sfv	-	235	1	435193338	0	419

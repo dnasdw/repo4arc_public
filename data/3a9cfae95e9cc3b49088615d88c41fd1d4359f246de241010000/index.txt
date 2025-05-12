@@ -1,0 +1,4 @@
+lfc-rore.nfo	-	5920	1	0	0	0
+lfc-rore.r00	-	14410032	1	5920	0	1
+lfc-rore.rar	-	50000000	1	14415952	0	15
+lfc-rore.sfv	-	46	1	64415952	0	63

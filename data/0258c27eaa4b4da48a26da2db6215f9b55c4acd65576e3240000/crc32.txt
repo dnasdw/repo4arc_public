@@ -1,0 +1,10 @@
+v-super_korotama.nfo	00beb682
+v-super_korotama.r00	dde4ca34
+v-super_korotama.r01	99341726
+v-super_korotama.r02	c064a5a0
+v-super_korotama.r03	130c71ad
+v-super_korotama.r04	4fa911a6
+v-super_korotama.r05	a45f233b
+v-super_korotama.r06	d0769119
+v-super_korotama.rar	2cefb018
+v-super_korotama.sfv	c119baec

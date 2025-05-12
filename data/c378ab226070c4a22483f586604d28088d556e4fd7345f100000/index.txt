@@ -1,0 +1,7 @@
+sxs-counter_delta_the_bullet_rain_v131072.nfo	-	7082	1	0	0	0
+sxs-counter_delta_the_bullet_rain_v131072.r00	-	50000000	1	7082	0	1
+sxs-counter_delta_the_bullet_rain_v131072.r01	-	50000000	1	50007082	0	49
+sxs-counter_delta_the_bullet_rain_v131072.r02	-	50000000	1	100007082	0	97
+sxs-counter_delta_the_bullet_rain_v131072.r03	-	41479736	1	150007082	0	145
+sxs-counter_delta_the_bullet_rain_v131072.rar	-	50000000	1	191486818	0	185
+sxs-counter_delta_the_bullet_rain_v131072.sfv	-	280	1	241486818	0	233

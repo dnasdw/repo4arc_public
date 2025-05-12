@@ -1,0 +1,14 @@
+sxs-war_dogs_reds_return_v131072.nfo	-	7148	1	0	0	0
+sxs-war_dogs_reds_return_v131072.r00	-	50000000	1	7148	0	1
+sxs-war_dogs_reds_return_v131072.r01	-	50000000	1	50007148	0	49
+sxs-war_dogs_reds_return_v131072.r02	-	50000000	1	100007148	0	97
+sxs-war_dogs_reds_return_v131072.r03	-	50000000	1	150007148	0	145
+sxs-war_dogs_reds_return_v131072.r04	-	50000000	1	200007148	0	193
+sxs-war_dogs_reds_return_v131072.r05	-	50000000	1	250007148	0	241
+sxs-war_dogs_reds_return_v131072.r06	-	50000000	1	300007148	0	289
+sxs-war_dogs_reds_return_v131072.r07	-	50000000	1	350007148	0	337
+sxs-war_dogs_reds_return_v131072.r08	-	50000000	1	400007148	0	385
+sxs-war_dogs_reds_return_v131072.r09	-	50000000	1	450007148	0	433
+sxs-war_dogs_reds_return_v131072.r10	-	19001172	1	500007148	0	481
+sxs-war_dogs_reds_return_v131072.rar	-	50000000	1	519008320	0	500
+sxs-war_dogs_reds_return_v131072.sfv	-	564	1	31125632	1	30

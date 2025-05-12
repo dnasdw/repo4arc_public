@@ -1,0 +1,15 @@
+lfc-smre.nfo	bcc9e11e4986bd17e085b70551b7225c
+lfc-smre.r00	0733e7de66f04fe7c75c5cd854b92e40
+lfc-smre.r01	a6af90efc25cc4e070e1eca43c3b80ef
+lfc-smre.r02	ff385cbd56215e2f8de8278b678b5bdc
+lfc-smre.r03	86c5ffdd625f3219f01bb8745028934b
+lfc-smre.r04	ea5ecf15d506873924e4a90eb1e6b7a6
+lfc-smre.r05	23e3f44c3b9f8b8f142ff5dfe4933f5f
+lfc-smre.r06	750fe5e0267ef93b677c9804f36ab6de
+lfc-smre.r07	96b0c3b622a18f90de35ac38eb31f3cd
+lfc-smre.r08	bfaa4847204b683b0e9d5908c5e1add8
+lfc-smre.r09	fcad8d84ac8b1638d01c74dcd85c85b8
+lfc-smre.r10	ca05d46c663ddc23c63b8086ddf473d4
+lfc-smre.r11	22eb4a7ef5dfe0eb8ac7c5e596eff16d
+lfc-smre.rar	9c528f2be6ab2753919b2f55d6ad4579
+lfc-smre.sfv	b3d1b867450defa7b5200bfebe868667

@@ -1,0 +1,7 @@
+i-minefield.nfo	-	1119	1	0	0	0
+i-minefield.r00	-	50000000	1	1119	0	1
+i-minefield.r01	-	50000000	1	50001119	0	49
+i-minefield.r02	-	50000000	1	100001119	0	97
+i-minefield.r03	-	14893311	1	150001119	0	145
+i-minefield.rar	-	50000000	1	164894430	0	160
+i-minefield.sfv	-	130	1	214894430	0	208

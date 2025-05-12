@@ -1,0 +1,5 @@
+sxs-chess_brain_dark_troops.nfo	f5f7077b1a36c45a26febe36d021e6c4
+sxs-chess_brain_dark_troops.r00	13495adeb14b68db514e52e5b6ee2ba7
+sxs-chess_brain_dark_troops.r01	d8e4ca3bcaca0beb70ab2b8cfb60c5c4
+sxs-chess_brain_dark_troops.rar	96449c0aa101bcc6218a2819b529112a
+sxs-chess_brain_dark_troops.sfv	276cffe6247188735eec49fc0040153f

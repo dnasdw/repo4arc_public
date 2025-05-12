@@ -1,0 +1,6 @@
+v-story_of_a_gladiator_v65536.nfo	aa6909bf
+v-story_of_a_gladiator_v65536.r00	2edd8573
+v-story_of_a_gladiator_v65536.r01	8cdc0433
+v-story_of_a_gladiator_v65536.r02	ae3c0b72
+v-story_of_a_gladiator_v65536.rar	74f9831d
+v-story_of_a_gladiator_v65536.sfv	af9e815a

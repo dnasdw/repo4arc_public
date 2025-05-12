@@ -1,0 +1,5 @@
+v-radiant_silvergun_v131072.nfo	416812b7
+v-radiant_silvergun_v131072.r00	fdfdf0d2
+v-radiant_silvergun_v131072.r01	8fde240b
+v-radiant_silvergun_v131072.rar	02dee3d1
+v-radiant_silvergun_v131072.sfv	e0d9eb1e

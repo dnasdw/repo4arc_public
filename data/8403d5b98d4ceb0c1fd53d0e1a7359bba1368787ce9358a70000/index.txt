@@ -1,0 +1,15 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-valis_the_fantasm_soldier_collection_ii.jpg	-	137777	1	0	0	0
+sxs-valis_the_fantasm_soldier_collection_ii.nfo	-	5510	1	137777	0	1
+sxs-valis_the_fantasm_soldier_collection_ii.r00	-	100000000	1	143287	0	2
+sxs-valis_the_fantasm_soldier_collection_ii.r01	-	100000000	1	100143287	0	98
+sxs-valis_the_fantasm_soldier_collection_ii.r02	-	100000000	1	200143287	0	194
+sxs-valis_the_fantasm_soldier_collection_ii.r03	-	100000000	1	300143287	0	290
+sxs-valis_the_fantasm_soldier_collection_ii.r04	-	100000000	1	400143287	0	386
+sxs-valis_the_fantasm_soldier_collection_ii.r05	-	100000000	1	500143287	0	482
+sxs-valis_the_fantasm_soldier_collection_ii.r06	-	100000000	1	62251264	1	60
+sxs-valis_the_fantasm_soldier_collection_ii.r07	-	100000000	1	162251264	1	156
+sxs-valis_the_fantasm_soldier_collection_ii.r08	-	100000000	1	262251264	1	252
+sxs-valis_the_fantasm_soldier_collection_ii.r09	-	73515096	1	362251264	1	348
+sxs-valis_the_fantasm_soldier_collection_ii.rar	-	100000000	1	435766360	1	419
+sxs-valis_the_fantasm_soldier_collection_ii.sfv	-	638	1	535766360	1	515

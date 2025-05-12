@@ -1,0 +1,3 @@
+v-disney_tsum_tsum_festival_dlc.nfo	abebcc6b35ad4e23f3b2c3bbd9c8ddf73d7775a0
+v-disney_tsum_tsum_festival_dlc.rar	ca661fecd816f92d044cdb574f4bcde8bda93576
+v-disney_tsum_tsum_festival_dlc.sfv	c4bbfddc74801bd3502b2d2084193b64b4ccdbf2

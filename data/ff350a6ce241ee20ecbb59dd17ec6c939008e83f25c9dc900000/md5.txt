@@ -1,0 +1,5 @@
+lfc-pgmv.nfo	8d5a237b1017f66ec436304c3651aaae
+lfc-pgmv.r00	1ba4c9c041aefc6cd8c15d3dd5da0792
+lfc-pgmv.r01	196664d973a87236fe0283daf00cc672
+lfc-pgmv.rar	50e0de408f4786742aed93c1a89a88bc
+lfc-pgmv.sfv	68b976be400e3b890e1ad4ffd72a3c77

@@ -1,0 +1,5 @@
+sxs-jubilee.nfo	b5629fec6d245d8e7d535a93ba984dc21c2dbc40
+sxs-jubilee.r00	9651f71e076e111be5d1f1dc886356c89e781f0d
+sxs-jubilee.r01	178fd3ffcf59f11c52006e3d5216bad09bf19fc6
+sxs-jubilee.rar	4f1e0731dc81929c111b93dc7d5dc1a312a94d44
+sxs-jubilee.sfv	75325f843b9bf598a57afd0748d47463fa9cdc32

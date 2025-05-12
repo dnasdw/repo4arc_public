@@ -1,0 +1,6 @@
+sxs-riddled_corpses_ex.nfo	-	4730	1	0	0	0
+sxs-riddled_corpses_ex.r00	-	50000000	1	4730	0	1
+sxs-riddled_corpses_ex.r01	-	50000000	1	50004730	0	49
+sxs-riddled_corpses_ex.r02	-	35510984	1	100004730	0	97
+sxs-riddled_corpses_ex.rar	-	50000000	1	135515714	0	131
+sxs-riddled_corpses_ex.sfv	-	148	1	185515714	0	179

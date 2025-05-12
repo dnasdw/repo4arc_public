@@ -1,0 +1,8 @@
+sxs-war_theatre_v196608.nfo	a8631e3b
+sxs-war_theatre_v196608.r00	7735e6fa
+sxs-war_theatre_v196608.r01	36618ee1
+sxs-war_theatre_v196608.r02	02084fbd
+sxs-war_theatre_v196608.r03	9eabee16
+sxs-war_theatre_v196608.r04	b59ef2ad
+sxs-war_theatre_v196608.rar	0878baea
+sxs-war_theatre_v196608.sfv	381c0aea

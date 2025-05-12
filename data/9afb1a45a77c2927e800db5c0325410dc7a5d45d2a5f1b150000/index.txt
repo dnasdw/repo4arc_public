@@ -1,0 +1,6 @@
+sxs-rivals_of_aether_v655360.nfo	-	5588	1	0	0	0
+sxs-rivals_of_aether_v655360.r00	-	100000000	1	5588	0	1
+sxs-rivals_of_aether_v655360.r01	-	100000000	1	100005588	0	97
+sxs-rivals_of_aether_v655360.r02	-	75325541	1	200005588	0	193
+sxs-rivals_of_aether_v655360.rar	-	100000000	1	275331129	0	265
+sxs-rivals_of_aether_v655360.sfv	-	172	1	375331129	0	361

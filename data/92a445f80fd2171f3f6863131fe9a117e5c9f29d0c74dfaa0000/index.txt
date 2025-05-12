@@ -1,0 +1,12 @@
+v-lumote_the_mastermote_chronicles_v196608.nfo	-	4030	1	0	0	0
+v-lumote_the_mastermote_chronicles_v196608.r00	-	100000000	1	4030	0	1
+v-lumote_the_mastermote_chronicles_v196608.r01	-	100000000	1	100004030	0	97
+v-lumote_the_mastermote_chronicles_v196608.r02	-	100000000	1	200004030	0	193
+v-lumote_the_mastermote_chronicles_v196608.r03	-	100000000	1	300004030	0	289
+v-lumote_the_mastermote_chronicles_v196608.r04	-	100000000	1	400004030	0	385
+v-lumote_the_mastermote_chronicles_v196608.r05	-	100000000	1	500004030	0	481
+v-lumote_the_mastermote_chronicles_v196608.r06	-	100000000	1	62251264	1	60
+v-lumote_the_mastermote_chronicles_v196608.r07	-	100000000	1	162251264	1	156
+v-lumote_the_mastermote_chronicles_v196608.r08	-	6109820	1	262251264	1	252
+v-lumote_the_mastermote_chronicles_v196608.rar	-	100000000	1	268361084	1	258
+v-lumote_the_mastermote_chronicles_v196608.sfv	-	570	1	368361084	1	354

@@ -1,0 +1,6 @@
+sxs-among_pipes.nfo	-	4808	1	0	0	0
+sxs-among_pipes.r00	-	50000000	1	4808	0	1
+sxs-among_pipes.r01	-	50000000	1	50004808	0	49
+sxs-among_pipes.r02	-	42667757	1	100004808	0	97
+sxs-among_pipes.rar	-	50000000	1	142672565	0	138
+sxs-among_pipes.sfv	-	120	1	192672565	0	186

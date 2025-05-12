@@ -1,0 +1,10 @@
+lfc-rere_v65536.nfo	f78fee66
+lfc-rere_v65536.r00	0a6b1986
+lfc-rere_v65536.r01	6746144e
+lfc-rere_v65536.r02	de82103b
+lfc-rere_v65536.r03	147b97d7
+lfc-rere_v65536.r04	f67e72fd
+lfc-rere_v65536.r05	e78eb66b
+lfc-rere_v65536.r06	17b60e5e
+lfc-rere_v65536.rar	e6b59143
+lfc-rere_v65536.sfv	e16001d1

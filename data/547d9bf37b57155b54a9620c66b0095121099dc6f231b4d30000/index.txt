@@ -1,0 +1,4 @@
+v-anomaly_agent_v262144.nfo	-	5278	1	0	0	0
+v-anomaly_agent_v262144.r00	-	63046055	1	5278	0	1
+v-anomaly_agent_v262144.rar	-	100000000	1	63051333	0	62
+v-anomaly_agent_v262144.sfv	-	76	1	163051333	0	158

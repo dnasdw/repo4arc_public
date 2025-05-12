@@ -1,0 +1,4 @@
+sxs-the_company_man_v65536.nfo	-	7694	1	0	0	0
+sxs-the_company_man_v65536.r00	-	16575429	1	7694	0	1
+sxs-the_company_man_v65536.rar	-	50000000	1	16583123	0	17
+sxs-the_company_man_v65536.sfv	-	82	1	66583123	0	65

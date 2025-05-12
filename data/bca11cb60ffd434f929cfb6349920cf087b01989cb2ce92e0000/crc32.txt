@@ -1,0 +1,4 @@
+lfc-czec_v65536.nfo	34894e64
+lfc-czec_v65536.r00	d5343fc0
+lfc-czec_v65536.rar	b87bab3a
+lfc-czec_v65536.sfv	4e2328c0

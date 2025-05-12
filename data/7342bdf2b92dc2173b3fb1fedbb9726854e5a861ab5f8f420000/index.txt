@@ -1,0 +1,4 @@
+sxs-portal_dogs.nfo	-	3716	1	0	0	0
+sxs-portal_dogs.r00	-	24210918	1	3716	0	1
+sxs-portal_dogs.rar	-	50000000	1	24214634	0	25
+sxs-portal_dogs.sfv	-	60	1	74214634	0	73

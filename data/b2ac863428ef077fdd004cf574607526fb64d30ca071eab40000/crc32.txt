@@ -1,0 +1,5 @@
+lfc-popp.nfo	cb1d50bb
+lfc-popp.r00	9f07233d
+lfc-popp.r01	30137315
+lfc-popp.rar	32b41f83
+lfc-popp.sfv	5f6cc1b2

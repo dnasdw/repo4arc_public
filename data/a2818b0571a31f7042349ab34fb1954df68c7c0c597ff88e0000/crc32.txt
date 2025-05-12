@@ -1,0 +1,11 @@
+v-kine.nfo	e5d44b53
+v-kine.r00	7fe44c45
+v-kine.r01	8b41df1c
+v-kine.r02	be0dad46
+v-kine.r03	0bd9071c
+v-kine.r04	2226a58b
+v-kine.r05	7e0b720c
+v-kine.r06	bee1e7e2
+v-kine.r07	a98bfd50
+v-kine.rar	f99461e6
+v-kine.sfv	b852484d

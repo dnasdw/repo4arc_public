@@ -1,0 +1,6 @@
+sxs-roller_drama_v327680.nfo	-	6836	1	0	0	0
+sxs-roller_drama_v327680.r00	-	100000000	1	6836	0	1
+sxs-roller_drama_v327680.r01	-	100000000	1	100006836	0	97
+sxs-roller_drama_v327680.r02	-	33442864	1	200006836	0	193
+sxs-roller_drama_v327680.rar	-	100000000	1	233449700	0	225
+sxs-roller_drama_v327680.sfv	-	156	1	333449700	0	321

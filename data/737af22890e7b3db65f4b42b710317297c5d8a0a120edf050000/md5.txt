@@ -1,0 +1,5 @@
+sxs-tactics_ogre_reborn_v262144.nfo	731dff7afef4514dceb6a235f46d1778
+sxs-tactics_ogre_reborn_v262144.r00	a0fd5770fee214885457c30ea80fec65
+sxs-tactics_ogre_reborn_v262144.r01	d6efe3989087338860420b2a2e87e519
+sxs-tactics_ogre_reborn_v262144.rar	b78ed7f73f9d1157e09dc15d9a60378f
+sxs-tactics_ogre_reborn_v262144.sfv	15866ec05534bddf1e8dc5b7661b50ab

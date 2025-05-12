@@ -1,0 +1,8 @@
+sxs-octopath_traveler_v262144.nfo	06e892ef
+sxs-octopath_traveler_v262144.r00	61e5a4ae
+sxs-octopath_traveler_v262144.r01	8921d5fa
+sxs-octopath_traveler_v262144.r02	42323fc7
+sxs-octopath_traveler_v262144.r03	6482d517
+sxs-octopath_traveler_v262144.r04	aa737cd2
+sxs-octopath_traveler_v262144.rar	c0822ef1
+sxs-octopath_traveler_v262144.sfv	561c85c7

@@ -1,0 +1,12 @@
+sxs-kings_bounty_ii_v196608.nfo	f3362e51
+sxs-kings_bounty_ii_v196608.r00	56760259
+sxs-kings_bounty_ii_v196608.r01	dd1f9bc3
+sxs-kings_bounty_ii_v196608.r02	60bf1468
+sxs-kings_bounty_ii_v196608.r03	ea6267e5
+sxs-kings_bounty_ii_v196608.r04	609748b4
+sxs-kings_bounty_ii_v196608.r05	4baed29a
+sxs-kings_bounty_ii_v196608.r06	beaac2da
+sxs-kings_bounty_ii_v196608.r07	bfc77cab
+sxs-kings_bounty_ii_v196608.r08	714c5466
+sxs-kings_bounty_ii_v196608.rar	b078dcef
+sxs-kings_bounty_ii_v196608.sfv	7b90bcc1

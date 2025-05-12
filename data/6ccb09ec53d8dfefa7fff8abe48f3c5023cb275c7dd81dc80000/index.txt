@@ -1,0 +1,7 @@
+sxs-new_joe_and_mac_caveman_ninja_v196608.nfo	-	7148	1	0	0	0
+sxs-new_joe_and_mac_caveman_ninja_v196608.r00	-	100000000	1	7148	0	1
+sxs-new_joe_and_mac_caveman_ninja_v196608.r01	-	100000000	1	100007148	0	97
+sxs-new_joe_and_mac_caveman_ninja_v196608.r02	-	100000000	1	200007148	0	193
+sxs-new_joe_and_mac_caveman_ninja_v196608.r03	-	54512122	1	300007148	0	289
+sxs-new_joe_and_mac_caveman_ninja_v196608.rar	-	100000000	1	354519270	0	341
+sxs-new_joe_and_mac_caveman_ninja_v196608.sfv	-	280	1	454519270	0	437

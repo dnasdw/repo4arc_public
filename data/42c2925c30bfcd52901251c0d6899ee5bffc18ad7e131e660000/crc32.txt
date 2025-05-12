@@ -1,0 +1,17 @@
+v-headliner_novinews_v131072.nfo	2693926c
+v-headliner_novinews_v131072.r00	9ef9b489
+v-headliner_novinews_v131072.r01	f7b202b0
+v-headliner_novinews_v131072.r02	7c424c68
+v-headliner_novinews_v131072.r03	0f71fbc5
+v-headliner_novinews_v131072.r04	d6cc120b
+v-headliner_novinews_v131072.r05	cf05926d
+v-headliner_novinews_v131072.r06	216cf69d
+v-headliner_novinews_v131072.r07	a991d02c
+v-headliner_novinews_v131072.r08	f4417f94
+v-headliner_novinews_v131072.r09	1306ebab
+v-headliner_novinews_v131072.r10	f9de8142
+v-headliner_novinews_v131072.r11	c51980e8
+v-headliner_novinews_v131072.r12	69b69c04
+v-headliner_novinews_v131072.r13	c444d90e
+v-headliner_novinews_v131072.rar	dc5d329f
+v-headliner_novinews_v131072.sfv	8b62a529

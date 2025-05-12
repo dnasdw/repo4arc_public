@@ -1,0 +1,4 @@
+sxs-unmetal_v196608.nfo	24e690be729a6b8d0ae7b3f8c334fc8fd9a98138
+sxs-unmetal_v196608.r00	6f382fefac9a01cf7cb93c074812ce33a1544a9d
+sxs-unmetal_v196608.rar	c622e10a429754d8209ddcb04de54b58f837e751
+sxs-unmetal_v196608.sfv	9dd64fe5f6baf48839cd6855ae0185ab8ef8bfaa

@@ -1,0 +1,4 @@
+lfc-ritual.nfo	711606c4fae8860e31b6e6b64db901c8
+lfc-ritual.r00	0c6fb797102a9269112ab0719f44e88b
+lfc-ritual.rar	ef560caf9b172cf1387fe0ca8723c56b
+lfc-ritual.sfv	66148778465422dfb0b3bf0afb3eb8d0

@@ -1,0 +1,10 @@
+sxs-ubermosh_black.nfo	7debbacb
+sxs-ubermosh_black.r00	272742f7
+sxs-ubermosh_black.r01	65ca8a73
+sxs-ubermosh_black.r02	9c0ee9b7
+sxs-ubermosh_black.r03	4418d5ff
+sxs-ubermosh_black.r04	b4f8aabb
+sxs-ubermosh_black.r05	66f616dd
+sxs-ubermosh_black.r06	ba26d92f
+sxs-ubermosh_black.rar	8b3b8932
+sxs-ubermosh_black.sfv	ed2b0b2a

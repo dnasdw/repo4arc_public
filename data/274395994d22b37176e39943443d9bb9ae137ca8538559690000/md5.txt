@@ -1,0 +1,7 @@
+v-rune_factory_5_v131072.nfo	5b0220557a0b526e8d33299ea41d92ba
+v-rune_factory_5_v131072.r00	cec412e72afd7b8753579c03589d0878
+v-rune_factory_5_v131072.r01	b7c7bac73b690b4eba753d1764cfc5a1
+v-rune_factory_5_v131072.r02	3f424a3eceeb17d45111dc5725c1e4ca
+v-rune_factory_5_v131072.r03	9e02b58a16eef651a2302bb3cb832dea
+v-rune_factory_5_v131072.rar	799dfb4c1ba11074f130413a176f4da3
+v-rune_factory_5_v131072.sfv	ad2b6770b12aed0666bc1a9152527fb6

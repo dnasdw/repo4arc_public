@@ -1,0 +1,7 @@
+sxs-spear_master.nfo	061be593
+sxs-spear_master.r00	90055472
+sxs-spear_master.r01	0188222a
+sxs-spear_master.r02	502f2430
+sxs-spear_master.r03	54003d07
+sxs-spear_master.rar	ed565cb8
+sxs-spear_master.sfv	101bef10

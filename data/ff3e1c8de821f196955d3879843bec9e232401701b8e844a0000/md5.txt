@@ -1,0 +1,4 @@
+sxs-sea_king_v65536.nfo	69ca4c1047b8166908480d1d8a3b3dae
+sxs-sea_king_v65536.r00	13e87b9f3bb202dcc8faeef1582772ca
+sxs-sea_king_v65536.rar	53567f786b3f9d20b37694250322722e
+sxs-sea_king_v65536.sfv	73279edec9047b116f9ecfbd344c9941

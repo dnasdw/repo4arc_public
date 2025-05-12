@@ -1,0 +1,9 @@
+sxs-mazm_pechka.nfo	-	6836	1	0	0	0
+sxs-mazm_pechka.r00	-	100000000	1	6836	0	1
+sxs-mazm_pechka.r01	-	100000000	1	100006836	0	97
+sxs-mazm_pechka.r02	-	100000000	1	200006836	0	193
+sxs-mazm_pechka.r03	-	100000000	1	300006836	0	289
+sxs-mazm_pechka.r04	-	100000000	1	400006836	0	385
+sxs-mazm_pechka.r05	-	80582227	1	500006836	0	481
+sxs-mazm_pechka.rar	-	100000000	1	42833491	1	41
+sxs-mazm_pechka.sfv	-	210	1	142833491	1	137

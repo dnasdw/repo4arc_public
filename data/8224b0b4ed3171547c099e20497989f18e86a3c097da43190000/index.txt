@@ -1,0 +1,7 @@
+sxs-minecraft_legends_v458752.nfo	-	4574	1	0	0	0
+sxs-minecraft_legends_v458752.r00	-	100000000	1	4574	0	1
+sxs-minecraft_legends_v458752.r01	-	100000000	1	100004574	0	97
+sxs-minecraft_legends_v458752.r02	-	100000000	1	200004574	0	193
+sxs-minecraft_legends_v458752.r03	-	79509297	1	300004574	0	289
+sxs-minecraft_legends_v458752.rar	-	100000000	1	379513871	0	365
+sxs-minecraft_legends_v458752.sfv	-	220	1	479513871	0	461

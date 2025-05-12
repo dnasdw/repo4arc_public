@@ -1,0 +1,5 @@
+sxs-distraint_deluxe_edition.nfo	-	4808	1	0	0	0
+sxs-distraint_deluxe_edition.r00	-	50000000	1	4808	0	1
+sxs-distraint_deluxe_edition.r01	-	16535249	1	50004808	0	49
+sxs-distraint_deluxe_edition.rar	-	50000000	1	66540057	0	65
+sxs-distraint_deluxe_edition.sfv	-	129	1	116540057	0	113

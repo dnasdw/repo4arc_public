@@ -1,0 +1,3 @@
+v-rack_n_ruin_v65536.nfo	-	5668	1	0	0	0
+v-rack_n_ruin_v65536.rar	-	32874553	1	5668	0	1
+v-rack_n_ruin_v65536.sfv	-	35	1	32880221	0	33

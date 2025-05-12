@@ -1,0 +1,4 @@
+sxs-tails_noir_v65536.nfo	7524373e383ffa1ea2a181dfa04845542961b15a
+sxs-tails_noir_v65536.r00	c3e7f4d86a03939fffcfac1ece5ff527d043a97b
+sxs-tails_noir_v65536.rar	8cc7308f29ad531286008649213cd159aff7e23f
+sxs-tails_noir_v65536.sfv	ee2c2afd958ca49ea1f7a9259690111ccf5b8e76

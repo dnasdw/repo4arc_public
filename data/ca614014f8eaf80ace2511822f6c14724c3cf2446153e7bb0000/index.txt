@@ -1,0 +1,3 @@
+sxs-mahjong_deluxe_3_v65536.nfo	-	4652	1	0	0	0
+sxs-mahjong_deluxe_3_v65536.rar	-	22939176	1	4652	0	1
+sxs-mahjong_deluxe_3_v65536.sfv	-	42	1	22943828	0	23

@@ -1,0 +1,4 @@
+v-pikmin_4_v65536.nfo	beae66ae272420e9f84b8686a74efea6
+v-pikmin_4_v65536.r00	a5b0f7a7ca5fd43a94ad7d08c71b5618
+v-pikmin_4_v65536.rar	cf50f3c061b51a194245f4f9d86015b2
+v-pikmin_4_v65536.sfv	ff745554f5504fa1bf1e9ab57f6c2ffd

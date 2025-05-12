@@ -1,0 +1,13 @@
+sxs-lego_brawls_v524288.nfo	14518945
+sxs-lego_brawls_v524288.r00	097b42c1
+sxs-lego_brawls_v524288.r01	095d6588
+sxs-lego_brawls_v524288.r02	cf3af0a0
+sxs-lego_brawls_v524288.r03	31825529
+sxs-lego_brawls_v524288.r04	48da5046
+sxs-lego_brawls_v524288.r05	64d0930f
+sxs-lego_brawls_v524288.r06	f4cf7994
+sxs-lego_brawls_v524288.r07	35261b3c
+sxs-lego_brawls_v524288.r08	0517ad4a
+sxs-lego_brawls_v524288.r09	097745ac
+sxs-lego_brawls_v524288.rar	220b8278
+sxs-lego_brawls_v524288.sfv	69fa2d67

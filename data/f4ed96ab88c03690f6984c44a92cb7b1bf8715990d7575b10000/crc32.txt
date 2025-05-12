@@ -1,0 +1,13 @@
+n-avatartlaqfb_v65536.nfo	a60bcb26
+n-avatartlaqfb_v65536.r00	9a4a3bab
+n-avatartlaqfb_v65536.r01	24e8a902
+n-avatartlaqfb_v65536.r02	67d87c60
+n-avatartlaqfb_v65536.r03	ee94d572
+n-avatartlaqfb_v65536.r04	9d876890
+n-avatartlaqfb_v65536.r05	e227a9bc
+n-avatartlaqfb_v65536.r06	8f5197b9
+n-avatartlaqfb_v65536.r07	f96c1192
+n-avatartlaqfb_v65536.r08	6a726947
+n-avatartlaqfb_v65536.r09	529a97c5
+n-avatartlaqfb_v65536.rar	32a58057
+n-avatartlaqfb_v65536.sfv	a7156991

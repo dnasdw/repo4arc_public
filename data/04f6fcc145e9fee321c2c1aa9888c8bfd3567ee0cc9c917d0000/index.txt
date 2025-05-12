@@ -1,0 +1,6 @@
+v-mario_plus_rabbids_sparks_of_hope_v327680.nfo	-	4888	1	0	0	0
+v-mario_plus_rabbids_sparks_of_hope_v327680.r00	-	100000000	1	4888	0	1
+v-mario_plus_rabbids_sparks_of_hope_v327680.r01	-	100000000	1	100004888	0	97
+v-mario_plus_rabbids_sparks_of_hope_v327680.r02	-	22418107	1	200004888	0	193
+v-mario_plus_rabbids_sparks_of_hope_v327680.rar	-	100000000	1	222422995	0	215
+v-mario_plus_rabbids_sparks_of_hope_v327680.sfv	-	232	1	322422995	0	311

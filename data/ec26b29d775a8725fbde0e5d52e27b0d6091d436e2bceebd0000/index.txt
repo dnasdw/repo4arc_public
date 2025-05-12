@@ -1,0 +1,5 @@
+sxs-911_cannibal.nfo	-	5198	1	0	0	0
+sxs-911_cannibal.r00	-	100000000	1	5198	0	1
+sxs-911_cannibal.r01	-	14862273	1	100005198	0	97
+sxs-911_cannibal.rar	-	100000000	1	114867471	0	112
+sxs-911_cannibal.sfv	-	93	1	214867471	0	208

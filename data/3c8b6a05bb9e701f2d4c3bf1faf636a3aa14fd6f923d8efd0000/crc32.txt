@@ -1,0 +1,9 @@
+lfc-azombied.nfo	779504e1
+lfc-azombied.r00	32b85702
+lfc-azombied.r01	1609c412
+lfc-azombied.r02	b8370798
+lfc-azombied.r03	31c71835
+lfc-azombied.r04	e5f9f0b9
+lfc-azombied.r05	c2560341
+lfc-azombied.rar	e88841b0
+lfc-azombied.sfv	3078f66e

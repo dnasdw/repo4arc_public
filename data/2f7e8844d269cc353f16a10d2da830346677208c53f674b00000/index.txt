@@ -1,0 +1,4 @@
+sxs-mystery_box_evolution.nfo	-	4340	1	0	0	0
+sxs-mystery_box_evolution.r00	-	98340255	1	4340	0	1
+sxs-mystery_box_evolution.rar	-	100000000	1	98344595	0	95
+sxs-mystery_box_evolution.sfv	-	80	1	198344595	0	191

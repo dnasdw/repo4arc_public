@@ -1,0 +1,3 @@
+v-cptttt_dlc.nfo	-	6451	1	0	0	0
+v-cptttt_dlc.rar	-	32325239	1	6451	0	1
+v-cptttt_dlc.sfv	-	27	1	32331690	0	32

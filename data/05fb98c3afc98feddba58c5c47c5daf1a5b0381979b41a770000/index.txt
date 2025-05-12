@@ -1,0 +1,7 @@
+sxs-aegis_defenders_v262144.nfo	-	3716	1	0	0	0
+sxs-aegis_defenders_v262144.r00	-	50000000	1	3716	0	1
+sxs-aegis_defenders_v262144.r01	-	50000000	1	50003716	0	49
+sxs-aegis_defenders_v262144.r02	-	50000000	1	100003716	0	97
+sxs-aegis_defenders_v262144.r03	-	37377493	1	150003716	0	145
+sxs-aegis_defenders_v262144.rar	-	50000000	1	187381209	0	181
+sxs-aegis_defenders_v262144.sfv	-	210	1	237381209	0	229

@@ -1,0 +1,4 @@
+lfc-tdpr.nfo	83fdc09e
+lfc-tdpr.r00	4af3d654
+lfc-tdpr.rar	0274f13f
+lfc-tdpr.sfv	115c6c84

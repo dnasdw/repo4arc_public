@@ -1,0 +1,8 @@
+lfc-huntdownupdv1.0.4.nfo	89e037c605ec6188a053df679aeadb17ad1f9845
+lfc-huntdownupdv1.0.4.r00	bf2f7667d27025564c2880e15122aedb05db6cd9
+lfc-huntdownupdv1.0.4.r01	a7f2dbf47a1754df1866eae0e169a8f1f292be7b
+lfc-huntdownupdv1.0.4.r02	3296f5ae448dba37c9830c0346da9dac3b5ef3f8
+lfc-huntdownupdv1.0.4.r03	b3a89b8a77b500b0117949cac1772af6d1042eb4
+lfc-huntdownupdv1.0.4.r04	1644a707fd2bd7437afa0d023326e144b9b7493f
+lfc-huntdownupdv1.0.4.rar	fb700c0d2108f78303c38fbeecf6f1a6e264630b
+lfc-huntdownupdv1.0.4.sfv	08c69363402d973e24095274691356e163855ce2

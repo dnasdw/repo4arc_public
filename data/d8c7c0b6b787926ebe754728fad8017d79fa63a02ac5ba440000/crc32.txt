@@ -1,0 +1,13 @@
+hr-troubledays.nfo	f09f767b
+hr-troubledays.r00	356df828
+hr-troubledays.r01	e0679f74
+hr-troubledays.r02	3cd72613
+hr-troubledays.r03	815abec9
+hr-troubledays.r04	09e806b7
+hr-troubledays.r05	66374d2f
+hr-troubledays.r06	e2659a79
+hr-troubledays.r07	918fdbcc
+hr-troubledays.r08	2d0b3c6c
+hr-troubledays.r09	bda3aa63
+hr-troubledays.rar	bb1c5b22
+hr-troubledays.sfv	0cf90e88

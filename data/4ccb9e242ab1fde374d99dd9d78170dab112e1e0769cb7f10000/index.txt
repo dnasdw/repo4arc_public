@@ -1,0 +1,4 @@
+sxs-angels_of_death_v262144.nfo	-	4418	1	0	0	0
+sxs-angels_of_death_v262144.r00	-	23477120	1	4418	0	1
+sxs-angels_of_death_v262144.rar	-	50000000	1	23481538	0	24
+sxs-angels_of_death_v262144.sfv	-	84	1	73481538	0	72

@@ -1,0 +1,4 @@
+sxs-aca_neogeo_fatal_fury_v65536.nfo	a40bead3
+sxs-aca_neogeo_fatal_fury_v65536.r00	6ca348af
+sxs-aca_neogeo_fatal_fury_v65536.rar	53825bff
+sxs-aca_neogeo_fatal_fury_v65536.sfv	98a00279

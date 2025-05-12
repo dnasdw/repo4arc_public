@@ -1,0 +1,10 @@
+sxs-bezier_second_edition.nfo	-	5432	1	0	0	0
+sxs-bezier_second_edition.r00	-	50000000	1	5432	0	1
+sxs-bezier_second_edition.r01	-	50000000	1	50005432	0	49
+sxs-bezier_second_edition.r02	-	50000000	1	100005432	0	97
+sxs-bezier_second_edition.r03	-	50000000	1	150005432	0	145
+sxs-bezier_second_edition.r04	-	50000000	1	200005432	0	193
+sxs-bezier_second_edition.r05	-	50000000	1	250005432	0	241
+sxs-bezier_second_edition.r06	-	41712301	1	300005432	0	289
+sxs-bezier_second_edition.rar	-	50000000	1	341717733	0	329
+sxs-bezier_second_edition.sfv	-	320	1	391717733	0	377

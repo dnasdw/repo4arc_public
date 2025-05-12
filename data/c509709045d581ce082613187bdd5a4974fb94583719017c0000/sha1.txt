@@ -1,0 +1,4 @@
+sxs-warlocks_tower.nfo	58212964cfd346c7c4c50151a2719372d56b4194
+sxs-warlocks_tower.r00	0d4cfa4a6515e9f29cca404f98f91b0a4545e6f6
+sxs-warlocks_tower.rar	183b511b1a504a87b13ed945c4c92fc624fd8827
+sxs-warlocks_tower.sfv	f23146bbec9cb3db42e7a75370229ec5ca84db64

@@ -1,0 +1,12 @@
+sxs-strike_force_kitty.nfo	-	6680	1	0	0	0
+sxs-strike_force_kitty.r00	-	50000000	1	6680	0	1
+sxs-strike_force_kitty.r01	-	50000000	1	50006680	0	49
+sxs-strike_force_kitty.r02	-	50000000	1	100006680	0	97
+sxs-strike_force_kitty.r03	-	50000000	1	150006680	0	145
+sxs-strike_force_kitty.r04	-	50000000	1	200006680	0	193
+sxs-strike_force_kitty.r05	-	50000000	1	250006680	0	241
+sxs-strike_force_kitty.r06	-	50000000	1	300006680	0	289
+sxs-strike_force_kitty.r07	-	50000000	1	350006680	0	337
+sxs-strike_force_kitty.r08	-	44446146	1	400006680	0	385
+sxs-strike_force_kitty.rar	-	50000000	1	444452826	0	428
+sxs-strike_force_kitty.sfv	-	370	1	494452826	0	476

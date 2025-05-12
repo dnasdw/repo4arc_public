@@ -1,0 +1,9 @@
+brw-kror.nfo	451e4241dc098c3e252330e03c80d80e
+brw-kror.r00	2db691112227a77fca10b3e2f319a4fd
+brw-kror.r01	04eb4daae6c0f5a0c248a23aa45750ab
+brw-kror.r02	428e13d4e91b7dc8a90bcc7af9c6e874
+brw-kror.r03	709339f7a73a9385d42bcb58322b9e79
+brw-kror.r04	b201384eee6e5111ae9205ad9b07cff2
+brw-kror.r05	8768fbbe51ee703d860b9abc600dfe7f
+brw-kror.rar	d7c0ecdf979adcac124cc187ba6f6535
+brw-kror.sfv	a0b48e4030fe7c5c447cbfebd43e2365

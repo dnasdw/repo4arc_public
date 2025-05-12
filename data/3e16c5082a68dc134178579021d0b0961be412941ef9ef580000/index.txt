@@ -1,0 +1,5 @@
+sxs-the_dark_pictures_anthology_man_of_medan_v65536.nfo	-	6446	1	0	0	0
+sxs-the_dark_pictures_anthology_man_of_medan_v65536.r00	-	100000000	1	6446	0	1
+sxs-the_dark_pictures_anthology_man_of_medan_v65536.r01	-	59998045	1	100006446	0	97
+sxs-the_dark_pictures_anthology_man_of_medan_v65536.rar	-	100000000	1	160004491	0	155
+sxs-the_dark_pictures_anthology_man_of_medan_v65536.sfv	-	198	1	260004491	0	251

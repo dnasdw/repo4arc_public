@@ -1,0 +1,9 @@
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/sxs-goodbye_world.jpg	a518735315ddbfe68dc7ccc442eb86a3
+sxs-goodbye_world.nfo	4a43012103e774c12bd66cc9a4c50a81
+sxs-goodbye_world.r00	d387ca5f40b990cb13417f219b031aa8
+sxs-goodbye_world.r01	329a44786976b00ba145878d2b457475
+sxs-goodbye_world.r02	004f9126acf001a171e3af2850a38142
+sxs-goodbye_world.r03	75e3a53285765bf81dbb4373ba68578b
+sxs-goodbye_world.rar	631dc9cbe92036575cdcae4607421efa
+sxs-goodbye_world.sfv	c88c143a3ed12ce4c00c588f657c2ffb

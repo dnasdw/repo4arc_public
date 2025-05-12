@@ -1,0 +1,3 @@
+v-clue_tropical_pack_dlc.nfo	-	7150	1	0	0	0
+v-clue_tropical_pack_dlc.rar	-	124401	1	7150	0	1
+v-clue_tropical_pack_dlc.sfv	-	39	1	131551	0	2

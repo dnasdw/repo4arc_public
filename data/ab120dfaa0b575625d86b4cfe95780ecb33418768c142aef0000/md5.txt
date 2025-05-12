@@ -1,0 +1,4 @@
+sxs-sector_781.nfo	083ebdaf76b97adf2af4e9bcf03962b9
+sxs-sector_781.r00	d78c78d28a50a9e1fd64bfb71d49fadb
+sxs-sector_781.rar	96dcb6917e7ed7b9116d1ed3d695c3a8
+sxs-sector_781.sfv	bab9b7727e7533e9efaf0a4325f717ab

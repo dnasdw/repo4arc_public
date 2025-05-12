@@ -1,0 +1,4 @@
+sxs-crossing_souls_v65536.nfo	-	4652	1	0	0	0
+sxs-crossing_souls_v65536.r00	-	16194569	1	4652	0	1
+sxs-crossing_souls_v65536.rar	-	50000000	1	16199221	0	17
+sxs-crossing_souls_v65536.sfv	-	80	1	66199221	0	65

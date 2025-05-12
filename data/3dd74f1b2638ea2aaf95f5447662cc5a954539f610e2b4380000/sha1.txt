@@ -1,0 +1,4 @@
+sxs-nightshade_v65536.nfo	f0465eeeb199ba776d8e358b47e9981a15944e30
+sxs-nightshade_v65536.r00	6644fd373259408edf390f258427cfbad6050b25
+sxs-nightshade_v65536.rar	11937e119d58a4cbb3de5def315d8238e5596e88
+sxs-nightshade_v65536.sfv	4e2d1cb781eb81cdb9235aeb5e4c794aba22ad43

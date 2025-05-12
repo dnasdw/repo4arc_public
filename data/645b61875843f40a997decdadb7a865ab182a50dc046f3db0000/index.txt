@@ -1,0 +1,16 @@
+sxs-nature_escapes_collectors_edition.nfo	-	4886	1	0	0	0
+sxs-nature_escapes_collectors_edition.r00	-	100000000	1	4886	0	1
+sxs-nature_escapes_collectors_edition.r01	-	100000000	1	100004886	0	97
+sxs-nature_escapes_collectors_edition.r02	-	100000000	1	200004886	0	193
+sxs-nature_escapes_collectors_edition.r03	-	100000000	1	300004886	0	289
+sxs-nature_escapes_collectors_edition.r04	-	100000000	1	400004886	0	385
+sxs-nature_escapes_collectors_edition.r05	-	100000000	1	500004886	0	481
+sxs-nature_escapes_collectors_edition.r06	-	100000000	1	62251264	1	60
+sxs-nature_escapes_collectors_edition.r07	-	100000000	1	162251264	1	156
+sxs-nature_escapes_collectors_edition.r08	-	100000000	1	262251264	1	252
+sxs-nature_escapes_collectors_edition.r09	-	100000000	1	362251264	1	348
+sxs-nature_escapes_collectors_edition.r10	-	100000000	1	462251264	1	444
+sxs-nature_escapes_collectors_edition.r11	-	100000000	1	24502528	2	24
+sxs-nature_escapes_collectors_edition.r12	-	10767282	1	124502528	2	120
+sxs-nature_escapes_collectors_edition.rar	-	100000000	1	135269810	2	131
+sxs-nature_escapes_collectors_edition.sfv	-	728	1	235269810	2	227

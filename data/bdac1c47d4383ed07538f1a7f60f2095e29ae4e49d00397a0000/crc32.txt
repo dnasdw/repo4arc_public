@@ -1,0 +1,13 @@
+brw-oakn_v65536.nfo	316ce534
+brw-oakn_v65536.r00	900edf64
+brw-oakn_v65536.r01	3e9907e4
+brw-oakn_v65536.r02	a23b62fa
+brw-oakn_v65536.r03	feb993f1
+brw-oakn_v65536.r04	1211d309
+brw-oakn_v65536.r05	76b30c1f
+brw-oakn_v65536.r06	55f24d16
+brw-oakn_v65536.r07	80d8a594
+brw-oakn_v65536.r08	614b618b
+brw-oakn_v65536.r09	d3cb96b3
+brw-oakn_v65536.rar	7be6deb7
+brw-oakn_v65536.sfv	4d70cbc8

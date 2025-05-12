@@ -1,0 +1,8 @@
+hr-mightygoose.nfo	-	11420	1	0	0	0
+hr-mightygoose.r00	-	50000000	1	11420	0	1
+hr-mightygoose.r01	-	50000000	1	50011420	0	49
+hr-mightygoose.r02	-	50000000	1	100011420	0	97
+hr-mightygoose.r03	-	50000000	1	150011420	0	145
+hr-mightygoose.r04	-	20872825	1	200011420	0	193
+hr-mightygoose.rar	-	50000000	1	220884245	0	213
+hr-mightygoose.sfv	-	174	1	270884245	0	261

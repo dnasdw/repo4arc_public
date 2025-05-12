@@ -1,0 +1,11 @@
+l-aruca.nfo	04951728
+l-aruca.part01.rar	edc0d4e1
+l-aruca.part02.rar	4c2cd9c6
+l-aruca.part03.rar	9763727c
+l-aruca.part04.rar	c66a5bd6
+l-aruca.part05.rar	05e4c83d
+l-aruca.part06.rar	b2cccb5f
+l-aruca.part07.rar	14e3772f
+l-aruca.sfv	b18d83e5
+Proof	00000000
+Proof/l-aruca.jpg	c744e592

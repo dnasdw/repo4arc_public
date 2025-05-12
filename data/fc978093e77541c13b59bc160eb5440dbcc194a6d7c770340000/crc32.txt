@@ -1,0 +1,13 @@
+lfc-reky.nfo	1293df0a
+lfc-reky.r00	32bc350c
+lfc-reky.r01	c00ab4d9
+lfc-reky.r02	4769ed80
+lfc-reky.r03	0cbf6d94
+lfc-reky.r04	91ee4750
+lfc-reky.r05	da5fb060
+lfc-reky.r06	035b63fc
+lfc-reky.r07	52120b7c
+lfc-reky.r08	06fca01a
+lfc-reky.r09	09955e52
+lfc-reky.rar	c27bf082
+lfc-reky.sfv	5e6c83ab

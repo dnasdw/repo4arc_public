@@ -1,0 +1,6 @@
+sxs-uglydolls_v65536.nfo	-	4106	1	0	0	0
+sxs-uglydolls_v65536.r00	-	50000000	1	4106	0	1
+sxs-uglydolls_v65536.r01	-	50000000	1	50004106	0	49
+sxs-uglydolls_v65536.r02	-	23481786	1	100004106	0	97
+sxs-uglydolls_v65536.rar	-	50000000	1	123485892	0	120
+sxs-uglydolls_v65536.sfv	-	140	1	173485892	0	168

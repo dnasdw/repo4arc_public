@@ -1,0 +1,17 @@
+sxs-chess_knights_viking_lands.nfo	c0fa4341
+sxs-chess_knights_viking_lands.r00	9a6cbd3c
+sxs-chess_knights_viking_lands.r01	4d4d07d5
+sxs-chess_knights_viking_lands.r02	9352756d
+sxs-chess_knights_viking_lands.r03	e3bd082d
+sxs-chess_knights_viking_lands.r04	ef1b63f5
+sxs-chess_knights_viking_lands.r05	e682866b
+sxs-chess_knights_viking_lands.r06	f4adba8e
+sxs-chess_knights_viking_lands.r07	7083e8b1
+sxs-chess_knights_viking_lands.r08	97208c6d
+sxs-chess_knights_viking_lands.r09	1e7890b3
+sxs-chess_knights_viking_lands.r10	f2e29958
+sxs-chess_knights_viking_lands.r11	5cc4e8d1
+sxs-chess_knights_viking_lands.r12	23189dfb
+sxs-chess_knights_viking_lands.r13	b5cee78b
+sxs-chess_knights_viking_lands.rar	df57f3a2
+sxs-chess_knights_viking_lands.sfv	a17baa18

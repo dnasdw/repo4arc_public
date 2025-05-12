@@ -1,0 +1,10 @@
+sxs-fractured_minds_v196608.nfo	26719c2c
+sxs-fractured_minds_v196608.r00	b7da6a02
+sxs-fractured_minds_v196608.r01	b77efc4a
+sxs-fractured_minds_v196608.r02	da4ddd3f
+sxs-fractured_minds_v196608.r03	58b72754
+sxs-fractured_minds_v196608.r04	45234bec
+sxs-fractured_minds_v196608.r05	69093fe3
+sxs-fractured_minds_v196608.r06	7f74f97c
+sxs-fractured_minds_v196608.rar	f20e8362
+sxs-fractured_minds_v196608.sfv	bb2b293c

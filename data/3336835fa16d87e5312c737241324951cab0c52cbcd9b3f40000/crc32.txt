@@ -1,0 +1,9 @@
+delight.nfo	ac2578d2
+dl-lotwitch.r00	c29a4b28
+dl-lotwitch.r01	ef83f06f
+dl-lotwitch.r02	18dd785d
+dl-lotwitch.r03	b79f0b0d
+dl-lotwitch.r04	a2639204
+dl-lotwitch.r05	c9548505
+dl-lotwitch.rar	bf1c3cee
+dl-lotwitch.sfv	39d797f8

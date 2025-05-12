@@ -1,0 +1,4 @@
+sxs-zorro_the_chronicles_v65536.nfo	-	6992	1	0	0	0
+sxs-zorro_the_chronicles_v65536.r00	-	9779681	1	6992	0	1
+sxs-zorro_the_chronicles_v65536.rar	-	50000000	1	9786673	0	11
+sxs-zorro_the_chronicles_v65536.sfv	-	92	1	59786673	0	59

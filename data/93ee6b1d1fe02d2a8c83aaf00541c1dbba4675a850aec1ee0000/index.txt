@@ -1,0 +1,3 @@
+sxs-arcaea_light_of_salvation_dlc.nfo	-	5640	1	0	0	0
+sxs-arcaea_light_of_salvation_dlc.rar	-	104073	1	5640	0	1
+sxs-arcaea_light_of_salvation_dlc.sfv	-	48	1	109713	0	2

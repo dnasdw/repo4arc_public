@@ -1,0 +1,16 @@
+v-baldo_the_guardian_owls_v851968.nfo	-	5044	1	0	0	0
+v-baldo_the_guardian_owls_v851968.r00	-	100000000	1	5044	0	1
+v-baldo_the_guardian_owls_v851968.r01	-	100000000	1	100005044	0	97
+v-baldo_the_guardian_owls_v851968.r02	-	100000000	1	200005044	0	193
+v-baldo_the_guardian_owls_v851968.r03	-	100000000	1	300005044	0	289
+v-baldo_the_guardian_owls_v851968.r04	-	100000000	1	400005044	0	385
+v-baldo_the_guardian_owls_v851968.r05	-	100000000	1	500005044	0	481
+v-baldo_the_guardian_owls_v851968.r06	-	100000000	1	62251264	1	60
+v-baldo_the_guardian_owls_v851968.r07	-	100000000	1	162251264	1	156
+v-baldo_the_guardian_owls_v851968.r08	-	100000000	1	262251264	1	252
+v-baldo_the_guardian_owls_v851968.r09	-	100000000	1	362251264	1	348
+v-baldo_the_guardian_owls_v851968.r10	-	100000000	1	462251264	1	444
+v-baldo_the_guardian_owls_v851968.r11	-	100000000	1	24502528	2	24
+v-baldo_the_guardian_owls_v851968.r12	-	78179169	1	124502528	2	120
+v-baldo_the_guardian_owls_v851968.rar	-	100000000	1	202681697	2	195
+v-baldo_the_guardian_owls_v851968.sfv	-	672	1	302681697	2	291

@@ -1,0 +1,8 @@
+lfc-taosdas.nfo	59e19d147c837507684b8cd6921826ec9d07f4fc
+lfc-taosdas.r00	d4c608d5d59cf2cdad0778ec396637b6eec7759c
+lfc-taosdas.r01	c57f9ead25b21af6c5da9eea1a2f04cd70f6181b
+lfc-taosdas.r02	9017b86fb569a24d20ac9da1a45becd7db000ffb
+lfc-taosdas.r03	0d56e4039f90bf49583a569e73e66e0360164a36
+lfc-taosdas.r04	4f065f5f1503068dfdf4e252510062f71c5f0386
+lfc-taosdas.rar	43a3618dd6407af6bdfd792aca758f4ad36ba69c
+lfc-taosdas.sfv	aea877dcddf321d8e7215f1fe47e2d83562af280

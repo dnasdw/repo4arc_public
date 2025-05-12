@@ -1,0 +1,7 @@
+lfc-gesh_v65536.nfo	a34176b8
+lfc-gesh_v65536.r00	efc62311
+lfc-gesh_v65536.r01	1b4e88b3
+lfc-gesh_v65536.r02	470408ef
+lfc-gesh_v65536.r03	a4974b08
+lfc-gesh_v65536.rar	e288b035
+lfc-gesh_v65536.sfv	892870ec

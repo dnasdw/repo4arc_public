@@ -1,0 +1,8 @@
+sxs-tibetan_quest_beyond_the_worlds_end.nfo	-	4732	1	0	0	0
+sxs-tibetan_quest_beyond_the_worlds_end.r00	-	100000000	1	4732	0	1
+sxs-tibetan_quest_beyond_the_worlds_end.r01	-	100000000	1	100004732	0	97
+sxs-tibetan_quest_beyond_the_worlds_end.r02	-	100000000	1	200004732	0	193
+sxs-tibetan_quest_beyond_the_worlds_end.r03	-	100000000	1	300004732	0	289
+sxs-tibetan_quest_beyond_the_worlds_end.r04	-	96523143	1	400004732	0	385
+sxs-tibetan_quest_beyond_the_worlds_end.rar	-	100000000	1	496527875	0	478
+sxs-tibetan_quest_beyond_the_worlds_end.sfv	-	324	1	59105536	1	57

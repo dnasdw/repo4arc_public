@@ -1,0 +1,12 @@
+v-pinball_m_v196608.nfo	e803b825
+v-pinball_m_v196608.r00	d0bc4b20
+v-pinball_m_v196608.r01	832846ed
+v-pinball_m_v196608.r02	75333179
+v-pinball_m_v196608.r03	0ced08ac
+v-pinball_m_v196608.r04	a74087f7
+v-pinball_m_v196608.r05	2a58fce3
+v-pinball_m_v196608.r06	6112c50c
+v-pinball_m_v196608.r07	cd9649c4
+v-pinball_m_v196608.r08	6a264261
+v-pinball_m_v196608.rar	87fa0e31
+v-pinball_m_v196608.sfv	46e8014b

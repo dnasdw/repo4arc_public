@@ -1,0 +1,6 @@
+v-conduct_together_v65536.nfo	-	6528	1	0	0	0
+v-conduct_together_v65536.r00	-	50000000	1	6528	0	1
+v-conduct_together_v65536.r01	-	50000000	1	50006528	0	49
+v-conduct_together_v65536.r02	-	15029332	1	100006528	0	97
+v-conduct_together_v65536.rar	-	50000000	1	115035860	0	112
+v-conduct_together_v65536.sfv	-	160	1	165035860	0	160

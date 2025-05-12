@@ -1,0 +1,5 @@
+sxs-cubic_parking.nfo	d630db690eb690c859f1754552f06e2d59011e58
+sxs-cubic_parking.r00	c5ca1c683d7fc5354add84d66af764a59911df87
+sxs-cubic_parking.r01	19953a0255d465d70ece0114c2cf99309f109b07
+sxs-cubic_parking.rar	36bc0d1c04839f4f983842280b1367b514139fa0
+sxs-cubic_parking.sfv	d7627c4d173fe2303489aad3c3119ee41cc55fba

@@ -1,0 +1,6 @@
+sxs-pinball_fx_v65536.nfo	48b4306ad0643c5eab16ea086543e95e
+sxs-pinball_fx_v65536.r00	cd34ef4e13ceb666a87860604ea81f0a
+sxs-pinball_fx_v65536.r01	42340e624e4226ab0325eda6e526aa37
+sxs-pinball_fx_v65536.r02	7b770efbe65cac1c7018fdd1ab2c5e12
+sxs-pinball_fx_v65536.rar	d34865bade41f97e4e2ce579973ccf33
+sxs-pinball_fx_v65536.sfv	07c20600a97f891eb0bfaa0404599e5d

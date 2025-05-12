@@ -1,0 +1,16 @@
+sxs-huntdown_v524288.nfo	6367929c
+sxs-huntdown_v524288.r00	e77c9a50
+sxs-huntdown_v524288.r01	74efa145
+sxs-huntdown_v524288.r02	c26e392f
+sxs-huntdown_v524288.r03	9b19be2d
+sxs-huntdown_v524288.r04	dff0a757
+sxs-huntdown_v524288.r05	8baabda4
+sxs-huntdown_v524288.r06	e21957a7
+sxs-huntdown_v524288.r07	07ae0fb1
+sxs-huntdown_v524288.r08	3d93a3a0
+sxs-huntdown_v524288.r09	311dda8c
+sxs-huntdown_v524288.r10	206f4864
+sxs-huntdown_v524288.r11	c9864e1f
+sxs-huntdown_v524288.r12	0ef60b63
+sxs-huntdown_v524288.rar	2b72c2db
+sxs-huntdown_v524288.sfv	4ab19aab

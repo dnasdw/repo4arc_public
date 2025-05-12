@@ -1,0 +1,6 @@
+sxs-60_parsecs_v65536.nfo	f67205ccae1bdabc0a383797f132d025
+sxs-60_parsecs_v65536.r00	f7d1eeadeda9ac8eb6a6277f65055e06
+sxs-60_parsecs_v65536.r01	f4ce0aa9dd49054a4c07711f1346c84c
+sxs-60_parsecs_v65536.r02	5656e3752d8fe93ee1af2d75f2ebf227
+sxs-60_parsecs_v65536.rar	5a78fd875730b4d7f2936dab75b81819
+sxs-60_parsecs_v65536.sfv	acaef4d1d1fa3e900704a5f74bbafc37

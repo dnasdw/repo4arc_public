@@ -1,0 +1,9 @@
+sxs-alex_kidd_in_miracle_world_dx_v262144.nfo	-	5736	1	0	0	0
+sxs-alex_kidd_in_miracle_world_dx_v262144.r00	-	50000000	1	5736	0	1
+sxs-alex_kidd_in_miracle_world_dx_v262144.r01	-	50000000	1	50005736	0	49
+sxs-alex_kidd_in_miracle_world_dx_v262144.r02	-	50000000	1	100005736	0	97
+sxs-alex_kidd_in_miracle_world_dx_v262144.r03	-	50000000	1	150005736	0	145
+sxs-alex_kidd_in_miracle_world_dx_v262144.r04	-	50000000	1	200005736	0	193
+sxs-alex_kidd_in_miracle_world_dx_v262144.r05	-	47027741	1	250005736	0	241
+sxs-alex_kidd_in_miracle_world_dx_v262144.rar	-	50000000	1	297033477	0	286
+sxs-alex_kidd_in_miracle_world_dx_v262144.sfv	-	392	1	347033477	0	334

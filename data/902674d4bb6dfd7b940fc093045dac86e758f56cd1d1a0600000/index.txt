@@ -1,0 +1,5 @@
+sxs-weedcraft_inc_v65536.nfo	-	7304	1	0	0	0
+sxs-weedcraft_inc_v65536.r00	-	50000000	1	7304	0	1
+sxs-weedcraft_inc_v65536.r01	-	576862	1	50007304	0	49
+sxs-weedcraft_inc_v65536.rar	-	50000000	1	50584166	0	50
+sxs-weedcraft_inc_v65536.sfv	-	117	1	100584166	0	98

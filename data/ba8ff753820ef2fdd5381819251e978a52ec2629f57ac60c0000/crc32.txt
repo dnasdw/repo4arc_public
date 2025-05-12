@@ -1,0 +1,9 @@
+lfc-cuis.nfo	5d3cc555
+lfc-cuis.r00	92caa950
+lfc-cuis.r01	6fdbd621
+lfc-cuis.r02	4a8f26ec
+lfc-cuis.r03	d06c3e39
+lfc-cuis.r04	568b2060
+lfc-cuis.r05	db624ca7
+lfc-cuis.rar	d5d95332
+lfc-cuis.sfv	cdebb237

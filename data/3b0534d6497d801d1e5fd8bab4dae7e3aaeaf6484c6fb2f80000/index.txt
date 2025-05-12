@@ -1,0 +1,5 @@
+sxs-pixel_coloring_paint.nfo	-	5588	1	0	0	0
+sxs-pixel_coloring_paint.r00	-	100000000	1	5588	0	1
+sxs-pixel_coloring_paint.r01	-	17780481	1	100005588	0	97
+sxs-pixel_coloring_paint.rar	-	100000000	1	117786069	0	114
+sxs-pixel_coloring_paint.sfv	-	117	1	217786069	0	210

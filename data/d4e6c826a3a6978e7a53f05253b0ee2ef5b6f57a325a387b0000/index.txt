@@ -1,0 +1,6 @@
+sxs-udo_unidentified_drilling_object.nfo	-	5744	1	0	0	0
+sxs-udo_unidentified_drilling_object.r00	-	100000000	1	5744	0	1
+sxs-udo_unidentified_drilling_object.r01	-	100000000	1	100005744	0	97
+sxs-udo_unidentified_drilling_object.r02	-	20245141	1	200005744	0	193
+sxs-udo_unidentified_drilling_object.rar	-	100000000	1	220250885	0	213
+sxs-udo_unidentified_drilling_object.sfv	-	204	1	320250885	0	309

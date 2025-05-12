@@ -1,0 +1,8 @@
+sxs-cyber_shadow_v196608.r00	fcede78c
+sxs-cyber_shadow_v196608.r01	2f21f021
+sxs-cyber_shadow_v196608.r02	87da8fa2
+sxs-cyber_shadow_v196608.r03	53aeeae4
+sxs-cyber_shadow_v196608.r04	11ca1f50
+sxs-cyber_shadow_v196608.rar	0f88ab20
+sxs-cyber_shadow_v196608.sfv	7b1a6a07
+sxs-cyber_shadow_v96608.nfo	1f1c187e

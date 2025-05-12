@@ -1,0 +1,11 @@
+sxs-pictoquest.nfo	779d750e
+sxs-pictoquest.r00	9d00da76
+sxs-pictoquest.r01	afe640ee
+sxs-pictoquest.r02	4cf2909b
+sxs-pictoquest.r03	425626c5
+sxs-pictoquest.r04	d177f90c
+sxs-pictoquest.r05	8031b26a
+sxs-pictoquest.r06	6f745af4
+sxs-pictoquest.r07	d491d269
+sxs-pictoquest.rar	83bc82e0
+sxs-pictoquest.sfv	e54c7de3

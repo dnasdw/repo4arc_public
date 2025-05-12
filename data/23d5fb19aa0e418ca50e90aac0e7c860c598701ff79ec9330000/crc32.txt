@@ -1,0 +1,9 @@
+v-the_walking_dead_destinies_v131072.nfo	4c346861
+v-the_walking_dead_destinies_v131072.r00	2b7fc36a
+v-the_walking_dead_destinies_v131072.r01	e7bc8912
+v-the_walking_dead_destinies_v131072.r02	37347673
+v-the_walking_dead_destinies_v131072.r03	5271cee3
+v-the_walking_dead_destinies_v131072.r04	45d072a3
+v-the_walking_dead_destinies_v131072.r05	d89c4da4
+v-the_walking_dead_destinies_v131072.rar	d657625a
+v-the_walking_dead_destinies_v131072.sfv	0d9217c0

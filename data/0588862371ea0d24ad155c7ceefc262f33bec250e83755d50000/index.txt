@@ -1,0 +1,13 @@
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.nfo	-	6680	1	0	0	0
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.r00	-	100000000	1	6680	0	1
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.r01	-	100000000	1	100006680	0	97
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.r02	-	100000000	1	200006680	0	193
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.r03	-	100000000	1	300006680	0	289
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.r04	-	100000000	1	400006680	0	385
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.r05	-	100000000	1	500006680	0	481
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.r06	-	100000000	1	62251264	1	60
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.r07	-	100000000	1	162251264	1	156
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.r08	-	100000000	1	262251264	1	252
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.r09	-	34888774	1	362251264	1	348
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.rar	-	100000000	1	397140038	1	382
+sxs-crisis_core_final_fantasy_vii_reunion_v196608.sfv	-	704	1	497140038	1	478

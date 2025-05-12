@@ -1,0 +1,8 @@
+sxs-beat_souls.nfo	fa9ab780b657c0ff21bf28c42d1c8d2ea3d6819b
+sxs-beat_souls.r00	981e673d079e174c8e6b5704c44b4f34c14c1769
+sxs-beat_souls.r01	5f85152cfd3693dae75c87ebdab91974efab7622
+sxs-beat_souls.r02	e136fd6c992467ce990aea266ba2f820da95136b
+sxs-beat_souls.r03	5a919cdb26f7b700d5684a749b6941f12e99afa6
+sxs-beat_souls.r04	d69849fe8ca497f84f3d276062ab81db7e3e5880
+sxs-beat_souls.rar	79604bdf45c3682b3223b2e02a6d40139c1b4c22
+sxs-beat_souls.sfv	7987c97de2cddba587206bbd4d4c47c744a84653

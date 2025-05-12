@@ -1,0 +1,3 @@
+v-hellblade_senuas_sacrifice_fix.nfo	-	6370	1	0	0	0
+v-hellblade_senuas_sacrifice_fix.rar	-	2681	1	6370	0	1
+v-hellblade_senuas_sacrifice_fix.sfv	-	47	1	9051	0	2

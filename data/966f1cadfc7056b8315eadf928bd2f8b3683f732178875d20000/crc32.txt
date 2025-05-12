@@ -1,0 +1,7 @@
+sxs-ooblets_v1114112.nfo	bb2988d7
+sxs-ooblets_v1114112.r00	67ff850e
+sxs-ooblets_v1114112.r01	f40e9925
+sxs-ooblets_v1114112.r02	84b6d6a8
+sxs-ooblets_v1114112.r03	2ef7eeb4
+sxs-ooblets_v1114112.rar	a8af68a2
+sxs-ooblets_v1114112.sfv	53eb0355

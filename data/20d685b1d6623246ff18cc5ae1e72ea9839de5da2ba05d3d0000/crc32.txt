@@ -1,0 +1,16 @@
+l-ghtsb_v131072.nfo	95c52c4d
+l-ghtsb_v131072.r00	d52209b7
+l-ghtsb_v131072.r01	976e0fee
+l-ghtsb_v131072.r02	340ba5db
+l-ghtsb_v131072.r03	1ac88d52
+l-ghtsb_v131072.r04	e6c77a8a
+l-ghtsb_v131072.r05	18299c97
+l-ghtsb_v131072.r06	3da3baf5
+l-ghtsb_v131072.r07	08e15932
+l-ghtsb_v131072.r08	5162db70
+l-ghtsb_v131072.r09	9bbacaee
+l-ghtsb_v131072.r10	905b4288
+l-ghtsb_v131072.r11	afec086e
+l-ghtsb_v131072.r12	55384c6d
+l-ghtsb_v131072.rar	8cf8c6a0
+l-ghtsb_v131072.sfv	3e12df5b

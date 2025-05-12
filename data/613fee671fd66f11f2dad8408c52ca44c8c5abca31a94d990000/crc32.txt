@@ -1,0 +1,7 @@
+v-collection_of_saga_final_fantasy_legend.nfo	e5fdc2fe
+v-collection_of_saga_final_fantasy_legend.r00	04936286
+v-collection_of_saga_final_fantasy_legend.r01	0ac1b866
+v-collection_of_saga_final_fantasy_legend.r02	58005502
+v-collection_of_saga_final_fantasy_legend.r03	5c82cf95
+v-collection_of_saga_final_fantasy_legend.rar	941953fb
+v-collection_of_saga_final_fantasy_legend.sfv	cb512f19

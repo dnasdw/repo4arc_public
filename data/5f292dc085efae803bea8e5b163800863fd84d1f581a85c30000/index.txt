@@ -1,0 +1,4 @@
+sxs-stickmans_arena.nfo	-	5276	1	0	0	0
+sxs-stickmans_arena.r00	-	30003091	1	5276	0	1
+sxs-stickmans_arena.rar	-	100000000	1	30008367	0	30
+sxs-stickmans_arena.sfv	-	68	1	130008367	0	126

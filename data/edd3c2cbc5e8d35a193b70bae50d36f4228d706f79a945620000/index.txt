@@ -1,0 +1,4 @@
+sxs-rising_lords_v262144.nfo	-	6758	1	0	0	0
+sxs-rising_lords_v262144.r00	-	98799007	1	6758	0	1
+sxs-rising_lords_v262144.rar	-	100000000	1	98805765	0	96
+sxs-rising_lords_v262144.sfv	-	78	1	198805765	0	192

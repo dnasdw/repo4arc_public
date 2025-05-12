@@ -1,0 +1,3 @@
+sxs-etrian_odyssey_iii_hd_character_portrait_dlc_set.nfo	-	6680	1	0	0	0
+sxs-etrian_odyssey_iii_hd_character_portrait_dlc_set.rar	-	104101	1	6680	0	1
+sxs-etrian_odyssey_iii_hd_character_portrait_dlc_set.sfv	-	67	1	110781	0	2

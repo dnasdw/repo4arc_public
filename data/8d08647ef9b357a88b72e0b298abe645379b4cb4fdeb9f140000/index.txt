@@ -1,0 +1,3 @@
+jrp-sosfomt100.nfo	-	6219	1	0	0	0
+jrp-sosfomt100.rar	-	118336	1	6219	0	1
+jrp-sosfomt100.sfv	-	29	1	124555	0	2

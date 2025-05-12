@@ -1,0 +1,3 @@
+sxs-piano_learn_and_play_dlc.nfo	1e896d97ff48ddb5d1427fab4833b3ae6b8ddc14
+sxs-piano_learn_and_play_dlc.rar	8f02d616a10a64880268d3be32770178616f3335
+sxs-piano_learn_and_play_dlc.sfv	633ca65baef9e54d65593887fa9ecb3363443cb8

@@ -1,0 +1,6 @@
+brw-swsa.nfo	7c431fc38d2f2aa39f2e1ec7c13685aa
+brw-swsa.r00	f709786eac4dd5c79eaaf1142f68b744
+brw-swsa.r01	dc9854bdc775fbbe7f6349d24348fb23
+brw-swsa.r02	d6834df4059e5ca799505c59b6d9001b
+brw-swsa.rar	982ac1a25c1de0b61745ba96e190f915
+brw-swsa.sfv	758b113211c7921c127f7e41c5957e04

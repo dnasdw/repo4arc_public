@@ -1,0 +1,6 @@
+bbb-h-aflla.nfo	-	5517	1	0	0	0
+bbb-h-aflla.part01.rar	-	250000000	1	5517	0	1
+bbb-h-aflla.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-aflla.part03.rar	-	250000000	1	500005517	0	479
+bbb-h-aflla.part04.rar	-	26408562	1	212251264	1	203
+bbb-h-aflla.sfv	-	132	1	238659826	1	229

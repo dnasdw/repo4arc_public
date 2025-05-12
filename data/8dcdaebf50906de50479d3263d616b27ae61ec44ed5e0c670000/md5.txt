@@ -1,0 +1,5 @@
+sxs-castaway_paradise_v65536.nfo	0461e47f82d4e174527fb4607c189b7c
+sxs-castaway_paradise_v65536.r00	724588f80dacb74e3bcb2f8e41a00af4
+sxs-castaway_paradise_v65536.r01	da24f8b65cc2ba363b35aac4a31bb65f
+sxs-castaway_paradise_v65536.rar	26fe810634184c11c10a23f06f3fc6ff
+sxs-castaway_paradise_v65536.sfv	d84bc48227b43e4ef535b43a27d946df

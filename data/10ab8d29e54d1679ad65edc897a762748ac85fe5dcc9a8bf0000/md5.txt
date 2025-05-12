@@ -1,0 +1,6 @@
+v-streets_of_rage_4_v131072.nfo	414a899ebc20aef4e5b2a490ada10ae5
+v-streets_of_rage_4_v131072.r00	ad3d68e0fd924bd2e275349cd8fca296
+v-streets_of_rage_4_v131072.r01	7c4874accedf5f0bfbcfcf56ba0bdca0
+v-streets_of_rage_4_v131072.r02	4d26f2718cfb6bf45b0164564d3c9355
+v-streets_of_rage_4_v131072.rar	f4f03e99877e4f340c1ecf46fb2456bb
+v-streets_of_rage_4_v131072.sfv	4230f410e383d8f5113756f86c907af2

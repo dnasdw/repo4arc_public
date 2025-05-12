@@ -1,0 +1,8 @@
+sxs-the_copper_canyon_dixie_dash_v131072.nfo	b0818036
+sxs-the_copper_canyon_dixie_dash_v131072.r00	0a17fb4c
+sxs-the_copper_canyon_dixie_dash_v131072.r01	f447ed8b
+sxs-the_copper_canyon_dixie_dash_v131072.r02	97a71ef5
+sxs-the_copper_canyon_dixie_dash_v131072.r03	13eb75fa
+sxs-the_copper_canyon_dixie_dash_v131072.r04	a39e5481
+sxs-the_copper_canyon_dixie_dash_v131072.rar	ab9a850f
+sxs-the_copper_canyon_dixie_dash_v131072.sfv	581aeab5

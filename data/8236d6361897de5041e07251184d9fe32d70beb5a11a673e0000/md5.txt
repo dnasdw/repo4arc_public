@@ -1,0 +1,8 @@
+lfc-39daystomars.nfo	55de746e0e570702be738c36197e6785
+lfc-39daystomars.r00	3555194275c6d5447ae386205a549844
+lfc-39daystomars.r01	e256c88ce32104286acd95fe14d78965
+lfc-39daystomars.r02	d4e6b114b028b056cc6ddca71451a9e3
+lfc-39daystomars.r03	7fcd24f0208e2c5bf6f1ee52ba0cd088
+lfc-39daystomars.r04	0820109f855adad79ab05fb47672e50a
+lfc-39daystomars.rar	c2498475b89d287736f1636092fce6f3
+lfc-39daystomars.sfv	9fd269f37f489202e6efc22bdc11a8be

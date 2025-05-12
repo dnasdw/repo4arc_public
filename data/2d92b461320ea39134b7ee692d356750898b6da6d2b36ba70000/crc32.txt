@@ -1,0 +1,8 @@
+v-encodya_v262144.nfo	4e3ff1be
+v-encodya_v262144.r00	2edabd80
+v-encodya_v262144.r01	0972b59e
+v-encodya_v262144.r02	5a1a5eda
+v-encodya_v262144.r03	abcca70c
+v-encodya_v262144.r04	040e7871
+v-encodya_v262144.rar	6118ed11
+v-encodya_v262144.sfv	52b9ade8

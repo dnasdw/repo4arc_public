@@ -1,0 +1,15 @@
+sxs-wheel_of_fortune_v131072.nfo	593688b8
+sxs-wheel_of_fortune_v131072.r00	9bc59299
+sxs-wheel_of_fortune_v131072.r01	e7126650
+sxs-wheel_of_fortune_v131072.r02	7ba1aac2
+sxs-wheel_of_fortune_v131072.r03	7176840a
+sxs-wheel_of_fortune_v131072.r04	28653966
+sxs-wheel_of_fortune_v131072.r05	22cb22e1
+sxs-wheel_of_fortune_v131072.r06	d1ff021d
+sxs-wheel_of_fortune_v131072.r07	d65ff36e
+sxs-wheel_of_fortune_v131072.r08	dec5d06e
+sxs-wheel_of_fortune_v131072.r09	152771ac
+sxs-wheel_of_fortune_v131072.r10	cf03c298
+sxs-wheel_of_fortune_v131072.r11	d1ce2ba1
+sxs-wheel_of_fortune_v131072.rar	20499364
+sxs-wheel_of_fortune_v131072.sfv	41ebb0ee

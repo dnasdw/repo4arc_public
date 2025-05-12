@@ -1,0 +1,6 @@
+v-radiant_silvergun_v393216.nfo	6165a95783998e6da34cecbb3d93fb4c
+v-radiant_silvergun_v393216.r00	a9cdc7fd251d2f6a5e73054515f6d829
+v-radiant_silvergun_v393216.r01	730ce80f1a2450c86f262a70b65dec0d
+v-radiant_silvergun_v393216.r02	27f842dff32a1673df5160c7e0d251ca
+v-radiant_silvergun_v393216.rar	0e071339b93666cc4b31f520d7394775
+v-radiant_silvergun_v393216.sfv	d6124f74cf51dfcbdca67b5f30220456

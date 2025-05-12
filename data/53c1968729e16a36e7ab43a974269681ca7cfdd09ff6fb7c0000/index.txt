@@ -1,0 +1,14 @@
+sxs-the_last_days.nfo	-	4028	1	0	0	0
+sxs-the_last_days.r00	-	50000000	1	4028	0	1
+sxs-the_last_days.r01	-	50000000	1	50004028	0	49
+sxs-the_last_days.r02	-	50000000	1	100004028	0	97
+sxs-the_last_days.r03	-	50000000	1	150004028	0	145
+sxs-the_last_days.r04	-	50000000	1	200004028	0	193
+sxs-the_last_days.r05	-	50000000	1	250004028	0	241
+sxs-the_last_days.r06	-	50000000	1	300004028	0	289
+sxs-the_last_days.r07	-	50000000	1	350004028	0	337
+sxs-the_last_days.r08	-	50000000	1	400004028	0	385
+sxs-the_last_days.r09	-	50000000	1	450004028	0	433
+sxs-the_last_days.r10	-	32924772	1	500004028	0	481
+sxs-the_last_days.rar	-	50000000	1	532928800	0	513
+sxs-the_last_days.sfv	-	384	1	45805696	1	44

@@ -1,0 +1,14 @@
+v-chocobo_gp_v327680.nfo	35f12cea
+v-chocobo_gp_v327680.r00	65d674c4
+v-chocobo_gp_v327680.r01	91e70c64
+v-chocobo_gp_v327680.r02	a6340523
+v-chocobo_gp_v327680.r03	61eb6a12
+v-chocobo_gp_v327680.r04	ad2662f1
+v-chocobo_gp_v327680.r05	d2d22c40
+v-chocobo_gp_v327680.r06	26357e6f
+v-chocobo_gp_v327680.r07	1d257174
+v-chocobo_gp_v327680.r08	ec15567a
+v-chocobo_gp_v327680.r09	1ae14c17
+v-chocobo_gp_v327680.r10	1a9739fb
+v-chocobo_gp_v327680.rar	ca08c6c0
+v-chocobo_gp_v327680.sfv	8ddac24f

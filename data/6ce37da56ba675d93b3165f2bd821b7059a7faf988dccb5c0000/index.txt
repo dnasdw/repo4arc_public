@@ -1,0 +1,7 @@
+sxs-fitness_boxing_fist_of_the_north_star_v196608.nfo	-	6992	1	0	0	0
+sxs-fitness_boxing_fist_of_the_north_star_v196608.r00	-	100000000	1	6992	0	1
+sxs-fitness_boxing_fist_of_the_north_star_v196608.r01	-	100000000	1	100006992	0	97
+sxs-fitness_boxing_fist_of_the_north_star_v196608.r02	-	100000000	1	200006992	0	193
+sxs-fitness_boxing_fist_of_the_north_star_v196608.r03	-	3416137	1	300006992	0	289
+sxs-fitness_boxing_fist_of_the_north_star_v196608.rar	-	100000000	1	303423129	0	293
+sxs-fitness_boxing_fist_of_the_north_star_v196608.sfv	-	320	1	403423129	0	389

@@ -1,0 +1,14 @@
+sxs-edge_of_reality.nfo	-	4964	1	0	0	0
+sxs-edge_of_reality.r00	-	100000000	1	4964	0	1
+sxs-edge_of_reality.r01	-	100000000	1	100004964	0	97
+sxs-edge_of_reality.r02	-	100000000	1	200004964	0	193
+sxs-edge_of_reality.r03	-	100000000	1	300004964	0	289
+sxs-edge_of_reality.r04	-	100000000	1	400004964	0	385
+sxs-edge_of_reality.r05	-	100000000	1	500004964	0	481
+sxs-edge_of_reality.r06	-	100000000	1	62251264	1	60
+sxs-edge_of_reality.r07	-	100000000	1	162251264	1	156
+sxs-edge_of_reality.r08	-	100000000	1	262251264	1	252
+sxs-edge_of_reality.r09	-	100000000	1	362251264	1	348
+sxs-edge_of_reality.r10	-	66975050	1	462251264	1	444
+sxs-edge_of_reality.rar	-	100000000	1	529226314	1	508
+sxs-edge_of_reality.sfv	-	408	1	91611392	2	88

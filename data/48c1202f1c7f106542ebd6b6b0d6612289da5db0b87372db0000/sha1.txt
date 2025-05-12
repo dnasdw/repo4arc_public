@@ -1,0 +1,8 @@
+lfc-stas.nfo	cdaee1626a24b844d93011221247f675d87e5e33
+lfc-stas.r00	dbcfd62f20d911e856e629d23b45ea55b8ccf10b
+lfc-stas.r01	774786b0491372455b82ba193750c65dc496adb9
+lfc-stas.r02	c88518d7e6686eb1630a842908b3aa4e39f76c36
+lfc-stas.r03	2dade6de0f04d0a9fde028dd51e19b3cc189aac7
+lfc-stas.r04	cade6c892cbcb06a9857a5b4ad896324a72bcca7
+lfc-stas.rar	c235ddcbbf689cdce1abdb2b660c0c3e1ebbca82
+lfc-stas.sfv	4bc758d60eb201b02a64911d0a82e5f35320f23d

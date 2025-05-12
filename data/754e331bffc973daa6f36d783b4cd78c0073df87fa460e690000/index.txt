@@ -1,0 +1,3 @@
+v-hogwarts_legacy_dark_arts_garrison_hat_dlc.nfo	-	5668	1	0	0	0
+v-hogwarts_legacy_dark_arts_garrison_hat_dlc.rar	-	124421	1	5668	0	1
+v-hogwarts_legacy_dark_arts_garrison_hat_dlc.sfv	-	59	1	130089	0	2

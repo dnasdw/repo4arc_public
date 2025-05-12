@@ -1,0 +1,7 @@
+v-sonic_origins_classic_music_pack_dlc.nfo	875e1fe9
+v-sonic_origins_classic_music_pack_dlc.r00	c9fccfcb
+v-sonic_origins_classic_music_pack_dlc.r01	924a19d7
+v-sonic_origins_classic_music_pack_dlc.r02	9d7b8bcb
+v-sonic_origins_classic_music_pack_dlc.r03	fb49e5c5
+v-sonic_origins_classic_music_pack_dlc.rar	e6174434
+v-sonic_origins_classic_music_pack_dlc.sfv	62c2fcc1

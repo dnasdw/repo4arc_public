@@ -1,0 +1,16 @@
+sxs-the_big_journey.nfo	-	4808	1	0	0	0
+sxs-the_big_journey.r00	-	50000000	1	4808	0	1
+sxs-the_big_journey.r01	-	50000000	1	50004808	0	49
+sxs-the_big_journey.r02	-	50000000	1	100004808	0	97
+sxs-the_big_journey.r03	-	50000000	1	150004808	0	145
+sxs-the_big_journey.r04	-	50000000	1	200004808	0	193
+sxs-the_big_journey.r05	-	50000000	1	250004808	0	241
+sxs-the_big_journey.r06	-	50000000	1	300004808	0	289
+sxs-the_big_journey.r07	-	50000000	1	350004808	0	337
+sxs-the_big_journey.r08	-	50000000	1	400004808	0	385
+sxs-the_big_journey.r09	-	50000000	1	450004808	0	433
+sxs-the_big_journey.r10	-	50000000	1	500004808	0	481
+sxs-the_big_journey.r11	-	50000000	1	12251264	1	12
+sxs-the_big_journey.r12	-	25187693	1	62251264	1	60
+sxs-the_big_journey.rar	-	50000000	1	87438957	1	85
+sxs-the_big_journey.sfv	-	476	1	137438957	1	133

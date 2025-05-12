@@ -1,0 +1,8 @@
+sxs-super_blood_hockey.nfo	f221664e3a9a85b0168bd4e69a3bb93b
+sxs-super_blood_hockey.r00	27fe7b0a818276ce3c66b337686ef885
+sxs-super_blood_hockey.r01	a17533611c7ac8abeb086aeb4d7fbe3d
+sxs-super_blood_hockey.r02	2a767df5fcabb886cd237cb80f4a6945
+sxs-super_blood_hockey.r03	422668085523a49e2d64fe28d01e4888
+sxs-super_blood_hockey.r04	843fdeabaaa473f49d73ad2e92ee77e6
+sxs-super_blood_hockey.rar	fa079d01c8fcd967c6fca2238f99786f
+sxs-super_blood_hockey.sfv	f2d18d9b041ab9b7ef94e86a44eeace6

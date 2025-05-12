@@ -1,0 +1,4 @@
+sxs-lets_play_curling_v65536.nfo	-	5198	1	0	0	0
+sxs-lets_play_curling_v65536.r00	-	75467005	1	5198	0	1
+sxs-lets_play_curling_v65536.rar	-	100000000	1	75472203	0	73
+sxs-lets_play_curling_v65536.sfv	-	86	1	175472203	0	169

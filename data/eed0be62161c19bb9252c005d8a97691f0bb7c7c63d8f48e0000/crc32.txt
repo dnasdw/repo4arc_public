@@ -1,0 +1,6 @@
+sxs-dont_sink.nfo	795b5e1c
+sxs-dont_sink.r00	e6f873cd
+sxs-dont_sink.r01	1a59ce15
+sxs-dont_sink.r02	c4a5b993
+sxs-dont_sink.rar	5fbd4c08
+sxs-dont_sink.sfv	9b554a1c

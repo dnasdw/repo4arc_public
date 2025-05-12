@@ -1,0 +1,11 @@
+sxs-paperman_adventure_delivered_v196608.nfo	-	7694	1	0	0	0
+sxs-paperman_adventure_delivered_v196608.r00	-	100000000	1	7694	0	1
+sxs-paperman_adventure_delivered_v196608.r01	-	100000000	1	100007694	0	97
+sxs-paperman_adventure_delivered_v196608.r02	-	100000000	1	200007694	0	193
+sxs-paperman_adventure_delivered_v196608.r03	-	100000000	1	300007694	0	289
+sxs-paperman_adventure_delivered_v196608.r04	-	100000000	1	400007694	0	385
+sxs-paperman_adventure_delivered_v196608.r05	-	100000000	1	500007694	0	481
+sxs-paperman_adventure_delivered_v196608.r06	-	100000000	1	62251264	1	60
+sxs-paperman_adventure_delivered_v196608.r07	-	48770539	1	162251264	1	156
+sxs-paperman_adventure_delivered_v196608.rar	-	100000000	1	211021803	1	203
+sxs-paperman_adventure_delivered_v196608.sfv	-	495	1	311021803	1	299

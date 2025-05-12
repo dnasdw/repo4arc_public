@@ -1,0 +1,4 @@
+sxs-speed_limit_v131072.nfo	-	5198	1	0	0	0
+sxs-speed_limit_v131072.r00	-	29375660	1	5198	0	1
+sxs-speed_limit_v131072.rar	-	50000000	1	29380858	0	30
+sxs-speed_limit_v131072.sfv	-	76	1	79380858	0	78

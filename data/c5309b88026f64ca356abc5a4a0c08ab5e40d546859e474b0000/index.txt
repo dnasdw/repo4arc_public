@@ -1,0 +1,4 @@
+sxs-dogs_donuts.nfo	-	5042	1	0	0	0
+sxs-dogs_donuts.r00	-	42631202	1	5042	0	1
+sxs-dogs_donuts.rar	-	50000000	1	42636244	0	42
+sxs-dogs_donuts.sfv	-	60	1	92636244	0	90

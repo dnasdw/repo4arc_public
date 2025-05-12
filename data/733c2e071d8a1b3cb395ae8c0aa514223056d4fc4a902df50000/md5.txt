@@ -1,0 +1,3 @@
+brw-poa3_v65536.nfo	9d2aa82a69c545f9b0cc21610dae2945
+brw-poa3_v65536.rar	54a5283dbb54964a67775aa68319675e
+brw-poa3_v65536.sfv	5cfd4ebf5afe46f7a0ac0e8a009ff2e7

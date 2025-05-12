@@ -1,0 +1,3 @@
+v-atelier_lulua_swimsuit_dlc.nfo	a46ff0dd313b5000bb25ecc93f25f7692854f24e
+v-atelier_lulua_swimsuit_dlc.rar	ff106f36112047f3bd29229458e428a458bd7a0d
+v-atelier_lulua_swimsuit_dlc.sfv	db82cee4b2476dbaf557c5c3eaf8674878ee6ee1

@@ -1,0 +1,11 @@
+sxs-call_of_juarez_gunslinger_v196608.nfo	-	5666	1	0	0	0
+sxs-call_of_juarez_gunslinger_v196608.r00	-	50000000	1	5666	0	1
+sxs-call_of_juarez_gunslinger_v196608.r01	-	50000000	1	50005666	0	49
+sxs-call_of_juarez_gunslinger_v196608.r02	-	50000000	1	100005666	0	97
+sxs-call_of_juarez_gunslinger_v196608.r03	-	50000000	1	150005666	0	145
+sxs-call_of_juarez_gunslinger_v196608.r04	-	50000000	1	200005666	0	193
+sxs-call_of_juarez_gunslinger_v196608.r05	-	50000000	1	250005666	0	241
+sxs-call_of_juarez_gunslinger_v196608.r06	-	50000000	1	300005666	0	289
+sxs-call_of_juarez_gunslinger_v196608.r07	-	326576	1	350005666	0	337
+sxs-call_of_juarez_gunslinger_v196608.rar	-	50000000	1	350332242	0	338
+sxs-call_of_juarez_gunslinger_v196608.sfv	-	468	1	400332242	0	386

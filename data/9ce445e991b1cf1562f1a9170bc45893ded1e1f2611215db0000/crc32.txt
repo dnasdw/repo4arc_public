@@ -1,0 +1,14 @@
+hr-atptav3.nfo	02102ff7
+hr-atptav3.r00	214c97ce
+hr-atptav3.r01	e8008d02
+hr-atptav3.r02	c59a716b
+hr-atptav3.r03	7d820368
+hr-atptav3.r04	e95d7487
+hr-atptav3.r05	a4c057dd
+hr-atptav3.r06	9f078054
+hr-atptav3.r07	a8328353
+hr-atptav3.r08	c60c91c3
+hr-atptav3.r09	3e782342
+hr-atptav3.r10	2f859b1d
+hr-atptav3.rar	9323a46e
+hr-atptav3.sfv	f3c1e173

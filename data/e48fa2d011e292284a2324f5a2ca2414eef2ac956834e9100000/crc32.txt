@@ -1,0 +1,10 @@
+sxs-datejournal_demo.nfo	e0ce35e4
+sxs-datejournal_demo.r00	03c328a7
+sxs-datejournal_demo.r01	7d7058dd
+sxs-datejournal_demo.r02	c27777ad
+sxs-datejournal_demo.r03	bf55b8bc
+sxs-datejournal_demo.r04	334e676b
+sxs-datejournal_demo.r05	6a5fb99e
+sxs-datejournal_demo.r06	099b663f
+sxs-datejournal_demo.rar	760034ea
+sxs-datejournal_demo.sfv	168e3185

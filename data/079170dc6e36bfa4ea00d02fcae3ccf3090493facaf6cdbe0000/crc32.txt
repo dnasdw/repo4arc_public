@@ -1,0 +1,6 @@
+brw-ledc.nfo	1b420119
+brw-ledc.r00	e709c532
+brw-ledc.r01	57234a48
+brw-ledc.r02	5585884b
+brw-ledc.rar	fb86a416
+brw-ledc.sfv	f95c8caf

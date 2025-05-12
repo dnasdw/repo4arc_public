@@ -1,0 +1,9 @@
+hr-ar5cdv65536.nfo	64f5df35
+hr-ar5cdv65536.r00	125aeaf4
+hr-ar5cdv65536.r01	3b061a88
+hr-ar5cdv65536.r02	a3558d27
+hr-ar5cdv65536.r03	f8511895
+hr-ar5cdv65536.r04	b8079062
+hr-ar5cdv65536.r05	16568cbf
+hr-ar5cdv65536.rar	52e6e52c
+hr-ar5cdv65536.sfv	d29c8cec

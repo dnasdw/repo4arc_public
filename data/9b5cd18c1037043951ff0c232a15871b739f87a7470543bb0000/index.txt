@@ -1,0 +1,3 @@
+v-csptr.nfo	-	5313	1	0	0	0
+v-csptr.rar	-	604370	1	5313	0	1
+v-csptr.sfv	-	22	1	609683	0	2

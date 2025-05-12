@@ -1,0 +1,4 @@
+lfc-misb.nfo	a2760dfc
+lfc-misb.r00	5e6fbabd
+lfc-misb.rar	f2cefa6d
+lfc-misb.sfv	a799b3a8

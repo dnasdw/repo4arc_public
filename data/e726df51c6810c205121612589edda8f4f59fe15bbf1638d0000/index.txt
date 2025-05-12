@@ -1,0 +1,4 @@
+sxs-astronite_v196608.nfo	-	4886	1	0	0	0
+sxs-astronite_v196608.r00	-	28907689	1	4886	0	1
+sxs-astronite_v196608.rar	-	50000000	1	28912575	0	29
+sxs-astronite_v196608.sfv	-	72	1	78912575	0	77

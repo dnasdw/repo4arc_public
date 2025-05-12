@@ -1,0 +1,16 @@
+n-cobrakai2dr_v131072.nfo	80c218a8
+n-cobrakai2dr_v131072.r00	35ade31b
+n-cobrakai2dr_v131072.r01	5dea5e81
+n-cobrakai2dr_v131072.r02	832334dc
+n-cobrakai2dr_v131072.r03	e3be3643
+n-cobrakai2dr_v131072.r04	b31a8b58
+n-cobrakai2dr_v131072.r05	2a38abdd
+n-cobrakai2dr_v131072.r06	4a2f0dc5
+n-cobrakai2dr_v131072.r07	1b21103c
+n-cobrakai2dr_v131072.r08	100eb77b
+n-cobrakai2dr_v131072.r09	c8ab2324
+n-cobrakai2dr_v131072.r10	4198cf65
+n-cobrakai2dr_v131072.r11	884cb51d
+n-cobrakai2dr_v131072.r12	a8ea09e7
+n-cobrakai2dr_v131072.rar	0e695179
+n-cobrakai2dr_v131072.sfv	f8ead2cf

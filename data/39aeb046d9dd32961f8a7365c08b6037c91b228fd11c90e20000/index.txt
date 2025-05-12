@@ -1,0 +1,8 @@
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_v262144.nfo	-	6994	1	0	0	0
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_v262144.r00	-	50000000	1	6994	0	1
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_v262144.r01	-	50000000	1	50006994	0	49
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_v262144.r02	-	50000000	1	100006994	0	97
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_v262144.r03	-	50000000	1	150006994	0	145
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_v262144.r04	-	19057066	1	200006994	0	193
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_v262144.rar	-	50000000	1	219064060	0	212
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_v262144.sfv	-	474	1	269064060	0	260

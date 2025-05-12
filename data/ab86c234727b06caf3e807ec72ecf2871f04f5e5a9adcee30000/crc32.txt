@@ -1,0 +1,6 @@
+sxs-star_wars_knights_of_the_old_republic_v262144.nfo	1ec17dec
+sxs-star_wars_knights_of_the_old_republic_v262144.r00	18b3243f
+sxs-star_wars_knights_of_the_old_republic_v262144.r01	789549cf
+sxs-star_wars_knights_of_the_old_republic_v262144.r02	99a49602
+sxs-star_wars_knights_of_the_old_republic_v262144.rar	ca045455
+sxs-star_wars_knights_of_the_old_republic_v262144.sfv	c4ce5ad7

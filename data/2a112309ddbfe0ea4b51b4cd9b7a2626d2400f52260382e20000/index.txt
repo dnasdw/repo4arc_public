@@ -1,0 +1,4 @@
+sxs-towerfall_v262144.nfo	-	4964	1	0	0	0
+sxs-towerfall_v262144.r00	-	20382293	1	4964	0	1
+sxs-towerfall_v262144.rar	-	50000000	1	20387257	0	21
+sxs-towerfall_v262144.sfv	-	72	1	70387257	0	69

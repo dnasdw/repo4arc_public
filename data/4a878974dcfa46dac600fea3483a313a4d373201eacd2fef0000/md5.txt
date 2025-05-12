@@ -1,0 +1,5 @@
+lfc-al7waupdate.nfo	983eef5f87f2fff4dc2fb2875f72d75f
+lfc-al7waupdate.r00	bc8e279f4f1a3a8114aaec9db57f0bfb
+lfc-al7waupdate.r01	a8c0f23bf36d046e8a91e4d50cafe424
+lfc-al7waupdate.rar	4ac6c9432af90f9cee4f8559c1da1558
+lfc-al7waupdate.sfv	69b4af0fcceeb4862980098185325711

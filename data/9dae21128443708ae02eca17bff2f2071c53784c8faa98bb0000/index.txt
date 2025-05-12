@@ -1,0 +1,3 @@
+lfc-aads.nfo	-	5549	1	0	0	0
+lfc-aads.rar	-	47793047	1	5549	0	1
+lfc-aads.sfv	-	23	1	47798596	0	47

@@ -1,0 +1,6 @@
+brw-tndr.nfo	cd2d3d24
+brw-tndr.r00	3d401f6f
+brw-tndr.r01	f756be55
+brw-tndr.r02	7baf2b78
+brw-tndr.rar	e93442c9
+brw-tndr.sfv	7e63188a

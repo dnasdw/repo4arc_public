@@ -1,0 +1,4 @@
+sxs-slipstream_v196608.nfo	-	4184	1	0	0	0
+sxs-slipstream_v196608.r00	-	1715799	1	4184	0	1
+sxs-slipstream_v196608.rar	-	50000000	1	1719983	0	3
+sxs-slipstream_v196608.sfv	-	74	1	51719983	0	51

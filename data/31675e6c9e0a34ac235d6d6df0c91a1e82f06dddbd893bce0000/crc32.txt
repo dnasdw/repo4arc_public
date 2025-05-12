@@ -1,0 +1,9 @@
+v-battew_v65536.nfo	949de86f
+v-battew_v65536.r00	ec36063f
+v-battew_v65536.r01	21c52bac
+v-battew_v65536.r02	5a2b5309
+v-battew_v65536.r03	a6b8d8a9
+v-battew_v65536.r04	1eb0d06a
+v-battew_v65536.r05	7bae75c2
+v-battew_v65536.rar	781fcfb0
+v-battew_v65536.sfv	e9895061

@@ -1,0 +1,9 @@
+brw-soht_proper_rp.nfo	5d8556bd
+brw-soht_proper_rp.r00	aef3afe1
+brw-soht_proper_rp.r01	0c831f44
+brw-soht_proper_rp.r02	1ca9fa0f
+brw-soht_proper_rp.r03	6e286034
+brw-soht_proper_rp.r04	968ad7f8
+brw-soht_proper_rp.r05	76f387c1
+brw-soht_proper_rp.rar	afd61251
+brw-soht_proper_rp.sfv	09120e3d

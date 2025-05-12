@@ -1,0 +1,13 @@
+lfc-gunb.nfo	ad04047e
+lfc-gunb.r00	ea6fecbe
+lfc-gunb.r01	30b3bc71
+lfc-gunb.r02	14c063ea
+lfc-gunb.r03	2c0f74bb
+lfc-gunb.r04	e0c4807e
+lfc-gunb.r05	b54a3926
+lfc-gunb.r06	e78dd434
+lfc-gunb.r07	4e270a8f
+lfc-gunb.r08	3e0b9aa8
+lfc-gunb.r09	a7c32748
+lfc-gunb.rar	f4aafb47
+lfc-gunb.sfv	880642a0

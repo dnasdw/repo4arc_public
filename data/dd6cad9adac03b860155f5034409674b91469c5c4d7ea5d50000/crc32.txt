@@ -1,0 +1,10 @@
+lfc-matboc.nfo	10bbc357
+lfc-matboc.r00	fb22292b
+lfc-matboc.r01	b196041e
+lfc-matboc.r02	3303707c
+lfc-matboc.r03	282fa087
+lfc-matboc.r04	bb82637f
+lfc-matboc.r05	62374bef
+lfc-matboc.r06	18924be8
+lfc-matboc.rar	ef3c1be6
+lfc-matboc.sfv	ebe1af67

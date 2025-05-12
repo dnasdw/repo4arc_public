@@ -1,0 +1,3 @@
+nrz-smo.nfo	-	88	1	0	0	0
+nrz-smo.rar	-	1554861	1	88	0	1
+nrz-smo.sfv	-	22	1	1554949	0	3

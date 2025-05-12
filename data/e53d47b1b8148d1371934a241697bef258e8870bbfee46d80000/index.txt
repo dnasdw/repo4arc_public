@@ -1,0 +1,7 @@
+sxs-railway_islands_puzzle.nfo	-	4730	1	0	0	0
+sxs-railway_islands_puzzle.r00	-	100000000	1	4730	0	1
+sxs-railway_islands_puzzle.r01	-	100000000	1	100004730	0	97
+sxs-railway_islands_puzzle.r02	-	100000000	1	200004730	0	193
+sxs-railway_islands_puzzle.r03	-	48405579	1	300004730	0	289
+sxs-railway_islands_puzzle.rar	-	100000000	1	348410309	0	336
+sxs-railway_islands_puzzle.sfv	-	205	1	448410309	0	432

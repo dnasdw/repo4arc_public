@@ -1,0 +1,12 @@
+v-sumohd_v196608.nfo	b4b81ff6
+v-sumohd_v196608.r00	84616d94
+v-sumohd_v196608.r01	6aa6ecc8
+v-sumohd_v196608.r02	2541d2d8
+v-sumohd_v196608.r03	5eb94f2d
+v-sumohd_v196608.r04	ceba232a
+v-sumohd_v196608.r05	cd4c06d0
+v-sumohd_v196608.r06	598794ae
+v-sumohd_v196608.r07	dc17f328
+v-sumohd_v196608.r08	8800ccb0
+v-sumohd_v196608.rar	f98d63e4
+v-sumohd_v196608.sfv	4a6e58db

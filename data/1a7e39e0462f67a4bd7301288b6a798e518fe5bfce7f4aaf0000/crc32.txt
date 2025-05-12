@@ -1,0 +1,12 @@
+v-dyna_bomb_2_v196608.nfo	7b96ef76
+v-dyna_bomb_2_v196608.r00	e1b6562d
+v-dyna_bomb_2_v196608.r01	f55aa150
+v-dyna_bomb_2_v196608.r02	48c3f43f
+v-dyna_bomb_2_v196608.r03	f6c8ee57
+v-dyna_bomb_2_v196608.r04	202ada73
+v-dyna_bomb_2_v196608.r05	7050c76f
+v-dyna_bomb_2_v196608.r06	f09356fc
+v-dyna_bomb_2_v196608.r07	634570c5
+v-dyna_bomb_2_v196608.r08	4e735f03
+v-dyna_bomb_2_v196608.rar	23d6dd0a
+v-dyna_bomb_2_v196608.sfv	a97c2798

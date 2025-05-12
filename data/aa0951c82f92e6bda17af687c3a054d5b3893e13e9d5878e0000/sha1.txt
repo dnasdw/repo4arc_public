@@ -1,0 +1,7 @@
+sxs-pets_no_more.nfo	809f331e0d8c73957b104cdbed16a4533e40682d
+sxs-pets_no_more.r00	43284429713264e318db71538a3ed8a9dd14816b
+sxs-pets_no_more.r01	9a19ca26fec0c07e5c60598744035e91b9428a81
+sxs-pets_no_more.r02	e51c7f12e29c65eaeeac53c5f89d2474365f85c9
+sxs-pets_no_more.r03	dec9b468337e76235d3ba55b500dd73c467617b6
+sxs-pets_no_more.rar	44cd6f05eb539935f1560e111a6be94ee9228fb1
+sxs-pets_no_more.sfv	29ff52baeac0532f1d10b53da46c98c73de7dbf1

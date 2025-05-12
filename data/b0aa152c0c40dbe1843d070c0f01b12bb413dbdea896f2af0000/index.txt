@@ -1,0 +1,6 @@
+v-pokemon_legends_arceus_v196608.nfo	-	7484	1	0	0	0
+v-pokemon_legends_arceus_v196608.r00	-	50000000	1	7484	0	1
+v-pokemon_legends_arceus_v196608.r01	-	50000000	1	50007484	0	49
+v-pokemon_legends_arceus_v196608.r02	-	36548063	1	100007484	0	97
+v-pokemon_legends_arceus_v196608.rar	-	50000000	1	136555547	0	132
+v-pokemon_legends_arceus_v196608.sfv	-	188	1	186555547	0	180

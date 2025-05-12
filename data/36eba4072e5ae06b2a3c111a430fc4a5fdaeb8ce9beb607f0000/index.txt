@@ -1,0 +1,7 @@
+sxs-fastest_finger_first_3_hint_quiz.nfo	-	4886	1	0	0	0
+sxs-fastest_finger_first_3_hint_quiz.r00	-	100000000	1	4886	0	1
+sxs-fastest_finger_first_3_hint_quiz.r01	-	100000000	1	100004886	0	97
+sxs-fastest_finger_first_3_hint_quiz.r02	-	100000000	1	200004886	0	193
+sxs-fastest_finger_first_3_hint_quiz.r03	-	17580037	1	300004886	0	289
+sxs-fastest_finger_first_3_hint_quiz.rar	-	100000000	1	317584923	0	306
+sxs-fastest_finger_first_3_hint_quiz.sfv	-	255	1	417584923	0	402

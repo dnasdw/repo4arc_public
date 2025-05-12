@@ -1,0 +1,17 @@
+sxs-bcbu.nfo	500e1848836ca377954fe0939c7399db
+sxs-bcbu.r00	43d935a4ca6266bc5712a20fe5f2b426
+sxs-bcbu.r01	ac3fe80910db93b7fde6f819272aacd1
+sxs-bcbu.r02	ce53cd51f1d22100e5861369cfdbcddd
+sxs-bcbu.r03	0d3097f5746ed6b51ced7d5e8f138a2c
+sxs-bcbu.r04	269fcafa861768c729e5385c2424b4f0
+sxs-bcbu.r05	fdf105f8a87f393ddfc9fa7edfd69537
+sxs-bcbu.r06	ec597cc5b6580199ff3be15a75a90272
+sxs-bcbu.r07	9b8036262a50352ddd40bf385ae35751
+sxs-bcbu.r08	7bdca8214cc454f6c4b9aa4de5d8ab4c
+sxs-bcbu.r09	bf9b0d4327f80da59cbb9af4e29e8982
+sxs-bcbu.r10	d6655a595cf8fd715db034df42eb1f0f
+sxs-bcbu.r11	72e7da623a5f37c126ef8a4bd073036d
+sxs-bcbu.r12	71bac0d3ad5b085ce2ba3004f12d9ecb
+sxs-bcbu.r13	d42d9359dc20bc25ccda6a00ed82a84f
+sxs-bcbu.rar	a58a6e7f610df1acd17edd2d6c6eb6c4
+sxs-bcbu.sfv	50eb83773f7f1a20b6cac025a7c11108

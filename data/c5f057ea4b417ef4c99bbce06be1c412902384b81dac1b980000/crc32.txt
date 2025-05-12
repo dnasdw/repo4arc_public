@@ -1,0 +1,4 @@
+sxs-deathly_dangerous.nfo	5b27091d
+sxs-deathly_dangerous.r00	4097c514
+sxs-deathly_dangerous.rar	080c890a
+sxs-deathly_dangerous.sfv	e42d332c

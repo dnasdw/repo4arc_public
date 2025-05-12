@@ -1,0 +1,3 @@
+v-gargoyles_remastered_v65536.nfo	-	6292	1	0	0	0
+v-gargoyles_remastered_v65536.rar	-	57529914	1	6292	0	1
+v-gargoyles_remastered_v65536.sfv	-	44	1	57536206	0	56

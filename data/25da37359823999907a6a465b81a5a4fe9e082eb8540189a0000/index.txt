@@ -1,0 +1,8 @@
+sxs-five_nights_at_freddys_help_wanted_v65536.nfo	-	5354	1	0	0	0
+sxs-five_nights_at_freddys_help_wanted_v65536.r00	-	50000000	1	5354	0	1
+sxs-five_nights_at_freddys_help_wanted_v65536.r01	-	50000000	1	50005354	0	49
+sxs-five_nights_at_freddys_help_wanted_v65536.r02	-	50000000	1	100005354	0	97
+sxs-five_nights_at_freddys_help_wanted_v65536.r03	-	50000000	1	150005354	0	145
+sxs-five_nights_at_freddys_help_wanted_v65536.r04	-	17414019	1	200005354	0	193
+sxs-five_nights_at_freddys_help_wanted_v65536.rar	-	50000000	1	217419373	0	210
+sxs-five_nights_at_freddys_help_wanted_v65536.sfv	-	360	1	267419373	0	258

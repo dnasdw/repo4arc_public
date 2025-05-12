@@ -1,0 +1,16 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.jpg	-	129200	1	0	0	0
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.nfo	-	6524	1	129200	0	1
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.r00	-	100000000	1	135724	0	2
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.r01	-	100000000	1	100135724	0	98
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.r02	-	100000000	1	200135724	0	194
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.r03	-	100000000	1	300135724	0	290
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.r04	-	100000000	1	400135724	0	386
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.r05	-	100000000	1	500135724	0	482
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.r06	-	100000000	1	62251264	1	60
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.r07	-	100000000	1	162251264	1	156
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.r08	-	100000000	1	262251264	1	252
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.r09	-	100000000	1	362251264	1	348
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.r10	-	19521534	1	462251264	1	444
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.rar	-	100000000	1	481772798	1	463
+sxs-ninja_jajamaru_the_great_yokai_battle_plus_hell.sfv	-	792	1	44425472	2	43

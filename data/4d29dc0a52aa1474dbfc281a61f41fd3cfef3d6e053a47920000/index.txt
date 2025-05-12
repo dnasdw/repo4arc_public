@@ -1,0 +1,4 @@
+sxs-toki_tori_2_plus_nintendo_switch_edition_v458752.nfo	-	6368	1	0	0	0
+sxs-toki_tori_2_plus_nintendo_switch_edition_v458752.r00	-	10551508	1	6368	0	1
+sxs-toki_tori_2_plus_nintendo_switch_edition_v458752.rar	-	50000000	1	10557876	0	12
+sxs-toki_tori_2_plus_nintendo_switch_edition_v458752.sfv	-	134	1	60557876	0	60

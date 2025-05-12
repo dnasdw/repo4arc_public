@@ -1,0 +1,14 @@
+sxs-the_last_days.nfo	5ae0b32d
+sxs-the_last_days.r00	81593cce
+sxs-the_last_days.r01	4ce1b76d
+sxs-the_last_days.r02	e2d598bb
+sxs-the_last_days.r03	dba54630
+sxs-the_last_days.r04	722b82ce
+sxs-the_last_days.r05	d8688196
+sxs-the_last_days.r06	747ca8d1
+sxs-the_last_days.r07	fe0784c5
+sxs-the_last_days.r08	7ecd586e
+sxs-the_last_days.r09	1b83fb12
+sxs-the_last_days.r10	7b1d1967
+sxs-the_last_days.rar	d09a9d44
+sxs-the_last_days.sfv	6ac6afac

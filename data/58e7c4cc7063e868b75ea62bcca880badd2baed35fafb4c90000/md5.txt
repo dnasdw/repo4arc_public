@@ -1,0 +1,4 @@
+lfc-aasf.nfo	ddb43872b480f6da2258bbb516d88976
+lfc-aasf.r00	4d1bbd33fd76cd47d84b798facdd0eb7
+lfc-aasf.rar	fdc21b4d68dbe9243319d1d37f82620a
+lfc-aasf.sfv	e9cf18a0018e3174310ad8a2c6e7902c

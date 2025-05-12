@@ -1,0 +1,8 @@
+sxs-samurai_maiden_v196608.nfo	-	5434	1	0	0	0
+sxs-samurai_maiden_v196608.r00	-	50000000	1	5434	0	1
+sxs-samurai_maiden_v196608.r01	-	50000000	1	50005434	0	49
+sxs-samurai_maiden_v196608.r02	-	50000000	1	100005434	0	97
+sxs-samurai_maiden_v196608.r03	-	50000000	1	150005434	0	145
+sxs-samurai_maiden_v196608.r04	-	46882865	1	200005434	0	193
+sxs-samurai_maiden_v196608.rar	-	50000000	1	246888299	0	238
+sxs-samurai_maiden_v196608.sfv	-	246	1	296888299	0	286

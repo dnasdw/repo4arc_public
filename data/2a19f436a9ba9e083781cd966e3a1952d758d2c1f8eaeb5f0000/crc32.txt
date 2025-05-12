@@ -1,0 +1,5 @@
+lfc-mtp2_v65536.nfo	05358d16
+lfc-mtp2_v65536.r00	5f6da013
+lfc-mtp2_v65536.r01	feb1dc0d
+lfc-mtp2_v65536.rar	9356d4e4
+lfc-mtp2_v65536.sfv	d948e520

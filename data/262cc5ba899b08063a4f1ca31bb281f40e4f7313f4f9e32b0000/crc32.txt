@@ -1,0 +1,3 @@
+v-northgard_svadilfari_the_clan_of_the_horse_dlc.nfo	aa3878d4
+v-northgard_svadilfari_the_clan_of_the_horse_dlc.rar	495fd2ca
+v-northgard_svadilfari_the_clan_of_the_horse_dlc.sfv	fbaee60c

@@ -1,0 +1,3 @@
+lfc-mssplosionmanupd.nfo	-	3440	1	0	0	0
+lfc-mssplosionmanupd.rar	-	9724754	1	3440	0	1
+lfc-mssplosionmanupd.sfv	-	35	1	9728194	0	11

@@ -1,0 +1,4 @@
+sxs-jump_king_v131072.nfo	33b23ef3bb54036dff29d1aa16972d70
+sxs-jump_king_v131072.r00	b7edaf2903d61f76aaff6fad429119ae
+sxs-jump_king_v131072.rar	5818efda7c61fd0ed7a7a43bb7b0e066
+sxs-jump_king_v131072.sfv	e51dae04e4fdb38c67378e21ae03aa02

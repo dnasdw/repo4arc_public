@@ -1,0 +1,4 @@
+sxs-pixelbot_extreme.nfo	-	8084	1	0	0	0
+sxs-pixelbot_extreme.r00	-	51484203	1	8084	0	1
+sxs-pixelbot_extreme.rar	-	100000000	1	51492287	0	51
+sxs-pixelbot_extreme.sfv	-	70	1	151492287	0	147

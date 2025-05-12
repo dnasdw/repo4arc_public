@@ -1,0 +1,16 @@
+v-rad_v196608.nfo	53d47914
+v-rad_v196608.r00	fd139222
+v-rad_v196608.r01	7470cffd
+v-rad_v196608.r02	557fa9bf
+v-rad_v196608.r03	04c2ff02
+v-rad_v196608.r04	1a2e92a5
+v-rad_v196608.r05	49164615
+v-rad_v196608.r06	b4fcecd3
+v-rad_v196608.r07	207cedc7
+v-rad_v196608.r08	0458c82b
+v-rad_v196608.r09	47b755e2
+v-rad_v196608.r10	2f5bcc13
+v-rad_v196608.r11	a54d5667
+v-rad_v196608.r12	38bfee27
+v-rad_v196608.rar	e09a9aef
+v-rad_v196608.sfv	71410ea9

@@ -1,0 +1,12 @@
+lfc-muid.nfo	7a5b0c15
+lfc-muid.r00	0c39b1b0
+lfc-muid.r01	1fafd38a
+lfc-muid.r02	88c10ecc
+lfc-muid.r03	fd7f4909
+lfc-muid.r04	cd32afcf
+lfc-muid.r05	65333af6
+lfc-muid.r06	59b14aa6
+lfc-muid.r07	446399ea
+lfc-muid.r08	0bea2c6f
+lfc-muid.rar	21539553
+lfc-muid.sfv	4cbcfe7b

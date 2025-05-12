@@ -1,0 +1,15 @@
+sxs-atomicrops_v327680.nfo	88d4c2ad
+sxs-atomicrops_v327680.r00	7dac31f7
+sxs-atomicrops_v327680.r01	452c089f
+sxs-atomicrops_v327680.r02	58af803c
+sxs-atomicrops_v327680.r03	e97f7cbb
+sxs-atomicrops_v327680.r04	9c8acc21
+sxs-atomicrops_v327680.r05	d04b146f
+sxs-atomicrops_v327680.r06	2621d491
+sxs-atomicrops_v327680.r07	f2c7bf91
+sxs-atomicrops_v327680.r08	77e94644
+sxs-atomicrops_v327680.r09	968adb39
+sxs-atomicrops_v327680.r10	072ccd88
+sxs-atomicrops_v327680.r11	49b10d61
+sxs-atomicrops_v327680.rar	43b06cdd
+sxs-atomicrops_v327680.sfv	83f83ce1

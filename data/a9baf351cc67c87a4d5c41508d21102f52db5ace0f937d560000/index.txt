@@ -1,0 +1,4 @@
+hr-asxbcv1.nfo	-	20150	1	0	0	0
+hr-asxbcv1.r00	-	31472793	1	20150	0	1
+hr-asxbcv1.rar	-	50000000	1	31492943	0	32
+hr-asxbcv1.sfv	-	50	1	81492943	0	80

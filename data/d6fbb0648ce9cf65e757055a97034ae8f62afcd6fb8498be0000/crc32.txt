@@ -1,0 +1,10 @@
+sxs-alwas_legacy_v327680.nfo	ca7732dd
+sxs-alwas_legacy_v327680.r00	ab3f6d8c
+sxs-alwas_legacy_v327680.r01	f8536ec8
+sxs-alwas_legacy_v327680.r02	64c7928f
+sxs-alwas_legacy_v327680.r03	58386b7b
+sxs-alwas_legacy_v327680.r04	6d3f6b92
+sxs-alwas_legacy_v327680.r05	d3dc03e0
+sxs-alwas_legacy_v327680.r06	30dc3daa
+sxs-alwas_legacy_v327680.rar	8eb8c226
+sxs-alwas_legacy_v327680.sfv	8c4bc1b1

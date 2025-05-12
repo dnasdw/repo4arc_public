@@ -1,0 +1,4 @@
+sxs-slipstream_v196608.nfo	df8a15b2
+sxs-slipstream_v196608.r00	6c5afa52
+sxs-slipstream_v196608.rar	d22da4ca
+sxs-slipstream_v196608.sfv	75126de4

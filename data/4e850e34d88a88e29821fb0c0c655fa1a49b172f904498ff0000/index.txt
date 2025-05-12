@@ -1,0 +1,14 @@
+sxs-blaloon_blalympia_2.nfo	-	4496	1	0	0	0
+sxs-blaloon_blalympia_2.r00	-	100000000	1	4496	0	1
+sxs-blaloon_blalympia_2.r01	-	100000000	1	100004496	0	97
+sxs-blaloon_blalympia_2.r02	-	100000000	1	200004496	0	193
+sxs-blaloon_blalympia_2.r03	-	100000000	1	300004496	0	289
+sxs-blaloon_blalympia_2.r04	-	100000000	1	400004496	0	385
+sxs-blaloon_blalympia_2.r05	-	100000000	1	500004496	0	481
+sxs-blaloon_blalympia_2.r06	-	100000000	1	62251264	1	60
+sxs-blaloon_blalympia_2.r07	-	100000000	1	162251264	1	156
+sxs-blaloon_blalympia_2.r08	-	100000000	1	262251264	1	252
+sxs-blaloon_blalympia_2.r09	-	100000000	1	362251264	1	348
+sxs-blaloon_blalympia_2.r10	-	79571855	1	462251264	1	444
+sxs-blaloon_blalympia_2.rar	-	100000000	1	4074383	2	4
+sxs-blaloon_blalympia_2.sfv	-	456	1	104074383	2	100

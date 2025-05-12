@@ -1,0 +1,13 @@
+v-snrpg_v131072.nfo	fadf0070
+v-snrpg_v131072.r00	166d338f
+v-snrpg_v131072.r01	590fa75f
+v-snrpg_v131072.r02	c0a35462
+v-snrpg_v131072.r03	b8f7ab1e
+v-snrpg_v131072.r04	45b5e584
+v-snrpg_v131072.r05	16edfa45
+v-snrpg_v131072.r06	89a27845
+v-snrpg_v131072.r07	6baa1365
+v-snrpg_v131072.r08	93d43f6c
+v-snrpg_v131072.r09	4efc4bf7
+v-snrpg_v131072.rar	fb50f846
+v-snrpg_v131072.sfv	226f27fa

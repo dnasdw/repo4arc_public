@@ -1,0 +1,9 @@
+sxs-super_daryl_deluxe_v262144.nfo	-	4887	1	0	0	0
+sxs-super_daryl_deluxe_v262144.r00	-	50000000	1	4887	0	1
+sxs-super_daryl_deluxe_v262144.r01	-	50000000	1	50004887	0	49
+sxs-super_daryl_deluxe_v262144.r02	-	50000000	1	100004887	0	97
+sxs-super_daryl_deluxe_v262144.r03	-	50000000	1	150004887	0	145
+sxs-super_daryl_deluxe_v262144.r04	-	50000000	1	200004887	0	193
+sxs-super_daryl_deluxe_v262144.r05	-	20620751	1	250004887	0	241
+sxs-super_daryl_deluxe_v262144.rar	-	50000000	1	270625638	0	261
+sxs-super_daryl_deluxe_v262144.sfv	-	315	1	320625638	0	309

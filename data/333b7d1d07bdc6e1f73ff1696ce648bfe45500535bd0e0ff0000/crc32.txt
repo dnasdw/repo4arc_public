@@ -1,0 +1,5 @@
+v-doom_1993_v458752_dlc.nfo	265a2ecc
+v-doom_1993_v458752_dlc.r00	a5853a80
+v-doom_1993_v458752_dlc.r01	5d22e8f1
+v-doom_1993_v458752_dlc.rar	171a54d9
+v-doom_1993_v458752_dlc.sfv	23fb51d8

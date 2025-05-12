@@ -1,0 +1,4 @@
+lfc-ares.nfo	948e5e6ec9d10094a72dc7b13d65bd9b
+lfc-ares.r00	dcc471a5b2db1ec0c9894f6596301a68
+lfc-ares.rar	e6f732eae69f2aa580738603cf5d377c
+lfc-ares.sfv	a04a83d477ad47f581f99c90c2b06dcf

@@ -1,0 +1,4 @@
+sxs-genseisuikoden_plus_v131072.nfo	-	4340	1	0	0	0
+sxs-genseisuikoden_plus_v131072.r00	-	87243180	1	4340	0	1
+sxs-genseisuikoden_plus_v131072.rar	-	100000000	1	87247520	0	85
+sxs-genseisuikoden_plus_v131072.sfv	-	92	1	187247520	0	181

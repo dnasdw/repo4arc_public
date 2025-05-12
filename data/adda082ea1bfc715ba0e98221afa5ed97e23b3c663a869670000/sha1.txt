@@ -1,0 +1,4 @@
+sxs-poosh_xl_v131072.nfo	d8ebbb4393467b548aaee38d672836982f46c224
+sxs-poosh_xl_v131072.r00	88d64be14b2d8f4527c46ab22d76de0e2d7886af
+sxs-poosh_xl_v131072.rar	3ac884bc0b7a32dc79cd5e2e9c5a929b912f9a24
+sxs-poosh_xl_v131072.sfv	d8038cb69c8e2a83deb8e12341a86e750aa76bbf

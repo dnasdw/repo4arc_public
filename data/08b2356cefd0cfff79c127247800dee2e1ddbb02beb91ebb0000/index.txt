@@ -1,0 +1,15 @@
+v-diablo_ii_resurrected_v1441792.nfo	-	6526	1	0	0	0
+v-diablo_ii_resurrected_v1441792.r00	-	100000000	1	6526	0	1
+v-diablo_ii_resurrected_v1441792.r01	-	100000000	1	100006526	0	97
+v-diablo_ii_resurrected_v1441792.r02	-	100000000	1	200006526	0	193
+v-diablo_ii_resurrected_v1441792.r03	-	100000000	1	300006526	0	289
+v-diablo_ii_resurrected_v1441792.r04	-	100000000	1	400006526	0	385
+v-diablo_ii_resurrected_v1441792.r05	-	100000000	1	500006526	0	481
+v-diablo_ii_resurrected_v1441792.r06	-	100000000	1	62251264	1	60
+v-diablo_ii_resurrected_v1441792.r07	-	100000000	1	162251264	1	156
+v-diablo_ii_resurrected_v1441792.r08	-	100000000	1	262251264	1	252
+v-diablo_ii_resurrected_v1441792.r09	-	100000000	1	362251264	1	348
+v-diablo_ii_resurrected_v1441792.r10	-	100000000	1	462251264	1	444
+v-diablo_ii_resurrected_v1441792.r11	-	49775833	1	24502528	2	24
+v-diablo_ii_resurrected_v1441792.rar	-	100000000	1	74278361	2	72
+v-diablo_ii_resurrected_v1441792.sfv	-	611	1	174278361	2	168

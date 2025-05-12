@@ -1,0 +1,9 @@
+hr-kwaidan.nfo	de9fb71d
+hr-kwaidan.r00	0117969d
+hr-kwaidan.r01	4bc85f93
+hr-kwaidan.r02	6c213841
+hr-kwaidan.r03	c8e03100
+hr-kwaidan.r04	18edd572
+hr-kwaidan.r05	90cd6dfa
+hr-kwaidan.rar	d2fa77be
+hr-kwaidan.sfv	7ce5aae9

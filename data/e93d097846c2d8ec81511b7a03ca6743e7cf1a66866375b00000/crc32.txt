@@ -1,0 +1,5 @@
+sxs-barrage_fantasia.nfo	7bfe61ca
+sxs-barrage_fantasia.r00	8ac8d7b2
+sxs-barrage_fantasia.r01	077836ec
+sxs-barrage_fantasia.rar	0767e700
+sxs-barrage_fantasia.sfv	eb0a381a

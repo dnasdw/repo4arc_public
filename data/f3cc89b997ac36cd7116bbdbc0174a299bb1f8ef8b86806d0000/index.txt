@@ -1,0 +1,16 @@
+sxs-stories_in_glass_winter.nfo	-	4340	1	0	0	0
+sxs-stories_in_glass_winter.r00	-	100000000	1	4340	0	1
+sxs-stories_in_glass_winter.r01	-	100000000	1	100004340	0	97
+sxs-stories_in_glass_winter.r02	-	100000000	1	200004340	0	193
+sxs-stories_in_glass_winter.r03	-	100000000	1	300004340	0	289
+sxs-stories_in_glass_winter.r04	-	100000000	1	400004340	0	385
+sxs-stories_in_glass_winter.r05	-	100000000	1	500004340	0	481
+sxs-stories_in_glass_winter.r06	-	100000000	1	62251264	1	60
+sxs-stories_in_glass_winter.r07	-	100000000	1	162251264	1	156
+sxs-stories_in_glass_winter.r08	-	100000000	1	262251264	1	252
+sxs-stories_in_glass_winter.r09	-	100000000	1	362251264	1	348
+sxs-stories_in_glass_winter.r10	-	100000000	1	462251264	1	444
+sxs-stories_in_glass_winter.r11	-	100000000	1	24502528	2	24
+sxs-stories_in_glass_winter.r12	-	86579320	1	124502528	2	120
+sxs-stories_in_glass_winter.rar	-	100000000	1	211081848	2	203
+sxs-stories_in_glass_winter.sfv	-	588	1	311081848	2	299

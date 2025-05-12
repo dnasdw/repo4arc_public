@@ -1,0 +1,3 @@
+sxs-dnf_duel_whos_next_dlc_1_spectre.nfo	7f045f359233e39a6e0acfa821b8a2ef
+sxs-dnf_duel_whos_next_dlc_1_spectre.rar	ab7ee927f00de19568381ae06090bd04
+sxs-dnf_duel_whos_next_dlc_1_spectre.sfv	da06b8276eac5e4c78c3c4f91b620c76

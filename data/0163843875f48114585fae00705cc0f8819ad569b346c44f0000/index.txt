@@ -1,0 +1,3 @@
+sxs-mbcp.nfo	-	4340	1	0	0	0
+sxs-mbcp.rar	-	23446314	1	4340	0	1
+sxs-mbcp.sfv	-	23	1	23450654	0	24

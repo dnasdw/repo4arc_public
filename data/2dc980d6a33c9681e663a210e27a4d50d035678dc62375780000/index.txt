@@ -1,0 +1,3 @@
+sxs-street_outlaws_2_winner_takes_all_digital_deluxe_dlc.nfo	-	6368	1	0	0	0
+sxs-street_outlaws_2_winner_takes_all_digital_deluxe_dlc.rar	-	104169	1	6368	0	1
+sxs-street_outlaws_2_winner_takes_all_digital_deluxe_dlc.sfv	-	71	1	110537	0	2

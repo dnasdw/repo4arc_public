@@ -1,0 +1,7 @@
+sxs-instant_sports_summer_games_v65536.nfo	-	4029	1	0	0	0
+sxs-instant_sports_summer_games_v65536.r00	-	50000000	1	4029	0	1
+sxs-instant_sports_summer_games_v65536.r01	-	50000000	1	50004029	0	49
+sxs-instant_sports_summer_games_v65536.r02	-	50000000	1	100004029	0	97
+sxs-instant_sports_summer_games_v65536.r03	-	32715627	1	150004029	0	145
+sxs-instant_sports_summer_games_v65536.rar	-	50000000	1	182719656	0	177
+sxs-instant_sports_summer_games_v65536.sfv	-	265	1	232719656	0	225

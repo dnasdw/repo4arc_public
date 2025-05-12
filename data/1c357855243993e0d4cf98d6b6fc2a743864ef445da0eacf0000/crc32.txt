@@ -1,0 +1,11 @@
+sxs-party_friends.nfo	0a6825b2
+sxs-party_friends.r00	d1df740c
+sxs-party_friends.r01	5fc8da20
+sxs-party_friends.r02	59b60ee5
+sxs-party_friends.r03	a0880021
+sxs-party_friends.r04	66270572
+sxs-party_friends.r05	6576f109
+sxs-party_friends.r06	d07f4345
+sxs-party_friends.r07	3ace7e7f
+sxs-party_friends.rar	f2ec8135
+sxs-party_friends.sfv	8f32c5c4

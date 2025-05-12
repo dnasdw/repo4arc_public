@@ -1,0 +1,12 @@
+sxs-demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_v65536.nfo	-	7694	1	0	0	0
+sxs-demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_v65536.r00	-	50000000	1	7694	0	1
+sxs-demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_v65536.r01	-	50000000	1	50007694	0	49
+sxs-demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_v65536.r02	-	50000000	1	100007694	0	97
+sxs-demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_v65536.r03	-	50000000	1	150007694	0	145
+sxs-demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_v65536.r04	-	50000000	1	200007694	0	193
+sxs-demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_v65536.r05	-	50000000	1	250007694	0	241
+sxs-demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_v65536.r06	-	50000000	1	300007694	0	289
+sxs-demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_v65536.r07	-	50000000	1	350007694	0	337
+sxs-demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_v65536.r08	-	6339749	1	400007694	0	385
+sxs-demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_v65536.rar	-	50000000	1	406347443	0	392
+sxs-demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_v65536.sfv	-	790	1	456347443	0	440

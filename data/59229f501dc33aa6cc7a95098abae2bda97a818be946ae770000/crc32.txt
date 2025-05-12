@@ -1,0 +1,7 @@
+sxs-ttv2.nfo	38552095
+sxs-ttv2.r00	50509271
+sxs-ttv2.r01	d5f0f466
+sxs-ttv2.r02	7fedb128
+sxs-ttv2.r03	e4bfaf9f
+sxs-ttv2.rar	dce704ba
+sxs-ttv2.sfv	873ed71f

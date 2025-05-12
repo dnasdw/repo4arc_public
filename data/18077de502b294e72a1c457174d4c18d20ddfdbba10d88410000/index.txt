@@ -1,0 +1,16 @@
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.nfo	-	6446	1	0	0	0
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r00	-	100000000	1	6446	0	1
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r01	-	100000000	1	100006446	0	97
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r02	-	100000000	1	200006446	0	193
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r03	-	100000000	1	300006446	0	289
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r04	-	100000000	1	400006446	0	385
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r05	-	100000000	1	500006446	0	481
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r06	-	100000000	1	62251264	1	60
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r07	-	100000000	1	162251264	1	156
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r08	-	100000000	1	262251264	1	252
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r09	-	100000000	1	362251264	1	348
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r10	-	100000000	1	462251264	1	444
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r11	-	100000000	1	24502528	2	24
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.r12	-	86577888	1	124502528	2	120
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.rar	-	100000000	1	211080416	2	203
+sxs-asterix_and_obelix_xxxl_the_ram_from_hibernia_v262144.sfv	-	1008	1	311080416	2	299

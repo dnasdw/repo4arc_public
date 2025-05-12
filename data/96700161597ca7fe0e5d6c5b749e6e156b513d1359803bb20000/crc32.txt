@@ -1,0 +1,14 @@
+sxs-breeder_homegrown_directors_cut.nfo	f2e4110c
+sxs-breeder_homegrown_directors_cut.r00	6351acf3
+sxs-breeder_homegrown_directors_cut.r01	b92e661b
+sxs-breeder_homegrown_directors_cut.r02	aa754ff9
+sxs-breeder_homegrown_directors_cut.r03	af31c999
+sxs-breeder_homegrown_directors_cut.r04	b5603117
+sxs-breeder_homegrown_directors_cut.r05	a0a3bfb2
+sxs-breeder_homegrown_directors_cut.r06	1d86cb2d
+sxs-breeder_homegrown_directors_cut.r07	32cdd113
+sxs-breeder_homegrown_directors_cut.r08	e9efa95a
+sxs-breeder_homegrown_directors_cut.r09	c088ab76
+sxs-breeder_homegrown_directors_cut.r10	77b354ec
+sxs-breeder_homegrown_directors_cut.rar	36a293a3
+sxs-breeder_homegrown_directors_cut.sfv	c48e37c4

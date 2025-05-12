@@ -1,0 +1,7 @@
+sxs-trraria_v1048576.nfo	ac7aa9ca0a151c20c116e3b91a127c17
+sxs-trraria_v1048576.r00	96aa54d3cd5a5e74bc5e5c9d6efc66af
+sxs-trraria_v1048576.r01	f3ffd036980c3613e948e96cc4d71473
+sxs-trraria_v1048576.r02	827fabeb794cf21ccc0c972aeb114a6e
+sxs-trraria_v1048576.r03	54add3407835c6dd5149b7c0a177b64a
+sxs-trraria_v1048576.rar	2a779eaccca59ea0df6ac97d679288d3
+sxs-trraria_v1048576.sfv	b3ac50c132b1e0cffbb2fcc469d39669

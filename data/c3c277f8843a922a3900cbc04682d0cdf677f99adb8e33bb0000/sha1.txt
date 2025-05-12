@@ -1,0 +1,6 @@
+sxs-pikuniku_v196608.nfo	681ef27711ecf69243bb7d007d036990ca919c84
+sxs-pikuniku_v196608.r00	fa3d63451a87261e7e27973217b3eddaaf301094
+sxs-pikuniku_v196608.r01	b1ecdbb74ae17e67ce150f9c8ea35e1f22d561ec
+sxs-pikuniku_v196608.r02	6dc4cc0e9611a7b4cbfa1a65d08532d6e4efcda6
+sxs-pikuniku_v196608.rar	c7d5a95717b6e26ddce15a40c2c3d20972f47ec2
+sxs-pikuniku_v196608.sfv	a4b7084083ec3ad19d07a86df7ef93aff5c87b13

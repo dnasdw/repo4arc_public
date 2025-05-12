@@ -1,0 +1,16 @@
+lfc-undu.nfo	949fdc5d
+lfc-undu.r00	14a6729c
+lfc-undu.r01	c9310146
+lfc-undu.r02	c081636a
+lfc-undu.r03	a9f09c93
+lfc-undu.r04	26e9c212
+lfc-undu.r05	6451d602
+lfc-undu.r06	579dc0ba
+lfc-undu.r07	bbd0d06c
+lfc-undu.r08	d374dbe8
+lfc-undu.r09	b8d2ee68
+lfc-undu.r10	d94513cf
+lfc-undu.r11	1b2af755
+lfc-undu.r12	840197de
+lfc-undu.rar	d7a4213a
+lfc-undu.sfv	4c365655

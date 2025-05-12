@@ -1,0 +1,4 @@
+sxs-chess_brain.nfo	63a07767
+sxs-chess_brain.r00	8384148b
+sxs-chess_brain.rar	f30f0d25
+sxs-chess_brain.sfv	9b75b03e

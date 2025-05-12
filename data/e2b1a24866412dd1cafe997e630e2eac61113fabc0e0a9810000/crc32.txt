@@ -1,0 +1,13 @@
+i-bme2_v65536.nfo	70ff7e76
+i-bme2_v65536.r00	a39f993b
+i-bme2_v65536.r01	2df95744
+i-bme2_v65536.r02	b0969802
+i-bme2_v65536.r03	223caae8
+i-bme2_v65536.r04	6ed836bd
+i-bme2_v65536.r05	8547717f
+i-bme2_v65536.r06	0bd71e86
+i-bme2_v65536.r07	ef8cfb9a
+i-bme2_v65536.r08	f52b26df
+i-bme2_v65536.r09	1390809c
+i-bme2_v65536.rar	2502ada1
+i-bme2_v65536.sfv	2c3edd21

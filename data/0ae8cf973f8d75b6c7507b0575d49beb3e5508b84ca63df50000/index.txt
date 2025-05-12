@@ -1,0 +1,14 @@
+sxs-100_doors_escape_from_prison.nfo	-	7382	1	0	0	0
+sxs-100_doors_escape_from_prison.r00	-	100000000	1	7382	0	1
+sxs-100_doors_escape_from_prison.r01	-	100000000	1	100007382	0	97
+sxs-100_doors_escape_from_prison.r02	-	100000000	1	200007382	0	193
+sxs-100_doors_escape_from_prison.r03	-	100000000	1	300007382	0	289
+sxs-100_doors_escape_from_prison.r04	-	100000000	1	400007382	0	385
+sxs-100_doors_escape_from_prison.r05	-	100000000	1	500007382	0	481
+sxs-100_doors_escape_from_prison.r06	-	100000000	1	62251264	1	60
+sxs-100_doors_escape_from_prison.r07	-	100000000	1	162251264	1	156
+sxs-100_doors_escape_from_prison.r08	-	100000000	1	262251264	1	252
+sxs-100_doors_escape_from_prison.r09	-	100000000	1	362251264	1	348
+sxs-100_doors_escape_from_prison.r10	-	47789916	1	462251264	1	444
+sxs-100_doors_escape_from_prison.rar	-	100000000	1	510041180	1	490
+sxs-100_doors_escape_from_prison.sfv	-	564	1	72737024	2	70

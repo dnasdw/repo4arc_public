@@ -1,0 +1,4 @@
+sxs-wargroove_v458752.nfo	19cb4a52b2bb26ba2db22eeec87c3aff42e76e4a
+sxs-wargroove_v458752.r00	3763afb79754ba6633f9515b606fc19b4faf5589
+sxs-wargroove_v458752.rar	47cdb0d3ee48c810b6ef00d59f9f6f5c1a52e69c
+sxs-wargroove_v458752.sfv	f3b5e32e0b628dd02183bf20f91ccd848ca50a6a

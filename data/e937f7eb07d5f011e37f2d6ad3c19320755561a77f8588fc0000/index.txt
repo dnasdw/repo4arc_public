@@ -1,0 +1,3 @@
+sxs-breeder_homegrown_directors_cut_v65536.nfo	-	4498	1	0	0	0
+sxs-breeder_homegrown_directors_cut_v65536.rar	-	28123503	1	4498	0	1
+sxs-breeder_homegrown_directors_cut_v65536.sfv	-	57	1	28128001	0	28

@@ -1,0 +1,4 @@
+sxs-fifa_20_legacy_edition_v65536.nfo	-	3950	1	0	0	0
+sxs-fifa_20_legacy_edition_v65536.r00	-	25210771	1	3950	0	1
+sxs-fifa_20_legacy_edition_v65536.rar	-	50000000	1	25214721	0	26
+sxs-fifa_20_legacy_edition_v65536.sfv	-	96	1	75214721	0	74

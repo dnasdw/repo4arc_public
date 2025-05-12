@@ -1,0 +1,4 @@
+lfc-subr.nfo	68e90e97
+lfc-subr.r00	8454364e
+lfc-subr.rar	1607497a
+lfc-subr.sfv	c47843f6

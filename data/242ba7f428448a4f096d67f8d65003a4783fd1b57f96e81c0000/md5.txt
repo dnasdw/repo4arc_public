@@ -1,0 +1,5 @@
+sxs-kombinera_v65536.nfo	d6b234a9a97dfef86283f82c55037c6c
+sxs-kombinera_v65536.r00	3e58433628081b65fa000164ae0fbba4
+sxs-kombinera_v65536.r01	f505f7190b562a90ad1d2d4e5f489a41
+sxs-kombinera_v65536.rar	424361375d7bfe6b13c856be82d3055f
+sxs-kombinera_v65536.sfv	d5ecfd541bf1400ab8c07b414d943081

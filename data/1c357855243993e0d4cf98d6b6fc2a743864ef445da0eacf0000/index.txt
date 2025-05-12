@@ -1,0 +1,11 @@
+sxs-party_friends.nfo	-	5120	1	0	0	0
+sxs-party_friends.r00	-	100000000	1	5120	0	1
+sxs-party_friends.r01	-	100000000	1	100005120	0	97
+sxs-party_friends.r02	-	100000000	1	200005120	0	193
+sxs-party_friends.r03	-	100000000	1	300005120	0	289
+sxs-party_friends.r04	-	100000000	1	400005120	0	385
+sxs-party_friends.r05	-	100000000	1	500005120	0	481
+sxs-party_friends.r06	-	100000000	1	62251264	1	60
+sxs-party_friends.r07	-	3799173	1	162251264	1	156
+sxs-party_friends.rar	-	100000000	1	166050437	1	160
+sxs-party_friends.sfv	-	288	1	266050437	1	256

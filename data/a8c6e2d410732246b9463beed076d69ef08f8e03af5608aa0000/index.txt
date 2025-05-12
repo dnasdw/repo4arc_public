@@ -1,0 +1,13 @@
+v-fighting_ex_layer_another_dash_v196608.nfo	-	4732	1	0	0	0
+v-fighting_ex_layer_another_dash_v196608.r00	-	50000000	1	4732	0	1
+v-fighting_ex_layer_another_dash_v196608.r01	-	50000000	1	50004732	0	49
+v-fighting_ex_layer_another_dash_v196608.r02	-	50000000	1	100004732	0	97
+v-fighting_ex_layer_another_dash_v196608.r03	-	50000000	1	150004732	0	145
+v-fighting_ex_layer_another_dash_v196608.r04	-	50000000	1	200004732	0	193
+v-fighting_ex_layer_another_dash_v196608.r05	-	50000000	1	250004732	0	241
+v-fighting_ex_layer_another_dash_v196608.r06	-	50000000	1	300004732	0	289
+v-fighting_ex_layer_another_dash_v196608.r07	-	50000000	1	350004732	0	337
+v-fighting_ex_layer_another_dash_v196608.r08	-	50000000	1	400004732	0	385
+v-fighting_ex_layer_another_dash_v196608.r09	-	16739084	1	450004732	0	433
+v-fighting_ex_layer_another_dash_v196608.rar	-	50000000	1	466743816	0	449
+v-fighting_ex_layer_another_dash_v196608.sfv	-	605	1	516743816	0	497

@@ -1,0 +1,3 @@
+sxs-splatter_zombiecalypse_now_v65536.nfo	-	6836	1	0	0	0
+sxs-splatter_zombiecalypse_now_v65536.rar	-	36495416	1	6836	0	1
+sxs-splatter_zombiecalypse_now_v65536.sfv	-	52	1	36502252	0	36

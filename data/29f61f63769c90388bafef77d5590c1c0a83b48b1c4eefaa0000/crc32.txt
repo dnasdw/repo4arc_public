@@ -1,0 +1,11 @@
+i-rolld.nfo	6b04b63a
+i-rolld.r00	aa059ad2
+i-rolld.r01	f2d8083e
+i-rolld.r02	e4b106a4
+i-rolld.r03	b99548d4
+i-rolld.r04	75372bef
+i-rolld.r05	d4bf9743
+i-rolld.r06	4d90290b
+i-rolld.r07	3fbfb09a
+i-rolld.rar	d03c8a71
+i-rolld.sfv	00e0f10a

@@ -1,0 +1,10 @@
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v262144.nfo	-	7928	1	0	0	0
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v262144.r00	-	100000000	1	7928	0	1
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v262144.r01	-	100000000	1	100007928	0	97
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v262144.r02	-	100000000	1	200007928	0	193
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v262144.r03	-	100000000	1	300007928	0	289
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v262144.r04	-	100000000	1	400007928	0	385
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v262144.r05	-	100000000	1	500007928	0	481
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v262144.r06	-	83722321	1	62251264	1	60
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v262144.rar	-	100000000	1	145973585	1	140
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v262144.sfv	-	640	1	245973585	1	236

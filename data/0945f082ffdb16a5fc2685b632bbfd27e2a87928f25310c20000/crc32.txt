@@ -1,0 +1,6 @@
+v-ys_ix_monstrum_nox_v196608.nfo	f94d4fbc
+v-ys_ix_monstrum_nox_v196608.r00	821f9233
+v-ys_ix_monstrum_nox_v196608.r01	49bb52d3
+v-ys_ix_monstrum_nox_v196608.r02	016a7311
+v-ys_ix_monstrum_nox_v196608.rar	dc67ac78
+v-ys_ix_monstrum_nox_v196608.sfv	a7d133bb

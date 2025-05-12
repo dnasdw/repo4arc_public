@@ -1,0 +1,11 @@
+lfc-voxelsword.nfo	ab246b2326ddb9cebfe4fd5ea0925974
+lfc-voxelsword.r00	9111a2aa6913b153fa1c32674b825963
+lfc-voxelsword.r01	65607d4d36650513ddb796e5a11877b0
+lfc-voxelsword.r02	27b00638515b00d64dc69b501840ed9b
+lfc-voxelsword.r03	793dc897a101e8be1599b8efefbf36fe
+lfc-voxelsword.r04	4ac155481edf1f55eb2ba52bbc8350c6
+lfc-voxelsword.r05	6c7e6037bb4c855e985256d0f1ae5d18
+lfc-voxelsword.r06	a8b596b10b49e55a2281904c56467ef6
+lfc-voxelsword.r07	f55865b4b650d9b84ecdc82411e03976
+lfc-voxelsword.rar	e64956d8d74f1fd5169eb4bb4a61bbf6
+lfc-voxelsword.sfv	e18a968608a6c045ec38aca9cfa14ae0

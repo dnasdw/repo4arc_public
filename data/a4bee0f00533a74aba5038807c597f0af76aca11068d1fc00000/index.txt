@@ -1,0 +1,3 @@
+v-gunvolt_chronicles_lolawear_dlc.nfo	-	7306	1	0	0	0
+v-gunvolt_chronicles_lolawear_dlc.rar	-	1283833	1	7306	0	1
+v-gunvolt_chronicles_lolawear_dlc.sfv	-	48	1	1291139	0	3

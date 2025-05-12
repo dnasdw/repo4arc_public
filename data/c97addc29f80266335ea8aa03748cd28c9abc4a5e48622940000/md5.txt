@@ -1,0 +1,4 @@
+sxs-crosscode_v458752.nfo	adac4adc1438e339a9ce8d22f08e8ded
+sxs-crosscode_v458752.r00	dfda006e91e479b043d11f9c02c4e986
+sxs-crosscode_v458752.rar	27e0a4470efa474bb7c1b41c854ab95c
+sxs-crosscode_v458752.sfv	4c0d61599105fb57ea8498e31949e2c0

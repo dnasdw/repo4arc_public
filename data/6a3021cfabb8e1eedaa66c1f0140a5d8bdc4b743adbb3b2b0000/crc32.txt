@@ -1,0 +1,16 @@
+l-dtsc.nfo	83463e69
+l-dtsc.r00	47af71fe
+l-dtsc.r01	95a5a3b4
+l-dtsc.r02	8f90c1b6
+l-dtsc.r03	b389014d
+l-dtsc.r04	b9cfa685
+l-dtsc.r05	694f0617
+l-dtsc.r06	591c24f0
+l-dtsc.r07	638e300f
+l-dtsc.r08	14cf2976
+l-dtsc.r09	70abc538
+l-dtsc.r10	824e0e79
+l-dtsc.r11	cc0eba75
+l-dtsc.r12	e1cd32f3
+l-dtsc.rar	53e3ea0d
+l-dtsc.sfv	d2d01b59

@@ -1,0 +1,15 @@
+lfc-laby.nfo	a6ece408
+lfc-laby.r00	90931ab2
+lfc-laby.r01	76cdf1c5
+lfc-laby.r02	22ee68c0
+lfc-laby.r03	d69ba8b9
+lfc-laby.r04	33e1ae46
+lfc-laby.r05	903cddc4
+lfc-laby.r06	f734a8d5
+lfc-laby.r07	cef83d54
+lfc-laby.r08	8dbaf7e7
+lfc-laby.r09	73d29a12
+lfc-laby.r10	b46f41cd
+lfc-laby.r11	6096f254
+lfc-laby.rar	2a3792f8
+lfc-laby.sfv	f9adc12d

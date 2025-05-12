@@ -1,0 +1,4 @@
+sxs-the_jackbox_party_pack_2_v65536.nfo	c8fc0c35ffa8f4fc7a87a0eb9adb27bb
+sxs-the_jackbox_party_pack_2_v65536.r00	80d37f26dfa7184b8c59aaa3db496a12
+sxs-the_jackbox_party_pack_2_v65536.rar	dc4fda42f9f9434c14a6160ebdf52f17
+sxs-the_jackbox_party_pack_2_v65536.sfv	617fbc96bf4e9b40bcbc4acff97d0900

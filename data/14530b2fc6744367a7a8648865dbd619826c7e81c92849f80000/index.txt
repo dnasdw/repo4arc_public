@@ -1,0 +1,3 @@
+sxs-animal_crossing_new_horizons_island_transfer_tool.nfo	-	4106	1	0	0	0
+sxs-animal_crossing_new_horizons_island_transfer_tool.rar	-	43046977	1	4106	0	1
+sxs-animal_crossing_new_horizons_island_transfer_tool.sfv	-	68	1	43051083	0	43

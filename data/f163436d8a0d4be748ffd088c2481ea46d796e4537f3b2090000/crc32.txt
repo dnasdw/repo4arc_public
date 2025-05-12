@@ -1,0 +1,9 @@
+lfc-tor2.nfo	2752006d
+lfc-tor2.r00	25bc1ab7
+lfc-tor2.r01	7c836eec
+lfc-tor2.r02	9d71e97f
+lfc-tor2.r03	ef182270
+lfc-tor2.r04	c90135b0
+lfc-tor2.r05	16162178
+lfc-tor2.rar	d6bf8259
+lfc-tor2.sfv	df2e8235

@@ -1,0 +1,14 @@
+lfc-ohor.nfo	9f923e66
+lfc-ohor.r00	0a59a6c4
+lfc-ohor.r01	7b16370c
+lfc-ohor.r02	98c59052
+lfc-ohor.r03	daf0d23b
+lfc-ohor.r04	39b53b5b
+lfc-ohor.r05	1a4a7363
+lfc-ohor.r06	eec37fa6
+lfc-ohor.r07	d32d036c
+lfc-ohor.r08	1fb3ddd4
+lfc-ohor.r09	a48066aa
+lfc-ohor.r10	8d755921
+lfc-ohor.rar	58ad4845
+lfc-ohor.sfv	b3494111

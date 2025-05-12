@@ -1,0 +1,16 @@
+sxs-world_to_the_west_v65536.nfo	79210af5
+sxs-world_to_the_west_v65536.r00	3d7b00cd
+sxs-world_to_the_west_v65536.r01	b030a3a9
+sxs-world_to_the_west_v65536.r02	ed90f879
+sxs-world_to_the_west_v65536.r03	5d21f5e8
+sxs-world_to_the_west_v65536.r04	ae527e28
+sxs-world_to_the_west_v65536.r05	bd30dc73
+sxs-world_to_the_west_v65536.r06	a0d93b67
+sxs-world_to_the_west_v65536.r07	46013319
+sxs-world_to_the_west_v65536.r08	f91f902c
+sxs-world_to_the_west_v65536.r09	7429bef3
+sxs-world_to_the_west_v65536.r10	f5a3092f
+sxs-world_to_the_west_v65536.r11	81776927
+sxs-world_to_the_west_v65536.r12	20b842f9
+sxs-world_to_the_west_v65536.rar	2b5eea9d
+sxs-world_to_the_west_v65536.sfv	697ac40d

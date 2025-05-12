@@ -1,0 +1,6 @@
+v-haiku_the_robot_v196608.nfo	9ea69608
+v-haiku_the_robot_v196608.r00	a96632f0
+v-haiku_the_robot_v196608.r01	bde4f3ac
+v-haiku_the_robot_v196608.r02	a607d35e
+v-haiku_the_robot_v196608.rar	4f27afda
+v-haiku_the_robot_v196608.sfv	4d90476a

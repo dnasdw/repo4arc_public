@@ -1,0 +1,6 @@
+sxs-lines_x.nfo	-	3794	1	0	0	0
+sxs-lines_x.r00	-	50000000	1	3794	0	1
+sxs-lines_x.r01	-	50000000	1	50003794	0	49
+sxs-lines_x.r02	-	26759460	1	100003794	0	97
+sxs-lines_x.rar	-	50000000	1	126763254	0	123
+sxs-lines_x.sfv	-	104	1	176763254	0	171

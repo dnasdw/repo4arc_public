@@ -1,0 +1,6 @@
+sxs-railway_empire_2_nintendo_switch_edition_v131072.nfo	-	7772	1	0	0	0
+sxs-railway_empire_2_nintendo_switch_edition_v131072.r00	-	100000000	1	7772	0	1
+sxs-railway_empire_2_nintendo_switch_edition_v131072.r01	-	100000000	1	100007772	0	97
+sxs-railway_empire_2_nintendo_switch_edition_v131072.r02	-	78790864	1	200007772	0	193
+sxs-railway_empire_2_nintendo_switch_edition_v131072.rar	-	100000000	1	278798636	0	269
+sxs-railway_empire_2_nintendo_switch_edition_v131072.sfv	-	268	1	378798636	0	365

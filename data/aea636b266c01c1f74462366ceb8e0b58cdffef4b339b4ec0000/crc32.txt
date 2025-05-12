@@ -1,0 +1,5 @@
+v-dcs_justice_league_cosmic_chaos_v65536.nfo	2560b058
+v-dcs_justice_league_cosmic_chaos_v65536.r00	691c4138
+v-dcs_justice_league_cosmic_chaos_v65536.r01	2a078845
+v-dcs_justice_league_cosmic_chaos_v65536.rar	8a5cd1f6
+v-dcs_justice_league_cosmic_chaos_v65536.sfv	8ba677a1

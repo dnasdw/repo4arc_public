@@ -1,0 +1,5 @@
+brw-essc.nfo	e52000fb
+brw-essc.r00	5816a84d
+brw-essc.r01	d372c099
+brw-essc.rar	252622bd
+brw-essc.sfv	90fb415f

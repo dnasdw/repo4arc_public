@@ -1,0 +1,12 @@
+v-carebotz.nfo	0b649b9b509713049ef53513f3cbfe2a
+v-carebotz.r00	d2a8ab56d5e4db4949f60e770614f578
+v-carebotz.r01	ef8efee27310b40a99c071a5aa1ff8c7
+v-carebotz.r02	db0303e5b7a67fa8b31be512c8b519b2
+v-carebotz.r03	187e66b882cf1644ae63aef0fa2880c9
+v-carebotz.r04	e1e2228167a02a6e4b89fc2b9dbb97ca
+v-carebotz.r05	6f7a35d397d6cfc8dc33a5ea5b2ad87a
+v-carebotz.r06	a8e10e1a2365258295e935b1e3c8eadb
+v-carebotz.r07	366d8b2bfb8dd05907714d3cd42eb260
+v-carebotz.r08	69275236af3915c5f40afe3f48e52e41
+v-carebotz.rar	8fc1e6d123bb174930b70c5c267ecd97
+v-carebotz.sfv	68b3210b392f4a006f05db092d2bd431

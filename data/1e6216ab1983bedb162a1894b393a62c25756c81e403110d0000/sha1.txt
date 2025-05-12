@@ -1,0 +1,4 @@
+lfc-spin.nfo	0be17d96e978d37a8fbc7af62ecba48672875a58
+lfc-spin.r00	e7295e386f53fbdfa4c57622d4d00f33e3ddd8e6
+lfc-spin.rar	dfb21fed8d649280b871e8ec6ce50c6a1af2cf22
+lfc-spin.sfv	15327577f9fedc00798f0e0b1e99c6083b52af20

@@ -1,0 +1,9 @@
+sxs-astro_bears.nfo	72962e609d187c185ca19c03aded50f4
+sxs-astro_bears.r00	b6a93801916760aae4d90c15a2aa17b4
+sxs-astro_bears.r01	fa081a91ef3bdfd14900cd9ff85f201b
+sxs-astro_bears.r02	fb3cf18d0d0a8e3ff6bd01ef71b9390b
+sxs-astro_bears.r03	15376a11645282371c2b2fd77df4366e
+sxs-astro_bears.r04	452f6f4cb2c9cc53db4e85bdb09757b5
+sxs-astro_bears.r05	55fcabe4a3aa063fdcbbd9bd260b0ff9
+sxs-astro_bears.rar	b9c64963902d2910b0ddbb0dddb7cffc
+sxs-astro_bears.sfv	351a19f335b76c3f27b9b425883ab35d

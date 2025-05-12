@@ -1,0 +1,3 @@
+v-ship_of_fools_dlc.nfo	1a9790f5ae2f3953f9767720ac811f0c22bad471
+v-ship_of_fools_dlc.rar	2fa9dc4cbd816389e90de828d72f689db3ff92b0
+v-ship_of_fools_dlc.sfv	895f71dea089eb68cefcd638dc2814926748ef36

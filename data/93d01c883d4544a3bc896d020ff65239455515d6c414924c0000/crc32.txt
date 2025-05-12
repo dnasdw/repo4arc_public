@@ -1,0 +1,5 @@
+v-trombone_champ_v524288.nfo	e469fef4
+v-trombone_champ_v524288.r00	b8456d79
+v-trombone_champ_v524288.r01	bab7419a
+v-trombone_champ_v524288.rar	13c2f245
+v-trombone_champ_v524288.sfv	eed7822a

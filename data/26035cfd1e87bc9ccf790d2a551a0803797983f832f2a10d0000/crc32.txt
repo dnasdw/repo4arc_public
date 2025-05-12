@@ -1,0 +1,7 @@
+lfc-rodr_v262144.nfo	00cf2b56
+lfc-rodr_v262144.r00	734c0d65
+lfc-rodr_v262144.r01	c8ec4da6
+lfc-rodr_v262144.r02	81e9cdf1
+lfc-rodr_v262144.r03	9131af9e
+lfc-rodr_v262144.rar	9aaec640
+lfc-rodr_v262144.sfv	f245f0b8

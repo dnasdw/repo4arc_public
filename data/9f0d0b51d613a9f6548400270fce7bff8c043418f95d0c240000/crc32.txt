@@ -1,0 +1,17 @@
+sxs-taiko_no_tatsujin_v786432.nfo	10a15585
+sxs-taiko_no_tatsujin_v786432.r00	2e7a02e7
+sxs-taiko_no_tatsujin_v786432.r01	9518edde
+sxs-taiko_no_tatsujin_v786432.r02	bf197b71
+sxs-taiko_no_tatsujin_v786432.r03	7b189ad8
+sxs-taiko_no_tatsujin_v786432.r04	b1f11ea3
+sxs-taiko_no_tatsujin_v786432.r05	206d4f55
+sxs-taiko_no_tatsujin_v786432.r06	54ef382b
+sxs-taiko_no_tatsujin_v786432.r07	0032181a
+sxs-taiko_no_tatsujin_v786432.r08	26188516
+sxs-taiko_no_tatsujin_v786432.r09	c5e80d88
+sxs-taiko_no_tatsujin_v786432.r10	bcc57f4c
+sxs-taiko_no_tatsujin_v786432.r11	71fefb27
+sxs-taiko_no_tatsujin_v786432.r12	c831eb12
+sxs-taiko_no_tatsujin_v786432.r13	5f566610
+sxs-taiko_no_tatsujin_v786432.rar	65679b01
+sxs-taiko_no_tatsujin_v786432.sfv	c2109c31

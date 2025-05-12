@@ -1,0 +1,4 @@
+sxs-crosscode_v262144.nfo	ad15bafe
+sxs-crosscode_v262144.r00	278494d6
+sxs-crosscode_v262144.rar	bb64664e
+sxs-crosscode_v262144.sfv	d1d51b39

@@ -1,0 +1,5 @@
+hr-bscotm2.nfo	ca0850dfde58ed832976b5864f2dabbc20aff236
+hr-bscotm2.r00	a45b222b96f90481538ffc959522d136ccd7119b
+hr-bscotm2.r01	44fb620898529d74ec1fdfd1323ccdb1da4cb929
+hr-bscotm2.rar	f8d862eecae01028e6f65f976d99b80cb8bd35b8
+hr-bscotm2.sfv	cdbe722f74cda3cfcd599f66cbcb7b5382c1916e

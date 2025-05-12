@@ -1,0 +1,5 @@
+v-picross_s3.nfo	e105bdf0e0557d9382db8ca8ee0c4572
+v-picross_s3.r00	db1267753118e3f29938280431b7450c
+v-picross_s3.r01	39a7940bcc2213a98e9797f36ebd3d4a
+v-picross_s3.rar	a62ba42908e0adf64fe6acdf30dfcb46
+v-picross_s3.sfv	e83137a15c3467c0d108dd6fc0fc0fc8

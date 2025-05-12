@@ -1,0 +1,3 @@
+v-hero_of_fate_western_horizon_adventures_dlc.nfo	-	6136	1	0	0	0
+v-hero_of_fate_western_horizon_adventures_dlc.rar	-	122325	1	6136	0	1
+v-hero_of_fate_western_horizon_adventures_dlc.sfv	-	60	1	128461	0	2

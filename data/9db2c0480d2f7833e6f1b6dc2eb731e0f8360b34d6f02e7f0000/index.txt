@@ -1,0 +1,8 @@
+bbb-n-ak3na.nfo	-	5517	1	0	0	0
+bbb-n-ak3na.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ak3na.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ak3na.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-ak3na.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-ak3na.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-ak3na.part6.rar	-	195536082	1	174502528	2	167
+bbb-n-ak3na.sfv	-	192	1	370038610	2	354

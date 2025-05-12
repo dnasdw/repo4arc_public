@@ -1,0 +1,11 @@
+sxs-fifa_22_arabic_dlc.nfo	8a9a72fe
+sxs-fifa_22_arabic_dlc.r00	3afa7be2
+sxs-fifa_22_arabic_dlc.r01	8e5c5c02
+sxs-fifa_22_arabic_dlc.r02	9205d309
+sxs-fifa_22_arabic_dlc.r03	a68ec5b0
+sxs-fifa_22_arabic_dlc.r04	7ff03940
+sxs-fifa_22_arabic_dlc.r05	f38c0623
+sxs-fifa_22_arabic_dlc.r06	9ece12e9
+sxs-fifa_22_arabic_dlc.r07	41541fba
+sxs-fifa_22_arabic_dlc.rar	3c4d3ad4
+sxs-fifa_22_arabic_dlc.sfv	0aacf7af

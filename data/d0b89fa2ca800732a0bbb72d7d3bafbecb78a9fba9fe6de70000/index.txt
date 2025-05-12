@@ -1,0 +1,8 @@
+sxs-raging_justice_v196608.nfo	-	6135	1	0	0	0
+sxs-raging_justice_v196608.r00	-	50000000	1	6135	0	1
+sxs-raging_justice_v196608.r01	-	50000000	1	50006135	0	49
+sxs-raging_justice_v196608.r02	-	50000000	1	100006135	0	97
+sxs-raging_justice_v196608.r03	-	50000000	1	150006135	0	145
+sxs-raging_justice_v196608.r04	-	699835	1	200006135	0	193
+sxs-raging_justice_v196608.rar	-	50000000	1	200705970	0	194
+sxs-raging_justice_v196608.sfv	-	246	1	250705970	0	242

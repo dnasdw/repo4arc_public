@@ -1,0 +1,5 @@
+v-taiko_v65536.nfo	218f730cb4e633b630e0e515b6bfd3cc
+v-taiko_v65536.r00	e7f1f46bdbd7a70902ff80acb305c4ff
+v-taiko_v65536.r01	f98fe1e546bcce56e356ffa63e6a7669
+v-taiko_v65536.rar	910b44e072bfdc077acd979cc5003530
+v-taiko_v65536.sfv	e5a909e8c8e4509c4e37cb420fd6ae8c

@@ -1,0 +1,5 @@
+lfc-zombiescrapper.nfo	cbe76b359e43fd05e203017a25e9c986fe387378
+lfc-zombiescrapper.r00	fc5931a78dfd2c1593727b4d5f0fb989a55b1632
+lfc-zombiescrapper.r01	daffa66e7e1c30f7bee36abed9a8ac52bc58c1df
+lfc-zombiescrapper.rar	b7fec9d74620a31959d0f267e8648c9d858894c1
+lfc-zombiescrapper.sfv	2312438eb9cfd0978b7e63eead5becc0cacdb6cc

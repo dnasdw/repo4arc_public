@@ -1,0 +1,9 @@
+sxs-starlight_shores.nfo	aa7b39f8
+sxs-starlight_shores.r00	7bb7ee48
+sxs-starlight_shores.r01	0cbc3af1
+sxs-starlight_shores.r02	6c8f4e58
+sxs-starlight_shores.r03	855e39a9
+sxs-starlight_shores.r04	c3733572
+sxs-starlight_shores.r05	31f41f08
+sxs-starlight_shores.rar	691bb53b
+sxs-starlight_shores.sfv	b0d6f6b6

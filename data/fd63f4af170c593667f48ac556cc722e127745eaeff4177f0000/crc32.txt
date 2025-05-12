@@ -1,0 +1,6 @@
+brw-jtrs_v65536.nfo	43226924
+brw-jtrs_v65536.r00	28a9a2d8
+brw-jtrs_v65536.r01	694e2d3d
+brw-jtrs_v65536.r02	210c5d11
+brw-jtrs_v65536.rar	2c41dffb
+brw-jtrs_v65536.sfv	81c7cd9e

@@ -1,0 +1,13 @@
+v-chained_echoes_v196608.nfo	9ccc48ce
+v-chained_echoes_v196608.r00	95c1820b
+v-chained_echoes_v196608.r01	12b05828
+v-chained_echoes_v196608.r02	a55e1d9b
+v-chained_echoes_v196608.r03	ca0d42a1
+v-chained_echoes_v196608.r04	093de93d
+v-chained_echoes_v196608.r05	59553a38
+v-chained_echoes_v196608.r06	f953e484
+v-chained_echoes_v196608.r07	f1a18f20
+v-chained_echoes_v196608.r08	2744ed0f
+v-chained_echoes_v196608.r09	7b9f0f21
+v-chained_echoes_v196608.rar	77b13a15
+v-chained_echoes_v196608.sfv	17bf9cce

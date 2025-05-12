@@ -1,0 +1,7 @@
+sxs-nonograms_prophecy.nfo	-	6692	1	0	0	0
+sxs-nonograms_prophecy.r00	-	50000000	1	6692	0	1
+sxs-nonograms_prophecy.r01	-	50000000	1	50006692	0	49
+sxs-nonograms_prophecy.r02	-	50000000	1	100006692	0	97
+sxs-nonograms_prophecy.r03	-	22392697	1	150006692	0	145
+sxs-nonograms_prophecy.rar	-	50000000	1	172399389	0	167
+sxs-nonograms_prophecy.sfv	-	185	1	222399389	0	215

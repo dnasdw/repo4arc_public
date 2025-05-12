@@ -1,0 +1,4 @@
+sxs-run_sausage_run_v65536.nfo	-	4886	1	0	0	0
+sxs-run_sausage_run_v65536.r00	-	46249276	1	4886	0	1
+sxs-run_sausage_run_v65536.rar	-	100000000	1	46254162	0	46
+sxs-run_sausage_run_v65536.sfv	-	82	1	146254162	0	142

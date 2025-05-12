@@ -1,0 +1,8 @@
+bbb-h-aflsa.nfo	99bdb5c210f7eb430ec5b12f4e65111168aea9ca
+bbb-h-aflsa.part01.rar	5a0e3219648ffd5a2794813d1ab9f7a3cd0df8f0
+bbb-h-aflsa.part02.rar	1c5c37143778650d42c51f23fe7c6961cba819ad
+bbb-h-aflsa.part03.rar	2923a4317238cc27942acc08ad207f08e6387de2
+bbb-h-aflsa.part04.rar	d9f1f5722c7e82ee85c2cc2cbd3e3c594294ded3
+bbb-h-aflsa.part05.rar	3968256f37b38b257b7dbff313f972c08c2a263e
+bbb-h-aflsa.part06.rar	1d3200c70b10f589c077cf863f74e9e11cc1f184
+bbb-h-aflsa.sfv	95c7f47a9025bbc4268897b25708e307639ef21d

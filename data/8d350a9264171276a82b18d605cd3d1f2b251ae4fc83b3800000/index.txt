@@ -1,0 +1,6 @@
+v-roots_of_pacha_v327680.nfo	-	6214	1	0	0	0
+v-roots_of_pacha_v327680.r00	-	100000000	1	6214	0	1
+v-roots_of_pacha_v327680.r01	-	100000000	1	100006214	0	97
+v-roots_of_pacha_v327680.r02	-	29900913	1	200006214	0	193
+v-roots_of_pacha_v327680.rar	-	100000000	1	229907127	0	222
+v-roots_of_pacha_v327680.sfv	-	156	1	329907127	0	318

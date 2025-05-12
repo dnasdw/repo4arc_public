@@ -1,0 +1,8 @@
+sxs-aztec_tiki_talisman.nfo	e0e40c91
+sxs-aztec_tiki_talisman.r00	1b9267f2
+sxs-aztec_tiki_talisman.r01	c97ad3a1
+sxs-aztec_tiki_talisman.r02	c0bba0cd
+sxs-aztec_tiki_talisman.r03	0f28eba0
+sxs-aztec_tiki_talisman.r04	1ed9c6d8
+sxs-aztec_tiki_talisman.rar	2b9ff4d7
+sxs-aztec_tiki_talisman.sfv	ebec6e84

@@ -1,0 +1,7 @@
+sxs-desktop_baseball_2.nfo	b17c7268dce92747fda276ae23a2a272
+sxs-desktop_baseball_2.r00	7102e32576f2fd7978dab4d45fa30b7d
+sxs-desktop_baseball_2.r01	bd1a1c987e072c2cbffd1b6549d39be5
+sxs-desktop_baseball_2.r02	e8a53695329021c41bb13a1ed6904c5a
+sxs-desktop_baseball_2.r03	ea0b0d73f4fed4fe35883e3c8cc4afc8
+sxs-desktop_baseball_2.rar	a47b071e9abc02495900989daea79018
+sxs-desktop_baseball_2.sfv	c91e97bed369d472754b19d88a1e843c

@@ -1,0 +1,7 @@
+sxs-pixel_heroes_mega_byte_and_magic.nfo	-	6680	1	0	0	0
+sxs-pixel_heroes_mega_byte_and_magic.r00	-	50000000	1	6680	0	1
+sxs-pixel_heroes_mega_byte_and_magic.r01	-	50000000	1	50006680	0	49
+sxs-pixel_heroes_mega_byte_and_magic.r02	-	50000000	1	100006680	0	97
+sxs-pixel_heroes_mega_byte_and_magic.r03	-	47678623	1	150006680	0	145
+sxs-pixel_heroes_mega_byte_and_magic.rar	-	50000000	1	197685303	0	191
+sxs-pixel_heroes_mega_byte_and_magic.sfv	-	255	1	247685303	0	239

@@ -1,0 +1,7 @@
+sxs-fastest_finger_first_3_hint_quiz.nfo	e90d7c8b
+sxs-fastest_finger_first_3_hint_quiz.r00	1414e763
+sxs-fastest_finger_first_3_hint_quiz.r01	fe5a429d
+sxs-fastest_finger_first_3_hint_quiz.r02	e4b739d4
+sxs-fastest_finger_first_3_hint_quiz.r03	011e7aed
+sxs-fastest_finger_first_3_hint_quiz.rar	87dd5ec8
+sxs-fastest_finger_first_3_hint_quiz.sfv	04f5ab9e

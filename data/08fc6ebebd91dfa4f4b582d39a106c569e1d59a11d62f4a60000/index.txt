@@ -1,0 +1,4 @@
+sxs-fifa_22_nintendo_switch_legacy_edition_v65536.nfo	-	8630	1	0	0	0
+sxs-fifa_22_nintendo_switch_legacy_edition_v65536.r00	-	35415845	1	8630	0	1
+sxs-fifa_22_nintendo_switch_legacy_edition_v65536.rar	-	50000000	1	35424475	0	35
+sxs-fifa_22_nintendo_switch_legacy_edition_v65536.sfv	-	128	1	85424475	0	83

@@ -1,0 +1,5 @@
+sxs-eight_dragons_v65536.nfo	-	5900	1	0	0	0
+sxs-eight_dragons_v65536.r00	-	50000000	1	5900	0	1
+sxs-eight_dragons_v65536.r01	-	44440983	1	50005900	0	49
+sxs-eight_dragons_v65536.rar	-	50000000	1	94446883	0	92
+sxs-eight_dragons_v65536.sfv	-	117	1	144446883	0	140

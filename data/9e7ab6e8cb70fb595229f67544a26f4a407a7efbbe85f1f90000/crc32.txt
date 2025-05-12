@@ -1,0 +1,15 @@
+sxs-crosscode_v983040.nfo	84244185
+sxs-crosscode_v983040.r00	ae8b6436
+sxs-crosscode_v983040.r01	7623aabb
+sxs-crosscode_v983040.r02	3c5d5d48
+sxs-crosscode_v983040.r03	0b958b13
+sxs-crosscode_v983040.r04	22f66e5a
+sxs-crosscode_v983040.r05	03df6e0b
+sxs-crosscode_v983040.r06	18f6dbd5
+sxs-crosscode_v983040.r07	505fe2d4
+sxs-crosscode_v983040.r08	fe700107
+sxs-crosscode_v983040.r09	64a32272
+sxs-crosscode_v983040.r10	7d2c09f7
+sxs-crosscode_v983040.r11	d4b2d1e8
+sxs-crosscode_v983040.rar	553c63ee
+sxs-crosscode_v983040.sfv	1644ef4a

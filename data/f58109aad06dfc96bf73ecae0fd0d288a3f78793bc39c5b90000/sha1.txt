@@ -1,0 +1,8 @@
+darkmoon-debris.infinity.eshop.nsw.nfo	aa1b756cf60386a45429ef0b24238c7c5134a2a9
+darkmoon-debris.infinity.eshop.nsw.r00	3a7c30e558cdbea97b89ee2ade5dfaaef7678659
+darkmoon-debris.infinity.eshop.nsw.r01	63b4b5a8d81ff6e5fa275b52f1f13143ff554bd5
+darkmoon-debris.infinity.eshop.nsw.r02	9bf4eacebdaaa629c36844048884cdc1343fe6e2
+darkmoon-debris.infinity.eshop.nsw.r03	74c4ff6724c1109b0254069402494b81deecbf91
+darkmoon-debris.infinity.eshop.nsw.r04	890ffced03ec094d5a2591de08cec51170f866a0
+darkmoon-debris.infinity.eshop.nsw.rar	2d7a1a82e3bc8eb43ee0cf6aac30ab286e7feaed
+darkmoon-debris.infinity.eshop.nsw.sfv	0d5c39d3d2dc2699282e6a21135ffa2c819b84be

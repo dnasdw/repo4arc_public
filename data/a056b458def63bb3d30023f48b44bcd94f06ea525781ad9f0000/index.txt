@@ -1,0 +1,13 @@
+v-the_forbidden_arts_v131072.nfo	-	9654	1	0	0	0
+v-the_forbidden_arts_v131072.r00	-	50000000	1	9654	0	1
+v-the_forbidden_arts_v131072.r01	-	50000000	1	50009654	0	49
+v-the_forbidden_arts_v131072.r02	-	50000000	1	100009654	0	97
+v-the_forbidden_arts_v131072.r03	-	50000000	1	150009654	0	145
+v-the_forbidden_arts_v131072.r04	-	50000000	1	200009654	0	193
+v-the_forbidden_arts_v131072.r05	-	50000000	1	250009654	0	241
+v-the_forbidden_arts_v131072.r06	-	50000000	1	300009654	0	289
+v-the_forbidden_arts_v131072.r07	-	50000000	1	350009654	0	337
+v-the_forbidden_arts_v131072.r08	-	50000000	1	400009654	0	385
+v-the_forbidden_arts_v131072.r09	-	5320510	1	450009654	0	433
+v-the_forbidden_arts_v131072.rar	-	50000000	1	455330164	0	439
+v-the_forbidden_arts_v131072.sfv	-	473	1	505330164	0	487

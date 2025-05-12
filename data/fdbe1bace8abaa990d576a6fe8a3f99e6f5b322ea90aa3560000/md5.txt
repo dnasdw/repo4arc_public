@@ -1,0 +1,14 @@
+i-blackmoor2.nfo	9050bf7ced54fedf2af44e2c05fb3b15
+i-blackmoor2.r00	633d51c5c45cf3e453049abdc1049f2e
+i-blackmoor2.r01	39c942c9533e7faed25bcf7ec923368c
+i-blackmoor2.r02	b9f7e0da8b1d9b8a94b612a79b9a9466
+i-blackmoor2.r03	4e29af5f91c6c888ded025374f2699d9
+i-blackmoor2.r04	c13b2cd060085c1d8932504556dd227a
+i-blackmoor2.r05	f4cd59053d86bc699fc2541044a0e3ab
+i-blackmoor2.r06	2dba47f98a4a824666f0ad9880e5f7d7
+i-blackmoor2.r07	0bd003aa8eea89419a81294338d3aca3
+i-blackmoor2.r08	e0a04a7d6233dc93c1dc76723848041b
+i-blackmoor2.r09	1b6c03d259bd2fad3fa4c3189bc727e9
+i-blackmoor2.r10	da11ec40cde7108e8894a8ec308d6681
+i-blackmoor2.rar	4830a54222a7bca58d7e0ea337982fa7
+i-blackmoor2.sfv	a748a019286bdefdcf567d5b0adbd0c5

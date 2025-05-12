@@ -1,0 +1,5 @@
+v-doom_ii_classic_v131072.nfo	c2f58d04f490e5859fcfd1999853e43a
+v-doom_ii_classic_v131072.r00	7c0341ff48389a20839dd96390da8df4
+v-doom_ii_classic_v131072.r01	97d4bb3115da8ea1851bc6ffa0b4814b
+v-doom_ii_classic_v131072.rar	bffa6cb911979a8b7a8c2f772847ccd2
+v-doom_ii_classic_v131072.sfv	ea6f291516d717fe83257c3579ec7e17

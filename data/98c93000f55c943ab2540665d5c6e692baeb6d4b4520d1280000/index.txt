@@ -1,0 +1,4 @@
+lfc-aabl.nfo	-	5764	1	0	0	0
+lfc-aabl.r00	-	11135435	1	5764	0	1
+lfc-aabl.rar	-	50000000	1	11141199	0	12
+lfc-aabl.sfv	-	46	1	61141199	0	60

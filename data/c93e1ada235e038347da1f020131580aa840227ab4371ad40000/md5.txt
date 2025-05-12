@@ -1,0 +1,8 @@
+sxs-bugsnax_v196608.nfo	79a8ff2d4f3002c4e76a4f4bb9e79e72
+sxs-bugsnax_v196608.r00	cefa6c379efd0b23c0701a4a9b86230a
+sxs-bugsnax_v196608.r01	288c47d9aad8d5c5927d993a89022cd2
+sxs-bugsnax_v196608.r02	5c98ced869c3cb05fa52f3f57d0bfda1
+sxs-bugsnax_v196608.r03	1bed4cab580044266acf7f9aee15abd3
+sxs-bugsnax_v196608.r04	61f7925712d71c37fd44b6abaa05aaf4
+sxs-bugsnax_v196608.rar	450113593a432d21c17202e33ecb41b1
+sxs-bugsnax_v196608.sfv	03958da2bec8483266b6db2adf61e881

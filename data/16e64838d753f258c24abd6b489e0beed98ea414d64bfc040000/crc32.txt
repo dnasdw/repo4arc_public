@@ -1,0 +1,4 @@
+sxs-gba_v196608.nfo	49a6a0cd
+sxs-gba_v196608.r00	de6aed83
+sxs-gba_v196608.rar	03d0a4fe
+sxs-gba_v196608.sfv	42b56136

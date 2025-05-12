@@ -1,0 +1,14 @@
+delight.nfo	619d4e17ea188dbc2a2626f50ebcee02
+dl-darkquest2.r00	6306491773c389d7d9ab7869a10cdb99
+dl-darkquest2.r01	9e7e3faa29ae2a5423cefa1d2daceef0
+dl-darkquest2.r02	f1059dbe9a0e1fca4cb8be323f7c7ce4
+dl-darkquest2.r03	53b6ecdfc8c267068acd7b1c65d00a61
+dl-darkquest2.r04	b0d9ef296befe3ba33b81fca4c9fad08
+dl-darkquest2.r05	af6719c5de3045c699a689a5a7802fcc
+dl-darkquest2.r06	0739ede182bd479f4b2bd73d675dbadd
+dl-darkquest2.r07	f52a014e64eb9bff538feca770f1f409
+dl-darkquest2.r08	cf10ccfde80c8918fa3945ff0c683c88
+dl-darkquest2.r09	3ea13566e37bfa98cad392e03459f798
+dl-darkquest2.r10	d9262d942e2967e43bed1518878b4e4a
+dl-darkquest2.rar	3fb5328d2441f8000239cc6b2dd6f6eb
+dl-darkquest2.sfv	b98b1fab7e478c59dfc1756d72f9ceb6

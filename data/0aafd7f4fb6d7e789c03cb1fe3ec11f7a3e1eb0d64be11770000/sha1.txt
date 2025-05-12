@@ -1,0 +1,4 @@
+sxs-roman_empire_simulator.nfo	6eb8843b5bec45e64ef09ece5849d0c8388ae074
+sxs-roman_empire_simulator.r00	6ea9eb6568b7204e01facf57ec1e16680b3e2d62
+sxs-roman_empire_simulator.rar	4867177c8012cfebdac427ae0ddbe132100da0b5
+sxs-roman_empire_simulator.sfv	84272b77852c1da494476ebbb3d43a132770874e

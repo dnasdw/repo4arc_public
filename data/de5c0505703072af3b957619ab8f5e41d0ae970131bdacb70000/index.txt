@@ -1,0 +1,3 @@
+sxs-wrc_generations_dlc.nfo	-	7226	1	0	0	0
+sxs-wrc_generations_dlc.rar	-	519707	1	7226	0	1
+sxs-wrc_generations_dlc.sfv	-	38	1	526933	0	2

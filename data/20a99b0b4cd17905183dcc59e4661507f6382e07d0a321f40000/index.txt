@@ -1,0 +1,4 @@
+sxs-beefense_beemastered_v65536.nfo	-	8474	1	0	0	0
+sxs-beefense_beemastered_v65536.r00	-	39632931	1	8474	0	1
+sxs-beefense_beemastered_v65536.rar	-	50000000	1	39641405	0	39
+sxs-beefense_beemastered_v65536.sfv	-	92	1	89641405	0	87

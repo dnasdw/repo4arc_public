@@ -1,0 +1,6 @@
+sxs-new_pokemon_snap_v131072.nfo	9d7388c51a5c4961ca4e96cfda480a18
+sxs-new_pokemon_snap_v131072.r00	17946be2cbb3e90365fc4449075ba549
+sxs-new_pokemon_snap_v131072.r01	30532f87206a4fb96171ab7592b39a71
+sxs-new_pokemon_snap_v131072.r02	1358d3810b092c38afd2789ac21e3f06
+sxs-new_pokemon_snap_v131072.rar	5ce4239e28741792be26457ed9f04ef2
+sxs-new_pokemon_snap_v131072.sfv	04d9a7707e66a42bd3017246cb321a1b

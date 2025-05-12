@@ -1,0 +1,3 @@
+v-doom_ii_offline_fix.nfo	69b4247e3c0dfea689d8168a39e98e080f973e9f
+v-doom_ii_offline_fix.rar	26e42c4cd84ba5be41e852a9d27af0c749d3555f
+v-doom_ii_offline_fix.sfv	36820b285377a95c49d01f26527d2583f7e07ca9

@@ -1,0 +1,9 @@
+sxs-erogods_asgard.nfo	243689b4
+sxs-erogods_asgard.r00	0987c692
+sxs-erogods_asgard.r01	99990f0d
+sxs-erogods_asgard.r02	926b7676
+sxs-erogods_asgard.r03	e4de45f3
+sxs-erogods_asgard.r04	8205db36
+sxs-erogods_asgard.r05	f27c44c6
+sxs-erogods_asgard.rar	bba02874
+sxs-erogods_asgard.sfv	a181a793

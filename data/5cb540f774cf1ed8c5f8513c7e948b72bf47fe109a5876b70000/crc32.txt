@@ -1,0 +1,9 @@
+sxs-retimed_v524288.nfo	717003c1
+sxs-retimed_v524288.r00	e01d3a42
+sxs-retimed_v524288.r01	5926a292
+sxs-retimed_v524288.r02	3e5edb99
+sxs-retimed_v524288.r03	b8aa1657
+sxs-retimed_v524288.r04	864621a9
+sxs-retimed_v524288.r05	2d44006e
+sxs-retimed_v524288.rar	7f05c798
+sxs-retimed_v524288.sfv	3ff74ae2

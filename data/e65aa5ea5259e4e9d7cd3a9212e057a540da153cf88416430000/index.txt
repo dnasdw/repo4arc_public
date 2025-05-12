@@ -1,0 +1,6 @@
+sxs-onion_assault.nfo	-	4186	1	0	0	0
+sxs-onion_assault.r00	-	50000000	1	4186	0	1
+sxs-onion_assault.r01	-	50000000	1	50004186	0	49
+sxs-onion_assault.r02	-	25920357	1	100004186	0	97
+sxs-onion_assault.rar	-	50000000	1	125924543	0	122
+sxs-onion_assault.sfv	-	128	1	175924543	0	170

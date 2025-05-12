@@ -1,0 +1,8 @@
+v-lego_bricktales_v655360.nfo	38df50c9
+v-lego_bricktales_v655360.r00	eaf82bc9
+v-lego_bricktales_v655360.r01	53bd0fa1
+v-lego_bricktales_v655360.r02	e8bbe7e6
+v-lego_bricktales_v655360.r03	871e1a4c
+v-lego_bricktales_v655360.r04	6045cf83
+v-lego_bricktales_v655360.rar	71453b6f
+v-lego_bricktales_v655360.sfv	ba7b7d55

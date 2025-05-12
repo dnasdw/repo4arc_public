@@ -1,0 +1,4 @@
+jrp-n-mafapd.nfo	940a7c23e50e069ad68ba28a4dab9b6aaca561a1
+jrp-n-mafapd.r00	67cc178375cccdd38a102c814ac9ed9f8e25cded
+jrp-n-mafapd.rar	6b890602eee86bbb16d14b8ef4d7588fae2574de
+jrp-n-mafapd.sfv	1989b64289571a67ea6cac8bb61065bdb1f7633b

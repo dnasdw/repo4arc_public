@@ -1,0 +1,3 @@
+v-expeditions_a_mudrunner_game_dlc.nfo	6d4486b66a2526a51ceeee7382fd623d5df5d97c
+v-expeditions_a_mudrunner_game_dlc.rar	47d810b362ade0b0b18e443fe3fbcf3b60b1dbc3
+v-expeditions_a_mudrunner_game_dlc.sfv	7b758fcd6dbfb74ecafcf5f40b16a3b5c118edda

@@ -1,0 +1,6 @@
+sxs-tenement.nfo	1018eff0134c3485adf16295779dffa8
+sxs-tenement.r00	d3b511dea95e5d9fd3a56a64fcfd8f8a
+sxs-tenement.r01	a121e738e545fe459be38e8ec88fc8a9
+sxs-tenement.r02	bb9c54eb671ae09cf080852889f921c7
+sxs-tenement.rar	51eb4934cd7bb89aa2405a99669533b5
+sxs-tenement.sfv	9a19cdff19c2ecf438327e51b5dd3248

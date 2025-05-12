@@ -1,0 +1,4 @@
+sxs-ancient_islands_v65536.nfo	d817ff49f43151c507c1c1cb359d3915
+sxs-ancient_islands_v65536.r00	c96105e27f402fcc9e2298ce107c2101
+sxs-ancient_islands_v65536.rar	bc3b6c0046b9246227d5c66c779d94a4
+sxs-ancient_islands_v65536.sfv	0cb54a1abe86e041087b3fa5745e2f5b

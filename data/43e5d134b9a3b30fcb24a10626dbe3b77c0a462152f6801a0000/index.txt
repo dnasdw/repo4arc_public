@@ -1,0 +1,8 @@
+sxs-beat_souls.nfo	-	5822	1	0	0	0
+sxs-beat_souls.r00	-	50000000	1	5822	0	1
+sxs-beat_souls.r01	-	50000000	1	50005822	0	49
+sxs-beat_souls.r02	-	50000000	1	100005822	0	97
+sxs-beat_souls.r03	-	50000000	1	150005822	0	145
+sxs-beat_souls.r04	-	23520745	1	200005822	0	193
+sxs-beat_souls.rar	-	50000000	1	223526567	0	216
+sxs-beat_souls.sfv	-	174	1	273526567	0	264

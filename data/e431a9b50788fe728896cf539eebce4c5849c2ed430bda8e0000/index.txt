@@ -1,0 +1,3 @@
+sxs-arkanoid_eternal_battle_dlc.nfo	-	7304	1	0	0	0
+sxs-arkanoid_eternal_battle_dlc.rar	-	208022	1	7304	0	1
+sxs-arkanoid_eternal_battle_dlc.sfv	-	46	1	215326	0	2

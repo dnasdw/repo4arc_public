@@ -1,0 +1,11 @@
+v-return_to_monkey_island_v393216.nfo	50518b32
+v-return_to_monkey_island_v393216.r00	6ff37a2b
+v-return_to_monkey_island_v393216.r01	9cffabb8
+v-return_to_monkey_island_v393216.r02	80d8c647
+v-return_to_monkey_island_v393216.r03	a2a01027
+v-return_to_monkey_island_v393216.r04	27881ac4
+v-return_to_monkey_island_v393216.r05	0788d003
+v-return_to_monkey_island_v393216.r06	f158cc1c
+v-return_to_monkey_island_v393216.r07	76468622
+v-return_to_monkey_island_v393216.rar	4e29847d
+v-return_to_monkey_island_v393216.sfv	6dbd0976

@@ -1,0 +1,3 @@
+sxs-concordia_digital_edition_corsica_and_gallia_dlc.nfo	-	9722	1	0	0	0
+sxs-concordia_digital_edition_corsica_and_gallia_dlc.rar	-	118546	1	9722	0	1
+sxs-concordia_digital_edition_corsica_and_gallia_dlc.sfv	-	67	1	128268	0	2

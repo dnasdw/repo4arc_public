@@ -1,0 +1,10 @@
+brw-pawd.nfo	f89b9185feeb88205dfb06de200319d5
+brw-pawd.r00	af99e22602bedafcbe48f9bfe4fa65ee
+brw-pawd.r01	f439b32e6044a4c92c76ed5b8d01af37
+brw-pawd.r02	248a2d8c829396b98a4c7f23242939b2
+brw-pawd.r03	109971cecd68c494a5285be50b17b57b
+brw-pawd.r04	d167ab7ab84199e0001593f06bd047bf
+brw-pawd.r05	ba7b21610603f02c59ad6fe4cb9359f3
+brw-pawd.r06	d815df1b18a359750a46ec1ffb1a72c3
+brw-pawd.rar	44849faf7d60fcde2803a1738bbab2e0
+brw-pawd.sfv	437539bfc8dd76df2b758a0abad3bf70

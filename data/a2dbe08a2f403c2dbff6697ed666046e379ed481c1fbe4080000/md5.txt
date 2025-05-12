@@ -1,0 +1,5 @@
+sxs-picross_s_v196608.nfo	1dc26f3ea14fa4802dd37bdbaf1c9b95
+sxs-picross_s_v196608.r00	19026d3e2535b9d0fa42eda3605a723c
+sxs-picross_s_v196608.r01	a0d6d0cfc42b9d361be08840d13e4459
+sxs-picross_s_v196608.rar	02354f160c0b7ceb93fb625af2e009fc
+sxs-picross_s_v196608.sfv	25ccf82ede82bf1c2814df91c3f5e0eb

@@ -1,0 +1,16 @@
+sxs-unspottable.nfo	de86a78caa52ca7d6e0d5b5f82a2c423
+sxs-unspottable.r00	2cecb6fc7f569c47afe93ca257fcbb52
+sxs-unspottable.r01	45d0639bdb6012a7b4e46d52627f823c
+sxs-unspottable.r02	f3a6a44e5a064d3a17fd6efe1d6358f8
+sxs-unspottable.r03	e6491ed5bdc460be9766ecd17d2dde4b
+sxs-unspottable.r04	fdcddd348fa243a09e98d6f654e8ff35
+sxs-unspottable.r05	234956f5e1af2e9a9c3f5c7f7f24429a
+sxs-unspottable.r06	6fad27606991eaffc2f114e301f50d8a
+sxs-unspottable.r07	67101a160604071d2d15ed34f016a460
+sxs-unspottable.r08	65fca4e360f12a7b26039c57e82da0c0
+sxs-unspottable.r09	fd1a50938ef1290452449c3d878eebf1
+sxs-unspottable.r10	476d4385852443cbb97405ad552f94a7
+sxs-unspottable.r11	387a5b72608afe0beed8b38d9088d531
+sxs-unspottable.r12	391927345bb0792aef0c47ed78423082
+sxs-unspottable.rar	2afe5346e0b9e1208b7005b7a18c46b8
+sxs-unspottable.sfv	aa7c94f79e6021c02f81a75a584257f1

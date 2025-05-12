@@ -1,0 +1,13 @@
+l-squabble.nfo	ed619994
+l-squabble.r00	7e0f859a
+l-squabble.r01	9e909c57
+l-squabble.r02	08f0888f
+l-squabble.r03	3373a0ff
+l-squabble.r04	7ff8e199
+l-squabble.r05	6a8f53d8
+l-squabble.r06	5bb8aa1b
+l-squabble.r07	62a91d26
+l-squabble.r08	30b13ce1
+l-squabble.r09	f528621a
+l-squabble.rar	63787dc5
+l-squabble.sfv	493c2899

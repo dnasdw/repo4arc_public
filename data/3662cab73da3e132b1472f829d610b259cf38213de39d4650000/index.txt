@@ -1,0 +1,3 @@
+v-atelier_lulua_special_bgm_dlc.nfo	-	5044	1	0	0	0
+v-atelier_lulua_special_bgm_dlc.rar	-	27693468	1	5044	0	1
+v-atelier_lulua_special_bgm_dlc.sfv	-	46	1	27698512	0	28

@@ -1,0 +1,10 @@
+sxs-dininho_adventures.nfo	-	5121	1	0	0	0
+sxs-dininho_adventures.r00	-	50000000	1	5121	0	1
+sxs-dininho_adventures.r01	-	50000000	1	50005121	0	49
+sxs-dininho_adventures.r02	-	50000000	1	100005121	0	97
+sxs-dininho_adventures.r03	-	50000000	1	150005121	0	145
+sxs-dininho_adventures.r04	-	50000000	1	200005121	0	193
+sxs-dininho_adventures.r05	-	50000000	1	250005121	0	241
+sxs-dininho_adventures.r06	-	48002212	1	300005121	0	289
+sxs-dininho_adventures.rar	-	50000000	1	348007333	0	335
+sxs-dininho_adventures.sfv	-	296	1	398007333	0	383

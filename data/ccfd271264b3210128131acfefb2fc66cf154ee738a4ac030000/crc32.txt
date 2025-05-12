@@ -1,0 +1,12 @@
+n-cloudpunk_v196608.nfo	bc9d6384
+n-cloudpunk_v196608.r00	36ececde
+n-cloudpunk_v196608.r01	b58cae29
+n-cloudpunk_v196608.r02	4515bd21
+n-cloudpunk_v196608.r03	d5a03fc9
+n-cloudpunk_v196608.r04	c653dc50
+n-cloudpunk_v196608.r05	a297135e
+n-cloudpunk_v196608.r06	ee356729
+n-cloudpunk_v196608.r07	33394bc0
+n-cloudpunk_v196608.r08	cc3de640
+n-cloudpunk_v196608.rar	429c1d36
+n-cloudpunk_v196608.sfv	58025318

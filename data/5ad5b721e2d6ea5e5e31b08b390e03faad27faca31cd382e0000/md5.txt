@@ -1,0 +1,9 @@
+sxs-a_pretty_odd_bunny.nfo	c5e71e79bd1d077487075693ed654a66
+sxs-a_pretty_odd_bunny.r00	2c296607cbe340145ec4d75f6f335567
+sxs-a_pretty_odd_bunny.r01	3da085be1ffee771d5c2fcfdaacff526
+sxs-a_pretty_odd_bunny.r02	fa7137572f54da23e59aebfea33a71ed
+sxs-a_pretty_odd_bunny.r03	f2729a375075593c6fb1ae207c1c990b
+sxs-a_pretty_odd_bunny.r04	11a3e5e3fe989a092944d04c748b1a8e
+sxs-a_pretty_odd_bunny.r05	45ee474527c4f8af98139e98aa728dd0
+sxs-a_pretty_odd_bunny.rar	32831961209319e375fea25ac0fba4e4
+sxs-a_pretty_odd_bunny.sfv	d0765e68412e2b5edbf9b250958ca9b1

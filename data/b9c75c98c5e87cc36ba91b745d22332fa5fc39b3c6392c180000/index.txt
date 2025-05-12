@@ -1,0 +1,5 @@
+sxs-devastator_v65536.nfo	-	6758	1	0	0	0
+sxs-devastator_v65536.r00	-	50000000	1	6758	0	1
+sxs-devastator_v65536.r01	-	12558316	1	50006758	0	49
+sxs-devastator_v65536.rar	-	50000000	1	62565074	0	61
+sxs-devastator_v65536.sfv	-	108	1	112565074	0	109

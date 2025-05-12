@@ -1,0 +1,7 @@
+sxs-in_extremis_dx.nfo	8aa9270b
+sxs-in_extremis_dx.r00	1fc35701
+sxs-in_extremis_dx.r01	0722e02c
+sxs-in_extremis_dx.r02	d2e1323a
+sxs-in_extremis_dx.r03	16d5f8e2
+sxs-in_extremis_dx.rar	50b3c758
+sxs-in_extremis_dx.sfv	a62a4a66

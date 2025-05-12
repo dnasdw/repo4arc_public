@@ -1,0 +1,8 @@
+sxs-anglerfish.nfo	-	7244	1	0	0	0
+sxs-anglerfish.r00	-	100000000	1	7244	0	1
+sxs-anglerfish.r01	-	100000000	1	100007244	0	97
+sxs-anglerfish.r02	-	100000000	1	200007244	0	193
+sxs-anglerfish.r03	-	100000000	1	300007244	0	289
+sxs-anglerfish.r04	-	60781637	1	400007244	0	385
+sxs-anglerfish.rar	-	100000000	1	460788881	0	443
+sxs-anglerfish.sfv	-	174	1	23453952	1	23

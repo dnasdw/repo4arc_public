@@ -1,0 +1,5 @@
+v-turok_3_shadow_of_oblivion_remastered_v65536.nfo	a010324e
+v-turok_3_shadow_of_oblivion_remastered_v65536.r00	3e0bdfdf
+v-turok_3_shadow_of_oblivion_remastered_v65536.r01	a07f7dcb
+v-turok_3_shadow_of_oblivion_remastered_v65536.rar	dfadec1c
+v-turok_3_shadow_of_oblivion_remastered_v65536.sfv	125eadf2

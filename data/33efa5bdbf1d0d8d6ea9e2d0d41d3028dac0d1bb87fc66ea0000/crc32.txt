@@ -1,0 +1,7 @@
+sxs-gunbrella_v262144.nfo	3a425ddd
+sxs-gunbrella_v262144.r00	f664b348
+sxs-gunbrella_v262144.r01	84e107b0
+sxs-gunbrella_v262144.r02	ce533ca6
+sxs-gunbrella_v262144.r03	9f106b59
+sxs-gunbrella_v262144.rar	1d31b636
+sxs-gunbrella_v262144.sfv	e59abb6e

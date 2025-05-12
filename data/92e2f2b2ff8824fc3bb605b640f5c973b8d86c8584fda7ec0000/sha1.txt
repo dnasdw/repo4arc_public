@@ -1,0 +1,5 @@
+v-sdbhwm_v65536.nfo	627a1e2db10ab1b2ab289cf3e2aa566b36a7edac
+v-sdbhwm_v65536.r00	c01ec494ff701e2be5af972af608472124c565ed
+v-sdbhwm_v65536.r01	3cb6968fb3bbc9adfcacadd5ef3521fec3e0698c
+v-sdbhwm_v65536.rar	d97766d861df1f1a951dbdb2fae5b0a3f0e0be1d
+v-sdbhwm_v65536.sfv	e24e7b4b4d77aebe9da1d6192def9584b215c9f4

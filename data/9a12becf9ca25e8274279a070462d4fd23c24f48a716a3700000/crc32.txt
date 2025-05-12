@@ -1,0 +1,8 @@
+sxs-fight_crab_v786432.nfo	0d6863b1
+sxs-fight_crab_v786432.r00	30ab2d2a
+sxs-fight_crab_v786432.r01	fd915060
+sxs-fight_crab_v786432.r02	1611ca59
+sxs-fight_crab_v786432.r03	07b9f578
+sxs-fight_crab_v786432.r04	b9ea06d0
+sxs-fight_crab_v786432.rar	9739e5a8
+sxs-fight_crab_v786432.sfv	c5421bf9

@@ -1,0 +1,10 @@
+sxs-carnage_battle_arena.nfo	-	6770	1	0	0	0
+sxs-carnage_battle_arena.r00	-	100000000	1	6770	0	1
+sxs-carnage_battle_arena.r01	-	100000000	1	100006770	0	97
+sxs-carnage_battle_arena.r02	-	100000000	1	200006770	0	193
+sxs-carnage_battle_arena.r03	-	100000000	1	300006770	0	289
+sxs-carnage_battle_arena.r04	-	100000000	1	400006770	0	385
+sxs-carnage_battle_arena.r05	-	100000000	1	500006770	0	481
+sxs-carnage_battle_arena.r06	-	90104820	1	62251264	1	60
+sxs-carnage_battle_arena.rar	-	100000000	1	152356084	1	146
+sxs-carnage_battle_arena.sfv	-	312	1	252356084	1	242

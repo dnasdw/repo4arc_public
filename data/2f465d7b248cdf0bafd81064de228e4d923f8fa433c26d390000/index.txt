@@ -1,0 +1,3 @@
+sxs-pocket_witch.nfo	-	5354	1	0	0	0
+sxs-pocket_witch.rar	-	58520093	1	5354	0	1
+sxs-pocket_witch.sfv	-	31	1	58525447	0	57

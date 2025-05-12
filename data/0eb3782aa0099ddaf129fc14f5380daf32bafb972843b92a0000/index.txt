@@ -1,0 +1,3 @@
+sxs-art_of_balance_v65536.nfo	-	6134	1	0	0	0
+sxs-art_of_balance_v65536.rar	-	15974003	1	6134	0	1
+sxs-art_of_balance_v65536.sfv	-	40	1	15980137	0	17

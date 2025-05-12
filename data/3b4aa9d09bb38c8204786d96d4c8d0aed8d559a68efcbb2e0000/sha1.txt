@@ -1,0 +1,3 @@
+hr-avara-dlc.nfo	dd50a34a5eea0ac98bae1b9e2d1579fe3eee57cd
+hr-avara-dlc.rar	59db5e98893620fb3c7b4097b9eeff8609de81b6
+hr-avara-dlc.sfv	2e479d1c85229efa43fd2e60869ec3874d6581b4

@@ -1,0 +1,4 @@
+sxs-10_second_run_returns_v196608.nfo	a77cab4686fed3d6b49666fa85bdb1cc
+sxs-10_second_run_returns_v196608.r00	cd7176d2708fd6d3e91aff24f5da0fd8
+sxs-10_second_run_returns_v196608.rar	d6f66f28cd6f2a0cd00f0937c0f5206a
+sxs-10_second_run_returns_v196608.sfv	3775b406b9c91fddf767595470f20a48

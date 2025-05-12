@@ -1,0 +1,13 @@
+cat-anbma.jpg	10f5bb7fad2b1be32addb6eb28af2e44
+cat-anbma.nfo	cd0476e18018c435537fe77f0b0f824b
+cat-anbma.r00	acf4d509d5b278a7419474dec7ed9588
+cat-anbma.r01	88617ad45c8f01a55ee04c27b2f93bb6
+cat-anbma.r02	ce37e4e797bb000de55f36b4333948c9
+cat-anbma.r03	2342bf07d656d9b6a6c58dbe5529f200
+cat-anbma.r04	836816e8268cd8214bc8e6666e99c04a
+cat-anbma.r05	9e4f6dca29a7e8e2172f1371e0c2e449
+cat-anbma.r06	c8124c7073db8eee3096ca6ab8553ddb
+cat-anbma.r07	900a1cd49b8d87c9d427ddfc5770b19e
+cat-anbma.r08	e56813c2f228d26654ca9a1ad56ab304
+cat-anbma.rar	425a84ea251f19494e5a299126cd0b2b
+cat-anbma.sfv	fdd6df0c1e6bf888e13ec34369ea6db4

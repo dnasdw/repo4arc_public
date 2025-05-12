@@ -1,0 +1,5 @@
+bbb-n-akksa.nfo	-	5517	1	0	0	0
+bbb-n-akksa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-akksa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-akksa.part3.rar	-	218529604	1	500005517	0	479
+bbb-n-akksa.sfv	-	96	1	180780868	1	173

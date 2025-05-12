@@ -1,0 +1,5 @@
+sxs-pool_pro_gold.nfo	bb3ef4efe1ae7faeaa73c8bb5e6baa1b2dff9bf3
+sxs-pool_pro_gold.r00	f6c1e89d16cfb96cefdeaedeb52d3d9f49f719f0
+sxs-pool_pro_gold.r01	8f9c27b7302158ce0d48bd49460653f3fe10d382
+sxs-pool_pro_gold.rar	2cce6d0084c9b02fa84496d88a2fda572f607af7
+sxs-pool_pro_gold.sfv	fe65a9c3d69093e78160a28fd9b993646c2c6bbb

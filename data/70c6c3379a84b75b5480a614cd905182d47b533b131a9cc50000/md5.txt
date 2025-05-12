@@ -1,0 +1,3 @@
+sxs-event_horizon_space_defense_v65536.nfo	9fa5bf22587831762afd1dd762632dc8
+sxs-event_horizon_space_defense_v65536.rar	b57763a2c3907f958b7e387b3c7907bd
+sxs-event_horizon_space_defense_v65536.sfv	72a4d449ec3657edc62a4a0e206a0645

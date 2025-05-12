@@ -1,0 +1,9 @@
+sxs-wild_dogs.nfo	-	4964	1	0	0	0
+sxs-wild_dogs.r00	-	100000000	1	4964	0	1
+sxs-wild_dogs.r01	-	100000000	1	100004964	0	97
+sxs-wild_dogs.r02	-	100000000	1	200004964	0	193
+sxs-wild_dogs.r03	-	100000000	1	300004964	0	289
+sxs-wild_dogs.r04	-	100000000	1	400004964	0	385
+sxs-wild_dogs.r05	-	32087226	1	500004964	0	481
+sxs-wild_dogs.rar	-	100000000	1	532092190	0	512
+sxs-wild_dogs.sfv	-	196	1	94757120	1	91

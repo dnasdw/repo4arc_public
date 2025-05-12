@@ -1,0 +1,15 @@
+sxs-jitsu_squad_v262144.nfo	aa989dd1
+sxs-jitsu_squad_v262144.r00	c5740727
+sxs-jitsu_squad_v262144.r01	61d76814
+sxs-jitsu_squad_v262144.r02	dd6a3f0e
+sxs-jitsu_squad_v262144.r03	0898b659
+sxs-jitsu_squad_v262144.r04	ecff5934
+sxs-jitsu_squad_v262144.r05	bd151c36
+sxs-jitsu_squad_v262144.r06	bbd728cb
+sxs-jitsu_squad_v262144.r07	bc24c670
+sxs-jitsu_squad_v262144.r08	1e5936b6
+sxs-jitsu_squad_v262144.r09	b51ce204
+sxs-jitsu_squad_v262144.r10	74a4e89f
+sxs-jitsu_squad_v262144.r11	2cab7111
+sxs-jitsu_squad_v262144.rar	ca919483
+sxs-jitsu_squad_v262144.sfv	9c861cca

@@ -1,0 +1,11 @@
+lfc-haak_v65536.nfo	a0dfb803
+lfc-haak_v65536.r00	a0074a5e
+lfc-haak_v65536.r01	35d5813d
+lfc-haak_v65536.r02	688c2232
+lfc-haak_v65536.r03	1c4925ed
+lfc-haak_v65536.r04	39519258
+lfc-haak_v65536.r05	55039a7b
+lfc-haak_v65536.r06	21e990f0
+lfc-haak_v65536.r07	e2ea3724
+lfc-haak_v65536.rar	5ce0ac26
+lfc-haak_v65536.sfv	14901c7c

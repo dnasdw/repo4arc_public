@@ -1,0 +1,6 @@
+sxs-atone_heart_of_the_elder_tree_v131072.nfo	-	6992	1	0	0	0
+sxs-atone_heart_of_the_elder_tree_v131072.r00	-	100000000	1	6992	0	1
+sxs-atone_heart_of_the_elder_tree_v131072.r01	-	100000000	1	100006992	0	97
+sxs-atone_heart_of_the_elder_tree_v131072.r02	-	42284585	1	200006992	0	193
+sxs-atone_heart_of_the_elder_tree_v131072.rar	-	100000000	1	242291577	0	234
+sxs-atone_heart_of_the_elder_tree_v131072.sfv	-	224	1	342291577	0	330

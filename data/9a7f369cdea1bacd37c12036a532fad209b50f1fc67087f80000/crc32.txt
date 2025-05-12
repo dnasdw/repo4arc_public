@@ -1,0 +1,10 @@
+jrp-h-adfva1-back.jpg	6ebe6a9b
+jrp-h-adfva1-front.jpg	6e09acc9
+jrp-h-adfva1.nfo	f9998004
+jrp-h-adfva1.r00	5a99ccc8
+jrp-h-adfva1.r01	91112e7a
+jrp-h-adfva1.r02	6a8186e1
+jrp-h-adfva1.r03	5fe2bb8e
+jrp-h-adfva1.r04	51410c24
+jrp-h-adfva1.rar	36de8554
+jrp-h-adfva1.sfv	fde40f1a

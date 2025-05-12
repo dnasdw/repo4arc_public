@@ -1,0 +1,9 @@
+brw-sphv.nfo	dc8ed406a49f22c3a69ebd9d95e0a10d85e71533
+brw-sphv.r00	5a0fcf7ac92bdbb7cc1df4dac5a45b4d34415429
+brw-sphv.r01	a76639cbb5aebca34609d1651248bbd4605b35fd
+brw-sphv.r02	fa066f3c79d5f0d2778f08cb5a16a5cb50e6ac82
+brw-sphv.r03	d33e089c1bed2006d57b61f609431ceac4bd9410
+brw-sphv.r04	2e89aa35efddd4e31de366f1a33978884556847e
+brw-sphv.r05	7f9f2fd756f51640d9d4dcb6cb6dbf9dbf14906a
+brw-sphv.rar	5e95dae696010ee6a339fbda5e49d3a690e5b2a7
+brw-sphv.sfv	05cf7722db21ccaf8326f8968407c1d9ede2525c

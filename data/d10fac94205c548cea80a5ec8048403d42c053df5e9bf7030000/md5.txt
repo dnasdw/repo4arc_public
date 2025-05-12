@@ -1,0 +1,6 @@
+sxs-knights_and_guns_v131072.nfo	f98c383bb78aa09caf01e94dd05a02ad
+sxs-knights_and_guns_v131072.r00	951735ce6faa9826127b8a5530a5df76
+sxs-knights_and_guns_v131072.r01	61962a979dde1d569ae2f48873048fb6
+sxs-knights_and_guns_v131072.r02	1cc74157176f679d6fbbb3c1b49d4918
+sxs-knights_and_guns_v131072.rar	44792ab0abfea45e160f1c11fd66e82f
+sxs-knights_and_guns_v131072.sfv	c008e5d386c9f6728aa74ebd7a8caef6

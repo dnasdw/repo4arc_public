@@ -1,0 +1,10 @@
+v-serious_sam_collection_v196608.nfo	e564faea
+v-serious_sam_collection_v196608.r00	6fdec4e7
+v-serious_sam_collection_v196608.r01	7defc61b
+v-serious_sam_collection_v196608.r02	3191cf19
+v-serious_sam_collection_v196608.r03	c4d9ce3b
+v-serious_sam_collection_v196608.r04	d0b210d1
+v-serious_sam_collection_v196608.r05	f95133a6
+v-serious_sam_collection_v196608.r06	dc8c1ea8
+v-serious_sam_collection_v196608.rar	73f059f5
+v-serious_sam_collection_v196608.sfv	a842a02d

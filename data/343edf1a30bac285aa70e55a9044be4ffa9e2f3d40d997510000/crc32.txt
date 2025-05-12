@@ -1,0 +1,13 @@
+lfc-theincredibleadventuresofsuperpanda.nfo	d643ce32
+lfc-theincredibleadventuresofsuperpanda.r00	a130537e
+lfc-theincredibleadventuresofsuperpanda.r01	d5230cbe
+lfc-theincredibleadventuresofsuperpanda.r02	35ebfb37
+lfc-theincredibleadventuresofsuperpanda.r03	a5aad527
+lfc-theincredibleadventuresofsuperpanda.r04	b3ec9e0c
+lfc-theincredibleadventuresofsuperpanda.r05	60b1a4a8
+lfc-theincredibleadventuresofsuperpanda.r06	5f8b448b
+lfc-theincredibleadventuresofsuperpanda.r07	cd6789f5
+lfc-theincredibleadventuresofsuperpanda.r08	9d152e59
+lfc-theincredibleadventuresofsuperpanda.r09	c242f332
+lfc-theincredibleadventuresofsuperpanda.rar	e67fc323
+lfc-theincredibleadventuresofsuperpanda.sfv	d8dd1249

@@ -1,0 +1,6 @@
+l-crocsworld3.nfo	1182cd581f3a8087145b89eaebdc5a0d8820eff8
+l-crocsworld3.r00	df7bed38de6c81f101710a54ad08006fc8e2e321
+l-crocsworld3.r01	73d1233cb6810ff44c848662b5423feba8a75d83
+l-crocsworld3.r02	8b89461a521c3ce2a6187f610a633dd8cdb9ae3f
+l-crocsworld3.rar	fbb6a5f96b027c8ac542d50ab37ac17f1e569a38
+l-crocsworld3.sfv	1be9e8d4dbdb62da47bd72765e9fdb0c88d64cb1

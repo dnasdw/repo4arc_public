@@ -1,0 +1,3 @@
+sxs-outbreak_the_nightmare_chronicles_v65536.nfo	-	4262	1	0	0	0
+sxs-outbreak_the_nightmare_chronicles_v65536.rar	-	46045758	1	4262	0	1
+sxs-outbreak_the_nightmare_chronicles_v65536.sfv	-	59	1	46050020	0	45

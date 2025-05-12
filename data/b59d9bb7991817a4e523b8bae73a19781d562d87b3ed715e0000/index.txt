@@ -1,0 +1,8 @@
+sxs-octopath_traveler_ii_v65536.nfo	-	6524	1	0	0	0
+sxs-octopath_traveler_ii_v65536.r00	-	100000000	1	6524	0	1
+sxs-octopath_traveler_ii_v65536.r01	-	100000000	1	100006524	0	97
+sxs-octopath_traveler_ii_v65536.r02	-	100000000	1	200006524	0	193
+sxs-octopath_traveler_ii_v65536.r03	-	100000000	1	300006524	0	289
+sxs-octopath_traveler_ii_v65536.r04	-	29029972	1	400006524	0	385
+sxs-octopath_traveler_ii_v65536.rar	-	100000000	1	429036496	0	413
+sxs-octopath_traveler_ii_v65536.sfv	-	276	1	529036496	0	509

@@ -1,0 +1,13 @@
+sxs-just_shapes_and_beats_v131072.nfo	d14fa6cf
+sxs-just_shapes_and_beats_v131072.r00	f6a7c5f6
+sxs-just_shapes_and_beats_v131072.r01	58c00ee3
+sxs-just_shapes_and_beats_v131072.r02	83a5f0a7
+sxs-just_shapes_and_beats_v131072.r03	8e15b12e
+sxs-just_shapes_and_beats_v131072.r04	97ef9213
+sxs-just_shapes_and_beats_v131072.r05	1f20cf5f
+sxs-just_shapes_and_beats_v131072.r06	7c83a969
+sxs-just_shapes_and_beats_v131072.r07	1b301346
+sxs-just_shapes_and_beats_v131072.r08	042f45e8
+sxs-just_shapes_and_beats_v131072.r09	6efd0680
+sxs-just_shapes_and_beats_v131072.rar	f95dab66
+sxs-just_shapes_and_beats_v131072.sfv	9d019baa

@@ -1,0 +1,10 @@
+sxs-punch_a_bunch.nfo	2b66917e42734aff03901e244875c528
+sxs-punch_a_bunch.r00	2c5080f74e0934a9fb5b700799bf6218
+sxs-punch_a_bunch.r01	9ac8169ad778d370088e47e17f576469
+sxs-punch_a_bunch.r02	6316b6449418be25813676bcc7fe81ca
+sxs-punch_a_bunch.r03	31120d949cf38bf088f90bc4ffd09daa
+sxs-punch_a_bunch.r04	062b2eb52269817531df4040f0094858
+sxs-punch_a_bunch.r05	87802fdafa6557b325eb75a93ba6f9ef
+sxs-punch_a_bunch.r06	fdf47dff729636591eabac33640da63c
+sxs-punch_a_bunch.rar	25249d603108d6dd2a58c23a2d47c65d
+sxs-punch_a_bunch.sfv	52f64a3f3d20f25ff5556ae2ad450b5a

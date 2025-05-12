@@ -1,0 +1,10 @@
+sxs-little_mouses_encyclopedia_v196608.nfo	-	8552	1	0	0	0
+sxs-little_mouses_encyclopedia_v196608.r00	-	50000000	1	8552	0	1
+sxs-little_mouses_encyclopedia_v196608.r01	-	50000000	1	50008552	0	49
+sxs-little_mouses_encyclopedia_v196608.r02	-	50000000	1	100008552	0	97
+sxs-little_mouses_encyclopedia_v196608.r03	-	50000000	1	150008552	0	145
+sxs-little_mouses_encyclopedia_v196608.r04	-	50000000	1	200008552	0	193
+sxs-little_mouses_encyclopedia_v196608.r05	-	50000000	1	250008552	0	241
+sxs-little_mouses_encyclopedia_v196608.r06	-	25768569	1	300008552	0	289
+sxs-little_mouses_encyclopedia_v196608.rar	-	50000000	1	325777121	0	314
+sxs-little_mouses_encyclopedia_v196608.sfv	-	424	1	375777121	0	362

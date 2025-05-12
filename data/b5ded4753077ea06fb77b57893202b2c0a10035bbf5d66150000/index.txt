@@ -1,0 +1,6 @@
+sxs-him_and_her_collection.nfo	-	5978	1	0	0	0
+sxs-him_and_her_collection.r00	-	50000000	1	5978	0	1
+sxs-him_and_her_collection.r01	-	50000000	1	50005978	0	49
+sxs-him_and_her_collection.r02	-	28839348	1	100005978	0	97
+sxs-him_and_her_collection.rar	-	50000000	1	128845326	0	125
+sxs-him_and_her_collection.sfv	-	164	1	178845326	0	173

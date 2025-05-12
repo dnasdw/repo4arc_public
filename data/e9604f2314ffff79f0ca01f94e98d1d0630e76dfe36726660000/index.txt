@@ -1,0 +1,4 @@
+sxs-odallus_the_dark_call_v65536.nfo	-	4964	1	0	0	0
+sxs-odallus_the_dark_call_v65536.r00	-	14724769	1	4964	0	1
+sxs-odallus_the_dark_call_v65536.rar	-	50000000	1	14729733	0	16
+sxs-odallus_the_dark_call_v65536.sfv	-	94	1	64729733	0	64

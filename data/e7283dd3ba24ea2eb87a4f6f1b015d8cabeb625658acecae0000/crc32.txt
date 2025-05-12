@@ -1,0 +1,5 @@
+lfc-etva.nfo	bfb00d06
+lfc-etva.r00	e22226e4
+lfc-etva.r01	0f199636
+lfc-etva.rar	f377504d
+lfc-etva.sfv	3e389509

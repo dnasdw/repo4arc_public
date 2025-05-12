@@ -1,0 +1,7 @@
+l-crashdrive2.nfo	04d5dd2e
+l-crashdrive2.r00	4dd6fbd5
+l-crashdrive2.r01	2a87eae6
+l-crashdrive2.r02	9f9c61ae
+l-crashdrive2.r03	4bba3751
+l-crashdrive2.rar	463fed32
+l-crashdrive2.sfv	8f84c0cc

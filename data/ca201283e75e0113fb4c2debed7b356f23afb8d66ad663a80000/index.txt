@@ -1,0 +1,3 @@
+sxs-remote_life_v65536.nfo	-	5354	1	0	0	0
+sxs-remote_life_v65536.rar	-	23312424	1	5354	0	1
+sxs-remote_life_v65536.sfv	-	37	1	23317778	0	24

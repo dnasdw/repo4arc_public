@@ -1,0 +1,14 @@
+sxs-salamander_county_public_television.nfo	-	5120	1	0	0	0
+sxs-salamander_county_public_television.r00	-	100000000	1	5120	0	1
+sxs-salamander_county_public_television.r01	-	100000000	1	100005120	0	97
+sxs-salamander_county_public_television.r02	-	100000000	1	200005120	0	193
+sxs-salamander_county_public_television.r03	-	100000000	1	300005120	0	289
+sxs-salamander_county_public_television.r04	-	100000000	1	400005120	0	385
+sxs-salamander_county_public_television.r05	-	100000000	1	500005120	0	481
+sxs-salamander_county_public_television.r06	-	100000000	1	62251264	1	60
+sxs-salamander_county_public_television.r07	-	100000000	1	162251264	1	156
+sxs-salamander_county_public_television.r08	-	100000000	1	262251264	1	252
+sxs-salamander_county_public_television.r09	-	100000000	1	362251264	1	348
+sxs-salamander_county_public_television.r10	-	36563376	1	462251264	1	444
+sxs-salamander_county_public_television.rar	-	100000000	1	498814640	1	479
+sxs-salamander_county_public_television.sfv	-	648	1	61202688	2	59

@@ -1,0 +1,9 @@
+v-what_lies_in_the_multiverse_v196608.nfo	-	6839	1	0	0	0
+v-what_lies_in_the_multiverse_v196608.r00	-	50000000	1	6839	0	1
+v-what_lies_in_the_multiverse_v196608.r01	-	50000000	1	50006839	0	49
+v-what_lies_in_the_multiverse_v196608.r02	-	50000000	1	100006839	0	97
+v-what_lies_in_the_multiverse_v196608.r03	-	50000000	1	150006839	0	145
+v-what_lies_in_the_multiverse_v196608.r04	-	50000000	1	200006839	0	193
+v-what_lies_in_the_multiverse_v196608.r05	-	9874052	1	250006839	0	241
+v-what_lies_in_the_multiverse_v196608.rar	-	50000000	1	259880891	0	251
+v-what_lies_in_the_multiverse_v196608.sfv	-	364	1	309880891	0	299

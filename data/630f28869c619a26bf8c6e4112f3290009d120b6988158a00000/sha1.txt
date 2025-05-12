@@ -1,0 +1,4 @@
+v-orochi_v102.nfo	09e4d032d7785c743e5cd60604c2c79a3b218772
+v-orochi_v102.r00	b1c5fb30cfe077a7017663aa721360fb14fe4b66
+v-orochi_v102.rar	a10a62c4fc957b5ac4faec1aa542a068365fcf1b
+v-orochi_v102.sfv	7db2c3a93b7aa1342e5849a7a71fd0df09c9ca9b

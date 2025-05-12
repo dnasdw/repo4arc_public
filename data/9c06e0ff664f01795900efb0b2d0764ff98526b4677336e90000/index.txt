@@ -1,0 +1,6 @@
+jrp-n-hatgm.nfo	-	6047	1	0	0	0
+jrp-n-hatgm.r00	-	50000000	1	6047	0	1
+jrp-n-hatgm.r01	-	50000000	1	50006047	0	49
+jrp-n-hatgm.r02	-	31241604	1	100006047	0	97
+jrp-n-hatgm.rar	-	50000000	1	131247651	0	127
+jrp-n-hatgm.sfv	-	104	1	181247651	0	175

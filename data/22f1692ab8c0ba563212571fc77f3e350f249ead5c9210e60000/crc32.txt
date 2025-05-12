@@ -1,0 +1,11 @@
+sxs-bite_the_bullet_v65536.nfo	d70eb3db
+sxs-bite_the_bullet_v65536.r00	6dbf47a4
+sxs-bite_the_bullet_v65536.r01	5bc7a530
+sxs-bite_the_bullet_v65536.r02	2b95001d
+sxs-bite_the_bullet_v65536.r03	4300829a
+sxs-bite_the_bullet_v65536.r04	eda51b68
+sxs-bite_the_bullet_v65536.r05	6e01b545
+sxs-bite_the_bullet_v65536.r06	bdca4c68
+sxs-bite_the_bullet_v65536.r07	88f44d06
+sxs-bite_the_bullet_v65536.rar	82071700
+sxs-bite_the_bullet_v65536.sfv	2675264b

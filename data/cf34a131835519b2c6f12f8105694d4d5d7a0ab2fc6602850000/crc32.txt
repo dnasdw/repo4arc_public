@@ -1,0 +1,4 @@
+sxs-labyrinth_of_legends_rouguelike_battle_quest.nfo	72271bc0
+sxs-labyrinth_of_legends_rouguelike_battle_quest.r00	52c1ff14
+sxs-labyrinth_of_legends_rouguelike_battle_quest.rar	8ea7af21
+sxs-labyrinth_of_legends_rouguelike_battle_quest.sfv	4fb5596d

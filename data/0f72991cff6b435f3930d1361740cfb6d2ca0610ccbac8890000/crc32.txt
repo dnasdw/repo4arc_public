@@ -1,0 +1,12 @@
+lfc-sospootupdv1.0.3.nfo	6f53a6ba
+lfc-sospootupdv1.0.3.r00	2c93e584
+lfc-sospootupdv1.0.3.r01	e42b0b8a
+lfc-sospootupdv1.0.3.r02	a1b14795
+lfc-sospootupdv1.0.3.r03	66ecc50b
+lfc-sospootupdv1.0.3.r04	a3f48a31
+lfc-sospootupdv1.0.3.r05	e9926476
+lfc-sospootupdv1.0.3.r06	1b2db166
+lfc-sospootupdv1.0.3.r07	9b03bd06
+lfc-sospootupdv1.0.3.r08	9427c8c0
+lfc-sospootupdv1.0.3.rar	82d39b8f
+lfc-sospootupdv1.0.3.sfv	0063b106

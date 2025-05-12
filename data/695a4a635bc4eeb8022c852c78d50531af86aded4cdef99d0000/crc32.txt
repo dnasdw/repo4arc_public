@@ -1,0 +1,6 @@
+sxs-20xx_v196608.nfo	101a7316
+sxs-20xx_v196608.r00	073f90fa
+sxs-20xx_v196608.r01	cde01964
+sxs-20xx_v196608.r02	161740c4
+sxs-20xx_v196608.rar	f1c27d08
+sxs-20xx_v196608.sfv	e7eeb82f

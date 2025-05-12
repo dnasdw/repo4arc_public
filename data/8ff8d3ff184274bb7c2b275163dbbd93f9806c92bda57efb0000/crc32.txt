@@ -1,0 +1,12 @@
+sxs-bomber_crew_v131072.nfo	4b22e215
+sxs-bomber_crew_v131072.r00	6db041bb
+sxs-bomber_crew_v131072.r01	f26ed156
+sxs-bomber_crew_v131072.r02	265e7a59
+sxs-bomber_crew_v131072.r03	1643428d
+sxs-bomber_crew_v131072.r04	aca98e92
+sxs-bomber_crew_v131072.r05	b4fed05b
+sxs-bomber_crew_v131072.r06	89aa8611
+sxs-bomber_crew_v131072.r07	1b705183
+sxs-bomber_crew_v131072.r08	beb8d3c2
+sxs-bomber_crew_v131072.rar	9869a9cc
+sxs-bomber_crew_v131072.sfv	9ec58497

@@ -1,0 +1,7 @@
+v-my_little_dog_adventure_v65536.nfo	-	3874	1	0	0	0
+v-my_little_dog_adventure_v65536.r00	-	50000000	1	3874	0	1
+v-my_little_dog_adventure_v65536.r01	-	50000000	1	50003874	0	49
+v-my_little_dog_adventure_v65536.r02	-	50000000	1	100003874	0	97
+v-my_little_dog_adventure_v65536.r03	-	3785271	1	150003874	0	145
+v-my_little_dog_adventure_v65536.rar	-	50000000	1	153789145	0	149
+v-my_little_dog_adventure_v65536.sfv	-	235	1	203789145	0	197

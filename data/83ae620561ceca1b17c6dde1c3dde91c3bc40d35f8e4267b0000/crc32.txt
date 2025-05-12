@@ -1,0 +1,5 @@
+lfc-rihe_v65536.nfo	1d204e1a
+lfc-rihe_v65536.r00	c6d56fb9
+lfc-rihe_v65536.r01	dc441434
+lfc-rihe_v65536.rar	6d75ca4c
+lfc-rihe_v65536.sfv	6cc22a5e

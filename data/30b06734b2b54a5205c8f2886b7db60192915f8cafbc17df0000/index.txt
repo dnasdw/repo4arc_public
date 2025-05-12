@@ -1,0 +1,3 @@
+v-ghostrunner_winter_pack_dlc.nfo	-	7228	1	0	0	0
+v-ghostrunner_winter_pack_dlc.rar	-	104145	1	7228	0	1
+v-ghostrunner_winter_pack_dlc.sfv	-	44	1	111373	0	2

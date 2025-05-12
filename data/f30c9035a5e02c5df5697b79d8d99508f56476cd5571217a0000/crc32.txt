@@ -1,0 +1,11 @@
+lfc-a2zwa_v65536.nfo	fe76af8c
+lfc-a2zwa_v65536.r00	e51f01e0
+lfc-a2zwa_v65536.r01	69316a20
+lfc-a2zwa_v65536.r02	71f046b3
+lfc-a2zwa_v65536.r03	4d3cef68
+lfc-a2zwa_v65536.r04	745616ca
+lfc-a2zwa_v65536.r05	900ce879
+lfc-a2zwa_v65536.r06	33b5f5a1
+lfc-a2zwa_v65536.r07	c59b904e
+lfc-a2zwa_v65536.rar	e60db832
+lfc-a2zwa_v65536.sfv	85fb41a9

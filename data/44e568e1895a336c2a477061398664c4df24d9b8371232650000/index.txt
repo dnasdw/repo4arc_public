@@ -1,0 +1,4 @@
+v-super_double_dragon.nfo	-	5746	1	0	0	0
+v-super_double_dragon.r00	-	15866267	1	5746	0	1
+v-super_double_dragon.rar	-	100000000	1	15872013	0	17
+v-super_double_dragon.sfv	-	72	1	115872013	0	113

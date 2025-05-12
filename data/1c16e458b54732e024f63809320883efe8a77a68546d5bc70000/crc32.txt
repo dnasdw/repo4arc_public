@@ -1,0 +1,12 @@
+hr-asckbv102.nfo	b2110d67
+hr-asckbv102.r00	6a4c3002
+hr-asckbv102.r01	50370b5c
+hr-asckbv102.r02	7e93a31d
+hr-asckbv102.r03	256641b3
+hr-asckbv102.r04	c452e0a2
+hr-asckbv102.r05	63822a5a
+hr-asckbv102.r06	d400af58
+hr-asckbv102.r07	c431e42d
+hr-asckbv102.r08	d5dc48df
+hr-asckbv102.rar	88a93e16
+hr-asckbv102.sfv	08d04124

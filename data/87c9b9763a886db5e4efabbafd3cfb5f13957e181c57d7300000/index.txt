@@ -1,0 +1,12 @@
+sxs-off_and_on_again.nfo	-	5276	1	0	0	0
+sxs-off_and_on_again.r00	-	50000000	1	5276	0	1
+sxs-off_and_on_again.r01	-	50000000	1	50005276	0	49
+sxs-off_and_on_again.r02	-	50000000	1	100005276	0	97
+sxs-off_and_on_again.r03	-	50000000	1	150005276	0	145
+sxs-off_and_on_again.r04	-	50000000	1	200005276	0	193
+sxs-off_and_on_again.r05	-	50000000	1	250005276	0	241
+sxs-off_and_on_again.r06	-	50000000	1	300005276	0	289
+sxs-off_and_on_again.r07	-	50000000	1	350005276	0	337
+sxs-off_and_on_again.r08	-	40076420	1	400005276	0	385
+sxs-off_and_on_again.rar	-	50000000	1	440081696	0	424
+sxs-off_and_on_again.sfv	-	350	1	490081696	0	472

@@ -1,0 +1,6 @@
+lfc-hind_v65536.nfo	e17b8461
+lfc-hind_v65536.r00	befc4eb6
+lfc-hind_v65536.r01	eaf1d223
+lfc-hind_v65536.r02	8ca91d5b
+lfc-hind_v65536.rar	6356e14b
+lfc-hind_v65536.sfv	6ebb1e18

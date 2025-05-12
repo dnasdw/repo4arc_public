@@ -1,0 +1,7 @@
+bbb-h-aqcqa.nfo	-	5517	1	0	0	0
+bbb-h-aqcqa.part01.rar	-	250000000	1	5517	0	1
+bbb-h-aqcqa.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-aqcqa.part03.rar	-	211616182	1	500005517	0	479
+bbb-h-aqcqa.sfv	-	99	1	173867446	1	166
+Proof	d	0	1	173867545	1	167
+Proof/bbb-h-aqcqa.jpg	-	88852	1	173867545	1	167

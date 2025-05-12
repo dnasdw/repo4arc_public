@@ -1,0 +1,8 @@
+v-girls_und_panzer_v65536.nfo	3e4a2a36
+v-girls_und_panzer_v65536.r00	67148e0c
+v-girls_und_panzer_v65536.r01	e36bc464
+v-girls_und_panzer_v65536.r02	6029a2c3
+v-girls_und_panzer_v65536.r03	65356c29
+v-girls_und_panzer_v65536.r04	d239b344
+v-girls_und_panzer_v65536.rar	3e419c6e
+v-girls_und_panzer_v65536.sfv	0edee604

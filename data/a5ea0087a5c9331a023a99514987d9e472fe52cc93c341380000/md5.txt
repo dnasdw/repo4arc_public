@@ -1,0 +1,3 @@
+v-doom_1993_arrival_dlc.nfo	c1bab185efac8f561fc3a1573c3b35de
+v-doom_1993_arrival_dlc.rar	df2e2c201ee919d4131217369f547a92
+v-doom_1993_arrival_dlc.sfv	4a0a9bfa0e06da10af6b809f892f8804

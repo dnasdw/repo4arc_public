@@ -1,0 +1,9 @@
+sxs-big_adventure_trip_to_europe_5_collectors_edition.nfo	-	4964	1	0	0	0
+sxs-big_adventure_trip_to_europe_5_collectors_edition.r00	-	100000000	1	4964	0	1
+sxs-big_adventure_trip_to_europe_5_collectors_edition.r01	-	100000000	1	100004964	0	97
+sxs-big_adventure_trip_to_europe_5_collectors_edition.r02	-	100000000	1	200004964	0	193
+sxs-big_adventure_trip_to_europe_5_collectors_edition.r03	-	100000000	1	300004964	0	289
+sxs-big_adventure_trip_to_europe_5_collectors_edition.r04	-	100000000	1	400004964	0	385
+sxs-big_adventure_trip_to_europe_5_collectors_edition.r05	-	58731868	1	500004964	0	481
+sxs-big_adventure_trip_to_europe_5_collectors_edition.rar	-	100000000	1	20983132	1	21
+sxs-big_adventure_trip_to_europe_5_collectors_edition.sfv	-	476	1	120983132	1	117

@@ -1,0 +1,9 @@
+v-farm_tycoon_v393216.nfo	1cff722c
+v-farm_tycoon_v393216.r00	700d1d0c
+v-farm_tycoon_v393216.r01	a430041f
+v-farm_tycoon_v393216.r02	f565aff4
+v-farm_tycoon_v393216.r03	b918bd49
+v-farm_tycoon_v393216.r04	07e16165
+v-farm_tycoon_v393216.r05	a046bb61
+v-farm_tycoon_v393216.rar	f4ee4290
+v-farm_tycoon_v393216.sfv	e03a5b1c

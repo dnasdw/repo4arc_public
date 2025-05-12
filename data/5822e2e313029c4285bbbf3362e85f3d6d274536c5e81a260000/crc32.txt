@@ -1,0 +1,8 @@
+sxs-hexceed_v458752.nfo	2c7595e7
+sxs-hexceed_v458752.r00	e6a75468
+sxs-hexceed_v458752.r01	403ce518
+sxs-hexceed_v458752.r02	a54b2c6a
+sxs-hexceed_v458752.r03	d167a57b
+sxs-hexceed_v458752.r04	0cb1cb93
+sxs-hexceed_v458752.rar	cab46fe3
+sxs-hexceed_v458752.sfv	88edad8f

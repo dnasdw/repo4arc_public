@@ -1,0 +1,7 @@
+v-sonicm.nfo	e888db81d75974a2816ccaacafca5123
+v-sonicm.r00	df7e72fc95b9c10fd0edffe3d412f998
+v-sonicm.r01	b08e90120e71f2b33954ac9aadfff307
+v-sonicm.r02	4f1747acb14a08879a57ab77aeb70f2f
+v-sonicm.r03	200c84a4fb8922cbfacffc62e5ab0df5
+v-sonicm.rar	e15c33eae31287bfb06d74dd4ba73d77
+v-sonicm.sfv	353acda2693dd7541b9df9fcc751d004

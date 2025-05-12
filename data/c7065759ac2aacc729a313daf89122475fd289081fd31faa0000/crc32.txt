@@ -1,0 +1,4 @@
+sxs-drawngeon_dungeons_of_ink_and_paper_v131072.nfo	80805b24
+sxs-drawngeon_dungeons_of_ink_and_paper_v131072.r00	46574bfa
+sxs-drawngeon_dungeons_of_ink_and_paper_v131072.rar	903d4a14
+sxs-drawngeon_dungeons_of_ink_and_paper_v131072.sfv	655fc148

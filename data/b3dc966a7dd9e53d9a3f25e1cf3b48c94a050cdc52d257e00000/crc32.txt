@@ -1,0 +1,5 @@
+v-the_cub_v65536.nfo	7116813b
+v-the_cub_v65536.r00	831698cc
+v-the_cub_v65536.r01	b7b8cc9d
+v-the_cub_v65536.rar	46819ac6
+v-the_cub_v65536.sfv	891483df

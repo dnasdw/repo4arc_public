@@ -1,0 +1,9 @@
+delight.nfo	-	9200	1	0	0	0
+dl-moderntales.r00	-	150000000	1	9200	0	1
+dl-moderntales.r01	-	150000000	1	150009200	0	145
+dl-moderntales.r02	-	150000000	1	300009200	0	289
+dl-moderntales.r03	-	150000000	1	450009200	0	433
+dl-moderntales.r04	-	150000000	1	62968192	1	61
+dl-moderntales.r05	-	41520635	1	212968192	1	205
+dl-moderntales.rar	-	150000000	1	254488827	1	245
+dl-moderntales.sfv	-	203	1	404488827	1	389

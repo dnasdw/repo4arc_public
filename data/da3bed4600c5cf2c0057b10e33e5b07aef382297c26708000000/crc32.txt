@@ -1,0 +1,8 @@
+v-r-type_final_2_dlc_set_7.nfo	51b18883
+v-r-type_final_2_dlc_set_7.r00	aef5c475
+v-r-type_final_2_dlc_set_7.r01	03030f06
+v-r-type_final_2_dlc_set_7.r02	df166c20
+v-r-type_final_2_dlc_set_7.r03	7acd6a35
+v-r-type_final_2_dlc_set_7.r04	0fd108a7
+v-r-type_final_2_dlc_set_7.rar	a6c42c88
+v-r-type_final_2_dlc_set_7.sfv	12151a64

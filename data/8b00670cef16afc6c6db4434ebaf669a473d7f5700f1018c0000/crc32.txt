@@ -1,0 +1,8 @@
+sxs-monster_sanctuary_v524288.nfo	da41cee8
+sxs-monster_sanctuary_v524288.r00	cf4f0cc2
+sxs-monster_sanctuary_v524288.r01	bde224f2
+sxs-monster_sanctuary_v524288.r02	23011c9d
+sxs-monster_sanctuary_v524288.r03	1e844842
+sxs-monster_sanctuary_v524288.r04	d21df728
+sxs-monster_sanctuary_v524288.rar	8d418e98
+sxs-monster_sanctuary_v524288.sfv	12642290

@@ -1,0 +1,5 @@
+sxs-dungeon_color.nfo	-	5822	1	0	0	0
+sxs-dungeon_color.r00	-	50000000	1	5822	0	1
+sxs-dungeon_color.r01	-	30226658	1	50005822	0	49
+sxs-dungeon_color.rar	-	50000000	1	80232480	0	78
+sxs-dungeon_color.sfv	-	96	1	130232480	0	126

@@ -1,0 +1,8 @@
+sxs-wildbus_v393216.nfo	c0159a17
+sxs-wildbus_v393216.r00	8ae1c816
+sxs-wildbus_v393216.r01	d64c666c
+sxs-wildbus_v393216.r02	c1c2b37d
+sxs-wildbus_v393216.r03	425fc72b
+sxs-wildbus_v393216.r04	13f42964
+sxs-wildbus_v393216.rar	aa74d79f
+sxs-wildbus_v393216.sfv	8c2cc335

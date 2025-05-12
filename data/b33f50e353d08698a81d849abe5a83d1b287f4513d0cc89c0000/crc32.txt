@@ -1,0 +1,12 @@
+sxs-torchlight_iii_v196608.nfo	cd2ba00f
+sxs-torchlight_iii_v196608.r00	f5bf20c2
+sxs-torchlight_iii_v196608.r01	fef04fa0
+sxs-torchlight_iii_v196608.r02	7b7172d7
+sxs-torchlight_iii_v196608.r03	dd69ade0
+sxs-torchlight_iii_v196608.r04	75a896ac
+sxs-torchlight_iii_v196608.r05	c09084e7
+sxs-torchlight_iii_v196608.r06	8cd5181c
+sxs-torchlight_iii_v196608.r07	b29ecb01
+sxs-torchlight_iii_v196608.r08	77f031bb
+sxs-torchlight_iii_v196608.rar	bc692eed
+sxs-torchlight_iii_v196608.sfv	3efd188a

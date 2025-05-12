@@ -1,0 +1,9 @@
+n-fatam.nfo	1d006c1f400c970d0c1c85651acdcd2d
+n-fatam.r00	534e1d106bde80cac4d13c8057e307ea
+n-fatam.r01	07ba6ca3fdee467457c4d29721f1335e
+n-fatam.r02	d6bf005c12243a4df0eebda55f9d0aff
+n-fatam.r03	8aaed9a7273f4b70632e5095ead3e5d4
+n-fatam.r04	c47d8f8faedb5b680e4726c1f0689631
+n-fatam.r05	2b54a108f7183168dc7cd0799158b683
+n-fatam.rar	5d8796e93ba0de47e414cde2398b33c2
+n-fatam.sfv	a5cffb41ef87712b7539ef77e7acbb69

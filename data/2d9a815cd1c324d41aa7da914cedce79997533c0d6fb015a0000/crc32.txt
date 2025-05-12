@@ -1,0 +1,6 @@
+sxs-samurai_shodown_v_special.nfo	46fede0a
+sxs-samurai_shodown_v_special.r00	82315237
+sxs-samurai_shodown_v_special.r01	93d487d9
+sxs-samurai_shodown_v_special.r02	59813ee1
+sxs-samurai_shodown_v_special.rar	95dd5002
+sxs-samurai_shodown_v_special.sfv	334dc622

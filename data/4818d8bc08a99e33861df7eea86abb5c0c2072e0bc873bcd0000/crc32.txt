@@ -1,0 +1,17 @@
+v-doom_ii_classic_v262144.nfo	250fbcc9
+v-doom_ii_classic_v262144.r00	30d6ceca
+v-doom_ii_classic_v262144.r01	4dced4e1
+v-doom_ii_classic_v262144.r02	2f98cb31
+v-doom_ii_classic_v262144.r03	66147375
+v-doom_ii_classic_v262144.r04	667f3ae5
+v-doom_ii_classic_v262144.r05	a0e5e4ad
+v-doom_ii_classic_v262144.r06	e42dd5d4
+v-doom_ii_classic_v262144.r07	67542f6b
+v-doom_ii_classic_v262144.r08	e8877a8e
+v-doom_ii_classic_v262144.r09	513078d1
+v-doom_ii_classic_v262144.r10	362bc947
+v-doom_ii_classic_v262144.r11	8e9a85b1
+v-doom_ii_classic_v262144.r12	5f379227
+v-doom_ii_classic_v262144.r13	139af64d
+v-doom_ii_classic_v262144.rar	c793ff39
+v-doom_ii_classic_v262144.sfv	67b72177

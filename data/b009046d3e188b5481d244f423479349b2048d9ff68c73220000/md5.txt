@@ -1,0 +1,8 @@
+sxs-retimed_v196608.nfo	d790e58c9d0cb72a5911de75b161af5c
+sxs-retimed_v196608.r00	176c2914c37f68d3bb95baaad5f34f05
+sxs-retimed_v196608.r01	1f9e61d5c20fe092400cffec32a84ff0
+sxs-retimed_v196608.r02	3edbc2111295f44e92b5083021ec55e4
+sxs-retimed_v196608.r03	96dd6f050f41b1407b3de5f2bad875d5
+sxs-retimed_v196608.r04	594dbadd3a8d36f4cf34413de4685419
+sxs-retimed_v196608.rar	ebbd412c6f51ae88fd7edc0a966be8db
+sxs-retimed_v196608.sfv	adbef1bcef5e42d67b58284a1fa3297f

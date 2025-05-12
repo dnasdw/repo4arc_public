@@ -1,0 +1,14 @@
+v-red_wings_american_aces_v196608.nfo	a62f3c49
+v-red_wings_american_aces_v196608.r00	5217061d
+v-red_wings_american_aces_v196608.r01	91954c4c
+v-red_wings_american_aces_v196608.r02	f838d411
+v-red_wings_american_aces_v196608.r03	a6421f9c
+v-red_wings_american_aces_v196608.r04	67b6d0f9
+v-red_wings_american_aces_v196608.r05	8ffaf339
+v-red_wings_american_aces_v196608.r06	0658946c
+v-red_wings_american_aces_v196608.r07	eb259432
+v-red_wings_american_aces_v196608.r08	23dfc3c8
+v-red_wings_american_aces_v196608.r09	fc9306e8
+v-red_wings_american_aces_v196608.r10	62e3c6b2
+v-red_wings_american_aces_v196608.rar	87c09fc2
+v-red_wings_american_aces_v196608.sfv	4a7a3615

@@ -1,0 +1,9 @@
+sxs-toricky_s_v262144.nfo	a14f5328
+sxs-toricky_s_v262144.r00	fea89b75
+sxs-toricky_s_v262144.r01	1b5f572c
+sxs-toricky_s_v262144.r02	24c796e9
+sxs-toricky_s_v262144.r03	89d533bd
+sxs-toricky_s_v262144.r04	8ba52a90
+sxs-toricky_s_v262144.r05	adfe3431
+sxs-toricky_s_v262144.rar	0e98988c
+sxs-toricky_s_v262144.sfv	5a35ce08

@@ -1,0 +1,10 @@
+v-armello_v196608.nfo	257e4e5e
+v-armello_v196608.r00	734e7bb2
+v-armello_v196608.r01	6d8fc917
+v-armello_v196608.r02	bf723602
+v-armello_v196608.r03	d6ff1aa0
+v-armello_v196608.r04	7565406e
+v-armello_v196608.r05	ed7a84b4
+v-armello_v196608.r06	2712a312
+v-armello_v196608.rar	9a2d783e
+v-armello_v196608.sfv	b4cdf0c5

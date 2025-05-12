@@ -1,0 +1,8 @@
+sxs-formula_retro_racing_world_tour_v458752.nfo	1be64bbb
+sxs-formula_retro_racing_world_tour_v458752.r00	d7156577
+sxs-formula_retro_racing_world_tour_v458752.r01	5cb4d8ce
+sxs-formula_retro_racing_world_tour_v458752.r02	74928e2f
+sxs-formula_retro_racing_world_tour_v458752.r03	e7611e01
+sxs-formula_retro_racing_world_tour_v458752.r04	4d5363c4
+sxs-formula_retro_racing_world_tour_v458752.rar	f76a891c
+sxs-formula_retro_racing_world_tour_v458752.sfv	fafe50cc

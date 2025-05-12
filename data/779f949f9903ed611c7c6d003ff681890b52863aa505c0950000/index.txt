@@ -1,0 +1,5 @@
+sxs-goblin_sword_v196608.nfo	-	4028	1	0	0	0
+sxs-goblin_sword_v196608.r00	-	50000000	1	4028	0	1
+sxs-goblin_sword_v196608.r01	-	24128	1	50004028	0	49
+sxs-goblin_sword_v196608.rar	-	50000000	1	50028156	0	50
+sxs-goblin_sword_v196608.sfv	-	117	1	100028156	0	98

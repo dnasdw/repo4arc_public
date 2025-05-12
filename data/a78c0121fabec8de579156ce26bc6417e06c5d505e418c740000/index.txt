@@ -1,0 +1,8 @@
+sxs-super_blood_hockey.nfo	-	5744	1	0	0	0
+sxs-super_blood_hockey.r00	-	50000000	1	5744	0	1
+sxs-super_blood_hockey.r01	-	50000000	1	50005744	0	49
+sxs-super_blood_hockey.r02	-	50000000	1	100005744	0	97
+sxs-super_blood_hockey.r03	-	50000000	1	150005744	0	145
+sxs-super_blood_hockey.r04	-	23961009	1	200005744	0	193
+sxs-super_blood_hockey.rar	-	50000000	1	223966753	0	216
+sxs-super_blood_hockey.sfv	-	222	1	273966753	0	264

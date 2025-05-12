@@ -1,0 +1,5 @@
+v-pmdrtdx_v131072.nfo	2df2b6dee487c7b0d973855b49c2577b
+v-pmdrtdx_v131072.r00	7ab0b55d177fa9a343182731a41b3be9
+v-pmdrtdx_v131072.r01	ad0681f1ddc965f506607d07bb2a8e2c
+v-pmdrtdx_v131072.rar	3e02334a56c0fd9e921e593b89ce4aab
+v-pmdrtdx_v131072.sfv	3420fe7cd7c4fedfba88c06e71d0f6aa

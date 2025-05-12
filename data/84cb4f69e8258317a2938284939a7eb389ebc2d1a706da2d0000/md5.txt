@@ -1,0 +1,5 @@
+sxs-the_captain_v131072.nfo	45f5aa22d8e5cad1de2911f8453b35f7
+sxs-the_captain_v131072.r00	2174a969c8884c7dbb1a79c32c217743
+sxs-the_captain_v131072.r01	06db44c56ab18efddc50912598611a6f
+sxs-the_captain_v131072.rar	cbbc40b53c870b851748d57e2d4c8399
+sxs-the_captain_v131072.sfv	1d1f91350b24e55c66e95f087d2bf1f4

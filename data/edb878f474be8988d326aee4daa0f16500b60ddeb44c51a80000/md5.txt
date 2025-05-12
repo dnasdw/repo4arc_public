@@ -1,0 +1,10 @@
+jrp-tcbotsk.nfo	1bdd25a64cb357948e48e4133353586d
+jrp-tcbotsk.r00	db72cdcf8425e5b0e254b61165807963
+jrp-tcbotsk.r01	3010c7aaf893e7c097b598a31b085152
+jrp-tcbotsk.r02	6bc55a6a0a1e3d317fe09305c6f6fe3c
+jrp-tcbotsk.r03	748a827e3696b1e5d24ae4e3e3abc38c
+jrp-tcbotsk.r04	5c8d35112e3c1a7514f178733a324eee
+jrp-tcbotsk.r05	0e1298e9f6468309f6d75b8c0599be1a
+jrp-tcbotsk.r06	7c0a51baab1ce391756e5d34072b617e
+jrp-tcbotsk.rar	03e4757d2faa150b8e7b2cd1f8713d80
+jrp-tcbotsk.sfv	47a1f2031a4ad811654e80650febbbf3

@@ -1,0 +1,6 @@
+lfc-agathaknife.nfo	-	4262	1	0	0	0
+lfc-agathaknife.r00	-	100000000	1	4262	0	1
+lfc-agathaknife.r01	-	100000000	1	100004262	0	97
+lfc-agathaknife.r02	-	32987047	1	200004262	0	193
+lfc-agathaknife.rar	-	100000000	1	232991309	0	225
+lfc-agathaknife.sfv	-	120	1	332991309	0	321

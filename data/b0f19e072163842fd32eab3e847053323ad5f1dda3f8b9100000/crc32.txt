@@ -1,0 +1,12 @@
+sxs-earthlock_v196608.nfo	94aeedf6
+sxs-earthlock_v196608.r00	58374114
+sxs-earthlock_v196608.r01	d07b3f94
+sxs-earthlock_v196608.r02	04ebbc96
+sxs-earthlock_v196608.r03	4f6dae2b
+sxs-earthlock_v196608.r04	5432cd7a
+sxs-earthlock_v196608.r05	cc8beda9
+sxs-earthlock_v196608.r06	ccb5dd4c
+sxs-earthlock_v196608.r07	666c3dfb
+sxs-earthlock_v196608.r08	6a6faa23
+sxs-earthlock_v196608.rar	d16bb898
+sxs-earthlock_v196608.sfv	be45aa3c

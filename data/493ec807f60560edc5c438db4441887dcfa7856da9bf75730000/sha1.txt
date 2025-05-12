@@ -1,0 +1,5 @@
+v-deadcraft_v131072.nfo	c003559272b7d4e9f7dea81daf4f306a87e334df
+v-deadcraft_v131072.r00	4c2739fc07dc9653fbe2726c508b1a5afb41326b
+v-deadcraft_v131072.r01	823ce161368a7c33fc26407c99787e6baef23299
+v-deadcraft_v131072.rar	bf28260e823a8fdccf24ce1832dab3c8fa9cb217
+v-deadcraft_v131072.sfv	58474da10cbfb7dbd2e2660e4a8eb7da90afaea8

@@ -1,0 +1,12 @@
+sxs-laser_kitty_pow_pow.nfo	015a4015
+sxs-laser_kitty_pow_pow.r00	8a563a8d
+sxs-laser_kitty_pow_pow.r01	fe919213
+sxs-laser_kitty_pow_pow.r02	8c952f3c
+sxs-laser_kitty_pow_pow.r03	db6d074e
+sxs-laser_kitty_pow_pow.r04	6e57e109
+sxs-laser_kitty_pow_pow.r05	929aabcf
+sxs-laser_kitty_pow_pow.r06	07293880
+sxs-laser_kitty_pow_pow.r07	1ae8dc04
+sxs-laser_kitty_pow_pow.r08	756652c9
+sxs-laser_kitty_pow_pow.rar	8ffc13b6
+sxs-laser_kitty_pow_pow.sfv	119eb4a0

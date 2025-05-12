@@ -1,0 +1,15 @@
+v-baldrsgate12_v262144.nfo	2c8a106c
+v-baldrsgate12_v262144.r00	66366357
+v-baldrsgate12_v262144.r01	c0894ebd
+v-baldrsgate12_v262144.r02	06a84645
+v-baldrsgate12_v262144.r03	fa9480c2
+v-baldrsgate12_v262144.r04	f848a73c
+v-baldrsgate12_v262144.r05	1c9bef7f
+v-baldrsgate12_v262144.r06	8f058f32
+v-baldrsgate12_v262144.r07	f004d2a6
+v-baldrsgate12_v262144.r08	40530766
+v-baldrsgate12_v262144.r09	417ed986
+v-baldrsgate12_v262144.r10	ba904b85
+v-baldrsgate12_v262144.r11	b6543ed8
+v-baldrsgate12_v262144.rar	8e3b939a
+v-baldrsgate12_v262144.sfv	52a4fee9

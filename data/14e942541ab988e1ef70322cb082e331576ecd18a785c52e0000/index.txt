@@ -1,0 +1,5 @@
+bbb-n-aqlha.nfo	-	5517	1	0	0	0
+bbb-n-aqlha.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aqlha.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aqlha.part3.rar	-	42840951	1	500005517	0	479
+bbb-n-aqlha.sfv	-	96	1	5092215	1	5

@@ -1,0 +1,3 @@
+v-mario_kart_8_deluxe_wave_1_dlc.nfo	-	4888	1	0	0	0
+v-mario_kart_8_deluxe_wave_1_dlc.rar	-	104106	1	4888	0	1
+v-mario_kart_8_deluxe_wave_1_dlc.sfv	-	47	1	108994	0	2

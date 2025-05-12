@@ -1,0 +1,4 @@
+v-assault_android_cactus_plus_v65536.nfo	-	5825	1	0	0	0
+v-assault_android_cactus_plus_v65536.r00	-	16206470	1	5825	0	1
+v-assault_android_cactus_plus_v65536.rar	-	50000000	1	16212295	0	17
+v-assault_android_cactus_plus_v65536.sfv	-	102	1	66212295	0	65

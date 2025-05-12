@@ -1,0 +1,5 @@
+sxs-hopes_farm.nfo	-	5666	1	0	0	0
+sxs-hopes_farm.r00	-	100000000	1	5666	0	1
+sxs-hopes_farm.r01	-	56765666	1	100005666	0	97
+sxs-hopes_farm.rar	-	100000000	1	156771332	0	152
+sxs-hopes_farm.sfv	-	87	1	256771332	0	248

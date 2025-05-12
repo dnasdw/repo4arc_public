@@ -1,0 +1,7 @@
+sxs-haak_v458752.nfo	77458822
+sxs-haak_v458752.r00	123c4889
+sxs-haak_v458752.r01	fc4e6f41
+sxs-haak_v458752.r02	52829c67
+sxs-haak_v458752.r03	2e123748
+sxs-haak_v458752.rar	b23ea5b6
+sxs-haak_v458752.sfv	0a16743a

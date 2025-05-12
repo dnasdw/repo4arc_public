@@ -1,0 +1,12 @@
+sxs-martian_panic_v131072.nfo	14353f2a
+sxs-martian_panic_v131072.r00	42030ff0
+sxs-martian_panic_v131072.r01	de360a1f
+sxs-martian_panic_v131072.r02	5f24a678
+sxs-martian_panic_v131072.r03	6a92e805
+sxs-martian_panic_v131072.r04	d21563f6
+sxs-martian_panic_v131072.r05	60a11ab6
+sxs-martian_panic_v131072.r06	ca3c0fd6
+sxs-martian_panic_v131072.r07	1e5a5d05
+sxs-martian_panic_v131072.r08	7322b01d
+sxs-martian_panic_v131072.rar	4b4a1264
+sxs-martian_panic_v131072.sfv	6c24940e

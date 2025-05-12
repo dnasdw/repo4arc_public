@@ -1,0 +1,5 @@
+sxs-time_trap_hidden_objects.nfo	-	4496	1	0	0	0
+sxs-time_trap_hidden_objects.r00	-	100000000	1	4496	0	1
+sxs-time_trap_hidden_objects.r01	-	84280589	1	100004496	0	97
+sxs-time_trap_hidden_objects.rar	-	100000000	1	184285085	0	178
+sxs-time_trap_hidden_objects.sfv	-	129	1	284285085	0	274

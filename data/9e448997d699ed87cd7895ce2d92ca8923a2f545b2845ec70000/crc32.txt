@@ -1,0 +1,16 @@
+i-smsbst.nfo	24138232
+i-smsbst.r00	a7582349
+i-smsbst.r01	82b2161b
+i-smsbst.r02	902380b4
+i-smsbst.r03	626bbd4d
+i-smsbst.r04	73d442ff
+i-smsbst.r05	ab7cdc31
+i-smsbst.r06	6b673b72
+i-smsbst.r07	e4a8278f
+i-smsbst.r08	02c4bddf
+i-smsbst.r09	fda3ac3f
+i-smsbst.r10	f3a2f7a6
+i-smsbst.r11	7461e8da
+i-smsbst.r12	55118c58
+i-smsbst.rar	7de699ac
+i-smsbst.sfv	1ab260cc

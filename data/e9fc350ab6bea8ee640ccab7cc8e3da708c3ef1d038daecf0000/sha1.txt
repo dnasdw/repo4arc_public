@@ -1,0 +1,5 @@
+lfc-projectstarship.nfo	333fc071d27f2863c4361958bf10a060f121d2de
+lfc-projectstarship.r00	3aecc1647bd8210aa3266d55aaf20538a3ccb755
+lfc-projectstarship.r01	cbdccd5e6083d65f302c852fb12bc33b4ca99a59
+lfc-projectstarship.rar	721bb0ed2a904940f2fe68a40d6e043951e01df3
+lfc-projectstarship.sfv	3a69d64025b5556ec470acc6fab8f440dfe1201f

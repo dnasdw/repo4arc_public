@@ -1,0 +1,11 @@
+v-doom_ii_classic_v524288.nfo	105ad37c
+v-doom_ii_classic_v524288.r00	365c59a9
+v-doom_ii_classic_v524288.r01	149dcb78
+v-doom_ii_classic_v524288.r02	1d5cd01c
+v-doom_ii_classic_v524288.r03	daf5a6d7
+v-doom_ii_classic_v524288.r04	488b8373
+v-doom_ii_classic_v524288.r05	150e1de5
+v-doom_ii_classic_v524288.r06	66ea907b
+v-doom_ii_classic_v524288.r07	6d6e6621
+v-doom_ii_classic_v524288.rar	370d3c8a
+v-doom_ii_classic_v524288.sfv	e950d920

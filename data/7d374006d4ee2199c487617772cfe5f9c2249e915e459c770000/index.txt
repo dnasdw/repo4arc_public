@@ -1,0 +1,13 @@
+bbb-n-afxdb.nfo	-	5517	1	0	0	0
+bbb-n-afxdb.part01.rar	-	250000000	1	5517	0	1
+bbb-n-afxdb.part02.rar	-	250000000	1	250005517	0	240
+bbb-n-afxdb.part03.rar	-	250000000	1	500005517	0	479
+bbb-n-afxdb.part04.rar	-	250000000	1	212251264	1	203
+bbb-n-afxdb.part05.rar	-	250000000	1	462251264	1	442
+bbb-n-afxdb.part06.rar	-	250000000	1	174502528	2	167
+bbb-n-afxdb.part07.rar	-	250000000	1	424502528	2	406
+bbb-n-afxdb.part08.rar	-	250000000	1	136753792	3	131
+bbb-n-afxdb.part09.rar	-	250000000	1	386753792	3	370
+bbb-n-afxdb.part10.rar	-	250000000	1	99005056	4	95
+bbb-n-afxdb.part11.rar	-	122402045	1	349005056	4	334
+bbb-n-afxdb.sfv	-	363	1	471407101	4	451

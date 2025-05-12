@@ -1,0 +1,6 @@
+sxs-cave_story_plus_v196608.nfo	a7acc60284867e1a0fca062c8982a4b0
+sxs-cave_story_plus_v196608.r00	e057d31556b7cb4b1e6901de137132bd
+sxs-cave_story_plus_v196608.r01	9b2df4f7fe064e22880d3d0bca93bddc
+sxs-cave_story_plus_v196608.r02	53536fa247613ad9e32f98778259feb6
+sxs-cave_story_plus_v196608.rar	b792ac7d445811e35af4fd559d9bb624
+sxs-cave_story_plus_v196608.sfv	31b6b5a484c9a3e6079a0c39b8edcd4b

@@ -1,0 +1,3 @@
+sxs-archetype_arcadia_v65536.nfo	29ce17fa6ec50898d007fa464d1ca0ac
+sxs-archetype_arcadia_v65536.rar	d2267689cbab25286bfab51d523b5336
+sxs-archetype_arcadia_v65536.sfv	ebac356ec38d9343d9d4d8d220646529

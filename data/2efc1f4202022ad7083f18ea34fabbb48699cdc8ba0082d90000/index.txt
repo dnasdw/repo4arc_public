@@ -1,0 +1,9 @@
+v-the_wonderful_101_remastered_v393216.nfo	-	5746	1	0	0	0
+v-the_wonderful_101_remastered_v393216.r00	-	50000000	1	5746	0	1
+v-the_wonderful_101_remastered_v393216.r01	-	50000000	1	50005746	0	49
+v-the_wonderful_101_remastered_v393216.r02	-	50000000	1	100005746	0	97
+v-the_wonderful_101_remastered_v393216.r03	-	50000000	1	150005746	0	145
+v-the_wonderful_101_remastered_v393216.r04	-	50000000	1	200005746	0	193
+v-the_wonderful_101_remastered_v393216.r05	-	5083089	1	250005746	0	241
+v-the_wonderful_101_remastered_v393216.rar	-	50000000	1	255088835	0	246
+v-the_wonderful_101_remastered_v393216.sfv	-	371	1	305088835	0	294

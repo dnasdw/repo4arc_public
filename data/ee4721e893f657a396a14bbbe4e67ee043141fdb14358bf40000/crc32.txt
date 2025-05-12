@@ -1,0 +1,14 @@
+sxs-reventure.nfo	87e3accb
+sxs-reventure.r00	e410be79
+sxs-reventure.r01	6a0d3d82
+sxs-reventure.r02	c661e971
+sxs-reventure.r03	961d0140
+sxs-reventure.r04	74edcc19
+sxs-reventure.r05	804aa6d3
+sxs-reventure.r06	3bacef2a
+sxs-reventure.r07	5fa8182c
+sxs-reventure.r08	1ebd25a3
+sxs-reventure.r09	323a4e9f
+sxs-reventure.r10	fd343ba0
+sxs-reventure.rar	b8cfe2ae
+sxs-reventure.sfv	945eba8f

@@ -1,0 +1,9 @@
+sxs-fashion_dreamer_v262144.nfo	-	6066	1	0	0	0
+sxs-fashion_dreamer_v262144.r00	-	100000000	1	6066	0	1
+sxs-fashion_dreamer_v262144.r01	-	100000000	1	100006066	0	97
+sxs-fashion_dreamer_v262144.r02	-	100000000	1	200006066	0	193
+sxs-fashion_dreamer_v262144.r03	-	100000000	1	300006066	0	289
+sxs-fashion_dreamer_v262144.r04	-	100000000	1	400006066	0	385
+sxs-fashion_dreamer_v262144.r05	-	45362653	1	500006066	0	481
+sxs-fashion_dreamer_v262144.rar	-	100000000	1	7613917	1	8
+sxs-fashion_dreamer_v262144.sfv	-	294	1	107613917	1	104

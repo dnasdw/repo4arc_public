@@ -1,0 +1,10 @@
+sxs-karmazoo.nfo	8bb2fcec
+sxs-karmazoo.r00	7a9fb2e0
+sxs-karmazoo.r01	d85def35
+sxs-karmazoo.r02	b95a2762
+sxs-karmazoo.r03	bef7b40c
+sxs-karmazoo.r04	ba8d2653
+sxs-karmazoo.r05	56b0876d
+sxs-karmazoo.r06	25145c30
+sxs-karmazoo.rar	5eef78e8
+sxs-karmazoo.sfv	3ecadd3d

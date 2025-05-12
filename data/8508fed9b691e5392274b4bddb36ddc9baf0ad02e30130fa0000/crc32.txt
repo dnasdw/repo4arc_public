@@ -1,0 +1,5 @@
+sxs-picross_s_v327680.nfo	067df1df
+sxs-picross_s_v327680.r00	50839b0d
+sxs-picross_s_v327680.r01	49d77fde
+sxs-picross_s_v327680.rar	a55a7ba7
+sxs-picross_s_v327680.sfv	f73e5cb2

@@ -1,0 +1,6 @@
+lfc-mtp2.nfo	86dbca0b
+lfc-mtp2.r00	f22f8e16
+lfc-mtp2.r01	207dcaa5
+lfc-mtp2.r02	380da9b3
+lfc-mtp2.rar	b11fd3d3
+lfc-mtp2.sfv	5cd77be1

@@ -1,0 +1,14 @@
+sxs-super_bullet_break_v131072.nfo	7eade411
+sxs-super_bullet_break_v131072.r00	582523f8
+sxs-super_bullet_break_v131072.r01	2ded5167
+sxs-super_bullet_break_v131072.r02	c373747c
+sxs-super_bullet_break_v131072.r03	0cafbc1f
+sxs-super_bullet_break_v131072.r04	70bbee3e
+sxs-super_bullet_break_v131072.r05	616aa6e7
+sxs-super_bullet_break_v131072.r06	dadf2771
+sxs-super_bullet_break_v131072.r07	206438c6
+sxs-super_bullet_break_v131072.r08	f38f25f2
+sxs-super_bullet_break_v131072.r09	10544739
+sxs-super_bullet_break_v131072.r10	e1777cec
+sxs-super_bullet_break_v131072.rar	b7a1c49c
+sxs-super_bullet_break_v131072.sfv	60f58fe7

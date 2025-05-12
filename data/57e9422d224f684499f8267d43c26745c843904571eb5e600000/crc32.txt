@@ -1,0 +1,16 @@
+hr-avsza.nfo	cfc524d9
+hr-avsza.r00	7482b7c8
+hr-avsza.r01	a5bb2a72
+hr-avsza.r02	79bdda33
+hr-avsza.r03	80883495
+hr-avsza.r04	c502c9a9
+hr-avsza.r05	76f6801f
+hr-avsza.r06	2ffff834
+hr-avsza.r07	3083a76b
+hr-avsza.r08	cbfd2e7e
+hr-avsza.r09	b246673b
+hr-avsza.r10	ca95a412
+hr-avsza.rar	1783c6b2
+hr-avsza.sfv	e37243ec
+Proof	00000000
+Proof/hr-avsza.jpg	e8ebf91a

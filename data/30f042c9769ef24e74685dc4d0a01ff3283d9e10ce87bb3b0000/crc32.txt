@@ -1,0 +1,5 @@
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_v131072.nfo	f1c7ad5a
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_v131072.r00	dfc06232
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_v131072.r01	cda07dd7
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_v131072.rar	c1506e63
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_v131072.sfv	6a388467

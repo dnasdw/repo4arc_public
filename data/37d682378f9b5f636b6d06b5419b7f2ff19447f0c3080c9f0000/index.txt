@@ -1,0 +1,5 @@
+lfc-kuukiyomiconsiderit.nfo	-	4290	1	0	0	0
+lfc-kuukiyomiconsiderit.r00	-	50000000	1	4290	0	1
+lfc-kuukiyomiconsiderit.r01	-	45303276	1	50004290	0	49
+lfc-kuukiyomiconsiderit.rar	-	50000000	1	95307566	0	93
+lfc-kuukiyomiconsiderit.sfv	-	114	1	145307566	0	141

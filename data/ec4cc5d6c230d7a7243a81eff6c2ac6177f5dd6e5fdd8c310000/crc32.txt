@@ -1,0 +1,5 @@
+v-super_monkey_ball_banana_mania_dlc.nfo	74ed3627
+v-super_monkey_ball_banana_mania_dlc.r00	4bd0eafd
+v-super_monkey_ball_banana_mania_dlc.r01	ffbe8553
+v-super_monkey_ball_banana_mania_dlc.rar	47a675d0
+v-super_monkey_ball_banana_mania_dlc.sfv	5cc56ed0

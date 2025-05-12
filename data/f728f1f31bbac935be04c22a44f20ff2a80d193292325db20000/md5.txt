@@ -1,0 +1,14 @@
+sxs-apparition.nfo	b3e340c789ce45c7bc73985007e6e835
+sxs-apparition.r00	b8234e7d7898270f3667ae3083120b0e
+sxs-apparition.r01	c694d9cff5de01b60fc8fdb78a374f43
+sxs-apparition.r02	8028bb0122b761e4feff0e5ae4a0fde5
+sxs-apparition.r03	dd2feeff972bd6fe54fbe52f4e2a1efa
+sxs-apparition.r04	4461c3bbb864e37440d1c15394bc194a
+sxs-apparition.r05	9ab3da2bb7ab9b5a5e5ef2fb80cb3e75
+sxs-apparition.r06	4101137b1e0bab8f201353b5b271385d
+sxs-apparition.r07	19947e4bae7652ba850171b4345905a3
+sxs-apparition.r08	e4afdf76117e14845904d9e7e3f24ab5
+sxs-apparition.r09	0261312989e8fb84eccbd247fce89e56
+sxs-apparition.r10	78d7717783e4649398e5ef3559f0d9aa
+sxs-apparition.rar	e828f90b0b0a83b4ac502ca38984fa16
+sxs-apparition.sfv	074aefc7e4161b72e14a6a38c4794d52

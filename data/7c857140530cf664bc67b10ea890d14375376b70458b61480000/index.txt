@@ -1,0 +1,11 @@
+n-tinygladiators.nfo	-	322	1	0	0	0
+n-tinygladiators.r00	-	50000000	1	322	0	1
+n-tinygladiators.r01	-	50000000	1	50000322	0	49
+n-tinygladiators.r02	-	50000000	1	100000322	0	97
+n-tinygladiators.r03	-	50000000	1	150000322	0	145
+n-tinygladiators.r04	-	50000000	1	200000322	0	193
+n-tinygladiators.r05	-	50000000	1	250000322	0	241
+n-tinygladiators.r06	-	50000000	1	300000322	0	289
+n-tinygladiators.r07	-	47352613	1	350000322	0	337
+n-tinygladiators.rar	-	50000000	1	397352935	0	383
+n-tinygladiators.sfv	-	279	1	447352935	0	431

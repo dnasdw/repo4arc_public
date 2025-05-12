@@ -1,0 +1,8 @@
+v-dark_devotion_v65536.nfo	f92a380933eee4f2b50415f677d83195
+v-dark_devotion_v65536.r00	54b992160a3082772476779354593863
+v-dark_devotion_v65536.r01	3b150e05b383814a6b91b969130e2a48
+v-dark_devotion_v65536.r02	9cbb515a8ab1ce6d244ca624d1e9c085
+v-dark_devotion_v65536.r03	7ff7c5030683acdd1f95d10cb90f0c15
+v-dark_devotion_v65536.r04	c911a8370b5c87f53aff9bfaecc4f1de
+v-dark_devotion_v65536.rar	cdd560623f2e9884a08d00cdc6469d15
+v-dark_devotion_v65536.sfv	973d947f54ebc13ecc9d388e7d71c115

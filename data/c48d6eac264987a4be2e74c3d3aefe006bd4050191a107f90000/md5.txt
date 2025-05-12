@@ -1,0 +1,14 @@
+brw-piaf.nfo	e14b39a4f7c2a276fbe39e0a4b844fff
+brw-piaf.r00	010cb29bfbc4a011205266b48c8335ee
+brw-piaf.r01	8c88a49b5f0e981c1f40d8b7144039f6
+brw-piaf.r02	af52624674b6493b48a7f8ac4e21a01a
+brw-piaf.r03	32fac1b504e6ed1151436d909b11de53
+brw-piaf.r04	8208a2d131cb44aa59a9c66cfae12a43
+brw-piaf.r05	af9333f6c4b8eb27499a6d9fed62f704
+brw-piaf.r06	a42bf8afc9a2b48844b60285aa8e2e92
+brw-piaf.r07	3f9c97fff55d64d2f2f5e35c966d4cfc
+brw-piaf.r08	722141ff8925ee0e3110771d3aab89eb
+brw-piaf.r09	03b0686af3dd9a97ccf7c8b1fdc913bb
+brw-piaf.r10	733fa49a641d721833f1f6c8c307d044
+brw-piaf.rar	b502120d8ad6bd8331936172ce2ebb7b
+brw-piaf.sfv	b0d87ac05388c76ce7bd165caeaf106a

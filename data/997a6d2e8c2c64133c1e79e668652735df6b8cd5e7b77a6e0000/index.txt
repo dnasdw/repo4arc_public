@@ -1,0 +1,6 @@
+sxs-classic_games_collection_vol2.nfo	-	5276	1	0	0	0
+sxs-classic_games_collection_vol2.r00	-	100000000	1	5276	0	1
+sxs-classic_games_collection_vol2.r01	-	100000000	1	100005276	0	97
+sxs-classic_games_collection_vol2.r02	-	90619880	1	200005276	0	193
+sxs-classic_games_collection_vol2.rar	-	100000000	1	290625156	0	280
+sxs-classic_games_collection_vol2.sfv	-	192	1	390625156	0	376

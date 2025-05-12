@@ -1,0 +1,7 @@
+sxs-super_sean_007.nfo	-	4496	1	0	0	0
+sxs-super_sean_007.r00	-	100000000	1	4496	0	1
+sxs-super_sean_007.r01	-	100000000	1	100004496	0	97
+sxs-super_sean_007.r02	-	100000000	1	200004496	0	193
+sxs-super_sean_007.r03	-	95571883	1	300004496	0	289
+sxs-super_sean_007.rar	-	100000000	1	395576379	0	381
+sxs-super_sean_007.sfv	-	165	1	495576379	0	477

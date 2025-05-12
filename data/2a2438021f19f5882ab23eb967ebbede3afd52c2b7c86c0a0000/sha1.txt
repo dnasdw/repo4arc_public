@@ -1,0 +1,3 @@
+sxs-caretaker_v65536.nfo	5cd8a86ff7f086fdefb4b8159696ea65a64cedf7
+sxs-caretaker_v65536.rar	8587611ea2c3af62755e87295257b2152c28f299
+sxs-caretaker_v65536.sfv	b115153837e4cbe36ea8cba645994eb557beb8d9

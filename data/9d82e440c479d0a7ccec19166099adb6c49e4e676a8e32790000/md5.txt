@@ -1,0 +1,6 @@
+v-picross_s5_v524288.nfo	b40c83c4befe78b9ae49a30f7f6dc552
+v-picross_s5_v524288.r00	140e0025136e0e2056f718822b13aee3
+v-picross_s5_v524288.r01	7b25374c1feaacb9452223b2e0f73246
+v-picross_s5_v524288.r02	b84724f2fdbb5d34693796bedadfd567
+v-picross_s5_v524288.rar	9c2f4caf1b85d5e10e080eaff62d5973
+v-picross_s5_v524288.sfv	78e8e7e44ffa5caced554fdbfd5fbffc

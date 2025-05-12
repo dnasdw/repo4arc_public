@@ -1,0 +1,7 @@
+sxs-skully_v131072.nfo	61db9495
+sxs-skully_v131072.r00	21caf2fc
+sxs-skully_v131072.r01	fc69d1de
+sxs-skully_v131072.r02	85ac01a2
+sxs-skully_v131072.r03	96c06c81
+sxs-skully_v131072.rar	90a5a6be
+sxs-skully_v131072.sfv	75d64f14

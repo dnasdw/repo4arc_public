@@ -1,0 +1,4 @@
+bbb-n-an74a.nfo	-	5517	1	0	0	0
+bbb-n-an74a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-an74a.part2.rar	-	7444012	1	250005517	0	240
+bbb-n-an74a.sfv	-	64	1	257449529	0	248

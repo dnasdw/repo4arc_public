@@ -1,0 +1,5 @@
+v-blazing_chrome.nfo	-	5122	1	0	0	0
+v-blazing_chrome.r00	-	50000000	1	5122	0	1
+v-blazing_chrome.r01	-	27808380	1	50005122	0	49
+v-blazing_chrome.rar	-	50000000	1	77813502	0	76
+v-blazing_chrome.sfv	-	93	1	127813502	0	124

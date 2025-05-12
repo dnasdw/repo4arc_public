@@ -1,0 +1,6 @@
+sxs-the_bug_butcher.nfo	3467474cd896a65f3351bae4a34f95ea
+sxs-the_bug_butcher.r00	54f742a7c99a6b94cfbac78b65b5f7ec
+sxs-the_bug_butcher.r01	43ca5e980acc729365d0ab8706811d5e
+sxs-the_bug_butcher.r02	4bb59722b4897a9e5e7c7826f034ac12
+sxs-the_bug_butcher.rar	f5962aa6661e4050c74d98e6a1124662
+sxs-the_bug_butcher.sfv	bec7a0530485fc53aa8011d366f79aba

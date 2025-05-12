@@ -1,0 +1,11 @@
+sxs-deleted.nfo	9c2a63fbf7ae94c66fc5b3dcc78769fe90e1fb96
+sxs-deleted.r00	dd07e7ac4d37c9a10bbc9ed9eab0877f382ff96b
+sxs-deleted.r01	c06aaae6da3d8179e260881b7199fcfda85b076b
+sxs-deleted.r02	3fbfad8f45483cd2005b6aa0ee44bead240b8b8a
+sxs-deleted.r03	6c059c383afc08f723efca184dcb84fd2663248c
+sxs-deleted.r04	b05b03b18a55ba717e10ca953da8852e0afe90db
+sxs-deleted.r05	0289e724c9f949e4dff23fc45442847af0ed0585
+sxs-deleted.r06	232a2b2823f2cbff36a762e06809b93af1fda9db
+sxs-deleted.r07	0b9a45e87cf97f8010dc1225907502ae887cfbe9
+sxs-deleted.rar	cf14c0df843614d96de41628d70c62944b2e413f
+sxs-deleted.sfv	daaf34990d1b05636166999c3b0e59c90802be0d

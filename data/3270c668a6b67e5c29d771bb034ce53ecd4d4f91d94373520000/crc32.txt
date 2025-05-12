@@ -1,0 +1,11 @@
+v-boomerang_fu_v524288.nfo	6bdc9de6
+v-boomerang_fu_v524288.r00	83ab5afa
+v-boomerang_fu_v524288.r01	cff35796
+v-boomerang_fu_v524288.r02	c410a4f6
+v-boomerang_fu_v524288.r03	7caaeb97
+v-boomerang_fu_v524288.r04	48334f37
+v-boomerang_fu_v524288.r05	57026e48
+v-boomerang_fu_v524288.r06	dec71350
+v-boomerang_fu_v524288.r07	6862914f
+v-boomerang_fu_v524288.rar	6b0f5361
+v-boomerang_fu_v524288.sfv	cbee8814

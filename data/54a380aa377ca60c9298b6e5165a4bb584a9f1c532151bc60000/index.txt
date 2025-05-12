@@ -1,0 +1,4 @@
+sxs-ancient_islands_v65536.nfo	-	5510	1	0	0	0
+sxs-ancient_islands_v65536.r00	-	26526454	1	5510	0	1
+sxs-ancient_islands_v65536.rar	-	50000000	1	26531964	0	27
+sxs-ancient_islands_v65536.sfv	-	82	1	76531964	0	75

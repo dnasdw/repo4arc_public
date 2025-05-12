@@ -1,0 +1,14 @@
+v-one_true_hero_v196608.nfo	a1f12c8f
+v-one_true_hero_v196608.r00	c31b12a3
+v-one_true_hero_v196608.r01	a955ecdf
+v-one_true_hero_v196608.r02	5dbc267d
+v-one_true_hero_v196608.r03	e8b9a6c1
+v-one_true_hero_v196608.r04	846199f7
+v-one_true_hero_v196608.r05	636a26a0
+v-one_true_hero_v196608.r06	680a64ed
+v-one_true_hero_v196608.r07	6c4dedbe
+v-one_true_hero_v196608.r08	9fbcbab6
+v-one_true_hero_v196608.r09	cfdbac3d
+v-one_true_hero_v196608.r10	c39c86f1
+v-one_true_hero_v196608.rar	7de1b050
+v-one_true_hero_v196608.sfv	6a277edd

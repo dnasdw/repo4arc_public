@@ -1,0 +1,7 @@
+v-gargoyles_remastered.nfo	f39a9e38
+v-gargoyles_remastered.r00	1d7d077b
+v-gargoyles_remastered.r01	55151caa
+v-gargoyles_remastered.r02	9f25eb03
+v-gargoyles_remastered.r03	266a8b4f
+v-gargoyles_remastered.rar	5f62782c
+v-gargoyles_remastered.sfv	2dea5b3b

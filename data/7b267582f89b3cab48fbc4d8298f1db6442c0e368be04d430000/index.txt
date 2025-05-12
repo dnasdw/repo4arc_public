@@ -1,0 +1,4 @@
+sxs-pocky_and_rocky_reshrined_v65536.nfo	-	5354	1	0	0	0
+sxs-pocky_and_rocky_reshrined_v65536.r00	-	46038870	1	5354	0	1
+sxs-pocky_and_rocky_reshrined_v65536.rar	-	50000000	1	46044224	0	45
+sxs-pocky_and_rocky_reshrined_v65536.sfv	-	102	1	96044224	0	93

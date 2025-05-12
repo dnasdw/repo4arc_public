@@ -1,0 +1,4 @@
+sxs-crosscode_v458752.nfo	-	6056	1	0	0	0
+sxs-crosscode_v458752.r00	-	12958834	1	6056	0	1
+sxs-crosscode_v458752.rar	-	50000000	1	12964890	0	14
+sxs-crosscode_v458752.sfv	-	72	1	62964890	0	62

@@ -1,0 +1,6 @@
+v-katana_zero_v196608.nfo	a55e0611f62d932a204d04bd97ca51f6
+v-katana_zero_v196608.r00	4e0bf72b818fbebc81c151e4a98469e9
+v-katana_zero_v196608.r01	9a55311290641cb033a52ebb65d2053f
+v-katana_zero_v196608.r02	754f0ed3f7ceaa18f0bb0c60bd4beed1
+v-katana_zero_v196608.rar	b92f14c78181099995383fd779cba04f
+v-katana_zero_v196608.sfv	a1a317776ada337beede197228033b36

@@ -1,0 +1,11 @@
+l-spidersolitaire.nfo	725166f0
+l-spidersolitaire.r00	dfa3f882
+l-spidersolitaire.r01	dfed4e2f
+l-spidersolitaire.r02	4d687b0a
+l-spidersolitaire.r03	c5db1295
+l-spidersolitaire.r04	05776701
+l-spidersolitaire.r05	9254184f
+l-spidersolitaire.r06	c20b4947
+l-spidersolitaire.r07	8f0455d1
+l-spidersolitaire.rar	c4608e51
+l-spidersolitaire.sfv	c181fa22

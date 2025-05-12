@@ -1,0 +1,17 @@
+lfc-citybusdrivingsim.nfo	-	7159	1	0	0	0
+lfc-citybusdrivingsim.r00	-	50000000	1	7159	0	1
+lfc-citybusdrivingsim.r01	-	50000000	1	50007159	0	49
+lfc-citybusdrivingsim.r02	-	50000000	1	100007159	0	97
+lfc-citybusdrivingsim.r03	-	50000000	1	150007159	0	145
+lfc-citybusdrivingsim.r04	-	50000000	1	200007159	0	193
+lfc-citybusdrivingsim.r05	-	50000000	1	250007159	0	241
+lfc-citybusdrivingsim.r06	-	50000000	1	300007159	0	289
+lfc-citybusdrivingsim.r07	-	50000000	1	350007159	0	337
+lfc-citybusdrivingsim.r08	-	50000000	1	400007159	0	385
+lfc-citybusdrivingsim.r09	-	50000000	1	450007159	0	433
+lfc-citybusdrivingsim.r10	-	50000000	1	500007159	0	481
+lfc-citybusdrivingsim.r11	-	50000000	1	12251264	1	12
+lfc-citybusdrivingsim.r12	-	50000000	1	62251264	1	60
+lfc-citybusdrivingsim.r13	-	47113409	1	112251264	1	108
+lfc-citybusdrivingsim.rar	-	50000000	1	159364673	1	153
+lfc-citybusdrivingsim.sfv	-	540	1	209364673	1	201

@@ -1,0 +1,9 @@
+lfc-shng.nfo	4e0088da
+lfc-shng.r00	2c706663
+lfc-shng.r01	711001b1
+lfc-shng.r02	f3c18e73
+lfc-shng.r03	4920b405
+lfc-shng.r04	9812e78a
+lfc-shng.r05	53de833f
+lfc-shng.rar	a0c08674
+lfc-shng.sfv	8c922dfe

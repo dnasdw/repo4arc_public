@@ -1,0 +1,3 @@
+lfc-gyno.nfo	-	5461	1	0	0	0
+lfc-gyno.rar	-	23579031	1	5461	0	1
+lfc-gyno.sfv	-	23	1	23584492	0	24

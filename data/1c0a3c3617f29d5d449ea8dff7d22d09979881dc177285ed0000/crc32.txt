@@ -1,0 +1,3 @@
+v-doom_ii_anomaly_report_dlc.nfo	8ef311f0
+v-doom_ii_anomaly_report_dlc.rar	995a44ed
+v-doom_ii_anomaly_report_dlc.sfv	95efd00c

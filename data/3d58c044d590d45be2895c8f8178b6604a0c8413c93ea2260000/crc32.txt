@@ -1,0 +1,11 @@
+sxs-arcade_fuzz.nfo	172a428a
+sxs-arcade_fuzz.r00	252d1874
+sxs-arcade_fuzz.r01	711886f8
+sxs-arcade_fuzz.r02	f95a2b76
+sxs-arcade_fuzz.r03	4adf2242
+sxs-arcade_fuzz.r04	92c66eb4
+sxs-arcade_fuzz.r05	76d5bf93
+sxs-arcade_fuzz.r06	34572ad8
+sxs-arcade_fuzz.r07	e7830691
+sxs-arcade_fuzz.rar	e14fc18f
+sxs-arcade_fuzz.sfv	9dfc1eb2

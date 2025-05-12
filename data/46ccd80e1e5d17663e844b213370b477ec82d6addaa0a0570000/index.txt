@@ -1,0 +1,4 @@
+v-sam_and_max_save_the_world_v393216.nfo	-	6604	1	0	0	0
+v-sam_and_max_save_the_world_v393216.r00	-	23118508	1	6604	0	1
+v-sam_and_max_save_the_world_v393216.rar	-	50000000	1	23125112	0	24
+v-sam_and_max_save_the_world_v393216.sfv	-	102	1	73125112	0	72

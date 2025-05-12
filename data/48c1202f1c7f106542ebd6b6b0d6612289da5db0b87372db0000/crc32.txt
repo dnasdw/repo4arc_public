@@ -1,0 +1,8 @@
+lfc-stas.nfo	cd7025fc
+lfc-stas.r00	a6114fb0
+lfc-stas.r01	2f13f371
+lfc-stas.r02	f8e2c35b
+lfc-stas.r03	14e1fb03
+lfc-stas.r04	df9bbb93
+lfc-stas.rar	513ec50a
+lfc-stas.sfv	ef53a92d

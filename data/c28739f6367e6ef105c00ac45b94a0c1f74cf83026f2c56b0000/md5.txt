@@ -1,0 +1,7 @@
+delight.nfo	eceb0a05f7a8e63ce8d69ae5831daf28
+dl-cootyc1.r00	2996a60a3cca7de9696b09a3368150d6
+dl-cootyc1.r01	a69eda841f6ac533df5c82a0d4696d28
+dl-cootyc1.r02	c344b950ebeea3c515c9d3d952b6f660
+dl-cootyc1.r03	0139051ece99e81b198f4f99e5feb91b
+dl-cootyc1.rar	45e2bf27f328a8fb51e2f0368b5d7f81
+dl-cootyc1.sfv	99cf176d4b44ed40ab9a6824cd05caba

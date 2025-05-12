@@ -1,0 +1,16 @@
+lfc-chickenrider.nfo	2f2d6ebc
+lfc-chickenrider.r00	8bdc4829
+lfc-chickenrider.r01	96cc6a77
+lfc-chickenrider.r02	09f3b0ba
+lfc-chickenrider.r03	4213074c
+lfc-chickenrider.r04	a19c7820
+lfc-chickenrider.r05	b9631414
+lfc-chickenrider.r06	a19af113
+lfc-chickenrider.r07	9c5f6212
+lfc-chickenrider.r08	1746b802
+lfc-chickenrider.r09	aa514439
+lfc-chickenrider.r10	15704b9a
+lfc-chickenrider.r11	5eecdbaf
+lfc-chickenrider.r12	3755b398
+lfc-chickenrider.rar	193a5c2c
+lfc-chickenrider.sfv	e21d681c

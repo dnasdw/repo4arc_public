@@ -1,0 +1,4 @@
+sxs-crossing_souls_v65536.nfo	d5e12403c984776e06bef087f2ba8a1dba926e4c
+sxs-crossing_souls_v65536.r00	430f9757aa901c9f0542f9ad4df05fa70fa4a6ea
+sxs-crossing_souls_v65536.rar	ccc540b4f74668fc356a521321561e3d2547e1b3
+sxs-crossing_souls_v65536.sfv	6e51cb94d1271b7b43ec4e4acb72d7990834a44d

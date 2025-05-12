@@ -1,0 +1,5 @@
+sxs-total_arcade_racing_v524288.nfo	0573a3681f4eee98cc3503c3b1104f70
+sxs-total_arcade_racing_v524288.r00	2509e61482ac592d33ba4710111cfcc2
+sxs-total_arcade_racing_v524288.r01	3e97ec1d61ffdaf6da3d78dcef7ff90d
+sxs-total_arcade_racing_v524288.rar	31caed195080dd5624f645ccd2fb664c
+sxs-total_arcade_racing_v524288.sfv	56c67b6f0872ceab0510317bc0dd46c0

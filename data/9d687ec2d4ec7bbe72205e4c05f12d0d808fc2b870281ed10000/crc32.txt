@@ -1,0 +1,5 @@
+lfc-a6l7a_v65536.nfo	bc5a7126
+lfc-a6l7a_v65536.r00	7c4ee790
+lfc-a6l7a_v65536.r01	2ace59a0
+lfc-a6l7a_v65536.rar	2aa21ccc
+lfc-a6l7a_v65536.sfv	1dd16e1c

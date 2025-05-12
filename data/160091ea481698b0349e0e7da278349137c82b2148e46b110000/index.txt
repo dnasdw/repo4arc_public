@@ -1,0 +1,14 @@
+v-potion_craft_alchemist_simulator.nfo	-	6916	1	0	0	0
+v-potion_craft_alchemist_simulator.r00	-	100000000	1	6916	0	1
+v-potion_craft_alchemist_simulator.r01	-	100000000	1	100006916	0	97
+v-potion_craft_alchemist_simulator.r02	-	100000000	1	200006916	0	193
+v-potion_craft_alchemist_simulator.r03	-	100000000	1	300006916	0	289
+v-potion_craft_alchemist_simulator.r04	-	100000000	1	400006916	0	385
+v-potion_craft_alchemist_simulator.r05	-	100000000	1	500006916	0	481
+v-potion_craft_alchemist_simulator.r06	-	100000000	1	62251264	1	60
+v-potion_craft_alchemist_simulator.r07	-	100000000	1	162251264	1	156
+v-potion_craft_alchemist_simulator.r08	-	100000000	1	262251264	1	252
+v-potion_craft_alchemist_simulator.r09	-	100000000	1	362251264	1	348
+v-potion_craft_alchemist_simulator.r10	-	44636680	1	462251264	1	444
+v-potion_craft_alchemist_simulator.rar	-	100000000	1	506887944	1	487
+v-potion_craft_alchemist_simulator.sfv	-	588	1	69591296	2	67

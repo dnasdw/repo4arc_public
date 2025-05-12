@@ -1,0 +1,6 @@
+bbb-n-nsmbudkiosk.nfo	107d687a70cbfea88cc2544441ae6c8210c9cdfa
+bbb-n-nsmbudkiosk.part1.rar	66c4c6b26f3988704927903b59dc87d8d575716c
+bbb-n-nsmbudkiosk.part2.rar	18aa5a22c369b08eaca07dcd2ce46066edba197d
+bbb-n-nsmbudkiosk.part3.rar	c6ada646956ce624cd837f7f409e3d183ba2591e
+bbb-n-nsmbudkiosk.part4.rar	4e48b65a9566a240e7aa8a14d6ae0d708d1f1198
+bbb-n-nsmbudkiosk.sfv	31908d14dd088bfdb1a6a20825dcc26f83d6eb17

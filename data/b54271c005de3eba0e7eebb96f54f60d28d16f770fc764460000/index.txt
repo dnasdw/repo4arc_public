@@ -1,0 +1,3 @@
+v-snrpg_v196608_dlc.nfo	-	10193	1	0	0	0
+v-snrpg_v196608_dlc.rar	-	1662520	1	10193	0	1
+v-snrpg_v196608_dlc.sfv	-	34	1	1672713	0	3

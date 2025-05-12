@@ -1,0 +1,4 @@
+bbb-n-ajxta.nfo	-	5517	1	0	0	0
+bbb-n-ajxta.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ajxta.part2.rar	-	132361860	1	250005517	0	240
+bbb-n-ajxta.sfv	-	64	1	382367377	0	367

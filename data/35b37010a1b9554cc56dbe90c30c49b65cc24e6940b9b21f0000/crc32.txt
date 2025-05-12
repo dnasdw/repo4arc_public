@@ -1,0 +1,8 @@
+v-sonic_origins_v393216.nfo	4a8fa733
+v-sonic_origins_v393216.r00	dd22d820
+v-sonic_origins_v393216.r01	39badeb5
+v-sonic_origins_v393216.r02	90b62b2d
+v-sonic_origins_v393216.r03	71f72603
+v-sonic_origins_v393216.r04	df89eb64
+v-sonic_origins_v393216.rar	cb1ae2b1
+v-sonic_origins_v393216.sfv	def62a02

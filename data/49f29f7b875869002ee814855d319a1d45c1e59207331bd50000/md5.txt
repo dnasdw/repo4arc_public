@@ -1,0 +1,11 @@
+sxs-sail_forth.nfo	496068e4e89d699ee44c5ed5295cf18b
+sxs-sail_forth.r00	7dd806e69d4344d5a3961966368a1263
+sxs-sail_forth.r01	0f5cbc0d0e63ec4880eca7331a645231
+sxs-sail_forth.r02	cd9b0941a45d7c82845817d3fa700336
+sxs-sail_forth.r03	464cfbc47a9dc6110d3f6564a54f4763
+sxs-sail_forth.r04	57322bc5a8c8c65205dff02b51859a8d
+sxs-sail_forth.r05	863899b043c7996e7f449579650c8fff
+sxs-sail_forth.r06	d6277922c88f4d15cc91dfc33d900499
+sxs-sail_forth.r07	e191cfbb9b9385bbf1bbbc9b61a31aa5
+sxs-sail_forth.rar	75a386a6ffe0f25be9a38f57ddce3060
+sxs-sail_forth.sfv	f0e1b7ba30e52930a58693d3db23f3de

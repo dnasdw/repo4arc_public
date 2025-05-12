@@ -1,0 +1,7 @@
+brw-pafk.nfo	ecc8e4c0
+brw-pafk.r00	6b14926a
+brw-pafk.r01	b958b767
+brw-pafk.r02	5f5d53df
+brw-pafk.r03	f7fddb26
+brw-pafk.rar	eae80830
+brw-pafk.sfv	f0984e13

@@ -1,0 +1,7 @@
+sxs-escape_game_the_old_folk_house.nfo	-	5828	1	0	0	0
+sxs-escape_game_the_old_folk_house.r00	-	100000000	1	5828	0	1
+sxs-escape_game_the_old_folk_house.r01	-	100000000	1	100005828	0	97
+sxs-escape_game_the_old_folk_house.r02	-	100000000	1	200005828	0	193
+sxs-escape_game_the_old_folk_house.r03	-	70542331	1	300005828	0	289
+sxs-escape_game_the_old_folk_house.rar	-	100000000	1	370548159	0	357
+sxs-escape_game_the_old_folk_house.sfv	-	245	1	470548159	0	453

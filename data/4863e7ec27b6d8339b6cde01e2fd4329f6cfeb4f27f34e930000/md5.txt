@@ -1,0 +1,4 @@
+sxs-slipstream_v196608.nfo	b26da791348bb532b8a6b53152a1c776
+sxs-slipstream_v196608.r00	a48395a88a13f0c873c4ce32f30f80c6
+sxs-slipstream_v196608.rar	c45ff1d798f766c216e940db7ed9b771
+sxs-slipstream_v196608.sfv	bffaa2a4c898a22eefe51705d9be6625

@@ -1,0 +1,3 @@
+sxs-z_warp_v65536.nfo	-	6056	1	0	0	0
+sxs-z_warp_v65536.rar	-	29193251	1	6056	0	1
+sxs-z_warp_v65536.sfv	-	32	1	29199307	0	29

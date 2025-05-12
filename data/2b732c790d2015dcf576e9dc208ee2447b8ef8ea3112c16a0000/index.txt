@@ -1,0 +1,5 @@
+sxs-beesim_de.nfo	-	4342	1	0	0	0
+sxs-beesim_de.r00	-	50000000	1	4342	0	1
+sxs-beesim_de.r01	-	4697066	1	50004342	0	49
+sxs-beesim_de.rar	-	50000000	1	54701408	0	54
+sxs-beesim_de.sfv	-	84	1	104701408	0	102

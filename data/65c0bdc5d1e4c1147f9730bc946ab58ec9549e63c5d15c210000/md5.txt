@@ -1,0 +1,17 @@
+v-suspga.nfo	b49403aada05baba18ea9b64403cce31
+v-suspga.r00	3bfbb062bb5b149a792e2672a9c0dcfd
+v-suspga.r01	54820d5f20cfab56f5e13ebe2fea7d81
+v-suspga.r02	8f7c4fb6dba5bed54cb9320c626efd0f
+v-suspga.r03	9c56350e1a8551fddd769009cce520a5
+v-suspga.r04	23ad36832f5ac831d18c8294272b155d
+v-suspga.r05	78962c713c9ef9bc3e5640796dfb09bd
+v-suspga.r06	48f1d54cb4060da26f607f413373b6d9
+v-suspga.r07	db00b6924749338cad08805652e4ab00
+v-suspga.r08	6826b03ecf76d7f1d263f3a4c507cf96
+v-suspga.r09	8b9b0a5efd213135ac617ddb0787319d
+v-suspga.r10	6fe0197ea25039a76d281f6d9489a8df
+v-suspga.r11	57d65041211d72e9b4e4638b9eab83e5
+v-suspga.r12	e0350cb61fcfc49275cdd5395a994ed9
+v-suspga.r13	ec6af09481b82ff54311d70ed94bfe58
+v-suspga.rar	4cc8f1cdc8ece0ca815f51b1c42a588c
+v-suspga.sfv	d3a08717f591af36662b36e9a353bb32

@@ -1,0 +1,9 @@
+v-trailblazers_v65536.nfo	453f1214
+v-trailblazers_v65536.r00	b91b5e53
+v-trailblazers_v65536.r01	cf7bda91
+v-trailblazers_v65536.r02	d1e69c08
+v-trailblazers_v65536.r03	1c74519d
+v-trailblazers_v65536.r04	39d9a81f
+v-trailblazers_v65536.r05	3b180e05
+v-trailblazers_v65536.rar	9a57113f
+v-trailblazers_v65536.sfv	a8992605

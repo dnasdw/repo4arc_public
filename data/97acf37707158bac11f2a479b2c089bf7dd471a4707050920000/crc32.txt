@@ -1,0 +1,13 @@
+hr-torickys.nfo	fe043b12
+hr-torickys.r00	faac072f
+hr-torickys.r01	eab66b08
+hr-torickys.r02	432960cb
+hr-torickys.r03	7cf2c3f8
+hr-torickys.r04	e45454be
+hr-torickys.r05	ff91a339
+hr-torickys.r06	903dd3af
+hr-torickys.r07	70311c39
+hr-torickys.r08	9de5b777
+hr-torickys.r09	a13d4cb1
+hr-torickys.rar	75c27496
+hr-torickys.sfv	48e9b4c5

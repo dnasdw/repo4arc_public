@@ -1,0 +1,11 @@
+v-oneshot_world_machine_edition.nfo	4561cbd0
+v-oneshot_world_machine_edition.r00	e520f8a5
+v-oneshot_world_machine_edition.r01	5371e9d8
+v-oneshot_world_machine_edition.r02	93ed2bab
+v-oneshot_world_machine_edition.r03	0fc977ac
+v-oneshot_world_machine_edition.r04	e6d27d26
+v-oneshot_world_machine_edition.r05	59975a9a
+v-oneshot_world_machine_edition.r06	8683894b
+v-oneshot_world_machine_edition.r07	7c2cd692
+v-oneshot_world_machine_edition.rar	8efc4c11
+v-oneshot_world_machine_edition.sfv	6b84eb95

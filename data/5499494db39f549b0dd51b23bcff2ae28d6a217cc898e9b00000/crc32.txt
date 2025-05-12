@@ -1,0 +1,11 @@
+sxs-gearshifters_v131072.nfo	d54e5ee5
+sxs-gearshifters_v131072.r00	fa2cd928
+sxs-gearshifters_v131072.r01	1d81b06e
+sxs-gearshifters_v131072.r02	0628bcce
+sxs-gearshifters_v131072.r03	e4ed131a
+sxs-gearshifters_v131072.r04	6d1d1c2e
+sxs-gearshifters_v131072.r05	ef893b0f
+sxs-gearshifters_v131072.r06	c2cfcb0d
+sxs-gearshifters_v131072.r07	13639fce
+sxs-gearshifters_v131072.rar	caa705b2
+sxs-gearshifters_v131072.sfv	19d16b29

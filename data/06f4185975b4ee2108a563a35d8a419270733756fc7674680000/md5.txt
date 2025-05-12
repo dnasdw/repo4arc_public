@@ -1,0 +1,4 @@
+sxs-final_fantasy_iii_v131072.nfo	fca356ccd0481d0dffd992e203beb2bf
+sxs-final_fantasy_iii_v131072.r00	a5fed7e5909467375c76b6f347b2c531
+sxs-final_fantasy_iii_v131072.rar	858415661f55a4716286df64fb66e7b5
+sxs-final_fantasy_iii_v131072.sfv	e9cb0847094b81ea2f28859c66259071

@@ -1,0 +1,12 @@
+v-catan_console_edition_v196608.nfo	d30459ed
+v-catan_console_edition_v196608.r00	b6d9a71a
+v-catan_console_edition_v196608.r01	53cb6f29
+v-catan_console_edition_v196608.r02	e12d90d0
+v-catan_console_edition_v196608.r03	b1df3734
+v-catan_console_edition_v196608.r04	81fabc45
+v-catan_console_edition_v196608.r05	b9353049
+v-catan_console_edition_v196608.r06	a69575ca
+v-catan_console_edition_v196608.r07	b75dbf57
+v-catan_console_edition_v196608.r08	7c4f7fc0
+v-catan_console_edition_v196608.rar	11a43f7d
+v-catan_console_edition_v196608.sfv	e5c59825

@@ -1,0 +1,9 @@
+sxs-fatal_frame_maiden_of_black_water_v196608.nfo	-	7304	1	0	0	0
+sxs-fatal_frame_maiden_of_black_water_v196608.r00	-	50000000	1	7304	0	1
+sxs-fatal_frame_maiden_of_black_water_v196608.r01	-	50000000	1	50007304	0	49
+sxs-fatal_frame_maiden_of_black_water_v196608.r02	-	50000000	1	100007304	0	97
+sxs-fatal_frame_maiden_of_black_water_v196608.r03	-	50000000	1	150007304	0	145
+sxs-fatal_frame_maiden_of_black_water_v196608.r04	-	50000000	1	200007304	0	193
+sxs-fatal_frame_maiden_of_black_water_v196608.r05	-	40208666	1	250007304	0	241
+sxs-fatal_frame_maiden_of_black_water_v196608.rar	-	50000000	1	290215970	0	280
+sxs-fatal_frame_maiden_of_black_water_v196608.sfv	-	420	1	340215970	0	328

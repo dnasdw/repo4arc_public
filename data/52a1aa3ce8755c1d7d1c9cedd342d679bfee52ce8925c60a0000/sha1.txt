@@ -1,0 +1,4 @@
+v-radiant_silvergun_v327680.nfo	6c2287c2fc87204b7a004b491cd1565b968463b4
+v-radiant_silvergun_v327680.r00	93a9186b18548ff75743c78023f1f22210cbce88
+v-radiant_silvergun_v327680.rar	17d7ba58f2affad7e3030e25e62bf8e273ea4719
+v-radiant_silvergun_v327680.sfv	7b70bbe5ac3b632e14798347d793d35d7a96011c

@@ -1,0 +1,3 @@
+v-taiko_v1048576_dlc.nfo	46e7cf4c905c25b600be709e74f10ace
+v-taiko_v1048576_dlc.rar	eb8dc5ec56a607d9e973ed8252b5fc26
+v-taiko_v1048576_dlc.sfv	a83c1e27cefad4ca9abb40ac0dd7b149

@@ -1,0 +1,13 @@
+sxs-fuzzball.nfo	4f96b0569b9f83d104f97b78e1bc2edd
+sxs-fuzzball.r00	2df734d33c3a65fb5d7c1cb268427672
+sxs-fuzzball.r01	66b16a1910e212e0a7e301f5415b0140
+sxs-fuzzball.r02	5002de6393abac2a6f8c1ea3ac7e0cc0
+sxs-fuzzball.r03	5c715a032be1bb21baa8bfe4e20e9d45
+sxs-fuzzball.r04	785b986b2e792cc1de9e1f24fd4f9a52
+sxs-fuzzball.r05	586b46e069bb3e391bd211d6589fe04c
+sxs-fuzzball.r06	06d877a910adc30701a5de39baf9882f
+sxs-fuzzball.r07	ff9ddb2836062b93776fb5e6fb029dab
+sxs-fuzzball.r08	5955dbff5ca1254c6fa0ba33c8378d81
+sxs-fuzzball.r09	d3cd34b9ca8ad8daa1abb9be6ba9b0af
+sxs-fuzzball.rar	1f3d9a2fe89b28a68606b0b331b704de
+sxs-fuzzball.sfv	7d7f80c9c4d7620b9aafbb06e4217219

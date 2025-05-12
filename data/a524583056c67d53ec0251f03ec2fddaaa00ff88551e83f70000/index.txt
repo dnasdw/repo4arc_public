@@ -1,0 +1,7 @@
+sxs-the_lost_ashford_ring.nfo	-	5744	1	0	0	0
+sxs-the_lost_ashford_ring.r00	-	100000000	1	5744	0	1
+sxs-the_lost_ashford_ring.r01	-	100000000	1	100005744	0	97
+sxs-the_lost_ashford_ring.r02	-	100000000	1	200005744	0	193
+sxs-the_lost_ashford_ring.r03	-	33841103	1	300005744	0	289
+sxs-the_lost_ashford_ring.rar	-	100000000	1	333846847	0	322
+sxs-the_lost_ashford_ring.sfv	-	200	1	433846847	0	418

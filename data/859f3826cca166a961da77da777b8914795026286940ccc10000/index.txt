@@ -1,0 +1,10 @@
+v-redout_space_assault_v65536.nfo	-	9958	1	0	0	0
+v-redout_space_assault_v65536.r00	-	50000000	1	9958	0	1
+v-redout_space_assault_v65536.r01	-	50000000	1	50009958	0	49
+v-redout_space_assault_v65536.r02	-	50000000	1	100009958	0	97
+v-redout_space_assault_v65536.r03	-	50000000	1	150009958	0	145
+v-redout_space_assault_v65536.r04	-	50000000	1	200009958	0	193
+v-redout_space_assault_v65536.r05	-	50000000	1	250009958	0	241
+v-redout_space_assault_v65536.r06	-	22880534	1	300009958	0	289
+v-redout_space_assault_v65536.rar	-	50000000	1	322890492	0	311
+v-redout_space_assault_v65536.sfv	-	352	1	372890492	0	359

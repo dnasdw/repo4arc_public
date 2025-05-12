@@ -1,0 +1,5 @@
+v-dinosaurs_mission_dino_camp_v65536.nfo	-	5512	1	0	0	0
+v-dinosaurs_mission_dino_camp_v65536.r00	-	100000000	1	5512	0	1
+v-dinosaurs_mission_dino_camp_v65536.r01	-	42906928	1	100005512	0	97
+v-dinosaurs_mission_dino_camp_v65536.rar	-	100000000	1	142912440	0	138
+v-dinosaurs_mission_dino_camp_v65536.sfv	-	153	1	242912440	0	234

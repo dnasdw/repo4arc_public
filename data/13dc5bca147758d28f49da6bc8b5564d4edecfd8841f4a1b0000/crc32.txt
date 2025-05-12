@@ -1,0 +1,17 @@
+v-diablo3_v262144.nfo	2bde8252
+v-diablo3_v262144.r00	44545227
+v-diablo3_v262144.r01	64a437ab
+v-diablo3_v262144.r02	0ebafea7
+v-diablo3_v262144.r03	55136961
+v-diablo3_v262144.r04	1074206b
+v-diablo3_v262144.r05	8ef8aa0a
+v-diablo3_v262144.r06	c749882e
+v-diablo3_v262144.r07	950911ed
+v-diablo3_v262144.r08	f490fe34
+v-diablo3_v262144.r09	58a81c1b
+v-diablo3_v262144.r10	9eaf5a13
+v-diablo3_v262144.r11	3701fa2f
+v-diablo3_v262144.r12	22aa7f5d
+v-diablo3_v262144.r13	87f773cc
+v-diablo3_v262144.rar	4ea8c243
+v-diablo3_v262144.sfv	96c78858

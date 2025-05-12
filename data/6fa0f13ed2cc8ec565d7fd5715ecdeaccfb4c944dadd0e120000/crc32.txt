@@ -1,0 +1,4 @@
+sxs-picross_s2_v65536.nfo	9a6dc9c0
+sxs-picross_s2_v65536.r00	ff90330c
+sxs-picross_s2_v65536.rar	d5e93338
+sxs-picross_s2_v65536.sfv	c9958f40

@@ -1,0 +1,7 @@
+brw-jigk.nfo	4e0271ff983ef3af2ad46d54f76089e1
+brw-jigk.r00	31e7090c1b985b7d3c9af4ae90470b35
+brw-jigk.r01	e2270d46ae51abadd0af67a16a73aebd
+brw-jigk.r02	043dd5b98c4816cb19b10af29002a2ff
+brw-jigk.r03	db58277eab1978e8b32d58eee0506149
+brw-jigk.rar	52862dcb8ff344a8934c5b257036766f
+brw-jigk.sfv	16d72b73dc3ed51253c6588e75d988e7

@@ -1,0 +1,3 @@
+v-fiaetrc_track_dlc.nfo	-	6136	1	0	0	0
+v-fiaetrc_track_dlc.rar	-	104063	1	6136	0	1
+v-fiaetrc_track_dlc.sfv	-	34	1	110199	0	2

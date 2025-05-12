@@ -1,0 +1,4 @@
+v-syberia3_v101.nfo	6175b2a86c1a7e9f168db270a3fc0005da184560
+v-syberia3_v101.r00	55c36f4803a3e9da09ea788e9de69c6a66d0dc26
+v-syberia3_v101.rar	b7ecfb22b9e97d421b31b635e9f2eea33d77481d
+v-syberia3_v101.sfv	c3fa106946d03b2081ab7faaa0e17cabffd28c5c

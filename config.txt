@@ -1,0 +1,4 @@
+git.user.name	repo4arc
+git.user.email	repo4arc@protonmail.com
+bitbucket.project.name	repo4arc
+bitbucket.project.key	REPO4ARC

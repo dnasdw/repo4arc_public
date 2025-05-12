@@ -1,0 +1,15 @@
+lfc-smre.nfo	420a7d0f
+lfc-smre.r00	3a16bd3b
+lfc-smre.r01	53eed260
+lfc-smre.r02	2f2487c3
+lfc-smre.r03	07995b5d
+lfc-smre.r04	c6c0eb87
+lfc-smre.r05	6c404666
+lfc-smre.r06	84c7f9c4
+lfc-smre.r07	86e08a40
+lfc-smre.r08	335d00c7
+lfc-smre.r09	c1820397
+lfc-smre.r10	e3002b12
+lfc-smre.r11	a44bd5bd
+lfc-smre.rar	3fbe01d3
+lfc-smre.sfv	822f8bb2

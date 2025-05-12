@@ -1,0 +1,5 @@
+sxs-eternum_ex.nfo	b8309e06b6c8e18eb89ddfd69607b9f5
+sxs-eternum_ex.r00	c8c5c3569afc8f2fc1a1a7f5e4dc69ba
+sxs-eternum_ex.r01	705b4352cd0dd545b2910898abce52f1
+sxs-eternum_ex.rar	d00582d7297bb23753bf7092a2099372
+sxs-eternum_ex.sfv	dd86b72bfa543bf5dde851dd36dc3907

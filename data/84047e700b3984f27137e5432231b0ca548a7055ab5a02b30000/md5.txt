@@ -1,0 +1,4 @@
+delight.nfo	f3a16028af068476d2d1f30b4b71f84f
+dl-travelm4.r00	1b073a27de4b507c9ee6f8d8f2db4717
+dl-travelm4.rar	1b9bd6e50f95574ed443fa9e1e6e086e
+dl-travelm4.sfv	85393d411add1923a4a76cb9d122b8a1

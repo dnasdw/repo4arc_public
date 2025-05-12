@@ -1,0 +1,15 @@
+cat-apdqa.nfo	d2a0ffd33046f0f35c86d7f08b50469e
+cat-apdqa.r00	c415f140a5cbb85c381d6a3cfa37a155
+cat-apdqa.r01	ac00c6159e6786d74cf07929fa3ce793
+cat-apdqa.r02	66b1e08d2909108285fde6ca5936845d
+cat-apdqa.r03	8fd0739768eddd2444d4cdc6eb659478
+cat-apdqa.r04	3177c4d7bb4a796b45e386c680fb9630
+cat-apdqa.r05	9116140e58c971e545a30518d73ddb29
+cat-apdqa.r06	dcb953df57fdaf6ed79d144d73ccc3a8
+cat-apdqa.r07	dc430a52113a4216a113d4fa0bbc8c8d
+cat-apdqa.r08	49abe7d8a1eeedab90c953ccee3bcfa7
+cat-apdqa.r09	5e8247c9ad6477436a7d85c170a04ce4
+cat-apdqa.r10	1a2b840a7df8e4070bfeca62d093f5e9
+cat-apdqa.r11	519e310d07830f0865c833924727faa1
+cat-apdqa.rar	ae6ff0e3f561f3592180fbf561a872d8
+cat-apdqa.sfv	7ff9bf69ed4eba382c0b4ee5874ef8f4

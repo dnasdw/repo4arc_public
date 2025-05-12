@@ -1,0 +1,4 @@
+brw-extr.nfo	-	4685	1	0	0	0
+brw-extr.r00	-	17542034	1	4685	0	1
+brw-extr.rar	-	50000000	1	17546719	0	18
+brw-extr.sfv	-	46	1	67546719	0	66

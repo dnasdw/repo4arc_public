@@ -1,0 +1,4 @@
+hr-rogueheroes-bcp-dlc.nfo	6fccbe2950a3f36b11ffb8085f87a96c
+hr-rogueheroes-bcp-dlc.r00	6416768c7b6833f647867d411d46e5eb
+hr-rogueheroes-bcp-dlc.rar	eff3b7b4eb861743e091a8052fc68443
+hr-rogueheroes-bcp-dlc.sfv	46d64cad0304f1a28b026bdd25cf3c15

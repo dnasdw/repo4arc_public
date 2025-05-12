@@ -1,0 +1,4 @@
+sxs-him_and_her_v65536.nfo	-	4496	1	0	0	0
+sxs-him_and_her_v65536.r00	-	27969644	1	4496	0	1
+sxs-him_and_her_v65536.rar	-	50000000	1	27974140	0	28
+sxs-him_and_her_v65536.sfv	-	74	1	77974140	0	76

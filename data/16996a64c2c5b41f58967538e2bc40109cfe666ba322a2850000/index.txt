@@ -1,0 +1,6 @@
+sxs-mathland.nfo	-	7304	1	0	0	0
+sxs-mathland.r00	-	50000000	1	7304	0	1
+sxs-mathland.r01	-	50000000	1	50007304	0	49
+sxs-mathland.r02	-	23633483	1	100007304	0	97
+sxs-mathland.rar	-	50000000	1	123640787	0	120
+sxs-mathland.sfv	-	108	1	173640787	0	168

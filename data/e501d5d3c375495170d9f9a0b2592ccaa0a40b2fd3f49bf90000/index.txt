@@ -1,0 +1,7 @@
+sxs-back_again.nfo	-	5744	1	0	0	0
+sxs-back_again.r00	-	50000000	1	5744	0	1
+sxs-back_again.r01	-	50000000	1	50005744	0	49
+sxs-back_again.r02	-	50000000	1	100005744	0	97
+sxs-back_again.r03	-	17335052	1	150005744	0	145
+sxs-back_again.rar	-	50000000	1	167340796	0	162
+sxs-back_again.sfv	-	145	1	217340796	0	210

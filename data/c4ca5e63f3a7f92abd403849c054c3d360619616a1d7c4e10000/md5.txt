@@ -1,0 +1,4 @@
+v-gmetal_bonus_tracks_vol_1_dlc.nfo	e34a84253f21a1b06dfce75ff4e74486
+v-gmetal_bonus_tracks_vol_1_dlc.r00	b1c4f0976eaa40161314e15d5fe4a879
+v-gmetal_bonus_tracks_vol_1_dlc.rar	e958cfec4015f4a08c17894d42d5a2df
+v-gmetal_bonus_tracks_vol_1_dlc.sfv	bcb6d97852cba548cc990da57326dee5

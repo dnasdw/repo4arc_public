@@ -1,0 +1,15 @@
+sxs-rbi_baseball_21_v196608.nfo	ec5ee8f2
+sxs-rbi_baseball_21_v196608.r00	6dcff7dc
+sxs-rbi_baseball_21_v196608.r01	b31453c9
+sxs-rbi_baseball_21_v196608.r02	60f5f224
+sxs-rbi_baseball_21_v196608.r03	6e5cf8aa
+sxs-rbi_baseball_21_v196608.r04	a40bdb19
+sxs-rbi_baseball_21_v196608.r05	35688d39
+sxs-rbi_baseball_21_v196608.r06	0c450e77
+sxs-rbi_baseball_21_v196608.r07	6d6c8ef5
+sxs-rbi_baseball_21_v196608.r08	e2204a1c
+sxs-rbi_baseball_21_v196608.r09	dad3e550
+sxs-rbi_baseball_21_v196608.r10	bab221ae
+sxs-rbi_baseball_21_v196608.r11	97e809ba
+sxs-rbi_baseball_21_v196608.rar	c3e0874d
+sxs-rbi_baseball_21_v196608.sfv	160b7823

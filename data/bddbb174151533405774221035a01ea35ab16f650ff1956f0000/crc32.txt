@@ -1,0 +1,12 @@
+v-dyna_bomb_2_v131072.nfo	4782f5fa
+v-dyna_bomb_2_v131072.r00	191e149d
+v-dyna_bomb_2_v131072.r01	db11dfe3
+v-dyna_bomb_2_v131072.r02	937ae7d1
+v-dyna_bomb_2_v131072.r03	b8c85e4a
+v-dyna_bomb_2_v131072.r04	88dfa2e4
+v-dyna_bomb_2_v131072.r05	7ba3a1ca
+v-dyna_bomb_2_v131072.r06	000fbfd7
+v-dyna_bomb_2_v131072.r07	8669cad5
+v-dyna_bomb_2_v131072.r08	0e94139a
+v-dyna_bomb_2_v131072.rar	0e3002e8
+v-dyna_bomb_2_v131072.sfv	ca280307

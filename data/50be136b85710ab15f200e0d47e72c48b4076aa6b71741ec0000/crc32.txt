@@ -1,0 +1,11 @@
+sxs-carnivores_dinosaur_hunt_v131072.nfo	ce16b7be
+sxs-carnivores_dinosaur_hunt_v131072.r00	b22f416a
+sxs-carnivores_dinosaur_hunt_v131072.r01	4eb5931e
+sxs-carnivores_dinosaur_hunt_v131072.r02	d371140f
+sxs-carnivores_dinosaur_hunt_v131072.r03	8a325a16
+sxs-carnivores_dinosaur_hunt_v131072.r04	5766ef4d
+sxs-carnivores_dinosaur_hunt_v131072.r05	49c699d4
+sxs-carnivores_dinosaur_hunt_v131072.r06	c8b3c86d
+sxs-carnivores_dinosaur_hunt_v131072.r07	17f83387
+sxs-carnivores_dinosaur_hunt_v131072.rar	a4fbdc3c
+sxs-carnivores_dinosaur_hunt_v131072.sfv	e1a495f5

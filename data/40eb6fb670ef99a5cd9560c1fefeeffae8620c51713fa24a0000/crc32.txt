@@ -1,0 +1,5 @@
+sxs-snes.nfo	c1c98cb4
+sxs-snes.r00	5a4520de
+sxs-snes.r01	2c1ef117
+sxs-snes.rar	ff5ab220
+sxs-snes.sfv	6cdb0f99

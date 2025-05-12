@@ -1,0 +1,17 @@
+sxs-skul_the_hero_slayer_v983040.nfo	6bf1d48f
+sxs-skul_the_hero_slayer_v983040.r00	db87abf8
+sxs-skul_the_hero_slayer_v983040.r01	568687dc
+sxs-skul_the_hero_slayer_v983040.r02	e6dc43d0
+sxs-skul_the_hero_slayer_v983040.r03	169af086
+sxs-skul_the_hero_slayer_v983040.r04	7cbd880b
+sxs-skul_the_hero_slayer_v983040.r05	91dec6f0
+sxs-skul_the_hero_slayer_v983040.r06	b621f22a
+sxs-skul_the_hero_slayer_v983040.r07	9bd53a3e
+sxs-skul_the_hero_slayer_v983040.r08	2d9e48a9
+sxs-skul_the_hero_slayer_v983040.r09	7e3d52c1
+sxs-skul_the_hero_slayer_v983040.r10	3d0e91d9
+sxs-skul_the_hero_slayer_v983040.r11	92622fde
+sxs-skul_the_hero_slayer_v983040.r12	a6ddefa4
+sxs-skul_the_hero_slayer_v983040.r13	a561de46
+sxs-skul_the_hero_slayer_v983040.rar	99025aa7
+sxs-skul_the_hero_slayer_v983040.sfv	74dddaf3

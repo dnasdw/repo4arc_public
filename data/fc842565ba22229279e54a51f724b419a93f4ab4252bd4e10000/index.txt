@@ -1,0 +1,3 @@
+sxs-pac_man_99_custom_theme_wagan_land_dlc.nfo	-	6376	1	0	0	0
+sxs-pac_man_99_custom_theme_wagan_land_dlc.rar	-	118527	1	6376	0	1
+sxs-pac_man_99_custom_theme_wagan_land_dlc.sfv	-	57	1	124903	0	2

@@ -1,0 +1,12 @@
+sxs-black_widow_recharged.nfo	-	6680	1	0	0	0
+sxs-black_widow_recharged.r00	-	50000000	1	6680	0	1
+sxs-black_widow_recharged.r01	-	50000000	1	50006680	0	49
+sxs-black_widow_recharged.r02	-	50000000	1	100006680	0	97
+sxs-black_widow_recharged.r03	-	50000000	1	150006680	0	145
+sxs-black_widow_recharged.r04	-	50000000	1	200006680	0	193
+sxs-black_widow_recharged.r05	-	50000000	1	250006680	0	241
+sxs-black_widow_recharged.r06	-	50000000	1	300006680	0	289
+sxs-black_widow_recharged.r07	-	50000000	1	350006680	0	337
+sxs-black_widow_recharged.r08	-	16422763	1	400006680	0	385
+sxs-black_widow_recharged.rar	-	50000000	1	416429443	0	401
+sxs-black_widow_recharged.sfv	-	400	1	466429443	0	449

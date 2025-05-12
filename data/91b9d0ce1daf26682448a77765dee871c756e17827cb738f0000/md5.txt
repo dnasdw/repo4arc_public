@@ -1,0 +1,5 @@
+sxs-spinnys_journey_v131072.nfo	a2646b982b17dfaf869d0d9e8e538637
+sxs-spinnys_journey_v131072.r00	00fa7ae96427290c1c87e8250d190c6d
+sxs-spinnys_journey_v131072.r01	79b37def85288cfa695d80b0c55ca6ad
+sxs-spinnys_journey_v131072.rar	cfc5ed3750baa352b122aaca3ccc0ce1
+sxs-spinnys_journey_v131072.sfv	4a311fdce1a7d19be1aed41ca99500d7

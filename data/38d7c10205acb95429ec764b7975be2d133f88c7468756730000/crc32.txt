@@ -1,0 +1,12 @@
+sxs-dragonfangz_v458752.nfo	4838b100
+sxs-dragonfangz_v458752.r00	aa3c3151
+sxs-dragonfangz_v458752.r01	3229eb74
+sxs-dragonfangz_v458752.r02	1053c299
+sxs-dragonfangz_v458752.r03	24e0ab38
+sxs-dragonfangz_v458752.r04	85d9731b
+sxs-dragonfangz_v458752.r05	a3ef6488
+sxs-dragonfangz_v458752.r06	3dce53e8
+sxs-dragonfangz_v458752.r07	990cec2e
+sxs-dragonfangz_v458752.r08	b6e90ede
+sxs-dragonfangz_v458752.rar	2db50d05
+sxs-dragonfangz_v458752.sfv	b794ae6e

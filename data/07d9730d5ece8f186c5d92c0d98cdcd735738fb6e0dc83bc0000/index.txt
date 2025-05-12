@@ -1,0 +1,13 @@
+v-tenderfoot_tactics.nfo	-	5746	1	0	0	0
+v-tenderfoot_tactics.r00	-	100000000	1	5746	0	1
+v-tenderfoot_tactics.r01	-	100000000	1	100005746	0	97
+v-tenderfoot_tactics.r02	-	100000000	1	200005746	0	193
+v-tenderfoot_tactics.r03	-	100000000	1	300005746	0	289
+v-tenderfoot_tactics.r04	-	100000000	1	400005746	0	385
+v-tenderfoot_tactics.r05	-	100000000	1	500005746	0	481
+v-tenderfoot_tactics.r06	-	100000000	1	62251264	1	60
+v-tenderfoot_tactics.r07	-	100000000	1	162251264	1	156
+v-tenderfoot_tactics.r08	-	100000000	1	262251264	1	252
+v-tenderfoot_tactics.r09	-	74312026	1	362251264	1	348
+v-tenderfoot_tactics.rar	-	100000000	1	436563290	1	419
+v-tenderfoot_tactics.sfv	-	385	1	536563290	1	515

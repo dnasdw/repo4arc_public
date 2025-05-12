@@ -1,0 +1,8 @@
+v-anomaly_agent.nfo	7da153e1
+v-anomaly_agent.r00	53cde6d2
+v-anomaly_agent.r01	7e55c1e6
+v-anomaly_agent.r02	bf47ade6
+v-anomaly_agent.r03	9119ae4e
+v-anomaly_agent.r04	ef899667
+v-anomaly_agent.rar	c56b8061
+v-anomaly_agent.sfv	d758c6fd

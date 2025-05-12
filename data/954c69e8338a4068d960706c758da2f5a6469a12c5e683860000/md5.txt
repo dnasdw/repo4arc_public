@@ -1,0 +1,12 @@
+sxs-freshly_frosted.nfo	868f608aad10992f07d510d9601d75bb
+sxs-freshly_frosted.r00	e2bbc3d4d3b83febd749a6e5325e6693
+sxs-freshly_frosted.r01	588737a4c56413c96c9221b6b5985a8b
+sxs-freshly_frosted.r02	a577d7092ae7948f295bec98e3e33b81
+sxs-freshly_frosted.r03	1664850fa6b703652f2eb90d23d3e8e6
+sxs-freshly_frosted.r04	dad89134a585c378261b24a69ac00807
+sxs-freshly_frosted.r05	ba1598338ea115cd9ffbb7f050539df6
+sxs-freshly_frosted.r06	f8b25e02cbbadbbc80240e03aaa83bc8
+sxs-freshly_frosted.r07	76ddbdde70c2ea6f2652196cc69f9917
+sxs-freshly_frosted.r08	f489c276fb04e3d413170e5aab7c1b7c
+sxs-freshly_frosted.rar	068834e8bc30410fc13d06dc3185803a
+sxs-freshly_frosted.sfv	696d2bf01e4bb71535163ecaa8ee722e

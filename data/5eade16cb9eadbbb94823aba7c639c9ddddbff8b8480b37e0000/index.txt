@@ -1,0 +1,5 @@
+sxs-thunder_kid_ii_null_mission.nfo	-	5354	1	0	0	0
+sxs-thunder_kid_ii_null_mission.r00	-	50000000	1	5354	0	1
+sxs-thunder_kid_ii_null_mission.r01	-	5541983	1	50005354	0	49
+sxs-thunder_kid_ii_null_mission.rar	-	50000000	1	55547337	0	55
+sxs-thunder_kid_ii_null_mission.sfv	-	138	1	105547337	0	103

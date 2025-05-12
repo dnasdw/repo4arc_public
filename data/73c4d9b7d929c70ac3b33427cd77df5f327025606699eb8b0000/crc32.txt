@@ -1,0 +1,8 @@
+lfc-go2u_v65536.nfo	f7578f36
+lfc-go2u_v65536.r00	fe6e6aa3
+lfc-go2u_v65536.r01	a91cfb7b
+lfc-go2u_v65536.r02	a2183f77
+lfc-go2u_v65536.r03	00c01c16
+lfc-go2u_v65536.r04	86875180
+lfc-go2u_v65536.rar	2ff30075
+lfc-go2u_v65536.sfv	e2af7f6a

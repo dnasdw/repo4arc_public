@@ -1,0 +1,10 @@
+sxs-thea_the_awakening_v196608.nfo	-	4340	1	0	0	0
+sxs-thea_the_awakening_v196608.r00	-	50000000	1	4340	0	1
+sxs-thea_the_awakening_v196608.r01	-	50000000	1	50004340	0	49
+sxs-thea_the_awakening_v196608.r02	-	50000000	1	100004340	0	97
+sxs-thea_the_awakening_v196608.r03	-	50000000	1	150004340	0	145
+sxs-thea_the_awakening_v196608.r04	-	50000000	1	200004340	0	193
+sxs-thea_the_awakening_v196608.r05	-	50000000	1	250004340	0	241
+sxs-thea_the_awakening_v196608.r06	-	35072529	1	300004340	0	289
+sxs-thea_the_awakening_v196608.rar	-	50000000	1	335076869	0	323
+sxs-thea_the_awakening_v196608.sfv	-	360	1	385076869	0	371

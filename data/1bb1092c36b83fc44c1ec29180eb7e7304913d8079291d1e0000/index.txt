@@ -1,0 +1,4 @@
+bbb-n-agqla.nfo	-	5517	1	0	0	0
+bbb-n-agqla.part1.rar	-	250000000	1	5517	0	1
+bbb-n-agqla.part2.rar	-	203620642	1	250005517	0	240
+bbb-n-agqla.sfv	-	64	1	453626159	0	435

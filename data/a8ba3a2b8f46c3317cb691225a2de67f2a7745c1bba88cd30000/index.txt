@@ -1,0 +1,3 @@
+sxs-i_zombie_v65536.nfo	-	5978	1	0	0	0
+sxs-i_zombie_v65536.rar	-	26959397	1	5978	0	1
+sxs-i_zombie_v65536.sfv	-	34	1	26965375	0	27

@@ -1,0 +1,16 @@
+sxs-still_there.nfo	403445899bb67d78a0c0c56a7bf0ff0f
+sxs-still_there.r00	95cf87ace882cd96663b1f96b1b3a546
+sxs-still_there.r01	0c044a0a1c1fb1778dbccb1ae9e13966
+sxs-still_there.r02	250b2b9e4a561de59b984115182cde58
+sxs-still_there.r03	474081521ec5d08362d8c5ba81174d07
+sxs-still_there.r04	332923d3333cf5f6c7166cdf909d5239
+sxs-still_there.r05	cb792db4e88462895da4590d03d73f75
+sxs-still_there.r06	aa157a37c065f84ddb72b399b7cad9ea
+sxs-still_there.r07	cdde8a5c29362da211786c62b4ec57f0
+sxs-still_there.r08	14038bc003139bdf801363d26537ef52
+sxs-still_there.r09	f42cf0ea0f86f336384df9d153a5189a
+sxs-still_there.r10	61c1a7ea580f24eb8009975c47471d49
+sxs-still_there.r11	0ae206b9ecf450d55ab62ec54f068fb6
+sxs-still_there.r12	a62f9738615713f132c3b75df2e34272
+sxs-still_there.rar	ae215bd336dc88a564acf43f5aa731a9
+sxs-still_there.sfv	847671998306ce8d889f2f5211444b56

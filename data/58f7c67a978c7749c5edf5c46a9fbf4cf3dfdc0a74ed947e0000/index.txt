@@ -1,0 +1,3 @@
+sxs-asdivine_hearts_ii_dlc.nfo	-	5432	1	0	0	0
+sxs-asdivine_hearts_ii_dlc.rar	-	727655	1	5432	0	1
+sxs-asdivine_hearts_ii_dlc.sfv	-	41	1	733087	0	2

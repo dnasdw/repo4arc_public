@@ -1,0 +1,13 @@
+sxs-supersonic_tank_cats.nfo	-	4738	1	0	0	0
+sxs-supersonic_tank_cats.r00	-	50000000	1	4738	0	1
+sxs-supersonic_tank_cats.r01	-	50000000	1	50004738	0	49
+sxs-supersonic_tank_cats.r02	-	50000000	1	100004738	0	97
+sxs-supersonic_tank_cats.r03	-	50000000	1	150004738	0	145
+sxs-supersonic_tank_cats.r04	-	50000000	1	200004738	0	193
+sxs-supersonic_tank_cats.r05	-	50000000	1	250004738	0	241
+sxs-supersonic_tank_cats.r06	-	50000000	1	300004738	0	289
+sxs-supersonic_tank_cats.r07	-	50000000	1	350004738	0	337
+sxs-supersonic_tank_cats.r08	-	50000000	1	400004738	0	385
+sxs-supersonic_tank_cats.r09	-	49783403	1	450004738	0	433
+sxs-supersonic_tank_cats.rar	-	50000000	1	499788141	0	481
+sxs-supersonic_tank_cats.sfv	-	429	1	12251264	1	12

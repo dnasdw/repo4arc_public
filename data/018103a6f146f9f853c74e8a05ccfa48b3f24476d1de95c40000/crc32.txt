@@ -1,0 +1,17 @@
+v-berserk_boy.nfo	4988e4d0
+v-berserk_boy.r00	2b86cc90
+v-berserk_boy.r01	5f38d482
+v-berserk_boy.r02	be91bc66
+v-berserk_boy.r03	86509ff4
+v-berserk_boy.r04	accf87e1
+v-berserk_boy.r05	33068a42
+v-berserk_boy.r06	2a96145f
+v-berserk_boy.r07	b850ce03
+v-berserk_boy.r08	73c6dca0
+v-berserk_boy.r09	05173921
+v-berserk_boy.r10	42299460
+v-berserk_boy.r11	64059cbf
+v-berserk_boy.r12	aa34bcbb
+v-berserk_boy.r13	1e8a5596
+v-berserk_boy.rar	ded13ea3
+v-berserk_boy.sfv	5d6d554d

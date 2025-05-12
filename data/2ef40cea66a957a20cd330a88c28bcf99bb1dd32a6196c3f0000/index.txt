@@ -1,0 +1,3 @@
+sxs-asterix_and_obelix_xxl3_the_crystal_menhir_dlc.nfo	-	5354	1	0	0	0
+sxs-asterix_and_obelix_xxl3_the_crystal_menhir_dlc.rar	-	208105	1	5354	0	1
+sxs-asterix_and_obelix_xxl3_the_crystal_menhir_dlc.sfv	-	65	1	213459	0	2

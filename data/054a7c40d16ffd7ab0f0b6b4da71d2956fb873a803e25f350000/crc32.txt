@@ -1,0 +1,12 @@
+sxs-potion_permit_v589824.nfo	53055e3f
+sxs-potion_permit_v589824.r00	a56d6884
+sxs-potion_permit_v589824.r01	dac45c88
+sxs-potion_permit_v589824.r02	2debee91
+sxs-potion_permit_v589824.r03	010ddc9a
+sxs-potion_permit_v589824.r04	5f6f5ef8
+sxs-potion_permit_v589824.r05	14604d21
+sxs-potion_permit_v589824.r06	38e7201e
+sxs-potion_permit_v589824.r07	e0f9057b
+sxs-potion_permit_v589824.r08	93cbabcc
+sxs-potion_permit_v589824.rar	c1605c66
+sxs-potion_permit_v589824.sfv	a395ea14

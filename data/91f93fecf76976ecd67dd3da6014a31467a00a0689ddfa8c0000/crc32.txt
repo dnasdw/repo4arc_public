@@ -1,0 +1,11 @@
+sxs-eight_dragons.nfo	0212dcd9
+sxs-eight_dragons.r00	7f15f8cc
+sxs-eight_dragons.r01	97bf9b6f
+sxs-eight_dragons.r02	b859fd6e
+sxs-eight_dragons.r03	a800e245
+sxs-eight_dragons.r04	2269cfc4
+sxs-eight_dragons.r05	95b4c05a
+sxs-eight_dragons.r06	84d1a1c7
+sxs-eight_dragons.r07	6fa6cbc3
+sxs-eight_dragons.rar	f3788e59
+sxs-eight_dragons.sfv	f791f191

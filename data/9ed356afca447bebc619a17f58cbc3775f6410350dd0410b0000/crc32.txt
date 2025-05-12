@@ -1,0 +1,15 @@
+hr-sumirev131072.nfo	950dfaeb
+hr-sumirev131072.r00	6a9c15a6
+hr-sumirev131072.r01	2b9ea50f
+hr-sumirev131072.r02	3c35bc21
+hr-sumirev131072.r03	91b64aeb
+hr-sumirev131072.r04	c2d1c740
+hr-sumirev131072.r05	02123688
+hr-sumirev131072.r06	cd26a4e0
+hr-sumirev131072.r07	82969bb6
+hr-sumirev131072.r08	2d7c6e04
+hr-sumirev131072.r09	835607b3
+hr-sumirev131072.r10	1b567fa4
+hr-sumirev131072.r11	3cf206e7
+hr-sumirev131072.rar	39e7b1da
+hr-sumirev131072.sfv	776ddcd2

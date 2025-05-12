@@ -1,0 +1,9 @@
+sxs-treasure_stack_v196608.nfo	-	5666	1	0	0	0
+sxs-treasure_stack_v196608.r00	-	50000000	1	5666	0	1
+sxs-treasure_stack_v196608.r01	-	50000000	1	50005666	0	49
+sxs-treasure_stack_v196608.r02	-	50000000	1	100005666	0	97
+sxs-treasure_stack_v196608.r03	-	50000000	1	150005666	0	145
+sxs-treasure_stack_v196608.r04	-	50000000	1	200005666	0	193
+sxs-treasure_stack_v196608.r05	-	11548027	1	250005666	0	241
+sxs-treasure_stack_v196608.rar	-	50000000	1	261553693	0	253
+sxs-treasure_stack_v196608.sfv	-	287	1	311553693	0	301

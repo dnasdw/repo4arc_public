@@ -1,0 +1,5 @@
+lfc-zombiescrapper.nfo	-	5144	1	0	0	0
+lfc-zombiescrapper.r00	-	50000000	1	5144	0	1
+lfc-zombiescrapper.r01	-	38337155	1	50005144	0	49
+lfc-zombiescrapper.rar	-	50000000	1	88342299	0	86
+lfc-zombiescrapper.sfv	-	99	1	138342299	0	134

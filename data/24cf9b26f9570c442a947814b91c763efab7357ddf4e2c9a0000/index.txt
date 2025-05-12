@@ -1,0 +1,9 @@
+sxs-crashy_laps.nfo	-	5588	1	0	0	0
+sxs-crashy_laps.r00	-	100000000	1	5588	0	1
+sxs-crashy_laps.r01	-	100000000	1	100005588	0	97
+sxs-crashy_laps.r02	-	100000000	1	200005588	0	193
+sxs-crashy_laps.r03	-	100000000	1	300005588	0	289
+sxs-crashy_laps.r04	-	100000000	1	400005588	0	385
+sxs-crashy_laps.r05	-	73978287	1	500005588	0	481
+sxs-crashy_laps.rar	-	100000000	1	36229551	1	35
+sxs-crashy_laps.sfv	-	210	1	136229551	1	131

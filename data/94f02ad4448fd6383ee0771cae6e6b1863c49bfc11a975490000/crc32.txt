@@ -1,0 +1,3 @@
+v-doom_ii_syringe_dlc.nfo	094b2ed8
+v-doom_ii_syringe_dlc.rar	bf02c526
+v-doom_ii_syringe_dlc.sfv	ddad9aba

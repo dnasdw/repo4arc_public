@@ -1,0 +1,17 @@
+brw-loep.nfo	d60d40d42dc7403136b64528e8922fd7
+brw-loep.r00	0c6281ce2a5e95cc1a792d6b55e68ba7
+brw-loep.r01	43f17a3db6c7138c82e32c94e481f8db
+brw-loep.r02	03a16f8f5fb46d415808f425cd391083
+brw-loep.r03	5c473bfb61282ae26fa02bad2ef639f2
+brw-loep.r04	fec33859ee1e05cd5eef2beeda1c691a
+brw-loep.r05	8d61ba64d6d4568671a814abd0f6ed0f
+brw-loep.r06	659692ee1a19d6cdf91b3f3f476d85ce
+brw-loep.r07	50e2da62c0fcbeedfb29a1fe581f05f0
+brw-loep.r08	ebf9ec8bd83b88f6fd6f7c0b47050fc9
+brw-loep.r09	d37a660b6c5b684456d08aeb57079839
+brw-loep.r10	afe689a839e219a09581e297d9ccf921
+brw-loep.r11	1e5ef85de5193e70e4a8f2e543854531
+brw-loep.r12	3e9e8f1e249bf06ffd0fff560ac1e738
+brw-loep.r13	77eedb6d9fc08ede0ab348a51d21bdb6
+brw-loep.rar	39ce7f859c7af5026a8a31a3b21879e2
+brw-loep.sfv	d30e482b011ab5ab52640a0a9eab6f25

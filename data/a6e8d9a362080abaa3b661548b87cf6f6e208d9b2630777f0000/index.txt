@@ -1,0 +1,6 @@
+sxs-brunch_club.nfo	-	7070	1	0	0	0
+sxs-brunch_club.r00	-	50000000	1	7070	0	1
+sxs-brunch_club.r01	-	50000000	1	50007070	0	49
+sxs-brunch_club.r02	-	18030497	1	100007070	0	97
+sxs-brunch_club.rar	-	50000000	1	118037567	0	115
+sxs-brunch_club.sfv	-	120	1	168037567	0	163

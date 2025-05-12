@@ -1,0 +1,4 @@
+sxs-hyper_light_drifter_v120.nfo	-	5198	1	0	0	0
+sxs-hyper_light_drifter_v120.r00	-	35614198	1	5198	0	1
+sxs-hyper_light_drifter_v120.rar	-	50000000	1	35619396	0	35
+sxs-hyper_light_drifter_v120.sfv	-	86	1	85619396	0	83

@@ -1,0 +1,6 @@
+v-torchlight_ii_v131072.nfo	ec410a59
+v-torchlight_ii_v131072.r00	a9ee8c6f
+v-torchlight_ii_v131072.r01	a72cacea
+v-torchlight_ii_v131072.r02	d9ad74ac
+v-torchlight_ii_v131072.rar	6ac527d5
+v-torchlight_ii_v131072.sfv	7b7e1546

@@ -1,0 +1,3 @@
+v-wreckfest_dlc.nfo	22c8cf6ffe6bd5a2b14d024da7ad8d493b42bab6
+v-wreckfest_dlc.rar	b28757c460b99fcc74b7632bfec2540594687aaf
+v-wreckfest_dlc.sfv	a357aec29d109edde432d32f6041c35ff7631d53

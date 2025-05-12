@@ -1,0 +1,10 @@
+sxs-carnage_battle_arena.nfo	f1a79b24
+sxs-carnage_battle_arena.r00	382b4ba3
+sxs-carnage_battle_arena.r01	dc65d9b2
+sxs-carnage_battle_arena.r02	5ca03395
+sxs-carnage_battle_arena.r03	dbf22b88
+sxs-carnage_battle_arena.r04	ae6a133a
+sxs-carnage_battle_arena.r05	175e810a
+sxs-carnage_battle_arena.r06	76bddc36
+sxs-carnage_battle_arena.rar	8eec3bda
+sxs-carnage_battle_arena.sfv	5f5462f8

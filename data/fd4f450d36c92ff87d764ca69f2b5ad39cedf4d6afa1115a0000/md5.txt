@@ -1,0 +1,9 @@
+sxs-invisible_fist.nfo	7df4dae864cbeb97aab4c7f50600dd19
+sxs-invisible_fist.r00	0dba67c216a5368ecb93ce48be24e013
+sxs-invisible_fist.r01	aabecd91ac03b87653d924f4092a53a6
+sxs-invisible_fist.r02	78d431736134a000dc8d37b6afacb390
+sxs-invisible_fist.r03	7bd635d4f191dec8a99a8319ca833abf
+sxs-invisible_fist.r04	9ee74a7f798e08853fb99c6eeb999bd1
+sxs-invisible_fist.r05	3e4ae3cc82b1eeed0f38dae094084bde
+sxs-invisible_fist.rar	1bf38071b96360ca37d8a64bcd9b3044
+sxs-invisible_fist.sfv	605a75507625d81168b07fea88e8e7b4

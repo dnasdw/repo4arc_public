@@ -1,0 +1,5 @@
+v-song_of_nunu_a_league_of_legends_story_v131072.nfo	-	6604	1	0	0	0
+v-song_of_nunu_a_league_of_legends_story_v131072.r00	-	100000000	1	6604	0	1
+v-song_of_nunu_a_league_of_legends_story_v131072.r01	-	63107722	1	100006604	0	97
+v-song_of_nunu_a_league_of_legends_story_v131072.rar	-	100000000	1	163114326	0	158
+v-song_of_nunu_a_league_of_legends_story_v131072.sfv	-	189	1	263114326	0	254

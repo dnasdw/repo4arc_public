@@ -1,0 +1,3 @@
+lfc-chickenriderupd.nfo	-	4376	1	0	0	0
+lfc-chickenriderupd.rar	-	28047198	1	4376	0	1
+lfc-chickenriderupd.sfv	-	34	1	28051574	0	28

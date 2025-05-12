@@ -1,0 +1,3 @@
+sxs-red_death.nfo	ac0525ebae5ab001245544ed25f81fb421fb0cd8f6ec0e65c4be20484df6bbb0
+sxs-red_death.rar	9dc8973eb375ea0c9f35d7e5efb0e51c5eca3f3c964e18cd7f55c79a8e0bbd55
+sxs-red_death.sfv	18454b4b490f251614df5a91086466ef4c56de6588b219c4acd23a958312c577

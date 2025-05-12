@@ -1,0 +1,12 @@
+v-inmost_v393216.nfo	fd4f78b9
+v-inmost_v393216.r00	48240bc6
+v-inmost_v393216.r01	c620f63f
+v-inmost_v393216.r02	705f6bde
+v-inmost_v393216.r03	2a115929
+v-inmost_v393216.r04	bd41d24c
+v-inmost_v393216.r05	a9b65b96
+v-inmost_v393216.r06	703bd335
+v-inmost_v393216.r07	d7a65593
+v-inmost_v393216.r08	1e25ec45
+v-inmost_v393216.rar	edf29bb3
+v-inmost_v393216.sfv	8151390e

@@ -1,0 +1,3 @@
+sxs-lego_worlds_showcase_1_dlc.nfo	2f8b6f02716413904d80620d4a88f8e69c601563
+sxs-lego_worlds_showcase_1_dlc.rar	4bcd85a1ec995237e3ae459dd3c78a5ab4a503a2
+sxs-lego_worlds_showcase_1_dlc.sfv	13af3a53983bcae1f6e5a6571591b8582c57d0d3

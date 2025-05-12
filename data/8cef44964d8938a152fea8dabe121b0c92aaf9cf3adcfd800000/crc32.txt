@@ -1,0 +1,7 @@
+sxs-slipstream_v393216.nfo	71d283dd
+sxs-slipstream_v393216.r00	225338f1
+sxs-slipstream_v393216.r01	da9ab3fa
+sxs-slipstream_v393216.r02	49c1d36e
+sxs-slipstream_v393216.r03	4c94a3dd
+sxs-slipstream_v393216.rar	60e0c814
+sxs-slipstream_v393216.sfv	37a35a36

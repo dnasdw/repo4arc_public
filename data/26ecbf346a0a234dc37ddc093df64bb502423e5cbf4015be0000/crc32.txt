@@ -1,0 +1,7 @@
+lfc-njmc_v65536.nfo	d46b59d2
+lfc-njmc_v65536.r00	de2db4de
+lfc-njmc_v65536.r01	8988099c
+lfc-njmc_v65536.r02	a009adc9
+lfc-njmc_v65536.r03	5399d337
+lfc-njmc_v65536.rar	bd891903
+lfc-njmc_v65536.sfv	8e0f8596

@@ -1,0 +1,6 @@
+sxs-metadude.nfo	85e2a9554c204aebbbed0665da35e95d
+sxs-metadude.r00	a2e8208285234199187c04c03aed539a
+sxs-metadude.r01	6f787b49f813543525018d1e711dabac
+sxs-metadude.r02	8a3dec2c5d9c6e2e8300896e6fd16934
+sxs-metadude.rar	2712c5ab717f1bcc20fac454305029ea
+sxs-metadude.sfv	3fe390d0494f16a6f7fa7bf825007dab

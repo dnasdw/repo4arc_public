@@ -1,0 +1,6 @@
+sxs-quadroids.nfo	-	4964	1	0	0	0
+sxs-quadroids.r00	-	100000000	1	4964	0	1
+sxs-quadroids.r01	-	100000000	1	100004964	0	97
+sxs-quadroids.r02	-	78470202	1	200004964	0	193
+sxs-quadroids.rar	-	100000000	1	278475166	0	268
+sxs-quadroids.sfv	-	112	1	378475166	0	364

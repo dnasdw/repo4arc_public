@@ -1,0 +1,7 @@
+sxs-super_car_driver.nfo	98adb04b8bebab320972606d52ecec95
+sxs-super_car_driver.r00	1c48f726a701102db1e8be6a9ed41071
+sxs-super_car_driver.r01	6330d059c8f482c0d160284139c259d2
+sxs-super_car_driver.r02	6403834355b83fb9e461684aa251f714
+sxs-super_car_driver.r03	e2f04304735c58a0c2bf855cf6f8ff6c
+sxs-super_car_driver.rar	1417e844ad8f6ab81ee3e7b2d80861a6
+sxs-super_car_driver.sfv	a92d77170c4563d58ddfcb3a1450103f

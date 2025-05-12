@@ -1,0 +1,13 @@
+delight.nfo	dc1a7bd573cf69a4c1cba97338f1d993
+dl-oceanhorn2.r00	fdfebe0efeb4557308778e255930ae92
+dl-oceanhorn2.r01	e6755eaa53756176b2ec5d99d6d07036
+dl-oceanhorn2.r02	caed987fa4598403f1a5a41fcfac29f0
+dl-oceanhorn2.r03	37f8d6bfd27fb0b24f72e976ec2aa2cc
+dl-oceanhorn2.r04	2eb3238a7e3141e7a167f30cd8c93200
+dl-oceanhorn2.r05	4985e21366583eb783bde2cb98eeaf99
+dl-oceanhorn2.r06	1cee74c8df6b2d4ed930f6dab16653e1
+dl-oceanhorn2.r07	ef8137fec7bbaabb76ae8fae99936751
+dl-oceanhorn2.r08	10edf6369f76f01b5ff4ffc2edfc1285
+dl-oceanhorn2.r09	5f392d428d2f6e3572ff3cf5a5ce3276
+dl-oceanhorn2.rar	1450a939ff74cfc9361363a298e96ee2
+dl-oceanhorn2.sfv	13f8cb2f2a709ae2c0a81219d315dd7c

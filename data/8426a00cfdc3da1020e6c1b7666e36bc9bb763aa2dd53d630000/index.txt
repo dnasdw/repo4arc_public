@@ -1,0 +1,8 @@
+sxs-rising_lords.nfo	-	6680	1	0	0	0
+sxs-rising_lords.r00	-	100000000	1	6680	0	1
+sxs-rising_lords.r01	-	100000000	1	100006680	0	97
+sxs-rising_lords.r02	-	100000000	1	200006680	0	193
+sxs-rising_lords.r03	-	100000000	1	300006680	0	289
+sxs-rising_lords.r04	-	95763544	1	400006680	0	385
+sxs-rising_lords.rar	-	100000000	1	495770224	0	477
+sxs-rising_lords.sfv	-	186	1	58056960	1	56

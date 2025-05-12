@@ -1,0 +1,11 @@
+v-music_racer.nfo	f1068485
+v-music_racer.r00	f5c3597f
+v-music_racer.r01	d7831a38
+v-music_racer.r02	1c8f6abe
+v-music_racer.r03	1f492ffa
+v-music_racer.r04	d5037c64
+v-music_racer.r05	68c577c0
+v-music_racer.r06	2f192c39
+v-music_racer.r07	08c88891
+v-music_racer.rar	eccbce39
+v-music_racer.sfv	379da211

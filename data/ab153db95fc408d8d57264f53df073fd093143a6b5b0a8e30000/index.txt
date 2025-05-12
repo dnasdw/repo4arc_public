@@ -1,0 +1,5 @@
+sxs-sport_and_fun_swimming.nfo	-	6212	1	0	0	0
+sxs-sport_and_fun_swimming.r00	-	100000000	1	6212	0	1
+sxs-sport_and_fun_swimming.r01	-	54826248	1	100006212	0	97
+sxs-sport_and_fun_swimming.rar	-	100000000	1	154832460	0	150
+sxs-sport_and_fun_swimming.sfv	-	123	1	254832460	0	246

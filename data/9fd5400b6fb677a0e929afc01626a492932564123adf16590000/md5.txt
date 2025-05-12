@@ -1,0 +1,4 @@
+sxs-contraptions_3.nfo	ebbd87cb57aaef57355d3659545e593d
+sxs-contraptions_3.r00	0c74a713776dbe26c49b1fe3e392a5ca
+sxs-contraptions_3.rar	c8c63711d7fa4ff49427a8f48ad8f23d
+sxs-contraptions_3.sfv	5d63e5d9034f81d2438f20625e81ed75

@@ -1,0 +1,13 @@
+sxs-swoon_earth_escape_v262144.nfo	-	4964	1	0	0	0
+sxs-swoon_earth_escape_v262144.r00	-	100000000	1	4964	0	1
+sxs-swoon_earth_escape_v262144.r01	-	100000000	1	100004964	0	97
+sxs-swoon_earth_escape_v262144.r02	-	100000000	1	200004964	0	193
+sxs-swoon_earth_escape_v262144.r03	-	100000000	1	300004964	0	289
+sxs-swoon_earth_escape_v262144.r04	-	100000000	1	400004964	0	385
+sxs-swoon_earth_escape_v262144.r05	-	100000000	1	500004964	0	481
+sxs-swoon_earth_escape_v262144.r06	-	100000000	1	62251264	1	60
+sxs-swoon_earth_escape_v262144.r07	-	100000000	1	162251264	1	156
+sxs-swoon_earth_escape_v262144.r08	-	100000000	1	262251264	1	252
+sxs-swoon_earth_escape_v262144.r09	-	18114150	1	362251264	1	348
+sxs-swoon_earth_escape_v262144.rar	-	100000000	1	380365414	1	366
+sxs-swoon_earth_escape_v262144.sfv	-	495	1	480365414	1	462

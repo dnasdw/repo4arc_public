@@ -1,0 +1,15 @@
+lfc-edmd.nfo	837ca863ec847c887266b22964655deb8bf1ba0e
+lfc-edmd.r00	8d77265b8d955759d1d6da1c1479d9b30e411acf
+lfc-edmd.r01	ac37d1e4e009e82571b092dba16bd651c3b873c8
+lfc-edmd.r02	47a04ac1b75cdc184a91d9188f2f0da77bddee49
+lfc-edmd.r03	99a6840eaf5b9c62f1b3db0eaef7bf4e8e78d813
+lfc-edmd.r04	a65b6b7fdc1fd3252779a7284e0e1151a143b860
+lfc-edmd.r05	4a5a420fb1dadae4ed28cf4f5741854534b55cf3
+lfc-edmd.r06	feb703f52a0dff668631d24e4a8622fad986d4cf
+lfc-edmd.r07	68b4cf57cc1f409c22ca87f90f5e0f51671f4128
+lfc-edmd.r08	703cc85954f93b69ffac9adcf6a4f09651f7925d
+lfc-edmd.r09	c77b0b1f52d77e360aca4d9237bf5d02326b67a8
+lfc-edmd.r10	2fd8c1da77bbea65f3ebe732b29a6179958ecfa9
+lfc-edmd.r11	a26c9c17f551852deeaa2e7c1ce5e1dda7741a5e
+lfc-edmd.rar	b1d9c45c0859f154017fda60fbf2cd35ff0e7f55
+lfc-edmd.sfv	ceabdcca7cd1b58eeb23c6b8cbb8ecbd7369c44f

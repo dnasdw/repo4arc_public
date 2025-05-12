@@ -1,0 +1,9 @@
+lfc-horrorpinballbundle.nfo	90e0a2f4
+lfc-horrorpinballbundle.r00	60762f63
+lfc-horrorpinballbundle.r01	bcc45ad1
+lfc-horrorpinballbundle.r02	83800523
+lfc-horrorpinballbundle.r03	be5d2236
+lfc-horrorpinballbundle.r04	1bfdfcee
+lfc-horrorpinballbundle.r05	afd38393
+lfc-horrorpinballbundle.rar	d9d39c3d
+lfc-horrorpinballbundle.sfv	f9efdc2a

@@ -1,0 +1,5 @@
+brw-rotd_v131072.nfo	43e59767
+brw-rotd_v131072.r00	0875bb1c
+brw-rotd_v131072.r01	c842181e
+brw-rotd_v131072.rar	ca13432b
+brw-rotd_v131072.sfv	cec79679

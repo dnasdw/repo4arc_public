@@ -1,0 +1,12 @@
+v-carebotz.nfo	1d985c90
+v-carebotz.r00	c27524d7
+v-carebotz.r01	65db23f7
+v-carebotz.r02	7f44d8bd
+v-carebotz.r03	876fc33d
+v-carebotz.r04	a2e3c4b6
+v-carebotz.r05	5d7ca1b1
+v-carebotz.r06	9828908f
+v-carebotz.r07	32b5159d
+v-carebotz.r08	60ae350a
+v-carebotz.rar	17021882
+v-carebotz.sfv	1c4ab8ae

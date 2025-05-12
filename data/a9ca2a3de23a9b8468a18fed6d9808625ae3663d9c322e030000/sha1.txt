@@ -1,0 +1,7 @@
+sxs-perchang.nfo	267f2f2aa5d0af7aec443d200555c2b4a3ab3fdd
+sxs-perchang.r00	9cf0f8c15e31f031869d57f5481f001b95ddba72
+sxs-perchang.r01	e877d4282a0f63dd7e5ec6d52994fbb8f3a3aeba
+sxs-perchang.r02	b8822358c705a74eea5fac3fc646f738452f87e8
+sxs-perchang.r03	687c80f9076d213b7923f266b405ad24c6c7fac2
+sxs-perchang.rar	0412770f45a09c2c959337810946488a0e6dcc3a
+sxs-perchang.sfv	68494e48f21cbb837d56a57e7aba6351d7df3507

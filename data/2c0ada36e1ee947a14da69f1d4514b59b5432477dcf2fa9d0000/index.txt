@@ -1,0 +1,7 @@
+sxs-grid_autosport_v327680.nfo	-	7538	1	0	0	0
+sxs-grid_autosport_v327680.r00	-	50000000	1	7538	0	1
+sxs-grid_autosport_v327680.r01	-	50000000	1	50007538	0	49
+sxs-grid_autosport_v327680.r02	-	50000000	1	100007538	0	97
+sxs-grid_autosport_v327680.r03	-	22345023	1	150007538	0	145
+sxs-grid_autosport_v327680.rar	-	50000000	1	172352561	0	167
+sxs-grid_autosport_v327680.sfv	-	205	1	222352561	0	215

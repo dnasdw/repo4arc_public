@@ -1,0 +1,7 @@
+v-turok.nfo	eec73201f8c0667a29b0ca836331668c
+v-turok.r00	ee9134c80125e43c825c4ba66ab9fcaa
+v-turok.r01	af25059b174bb56039a02b08160f2141
+v-turok.r02	ae0d5a2bf1ab84a9073578df630c12d7
+v-turok.r03	ac5a54af954f35ff9a4ee728d75410ff
+v-turok.rar	895a4a01ac47fa2b946f8252a8e5946b
+v-turok.sfv	dc7cdb48e9f1777b47a0bde5b2e34bab

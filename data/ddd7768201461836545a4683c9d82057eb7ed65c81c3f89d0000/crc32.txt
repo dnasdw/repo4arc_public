@@ -1,0 +1,8 @@
+sxs-n64jp_v458752.nfo	a69148a9
+sxs-n64jp_v458752.r00	018e6e9b
+sxs-n64jp_v458752.r01	45c8983c
+sxs-n64jp_v458752.r02	e97b861a
+sxs-n64jp_v458752.r03	44396c46
+sxs-n64jp_v458752.r04	f5be4ddb
+sxs-n64jp_v458752.rar	3014a460
+sxs-n64jp_v458752.sfv	5a4a3142

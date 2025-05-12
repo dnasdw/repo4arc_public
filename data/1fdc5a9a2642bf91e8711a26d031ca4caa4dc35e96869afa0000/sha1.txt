@@ -1,0 +1,5 @@
+sxs-trash_punk.nfo	e94eecda5fb5fde1476695bbc903639f96330645
+sxs-trash_punk.r00	34d9d32725bd5b91d68f053d3e9c24d55728ec58
+sxs-trash_punk.r01	9a7550cf7a8c8178fd00ec66ef3be6bab723be3e
+sxs-trash_punk.rar	2d6ebaf928dd168d0eb37e5957c41eb2383a38a5
+sxs-trash_punk.sfv	7b43da3b55595e8fd4d93700ea21a11cc847b102

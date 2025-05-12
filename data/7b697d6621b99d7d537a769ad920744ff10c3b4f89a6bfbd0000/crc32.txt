@@ -1,0 +1,14 @@
+lfc-a5jvb.nfo	362013e9
+lfc-a5jvb.r00	c5e36e43
+lfc-a5jvb.r01	f9678e75
+lfc-a5jvb.r02	8ad59d25
+lfc-a5jvb.r03	b6435947
+lfc-a5jvb.r04	5e3b05ab
+lfc-a5jvb.r05	c84e1c9a
+lfc-a5jvb.r06	a2b1a26e
+lfc-a5jvb.r07	a67bf059
+lfc-a5jvb.r08	3433e1de
+lfc-a5jvb.rar	c5e5b43f
+lfc-a5jvb.sfv	8457184e
+Proof	00000000
+Proof/lfc-a5jvb.jpg	ac244dbc

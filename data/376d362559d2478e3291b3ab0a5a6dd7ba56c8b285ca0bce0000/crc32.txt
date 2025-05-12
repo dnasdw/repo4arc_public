@@ -1,0 +1,8 @@
+sxs-n64jp_v393216.nfo	6fee7698
+sxs-n64jp_v393216.r00	438b42eb
+sxs-n64jp_v393216.r01	99480e79
+sxs-n64jp_v393216.r02	cb13d7b6
+sxs-n64jp_v393216.r03	360c3820
+sxs-n64jp_v393216.r04	2f72677c
+sxs-n64jp_v393216.rar	71aa9e2a
+sxs-n64jp_v393216.sfv	c9d7502d

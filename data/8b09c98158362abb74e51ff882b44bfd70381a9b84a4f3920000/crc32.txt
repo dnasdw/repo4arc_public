@@ -1,0 +1,16 @@
+lfc-hind.nfo	3dc641f5
+lfc-hind.r00	9eb4f198
+lfc-hind.r01	d9841092
+lfc-hind.r02	1df1f7d0
+lfc-hind.r03	fad30a60
+lfc-hind.r04	e1070f32
+lfc-hind.r05	8e90c8fa
+lfc-hind.r06	e0ab7de1
+lfc-hind.r07	eb638bfb
+lfc-hind.r08	ce24f5f5
+lfc-hind.r09	eadd3bbb
+lfc-hind.r10	07a9912f
+lfc-hind.r11	fb8a1e64
+lfc-hind.r12	7e7faaa1
+lfc-hind.rar	fd46c9d5
+lfc-hind.sfv	010d8d13

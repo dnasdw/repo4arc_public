@@ -1,0 +1,15 @@
+sxs-megalan_11.nfo	21b1e9d4
+sxs-megalan_11.r00	2022ac3a
+sxs-megalan_11.r01	9fa52396
+sxs-megalan_11.r02	f972a7e3
+sxs-megalan_11.r03	151993d8
+sxs-megalan_11.r04	abfa28c1
+sxs-megalan_11.r05	f588c8a3
+sxs-megalan_11.r06	bfaa6a5f
+sxs-megalan_11.r07	e22807b3
+sxs-megalan_11.r08	c549f2bc
+sxs-megalan_11.r09	35e6783f
+sxs-megalan_11.r10	3cdad552
+sxs-megalan_11.r11	2f38e7de
+sxs-megalan_11.rar	b379192a
+sxs-megalan_11.sfv	f260345b

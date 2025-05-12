@@ -1,0 +1,10 @@
+v-fallen_legion_revenants_v65536.nfo	ba7c7c17
+v-fallen_legion_revenants_v65536.r00	bfc8702b
+v-fallen_legion_revenants_v65536.r01	ad5e040c
+v-fallen_legion_revenants_v65536.r02	375bb600
+v-fallen_legion_revenants_v65536.r03	d0b72af2
+v-fallen_legion_revenants_v65536.r04	1e0d49db
+v-fallen_legion_revenants_v65536.r05	231f19cd
+v-fallen_legion_revenants_v65536.r06	1e8b2cd6
+v-fallen_legion_revenants_v65536.rar	18360e87
+v-fallen_legion_revenants_v65536.sfv	679f3974

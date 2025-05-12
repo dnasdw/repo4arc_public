@@ -1,0 +1,6 @@
+bbb-n-anbda.nfo	-	5517	1	0	0	0
+bbb-n-anbda.part1.rar	-	250000000	1	5517	0	1
+bbb-n-anbda.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-anbda.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-anbda.part4.rar	-	195840778	1	212251264	1	203
+bbb-n-anbda.sfv	-	128	1	408092042	1	390

@@ -1,0 +1,10 @@
+sxs-pool_together_2.nfo	0dcbf94b5c05e0c8b5dffab4c04e2bb1
+sxs-pool_together_2.r00	3e01fc697093ca474f1e5599f2f7fe7c
+sxs-pool_together_2.r01	dae92820df11d859c3e2c5f5225d1ad0
+sxs-pool_together_2.r02	0a4b006d9b0c2e0b0d896c27bf02fd22
+sxs-pool_together_2.r03	e3f302741036ba8bcaf128ded5d3cdc5
+sxs-pool_together_2.r04	242d7f151cadc69c73698b335893fae9
+sxs-pool_together_2.r05	d9111396271a00ef2b87251f494dda14
+sxs-pool_together_2.r06	5f4d938819d8a82997d19f725f5e6488
+sxs-pool_together_2.rar	b90c3bbf25974a4d790c33f28de38d00
+sxs-pool_together_2.sfv	f9013547a1d77c1ca4c986a9ab29e784

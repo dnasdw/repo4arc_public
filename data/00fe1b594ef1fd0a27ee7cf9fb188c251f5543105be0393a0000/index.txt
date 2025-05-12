@@ -1,0 +1,5 @@
+sxs-cytus_alpha_v196608.nfo	-	4734	1	0	0	0
+sxs-cytus_alpha_v196608.r00	-	50000000	1	4734	0	1
+sxs-cytus_alpha_v196608.r01	-	26432937	1	50004734	0	49
+sxs-cytus_alpha_v196608.rar	-	50000000	1	76437671	0	75
+sxs-cytus_alpha_v196608.sfv	-	114	1	126437671	0	123

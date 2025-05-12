@@ -1,0 +1,13 @@
+sxs-clutter_1000.nfo	46b9015e
+sxs-clutter_1000.r00	94fd2c51
+sxs-clutter_1000.r01	643cb24d
+sxs-clutter_1000.r02	aa981004
+sxs-clutter_1000.r03	938851ec
+sxs-clutter_1000.r04	81d4d5d1
+sxs-clutter_1000.r05	d1f4d5f0
+sxs-clutter_1000.r06	dda7baf1
+sxs-clutter_1000.r07	c1762823
+sxs-clutter_1000.r08	9d24cb73
+sxs-clutter_1000.r09	d3fd42e4
+sxs-clutter_1000.rar	e45f3cb0
+sxs-clutter_1000.sfv	4ef0831d

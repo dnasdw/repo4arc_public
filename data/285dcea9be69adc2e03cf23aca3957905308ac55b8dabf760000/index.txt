@@ -1,0 +1,4 @@
+sxs-pixel_game_maker_series_lunlun_superherobabys_dx.nfo	-	7616	1	0	0	0
+sxs-pixel_game_maker_series_lunlun_superherobabys_dx.r00	-	76740053	1	7616	0	1
+sxs-pixel_game_maker_series_lunlun_superherobabys_dx.rar	-	100000000	1	76747669	0	75
+sxs-pixel_game_maker_series_lunlun_superherobabys_dx.sfv	-	134	1	176747669	0	171

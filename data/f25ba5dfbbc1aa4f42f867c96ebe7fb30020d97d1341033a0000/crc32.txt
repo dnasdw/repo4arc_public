@@ -1,0 +1,8 @@
+sxs-puzzle_book_v131072.nfo	0ce6a656
+sxs-puzzle_book_v131072.r00	80df6522
+sxs-puzzle_book_v131072.r01	5e7020b2
+sxs-puzzle_book_v131072.r02	9503cdcd
+sxs-puzzle_book_v131072.r03	d5144839
+sxs-puzzle_book_v131072.r04	5e6aaebd
+sxs-puzzle_book_v131072.rar	aee8614c
+sxs-puzzle_book_v131072.sfv	032d8693

@@ -1,0 +1,11 @@
+sxs-disjunction.nfo	6918276d
+sxs-disjunction.r00	b50b114d
+sxs-disjunction.r01	997a507f
+sxs-disjunction.r02	13773bf9
+sxs-disjunction.r03	f5a796fd
+sxs-disjunction.r04	f02b56ca
+sxs-disjunction.r05	a79ed431
+sxs-disjunction.r06	c7834b39
+sxs-disjunction.r07	a60b8f64
+sxs-disjunction.rar	6f3a3ea2
+sxs-disjunction.sfv	c767426f

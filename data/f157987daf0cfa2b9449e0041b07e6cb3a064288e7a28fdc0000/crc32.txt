@@ -1,0 +1,17 @@
+sxs-mission_1985.nfo	9519b23f
+sxs-mission_1985.r00	53df93df
+sxs-mission_1985.r01	698b3618
+sxs-mission_1985.r02	af3c1b07
+sxs-mission_1985.r03	b303a6ff
+sxs-mission_1985.r04	e5073c1d
+sxs-mission_1985.r05	eaf6391e
+sxs-mission_1985.r06	bdd2c13d
+sxs-mission_1985.r07	ee3fcc2e
+sxs-mission_1985.r08	0886e976
+sxs-mission_1985.r09	b02a69d4
+sxs-mission_1985.r10	cadd54da
+sxs-mission_1985.r11	8d75f2cd
+sxs-mission_1985.r12	d85b0495
+sxs-mission_1985.r13	e85625c4
+sxs-mission_1985.rar	263060b2
+sxs-mission_1985.sfv	a2f252e5

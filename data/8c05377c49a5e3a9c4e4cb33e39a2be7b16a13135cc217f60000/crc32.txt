@@ -1,0 +1,17 @@
+lfc-adavb.nfo	95f43a9a
+lfc-adavb.r00	31b5823b
+lfc-adavb.r01	a1925ef7
+lfc-adavb.r02	abdc1095
+lfc-adavb.r03	185005bc
+lfc-adavb.r04	ced20595
+lfc-adavb.r05	1ac22dc0
+lfc-adavb.r06	ffe7fadf
+lfc-adavb.r07	c1eae8ae
+lfc-adavb.r08	4e60e94d
+lfc-adavb.r09	1bd35aeb
+lfc-adavb.r10	0cee48b2
+lfc-adavb.r11	62194c08
+lfc-adavb.rar	51c8729e
+lfc-adavb.sfv	932d4831
+Proof	00000000
+Proof/lfc-adavb.jpg	098fa9ec

@@ -1,0 +1,3 @@
+sxs-mediterranea_inferno_v196608.nfo	-	6212	1	0	0	0
+sxs-mediterranea_inferno_v196608.rar	-	69915701	1	6212	0	1
+sxs-mediterranea_inferno_v196608.sfv	-	47	1	69921913	0	68

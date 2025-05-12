@@ -1,0 +1,5 @@
+sxs-bahnsen_knights.nfo	-	8786	1	0	0	0
+sxs-bahnsen_knights.r00	-	100000000	1	8786	0	1
+sxs-bahnsen_knights.r01	-	29152843	1	100008786	0	97
+sxs-bahnsen_knights.rar	-	100000000	1	129161629	0	125
+sxs-bahnsen_knights.sfv	-	102	1	229161629	0	221

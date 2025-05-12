@@ -1,0 +1,7 @@
+brw-splt_v65536.nfo	ad84d6f5
+brw-splt_v65536.r00	17ebe8ac
+brw-splt_v65536.r01	790c6b28
+brw-splt_v65536.r02	b49d3ea3
+brw-splt_v65536.r03	49063dcb
+brw-splt_v65536.rar	e4313b55
+brw-splt_v65536.sfv	beb518e0

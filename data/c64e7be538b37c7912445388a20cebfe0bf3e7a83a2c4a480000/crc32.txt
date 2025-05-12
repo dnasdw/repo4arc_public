@@ -1,0 +1,13 @@
+nnssww_hex_quest_hd.r00	ba315a28
+nnssww_hex_quest_hd.r01	f303f708
+nnssww_hex_quest_hd.r02	58757ec3
+nnssww_hex_quest_hd.r03	f4f5ad2a
+nnssww_hex_quest_hd.r04	a2a7856c
+nnssww_hex_quest_hd.r05	a32b95bb
+nnssww_hex_quest_hd.r06	c1e40081
+nnssww_hex_quest_hd.r07	9d1bf4a5
+nnssww_hex_quest_hd.r08	28d01bc8
+nnssww_hex_quest_hd.r09	fd1aab42
+nnssww_hex_quest_hd.r10	1e290505
+nnssww_hex_quest_hd.r11	ef651062
+nnssww_hex_quest_hd.sfv	01f86c2f

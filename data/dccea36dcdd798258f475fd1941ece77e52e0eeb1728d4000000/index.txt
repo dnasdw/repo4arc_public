@@ -1,0 +1,3 @@
+bbb-n-aeuda.nfo	-	5517	1	0	0	0
+bbb-n-aeuda.rar	-	190581932	1	5517	0	1
+bbb-n-aeuda.sfv	-	26	1	190587449	0	183

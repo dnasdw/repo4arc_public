@@ -1,0 +1,9 @@
+sxs-lilas_sky_ark.nfo	48d9df75f0cc083770468b36cc3c0f70
+sxs-lilas_sky_ark.r00	5ad1a61847039766edb3e4a068f5695e
+sxs-lilas_sky_ark.r01	33d84d1a4ea164f038089cd71b61a179
+sxs-lilas_sky_ark.r02	4775e1cab9c66b763b38666aca1c374c
+sxs-lilas_sky_ark.r03	70a14a25e7cc6e96ec8223712fb2753d
+sxs-lilas_sky_ark.r04	3a730d198745fe31a596be9373f2d7af
+sxs-lilas_sky_ark.r05	0eaa97e95b6879553f936de68605533e
+sxs-lilas_sky_ark.rar	d4b662671d8c8f810a8d6e367af6ee74
+sxs-lilas_sky_ark.sfv	edc58c55780c12898c3ab0e733d791f6

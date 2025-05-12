@@ -1,0 +1,3 @@
+sxs-harvest_moon_one_world_dlc.nfo	857aae2a3481c0b18e2464176a1ad75adf4e09f0
+sxs-harvest_moon_one_world_dlc.rar	ea8eb5bdf7f3c4740b4b601bab5e8cc9dc7a196f
+sxs-harvest_moon_one_world_dlc.sfv	012fafa89c4739136725c6eeb2035f5b39dff1eb

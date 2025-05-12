@@ -1,0 +1,7 @@
+sxs-haunted_house_v196608.nfo	ee6c95b9dfcfdc245aa69e7991a7870f
+sxs-haunted_house_v196608.r00	075bea5a6eb355ba92c097be6b3bd9bd
+sxs-haunted_house_v196608.r01	df6ee79ef53d0d194ad9e835d43d8fbc
+sxs-haunted_house_v196608.r02	eb0c58075045d60cc5e5b5f5ae3497da
+sxs-haunted_house_v196608.r03	834cbfaa6e07f596d086239b352d017a
+sxs-haunted_house_v196608.rar	4ceb40046cb53d9ea9a6c67470532b2a
+sxs-haunted_house_v196608.sfv	c568cec980d0fa2e92ec409e04909dfa

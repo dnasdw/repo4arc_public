@@ -1,0 +1,5 @@
+sxs-mega_man_battle_network_legacy_collection_vol_1_v196608.nfo	-	6368	1	0	0	0
+sxs-mega_man_battle_network_legacy_collection_vol_1_v196608.r00	-	100000000	1	6368	0	1
+sxs-mega_man_battle_network_legacy_collection_vol_1_v196608.r01	-	18619091	1	100006368	0	97
+sxs-mega_man_battle_network_legacy_collection_vol_1_v196608.rar	-	100000000	1	118625459	0	115
+sxs-mega_man_battle_network_legacy_collection_vol_1_v196608.sfv	-	222	1	218625459	0	211

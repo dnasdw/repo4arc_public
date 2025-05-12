@@ -1,0 +1,3 @@
+sxs-kitten_hero.nfo	-	5120	1	0	0	0
+sxs-kitten_hero.rar	-	72226850	1	5120	0	1
+sxs-kitten_hero.sfv	-	30	1	72231970	0	70

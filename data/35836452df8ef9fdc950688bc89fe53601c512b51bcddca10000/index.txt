@@ -1,0 +1,5 @@
+bbb-n-af9qa.nfo	-	5517	1	0	0	0
+bbb-n-af9qa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-af9qa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-af9qa.part3.rar	-	113972487	1	500005517	0	479
+bbb-n-af9qa.sfv	-	96	1	76223751	1	73

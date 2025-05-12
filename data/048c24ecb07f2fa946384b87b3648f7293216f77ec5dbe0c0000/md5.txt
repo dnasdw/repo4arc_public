@@ -1,0 +1,8 @@
+ycn-army_of_ruin.nfo	96f6f5b23e17ee16a5d54432a9a870b2
+ycn-army_of_ruin.r00	9dec4a69bc0f4df225bcdac8c34e0794
+ycn-army_of_ruin.r01	c09d415dab2a4057662d74dd437597c8
+ycn-army_of_ruin.r02	388d9c32db6ae98d9fedf651e0b7aa00
+ycn-army_of_ruin.r03	a3bacfde2f4dba84313ad314f8eebc4c
+ycn-army_of_ruin.r04	2353054ca57db6528e3f206d254a3efc
+ycn-army_of_ruin.rar	03f79089f76420cfcfeaa43c8435ffba
+ycn-army_of_ruin.sfv	fa96d0c221f0e11d058cb9b34fe7ea74

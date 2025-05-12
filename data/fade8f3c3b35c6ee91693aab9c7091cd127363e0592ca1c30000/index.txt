@@ -1,0 +1,7 @@
+sxs-spooky_chase.nfo	-	4418	1	0	0	0
+sxs-spooky_chase.r00	-	50000000	1	4418	0	1
+sxs-spooky_chase.r01	-	50000000	1	50004418	0	49
+sxs-spooky_chase.r02	-	50000000	1	100004418	0	97
+sxs-spooky_chase.r03	-	2275823	1	150004418	0	145
+sxs-spooky_chase.rar	-	50000000	1	152280241	0	148
+sxs-spooky_chase.sfv	-	155	1	202280241	0	196

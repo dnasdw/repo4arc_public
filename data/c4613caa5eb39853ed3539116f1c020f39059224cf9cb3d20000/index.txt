@@ -1,0 +1,4 @@
+sxs-night_in_the_woods_v131072.nfo	-	4808	1	0	0	0
+sxs-night_in_the_woods_v131072.r00	-	36371876	1	4808	0	1
+sxs-night_in_the_woods_v131072.rar	-	100000000	1	36376684	0	36
+sxs-night_in_the_woods_v131072.sfv	-	90	1	136376684	0	132

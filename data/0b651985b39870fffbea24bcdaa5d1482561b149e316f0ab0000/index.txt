@@ -1,0 +1,6 @@
+sxs-mario_vs_donkey_kong_demo.nfo	-	5978	1	0	0	0
+sxs-mario_vs_donkey_kong_demo.r00	-	100000000	1	5978	0	1
+sxs-mario_vs_donkey_kong_demo.r01	-	100000000	1	100005978	0	97
+sxs-mario_vs_donkey_kong_demo.r02	-	77434489	1	200005978	0	193
+sxs-mario_vs_donkey_kong_demo.rar	-	100000000	1	277440467	0	267
+sxs-mario_vs_donkey_kong_demo.sfv	-	176	1	377440467	0	363

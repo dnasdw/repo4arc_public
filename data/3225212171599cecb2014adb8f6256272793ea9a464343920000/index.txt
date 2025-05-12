@@ -1,0 +1,5 @@
+sxs-professor_rubiks_brain_fitness_v65536.nfo	-	4964	1	0	0	0
+sxs-professor_rubiks_brain_fitness_v65536.r00	-	50000000	1	4964	0	1
+sxs-professor_rubiks_brain_fitness_v65536.r01	-	13218326	1	50004964	0	49
+sxs-professor_rubiks_brain_fitness_v65536.rar	-	50000000	1	63223290	0	62
+sxs-professor_rubiks_brain_fitness_v65536.sfv	-	168	1	113223290	0	110

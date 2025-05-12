@@ -1,0 +1,5 @@
+sxs-not_not_a_brain_buster.nfo	-	4652	1	0	0	0
+sxs-not_not_a_brain_buster.r00	-	50000000	1	4652	0	1
+sxs-not_not_a_brain_buster.r01	-	31868778	1	50004652	0	49
+sxs-not_not_a_brain_buster.rar	-	50000000	1	81873430	0	80
+sxs-not_not_a_brain_buster.sfv	-	123	1	131873430	0	128

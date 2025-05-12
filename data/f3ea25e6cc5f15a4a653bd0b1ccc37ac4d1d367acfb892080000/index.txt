@@ -1,0 +1,3 @@
+v-arcoa_dlc.nfo	-	5590	1	0	0	0
+v-arcoa_dlc.rar	-	1078037	1	5590	0	1
+v-arcoa_dlc.sfv	-	26	1	1083627	0	3

@@ -1,0 +1,3 @@
+sxs-ravens_hike_v65536.nfo	-	4652	1	0	0	0
+sxs-ravens_hike_v65536.rar	-	31625768	1	4652	0	1
+sxs-ravens_hike_v65536.sfv	-	37	1	31630420	0	32

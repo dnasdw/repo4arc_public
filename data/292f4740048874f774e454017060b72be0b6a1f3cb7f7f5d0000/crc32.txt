@@ -1,0 +1,14 @@
+sxs-spelunking_the_mine_match.nfo	50862ec7
+sxs-spelunking_the_mine_match.r00	39ff80ae
+sxs-spelunking_the_mine_match.r01	8af19c16
+sxs-spelunking_the_mine_match.r02	b60c9a4c
+sxs-spelunking_the_mine_match.r03	95193a98
+sxs-spelunking_the_mine_match.r04	0533459d
+sxs-spelunking_the_mine_match.r05	73748fbf
+sxs-spelunking_the_mine_match.r06	2bcdc53f
+sxs-spelunking_the_mine_match.r07	f71fd14e
+sxs-spelunking_the_mine_match.r08	9fef4ba5
+sxs-spelunking_the_mine_match.r09	b855ff63
+sxs-spelunking_the_mine_match.r10	3a4a5ad2
+sxs-spelunking_the_mine_match.rar	b44e47f7
+sxs-spelunking_the_mine_match.sfv	0de6391c

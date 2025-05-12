@@ -1,0 +1,13 @@
+sxs-another_world_mahjong_girl.nfo	-	5432	1	0	0	0
+sxs-another_world_mahjong_girl.r00	-	100000000	1	5432	0	1
+sxs-another_world_mahjong_girl.r01	-	100000000	1	100005432	0	97
+sxs-another_world_mahjong_girl.r02	-	100000000	1	200005432	0	193
+sxs-another_world_mahjong_girl.r03	-	100000000	1	300005432	0	289
+sxs-another_world_mahjong_girl.r04	-	100000000	1	400005432	0	385
+sxs-another_world_mahjong_girl.r05	-	100000000	1	500005432	0	481
+sxs-another_world_mahjong_girl.r06	-	100000000	1	62251264	1	60
+sxs-another_world_mahjong_girl.r07	-	100000000	1	162251264	1	156
+sxs-another_world_mahjong_girl.r08	-	100000000	1	262251264	1	252
+sxs-another_world_mahjong_girl.r09	-	53025074	1	362251264	1	348
+sxs-another_world_mahjong_girl.rar	-	100000000	1	415276338	1	399
+sxs-another_world_mahjong_girl.sfv	-	495	1	515276338	1	495

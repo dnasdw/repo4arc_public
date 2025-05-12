@@ -1,0 +1,4 @@
+v-windjs.nfo	-	5279	1	0	0	0
+v-windjs.r00	-	14004099	1	5279	0	1
+v-windjs.rar	-	50000000	1	14009378	0	15
+v-windjs.sfv	-	46	1	64009378	0	63

@@ -1,0 +1,8 @@
+sxs-enter_the_gungeon_v851968.nfo	-	6212	1	0	0	0
+sxs-enter_the_gungeon_v851968.r00	-	50000000	1	6212	0	1
+sxs-enter_the_gungeon_v851968.r01	-	50000000	1	50006212	0	49
+sxs-enter_the_gungeon_v851968.r02	-	50000000	1	100006212	0	97
+sxs-enter_the_gungeon_v851968.r03	-	50000000	1	150006212	0	145
+sxs-enter_the_gungeon_v851968.r04	-	31783288	1	200006212	0	193
+sxs-enter_the_gungeon_v851968.rar	-	50000000	1	231789500	0	224
+sxs-enter_the_gungeon_v851968.sfv	-	264	1	281789500	0	272

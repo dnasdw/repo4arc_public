@@ -1,0 +1,7 @@
+sxs-match_ventures_2.nfo	-	5432	1	0	0	0
+sxs-match_ventures_2.r00	-	100000000	1	5432	0	1
+sxs-match_ventures_2.r01	-	100000000	1	100005432	0	97
+sxs-match_ventures_2.r02	-	100000000	1	200005432	0	193
+sxs-match_ventures_2.r03	-	83064926	1	300005432	0	289
+sxs-match_ventures_2.rar	-	100000000	1	383070358	0	369
+sxs-match_ventures_2.sfv	-	175	1	483070358	0	465

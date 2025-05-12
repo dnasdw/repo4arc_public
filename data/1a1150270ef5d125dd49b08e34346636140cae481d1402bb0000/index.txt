@@ -1,0 +1,3 @@
+bbb-n-acmta.nfo	-	5517	1	0	0	0
+bbb-n-acmta.rar	-	90198099	1	5517	0	1
+bbb-n-acmta.sfv	-	26	1	90203616	0	88

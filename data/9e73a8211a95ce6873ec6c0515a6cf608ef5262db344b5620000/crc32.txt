@@ -1,0 +1,7 @@
+sxs-disco_elysium_the_final_cut_v131072.nfo	ec58541c
+sxs-disco_elysium_the_final_cut_v131072.r00	0c14e857
+sxs-disco_elysium_the_final_cut_v131072.r01	92201f33
+sxs-disco_elysium_the_final_cut_v131072.r02	5030c9fd
+sxs-disco_elysium_the_final_cut_v131072.r03	3078e0d1
+sxs-disco_elysium_the_final_cut_v131072.rar	3fac4b72
+sxs-disco_elysium_the_final_cut_v131072.sfv	c08cdfcf

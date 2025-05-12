@@ -1,0 +1,4 @@
+sxs-blossom_tales_the_sleeping_king.nfo	-	5355	1	0	0	0
+sxs-blossom_tales_the_sleeping_king.r00	-	15855962	1	5355	0	1
+sxs-blossom_tales_the_sleeping_king.rar	-	50000000	1	15861317	0	17
+sxs-blossom_tales_the_sleeping_king.sfv	-	100	1	65861317	0	65

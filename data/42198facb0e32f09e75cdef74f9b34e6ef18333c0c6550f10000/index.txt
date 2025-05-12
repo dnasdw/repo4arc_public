@@ -1,0 +1,6 @@
+bbb-n-aepva.nfo	-	5517	1	0	0	0
+bbb-n-aepva.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aepva.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aepva.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-aepva.part4.rar	-	154507234	1	212251264	1	203
+bbb-n-aepva.sfv	-	128	1	366758498	1	351

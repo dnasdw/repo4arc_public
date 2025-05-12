@@ -1,0 +1,4 @@
+brw-jjbs.nfo	848030f3f95e4da68dbe378d3c137dfd4ccb168c
+brw-jjbs.r00	0c7d2b921c96ac984fe536d682b84290e3499d2c
+brw-jjbs.rar	930f048e3b0280bafbdf6ee7d04e8ed2ecc1756b
+brw-jjbs.sfv	a08410a2b326dde492a521bce46bb33c8eb1b5e7

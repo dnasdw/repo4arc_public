@@ -1,0 +1,4 @@
+sxs-smdjp.nfo	9097e3036b2c22c685a86cc58ae00c82
+sxs-smdjp.r00	0330c3086b80c002c146a12fe0cb5e85
+sxs-smdjp.rar	140192e4e775898bc06c249cd26827c8
+sxs-smdjp.sfv	71acfa80e03089e5ad860ce4176df345

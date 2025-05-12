@@ -1,0 +1,9 @@
+sxs-wild_dogs.nfo	5b769146542a9c524842ca0b3135047b62403982
+sxs-wild_dogs.r00	bcbceb16bce4b1c5de99324600fa91bed0330c00
+sxs-wild_dogs.r01	8850ef35e074581561b4eac616e88d42f8f6268e
+sxs-wild_dogs.r02	d0d6a63f55b46b58882efe66ab2c16a2c0d26aeb
+sxs-wild_dogs.r03	1eeb9892093e30bd08345cd9a0520a9ac9fb242b
+sxs-wild_dogs.r04	74a4bbe52ca191fd562c44e4deb7d7de74ddd42d
+sxs-wild_dogs.r05	ac357812f8154dfae69110e4302b3ddd6074e852
+sxs-wild_dogs.rar	c77a8be82301ac8c0be5ba6a5cb8b9fa7adde800
+sxs-wild_dogs.sfv	356cc881e24e70b48b95515271aee12c702467a9

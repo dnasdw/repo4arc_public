@@ -1,0 +1,4 @@
+v-crymachina_v65536.nfo	-	4498	1	0	0	0
+v-crymachina_v65536.r00	-	24068305	1	4498	0	1
+v-crymachina_v65536.rar	-	100000000	1	24072803	0	24
+v-crymachina_v65536.sfv	-	68	1	124072803	0	120

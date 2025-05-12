@@ -1,0 +1,7 @@
+sxs-hexceed_v524288.nfo	0d662749
+sxs-hexceed_v524288.r00	bfe45f82
+sxs-hexceed_v524288.r01	53de5489
+sxs-hexceed_v524288.r02	67c6c3bf
+sxs-hexceed_v524288.r03	aefddc26
+sxs-hexceed_v524288.rar	a39eb7df
+sxs-hexceed_v524288.sfv	cc4b2559

@@ -1,0 +1,13 @@
+sxs-golazo_2.nfo	f2561f00404f46165b865b903900b365
+sxs-golazo_2.r00	27661b37245a7c3f6eb2f48aa0b77529
+sxs-golazo_2.r01	c8f69867fbbb02d73b9dcf74c2744579
+sxs-golazo_2.r02	8eaf4f3d7ff64e7ded4d1002ea2c5865
+sxs-golazo_2.r03	802bf01bbd8737abf0ebeeac736d6cce
+sxs-golazo_2.r04	4483bfc8373a9ea01ced8fb0692c2787
+sxs-golazo_2.r05	46198c4b317beee95f2e111424819466
+sxs-golazo_2.r06	3a2d3c270f111345bd083676dc910c94
+sxs-golazo_2.r07	5c7583acbf73e6ed30032461d4b48bc1
+sxs-golazo_2.r08	852332ba8a3f179d7efbef34d2aaab82
+sxs-golazo_2.r09	1d1f7249e3599d82ed6f32bd47683b1b
+sxs-golazo_2.rar	cf072c4eca41919c22edfd562b861eaa
+sxs-golazo_2.sfv	b9bd8c9a36c8f629ae0368a31fd04603

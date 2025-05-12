@@ -1,0 +1,12 @@
+v-spirit_of_the_north_v196608.nfo	b17b045c
+v-spirit_of_the_north_v196608.r00	573fa996
+v-spirit_of_the_north_v196608.r01	3b3d236c
+v-spirit_of_the_north_v196608.r02	ab94f2f3
+v-spirit_of_the_north_v196608.r03	22899422
+v-spirit_of_the_north_v196608.r04	17dc7322
+v-spirit_of_the_north_v196608.r05	7e0fb487
+v-spirit_of_the_north_v196608.r06	c5d9c7a8
+v-spirit_of_the_north_v196608.r07	e6e496d5
+v-spirit_of_the_north_v196608.r08	b8458ec3
+v-spirit_of_the_north_v196608.rar	5476b580
+v-spirit_of_the_north_v196608.sfv	c8df88cd

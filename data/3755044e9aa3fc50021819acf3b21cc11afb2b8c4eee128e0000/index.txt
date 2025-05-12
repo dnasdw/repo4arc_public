@@ -1,0 +1,7 @@
+sxs-full_metal_furies_v262144.nfo	-	4262	1	0	0	0
+sxs-full_metal_furies_v262144.r00	-	50000000	1	4262	0	1
+sxs-full_metal_furies_v262144.r01	-	50000000	1	50004262	0	49
+sxs-full_metal_furies_v262144.r02	-	50000000	1	100004262	0	97
+sxs-full_metal_furies_v262144.r03	-	21916609	1	150004262	0	145
+sxs-full_metal_furies_v262144.rar	-	50000000	1	171920871	0	166
+sxs-full_metal_furies_v262144.sfv	-	220	1	221920871	0	214

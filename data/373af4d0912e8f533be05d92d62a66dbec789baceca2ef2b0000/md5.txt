@@ -1,0 +1,14 @@
+v-trombone_champ.nfo	5f3dbeab5e69a2e7b7dbf30593acb5af
+v-trombone_champ.r00	672acb2171760213c2f749040bcf7ef9
+v-trombone_champ.r01	9022644079693968c6fb200951d2a571
+v-trombone_champ.r02	8ee839a2486acda25fdca20421633cbf
+v-trombone_champ.r03	a93b2f48df4c6b7b097f22d162fd960c
+v-trombone_champ.r04	4e136d13a5f6134b7a51c3b464fbcbac
+v-trombone_champ.r05	4885c8ddae842ac638b7632a75b8304b
+v-trombone_champ.r06	bd4ec85024778d9071f689a655e54b18
+v-trombone_champ.r07	1824d00862f9c72c962e3fdc7af7f1b4
+v-trombone_champ.r08	17a32b5bec8045352fad6d1a9015bd98
+v-trombone_champ.r09	aacd800ee3187b17eb65f3427ea4a3dc
+v-trombone_champ.r10	dbc10ac375d7491aec6f4b6b2cfc5007
+v-trombone_champ.rar	9289e8af0afbd32ae5767a9b18be6284
+v-trombone_champ.sfv	4ec0b10a2d383e66a72376d235a63298

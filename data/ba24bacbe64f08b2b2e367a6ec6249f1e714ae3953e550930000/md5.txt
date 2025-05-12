@@ -1,0 +1,7 @@
+i-rawroff.nfo	f5506949b9796122715bbb68fc21b2e3
+i-rawroff.r00	19eaec5696e047bef2e42763542c7e67
+i-rawroff.r01	321acfbd4d149462fa950fb41f0c94e5
+i-rawroff.r02	befa6f9a2a18fc84ae9cc1f20f3c3c96
+i-rawroff.r03	02f69687f6ef8fb52b230874fa841bf7
+i-rawroff.rar	d8404f9b1edb0fddaf41394afb80d9ab
+i-rawroff.sfv	d2393f0f679ffaf5b89173efea96f15d

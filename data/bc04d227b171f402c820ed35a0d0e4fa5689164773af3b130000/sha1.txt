@@ -1,0 +1,7 @@
+l-rimelands.nfo	e8ce417dafc3ef863cc9b9a38ca673e3d1893e7d
+l-rimelands.r00	605f9e51433d576b1038dd40739a6be399e0217a
+l-rimelands.r01	42f8dcba8a6f680701f5683c593f194c1755d6d9
+l-rimelands.r02	4bbab2bc1fa7368be7bcf557d420775eb4d758ef
+l-rimelands.r03	630c264a802c034777d9404b4a831fdf801148dc
+l-rimelands.rar	a78903bdd6e5882d5c9d8a945e4d2daf8e5ca6f5
+l-rimelands.sfv	aac74b57e5f0ef3a5c8c52d22a4e9ad953dae210

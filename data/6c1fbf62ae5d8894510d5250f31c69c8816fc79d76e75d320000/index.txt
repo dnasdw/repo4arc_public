@@ -1,0 +1,14 @@
+sxs-etrian_odyssey_iii_hd_v196608.nfo	-	6212	1	0	0	0
+sxs-etrian_odyssey_iii_hd_v196608.r00	-	100000000	1	6212	0	1
+sxs-etrian_odyssey_iii_hd_v196608.r01	-	100000000	1	100006212	0	97
+sxs-etrian_odyssey_iii_hd_v196608.r02	-	100000000	1	200006212	0	193
+sxs-etrian_odyssey_iii_hd_v196608.r03	-	100000000	1	300006212	0	289
+sxs-etrian_odyssey_iii_hd_v196608.r04	-	100000000	1	400006212	0	385
+sxs-etrian_odyssey_iii_hd_v196608.r05	-	100000000	1	500006212	0	481
+sxs-etrian_odyssey_iii_hd_v196608.r06	-	100000000	1	62251264	1	60
+sxs-etrian_odyssey_iii_hd_v196608.r07	-	100000000	1	162251264	1	156
+sxs-etrian_odyssey_iii_hd_v196608.r08	-	100000000	1	262251264	1	252
+sxs-etrian_odyssey_iii_hd_v196608.r09	-	100000000	1	362251264	1	348
+sxs-etrian_odyssey_iii_hd_v196608.r10	-	29339234	1	462251264	1	444
+sxs-etrian_odyssey_iii_hd_v196608.rar	-	100000000	1	491590498	1	472
+sxs-etrian_odyssey_iii_hd_v196608.sfv	-	576	1	53862656	2	52

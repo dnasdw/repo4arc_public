@@ -1,0 +1,4 @@
+lfc-robocod.r00	a0774f83f9fdac152a92d9fb8a584cd5
+lfc-robocod.r01	5211c8cea5d8632ea1caf036a6b3eeb4
+lfc-robocod.rar	ce5db4e63ca15605479884a2608fea66
+lfc-robocod.sfv	4418873d0af74bd46784156ac370a664

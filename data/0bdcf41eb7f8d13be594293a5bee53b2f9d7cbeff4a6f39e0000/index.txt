@@ -1,0 +1,10 @@
+v-the_walking_dead_destinies_v196608.nfo	-	6058	1	0	0	0
+v-the_walking_dead_destinies_v196608.r00	-	100000000	1	6058	0	1
+v-the_walking_dead_destinies_v196608.r01	-	100000000	1	100006058	0	97
+v-the_walking_dead_destinies_v196608.r02	-	100000000	1	200006058	0	193
+v-the_walking_dead_destinies_v196608.r03	-	100000000	1	300006058	0	289
+v-the_walking_dead_destinies_v196608.r04	-	100000000	1	400006058	0	385
+v-the_walking_dead_destinies_v196608.r05	-	100000000	1	500006058	0	481
+v-the_walking_dead_destinies_v196608.r06	-	18079329	1	62251264	1	60
+v-the_walking_dead_destinies_v196608.rar	-	100000000	1	80330593	1	78
+v-the_walking_dead_destinies_v196608.sfv	-	408	1	180330593	1	174

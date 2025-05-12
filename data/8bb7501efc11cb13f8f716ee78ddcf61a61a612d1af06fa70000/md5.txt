@@ -1,0 +1,4 @@
+sxs-razerwire_nanowars_v65536.nfo	8d6785e4bb8ee04874609df269daf355
+sxs-razerwire_nanowars_v65536.r00	b206a8588d38919744170b9f81ece1f8
+sxs-razerwire_nanowars_v65536.rar	953fa51b2d3bc677626394c570baece3
+sxs-razerwire_nanowars_v65536.sfv	ca0f4fb4a8ce18a2efc986cb80737c1e

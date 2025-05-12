@@ -1,0 +1,10 @@
+sxs-theft_ride_legacy.nfo	60198025
+sxs-theft_ride_legacy.r00	a25d014d
+sxs-theft_ride_legacy.r01	f92f8a54
+sxs-theft_ride_legacy.r02	228695e3
+sxs-theft_ride_legacy.r03	ccdf336d
+sxs-theft_ride_legacy.r04	8b43554a
+sxs-theft_ride_legacy.r05	7ab826cf
+sxs-theft_ride_legacy.r06	602c306f
+sxs-theft_ride_legacy.rar	0544bdde
+sxs-theft_ride_legacy.sfv	f6830bc5

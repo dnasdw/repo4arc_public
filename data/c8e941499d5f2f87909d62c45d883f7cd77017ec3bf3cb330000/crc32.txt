@@ -1,0 +1,4 @@
+v-carnival_v65536.nfo	1ff636a8
+v-carnival_v65536.r00	f7f8fdf4
+v-carnival_v65536.rar	9e437fdf
+v-carnival_v65536.sfv	e7fd1253

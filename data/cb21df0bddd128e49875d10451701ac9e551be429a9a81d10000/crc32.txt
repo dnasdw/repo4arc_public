@@ -1,0 +1,13 @@
+sxs-strange_horticulture_v196608.nfo	85acc2c0
+sxs-strange_horticulture_v196608.r00	375d895a
+sxs-strange_horticulture_v196608.r01	0d389a05
+sxs-strange_horticulture_v196608.r02	b7b6be4b
+sxs-strange_horticulture_v196608.r03	6e37bafa
+sxs-strange_horticulture_v196608.r04	522a90b2
+sxs-strange_horticulture_v196608.r05	cb9093cf
+sxs-strange_horticulture_v196608.r06	71768dbc
+sxs-strange_horticulture_v196608.r07	481bbeb8
+sxs-strange_horticulture_v196608.r08	c744bfe2
+sxs-strange_horticulture_v196608.r09	f5a61ee2
+sxs-strange_horticulture_v196608.rar	08c2a3fc
+sxs-strange_horticulture_v196608.sfv	a832cabd

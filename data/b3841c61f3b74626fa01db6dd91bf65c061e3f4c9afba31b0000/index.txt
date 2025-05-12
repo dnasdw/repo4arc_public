@@ -1,0 +1,5 @@
+sxs-swap_this.nfo	-	4653	1	0	0	0
+sxs-swap_this.r00	-	50000000	1	4653	0	1
+sxs-swap_this.r01	-	4229387	1	50004653	0	49
+sxs-swap_this.rar	-	50000000	1	54234040	0	54
+sxs-swap_this.sfv	-	84	1	104234040	0	102

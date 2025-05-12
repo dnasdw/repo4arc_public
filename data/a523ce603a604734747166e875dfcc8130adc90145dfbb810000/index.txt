@@ -1,0 +1,4 @@
+sxs-outbreak_the_new_nightmare_v131072.nfo	-	4262	1	0	0	0
+sxs-outbreak_the_new_nightmare_v131072.r00	-	42365040	1	4262	0	1
+sxs-outbreak_the_new_nightmare_v131072.rar	-	50000000	1	42369302	0	42
+sxs-outbreak_the_new_nightmare_v131072.sfv	-	106	1	92369302	0	90

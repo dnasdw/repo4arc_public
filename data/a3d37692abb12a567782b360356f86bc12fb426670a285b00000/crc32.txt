@@ -1,0 +1,6 @@
+sxs-cave_story_plus_v196608.nfo	985464c1
+sxs-cave_story_plus_v196608.r00	652f5821
+sxs-cave_story_plus_v196608.r01	88decf93
+sxs-cave_story_plus_v196608.r02	c92ae76c
+sxs-cave_story_plus_v196608.rar	3db94272
+sxs-cave_story_plus_v196608.sfv	003e1cc7

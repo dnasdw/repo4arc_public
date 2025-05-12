@@ -1,0 +1,4 @@
+sxs-fitness_boxing_v196608.nfo	-	5198	1	0	0	0
+sxs-fitness_boxing_v196608.r00	-	28431719	1	5198	0	1
+sxs-fitness_boxing_v196608.rar	-	50000000	1	28436917	0	29
+sxs-fitness_boxing_v196608.sfv	-	82	1	78436917	0	77

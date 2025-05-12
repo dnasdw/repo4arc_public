@@ -1,0 +1,4 @@
+v-maid_of_the_dead_v196608.nfo	-	7788	1	0	0	0
+v-maid_of_the_dead_v196608.r00	-	50699693	1	7788	0	1
+v-maid_of_the_dead_v196608.rar	-	100000000	1	50707481	0	50
+v-maid_of_the_dead_v196608.sfv	-	82	1	150707481	0	146

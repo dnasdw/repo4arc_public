@@ -1,0 +1,4 @@
+sxs-wargroove_v458752.nfo	-	7460	1	0	0	0
+sxs-wargroove_v458752.r00	-	48741891	1	7460	0	1
+sxs-wargroove_v458752.rar	-	50000000	1	48749351	0	48
+sxs-wargroove_v458752.sfv	-	72	1	98749351	0	96

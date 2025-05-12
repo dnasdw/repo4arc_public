@@ -1,0 +1,12 @@
+v-disney_tsum_tsum_festival_v65536.nfo	d4a115f0
+v-disney_tsum_tsum_festival_v65536.r00	fe188bdb
+v-disney_tsum_tsum_festival_v65536.r01	cb595b03
+v-disney_tsum_tsum_festival_v65536.r02	adf92a63
+v-disney_tsum_tsum_festival_v65536.r03	c975d145
+v-disney_tsum_tsum_festival_v65536.r04	62ddd1ce
+v-disney_tsum_tsum_festival_v65536.r05	566bcca5
+v-disney_tsum_tsum_festival_v65536.r06	266f380f
+v-disney_tsum_tsum_festival_v65536.r07	91b2b32f
+v-disney_tsum_tsum_festival_v65536.r08	9c458157
+v-disney_tsum_tsum_festival_v65536.rar	369cbcc3
+v-disney_tsum_tsum_festival_v65536.sfv	bd294f66

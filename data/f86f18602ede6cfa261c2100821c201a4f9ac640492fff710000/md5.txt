@@ -1,0 +1,4 @@
+sxs-farm_knight_adventures_v262144.nfo	038596e91a400c35c90c8f36a117bbd7
+sxs-farm_knight_adventures_v262144.r00	e6490c1259aa270d1c235a166239a3f8
+sxs-farm_knight_adventures_v262144.rar	2d3a975fac5f2106f383b1a8e1cb6e66
+sxs-farm_knight_adventures_v262144.sfv	8d579e8a86056453d89c515eb543bc4d

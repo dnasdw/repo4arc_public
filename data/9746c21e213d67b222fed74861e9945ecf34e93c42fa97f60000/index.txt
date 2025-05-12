@@ -1,0 +1,9 @@
+v-ninja_or_die_shadow_of_the_sun.nfo	-	9958	1	0	0	0
+v-ninja_or_die_shadow_of_the_sun.r00	-	100000000	1	9958	0	1
+v-ninja_or_die_shadow_of_the_sun.r01	-	100000000	1	100009958	0	97
+v-ninja_or_die_shadow_of_the_sun.r02	-	100000000	1	200009958	0	193
+v-ninja_or_die_shadow_of_the_sun.r03	-	100000000	1	300009958	0	289
+v-ninja_or_die_shadow_of_the_sun.r04	-	100000000	1	400009958	0	385
+v-ninja_or_die_shadow_of_the_sun.r05	-	59631821	1	500009958	0	481
+v-ninja_or_die_shadow_of_the_sun.rar	-	100000000	1	21883085	1	21
+v-ninja_or_die_shadow_of_the_sun.sfv	-	329	1	121883085	1	117

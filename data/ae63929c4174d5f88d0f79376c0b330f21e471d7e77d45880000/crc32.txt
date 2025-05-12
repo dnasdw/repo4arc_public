@@ -1,0 +1,6 @@
+v-motor4_v65536.nfo	3ea38169
+v-motor4_v65536.r00	b0475cfe
+v-motor4_v65536.r01	d94873b6
+v-motor4_v65536.r02	f924fabf
+v-motor4_v65536.rar	626e0d1f
+v-motor4_v65536.sfv	5aa96a50

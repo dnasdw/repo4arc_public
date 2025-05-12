@@ -1,0 +1,3 @@
+bbb-n-alu2a.nfo	-	5517	1	0	0	0
+bbb-n-alu2a.rar	-	102527523	1	5517	0	1
+bbb-n-alu2a.sfv	-	26	1	102533040	0	99

@@ -1,0 +1,16 @@
+sxs-sparklite_v262144.nfo	c9c5d653
+sxs-sparklite_v262144.r00	48e3ca11
+sxs-sparklite_v262144.r01	e66d96e6
+sxs-sparklite_v262144.r02	4885f548
+sxs-sparklite_v262144.r03	2ae05d22
+sxs-sparklite_v262144.r04	482901c1
+sxs-sparklite_v262144.r05	a648a40f
+sxs-sparklite_v262144.r06	0e341f10
+sxs-sparklite_v262144.r07	e31529b3
+sxs-sparklite_v262144.r08	51054eda
+sxs-sparklite_v262144.r09	06bdc383
+sxs-sparklite_v262144.r10	6596b2dc
+sxs-sparklite_v262144.r11	fba90cce
+sxs-sparklite_v262144.r12	d23ab1c6
+sxs-sparklite_v262144.rar	c7139553
+sxs-sparklite_v262144.sfv	c7c0d9cc

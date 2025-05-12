@@ -1,0 +1,13 @@
+sxs-supersonic_tank_cats.nfo	b1dc52e8
+sxs-supersonic_tank_cats.r00	e855b8af
+sxs-supersonic_tank_cats.r01	4a5f6135
+sxs-supersonic_tank_cats.r02	5ce3a696
+sxs-supersonic_tank_cats.r03	6e3490b4
+sxs-supersonic_tank_cats.r04	a8bd4f7a
+sxs-supersonic_tank_cats.r05	67ba74bc
+sxs-supersonic_tank_cats.r06	83a5caf6
+sxs-supersonic_tank_cats.r07	fa64ea94
+sxs-supersonic_tank_cats.r08	f6a0854e
+sxs-supersonic_tank_cats.r09	1d69137f
+sxs-supersonic_tank_cats.rar	eb66935f
+sxs-supersonic_tank_cats.sfv	6b527eb0

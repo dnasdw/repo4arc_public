@@ -1,0 +1,5 @@
+sxs-beesim_ru.nfo	d22763516f074477d11c7e2dda976dd6
+sxs-beesim_ru.r00	96ab19fbd42f72787c5b485d0cdb37f2
+sxs-beesim_ru.r01	0aee18662b8cd7a867067402609eb2fe
+sxs-beesim_ru.rar	53d7d12b1c9dfa194c3922ae35bd3c81
+sxs-beesim_ru.sfv	2831b0faa0cd00126cb3fa800627bf1c

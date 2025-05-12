@@ -1,0 +1,14 @@
+jrp-n-word.nfo	cdf54e3c
+jrp-n-word.r00	2eba3912
+jrp-n-word.r01	c6c97f27
+jrp-n-word.r02	de949596
+jrp-n-word.r03	1bf40d28
+jrp-n-word.r04	769f3962
+jrp-n-word.r05	2482c0fe
+jrp-n-word.r06	2526cf94
+jrp-n-word.r07	4bc0ff66
+jrp-n-word.r08	5ace5194
+jrp-n-word.r09	a03ca123
+jrp-n-word.r10	e7c599f2
+jrp-n-word.rar	615bdcc4
+jrp-n-word.sfv	d9289ff5

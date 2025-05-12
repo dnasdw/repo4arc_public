@@ -1,0 +1,4 @@
+sxs-dodonpachi_resurrection_v65536.nfo	79dee9cc
+sxs-dodonpachi_resurrection_v65536.r00	4e73372f
+sxs-dodonpachi_resurrection_v65536.rar	0e0f642f
+sxs-dodonpachi_resurrection_v65536.sfv	627d1c81

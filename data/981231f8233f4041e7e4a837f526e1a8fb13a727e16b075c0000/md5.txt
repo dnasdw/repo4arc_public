@@ -1,0 +1,5 @@
+brw-lsam.nfo	584f1e15f2e887b232cde38709406c21
+brw-lsam.r00	e1a77351683a0144a9aa60607ace114d
+brw-lsam.r01	30e3742cbf4d0136977e795276fefbe6
+brw-lsam.rar	07c8b0778c364a0aabee8fb537bc7f10
+brw-lsam.sfv	cd1ca1d8a40ecacbab86f9f50ef2983d

@@ -1,0 +1,7 @@
+sxs-creepy_tale.nfo	-	8250	1	0	0	0
+sxs-creepy_tale.r00	-	50000000	1	8250	0	1
+sxs-creepy_tale.r01	-	50000000	1	50008250	0	49
+sxs-creepy_tale.r02	-	50000000	1	100008250	0	97
+sxs-creepy_tale.r03	-	18250939	1	150008250	0	145
+sxs-creepy_tale.rar	-	50000000	1	168259189	0	163
+sxs-creepy_tale.sfv	-	150	1	218259189	0	211

@@ -1,0 +1,3 @@
+jrp-n-oppapd.nfo	-	6294	1	0	0	0
+jrp-n-oppapd.rar	-	42118168	1	6294	0	1
+jrp-n-oppapd.sfv	-	27	1	42124462	0	42

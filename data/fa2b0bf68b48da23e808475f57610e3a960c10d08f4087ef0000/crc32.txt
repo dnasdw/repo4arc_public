@@ -1,0 +1,12 @@
+v-ark_ark_ragnarok_dlc.nfo	6b251fa4
+v-ark_ark_ragnarok_dlc.r00	ee17501e
+v-ark_ark_ragnarok_dlc.r01	a9a77634
+v-ark_ark_ragnarok_dlc.r02	a5fbf37a
+v-ark_ark_ragnarok_dlc.r03	a2d87288
+v-ark_ark_ragnarok_dlc.r04	a32166a2
+v-ark_ark_ragnarok_dlc.r05	21dbaf69
+v-ark_ark_ragnarok_dlc.r06	db7a4390
+v-ark_ark_ragnarok_dlc.r07	c10977f5
+v-ark_ark_ragnarok_dlc.r08	fc666b73
+v-ark_ark_ragnarok_dlc.rar	d41cc5cc
+v-ark_ark_ragnarok_dlc.sfv	333f57fb

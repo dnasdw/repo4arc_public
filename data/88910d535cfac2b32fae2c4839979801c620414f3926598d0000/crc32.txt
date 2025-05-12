@@ -1,0 +1,6 @@
+lfc-neonhell.nfo	14e1e8b2
+lfc-neonhell.r00	df357804
+lfc-neonhell.r01	be8481cd
+lfc-neonhell.r02	b6bc94e4
+lfc-neonhell.rar	605ad1e4
+lfc-neonhell.sfv	11a89d94

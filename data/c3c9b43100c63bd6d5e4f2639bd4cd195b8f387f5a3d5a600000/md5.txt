@@ -1,0 +1,4 @@
+sxs-real_farm_premium_edition_v65536.nfo	03f61c1ff95a267ebf9e8515a4b04394
+sxs-real_farm_premium_edition_v65536.r00	e4963284e9b797d28f507de125423d7b
+sxs-real_farm_premium_edition_v65536.rar	0c2b83cc3fd8b775d658f52109838b08
+sxs-real_farm_premium_edition_v65536.sfv	9c3f446be9e5cbe11aa4c3bea50759c1

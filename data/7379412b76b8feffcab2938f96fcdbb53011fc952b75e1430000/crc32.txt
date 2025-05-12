@@ -1,0 +1,13 @@
+sxs-nickelodeon_kart_racers_v131072.nfo	c2faf6e6
+sxs-nickelodeon_kart_racers_v131072.r00	399eaf62
+sxs-nickelodeon_kart_racers_v131072.r01	06fc7a8a
+sxs-nickelodeon_kart_racers_v131072.r02	3a4e7561
+sxs-nickelodeon_kart_racers_v131072.r03	45466c95
+sxs-nickelodeon_kart_racers_v131072.r04	a6b4377b
+sxs-nickelodeon_kart_racers_v131072.r05	ac4722ee
+sxs-nickelodeon_kart_racers_v131072.r06	c6baa5c2
+sxs-nickelodeon_kart_racers_v131072.r07	6255b031
+sxs-nickelodeon_kart_racers_v131072.r08	b9ee693f
+sxs-nickelodeon_kart_racers_v131072.r09	72149d83
+sxs-nickelodeon_kart_racers_v131072.rar	5c0527f5
+sxs-nickelodeon_kart_racers_v131072.sfv	de590382

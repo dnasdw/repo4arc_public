@@ -1,0 +1,11 @@
+brw-jtri.nfo	72b60b69
+brw-jtri.r00	f0b6ce60
+brw-jtri.r01	26af1cd0
+brw-jtri.r02	90717853
+brw-jtri.r03	64da2365
+brw-jtri.r04	3e67d0fc
+brw-jtri.r05	9a25d3c6
+brw-jtri.r06	a326787a
+brw-jtri.r07	0e93f2b0
+brw-jtri.rar	30a5ea8f
+brw-jtri.sfv	7fceb509

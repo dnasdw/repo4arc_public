@@ -1,0 +1,7 @@
+sxs-puzzle_box_maker_v65536.nfo	0c798e66
+sxs-puzzle_box_maker_v65536.r00	320c176a
+sxs-puzzle_box_maker_v65536.r01	ec830699
+sxs-puzzle_box_maker_v65536.r02	849883ae
+sxs-puzzle_box_maker_v65536.r03	27d0f3b9
+sxs-puzzle_box_maker_v65536.rar	cc66fdbc
+sxs-puzzle_box_maker_v65536.sfv	992521d9

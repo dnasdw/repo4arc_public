@@ -1,0 +1,7 @@
+sxs-dyschronia_chronos_alternate_definitive_edition_v196608.nfo	-	8708	1	0	0	0
+sxs-dyschronia_chronos_alternate_definitive_edition_v196608.r00	-	100000000	1	8708	0	1
+sxs-dyschronia_chronos_alternate_definitive_edition_v196608.r01	-	100000000	1	100008708	0	97
+sxs-dyschronia_chronos_alternate_definitive_edition_v196608.r02	-	100000000	1	200008708	0	193
+sxs-dyschronia_chronos_alternate_definitive_edition_v196608.r03	-	29079674	1	300008708	0	289
+sxs-dyschronia_chronos_alternate_definitive_edition_v196608.rar	-	100000000	1	329088382	0	317
+sxs-dyschronia_chronos_alternate_definitive_edition_v196608.sfv	-	370	1	429088382	0	413

@@ -1,0 +1,4 @@
+jrp-prehistoricdude.nfo	-	6158	1	0	0	0
+jrp-prehistoricdude.r00	-	10108424	1	6158	0	1
+jrp-prehistoricdude.rar	-	50000000	1	10114582	0	11
+jrp-prehistoricdude.sfv	-	68	1	60114582	0	59

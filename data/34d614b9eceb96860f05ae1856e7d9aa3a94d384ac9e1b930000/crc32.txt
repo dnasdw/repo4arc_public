@@ -1,0 +1,10 @@
+lfc-soba.nfo	63a19ad2
+lfc-soba.r00	896f769c
+lfc-soba.r01	f1206eda
+lfc-soba.r02	01974bc8
+lfc-soba.r03	445a47c5
+lfc-soba.r04	16e8e034
+lfc-soba.r05	3eb550ca
+lfc-soba.r06	22d07fba
+lfc-soba.rar	8927a238
+lfc-soba.sfv	c4fc60d9

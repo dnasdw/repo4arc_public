@@ -1,0 +1,3 @@
+v-dq11_champions_dlc.nfo	003fa4b58ba61b2ecf157c702d0af4e8f0978f9f
+v-dq11_champions_dlc.rar	ab5d16acc1a08542a9cb96386642023647da15e7
+v-dq11_champions_dlc.sfv	94c9de109ddb8fabd381c50fe8452ab836156bcc

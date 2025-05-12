@@ -1,0 +1,4 @@
+sxs-rangerdog.nfo	-	5354	1	0	0	0
+sxs-rangerdog.r00	-	15704273	1	5354	0	1
+sxs-rangerdog.rar	-	50000000	1	15709627	0	16
+sxs-rangerdog.sfv	-	56	1	65709627	0	64

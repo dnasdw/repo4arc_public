@@ -1,0 +1,10 @@
+v-lucah_born_of_a_dream_v327680.nfo	-	5672	1	0	0	0
+v-lucah_born_of_a_dream_v327680.r00	-	50000000	1	5672	0	1
+v-lucah_born_of_a_dream_v327680.r01	-	50000000	1	50005672	0	49
+v-lucah_born_of_a_dream_v327680.r02	-	50000000	1	100005672	0	97
+v-lucah_born_of_a_dream_v327680.r03	-	50000000	1	150005672	0	145
+v-lucah_born_of_a_dream_v327680.r04	-	50000000	1	200005672	0	193
+v-lucah_born_of_a_dream_v327680.r05	-	50000000	1	250005672	0	241
+v-lucah_born_of_a_dream_v327680.r06	-	21772754	1	300005672	0	289
+v-lucah_born_of_a_dream_v327680.rar	-	50000000	1	321778426	0	310
+v-lucah_born_of_a_dream_v327680.sfv	-	368	1	371778426	0	358

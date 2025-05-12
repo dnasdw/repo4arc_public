@@ -1,0 +1,4 @@
+bbb-n-amvda.nfo	-	5517	1	0	0	0
+bbb-n-amvda.part1.rar	-	250000000	1	5517	0	1
+bbb-n-amvda.part2.rar	-	245611633	1	250005517	0	240
+bbb-n-amvda.sfv	-	64	1	495617150	0	475

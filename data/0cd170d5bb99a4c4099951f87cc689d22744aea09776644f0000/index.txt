@@ -1,0 +1,4 @@
+lfc-scpu.nfo	-	5349	1	0	0	0
+lfc-scpu.r00	-	11042300	1	5349	0	1
+lfc-scpu.rar	-	50000000	1	11047649	0	12
+lfc-scpu.sfv	-	46	1	61047649	0	60

@@ -1,0 +1,3 @@
+v-sturmwind_ex_v65536.nfo	4c1dcb12db88bf3b0290359c305efcc92deec439
+v-sturmwind_ex_v65536.rar	d060081473f56e04750619e9ebc2e36e9f795c83
+v-sturmwind_ex_v65536.sfv	5bc4496b397e079d7008f249d3d9056d8de4c3cf

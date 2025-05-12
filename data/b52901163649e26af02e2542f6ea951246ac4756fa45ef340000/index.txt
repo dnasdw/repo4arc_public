@@ -1,0 +1,6 @@
+bbb-n-ksakiosk.nfo	-	5517	1	0	0	0
+bbb-n-ksakiosk.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ksakiosk.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ksakiosk.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-ksakiosk.part4.rar	-	115153339	1	212251264	1	203
+bbb-n-ksakiosk.sfv	-	140	1	327404603	1	313

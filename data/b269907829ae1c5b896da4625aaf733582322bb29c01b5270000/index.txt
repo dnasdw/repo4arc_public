@@ -1,0 +1,8 @@
+bbb-h-babja.nfo	-	5517	1	0	0	0
+bbb-h-babja.part1.rar	-	250000000	1	5517	0	1
+bbb-h-babja.part2.rar	-	250000000	1	250005517	0	240
+bbb-h-babja.part3.rar	-	250000000	1	500005517	0	479
+bbb-h-babja.part4.rar	-	250000000	1	212251264	1	203
+bbb-h-babja.part5.rar	-	250000000	1	462251264	1	442
+bbb-h-babja.part6.rar	-	23783476	1	174502528	2	167
+bbb-h-babja.sfv	-	192	1	198286004	2	190

@@ -1,0 +1,5 @@
+sxs-pirate_bloopers.nfo	-	3872	1	0	0	0
+sxs-pirate_bloopers.r00	-	100000000	1	3872	0	1
+sxs-pirate_bloopers.r01	-	37791986	1	100003872	0	97
+sxs-pirate_bloopers.rar	-	100000000	1	137795858	0	134
+sxs-pirate_bloopers.sfv	-	102	1	237795858	0	230

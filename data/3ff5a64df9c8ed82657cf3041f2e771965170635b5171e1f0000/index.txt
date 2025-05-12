@@ -1,0 +1,5 @@
+sxs-wanba_warriors_v262144.nfo	-	4886	1	0	0	0
+sxs-wanba_warriors_v262144.r00	-	50000000	1	4886	0	1
+sxs-wanba_warriors_v262144.r01	-	23511467	1	50004886	0	49
+sxs-wanba_warriors_v262144.rar	-	50000000	1	73516353	0	72
+sxs-wanba_warriors_v262144.sfv	-	123	1	123516353	0	120

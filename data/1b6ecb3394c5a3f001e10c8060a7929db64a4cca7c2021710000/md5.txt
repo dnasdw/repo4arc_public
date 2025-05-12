@@ -1,0 +1,13 @@
+n-aeternanoctis.nfo	1c6a535ab7c126a3f9cd1da9ca2948e3
+n-aeternanoctis.r00	285c074f6c82be728a5f3bc57ade86c9
+n-aeternanoctis.r01	c164a76f93f452e40993b7c4d8fe1475
+n-aeternanoctis.r02	4025fa917bac0c057fc0b2e15f9f380f
+n-aeternanoctis.r03	ebb13a0df577ca54935d79ad24abbbd7
+n-aeternanoctis.r04	50cfe6692e555efa7b3d8108e5fb5599
+n-aeternanoctis.r05	3a3ea610d9ce1fb9b27cd7316429cbcb
+n-aeternanoctis.r06	208e72d7d0d08649fd88a3284adb0b70
+n-aeternanoctis.r07	68ccc0d2d53d526d0bb226cea80ae5af
+n-aeternanoctis.r08	1accb8368ab7316697f8e5819d49b4d2
+n-aeternanoctis.r09	29b8aee3400c4236ac75b9fadd692c13
+n-aeternanoctis.rar	17f670a86fde094f88bff569a2b37d1f
+n-aeternanoctis.sfv	bac0264ed046403416a3bfb5bb2395ec

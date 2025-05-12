@@ -1,0 +1,4 @@
+lfc-ritual.nfo	59c12faf
+lfc-ritual.r00	b8734233
+lfc-ritual.rar	88c4c004
+lfc-ritual.sfv	85f4cdcc

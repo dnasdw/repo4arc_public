@@ -1,0 +1,9 @@
+v-catan_console_edition_v131072.nfo	85a29deb
+v-catan_console_edition_v131072.r00	980c1c95
+v-catan_console_edition_v131072.r01	68ac3016
+v-catan_console_edition_v131072.r02	cb65696a
+v-catan_console_edition_v131072.r03	4afb278d
+v-catan_console_edition_v131072.r04	f8e20e18
+v-catan_console_edition_v131072.r05	5920c8b7
+v-catan_console_edition_v131072.rar	a59511f6
+v-catan_console_edition_v131072.sfv	b3bdd893

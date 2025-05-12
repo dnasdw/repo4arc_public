@@ -1,0 +1,11 @@
+v-bang_on_balls_chronicles_v131072.nfo	-	8008	1	0	0	0
+v-bang_on_balls_chronicles_v131072.r00	-	100000000	1	8008	0	1
+v-bang_on_balls_chronicles_v131072.r01	-	100000000	1	100008008	0	97
+v-bang_on_balls_chronicles_v131072.r02	-	100000000	1	200008008	0	193
+v-bang_on_balls_chronicles_v131072.r03	-	100000000	1	300008008	0	289
+v-bang_on_balls_chronicles_v131072.r04	-	100000000	1	400008008	0	385
+v-bang_on_balls_chronicles_v131072.r05	-	100000000	1	500008008	0	481
+v-bang_on_balls_chronicles_v131072.r06	-	100000000	1	62251264	1	60
+v-bang_on_balls_chronicles_v131072.r07	-	43348376	1	162251264	1	156
+v-bang_on_balls_chronicles_v131072.rar	-	100000000	1	205599640	1	198
+v-bang_on_balls_chronicles_v131072.sfv	-	441	1	305599640	1	294

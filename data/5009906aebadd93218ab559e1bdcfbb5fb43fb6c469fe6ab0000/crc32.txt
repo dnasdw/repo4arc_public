@@ -1,0 +1,13 @@
+lfc-4od2.nfo	5c457b95
+lfc-4od2.r00	06e9c461
+lfc-4od2.r01	7db97193
+lfc-4od2.r02	95fa1801
+lfc-4od2.r03	e552332f
+lfc-4od2.r04	e2755b75
+lfc-4od2.r05	c4b85091
+lfc-4od2.r06	47b63755
+lfc-4od2.r07	a85da6d9
+lfc-4od2.r08	940cd52f
+lfc-4od2.r09	d2a79e83
+lfc-4od2.rar	b7fb647d
+lfc-4od2.sfv	92c7d6ae

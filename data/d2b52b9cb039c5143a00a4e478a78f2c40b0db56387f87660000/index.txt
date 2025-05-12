@@ -1,0 +1,4 @@
+sxs-super_mutant_alien_assault.nfo	-	7850	1	0	0	0
+sxs-super_mutant_alien_assault.r00	-	48195406	1	7850	0	1
+sxs-super_mutant_alien_assault.rar	-	50000000	1	48203256	0	47
+sxs-super_mutant_alien_assault.sfv	-	90	1	98203256	0	95

@@ -1,0 +1,15 @@
+hr-avlcav2.nfo	4e520e61
+hr-avlcav2.r00	4fdbea95
+hr-avlcav2.r01	36e3c360
+hr-avlcav2.r02	9b17369d
+hr-avlcav2.r03	027d9705
+hr-avlcav2.r04	b84dd6e8
+hr-avlcav2.r05	19aaaf89
+hr-avlcav2.r06	dc36038e
+hr-avlcav2.r07	d17f651a
+hr-avlcav2.r08	b261e163
+hr-avlcav2.r09	edb665f7
+hr-avlcav2.r10	9614935d
+hr-avlcav2.r11	aefb4d9c
+hr-avlcav2.rar	30e9003a
+hr-avlcav2.sfv	6be1ab48

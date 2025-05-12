@@ -1,0 +1,3 @@
+sxs-gundam_gen_premium_dlc.nfo	-	40479	1	0	0	0
+sxs-gundam_gen_premium_dlc.rar	-	2286099	1	40479	0	1
+sxs-gundam_gen_premium_dlc.sfv	-	41	1	2326578	0	4

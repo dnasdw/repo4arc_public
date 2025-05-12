@@ -1,0 +1,3 @@
+sxs-cardfight_vanguard_dear_days_dlc.nfo	5f64edf8b5a75bcebba6df1e72397d3d26c0d5d5
+sxs-cardfight_vanguard_dear_days_dlc.rar	38f2845c2ad6b7ef3e89730c69c409a90cc8585a
+sxs-cardfight_vanguard_dear_days_dlc.sfv	994cc51e801835a349c4c903ebb565b77f2d608d

@@ -1,0 +1,4 @@
+brw-hewe.nfo	-	4139	1	0	0	0
+brw-hewe.r00	-	33220498	1	4139	0	1
+brw-hewe.rar	-	50000000	1	33224637	0	33
+brw-hewe.sfv	-	46	1	83224637	0	81

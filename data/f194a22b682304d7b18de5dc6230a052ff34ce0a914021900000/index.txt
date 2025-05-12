@@ -1,0 +1,3 @@
+sxs-explosive_candy_world.nfo	-	5510	1	0	0	0
+sxs-explosive_candy_world.rar	-	40768037	1	5510	0	1
+sxs-explosive_candy_world.sfv	-	40	1	40773547	0	40

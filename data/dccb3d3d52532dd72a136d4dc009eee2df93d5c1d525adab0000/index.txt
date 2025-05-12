@@ -1,0 +1,11 @@
+sxs-tbtwt_esmx_dlc.nfo	-	4418	1	0	0	0
+sxs-tbtwt_esmx_dlc.r00	-	50000000	1	4418	0	1
+sxs-tbtwt_esmx_dlc.r01	-	50000000	1	50004418	0	49
+sxs-tbtwt_esmx_dlc.r02	-	50000000	1	100004418	0	97
+sxs-tbtwt_esmx_dlc.r03	-	50000000	1	150004418	0	145
+sxs-tbtwt_esmx_dlc.r04	-	50000000	1	200004418	0	193
+sxs-tbtwt_esmx_dlc.r05	-	50000000	1	250004418	0	241
+sxs-tbtwt_esmx_dlc.r06	-	50000000	1	300004418	0	289
+sxs-tbtwt_esmx_dlc.r07	-	6422440	1	350004418	0	337
+sxs-tbtwt_esmx_dlc.rar	-	50000000	1	356426858	0	344
+sxs-tbtwt_esmx_dlc.sfv	-	297	1	406426858	0	392

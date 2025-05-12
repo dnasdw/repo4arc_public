@@ -1,0 +1,12 @@
+v-hell_is_other_demons_v262144.nfo	-	6294	1	0	0	0
+v-hell_is_other_demons_v262144.r00	-	50000000	1	6294	0	1
+v-hell_is_other_demons_v262144.r01	-	50000000	1	50006294	0	49
+v-hell_is_other_demons_v262144.r02	-	50000000	1	100006294	0	97
+v-hell_is_other_demons_v262144.r03	-	50000000	1	150006294	0	145
+v-hell_is_other_demons_v262144.r04	-	50000000	1	200006294	0	193
+v-hell_is_other_demons_v262144.r05	-	50000000	1	250006294	0	241
+v-hell_is_other_demons_v262144.r06	-	50000000	1	300006294	0	289
+v-hell_is_other_demons_v262144.r07	-	50000000	1	350006294	0	337
+v-hell_is_other_demons_v262144.r08	-	35327919	1	400006294	0	385
+v-hell_is_other_demons_v262144.rar	-	50000000	1	435334213	0	419
+v-hell_is_other_demons_v262144.sfv	-	450	1	485334213	0	467

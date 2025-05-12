@@ -1,0 +1,10 @@
+sxs-gladiatorial_conquest_battle_arena_of_legends.nfo	-	6056	1	0	0	0
+sxs-gladiatorial_conquest_battle_arena_of_legends.r00	-	100000000	1	6056	0	1
+sxs-gladiatorial_conquest_battle_arena_of_legends.r01	-	100000000	1	100006056	0	97
+sxs-gladiatorial_conquest_battle_arena_of_legends.r02	-	100000000	1	200006056	0	193
+sxs-gladiatorial_conquest_battle_arena_of_legends.r03	-	100000000	1	300006056	0	289
+sxs-gladiatorial_conquest_battle_arena_of_legends.r04	-	100000000	1	400006056	0	385
+sxs-gladiatorial_conquest_battle_arena_of_legends.r05	-	100000000	1	500006056	0	481
+sxs-gladiatorial_conquest_battle_arena_of_legends.r06	-	5206717	1	62251264	1	60
+sxs-gladiatorial_conquest_battle_arena_of_legends.rar	-	100000000	1	67457981	1	65
+sxs-gladiatorial_conquest_battle_arena_of_legends.sfv	-	512	1	167457981	1	161

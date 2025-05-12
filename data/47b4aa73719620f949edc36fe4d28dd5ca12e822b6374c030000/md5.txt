@@ -1,0 +1,5 @@
+sxs-cuphead_v327680.nfo	d52beaccd691490077d79dd1daacefce
+sxs-cuphead_v327680.r00	437944da77cc75079e737e052624d8c9
+sxs-cuphead_v327680.r01	212e0ea294a6c3ee2f2a8ba9d6db99b7
+sxs-cuphead_v327680.rar	d12a0a9d9c4209497d6a32c9f115afe1
+sxs-cuphead_v327680.sfv	6e57b486fee2a333a7784352d4a30f5e

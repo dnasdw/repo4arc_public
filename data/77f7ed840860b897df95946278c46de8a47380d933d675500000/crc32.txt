@@ -1,0 +1,14 @@
+v-doublecross.nfo	19287547
+v-doublecross.r00	420e3e80
+v-doublecross.r01	b2fba476
+v-doublecross.r02	20898843
+v-doublecross.r03	6d35a22a
+v-doublecross.r04	c495787d
+v-doublecross.r05	85a589d3
+v-doublecross.r06	7e7336b9
+v-doublecross.r07	2a243e2b
+v-doublecross.r08	e647c01f
+v-doublecross.r09	c47c428e
+v-doublecross.r10	88cb1b40
+v-doublecross.rar	c32f7208
+v-doublecross.sfv	987a1227

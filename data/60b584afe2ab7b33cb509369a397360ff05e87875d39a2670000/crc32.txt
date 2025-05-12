@@ -1,0 +1,4 @@
+sxs-dark_souls_remastered_v102.nfo	05c2f22b
+sxs-dark_souls_remastered_v102.r00	3e352cdf
+sxs-dark_souls_remastered_v102.rar	84d29be5
+sxs-dark_souls_remastered_v102.sfv	82f49333

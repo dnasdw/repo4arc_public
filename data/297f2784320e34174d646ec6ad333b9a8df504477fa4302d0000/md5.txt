@@ -1,0 +1,6 @@
+sxs-hang_the_kings.nfo	597bb3d386108e40dff7b0a5583e41e7
+sxs-hang_the_kings.r00	50c6783d6726b75493196a4e710a8a15
+sxs-hang_the_kings.r01	a19d6bf60d9801c3608c9ab30b0c53e0
+sxs-hang_the_kings.r02	bcd76289a5cd8dd9f70eca2debbbab7e
+sxs-hang_the_kings.rar	df2a5244daf10c195959c81860175b3b
+sxs-hang_the_kings.sfv	c681d6d01f21d0df81aef08af0826cb4

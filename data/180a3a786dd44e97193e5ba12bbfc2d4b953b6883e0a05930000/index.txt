@@ -1,0 +1,3 @@
+hr-a3g9a-dlc.nfo	-	11908	1	0	0	0
+hr-a3g9a-dlc.rar	-	236770	1	11908	0	1
+hr-a3g9a-dlc.sfv	-	27	1	248678	0	2

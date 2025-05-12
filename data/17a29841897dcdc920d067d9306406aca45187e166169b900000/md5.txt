@@ -1,0 +1,3 @@
+sxs-ace_angler_fishing_spirits_dlc.nfo	185239da52faaf2061ef3df109d64053
+sxs-ace_angler_fishing_spirits_dlc.rar	e41a063451f7fd3b605e6aa670a16f1d
+sxs-ace_angler_fishing_spirits_dlc.sfv	f070870d97e36a95e5265a8d89120f2a

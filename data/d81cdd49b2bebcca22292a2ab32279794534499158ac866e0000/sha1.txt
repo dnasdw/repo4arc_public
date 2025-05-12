@@ -1,0 +1,5 @@
+lfc-arhe.nfo	634635c80cdff39c96bc2d156b545dbba695780c
+lfc-arhe.r00	64856cab6a9e6bc6f9a07765872ebf6c5cc3fdbd
+lfc-arhe.r01	7e364f8f61b8b8a1820d747b488a17e8bf095d2a
+lfc-arhe.rar	4759dc9d6ae135ba63fc13c63ae37e189ec47677
+lfc-arhe.sfv	5bae5b57e09b342c88070b17fb7dcd20abc18b26

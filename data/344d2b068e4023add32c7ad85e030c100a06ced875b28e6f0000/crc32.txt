@@ -1,0 +1,10 @@
+v-killer_queen_black_v196608.nfo	5774787a
+v-killer_queen_black_v196608.r00	9348383b
+v-killer_queen_black_v196608.r01	1b3b295d
+v-killer_queen_black_v196608.r02	2904b898
+v-killer_queen_black_v196608.r03	d4986a35
+v-killer_queen_black_v196608.r04	82ecd84a
+v-killer_queen_black_v196608.r05	70d1bf14
+v-killer_queen_black_v196608.r06	d81a2ca5
+v-killer_queen_black_v196608.rar	e86a4fe7
+v-killer_queen_black_v196608.sfv	d056b9c3

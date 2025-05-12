@@ -1,0 +1,10 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-strife_veteran_edition.jpg	-	172657	1	0	0	0
+sxs-strife_veteran_edition.nfo	-	5900	1	172657	0	1
+sxs-strife_veteran_edition.r00	-	100000000	1	178557	0	2
+sxs-strife_veteran_edition.r01	-	100000000	1	100178557	0	98
+sxs-strife_veteran_edition.r02	-	100000000	1	200178557	0	194
+sxs-strife_veteran_edition.r03	-	100000000	1	300178557	0	290
+sxs-strife_veteran_edition.r04	-	96186805	1	400178557	0	386
+sxs-strife_veteran_edition.rar	-	100000000	1	496365362	0	478
+sxs-strife_veteran_edition.sfv	-	246	1	59105536	1	57

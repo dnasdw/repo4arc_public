@@ -1,0 +1,15 @@
+v-baldrsgate12_v196608.nfo	7dfdfdcd
+v-baldrsgate12_v196608.r00	59dc40e7
+v-baldrsgate12_v196608.r01	e1d17891
+v-baldrsgate12_v196608.r02	3cda615c
+v-baldrsgate12_v196608.r03	e4d7beb6
+v-baldrsgate12_v196608.r04	410bc9de
+v-baldrsgate12_v196608.r05	e9c0ee57
+v-baldrsgate12_v196608.r06	a4a929c7
+v-baldrsgate12_v196608.r07	5324a21b
+v-baldrsgate12_v196608.r08	88ed52f6
+v-baldrsgate12_v196608.r09	d1e70a32
+v-baldrsgate12_v196608.r10	eae87dee
+v-baldrsgate12_v196608.r11	459459d0
+v-baldrsgate12_v196608.rar	355ed0af
+v-baldrsgate12_v196608.sfv	62953a09

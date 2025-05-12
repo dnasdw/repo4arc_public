@@ -1,0 +1,14 @@
+sxs-grimshade_v131072.nfo	b6002a8b
+sxs-grimshade_v131072.r00	3634cb4f
+sxs-grimshade_v131072.r01	18626667
+sxs-grimshade_v131072.r02	833d97af
+sxs-grimshade_v131072.r03	164ccbb7
+sxs-grimshade_v131072.r04	b1072bdb
+sxs-grimshade_v131072.r05	55a4948b
+sxs-grimshade_v131072.r06	fae1e016
+sxs-grimshade_v131072.r07	ca53fde3
+sxs-grimshade_v131072.r08	3270bdde
+sxs-grimshade_v131072.r09	16319c0a
+sxs-grimshade_v131072.r10	dae0d2e2
+sxs-grimshade_v131072.rar	eda733d5
+sxs-grimshade_v131072.sfv	0687f3ed

@@ -1,0 +1,17 @@
+hr-aue5av65536.nfo	85dc3e48
+hr-aue5av65536.r00	1a565ad0
+hr-aue5av65536.r01	a0572397
+hr-aue5av65536.r02	e61f145b
+hr-aue5av65536.r03	976c0938
+hr-aue5av65536.r04	dcfaedb8
+hr-aue5av65536.r05	235f9f11
+hr-aue5av65536.r06	74d397b0
+hr-aue5av65536.r07	4020b366
+hr-aue5av65536.r08	be105ff9
+hr-aue5av65536.r09	498a99e9
+hr-aue5av65536.r10	074bf04b
+hr-aue5av65536.r11	89e6a0ff
+hr-aue5av65536.r12	2d7b7929
+hr-aue5av65536.r13	d7d8c2ac
+hr-aue5av65536.rar	2044f6ad
+hr-aue5av65536.sfv	09ff7f35

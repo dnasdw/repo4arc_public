@@ -1,0 +1,4 @@
+sxs-colorgrid.nfo	a662004a
+sxs-colorgrid.r00	364411b4
+sxs-colorgrid.rar	79d85803
+sxs-colorgrid.sfv	2725fb06

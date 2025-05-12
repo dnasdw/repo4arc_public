@@ -1,0 +1,8 @@
+v-kona_ii_brume_v131072.nfo	0453cda9
+v-kona_ii_brume_v131072.r00	0e94e2a1
+v-kona_ii_brume_v131072.r01	5a8c5453
+v-kona_ii_brume_v131072.r02	d2378f1c
+v-kona_ii_brume_v131072.r03	76212e63
+v-kona_ii_brume_v131072.r04	a520c2f2
+v-kona_ii_brume_v131072.rar	f0105292
+v-kona_ii_brume_v131072.sfv	dc0c278c

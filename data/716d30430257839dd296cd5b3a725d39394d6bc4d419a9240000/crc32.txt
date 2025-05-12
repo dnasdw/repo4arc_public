@@ -1,0 +1,14 @@
+delight.nfo	7c6f862d
+dl-spaceland.r00	d0d19a56
+dl-spaceland.r01	581ce3f3
+dl-spaceland.r02	989dbd3f
+dl-spaceland.r03	014b8905
+dl-spaceland.r04	76ad0268
+dl-spaceland.r05	20e556ce
+dl-spaceland.r06	a45af366
+dl-spaceland.r07	9d5520e9
+dl-spaceland.r08	8ae716f5
+dl-spaceland.r09	57aed8d1
+dl-spaceland.r10	0c03c320
+dl-spaceland.rar	5cc8a4dd
+dl-spaceland.sfv	1e1252a3

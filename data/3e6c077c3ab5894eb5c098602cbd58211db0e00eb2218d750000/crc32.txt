@@ -1,0 +1,13 @@
+sxs-rustler_v65536.nfo	7d392141
+sxs-rustler_v65536.r00	af123bb3
+sxs-rustler_v65536.r01	0f20db23
+sxs-rustler_v65536.r02	0bfa05cd
+sxs-rustler_v65536.r03	df3d7ec2
+sxs-rustler_v65536.r04	f7ebca99
+sxs-rustler_v65536.r05	37b5143d
+sxs-rustler_v65536.r06	a04506c5
+sxs-rustler_v65536.r07	8c51da2b
+sxs-rustler_v65536.r08	6850c041
+sxs-rustler_v65536.r09	973e5e87
+sxs-rustler_v65536.rar	7a270fe3
+sxs-rustler_v65536.sfv	5929c1b4

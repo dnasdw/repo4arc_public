@@ -1,0 +1,4 @@
+sxs-kong_hero.nfo	-	6056	1	0	0	0
+sxs-kong_hero.r00	-	66062012	1	6056	0	1
+sxs-kong_hero.rar	-	100000000	1	66068068	0	65
+sxs-kong_hero.sfv	-	56	1	166068068	0	161

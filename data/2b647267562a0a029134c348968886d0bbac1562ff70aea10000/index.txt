@@ -1,0 +1,10 @@
+v-giraffe_and_annika_v131072.nfo	-	4030	1	0	0	0
+v-giraffe_and_annika_v131072.r00	-	50000000	1	4030	0	1
+v-giraffe_and_annika_v131072.r01	-	50000000	1	50004030	0	49
+v-giraffe_and_annika_v131072.r02	-	50000000	1	100004030	0	97
+v-giraffe_and_annika_v131072.r03	-	50000000	1	150004030	0	145
+v-giraffe_and_annika_v131072.r04	-	50000000	1	200004030	0	193
+v-giraffe_and_annika_v131072.r05	-	50000000	1	250004030	0	241
+v-giraffe_and_annika_v131072.r06	-	46148559	1	300004030	0	289
+v-giraffe_and_annika_v131072.rar	-	50000000	1	346152589	0	334
+v-giraffe_and_annika_v131072.sfv	-	344	1	396152589	0	382

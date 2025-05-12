@@ -1,0 +1,11 @@
+v-the_legend_of_steel_empire.nfo	afbda6bf
+v-the_legend_of_steel_empire.r00	143c55f1
+v-the_legend_of_steel_empire.r01	811e2511
+v-the_legend_of_steel_empire.r02	27335c7e
+v-the_legend_of_steel_empire.r03	afbb9527
+v-the_legend_of_steel_empire.r04	d29ca59f
+v-the_legend_of_steel_empire.r05	990257f0
+v-the_legend_of_steel_empire.r06	8ea51032
+v-the_legend_of_steel_empire.r07	de94118e
+v-the_legend_of_steel_empire.rar	c2ef2127
+v-the_legend_of_steel_empire.sfv	1fee6c8f

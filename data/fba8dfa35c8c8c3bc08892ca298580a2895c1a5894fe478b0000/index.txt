@@ -1,0 +1,4 @@
+lfc-robocod.r00	-	50000000	1	0	0	0
+lfc-robocod.r01	-	3664307	1	50000000	0	48
+lfc-robocod.rar	-	50000000	1	53664307	0	52
+lfc-robocod.sfv	-	78	1	103664307	0	100

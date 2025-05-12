@@ -1,0 +1,12 @@
+sxs-bus_driving_simulator_22_v65536.nfo	-	7304	1	0	0	0
+sxs-bus_driving_simulator_22_v65536.r00	-	100000000	1	7304	0	1
+sxs-bus_driving_simulator_22_v65536.r01	-	100000000	1	100007304	0	97
+sxs-bus_driving_simulator_22_v65536.r02	-	100000000	1	200007304	0	193
+sxs-bus_driving_simulator_22_v65536.r03	-	100000000	1	300007304	0	289
+sxs-bus_driving_simulator_22_v65536.r04	-	100000000	1	400007304	0	385
+sxs-bus_driving_simulator_22_v65536.r05	-	100000000	1	500007304	0	481
+sxs-bus_driving_simulator_22_v65536.r06	-	100000000	1	62251264	1	60
+sxs-bus_driving_simulator_22_v65536.r07	-	100000000	1	162251264	1	156
+sxs-bus_driving_simulator_22_v65536.r08	-	69050828	1	262251264	1	252
+sxs-bus_driving_simulator_22_v65536.rar	-	100000000	1	331302092	1	318
+sxs-bus_driving_simulator_22_v65536.sfv	-	500	1	431302092	1	414

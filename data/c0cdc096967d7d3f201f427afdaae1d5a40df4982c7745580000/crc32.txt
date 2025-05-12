@@ -1,0 +1,4 @@
+sxs-arcade_archives_rainbow_islands.nfo	02f4b367
+sxs-arcade_archives_rainbow_islands.r00	e1f0e3e2
+sxs-arcade_archives_rainbow_islands.rar	81fc377d
+sxs-arcade_archives_rainbow_islands.sfv	921738b1

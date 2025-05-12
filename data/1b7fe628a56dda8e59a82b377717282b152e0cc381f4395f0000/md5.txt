@@ -1,0 +1,6 @@
+sxs-wheel_of_fortune_v65536.nfo	c2abd0c451bc2055f5f3765d0919521e
+sxs-wheel_of_fortune_v65536.r00	ed2f3ed36429f40b28a99f4a68c5f7b0
+sxs-wheel_of_fortune_v65536.r01	5e07a36fc0d4a1de923c84505bb5df87
+sxs-wheel_of_fortune_v65536.r02	1391ae056c325fe44a27c6f5f5d3dcf8
+sxs-wheel_of_fortune_v65536.rar	1d28faf34f99b03b96478f5cedb7bb39
+sxs-wheel_of_fortune_v65536.sfv	40273d045954ba1090005104da11382a

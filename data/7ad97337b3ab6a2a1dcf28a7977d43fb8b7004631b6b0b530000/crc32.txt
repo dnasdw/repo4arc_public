@@ -1,0 +1,7 @@
+sxs-task_force_kampas.nfo	be9a2696
+sxs-task_force_kampas.r00	d9dd7ef8
+sxs-task_force_kampas.r01	ebf92a30
+sxs-task_force_kampas.r02	895b6fba
+sxs-task_force_kampas.r03	f2f9af4a
+sxs-task_force_kampas.rar	d8e3a113
+sxs-task_force_kampas.sfv	43ab68f7

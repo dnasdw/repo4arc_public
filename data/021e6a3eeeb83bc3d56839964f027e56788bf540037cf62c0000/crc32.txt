@@ -1,0 +1,11 @@
+sxs-super_tennis_blast_v196608.nfo	f8b26bfe
+sxs-super_tennis_blast_v196608.r00	f4d00198
+sxs-super_tennis_blast_v196608.r01	db263dd3
+sxs-super_tennis_blast_v196608.r02	d2330f44
+sxs-super_tennis_blast_v196608.r03	9c340e4a
+sxs-super_tennis_blast_v196608.r04	f20b7f3e
+sxs-super_tennis_blast_v196608.r05	79b9fc16
+sxs-super_tennis_blast_v196608.r06	09b3c305
+sxs-super_tennis_blast_v196608.r07	93e83b44
+sxs-super_tennis_blast_v196608.rar	8f9b430a
+sxs-super_tennis_blast_v196608.sfv	da4a677b

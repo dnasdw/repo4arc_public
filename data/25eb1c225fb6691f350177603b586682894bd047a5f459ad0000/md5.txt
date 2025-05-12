@@ -1,0 +1,12 @@
+sxs-even_the_ocean.nfo	aac837665245be45f8ccfba8f8a800b4
+sxs-even_the_ocean.r00	4e61fc8e3d819a166c91f7e5c6165457
+sxs-even_the_ocean.r01	abff891fbd85b58e868651731bbb9813
+sxs-even_the_ocean.r02	fc1c8efcc006c518bd72213074104558
+sxs-even_the_ocean.r03	394772aefb582a7547dbe57d55619a0a
+sxs-even_the_ocean.r04	edb899e070d6186f23812fa2ae82f5b4
+sxs-even_the_ocean.r05	b94476af68e41747ba64a03cc53ebaab
+sxs-even_the_ocean.r06	9b6a531a95243ab1066dc641efde53a7
+sxs-even_the_ocean.r07	28a7e8a1aca6cbbf125da46e88c0d478
+sxs-even_the_ocean.r08	486367e8203a04e42d5dccdd3aff8835
+sxs-even_the_ocean.rar	3e24d2c5ad0ba8b23231dfb3a113f123
+sxs-even_the_ocean.sfv	5544cbf79e11693dd2940c079ce793fc

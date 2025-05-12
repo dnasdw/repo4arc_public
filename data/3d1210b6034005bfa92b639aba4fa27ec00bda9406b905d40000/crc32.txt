@@ -1,0 +1,7 @@
+sxs-rpg_maker_mv_v524288.r00	cea2c166
+sxs-rpg_maker_mv_v524288.r01	d3a4b3d3
+sxs-rpg_maker_mv_v524288.r02	243458c3
+sxs-rpg_maker_mv_v524288.r03	f8eaf033
+sxs-rpg_maker_mv_v524288.r04	7a52c642
+sxs-rpg_maker_mv_v524288.rar	202679cd
+sxs-rpg_maker_mv_v524288.sfv	2adfc798

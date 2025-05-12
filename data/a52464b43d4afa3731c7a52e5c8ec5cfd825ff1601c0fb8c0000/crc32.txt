@@ -1,0 +1,6 @@
+v-katana_zero_v262144.nfo	bd80a026
+v-katana_zero_v262144.r00	dc8f71c5
+v-katana_zero_v262144.r01	faffc4d5
+v-katana_zero_v262144.r02	baf4613c
+v-katana_zero_v262144.rar	0432c852
+v-katana_zero_v262144.sfv	c82efdd4

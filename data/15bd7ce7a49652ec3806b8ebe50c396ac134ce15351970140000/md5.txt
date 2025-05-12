@@ -1,0 +1,8 @@
+sxs-sunset_racer.nfo	80755e254df186281dd9dfb5f55f395d
+sxs-sunset_racer.r00	1c3650f08fbf2540aac2fc539d80e775
+sxs-sunset_racer.r01	a09bd56f3324644c8532667f83f79f29
+sxs-sunset_racer.r02	2b6d468339673815df37b6c9f518e971
+sxs-sunset_racer.r03	b99d4cc6cd7469c2e514cd43ba206db7
+sxs-sunset_racer.r04	cef54655649e6da9ef3b5d2fd9a38469
+sxs-sunset_racer.rar	461ddbc0dba78f0899e6eecc6c6ead46
+sxs-sunset_racer.sfv	ef81b493e59ac0337d0394372dc41e02

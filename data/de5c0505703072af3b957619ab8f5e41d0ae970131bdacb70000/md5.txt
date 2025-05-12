@@ -1,0 +1,3 @@
+sxs-wrc_generations_dlc.nfo	f4be7e30eaaf71721ae988cb883cecd9
+sxs-wrc_generations_dlc.rar	d450f02943d6961da037f67a726db58a
+sxs-wrc_generations_dlc.sfv	1e972856df4ae62dcda86adc19f88595

@@ -1,0 +1,11 @@
+sxs-fae_farm_v327680.nfo	216f1367
+sxs-fae_farm_v327680.r00	ecf0e068
+sxs-fae_farm_v327680.r01	9a8dd851
+sxs-fae_farm_v327680.r02	4308977a
+sxs-fae_farm_v327680.r03	c437eb95
+sxs-fae_farm_v327680.r04	d24968eb
+sxs-fae_farm_v327680.r05	6849d865
+sxs-fae_farm_v327680.r06	d6ed3983
+sxs-fae_farm_v327680.r07	2e1c28f1
+sxs-fae_farm_v327680.rar	287371f4
+sxs-fae_farm_v327680.sfv	4dc20d9f

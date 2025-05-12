@@ -1,0 +1,5 @@
+sxs-weedcraft_inc_v65536.nfo	b6b30c485502682ff79aa63c340f7b3f
+sxs-weedcraft_inc_v65536.r00	9ac7261727c771470666e87e05d52fd6
+sxs-weedcraft_inc_v65536.r01	5812572028bfc5de86076768ca4d793d
+sxs-weedcraft_inc_v65536.rar	f1a8d14a8bbd7a6867a069da0b327618
+sxs-weedcraft_inc_v65536.sfv	17c627cd64fec6224258c8490bb707fb

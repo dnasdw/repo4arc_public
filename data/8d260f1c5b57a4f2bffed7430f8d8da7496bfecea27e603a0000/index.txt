@@ -1,0 +1,15 @@
+sxs-gerda_a_flame_in_winter_v327680.nfo	-	6680	1	0	0	0
+sxs-gerda_a_flame_in_winter_v327680.r00	-	100000000	1	6680	0	1
+sxs-gerda_a_flame_in_winter_v327680.r01	-	100000000	1	100006680	0	97
+sxs-gerda_a_flame_in_winter_v327680.r02	-	100000000	1	200006680	0	193
+sxs-gerda_a_flame_in_winter_v327680.r03	-	100000000	1	300006680	0	289
+sxs-gerda_a_flame_in_winter_v327680.r04	-	100000000	1	400006680	0	385
+sxs-gerda_a_flame_in_winter_v327680.r05	-	100000000	1	500006680	0	481
+sxs-gerda_a_flame_in_winter_v327680.r06	-	100000000	1	62251264	1	60
+sxs-gerda_a_flame_in_winter_v327680.r07	-	100000000	1	162251264	1	156
+sxs-gerda_a_flame_in_winter_v327680.r08	-	100000000	1	262251264	1	252
+sxs-gerda_a_flame_in_winter_v327680.r09	-	100000000	1	362251264	1	348
+sxs-gerda_a_flame_in_winter_v327680.r10	-	100000000	1	462251264	1	444
+sxs-gerda_a_flame_in_winter_v327680.r11	-	50895903	1	24502528	2	24
+sxs-gerda_a_flame_in_winter_v327680.rar	-	100000000	1	75398431	2	73
+sxs-gerda_a_flame_in_winter_v327680.sfv	-	650	1	175398431	2	169

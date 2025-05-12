@@ -1,0 +1,5 @@
+bbb-n-apcya.nfo	-	5517	1	0	0	0
+bbb-n-apcya.part1.rar	-	250000000	1	5517	0	1
+bbb-n-apcya.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-apcya.part3.rar	-	717149	1	500005517	0	479
+bbb-n-apcya.sfv	-	96	1	500722666	0	480

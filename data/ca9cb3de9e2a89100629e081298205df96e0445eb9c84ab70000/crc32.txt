@@ -1,0 +1,16 @@
+lfc-3darcadefishing.nfo	a1b04317
+lfc-3darcadefishing.r00	a642d6f2
+lfc-3darcadefishing.r01	cb965fca
+lfc-3darcadefishing.r02	a6f8567d
+lfc-3darcadefishing.r03	f8a091bc
+lfc-3darcadefishing.r04	d0fe0a39
+lfc-3darcadefishing.r05	60d3f1d9
+lfc-3darcadefishing.r06	89da71d5
+lfc-3darcadefishing.r07	d0e6496a
+lfc-3darcadefishing.r08	386080e7
+lfc-3darcadefishing.r09	6dd520fc
+lfc-3darcadefishing.r10	598f92eb
+lfc-3darcadefishing.r11	a9e15dfb
+lfc-3darcadefishing.r12	825a3c29
+lfc-3darcadefishing.rar	03fbfb45
+lfc-3darcadefishing.sfv	fb995dd5

@@ -1,0 +1,3 @@
+sxs-dragon_sinker_dlc.nfo	-	8084	1	0	0	0
+sxs-dragon_sinker_dlc.rar	-	519716	1	8084	0	1
+sxs-dragon_sinker_dlc.sfv	-	36	1	527800	0	2

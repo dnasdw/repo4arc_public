@@ -1,0 +1,13 @@
+delight.nfo	1a0fda57
+dl-oceanhorn2.r00	d43f81c5
+dl-oceanhorn2.r01	06557f2a
+dl-oceanhorn2.r02	4de935b6
+dl-oceanhorn2.r03	804f7474
+dl-oceanhorn2.r04	b29a7e4f
+dl-oceanhorn2.r05	a4ebb0db
+dl-oceanhorn2.r06	8181fc02
+dl-oceanhorn2.r07	440ecb89
+dl-oceanhorn2.r08	ccf2e5c0
+dl-oceanhorn2.r09	9e7cd1c8
+dl-oceanhorn2.rar	0419b26e
+dl-oceanhorn2.sfv	1d8b456a

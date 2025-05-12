@@ -1,0 +1,12 @@
+lfc-7dor.nfo	29018992
+lfc-7dor.r00	a176541a
+lfc-7dor.r01	240f8d44
+lfc-7dor.r02	2c5c667b
+lfc-7dor.r03	07df8464
+lfc-7dor.r04	f9ef1628
+lfc-7dor.r05	b371571b
+lfc-7dor.r06	b4039ba5
+lfc-7dor.r07	136da7d2
+lfc-7dor.r08	9b508b63
+lfc-7dor.rar	c834edcd
+lfc-7dor.sfv	3d683cde

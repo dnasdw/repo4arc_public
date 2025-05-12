@@ -1,0 +1,4 @@
+sxs-poosh_xl_v196608.nfo	-	5042	1	0	0	0
+sxs-poosh_xl_v196608.r00	-	66341377	1	5042	0	1
+sxs-poosh_xl_v196608.rar	-	100000000	1	66346419	0	65
+sxs-poosh_xl_v196608.sfv	-	70	1	166346419	0	161

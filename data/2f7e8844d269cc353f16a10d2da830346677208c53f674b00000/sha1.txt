@@ -1,0 +1,4 @@
+sxs-mystery_box_evolution.nfo	f2bfeb793f37832bedbb202a9ca4a5445c76b6cf
+sxs-mystery_box_evolution.r00	72d3d83ca3787239dd8a8f8d45dcb3a7c533509e
+sxs-mystery_box_evolution.rar	4a1122f738d10dfd5ba509959708dded1fe4582f
+sxs-mystery_box_evolution.sfv	0b975ce087add44394e9435a44b0e6c0eb2169e6

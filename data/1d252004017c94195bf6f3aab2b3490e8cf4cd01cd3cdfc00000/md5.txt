@@ -1,0 +1,4 @@
+sxs-god_wars_v65536.nfo	f547ea8b1cdce9fb0925e562bf81fc46
+sxs-god_wars_v65536.r00	5a27d57f5938a863b2449bcc39097941
+sxs-god_wars_v65536.rar	5ae2d849bf32ea34d898a180943fcd88
+sxs-god_wars_v65536.sfv	34a2dda86a9b26bb43d31bb74e2dd8fe

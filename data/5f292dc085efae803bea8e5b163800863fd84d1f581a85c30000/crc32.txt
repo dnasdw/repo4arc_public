@@ -1,0 +1,4 @@
+sxs-stickmans_arena.nfo	aa0de55e
+sxs-stickmans_arena.r00	641f90df
+sxs-stickmans_arena.rar	78534fd6
+sxs-stickmans_arena.sfv	dda48458

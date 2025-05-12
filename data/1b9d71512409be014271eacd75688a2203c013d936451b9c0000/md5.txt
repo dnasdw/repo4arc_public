@@ -1,0 +1,7 @@
+brw-bcaf.nfo	76bd93b4b3c367190b2229bad8124148
+brw-bcaf.r00	59e0f98d4389f9d70fdb3e270868665e
+brw-bcaf.r01	3412c917cb42b367d4af10bf80a89d65
+brw-bcaf.r02	0c0692f1b2ddc1003550dfc9fe82284e
+brw-bcaf.r03	a5c3e62b996a18fa631295824b69e9e4
+brw-bcaf.rar	c0ba9d54da21f1f2b7d69d8bad95a737
+brw-bcaf.sfv	65fb2afa382cdeaf15e30f33e0e0f183

@@ -1,0 +1,7 @@
+sxs-defentron.nfo	e0af5ecb5973867cbe262308072b7f68
+sxs-defentron.r00	188145a964f0ee9331a5e1a5bde8267b
+sxs-defentron.r01	54bce8fbcc7b21e052faf4b229c46885
+sxs-defentron.r02	71f60aac803015708d4304a534f17ab2
+sxs-defentron.r03	6077147a246ebc1eeaaa1bca1e8d3b46
+sxs-defentron.rar	b960b564bb85f3e9a845333329b03808
+sxs-defentron.sfv	8772c19224888cacd43d689745bdff12

@@ -1,0 +1,17 @@
+brw-drdg.nfo	f4bcf84d
+brw-drdg.r00	c9b4cd81
+brw-drdg.r01	4572e53b
+brw-drdg.r02	c25b4c4f
+brw-drdg.r03	85e86f26
+brw-drdg.r04	1131b076
+brw-drdg.r05	29292bea
+brw-drdg.r06	c40639b4
+brw-drdg.r07	0975f915
+brw-drdg.r08	31a8d3de
+brw-drdg.r09	062d0a97
+brw-drdg.r10	d348c203
+brw-drdg.r11	7b946cf5
+brw-drdg.r12	f4b058da
+brw-drdg.r13	64dbaa0a
+brw-drdg.rar	2f2aa01c
+brw-drdg.sfv	14f41c08

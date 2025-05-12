@@ -1,0 +1,3 @@
+v-demons_tier_plus_v65536.nfo	-	6058	1	0	0	0
+v-demons_tier_plus_v65536.rar	-	31512971	1	6058	0	1
+v-demons_tier_plus_v65536.sfv	-	40	1	31519029	0	32

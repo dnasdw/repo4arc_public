@@ -1,0 +1,14 @@
+hr-arahg.nfo	e0717205e1a595f9db10a4cf285687fe
+hr-arahg.r00	dce5517c4bdcdf085f6f89c1b776c748
+hr-arahg.r01	0b9110af32552b9eff855155508c5b14
+hr-arahg.r02	02798e0d7df343f3625bd96841fe6dc6
+hr-arahg.r03	dceb1b0b4978c57797475f358e32869f
+hr-arahg.r04	17ac05b2e2ba281527ef02d68e8d0aa5
+hr-arahg.r05	bd24ef02c2dd0a46f1d7bfc9fa8777ad
+hr-arahg.r06	adac1023432c45ef0e0d35ad13bd98c8
+hr-arahg.r07	07db50e4788f12a9f40a148a59e0b901
+hr-arahg.r08	ecb488df64312a0a88fd3a3c6c3eebad
+hr-arahg.r09	74d471ba5294f924cfe6932f8a9d2ac1
+hr-arahg.r10	bc40c846298d29b589516d00d9bec2d7
+hr-arahg.rar	de297372d478d7cb98c75bb0373c7a0c
+hr-arahg.sfv	4d4d7110f8de964af5f72f731186697b

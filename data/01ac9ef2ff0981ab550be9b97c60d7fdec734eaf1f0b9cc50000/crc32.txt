@@ -1,0 +1,6 @@
+v-windjammers_2_v262144.nfo	8d6e95c6
+v-windjammers_2_v262144.r00	2e2fc436
+v-windjammers_2_v262144.r01	141b0352
+v-windjammers_2_v262144.r02	12cfc7a3
+v-windjammers_2_v262144.rar	41822b4b
+v-windjammers_2_v262144.sfv	c7ce8a73

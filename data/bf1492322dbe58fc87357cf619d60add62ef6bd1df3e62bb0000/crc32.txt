@@ -1,0 +1,5 @@
+sxs-super_adventure_hand.nfo	020a6c77
+sxs-super_adventure_hand.r00	235cb165
+sxs-super_adventure_hand.r01	5d6491e4
+sxs-super_adventure_hand.rar	3ae20f76
+sxs-super_adventure_hand.sfv	197b0619

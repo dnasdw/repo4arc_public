@@ -1,0 +1,5 @@
+sxs-snes_v917504.nfo	460fbf4b
+sxs-snes_v917504.r00	ff0ad4df
+sxs-snes_v917504.r01	07bfac04
+sxs-snes_v917504.rar	0d6e1e70
+sxs-snes_v917504.sfv	f3eb154e

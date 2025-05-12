@@ -1,0 +1,5 @@
+sxs-rwby_arrowfell_v131072.nfo	-	6446	1	0	0	0
+sxs-rwby_arrowfell_v131072.r00	-	100000000	1	6446	0	1
+sxs-rwby_arrowfell_v131072.r01	-	84434396	1	100006446	0	97
+sxs-rwby_arrowfell_v131072.rar	-	100000000	1	184440842	0	178
+sxs-rwby_arrowfell_v131072.sfv	-	123	1	284440842	0	274

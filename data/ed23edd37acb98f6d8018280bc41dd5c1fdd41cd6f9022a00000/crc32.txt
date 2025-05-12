@@ -1,0 +1,10 @@
+sxs-cuphead_v655360.nfo	fe803535
+sxs-cuphead_v655360.r00	ad483c52
+sxs-cuphead_v655360.r01	23002242
+sxs-cuphead_v655360.r02	fc0c4d91
+sxs-cuphead_v655360.r03	9eb25e75
+sxs-cuphead_v655360.r04	e87fb4f6
+sxs-cuphead_v655360.r05	5ed290d0
+sxs-cuphead_v655360.r06	68e15734
+sxs-cuphead_v655360.rar	b81a1af7
+sxs-cuphead_v655360.sfv	bd85d2d1

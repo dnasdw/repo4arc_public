@@ -1,0 +1,8 @@
+i-czmg_v65536.nfo	a5c0954b
+i-czmg_v65536.r00	3e1b9836
+i-czmg_v65536.r01	891904f3
+i-czmg_v65536.r02	f5681896
+i-czmg_v65536.r03	65a708ac
+i-czmg_v65536.r04	8c6d1e21
+i-czmg_v65536.rar	09a1f5ab
+i-czmg_v65536.sfv	51d3314d

@@ -1,0 +1,4 @@
+sxs-picture_painting_puzzle_1000_v65536.nfo	f7d56ce0
+sxs-picture_painting_puzzle_1000_v65536.r00	66969480
+sxs-picture_painting_puzzle_1000_v65536.rar	06e8cbed
+sxs-picture_painting_puzzle_1000_v65536.sfv	f649b529

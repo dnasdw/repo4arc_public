@@ -1,0 +1,11 @@
+v-wind_of_shuriken.nfo	54c1d513
+v-wind_of_shuriken.r00	82bbec2b
+v-wind_of_shuriken.r01	5f8c7edb
+v-wind_of_shuriken.r02	01ef02b8
+v-wind_of_shuriken.r03	b886bc48
+v-wind_of_shuriken.r04	b3582b8d
+v-wind_of_shuriken.r05	12bbe552
+v-wind_of_shuriken.r06	098863d0
+v-wind_of_shuriken.r07	49725001
+v-wind_of_shuriken.rar	b4ccf85a
+v-wind_of_shuriken.sfv	d87d688d

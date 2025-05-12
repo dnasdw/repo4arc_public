@@ -1,0 +1,5 @@
+sxs-meowmatch.nfo	8461e60e
+sxs-meowmatch.r00	4b041a22
+sxs-meowmatch.r01	10d9d012
+sxs-meowmatch.rar	67f7f2db
+sxs-meowmatch.sfv	c4e3dd31

@@ -1,0 +1,13 @@
+w-perseverance.nfo	01326424b98b3a65ce70355cb6adc827
+w-perseverance.r00	28526d1595f971df8c9a13190cecaf81
+w-perseverance.r01	2577d84e51fbb23528c84644d8052681
+w-perseverance.r02	18ae7715c332ddee819c4b590c1561a7
+w-perseverance.r03	d01a7ec1b82adf292269b1b1274ea8a3
+w-perseverance.r04	d56b4d2ad280026e3f41a006b68a6255
+w-perseverance.r05	85f6c7e5e9111b14a176f5f050338357
+w-perseverance.r06	f1df371ebe035653cf7827af949d649f
+w-perseverance.r07	556d446d1a38784f181826c3953653ba
+w-perseverance.r08	8187ad3eb952652c222d511b37af58a5
+w-perseverance.r09	af3e3321ab08a9578ed8bbfc367b6144
+w-perseverance.rar	a17b583019ee9be46c4b736053052d83
+w-perseverance.sfv	d7da93964d135395787258c9f1284a09

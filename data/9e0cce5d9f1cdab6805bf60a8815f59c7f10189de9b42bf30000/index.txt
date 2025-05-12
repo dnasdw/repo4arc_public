@@ -1,0 +1,4 @@
+v-fight_n_rage_v524288.nfo	-	5512	1	0	0	0
+v-fight_n_rage_v524288.r00	-	22503086	1	5512	0	1
+v-fight_n_rage_v524288.rar	-	50000000	1	22508598	0	23
+v-fight_n_rage_v524288.sfv	-	74	1	72508598	0	71

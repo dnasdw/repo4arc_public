@@ -1,0 +1,10 @@
+v-psychic_storm.nfo	ce6b1a38
+v-psychic_storm.r00	f66ba11d
+v-psychic_storm.r01	072d2715
+v-psychic_storm.r02	08a734af
+v-psychic_storm.r03	64bd2246
+v-psychic_storm.r04	912a2d70
+v-psychic_storm.r05	303ac100
+v-psychic_storm.r06	9f00ce2a
+v-psychic_storm.rar	d5d190fc
+v-psychic_storm.sfv	37d26417

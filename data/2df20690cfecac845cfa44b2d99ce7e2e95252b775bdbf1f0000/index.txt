@@ -1,0 +1,9 @@
+sxs-felix_the_reaper_v131072.nfo	-	5666	1	0	0	0
+sxs-felix_the_reaper_v131072.r00	-	50000000	1	5666	0	1
+sxs-felix_the_reaper_v131072.r01	-	50000000	1	50005666	0	49
+sxs-felix_the_reaper_v131072.r02	-	50000000	1	100005666	0	97
+sxs-felix_the_reaper_v131072.r03	-	50000000	1	150005666	0	145
+sxs-felix_the_reaper_v131072.r04	-	50000000	1	200005666	0	193
+sxs-felix_the_reaper_v131072.r05	-	35404673	1	250005666	0	241
+sxs-felix_the_reaper_v131072.rar	-	50000000	1	285410339	0	275
+sxs-felix_the_reaper_v131072.sfv	-	301	1	335410339	0	323

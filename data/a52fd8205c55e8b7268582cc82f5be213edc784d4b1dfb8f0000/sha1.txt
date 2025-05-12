@@ -1,0 +1,5 @@
+sxs-samshom_mina_dlc.nfo	176397cbc4999953d644d9a79293b074bed8bff6
+sxs-samshom_mina_dlc.r00	d3b4cf158276c36bc93dcae386de8246d618f85f
+sxs-samshom_mina_dlc.r01	a48072984b6d085337e12a53bf6db866de97eef1
+sxs-samshom_mina_dlc.rar	779c692371f8bb324452460f9d4c7630f8cfb82c
+sxs-samshom_mina_dlc.sfv	52041fd9d91e771b6f312cd2c5e0865fbafc3a75

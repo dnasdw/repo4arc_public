@@ -1,0 +1,5 @@
+sxs-slay_the_spire_v131072.nfo	2ee81485
+sxs-slay_the_spire_v131072.r00	d424600c
+sxs-slay_the_spire_v131072.r01	df5a758f
+sxs-slay_the_spire_v131072.rar	b0188939
+sxs-slay_the_spire_v131072.sfv	b4b7ae95

@@ -1,0 +1,4 @@
+bbb-n-apcga.nfo	-	5517	1	0	0	0
+bbb-n-apcga.part1.rar	-	250000000	1	5517	0	1
+bbb-n-apcga.part2.rar	-	71365648	1	250005517	0	240
+bbb-n-apcga.sfv	-	64	1	321371165	0	309

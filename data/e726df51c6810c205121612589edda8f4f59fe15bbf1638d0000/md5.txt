@@ -1,0 +1,4 @@
+sxs-astronite_v196608.nfo	c9d9931d4735919a290dc20ee9b57a2b
+sxs-astronite_v196608.r00	6b827e17c91cf3a02bade48faf2ef81c
+sxs-astronite_v196608.rar	c115e1ce828b349ac05b139130f8997f
+sxs-astronite_v196608.sfv	16aca64ef33e82e22701f1e0197f8343

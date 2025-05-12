@@ -1,0 +1,12 @@
+sxs-monkey_barrels_v65536.nfo	f3085258
+sxs-monkey_barrels_v65536.r00	7a4704e9
+sxs-monkey_barrels_v65536.r01	9f1c74ca
+sxs-monkey_barrels_v65536.r02	7bf2fa0d
+sxs-monkey_barrels_v65536.r03	c2fd7ebf
+sxs-monkey_barrels_v65536.r04	b34c1cc0
+sxs-monkey_barrels_v65536.r05	7449143c
+sxs-monkey_barrels_v65536.r06	601dbcae
+sxs-monkey_barrels_v65536.r07	1c325b09
+sxs-monkey_barrels_v65536.r08	2c277621
+sxs-monkey_barrels_v65536.rar	931e1e88
+sxs-monkey_barrels_v65536.sfv	7ef3ef7c

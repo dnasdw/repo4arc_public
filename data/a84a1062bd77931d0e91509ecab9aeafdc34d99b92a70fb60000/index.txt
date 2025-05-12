@@ -1,0 +1,7 @@
+sxs-downhill_driver_extreme_racing_simulator.nfo	-	5512	1	0	0	0
+sxs-downhill_driver_extreme_racing_simulator.r00	-	100000000	1	5512	0	1
+sxs-downhill_driver_extreme_racing_simulator.r01	-	100000000	1	100005512	0	97
+sxs-downhill_driver_extreme_racing_simulator.r02	-	100000000	1	200005512	0	193
+sxs-downhill_driver_extreme_racing_simulator.r03	-	37317677	1	300005512	0	289
+sxs-downhill_driver_extreme_racing_simulator.rar	-	100000000	1	337323189	0	325
+sxs-downhill_driver_extreme_racing_simulator.sfv	-	295	1	437323189	0	421

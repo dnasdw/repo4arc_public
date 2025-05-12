@@ -1,0 +1,4 @@
+sxs-arcade_archives_vs_gradius.nfo	-	4343	1	0	0	0
+sxs-arcade_archives_vs_gradius.r00	-	12593554	1	4343	0	1
+sxs-arcade_archives_vs_gradius.rar	-	50000000	1	12597897	0	14
+sxs-arcade_archives_vs_gradius.sfv	-	90	1	62597897	0	62

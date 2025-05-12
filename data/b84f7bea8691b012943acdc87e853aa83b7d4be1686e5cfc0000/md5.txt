@@ -1,0 +1,4 @@
+v-capcom_fighting_collection_v131072.nfo	0bb174d457bb93da1183b84bfc1a361d
+v-capcom_fighting_collection_v131072.r00	1643663538222bd4c17bedd9466d0229
+v-capcom_fighting_collection_v131072.rar	edc0e75bb1eca51c924f6b130c721694
+v-capcom_fighting_collection_v131072.sfv	fd64c6468ba8d5e041d0aafe19482f9c

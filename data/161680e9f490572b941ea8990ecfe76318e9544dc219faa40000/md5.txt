@@ -1,0 +1,15 @@
+brw-soht_proper.nfo	3a175616524154895292481b2f8f3724
+brw-soht_proper.r00	1e1bfacf15fb6b2293f069774620ce2f
+brw-soht_proper.r01	1f72a254f704ee06d497c7a683364898
+brw-soht_proper.r02	01733b73d8665d73a55b1ee41de19463
+brw-soht_proper.r03	4e863b6b655b810942219bdd0d773700
+brw-soht_proper.r04	3a09bdd5cba1db1d8d4b295ef962af50
+brw-soht_proper.r05	673eeb2fd7f407659e32e60dab5e7e3f
+brw-soht_proper.r06	ec7ad9771cee330170d864ff8161ead5
+brw-soht_proper.r07	532f8548a49df8d00f1f3b20de35e6b8
+brw-soht_proper.r08	6fdfb23751cc2887a2d4865605145221
+brw-soht_proper.r09	1609e26d98cc033e2a69c80664d756d3
+brw-soht_proper.r10	67a9d1d82b2d84e07e30f1769d32b625
+brw-soht_proper.r11	15c9eb56ea6d543758632aeaa154988a
+brw-soht_proper.rar	330ce9c675dea5682fa612ae314c1302
+brw-soht_proper.sfv	1e09b9936e4b182950aa8bb35cb41d44

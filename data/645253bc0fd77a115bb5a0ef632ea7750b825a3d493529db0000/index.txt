@@ -1,0 +1,6 @@
+v-wonder_boy_returns_remix_v327680.nfo	-	4966	1	0	0	0
+v-wonder_boy_returns_remix_v327680.r00	-	50000000	1	4966	0	1
+v-wonder_boy_returns_remix_v327680.r01	-	50000000	1	50004966	0	49
+v-wonder_boy_returns_remix_v327680.r02	-	45183721	1	100004966	0	97
+v-wonder_boy_returns_remix_v327680.rar	-	50000000	1	145188687	0	141
+v-wonder_boy_returns_remix_v327680.sfv	-	196	1	195188687	0	189

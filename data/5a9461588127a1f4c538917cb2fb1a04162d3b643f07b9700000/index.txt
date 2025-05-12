@@ -1,0 +1,7 @@
+lfc-supertennisblast.nfo	-	3640	1	0	0	0
+lfc-supertennisblast.r00	-	50000000	1	3640	0	1
+lfc-supertennisblast.r01	-	50000000	1	50003640	0	49
+lfc-supertennisblast.r02	-	50000000	1	100003640	0	97
+lfc-supertennisblast.r03	-	1111566	1	150003640	0	145
+lfc-supertennisblast.rar	-	50000000	1	151115206	0	147
+lfc-supertennisblast.sfv	-	175	1	201115206	0	195

@@ -1,0 +1,15 @@
+lfc-inis.nfo	da5e196f
+lfc-inis_v65536.r00	ebf383f9
+lfc-inis_v65536.r01	7bf6b30c
+lfc-inis_v65536.r02	09b7fb25
+lfc-inis_v65536.r03	89057f37
+lfc-inis_v65536.r04	0820dea5
+lfc-inis_v65536.r05	4dfd9c6e
+lfc-inis_v65536.r06	5e90d2d5
+lfc-inis_v65536.r07	2841f821
+lfc-inis_v65536.r08	163f4215
+lfc-inis_v65536.r09	b571cebe
+lfc-inis_v65536.r10	10965520
+lfc-inis_v65536.r11	14f978c9
+lfc-inis_v65536.rar	6997505e
+lfc-inis_v65536.sfv	e582cc4f

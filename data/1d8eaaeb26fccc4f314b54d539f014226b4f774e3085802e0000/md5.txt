@@ -1,0 +1,5 @@
+sxs-steel_assault_v131072.nfo	ad9081681b8150c70391561f52fbbcca
+sxs-steel_assault_v131072.r00	f3aa3eb95babdf902866b08885a64668
+sxs-steel_assault_v131072.r01	e16778eadae64930edf4230c860e9707
+sxs-steel_assault_v131072.rar	448e7258bdced136539b7266862aa18e
+sxs-steel_assault_v131072.sfv	46810cbea65f27f454d913bf0264fea9

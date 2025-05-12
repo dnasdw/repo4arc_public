@@ -1,0 +1,10 @@
+v-steamworld_build.nfo	fb78ea8a
+v-steamworld_build.r00	e55f6d09
+v-steamworld_build.r01	b65c00b1
+v-steamworld_build.r02	df3e9958
+v-steamworld_build.r03	d4fe3e71
+v-steamworld_build.r04	e350cce7
+v-steamworld_build.r05	8923c951
+v-steamworld_build.r06	70a3f311
+v-steamworld_build.rar	a4a2f2ee
+v-steamworld_build.sfv	df1626a7

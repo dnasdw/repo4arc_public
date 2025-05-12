@@ -1,0 +1,9 @@
+v-towers_watch.nfo	-	6058	1	0	0	0
+v-towers_watch.r00	-	100000000	1	6058	0	1
+v-towers_watch.r01	-	100000000	1	100006058	0	97
+v-towers_watch.r02	-	100000000	1	200006058	0	193
+v-towers_watch.r03	-	100000000	1	300006058	0	289
+v-towers_watch.r04	-	100000000	1	400006058	0	385
+v-towers_watch.r05	-	10837077	1	500006058	0	481
+v-towers_watch.rar	-	100000000	1	510843135	0	492
+v-towers_watch.sfv	-	203	1	73785600	1	71

@@ -1,0 +1,3 @@
+sxs-sir_questionnaire.nfo	78d4015fea6e3e213219b15bdfcf2a05a4b7f6fe
+sxs-sir_questionnaire.rar	4c7f0db5f8940067850e143e52351b9e527104ff
+sxs-sir_questionnaire.sfv	7d94f61f6299d2088eeb55fb2a7c17a38e7054ae

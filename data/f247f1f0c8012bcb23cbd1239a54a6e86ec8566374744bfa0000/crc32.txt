@@ -1,0 +1,9 @@
+sxs-tnte.nfo	21956687
+sxs-tnte.r00	22100bac
+sxs-tnte.r01	eb94585a
+sxs-tnte.r02	f1f87840
+sxs-tnte.r03	e323227c
+sxs-tnte.r04	7819d024
+sxs-tnte.r05	cd4b27ea
+sxs-tnte.rar	45a8afc2
+sxs-tnte.sfv	22b02f69

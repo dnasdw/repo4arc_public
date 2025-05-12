@@ -1,0 +1,5 @@
+lfc-shma.nfo	49fdcfff253906b8fba957c9f3c98bcd099e9404
+lfc-shma.r00	77c0b4a655ba25161a6f9e9e9e5f6a10c40b2a6a
+lfc-shma.r01	412d5a34aa3f18193f1fc5f26a9358f793f62e2a
+lfc-shma.rar	0bb1a50c431ff9df60eb015588ddf28cbe1ef67a
+lfc-shma.sfv	09c9f98fd51f84b7aa49c5f5d4a00300a51bd626

@@ -1,0 +1,5 @@
+v-conduct_together_v393216.nfo	-	6605	1	0	0	0
+v-conduct_together_v393216.r00	-	100000000	1	6605	0	1
+v-conduct_together_v393216.r01	-	22269198	1	100006605	0	97
+v-conduct_together_v393216.rar	-	100000000	1	122275803	0	119
+v-conduct_together_v393216.sfv	-	123	1	222275803	0	215

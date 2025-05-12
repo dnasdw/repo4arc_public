@@ -1,0 +1,13 @@
+sxs-fifa23_commentary_nl_dlc.nfo	8a840bde
+sxs-fifa23_commentary_nl_dlc.r00	0c344459
+sxs-fifa23_commentary_nl_dlc.r01	e1bc98a7
+sxs-fifa23_commentary_nl_dlc.r02	5997b439
+sxs-fifa23_commentary_nl_dlc.r03	cced679c
+sxs-fifa23_commentary_nl_dlc.r04	9bd82349
+sxs-fifa23_commentary_nl_dlc.r05	b3c17a08
+sxs-fifa23_commentary_nl_dlc.r06	0b99affe
+sxs-fifa23_commentary_nl_dlc.r07	9912f365
+sxs-fifa23_commentary_nl_dlc.r08	02cdfb18
+sxs-fifa23_commentary_nl_dlc.r09	103b185c
+sxs-fifa23_commentary_nl_dlc.rar	b18a8fe9
+sxs-fifa23_commentary_nl_dlc.sfv	57765c49

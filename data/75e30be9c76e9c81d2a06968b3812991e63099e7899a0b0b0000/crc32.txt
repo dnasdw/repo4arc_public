@@ -1,0 +1,10 @@
+sxs-potion_permit_v720896.nfo	d49366b7
+sxs-potion_permit_v720896.r00	a534d9ed
+sxs-potion_permit_v720896.r01	d69d333d
+sxs-potion_permit_v720896.r02	64827622
+sxs-potion_permit_v720896.r03	ef1aa9a8
+sxs-potion_permit_v720896.r04	8af689f4
+sxs-potion_permit_v720896.r05	7e054436
+sxs-potion_permit_v720896.r06	1683e8b4
+sxs-potion_permit_v720896.rar	bc2e4fcf
+sxs-potion_permit_v720896.sfv	d9479e4d

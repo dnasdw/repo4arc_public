@@ -1,0 +1,5 @@
+sxs-rolling_gunner_v393216.nfo	f249d1804ba1f6048aada3bcb03e69ab
+sxs-rolling_gunner_v393216.r00	3039201bce450c0850a693c85777ce41
+sxs-rolling_gunner_v393216.r01	ac38a55721b6c83f603077e43e87ee4b
+sxs-rolling_gunner_v393216.rar	eb1c7e1290b590b4ada64ef4e2ca696e
+sxs-rolling_gunner_v393216.sfv	653320af818de934a0cf109786d72da1

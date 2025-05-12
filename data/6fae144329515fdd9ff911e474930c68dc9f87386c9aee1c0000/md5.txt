@@ -1,0 +1,4 @@
+v-dynasty_warriors_9_empires_dlc.nfo	3f72c22573c4b73a5659cc5d6c42cb6b
+v-dynasty_warriors_9_empires_dlc.r00	6fe736dada079933e697ff924ee87c41
+v-dynasty_warriors_9_empires_dlc.rar	7c4065ae938baa4bdc9baea4fff8f9f4
+v-dynasty_warriors_9_empires_dlc.sfv	ebce196dd0362d87d886601a2189165b

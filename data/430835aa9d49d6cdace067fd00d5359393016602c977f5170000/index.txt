@@ -1,0 +1,4 @@
+sxs-colorgrid.nfo	-	4106	1	0	0	0
+sxs-colorgrid.r00	-	23077480	1	4106	0	1
+sxs-colorgrid.rar	-	50000000	1	23081586	0	24
+sxs-colorgrid.sfv	-	56	1	73081586	0	72

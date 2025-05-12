@@ -1,0 +1,12 @@
+sxs-ryans_rescue_squad_v65536.nfo	795a40b4
+sxs-ryans_rescue_squad_v65536.r00	f530d02b
+sxs-ryans_rescue_squad_v65536.r01	67c1219b
+sxs-ryans_rescue_squad_v65536.r02	328a1ddb
+sxs-ryans_rescue_squad_v65536.r03	78925d1c
+sxs-ryans_rescue_squad_v65536.r04	eebe1a8e
+sxs-ryans_rescue_squad_v65536.r05	4f3d5553
+sxs-ryans_rescue_squad_v65536.r06	2b762b41
+sxs-ryans_rescue_squad_v65536.r07	a31e5d75
+sxs-ryans_rescue_squad_v65536.r08	37ef9512
+sxs-ryans_rescue_squad_v65536.rar	08290803
+sxs-ryans_rescue_squad_v65536.sfv	a2c3f584

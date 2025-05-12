@@ -1,0 +1,14 @@
+v-legend_of_mana_v131072.nfo	37f940fc
+v-legend_of_mana_v131072.r00	1a7be359
+v-legend_of_mana_v131072.r01	c0efb79e
+v-legend_of_mana_v131072.r02	eebf5912
+v-legend_of_mana_v131072.r03	483cf80d
+v-legend_of_mana_v131072.r04	1030e2d3
+v-legend_of_mana_v131072.r05	92486185
+v-legend_of_mana_v131072.r06	0249e00e
+v-legend_of_mana_v131072.r07	2cdaa234
+v-legend_of_mana_v131072.r08	50ef96f2
+v-legend_of_mana_v131072.r09	6b98ed9f
+v-legend_of_mana_v131072.r10	4ad1ba53
+v-legend_of_mana_v131072.rar	20d1d8e5
+v-legend_of_mana_v131072.sfv	5383ba52

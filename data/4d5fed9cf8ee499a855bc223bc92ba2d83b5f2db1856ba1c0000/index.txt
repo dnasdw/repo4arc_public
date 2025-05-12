@@ -1,0 +1,16 @@
+v-super_dodgeball_beats.nfo	-	4888	1	0	0	0
+v-super_dodgeball_beats.r00	-	50000000	1	4888	0	1
+v-super_dodgeball_beats.r01	-	50000000	1	50004888	0	49
+v-super_dodgeball_beats.r02	-	50000000	1	100004888	0	97
+v-super_dodgeball_beats.r03	-	50000000	1	150004888	0	145
+v-super_dodgeball_beats.r04	-	50000000	1	200004888	0	193
+v-super_dodgeball_beats.r05	-	50000000	1	250004888	0	241
+v-super_dodgeball_beats.r06	-	50000000	1	300004888	0	289
+v-super_dodgeball_beats.r07	-	50000000	1	350004888	0	337
+v-super_dodgeball_beats.r08	-	50000000	1	400004888	0	385
+v-super_dodgeball_beats.r09	-	50000000	1	450004888	0	433
+v-super_dodgeball_beats.r10	-	50000000	1	500004888	0	481
+v-super_dodgeball_beats.r11	-	50000000	1	12251264	1	12
+v-super_dodgeball_beats.r12	-	37017433	1	62251264	1	60
+v-super_dodgeball_beats.rar	-	50000000	1	99268697	1	96
+v-super_dodgeball_beats.sfv	-	532	1	149268697	1	144

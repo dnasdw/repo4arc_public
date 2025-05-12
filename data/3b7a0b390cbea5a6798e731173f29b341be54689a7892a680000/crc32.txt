@@ -1,0 +1,10 @@
+sxs-bitmaster.nfo	c9059309
+sxs-bitmaster.r00	4fa99bb4
+sxs-bitmaster.r01	cb5ca153
+sxs-bitmaster.r02	71476389
+sxs-bitmaster.r03	31f8e61c
+sxs-bitmaster.r04	2b815f93
+sxs-bitmaster.r05	cfc7492b
+sxs-bitmaster.r06	6f38061f
+sxs-bitmaster.rar	7cf49289
+sxs-bitmaster.sfv	9a0bcb74

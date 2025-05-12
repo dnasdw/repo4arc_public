@@ -1,0 +1,12 @@
+sxs-indiecalypse_v131072.nfo	56dbde8c
+sxs-indiecalypse_v131072.r00	6a1afb6c
+sxs-indiecalypse_v131072.r01	bae4987b
+sxs-indiecalypse_v131072.r02	55b673d4
+sxs-indiecalypse_v131072.r03	f7e911dc
+sxs-indiecalypse_v131072.r04	643a19ae
+sxs-indiecalypse_v131072.r05	14f2bbbf
+sxs-indiecalypse_v131072.r06	7a450d67
+sxs-indiecalypse_v131072.r07	eea9cb3a
+sxs-indiecalypse_v131072.r08	34832bf4
+sxs-indiecalypse_v131072.rar	c63d6fa6
+sxs-indiecalypse_v131072.sfv	91514869

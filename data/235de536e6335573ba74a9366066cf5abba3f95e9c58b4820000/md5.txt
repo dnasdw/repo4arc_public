@@ -1,0 +1,4 @@
+delight.nfo	871dd6449cf293aa290525b1ade873ec
+dl-travelm5.r00	f3c7b5b5fc90405612d342fb14cb5703
+dl-travelm5.rar	f5a29802632894f1833159ce581ffcee
+dl-travelm5.sfv	5cbe49700da5fe967d11ae3bd1185f4d

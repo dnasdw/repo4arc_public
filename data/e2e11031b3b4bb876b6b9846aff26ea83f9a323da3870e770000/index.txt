@@ -1,0 +1,5 @@
+bbb-h-akrva.nfo	-	5517	1	0	0	0
+bbb-h-akrva.part01.rar	-	250000000	1	5517	0	1
+bbb-h-akrva.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-akrva.part03.rar	-	145801073	1	500005517	0	479
+bbb-h-akrva.sfv	-	99	1	108052337	1	104

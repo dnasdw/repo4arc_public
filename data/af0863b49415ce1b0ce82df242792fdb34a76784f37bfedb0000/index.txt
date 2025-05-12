@@ -1,0 +1,3 @@
+sxs-broken_age_v65536.nfo	-	5120	1	0	0	0
+sxs-broken_age_v65536.rar	-	41655229	1	5120	0	1
+sxs-broken_age_v65536.sfv	-	36	1	41660349	0	41

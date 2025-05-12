@@ -1,0 +1,9 @@
+jrp-n-snh.nfo	0eaa8ff8
+jrp-snh.r00	3afa0d4d
+jrp-snh.r01	b3399336
+jrp-snh.r02	c6182b10
+jrp-snh.r03	96cda934
+jrp-snh.r04	68afb473
+jrp-snh.r05	9fa13892
+jrp-snh.rar	45832786
+jrp-snh.sfv	fc7d20db

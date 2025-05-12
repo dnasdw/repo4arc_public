@@ -1,0 +1,16 @@
+lfc-a4bda.nfo	f65c7ffb0c75bd6a4465bf62216baea6
+lfc-a4bda.r00	3ac1f1c0bd89e1064c69ff65ff05ba18
+lfc-a4bda.r01	84e4f0a81b6bb3b0463f1ce3b1c683a8
+lfc-a4bda.r02	129cd62a7b04ea9bdb9cac33d68aa7b5
+lfc-a4bda.r03	2cdf105dfaf7dcef2312f208334633b3
+lfc-a4bda.r04	e6acb51f4b498db57efbc1294b7f11c1
+lfc-a4bda.r05	72cb69643e9fdcd832b1b733145d001e
+lfc-a4bda.r06	48bb2b82009354635fd0fbb46f12c336
+lfc-a4bda.r07	d5e0caab2000dd728c881238f4f9a3de
+lfc-a4bda.r08	80628703a9ba22cf81b8bd05e26416f0
+lfc-a4bda.r09	2eef9b0da0faa4fb28dfba6a93a9137c
+lfc-a4bda.r10	4a510eadc14361bab583f979854bcb64
+lfc-a4bda.rar	eb5192ccd7b44efa9530a05e2bf24910
+lfc-a4bda.sfv	4a644982c6d6d66d364964e8055ce937
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/lfc-a4bda.jpg	ecb81ba0f2065ba45cfda95c8777050c

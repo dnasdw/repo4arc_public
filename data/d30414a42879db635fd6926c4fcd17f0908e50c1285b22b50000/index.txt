@@ -1,0 +1,6 @@
+v-papertris.nfo	-	6604	1	0	0	0
+v-papertris.r00	-	100000000	1	6604	0	1
+v-papertris.r01	-	100000000	1	100006604	0	97
+v-papertris.r02	-	86113850	1	200006604	0	193
+v-papertris.rar	-	100000000	1	286120454	0	276
+v-papertris.sfv	-	104	1	386120454	0	372

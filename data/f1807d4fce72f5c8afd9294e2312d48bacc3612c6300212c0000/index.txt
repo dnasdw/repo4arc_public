@@ -1,0 +1,5 @@
+sxs-ghosts_n_goblins_resurrection_v196608.nfo	-	9654	1	0	0	0
+sxs-ghosts_n_goblins_resurrection_v196608.r00	-	50000000	1	9654	0	1
+sxs-ghosts_n_goblins_resurrection_v196608.r01	-	16466119	1	50009654	0	49
+sxs-ghosts_n_goblins_resurrection_v196608.rar	-	50000000	1	66475773	0	65
+sxs-ghosts_n_goblins_resurrection_v196608.sfv	-	168	1	116475773	0	113

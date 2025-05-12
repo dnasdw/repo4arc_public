@@ -1,0 +1,6 @@
+sxs-fireball_wizard.nfo	2a59eea82580d882a7524e4558971b0e232823c6
+sxs-fireball_wizard.r00	e9438e6afe44f1c3aaf6f3a3d1a023e4cb17258f
+sxs-fireball_wizard.r01	4ae05cba7d88bb4c0c210da65a3de347512ba73e
+sxs-fireball_wizard.r02	94958694507e6f76c968dbe77adaec8bd8c4fd06
+sxs-fireball_wizard.rar	51901ec9f276dbd3c72b774b3c916ee8fcfa8dfe
+sxs-fireball_wizard.sfv	8c4d98b3acc06c8819d1ba4708fe8e0f46fe04da

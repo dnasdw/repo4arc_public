@@ -1,0 +1,8 @@
+l-foodtruck.nfo	6b0e801ab336049071aa1c003ed54b6d
+l-foodtruck.r00	20edcfe80bd10f826242f2f6e2c8abd3
+l-foodtruck.r01	632327acf3ba1ecbba70ad2ff7a50445
+l-foodtruck.r02	78e39d2d5d114a06066a635ca1f9745c
+l-foodtruck.r03	3bf5fbb2f4809df6d148e8138753ecfe
+l-foodtruck.r04	b203cfd7c4b4bc216d22bd1a062d43cb
+l-foodtruck.rar	bcfee3785812420ac9926a93bb4655ce
+l-foodtruck.sfv	55c2553669366f896898731fc745c782

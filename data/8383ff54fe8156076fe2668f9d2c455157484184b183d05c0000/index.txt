@@ -1,0 +1,3 @@
+v-horizon_chase_turbo_summer_vibes_xci_dlc.nfo	-	9724	1	0	0	0
+v-horizon_chase_turbo_summer_vibes_xci_dlc.rar	-	104147	1	9724	0	1
+v-horizon_chase_turbo_summer_vibes_xci_dlc.sfv	-	57	1	113871	0	2

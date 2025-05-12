@@ -1,0 +1,11 @@
+sxs-dragonfangz_v524288.nfo	1936df2b
+sxs-dragonfangz_v524288.r00	f61064a3
+sxs-dragonfangz_v524288.r01	13a7c7ee
+sxs-dragonfangz_v524288.r02	baaa7a45
+sxs-dragonfangz_v524288.r03	af69c4cb
+sxs-dragonfangz_v524288.r04	61022769
+sxs-dragonfangz_v524288.r05	f4161116
+sxs-dragonfangz_v524288.r06	58bbdabc
+sxs-dragonfangz_v524288.r07	21e575b6
+sxs-dragonfangz_v524288.rar	c021268f
+sxs-dragonfangz_v524288.sfv	24b5c7a3

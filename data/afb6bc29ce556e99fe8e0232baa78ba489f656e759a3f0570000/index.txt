@@ -1,0 +1,6 @@
+v-a_highland_song_v196608.nfo	-	9807	1	0	0	0
+v-a_highland_song_v196608.r00	-	100000000	1	9807	0	1
+v-a_highland_song_v196608.r01	-	100000000	1	100009807	0	97
+v-a_highland_song_v196608.r02	-	1754741	1	200009807	0	193
+v-a_highland_song_v196608.rar	-	100000000	1	201764548	0	195
+v-a_highland_song_v196608.sfv	-	160	1	301764548	0	291

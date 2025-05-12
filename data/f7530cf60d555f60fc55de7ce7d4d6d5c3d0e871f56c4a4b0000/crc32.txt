@@ -1,0 +1,8 @@
+v-cptttt_v196608.nfo	800b618f
+v-cptttt_v196608.r00	1a3e5021
+v-cptttt_v196608.r01	afa95008
+v-cptttt_v196608.r02	c0a18ca7
+v-cptttt_v196608.r03	d19d2c34
+v-cptttt_v196608.r04	10076c0a
+v-cptttt_v196608.rar	2d6cefcb
+v-cptttt_v196608.sfv	2a9edc4b

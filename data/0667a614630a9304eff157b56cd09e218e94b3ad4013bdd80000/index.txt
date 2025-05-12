@@ -1,0 +1,3 @@
+v-rain_world_v65536.nfo	-	5591	1	0	0	0
+v-rain_world_v65536.rar	-	38102152	1	5591	0	1
+v-rain_world_v65536.sfv	-	34	1	38107743	0	38

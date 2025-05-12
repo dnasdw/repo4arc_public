@@ -1,0 +1,4 @@
+sxs-big_watermelon_match.nfo	ecb9d4ae67583349dfb30f82925db871f4bbaa7d
+sxs-big_watermelon_match.r00	96d1494f814de87869ca18b089f551e090b45e30
+sxs-big_watermelon_match.rar	bd9ad8ab69b1c38cc48e091ea1abcb1676b344f6
+sxs-big_watermelon_match.sfv	6c3143662b81f05f53126f139f67416bb8807451

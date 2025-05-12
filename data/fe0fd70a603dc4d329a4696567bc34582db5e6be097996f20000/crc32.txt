@@ -1,0 +1,12 @@
+sxs-neo_cab_demo.nfo	9b103654
+sxs-neo_cab_demo.r00	9569a0b6
+sxs-neo_cab_demo.r01	7e5a6c24
+sxs-neo_cab_demo.r02	129953c0
+sxs-neo_cab_demo.r03	8cdd12a0
+sxs-neo_cab_demo.r04	50edd5b8
+sxs-neo_cab_demo.r05	f445a189
+sxs-neo_cab_demo.r06	0abc080e
+sxs-neo_cab_demo.r07	847b4f9b
+sxs-neo_cab_demo.r08	0e39c77d
+sxs-neo_cab_demo.rar	dd2e255a
+sxs-neo_cab_demo.sfv	23394114

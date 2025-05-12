@@ -1,0 +1,17 @@
+lfc-thra.nfo	bb7a0460
+lfc-thra.r00	be21acd7
+lfc-thra.r01	38eadb9b
+lfc-thra.r02	f0663cd3
+lfc-thra.r03	d40343eb
+lfc-thra.r04	a6f6dd42
+lfc-thra.r05	7e65a6ae
+lfc-thra.r06	39869177
+lfc-thra.r07	519e890b
+lfc-thra.r08	08ea9348
+lfc-thra.r09	96ade7f2
+lfc-thra.r10	11abae25
+lfc-thra.r11	9bce009b
+lfc-thra.r12	569df2ae
+lfc-thra.r13	c5f6c9b5
+lfc-thra.rar	af3fc321
+lfc-thra.sfv	24a7245f

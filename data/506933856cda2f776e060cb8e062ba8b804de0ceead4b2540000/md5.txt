@@ -1,0 +1,4 @@
+sxs-henry_the_hamster_handler_v65536.nfo	60fca35738668f7eb9d1a1466101028c
+sxs-henry_the_hamster_handler_v65536.r00	1ff93ab03b0310c83870e732a7bef2ed
+sxs-henry_the_hamster_handler_v65536.rar	27e1095c3534a392ee3d119c8ab377b5
+sxs-henry_the_hamster_handler_v65536.sfv	cc4742b26dc42dcbd5f356fa9da7520d

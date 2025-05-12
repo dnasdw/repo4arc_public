@@ -1,0 +1,12 @@
+sxs-rbdu_v131072.nfo	aad02d1a
+sxs-rbdu_v131072.r00	d5ab9d8a
+sxs-rbdu_v131072.r01	f9c616e2
+sxs-rbdu_v131072.r02	0fa1d671
+sxs-rbdu_v131072.r03	fd5bf20a
+sxs-rbdu_v131072.r04	6b16a3a5
+sxs-rbdu_v131072.r05	1fcc383a
+sxs-rbdu_v131072.r06	42315bb6
+sxs-rbdu_v131072.r07	997d6b12
+sxs-rbdu_v131072.r08	d2320293
+sxs-rbdu_v131072.rar	65266b81
+sxs-rbdu_v131072.sfv	b58bcd5e

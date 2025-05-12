@@ -1,0 +1,4 @@
+sxs-picross_s_v524288.nfo	-	5042	1	0	0	0
+sxs-picross_s_v524288.r00	-	65044372	1	5042	0	1
+sxs-picross_s_v524288.rar	-	100000000	1	65049414	0	64
+sxs-picross_s_v524288.sfv	-	72	1	165049414	0	160

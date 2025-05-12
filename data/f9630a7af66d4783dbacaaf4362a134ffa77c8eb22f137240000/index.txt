@@ -1,0 +1,4 @@
+brw-nusq.nfo	-	3359	1	0	0	0
+brw-nusq.r00	-	7861634	1	3359	0	1
+brw-nusq.rar	-	50000000	1	7864993	0	9
+brw-nusq.sfv	-	46	1	57864993	0	57

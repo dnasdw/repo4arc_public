@@ -1,0 +1,8 @@
+sxs-mechblaze_demo.nfo	d91188193ac447ad24490b0c0bc4c811
+sxs-mechblaze_demo.r00	b14ed2e9bb479c4e0625fa982cd88dc8
+sxs-mechblaze_demo.r01	797ce72f41b87d672e6c8458578baf8d
+sxs-mechblaze_demo.r02	65dbcdfb91be68fa08e12139761c0f87
+sxs-mechblaze_demo.r03	515187f2cee90128b35bf9ef0f67fed7
+sxs-mechblaze_demo.r04	64276840168a234c9ac3433001eaa619
+sxs-mechblaze_demo.rar	f58c5f8efc539c3e9915cce3fed7f2a5
+sxs-mechblaze_demo.sfv	1a673e27a8d64dbd88d6c297e7b04306

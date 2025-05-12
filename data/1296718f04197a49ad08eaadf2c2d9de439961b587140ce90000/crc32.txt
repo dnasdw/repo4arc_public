@@ -1,0 +1,9 @@
+sxs-n64jp_v196608.nfo	a052e7ed
+sxs-n64jp_v196608.r00	034c9997
+sxs-n64jp_v196608.r01	024e8b3c
+sxs-n64jp_v196608.r02	4ce1a2b0
+sxs-n64jp_v196608.r03	a15addf9
+sxs-n64jp_v196608.r04	730c5cec
+sxs-n64jp_v196608.r05	0f5faa69
+sxs-n64jp_v196608.rar	57cc08da
+sxs-n64jp_v196608.sfv	59e38ef7

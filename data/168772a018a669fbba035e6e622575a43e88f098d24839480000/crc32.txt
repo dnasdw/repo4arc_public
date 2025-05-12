@@ -1,0 +1,12 @@
+sxs-prison_architect_v262144.nfo	2b149ba7
+sxs-prison_architect_v262144.r00	493f9bb2
+sxs-prison_architect_v262144.r01	b73cb172
+sxs-prison_architect_v262144.r02	2cf03d89
+sxs-prison_architect_v262144.r03	a72daf3c
+sxs-prison_architect_v262144.r04	742eb05e
+sxs-prison_architect_v262144.r05	ff579acb
+sxs-prison_architect_v262144.r06	5c283583
+sxs-prison_architect_v262144.r07	7f177671
+sxs-prison_architect_v262144.r08	0beac6a8
+sxs-prison_architect_v262144.rar	e07cc622
+sxs-prison_architect_v262144.sfv	02d2c38f

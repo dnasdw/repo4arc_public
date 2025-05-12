@@ -1,0 +1,10 @@
+sxs-wjmr.nfo	dc8c4ea6cb482eeafd359a845d713d47
+sxs-wjmr.r00	2d7e6aa5fdc5cc4fd279b288f4beca66
+sxs-wjmr.r01	b5df2d5601b1e2c2806b31048a3b8002
+sxs-wjmr.r02	6de779c2b065f4a610ecbc95af61363b
+sxs-wjmr.r03	4cab21293419138a622dc6f215305c09
+sxs-wjmr.r04	0555a0b35b9005df2f2ee409df3b2169
+sxs-wjmr.r05	9aaf654c7108eae3852d59e4f1946a7c
+sxs-wjmr.r06	bf005afc40db2610f44342fc90164b76
+sxs-wjmr.rar	e737284f2cc5c391ab09f7c295eabf34
+sxs-wjmr.sfv	9e6d5e43cabb7ab77e199bb141e5a99a

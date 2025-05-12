@@ -1,0 +1,8 @@
+sxs-bonfire_peaks_v786432.nfo	3606f8a6
+sxs-bonfire_peaks_v786432.r00	2f447b7b
+sxs-bonfire_peaks_v786432.r01	2c0d8abe
+sxs-bonfire_peaks_v786432.r02	1cccffb9
+sxs-bonfire_peaks_v786432.r03	b1024526
+sxs-bonfire_peaks_v786432.r04	6928b56b
+sxs-bonfire_peaks_v786432.rar	f029b0f4
+sxs-bonfire_peaks_v786432.sfv	16e54895

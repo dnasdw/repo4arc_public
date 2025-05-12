@@ -1,0 +1,6 @@
+v-pinball_fx3_williams_pinball_volume_4_dlc.nfo	5ef006b1
+v-pinball_fx3_williams_pinball_volume_4_dlc.r00	fcb5940a
+v-pinball_fx3_williams_pinball_volume_4_dlc.r01	a2e3fa41
+v-pinball_fx3_williams_pinball_volume_4_dlc.r02	03976dab
+v-pinball_fx3_williams_pinball_volume_4_dlc.rar	500f7a0a
+v-pinball_fx3_williams_pinball_volume_4_dlc.sfv	15b4e4eb

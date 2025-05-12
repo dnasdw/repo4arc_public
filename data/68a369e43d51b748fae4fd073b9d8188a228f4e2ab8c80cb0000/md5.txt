@@ -1,0 +1,6 @@
+v-furwind.nfo	b0626449963f180faee9b0ea12ef30d5
+v-furwind.r00	efd610afc3217ffc3c95199a44cb9ef2
+v-furwind.r01	019a07de0fbccea22025a68af3e68c10
+v-furwind.r02	bb1912966fb267cf884db4dd7d6f2018
+v-furwind.rar	7b9e46c556ad60b970690eb069c4f9f6
+v-furwind.sfv	38ad682611c69dea6fd15ef0cfba6964

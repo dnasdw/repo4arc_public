@@ -1,0 +1,17 @@
+sxs-kingdom_two_crowns_v1507328.nfo	4b397489
+sxs-kingdom_two_crowns_v1507328.r00	8899889b
+sxs-kingdom_two_crowns_v1507328.r01	96140384
+sxs-kingdom_two_crowns_v1507328.r02	a36adbf9
+sxs-kingdom_two_crowns_v1507328.r03	b633c42c
+sxs-kingdom_two_crowns_v1507328.r04	f5ebaa84
+sxs-kingdom_two_crowns_v1507328.r05	59c1b033
+sxs-kingdom_two_crowns_v1507328.r06	66f17b96
+sxs-kingdom_two_crowns_v1507328.r07	aa574aea
+sxs-kingdom_two_crowns_v1507328.r08	94f3e413
+sxs-kingdom_two_crowns_v1507328.r09	00d05ab5
+sxs-kingdom_two_crowns_v1507328.r10	4f21f8e9
+sxs-kingdom_two_crowns_v1507328.r11	2ba11bd0
+sxs-kingdom_two_crowns_v1507328.r12	7afc4cbc
+sxs-kingdom_two_crowns_v1507328.r13	42f9a34a
+sxs-kingdom_two_crowns_v1507328.rar	b7c587e4
+sxs-kingdom_two_crowns_v1507328.sfv	9168d981

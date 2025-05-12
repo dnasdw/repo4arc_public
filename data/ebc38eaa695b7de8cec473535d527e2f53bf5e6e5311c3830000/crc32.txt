@@ -1,0 +1,10 @@
+sxs-advent_calendar_v196608.nfo	957cb8c6
+sxs-advent_calendar_v196608.r00	da38fd81
+sxs-advent_calendar_v196608.r01	bb7d2c95
+sxs-advent_calendar_v196608.r02	1cd729f6
+sxs-advent_calendar_v196608.r03	56aa2035
+sxs-advent_calendar_v196608.r04	5f215d68
+sxs-advent_calendar_v196608.r05	7582e1b9
+sxs-advent_calendar_v196608.r06	5d892d05
+sxs-advent_calendar_v196608.rar	ee039819
+sxs-advent_calendar_v196608.sfv	02d7f3bf

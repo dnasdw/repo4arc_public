@@ -1,0 +1,4 @@
+bbb-h-aejqb.nfo	-	5517	1	0	0	0
+bbb-h-aejqb.part01.rar	-	250000000	1	5517	0	1
+bbb-h-aejqb.part02.rar	-	187498961	1	250005517	0	240
+bbb-h-aejqb.sfv	-	66	1	437504478	0	419

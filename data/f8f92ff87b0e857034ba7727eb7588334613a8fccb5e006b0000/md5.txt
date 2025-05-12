@@ -1,0 +1,4 @@
+sxs-port_royale_4_v65536.nfo	b2875138d68b7ddfd344a962ba1a5edb
+sxs-port_royale_4_v65536.r00	bbca18c905fc38311ea9d1f9557b8630
+sxs-port_royale_4_v65536.rar	a460edc610ba99b66741992064550a25
+sxs-port_royale_4_v65536.sfv	1df514068aa1f725c0590c9c8b1a6c4b

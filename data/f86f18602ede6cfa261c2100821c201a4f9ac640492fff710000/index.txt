@@ -1,0 +1,4 @@
+sxs-farm_knight_adventures_v262144.nfo	-	5744	1	0	0	0
+sxs-farm_knight_adventures_v262144.r00	-	28422067	1	5744	0	1
+sxs-farm_knight_adventures_v262144.rar	-	100000000	1	28427811	0	29
+sxs-farm_knight_adventures_v262144.sfv	-	98	1	128427811	0	125

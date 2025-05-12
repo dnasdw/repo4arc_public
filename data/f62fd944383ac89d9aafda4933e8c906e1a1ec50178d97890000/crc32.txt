@@ -1,0 +1,14 @@
+sxs-twilight_survivors.nfo	8edbeb32
+sxs-twilight_survivors.r00	0c15097b
+sxs-twilight_survivors.r01	dbc7a7b3
+sxs-twilight_survivors.r02	67a796e3
+sxs-twilight_survivors.r03	ab89f4bc
+sxs-twilight_survivors.r04	ce6a6da5
+sxs-twilight_survivors.r05	d403cc51
+sxs-twilight_survivors.r06	fac2c4a2
+sxs-twilight_survivors.r07	017dffa5
+sxs-twilight_survivors.r08	b4aa407c
+sxs-twilight_survivors.r09	befa9526
+sxs-twilight_survivors.r10	213d5e79
+sxs-twilight_survivors.rar	a6082129
+sxs-twilight_survivors.sfv	b003d8b7

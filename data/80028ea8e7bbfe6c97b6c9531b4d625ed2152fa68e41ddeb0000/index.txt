@@ -1,0 +1,6 @@
+v-pinballfx3_williams_5_dlc.nfo	-	5590	1	0	0	0
+v-pinballfx3_williams_5_dlc.r00	-	50000000	1	5590	0	1
+v-pinballfx3_williams_5_dlc.r01	-	50000000	1	50005590	0	49
+v-pinballfx3_williams_5_dlc.r02	-	34675866	1	100005590	0	97
+v-pinballfx3_williams_5_dlc.rar	-	50000000	1	134681456	0	131
+v-pinballfx3_williams_5_dlc.sfv	-	168	1	184681456	0	179

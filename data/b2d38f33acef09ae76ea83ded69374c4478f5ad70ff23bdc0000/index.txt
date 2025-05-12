@@ -1,0 +1,8 @@
+v-paperbound_brawlers.nfo	-	4343	1	0	0	0
+v-paperbound_brawlers.r00	-	50000000	1	4343	0	1
+v-paperbound_brawlers.r01	-	50000000	1	50004343	0	49
+v-paperbound_brawlers.r02	-	50000000	1	100004343	0	97
+v-paperbound_brawlers.r03	-	50000000	1	150004343	0	145
+v-paperbound_brawlers.r04	-	46769588	1	200004343	0	193
+v-paperbound_brawlers.rar	-	50000000	1	246773931	0	238
+v-paperbound_brawlers.sfv	-	216	1	296773931	0	286

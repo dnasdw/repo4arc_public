@@ -1,0 +1,4 @@
+lfc-alsi.nfo	6cf44fd873178382a06419bc3e29039955e7fa9e
+lfc-alsi.r00	bb62a215cc3f320ccfd86beefe4dd1648325fa56
+lfc-alsi.rar	87eb0f7cc22eb10c8dd0c52e0598b5b0b060602a
+lfc-alsi.sfv	41f120596043ee7c7c29eeb5c40da721a4c255f0

@@ -1,0 +1,6 @@
+sxs-graviter.nfo	-	8334	1	0	0	0
+sxs-graviter.r00	-	50000000	1	8334	0	1
+sxs-graviter.r01	-	50000000	1	50008334	0	49
+sxs-graviter.r02	-	49320719	1	100008334	0	97
+sxs-graviter.rar	-	50000000	1	149329053	0	145
+sxs-graviter.sfv	-	108	1	199329053	0	193

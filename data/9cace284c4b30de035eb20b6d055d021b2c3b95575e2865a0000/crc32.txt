@@ -1,0 +1,6 @@
+sxs-magical_drop_vi_v262144.nfo	0ede3402
+sxs-magical_drop_vi_v262144.r00	b35d0b6d
+sxs-magical_drop_vi_v262144.r01	1b71422b
+sxs-magical_drop_vi_v262144.r02	187563f7
+sxs-magical_drop_vi_v262144.rar	f9e18543
+sxs-magical_drop_vi_v262144.sfv	738dd9fe

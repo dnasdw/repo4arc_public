@@ -1,0 +1,7 @@
+l-crashdrive2.nfo	db63960f0762f17b5fc66f7f9a2112cc7473b6e3
+l-crashdrive2.r00	83699357eb32ab595dc4c432950f1cb50246d279
+l-crashdrive2.r01	559a2fa232e333f58b52dc5a59d59a1814b29057
+l-crashdrive2.r02	a06e95b789e8f5f3badc0cb2db4cdbe2e745be9f
+l-crashdrive2.r03	78aed63e9f7e54cc2e71cead9560445b713fe73e
+l-crashdrive2.rar	45dde2421fb4dc6a8939629bee172a2d7d446dc7
+l-crashdrive2.sfv	6ed3127f05772b7cfdfcdd116158071edb4d54e8

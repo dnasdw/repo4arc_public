@@ -1,0 +1,14 @@
+v-front_mission_1st_remake_v327680.nfo	-	5201	1	0	0	0
+v-front_mission_1st_remake_v327680.r00	-	100000000	1	5201	0	1
+v-front_mission_1st_remake_v327680.r01	-	100000000	1	100005201	0	97
+v-front_mission_1st_remake_v327680.r02	-	100000000	1	200005201	0	193
+v-front_mission_1st_remake_v327680.r03	-	100000000	1	300005201	0	289
+v-front_mission_1st_remake_v327680.r04	-	100000000	1	400005201	0	385
+v-front_mission_1st_remake_v327680.r05	-	100000000	1	500005201	0	481
+v-front_mission_1st_remake_v327680.r06	-	100000000	1	62251264	1	60
+v-front_mission_1st_remake_v327680.r07	-	100000000	1	162251264	1	156
+v-front_mission_1st_remake_v327680.r08	-	100000000	1	262251264	1	252
+v-front_mission_1st_remake_v327680.r09	-	100000000	1	362251264	1	348
+v-front_mission_1st_remake_v327680.r10	-	98096329	1	462251264	1	444
+v-front_mission_1st_remake_v327680.rar	-	100000000	1	22598857	2	22
+v-front_mission_1st_remake_v327680.sfv	-	588	1	122598857	2	118

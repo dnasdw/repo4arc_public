@@ -1,0 +1,3 @@
+v-super_smash_bros_ultimate_spirits_set_2_legend_class_primary_and_ace_class_support_dlc.nfo	-	5824	1	0	0	0
+v-super_smash_bros_ultimate_spirits_set_2_legend_class_primary_and_ace_class_support_dlc.rar	-	104164	1	5824	0	1
+v-super_smash_bros_ultimate_spirits_set_2_legend_class_primary_and_ace_class_support_dlc.sfv	-	103	1	109988	0	2

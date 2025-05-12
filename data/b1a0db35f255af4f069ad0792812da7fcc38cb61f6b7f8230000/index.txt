@@ -1,0 +1,12 @@
+v-dragon_quest_builders_2_v327680.nfo	-	5200	1	0	0	0
+v-dragon_quest_builders_2_v327680.r00	-	50000000	1	5200	0	1
+v-dragon_quest_builders_2_v327680.r01	-	50000000	1	50005200	0	49
+v-dragon_quest_builders_2_v327680.r02	-	50000000	1	100005200	0	97
+v-dragon_quest_builders_2_v327680.r03	-	50000000	1	150005200	0	145
+v-dragon_quest_builders_2_v327680.r04	-	50000000	1	200005200	0	193
+v-dragon_quest_builders_2_v327680.r05	-	50000000	1	250005200	0	241
+v-dragon_quest_builders_2_v327680.r06	-	50000000	1	300005200	0	289
+v-dragon_quest_builders_2_v327680.r07	-	50000000	1	350005200	0	337
+v-dragon_quest_builders_2_v327680.r08	-	4053419	1	400005200	0	385
+v-dragon_quest_builders_2_v327680.rar	-	50000000	1	404058619	0	389
+v-dragon_quest_builders_2_v327680.sfv	-	480	1	454058619	0	437

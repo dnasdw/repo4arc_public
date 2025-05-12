@@ -1,0 +1,7 @@
+sxs-love_language_stories.nfo	-	4340	1	0	0	0
+sxs-love_language_stories.r00	-	100000000	1	4340	0	1
+sxs-love_language_stories.r01	-	100000000	1	100004340	0	97
+sxs-love_language_stories.r02	-	100000000	1	200004340	0	193
+sxs-love_language_stories.r03	-	91373006	1	300004340	0	289
+sxs-love_language_stories.rar	-	100000000	1	391377346	0	377
+sxs-love_language_stories.sfv	-	200	1	491377346	0	473

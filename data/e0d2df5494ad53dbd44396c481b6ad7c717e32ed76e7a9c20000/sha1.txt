@@ -1,0 +1,5 @@
+sxs-hopes_farm.nfo	f61f5ea42bd1930b1eedae5d77927e5a9f929ee9
+sxs-hopes_farm.r00	2a9dc741bc9daf9b40bbf19d25191933eac8083d
+sxs-hopes_farm.r01	ae1e4c87c0a2487cfd2fd49ad8887126eff5cfc4
+sxs-hopes_farm.rar	ec573ec5a14c41fca81fb5eb0034b9fed0bcf2e3
+sxs-hopes_farm.sfv	d1913bd2464325fbbe4ff41e248d6d647e998da8

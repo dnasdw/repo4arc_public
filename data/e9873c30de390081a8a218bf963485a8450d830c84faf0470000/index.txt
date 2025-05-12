@@ -1,0 +1,8 @@
+darkmoon-circle.of.sumo.eshop.nsw.nfo	-	16691	1	0	0	0
+darkmoon-circle.of.sumo.eshop.nsw.r00	-	50000000	1	16691	0	1
+darkmoon-circle.of.sumo.eshop.nsw.r01	-	50000000	1	50016691	0	49
+darkmoon-circle.of.sumo.eshop.nsw.r02	-	50000000	1	100016691	0	97
+darkmoon-circle.of.sumo.eshop.nsw.r03	-	50000000	1	150016691	0	145
+darkmoon-circle.of.sumo.eshop.nsw.r04	-	11709062	1	200016691	0	193
+darkmoon-circle.of.sumo.eshop.nsw.rar	-	50000000	1	211725753	0	205
+darkmoon-circle.of.sumo.eshop.nsw.sfv	-	288	1	261725753	0	253

@@ -1,0 +1,3 @@
+collected-avtac-dlc.nfo	1a9bef77f8d0108f83492297867409c244e0b7dafec763624aa96e429bbe02b6
+collected-avtac-dlc.rar	ae0fed8163c250a1e83d5a63555d95acb48969d3c357b338c8ed50649d7a9c03
+collected-avtac-dlc.sfv	4a8078a92c7ceb218741e5bbeb2e0ceca4cb857689a36e466a5f62387b406bef

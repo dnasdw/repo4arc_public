@@ -1,0 +1,3 @@
+sxs-snowrunner_crocodile_pack_dlc.nfo	95ae97540f4fd119bf4fb6220b6e62d972b99bf0
+sxs-snowrunner_crocodile_pack_dlc.rar	27652413318c54c159c5b612cf840d10f17248a5
+sxs-snowrunner_crocodile_pack_dlc.sfv	fe203fdaefc8d0b22d2df593d462db91b2422ad9

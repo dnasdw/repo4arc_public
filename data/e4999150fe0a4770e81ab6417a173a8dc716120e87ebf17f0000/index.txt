@@ -1,0 +1,4 @@
+sxs-neon_mine.nfo	-	4418	1	0	0	0
+sxs-neon_mine.r00	-	5782894	1	4418	0	1
+sxs-neon_mine.rar	-	50000000	1	5787312	0	7
+sxs-neon_mine.sfv	-	56	1	55787312	0	55

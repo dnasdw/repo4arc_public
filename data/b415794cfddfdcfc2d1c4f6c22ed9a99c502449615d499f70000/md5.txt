@@ -1,0 +1,7 @@
+sxs-neko_navy.nfo	86fe702caae06cf3cd956988a8ee6e70
+sxs-neko_navy.r00	e070cc25871a110a33480f8c16e1ba32
+sxs-neko_navy.r01	ca1b0e089b30a4f511976d75deeee51d
+sxs-neko_navy.r02	1decd304aec8b920c7102c518294b632
+sxs-neko_navy.r03	75e9414bdc86cf0a580a1dc3cc341ec9
+sxs-neko_navy.rar	dd7cba3051982d757b8035a972863895
+sxs-neko_navy.sfv	be41a17cef4b97b192358630fd863634

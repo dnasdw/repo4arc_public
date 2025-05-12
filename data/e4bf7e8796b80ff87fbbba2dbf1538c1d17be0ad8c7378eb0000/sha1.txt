@@ -1,0 +1,6 @@
+sxs-quadroids.nfo	29e2d62fc0a4baaba8768f1f8aa6d9f091eafd53
+sxs-quadroids.r00	a9fc5a5a590d3ffcc347606ea1df42fe5fb4b29d
+sxs-quadroids.r01	ed716f607252283570678100a7ddd345cf6fd421
+sxs-quadroids.r02	d5a8735b6cfc708ebb19b0fe30887fff28f6d44e
+sxs-quadroids.rar	e17a4818e5d9fba4130cc5c4b5e3790717db4516
+sxs-quadroids.sfv	702c07fd69bcb8a7c967a1bfd97968761ed519ab

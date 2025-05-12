@@ -1,0 +1,10 @@
+v-morbid_the_seven_acolytes_v393216.nfo	-	5980	1	0	0	0
+v-morbid_the_seven_acolytes_v393216.r00	-	50000000	1	5980	0	1
+v-morbid_the_seven_acolytes_v393216.r01	-	50000000	1	50005980	0	49
+v-morbid_the_seven_acolytes_v393216.r02	-	50000000	1	100005980	0	97
+v-morbid_the_seven_acolytes_v393216.r03	-	50000000	1	150005980	0	145
+v-morbid_the_seven_acolytes_v393216.r04	-	50000000	1	200005980	0	193
+v-morbid_the_seven_acolytes_v393216.r05	-	50000000	1	250005980	0	241
+v-morbid_the_seven_acolytes_v393216.r06	-	5743995	1	300005980	0	289
+v-morbid_the_seven_acolytes_v393216.rar	-	50000000	1	305749975	0	295
+v-morbid_the_seven_acolytes_v393216.sfv	-	400	1	355749975	0	343

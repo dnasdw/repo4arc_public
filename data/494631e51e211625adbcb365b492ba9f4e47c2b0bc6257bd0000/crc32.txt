@@ -1,0 +1,9 @@
+sxs-horace_v65536.nfo	1e222cb1
+sxs-horace_v65536.r00	2c7b1083
+sxs-horace_v65536.r01	447163c2
+sxs-horace_v65536.r02	df778a6e
+sxs-horace_v65536.r03	9c2cce3f
+sxs-horace_v65536.r04	2feca4ae
+sxs-horace_v65536.r05	23c4e58e
+sxs-horace_v65536.rar	b351d300
+sxs-horace_v65536.sfv	0aac51f1

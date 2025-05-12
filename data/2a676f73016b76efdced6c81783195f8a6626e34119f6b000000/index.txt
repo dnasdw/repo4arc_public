@@ -1,0 +1,5 @@
+sxs-meowmatch.nfo	-	5432	1	0	0	0
+sxs-meowmatch.r00	-	100000000	1	5432	0	1
+sxs-meowmatch.r01	-	85102304	1	100005432	0	97
+sxs-meowmatch.rar	-	100000000	1	185107736	0	179
+sxs-meowmatch.sfv	-	84	1	285107736	0	275

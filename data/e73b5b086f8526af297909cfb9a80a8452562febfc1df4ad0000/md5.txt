@@ -1,0 +1,13 @@
+hr-atptav2.nfo	e84c8cd3ba932ad5fa92be372ff1ed75
+hr-atptav2.r00	77916f914d71e77b81f8fe01765d54ca
+hr-atptav2.r01	eedbd29ee8ddc3e6a5156c50f4da598c
+hr-atptav2.r02	5618754d2a658e93e196383c5bba73b9
+hr-atptav2.r03	1cbe969ee88080a892172a1588b6b9cc
+hr-atptav2.r04	367d44b8fca26a2fab54de0f9cf1fc0b
+hr-atptav2.r05	13b3951030c4ba40fde7654d7c66ae25
+hr-atptav2.r06	245a6d4af5ed640dbf2117de45c5377f
+hr-atptav2.r07	ab42ccd0e58b4fc1b052ddee96d19aa5
+hr-atptav2.r08	a9c4a44535cc209bff6a7d6116eb33fd
+hr-atptav2.r09	2043b0d6422c502a4a7e63defa112819
+hr-atptav2.rar	69fe5df81e7da288599417c33888079b
+hr-atptav2.sfv	e3d831c0f81097de532f348344cdec06

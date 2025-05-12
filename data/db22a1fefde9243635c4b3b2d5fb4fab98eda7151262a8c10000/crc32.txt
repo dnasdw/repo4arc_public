@@ -1,0 +1,13 @@
+hr-tdsim.nfo	4a5d26c0
+hr-tdsim.r00	2d6f75c7
+hr-tdsim.r01	420e1649
+hr-tdsim.r02	d027efdc
+hr-tdsim.r03	94a5d95b
+hr-tdsim.r04	a03d1c5a
+hr-tdsim.r05	48f2d477
+hr-tdsim.r06	8295f5f7
+hr-tdsim.r07	a94e0dd7
+hr-tdsim.r08	7833e549
+hr-tdsim.r09	cf9312d5
+hr-tdsim.rar	d36b8490
+hr-tdsim.sfv	3a9ef102

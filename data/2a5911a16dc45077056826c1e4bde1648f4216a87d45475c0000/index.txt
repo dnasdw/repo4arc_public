@@ -1,0 +1,5 @@
+sxs-atelier_lydie_and_suelle_the_alchemists_and_the_mysterious_paintings_dx_v196608.nfo	-	7004	1	0	0	0
+sxs-atelier_lydie_and_suelle_the_alchemists_and_the_mysterious_paintings_dx_v196608.r00	-	50000000	1	7004	0	1
+sxs-atelier_lydie_and_suelle_the_alchemists_and_the_mysterious_paintings_dx_v196608.r01	-	30077631	1	50007004	0	49
+sxs-atelier_lydie_and_suelle_the_alchemists_and_the_mysterious_paintings_dx_v196608.rar	-	50000000	1	80084635	0	78
+sxs-atelier_lydie_and_suelle_the_alchemists_and_the_mysterious_paintings_dx_v196608.sfv	-	294	1	130084635	0	126

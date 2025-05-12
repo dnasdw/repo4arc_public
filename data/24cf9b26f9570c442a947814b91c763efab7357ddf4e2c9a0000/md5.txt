@@ -1,0 +1,9 @@
+sxs-crashy_laps.nfo	fe26c7f78a03e44b16a8f6ca8401196d
+sxs-crashy_laps.r00	24120da33e5f218b2acf5648d0ae0537
+sxs-crashy_laps.r01	ba2140080ce14751ef1fd76e73545b24
+sxs-crashy_laps.r02	74b3df8c55458411d17adeb457d8b966
+sxs-crashy_laps.r03	929867eeb5ec51a9663fb98fdbabcc3d
+sxs-crashy_laps.r04	2e2273bb08f80c3bed01212890f63216
+sxs-crashy_laps.r05	ef8132e6390da32a55105217b1a0d547
+sxs-crashy_laps.rar	9a2acb18d611969193270b0ba469d63c
+sxs-crashy_laps.sfv	6805fbd4dba167ac98b1ab948c941771

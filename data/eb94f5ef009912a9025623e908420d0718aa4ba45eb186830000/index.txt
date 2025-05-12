@@ -1,0 +1,4 @@
+sxs-super_jumpy_ball_v65536.nfo	-	4886	1	0	0	0
+sxs-super_jumpy_ball_v65536.r00	-	26582976	1	4886	0	1
+sxs-super_jumpy_ball_v65536.rar	-	50000000	1	26587862	0	27
+sxs-super_jumpy_ball_v65536.sfv	-	84	1	76587862	0	75

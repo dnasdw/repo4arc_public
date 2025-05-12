@@ -1,0 +1,11 @@
+sxs-arcaea_v327680.nfo	e581a42e
+sxs-arcaea_v327680.r00	75ac3e70
+sxs-arcaea_v327680.r01	4e65de2b
+sxs-arcaea_v327680.r02	5c591294
+sxs-arcaea_v327680.r03	2eb85ee0
+sxs-arcaea_v327680.r04	668b1a05
+sxs-arcaea_v327680.r05	6e8c6dde
+sxs-arcaea_v327680.r06	001ad430
+sxs-arcaea_v327680.r07	84b5e5cf
+sxs-arcaea_v327680.rar	95c1aad9
+sxs-arcaea_v327680.sfv	95b0bc09

@@ -1,0 +1,9 @@
+sxs-mech_rage_v65536.nfo	eae4b459
+sxs-mech_rage_v65536.r00	511dc82c
+sxs-mech_rage_v65536.r01	ef521c08
+sxs-mech_rage_v65536.r02	267761fe
+sxs-mech_rage_v65536.r03	74060dc8
+sxs-mech_rage_v65536.r04	2e3d02f8
+sxs-mech_rage_v65536.r05	7f447db5
+sxs-mech_rage_v65536.rar	9c456dec
+sxs-mech_rage_v65536.sfv	43cff831

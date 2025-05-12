@@ -1,0 +1,9 @@
+lfc-yare.nfo	21f84bb09cf7a9a70a6059d72cdaacdf
+lfc-yare.r00	2ea422d2beea3b6473e47d4468e51ae8
+lfc-yare.r01	505b234b1cb549ca801116251f5b8e68
+lfc-yare.r02	d72301606860715a55b32fdfad965ba6
+lfc-yare.r03	f879c63eb2573fcc9171812cec6c6d5f
+lfc-yare.r04	f3c69e5ff0f850f1b83f04290508ddba
+lfc-yare.r05	09a25bceee7542f3f7eb52c58993220f
+lfc-yare.rar	f0736420520aee7069411fa6a07d07e1
+lfc-yare.sfv	ba783da257c6f936e68af533eee7c75f

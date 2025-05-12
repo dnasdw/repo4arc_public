@@ -1,0 +1,10 @@
+sxs-samshom_warden_dlc.nfo	-	5510	1	0	0	0
+sxs-samshom_warden_dlc.r00	-	50000000	1	5510	0	1
+sxs-samshom_warden_dlc.r01	-	50000000	1	50005510	0	49
+sxs-samshom_warden_dlc.r02	-	50000000	1	100005510	0	97
+sxs-samshom_warden_dlc.r03	-	50000000	1	150005510	0	145
+sxs-samshom_warden_dlc.r04	-	50000000	1	200005510	0	193
+sxs-samshom_warden_dlc.r05	-	50000000	1	250005510	0	241
+sxs-samshom_warden_dlc.r06	-	19464311	1	300005510	0	289
+sxs-samshom_warden_dlc.rar	-	50000000	1	319469821	0	308
+sxs-samshom_warden_dlc.sfv	-	296	1	369469821	0	356

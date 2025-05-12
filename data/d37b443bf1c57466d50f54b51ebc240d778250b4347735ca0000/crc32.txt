@@ -1,0 +1,11 @@
+brw-hnsw.nfo	561127c3
+brw-hnsw.r00	ddfadf0c
+brw-hnsw.r01	7de02ab7
+brw-hnsw.r02	2f0dfa8b
+brw-hnsw.r03	d52a2490
+brw-hnsw.r04	95f9436f
+brw-hnsw.r05	8703dfa0
+brw-hnsw.r06	c632a549
+brw-hnsw.r07	00c60fae
+brw-hnsw.rar	46bf00b2
+brw-hnsw.sfv	0df7db9f

@@ -1,0 +1,15 @@
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/sxs-trraria.jpg	33f85fdd2d48f093d7d8236cd40f7cf3
+sxs-trraria.nfo	a47b2162e3cd3e5c18a9b6582f9f5959
+sxs-trraria.r00	d32dd2a6b8e268b3f731f8ebfb5b971f
+sxs-trraria.r01	2beff8d64cd6732a290d195f454ccd29
+sxs-trraria.r02	26e0deae166f2c5968367814d3299254
+sxs-trraria.r03	49c5409b55a77660a24dafe36f96de63
+sxs-trraria.r04	b62307e02e861869b8ba99a0abf7cfbe
+sxs-trraria.r05	93d9e442fc32e8b686a38a95309fd135
+sxs-trraria.r06	cb10cc92c607c7e90e4ac59c9f904ebb
+sxs-trraria.r07	555cf5a8fa5d916dc20c7f6117927fc7
+sxs-trraria.r08	10c783f281791d128e58fdb1bca54b26
+sxs-trraria.r09	59e4ac757e15cabdecc00aafa23410ad
+sxs-trraria.rar	6d1a5d127507656004c2cd3b4eda3da3
+sxs-trraria.sfv	929ad73b6ddc975eff7784b4fe530938

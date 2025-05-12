@@ -1,0 +1,13 @@
+sxs-piyokoro.nfo	b15e716ffc27a3b6ab0d146f1ea00e50
+sxs-piyokoro.r00	acb1f51fee5600ca95581c8111b0e550
+sxs-piyokoro.r01	9666d11ea7d8d67c18dc7bcf8f9c5ddf
+sxs-piyokoro.r02	ec846ec5b163c8cff8e5af0fd226fe5a
+sxs-piyokoro.r03	e26122b0664a2d6c4aa8aa12f6f8d206
+sxs-piyokoro.r04	bd28d4b8e016b790ea5eedee0b9963c5
+sxs-piyokoro.r05	9ccff6e002687eca3c0fa8687a6a4a39
+sxs-piyokoro.r06	9a67d2afc9c93c83a442205a75da95c7
+sxs-piyokoro.r07	ec317e8f4b9e7f507af35ecbef6227a8
+sxs-piyokoro.r08	d0f1340145cc70763230756bdf6dab0d
+sxs-piyokoro.r09	254f4b6752dc029000e02589fafe9b4c
+sxs-piyokoro.rar	985865e6c8755a758d2523f87bf27441
+sxs-piyokoro.sfv	6e80ce371d69059c547c31ebea8fa1c8

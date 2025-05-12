@@ -1,0 +1,5 @@
+sxs-harvest_moon_the_winds_of_anthos_v196608.nfo	-	7694	1	0	0	0
+sxs-harvest_moon_the_winds_of_anthos_v196608.r00	-	100000000	1	7694	0	1
+sxs-harvest_moon_the_winds_of_anthos_v196608.r01	-	45252415	1	100007694	0	97
+sxs-harvest_moon_the_winds_of_anthos_v196608.rar	-	100000000	1	145260109	0	141
+sxs-harvest_moon_the_winds_of_anthos_v196608.sfv	-	177	1	245260109	0	237

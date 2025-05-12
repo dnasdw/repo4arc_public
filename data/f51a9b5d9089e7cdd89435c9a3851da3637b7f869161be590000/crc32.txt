@@ -1,0 +1,13 @@
+v-degrees_of_separation.nfo	2414d220
+v-degrees_of_separation.r00	21d2f45c
+v-degrees_of_separation.r01	8d3af5b7
+v-degrees_of_separation.r02	4fc02ee2
+v-degrees_of_separation.r03	67b66b3f
+v-degrees_of_separation.r04	f2199a65
+v-degrees_of_separation.r05	bc267a4a
+v-degrees_of_separation.r06	78ca111e
+v-degrees_of_separation.r07	01446f25
+v-degrees_of_separation.r08	f11d3dd5
+v-degrees_of_separation.r09	4c87966d
+v-degrees_of_separation.rar	df9ab0f2
+v-degrees_of_separation.sfv	f65d0e53

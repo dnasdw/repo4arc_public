@@ -1,0 +1,17 @@
+sxs-knight_squad_2.nfo	e86b8f74
+sxs-knight_squad_2.r00	2da0eb28
+sxs-knight_squad_2.r01	b05e202c
+sxs-knight_squad_2.r02	fb3fbb76
+sxs-knight_squad_2.r03	114d4943
+sxs-knight_squad_2.r04	9474dd94
+sxs-knight_squad_2.r05	f5bb75b1
+sxs-knight_squad_2.r06	94452832
+sxs-knight_squad_2.r07	51ea93ab
+sxs-knight_squad_2.r08	3b73ec55
+sxs-knight_squad_2.r09	20768f60
+sxs-knight_squad_2.r10	aecd3a98
+sxs-knight_squad_2.r11	f1dc81c7
+sxs-knight_squad_2.r12	88894a93
+sxs-knight_squad_2.r13	d8b86c83
+sxs-knight_squad_2.rar	1a7f0e36
+sxs-knight_squad_2.sfv	f4f3a4ca

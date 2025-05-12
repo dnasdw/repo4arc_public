@@ -1,0 +1,16 @@
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.nfo	-	4886	1	0	0	0
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r00	-	50000000	1	4886	0	1
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r01	-	50000000	1	50004886	0	49
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r02	-	50000000	1	100004886	0	97
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r03	-	50000000	1	150004886	0	145
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r04	-	50000000	1	200004886	0	193
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r05	-	50000000	1	250004886	0	241
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r06	-	50000000	1	300004886	0	289
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r07	-	50000000	1	350004886	0	337
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r08	-	50000000	1	400004886	0	385
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r09	-	50000000	1	450004886	0	433
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r10	-	50000000	1	500004886	0	481
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r11	-	50000000	1	12251264	1	12
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.r12	-	27478700	1	62251264	1	60
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.rar	-	50000000	1	89729964	1	87
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v196608.sfv	-	994	1	139729964	1	135

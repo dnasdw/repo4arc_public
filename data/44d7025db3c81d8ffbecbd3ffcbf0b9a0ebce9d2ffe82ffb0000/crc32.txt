@@ -1,0 +1,12 @@
+v-streets_of_rage_4_v458752.nfo	868119a5
+v-streets_of_rage_4_v458752.r00	00ba2914
+v-streets_of_rage_4_v458752.r01	8023f4de
+v-streets_of_rage_4_v458752.r02	34e336e4
+v-streets_of_rage_4_v458752.r03	f3d4034a
+v-streets_of_rage_4_v458752.r04	d264cf94
+v-streets_of_rage_4_v458752.r05	a080077e
+v-streets_of_rage_4_v458752.r06	934149a6
+v-streets_of_rage_4_v458752.r07	7726f15f
+v-streets_of_rage_4_v458752.r08	2f4e42d7
+v-streets_of_rage_4_v458752.rar	fa3da721
+v-streets_of_rage_4_v458752.sfv	2c297ce7

@@ -1,0 +1,11 @@
+hr-livestream.nfo	c34cc1e8
+hr-livestream.r00	fc322bcb
+hr-livestream.r01	4c3f5b07
+hr-livestream.r02	2814f3f4
+hr-livestream.r03	5ff8fd0b
+hr-livestream.r04	1dc71a0e
+hr-livestream.r05	5dfc3dd2
+hr-livestream.r06	6a6f7621
+hr-livestream.r07	2a2b7b9c
+hr-livestream.rar	7c0b9176
+hr-livestream.sfv	e4b4f1a8

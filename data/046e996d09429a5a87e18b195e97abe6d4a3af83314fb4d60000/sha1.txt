@@ -1,0 +1,10 @@
+l-crocsworld2.nfo	c02f6f1f48bf64db5878ad1798bb88d80c0e0438
+l-crocsworld2.r00	a17d6331a13daf0a2d60829e18de7ea4e636ee6a
+l-crocsworld2.r01	e2a2607862088182da4eb35b5e05854fa594f611
+l-crocsworld2.r02	afccd27ff366d1877e432f1450a450c2caff5bd8
+l-crocsworld2.r03	0c5112430b1aa23da0d84df0eb6672a8bdedcbbc
+l-crocsworld2.r04	1f8cc1b743cbed8e722d35abcb3851e07f84cfc1
+l-crocsworld2.r05	2601c353c868ac6c4d331edbf49ee16f044e1684
+l-crocsworld2.r06	ba3d36635098ba3d69cff1c155b31549f232358a
+l-crocsworld2.rar	4305112823c13cb7c4eb9cd0ee41e305c9b59d8e
+l-crocsworld2.sfv	748bbd870f5d9a28c724ffdb1ce90dd7427bd106

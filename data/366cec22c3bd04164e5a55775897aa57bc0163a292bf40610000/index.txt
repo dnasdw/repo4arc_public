@@ -1,0 +1,9 @@
+sxs-oddworld_strangers_wrath_de_dlc.nfo	-	4106	1	0	0	0
+sxs-oddworld_strangers_wrath_de_dlc.r00	-	50000000	1	4106	0	1
+sxs-oddworld_strangers_wrath_de_dlc.r01	-	50000000	1	50004106	0	49
+sxs-oddworld_strangers_wrath_de_dlc.r02	-	50000000	1	100004106	0	97
+sxs-oddworld_strangers_wrath_de_dlc.r03	-	50000000	1	150004106	0	145
+sxs-oddworld_strangers_wrath_de_dlc.r04	-	50000000	1	200004106	0	193
+sxs-oddworld_strangers_wrath_de_dlc.r05	-	10443007	1	250004106	0	241
+sxs-oddworld_strangers_wrath_de_dlc.rar	-	50000000	1	260447113	0	251
+sxs-oddworld_strangers_wrath_de_dlc.sfv	-	350	1	310447113	0	299

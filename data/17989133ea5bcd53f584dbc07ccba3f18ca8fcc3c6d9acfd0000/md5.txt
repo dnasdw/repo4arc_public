@@ -1,0 +1,6 @@
+sxs-musou_orochi3_v103.nfo	45338335e8f6c5fe8695fa4a09327942
+sxs-musou_orochi3_v103.r00	8194eedee9aec6b621e032f61c958884
+sxs-musou_orochi3_v103.r01	1ddb32a0cd23e33a59a212fbffb9d4fc
+sxs-musou_orochi3_v103.r02	7b1c379959164d72d8a5bf550354d4de
+sxs-musou_orochi3_v103.rar	41da12f09586b8a32e176457cc09d279
+sxs-musou_orochi3_v103.sfv	60a524f81bcc0fae66037b7a938450bb

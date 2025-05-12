@@ -1,0 +1,3 @@
+sxs-air_aces_v65536.nfo	07eb7fb6e7315e7c59a83b7a17adcba0ce82ee03
+sxs-air_aces_v65536.rar	1cbd796c457904380432053bcd91a289eb43411f
+sxs-air_aces_v65536.sfv	f0f1bed1a21d0df97e27abff15ef38c4ba031ccd

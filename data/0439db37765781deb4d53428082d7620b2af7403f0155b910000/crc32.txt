@@ -1,0 +1,10 @@
+lfc-papo.nfo	6da78f91
+lfc-papo.r00	d26d563a
+lfc-papo.r01	b686bf33
+lfc-papo.r02	546a0823
+lfc-papo.r03	e9a76e1a
+lfc-papo.r04	3d6233e1
+lfc-papo.r05	2aae8fd5
+lfc-papo.r06	3cf6c505
+lfc-papo.rar	875a70ee
+lfc-papo.sfv	20055707

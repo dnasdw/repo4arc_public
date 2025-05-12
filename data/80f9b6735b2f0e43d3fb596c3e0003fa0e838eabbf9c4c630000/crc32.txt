@@ -1,0 +1,11 @@
+v-smmak2_v262144.nfo	878d5ede
+v-smmak2_v262144.r00	5fd929d2
+v-smmak2_v262144.r01	f76db468
+v-smmak2_v262144.r02	cbc3740c
+v-smmak2_v262144.r03	7ef1725e
+v-smmak2_v262144.r04	202f4bb2
+v-smmak2_v262144.r05	372b2b81
+v-smmak2_v262144.r06	40c7d66b
+v-smmak2_v262144.r07	c749102e
+v-smmak2_v262144.rar	bb25077c
+v-smmak2_v262144.sfv	67a5ed1b

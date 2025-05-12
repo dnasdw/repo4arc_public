@@ -1,0 +1,3 @@
+sxs-torchlight_ii_lang_dlc_pl.nfo	8b0121fe319b36a8a3dea7c6d2cc681d1153e7f2
+sxs-torchlight_ii_lang_dlc_pl.rar	968fa9e9ce8be10010e0957673baa27b96bc107b
+sxs-torchlight_ii_lang_dlc_pl.sfv	4cd29bcfb8229e2f3bb102f0f59bd5aa49671cbb

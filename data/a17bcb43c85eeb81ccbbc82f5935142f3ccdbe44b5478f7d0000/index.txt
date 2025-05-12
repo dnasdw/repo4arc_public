@@ -1,0 +1,3 @@
+v-cadence_of_hyrule_symphony_of_the_mask_dlc.nfo	-	6370	1	0	0	0
+v-cadence_of_hyrule_symphony_of_the_mask_dlc.rar	-	18587097	1	6370	0	1
+v-cadence_of_hyrule_symphony_of_the_mask_dlc.sfv	-	59	1	18593467	0	19

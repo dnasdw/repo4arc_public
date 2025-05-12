@@ -1,0 +1,16 @@
+sxs-mario_tennis_aces_v786432.nfo	-	14246	1	0	0	0
+sxs-mario_tennis_aces_v786432.r00	-	50000000	1	14246	0	1
+sxs-mario_tennis_aces_v786432.r01	-	50000000	1	50014246	0	49
+sxs-mario_tennis_aces_v786432.r02	-	50000000	1	100014246	0	97
+sxs-mario_tennis_aces_v786432.r03	-	50000000	1	150014246	0	145
+sxs-mario_tennis_aces_v786432.r04	-	50000000	1	200014246	0	193
+sxs-mario_tennis_aces_v786432.r05	-	50000000	1	250014246	0	241
+sxs-mario_tennis_aces_v786432.r06	-	50000000	1	300014246	0	289
+sxs-mario_tennis_aces_v786432.r07	-	50000000	1	350014246	0	337
+sxs-mario_tennis_aces_v786432.r08	-	50000000	1	400014246	0	385
+sxs-mario_tennis_aces_v786432.r09	-	50000000	1	450014246	0	433
+sxs-mario_tennis_aces_v786432.r10	-	50000000	1	500014246	0	481
+sxs-mario_tennis_aces_v786432.r11	-	50000000	1	12251264	1	12
+sxs-mario_tennis_aces_v786432.r12	-	49683156	1	62251264	1	60
+sxs-mario_tennis_aces_v786432.rar	-	50000000	1	111934420	1	108
+sxs-mario_tennis_aces_v786432.sfv	-	616	1	161934420	1	156

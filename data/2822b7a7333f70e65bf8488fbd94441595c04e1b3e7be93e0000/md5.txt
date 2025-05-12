@@ -1,0 +1,8 @@
+lfc-sise.nfo	5f1cdd767bbfff67b7b161e5da3ad144
+lfc-sise.r00	af1a4dcdec9ec210b420f9810b43de8e
+lfc-sise.r01	ce0892a9c2de3b69fe962874e846b823
+lfc-sise.r02	34f24e1ba8c8b739990f6961ade7787b
+lfc-sise.r03	8f363e0388585053ce59c9df12a067f2
+lfc-sise.r04	ecf1979a645ba09da1a7d9fa2856f9db
+lfc-sise.rar	acd82d9553a6a96b9fd7300981511865
+lfc-sise.sfv	71f1aabbacba270d69be27d735478d6c

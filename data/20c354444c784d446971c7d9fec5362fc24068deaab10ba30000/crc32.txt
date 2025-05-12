@@ -1,0 +1,11 @@
+i-niceslice.nfo	9ef2be97
+i-niceslice.r00	ddf07f5e
+i-niceslice.r01	5b6d571b
+i-niceslice.r02	92265743
+i-niceslice.r03	44d31041
+i-niceslice.r04	22ec77da
+i-niceslice.r05	05c11a2f
+i-niceslice.r06	124a12cf
+i-niceslice.r07	f0621cc3
+i-niceslice.rar	4278e653
+i-niceslice.sfv	74e446ce

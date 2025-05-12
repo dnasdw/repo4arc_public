@@ -1,0 +1,8 @@
+sxs-fight_crab_v786432.nfo	73fe671f117af190c2774c0b283a3136
+sxs-fight_crab_v786432.r00	debf96f5e9ebab3e8f5b4bf6956e720d
+sxs-fight_crab_v786432.r01	86ae75efc1b05ab71b81bdcfe03058e1
+sxs-fight_crab_v786432.r02	56365cf55a497033263835c42db38be3
+sxs-fight_crab_v786432.r03	a4ca1b45a26e1fbbde187c5859f61254
+sxs-fight_crab_v786432.r04	8d98cb2279c565cdc01ba0dded372720
+sxs-fight_crab_v786432.rar	ea3e988268d26d7dc7f3ddafcff9f693
+sxs-fight_crab_v786432.sfv	b2368accc3c8e2cf6e7554a0476bc6f3

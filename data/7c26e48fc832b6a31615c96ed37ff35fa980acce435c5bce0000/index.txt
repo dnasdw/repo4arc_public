@@ -1,0 +1,11 @@
+sxs-atelier_sophie_the_alchemist_of_the_mysterious_book_dx_v196608.nfo	-	6848	1	0	0	0
+sxs-atelier_sophie_the_alchemist_of_the_mysterious_book_dx_v196608.r00	-	50000000	1	6848	0	1
+sxs-atelier_sophie_the_alchemist_of_the_mysterious_book_dx_v196608.r01	-	50000000	1	50006848	0	49
+sxs-atelier_sophie_the_alchemist_of_the_mysterious_book_dx_v196608.r02	-	50000000	1	100006848	0	97
+sxs-atelier_sophie_the_alchemist_of_the_mysterious_book_dx_v196608.r03	-	50000000	1	150006848	0	145
+sxs-atelier_sophie_the_alchemist_of_the_mysterious_book_dx_v196608.r04	-	50000000	1	200006848	0	193
+sxs-atelier_sophie_the_alchemist_of_the_mysterious_book_dx_v196608.r05	-	50000000	1	250006848	0	241
+sxs-atelier_sophie_the_alchemist_of_the_mysterious_book_dx_v196608.r06	-	50000000	1	300006848	0	289
+sxs-atelier_sophie_the_alchemist_of_the_mysterious_book_dx_v196608.r07	-	22917988	1	350006848	0	337
+sxs-atelier_sophie_the_alchemist_of_the_mysterious_book_dx_v196608.rar	-	50000000	1	372924836	0	359
+sxs-atelier_sophie_the_alchemist_of_the_mysterious_book_dx_v196608.sfv	-	729	1	422924836	0	407

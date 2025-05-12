@@ -1,0 +1,3 @@
+sxs-sword_art_online_alicization_lycoris_blooming_of_matricaria_dlc.nfo	-	6291	1	0	0	0
+sxs-sword_art_online_alicization_lycoris_blooming_of_matricaria_dlc.rar	-	104182	1	6291	0	1
+sxs-sword_art_online_alicization_lycoris_blooming_of_matricaria_dlc.sfv	-	82	1	110473	0	2

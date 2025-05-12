@@ -1,0 +1,7 @@
+sxs-spear_master.nfo	-	4262	1	0	0	0
+sxs-spear_master.r00	-	100000000	1	4262	0	1
+sxs-spear_master.r01	-	100000000	1	100004262	0	97
+sxs-spear_master.r02	-	100000000	1	200004262	0	193
+sxs-spear_master.r03	-	20521719	1	300004262	0	289
+sxs-spear_master.rar	-	100000000	1	320525981	0	309
+sxs-spear_master.sfv	-	155	1	420525981	0	405

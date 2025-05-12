@@ -1,0 +1,17 @@
+sxs-legodcsv_v131072.nfo	0618a891
+sxs-legodcsv_v131072.r00	42c44646
+sxs-legodcsv_v131072.r01	34f5319e
+sxs-legodcsv_v131072.r02	5360e6ae
+sxs-legodcsv_v131072.r03	a0af2a21
+sxs-legodcsv_v131072.r04	37ad084e
+sxs-legodcsv_v131072.r05	394b38fe
+sxs-legodcsv_v131072.r06	139a4945
+sxs-legodcsv_v131072.r07	7349f8a9
+sxs-legodcsv_v131072.r08	a94c999e
+sxs-legodcsv_v131072.r09	2b46b9d2
+sxs-legodcsv_v131072.r10	40f02552
+sxs-legodcsv_v131072.r11	57825457
+sxs-legodcsv_v131072.r12	f2743550
+sxs-legodcsv_v131072.r13	a3936d3d
+sxs-legodcsv_v131072.rar	3e21f3b0
+sxs-legodcsv_v131072.sfv	418a7f8b

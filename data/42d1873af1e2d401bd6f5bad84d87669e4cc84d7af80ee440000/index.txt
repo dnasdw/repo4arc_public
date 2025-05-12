@@ -1,0 +1,17 @@
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.nfo	-	6446	1	0	0	0
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r00	-	50000000	1	6446	0	1
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r01	-	50000000	1	50006446	0	49
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r02	-	50000000	1	100006446	0	97
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r03	-	50000000	1	150006446	0	145
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r04	-	50000000	1	200006446	0	193
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r05	-	50000000	1	250006446	0	241
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r06	-	50000000	1	300006446	0	289
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r07	-	50000000	1	350006446	0	337
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r08	-	50000000	1	400006446	0	385
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r09	-	50000000	1	450006446	0	433
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r10	-	50000000	1	500006446	0	481
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r11	-	50000000	1	12251264	1	12
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r12	-	50000000	1	62251264	1	60
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.r13	-	15780880	1	112251264	1	108
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.rar	-	50000000	1	128032144	1	124
+sxs-the_last_kids_on_earth_and_the_staff_of_doom_v65536.sfv	-	1050	1	178032144	1	172

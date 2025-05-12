@@ -1,0 +1,4 @@
+lfc-gapa.nfo	-	5590	1	0	0	0
+lfc-gapa.r00	-	29527740	1	5590	0	1
+lfc-gapa.rar	-	50000000	1	29533330	0	30
+lfc-gapa.sfv	-	46	1	79533330	0	78

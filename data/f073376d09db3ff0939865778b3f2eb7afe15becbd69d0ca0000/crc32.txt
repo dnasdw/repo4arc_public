@@ -1,0 +1,15 @@
+sxs-mob_control.nfo	20498759
+sxs-mob_control.r00	53de71b6
+sxs-mob_control.r01	a41d38a0
+sxs-mob_control.r02	51977d61
+sxs-mob_control.r03	c7987240
+sxs-mob_control.r04	b737159b
+sxs-mob_control.r05	3dae743e
+sxs-mob_control.r06	1292f861
+sxs-mob_control.r07	6e707a9c
+sxs-mob_control.r08	fe6140f9
+sxs-mob_control.r09	da4dcd4d
+sxs-mob_control.r10	e3f2ad87
+sxs-mob_control.r11	fec1251f
+sxs-mob_control.rar	703123ef
+sxs-mob_control.sfv	75359ad6

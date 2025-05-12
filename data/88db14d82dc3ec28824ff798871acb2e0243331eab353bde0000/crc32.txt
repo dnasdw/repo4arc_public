@@ -1,0 +1,9 @@
+v-yoshcw_v65536.nfo	9df2b9d1
+v-yoshcw_v65536.r00	6fec71cc
+v-yoshcw_v65536.r01	0ba8222b
+v-yoshcw_v65536.r02	8d03c952
+v-yoshcw_v65536.r03	4e521e19
+v-yoshcw_v65536.r04	53370fef
+v-yoshcw_v65536.r05	907f4ed9
+v-yoshcw_v65536.rar	388796e3
+v-yoshcw_v65536.sfv	e145ab3a

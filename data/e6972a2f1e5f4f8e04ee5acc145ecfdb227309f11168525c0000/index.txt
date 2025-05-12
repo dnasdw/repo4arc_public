@@ -1,0 +1,3 @@
+sxs-super_mega_baseball_4_ciudad_de_colores_stadium_dlc.nfo	-	5666	1	0	0	0
+sxs-super_mega_baseball_4_ciudad_de_colores_stadium_dlc.rar	-	104095	1	5666	0	1
+sxs-super_mega_baseball_4_ciudad_de_colores_stadium_dlc.sfv	-	70	1	109761	0	2

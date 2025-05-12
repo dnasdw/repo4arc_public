@@ -1,0 +1,13 @@
+hr-arp7bv65536.nfo	ffd92c8a
+hr-arp7bv65536.r00	47917222
+hr-arp7bv65536.r01	5b71320f
+hr-arp7bv65536.r02	f5693f1c
+hr-arp7bv65536.r03	c2d42990
+hr-arp7bv65536.r04	0ea62526
+hr-arp7bv65536.r05	85d1632e
+hr-arp7bv65536.r06	ac5a40bf
+hr-arp7bv65536.r07	c9dfbad4
+hr-arp7bv65536.r08	e45d8823
+hr-arp7bv65536.r09	cf30a97a
+hr-arp7bv65536.rar	f7f93705
+hr-arp7bv65536.sfv	94476068

@@ -1,0 +1,5 @@
+sxs-kashido.nfo	5f3f241115f4819a092d539601890862
+sxs-kashido.r00	99c05ba752d62b91e410c18e21507a05
+sxs-kashido.r01	78a1e9f6b49aae7699e52557dd066f3b
+sxs-kashido.rar	9fb1bf5f6d535d7ce74e96a1bcae6353
+sxs-kashido.sfv	28fd1d3053afa2b33de77595b7226f1e

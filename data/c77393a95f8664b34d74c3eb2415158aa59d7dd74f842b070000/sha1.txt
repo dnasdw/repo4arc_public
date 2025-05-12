@@ -1,0 +1,5 @@
+sxs-bayonetta_2_v65536.nfo	f721ba5d59b5770ab4cb3e7fcb32acaeb0450723
+sxs-bayonetta_2_v65536.r00	471bc6441ce7f5a4a6fe2bf6ac56f0dbbf68a806
+sxs-bayonetta_2_v65536.r01	3a8e2f14848de26d94c8b4efd82594bc1ee40f7e
+sxs-bayonetta_2_v65536.rar	757393ae6073d20d0431206c1f30c8cadb85a372
+sxs-bayonetta_2_v65536.sfv	3d539dff4c000081cde0afcc6a7065b53a8809a0

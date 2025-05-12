@@ -1,0 +1,5 @@
+v-pikmin_4_v131072.nfo	ffac883e
+v-pikmin_4_v131072.r00	3a963f88
+v-pikmin_4_v131072.r01	525eb99f
+v-pikmin_4_v131072.rar	1ea5f670
+v-pikmin_4_v131072.sfv	200f1eb9

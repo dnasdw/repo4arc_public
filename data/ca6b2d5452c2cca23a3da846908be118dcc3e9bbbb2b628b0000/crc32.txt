@@ -1,0 +1,4 @@
+sxs-worm_jazz_v65536.nfo	336b2aab
+sxs-worm_jazz_v65536.r00	4f07305c
+sxs-worm_jazz_v65536.rar	ab0c3dcb
+sxs-worm_jazz_v65536.sfv	803727ed

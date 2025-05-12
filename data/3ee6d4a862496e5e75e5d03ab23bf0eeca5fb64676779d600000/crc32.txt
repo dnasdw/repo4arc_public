@@ -1,0 +1,9 @@
+sxs-kokoro_clover_season_1_v196608.nfo	ece08fd1
+sxs-kokoro_clover_season_1_v196608.r00	7f6d98a6
+sxs-kokoro_clover_season_1_v196608.r01	7bbf9d1a
+sxs-kokoro_clover_season_1_v196608.r02	87e2ba25
+sxs-kokoro_clover_season_1_v196608.r03	0357a469
+sxs-kokoro_clover_season_1_v196608.r04	7f46dc47
+sxs-kokoro_clover_season_1_v196608.r05	5073b1d7
+sxs-kokoro_clover_season_1_v196608.rar	daf24cf5
+sxs-kokoro_clover_season_1_v196608.sfv	04cafc39

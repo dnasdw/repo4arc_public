@@ -1,0 +1,12 @@
+sxs-kill_la_kill_if_v65536.nfo	6b0ba7c9
+sxs-kill_la_kill_if_v65536.r00	42c2f98f
+sxs-kill_la_kill_if_v65536.r01	be8e484d
+sxs-kill_la_kill_if_v65536.r02	04a67b2c
+sxs-kill_la_kill_if_v65536.r03	2f404b08
+sxs-kill_la_kill_if_v65536.r04	2e889dc8
+sxs-kill_la_kill_if_v65536.r05	9bd3a562
+sxs-kill_la_kill_if_v65536.r06	d3891401
+sxs-kill_la_kill_if_v65536.r07	a4b173be
+sxs-kill_la_kill_if_v65536.r08	85c3bca9
+sxs-kill_la_kill_if_v65536.rar	77c45718
+sxs-kill_la_kill_if_v65536.sfv	61ece067

@@ -1,0 +1,4 @@
+sxs-final_fantasy_v_v196608.nfo	-	8162	1	0	0	0
+sxs-final_fantasy_v_v196608.r00	-	93091202	1	8162	0	1
+sxs-final_fantasy_v_v196608.rar	-	100000000	1	93099364	0	90
+sxs-final_fantasy_v_v196608.sfv	-	84	1	193099364	0	186

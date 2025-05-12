@@ -1,0 +1,4 @@
+sxs-star_horizon_v65536.nfo	-	7002	1	0	0	0
+sxs-star_horizon_v65536.r00	-	49247030	1	7002	0	1
+sxs-star_horizon_v65536.rar	-	50000000	1	49254032	0	48
+sxs-star_horizon_v65536.sfv	-	76	1	99254032	0	96

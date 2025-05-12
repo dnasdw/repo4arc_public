@@ -1,0 +1,11 @@
+sxs-star_ocean_the_second_story_r_v131072.nfo	-	9254	1	0	0	0
+sxs-star_ocean_the_second_story_r_v131072.r00	-	100000000	1	9254	0	1
+sxs-star_ocean_the_second_story_r_v131072.r01	-	100000000	1	100009254	0	97
+sxs-star_ocean_the_second_story_r_v131072.r02	-	100000000	1	200009254	0	193
+sxs-star_ocean_the_second_story_r_v131072.r03	-	100000000	1	300009254	0	289
+sxs-star_ocean_the_second_story_r_v131072.r04	-	100000000	1	400009254	0	385
+sxs-star_ocean_the_second_story_r_v131072.r05	-	100000000	1	500009254	0	481
+sxs-star_ocean_the_second_story_r_v131072.r06	-	100000000	1	62251264	1	60
+sxs-star_ocean_the_second_story_r_v131072.r07	-	73962995	1	162251264	1	156
+sxs-star_ocean_the_second_story_r_v131072.rar	-	100000000	1	236214259	1	227
+sxs-star_ocean_the_second_story_r_v131072.sfv	-	504	1	336214259	1	323

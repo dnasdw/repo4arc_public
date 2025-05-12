@@ -1,0 +1,6 @@
+v-katana_zero_v131072.nfo	562bc11e
+v-katana_zero_v131072.r00	94b5528c
+v-katana_zero_v131072.r01	c050c99f
+v-katana_zero_v131072.r02	15d15c9d
+v-katana_zero_v131072.rar	a3ed192a
+v-katana_zero_v131072.sfv	1f10621a

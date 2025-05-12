@@ -1,0 +1,13 @@
+hr-ddgrotd.nfo	a7bb8e30
+hr-ddgrotd.r00	f1f7b5f4
+hr-ddgrotd.r01	8114c1c3
+hr-ddgrotd.r02	51af56ea
+hr-ddgrotd.r03	cd82bd90
+hr-ddgrotd.r04	ee3ded17
+hr-ddgrotd.r05	2ccb8aec
+hr-ddgrotd.r06	cea63bc3
+hr-ddgrotd.r07	69e3f7fb
+hr-ddgrotd.r08	51c7fee5
+hr-ddgrotd.r09	eaf594e0
+hr-ddgrotd.rar	e936cb2d
+hr-ddgrotd.sfv	8eaaede6

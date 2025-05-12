@@ -1,0 +1,15 @@
+lfc-wofb.nfo	3501a23f
+lfc-wofb.r00	9d104df7
+lfc-wofb.r01	ee398d36
+lfc-wofb.r02	798122f1
+lfc-wofb.r03	d226b3ea
+lfc-wofb.r04	f5c629be
+lfc-wofb.r05	3bc5e8d6
+lfc-wofb.r06	34ce7fc7
+lfc-wofb.r07	11c652d7
+lfc-wofb.r08	8b7a6b6c
+lfc-wofb.r09	808c9f27
+lfc-wofb.r10	186ef6ed
+lfc-wofb.r11	c12a59ee
+lfc-wofb.rar	2a864b1f
+lfc-wofb.sfv	12ca8b44

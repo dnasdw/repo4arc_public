@@ -1,0 +1,15 @@
+lfc-a6l7a.nfo	3b930684
+lfc-a6l7a.r00	83e195e3
+lfc-a6l7a.r01	43f3abcd
+lfc-a6l7a.r02	7a1254c4
+lfc-a6l7a.r03	abc972a9
+lfc-a6l7a.r04	b099cabc
+lfc-a6l7a.r05	e4db29ab
+lfc-a6l7a.r06	731bb128
+lfc-a6l7a.r07	6d4321f6
+lfc-a6l7a.r08	da73d408
+lfc-a6l7a.r09	d5841c25
+lfc-a6l7a.rar	e66f5d91
+lfc-a6l7a.sfv	a2cc2efc
+Proof	00000000
+Proof/lfc-a6l7a.jpg	be7cf4f7

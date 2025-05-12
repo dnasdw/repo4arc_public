@@ -1,0 +1,6 @@
+sxs-dr_kawashimas_brain_training_v196608.nfo	-	4184	1	0	0	0
+sxs-dr_kawashimas_brain_training_v196608.r00	-	50000000	1	4184	0	1
+sxs-dr_kawashimas_brain_training_v196608.r01	-	50000000	1	50004184	0	49
+sxs-dr_kawashimas_brain_training_v196608.r02	-	12046947	1	100004184	0	97
+sxs-dr_kawashimas_brain_training_v196608.rar	-	50000000	1	112051131	0	109
+sxs-dr_kawashimas_brain_training_v196608.sfv	-	220	1	162051131	0	157

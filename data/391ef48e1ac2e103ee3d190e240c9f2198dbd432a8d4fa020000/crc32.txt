@@ -1,0 +1,5 @@
+sxs-nes_v1376256.nfo	12cbbdd6
+sxs-nes_v1376256.r00	f52bbe6d
+sxs-nes_v1376256.r01	9278388e
+sxs-nes_v1376256.rar	50580d2b
+sxs-nes_v1376256.sfv	56455467

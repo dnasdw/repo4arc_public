@@ -1,0 +1,12 @@
+v-nos_new_operating_system.nfo	d47766da
+v-nos_new_operating_system.r00	09c183ec
+v-nos_new_operating_system.r01	5b1df2a9
+v-nos_new_operating_system.r02	1dd46894
+v-nos_new_operating_system.r03	695ff5a7
+v-nos_new_operating_system.r04	998643b3
+v-nos_new_operating_system.r05	e8e8e8a5
+v-nos_new_operating_system.r06	f9e0a325
+v-nos_new_operating_system.r07	439b3a57
+v-nos_new_operating_system.r08	d2495083
+v-nos_new_operating_system.rar	6bf636c6
+v-nos_new_operating_system.sfv	a300bd33

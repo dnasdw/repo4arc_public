@@ -1,0 +1,8 @@
+brw-folo.nfo	fe86e544
+brw-folo.r00	b1bba4ef
+brw-folo.r01	d9e4703e
+brw-folo.r02	1bc84477
+brw-folo.r03	2721bcb0
+brw-folo.r04	a48a587a
+brw-folo.rar	5adf8291
+brw-folo.sfv	aa46ef17

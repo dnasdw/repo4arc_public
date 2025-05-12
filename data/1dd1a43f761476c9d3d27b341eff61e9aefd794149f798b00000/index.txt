@@ -1,0 +1,7 @@
+sxs-super_dungeon_maker.nfo	-	5432	1	0	0	0
+sxs-super_dungeon_maker.r00	-	100000000	1	5432	0	1
+sxs-super_dungeon_maker.r01	-	100000000	1	100005432	0	97
+sxs-super_dungeon_maker.r02	-	100000000	1	200005432	0	193
+sxs-super_dungeon_maker.r03	-	71362455	1	300005432	0	289
+sxs-super_dungeon_maker.rar	-	100000000	1	371367887	0	358
+sxs-super_dungeon_maker.sfv	-	190	1	471367887	0	454

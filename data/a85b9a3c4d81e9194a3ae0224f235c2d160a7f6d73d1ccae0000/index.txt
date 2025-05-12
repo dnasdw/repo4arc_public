@@ -1,0 +1,5 @@
+v-moto_rush_gt_v65536.nfo	-	6760	1	0	0	0
+v-moto_rush_gt_v65536.r00	-	50000000	1	6760	0	1
+v-moto_rush_gt_v65536.r01	-	41467689	1	50006760	0	49
+v-moto_rush_gt_v65536.rar	-	50000000	1	91474449	0	89
+v-moto_rush_gt_v65536.sfv	-	108	1	141474449	0	137

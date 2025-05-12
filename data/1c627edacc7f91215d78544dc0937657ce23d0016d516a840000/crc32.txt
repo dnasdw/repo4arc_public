@@ -1,0 +1,12 @@
+sxs-neoverse_trinity_edition_v131072.nfo	f25aabdc
+sxs-neoverse_trinity_edition_v131072.r00	1e1d9e63
+sxs-neoverse_trinity_edition_v131072.r01	fa596961
+sxs-neoverse_trinity_edition_v131072.r02	5b2dc3af
+sxs-neoverse_trinity_edition_v131072.r03	447cef6e
+sxs-neoverse_trinity_edition_v131072.r04	084c3201
+sxs-neoverse_trinity_edition_v131072.r05	16e59d34
+sxs-neoverse_trinity_edition_v131072.r06	d7f4d632
+sxs-neoverse_trinity_edition_v131072.r07	9614cef8
+sxs-neoverse_trinity_edition_v131072.r08	344d5dfd
+sxs-neoverse_trinity_edition_v131072.rar	fdcfbd74
+sxs-neoverse_trinity_edition_v131072.sfv	a389b243

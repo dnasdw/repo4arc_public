@@ -1,0 +1,5 @@
+sxs-thunder_kid_hunt_for_the_robot_emperor.nfo	-	5354	1	0	0	0
+sxs-thunder_kid_hunt_for_the_robot_emperor.r00	-	50000000	1	5354	0	1
+sxs-thunder_kid_hunt_for_the_robot_emperor.r01	-	2150925	1	50005354	0	49
+sxs-thunder_kid_hunt_for_the_robot_emperor.rar	-	50000000	1	52156279	0	52
+sxs-thunder_kid_hunt_for_the_robot_emperor.sfv	-	171	1	102156279	0	100

@@ -1,0 +1,7 @@
+sxs-god_of_light_remastered.nfo	8f854065
+sxs-god_of_light_remastered.r00	41888369
+sxs-god_of_light_remastered.r01	e23b3038
+sxs-god_of_light_remastered.r02	883ac7f0
+sxs-god_of_light_remastered.r03	fbcac538
+sxs-god_of_light_remastered.rar	3aa18cbc
+sxs-god_of_light_remastered.sfv	06d6600e

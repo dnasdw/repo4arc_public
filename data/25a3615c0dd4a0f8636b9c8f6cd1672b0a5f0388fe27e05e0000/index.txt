@@ -1,0 +1,7 @@
+sxs-into_the_breach_v589824.nfo	-	4808	1	0	0	0
+sxs-into_the_breach_v589824.r00	-	100000000	1	4808	0	1
+sxs-into_the_breach_v589824.r01	-	100000000	1	100004808	0	97
+sxs-into_the_breach_v589824.r02	-	100000000	1	200004808	0	193
+sxs-into_the_breach_v589824.r03	-	42923248	1	300004808	0	289
+sxs-into_the_breach_v589824.rar	-	100000000	1	342928056	0	330
+sxs-into_the_breach_v589824.sfv	-	210	1	442928056	0	426

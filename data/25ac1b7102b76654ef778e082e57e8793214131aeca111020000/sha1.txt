@@ -1,0 +1,4 @@
+sxs-kubic.nfo	93f9b1365e185d7aa73e00cc2dba547a8c34697e
+sxs-kubic.r00	d05a1acbc0eb19111a15543b1675dab917c4ed66
+sxs-kubic.rar	981907e2f39bd7b3581004682eb9701d4304b0f0
+sxs-kubic.sfv	93b3fafa7d0c7573374cc454bfb5ff1ea3f22afc

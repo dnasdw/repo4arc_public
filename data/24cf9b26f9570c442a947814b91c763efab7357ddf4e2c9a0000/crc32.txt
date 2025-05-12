@@ -1,0 +1,9 @@
+sxs-crashy_laps.nfo	1b5c2d54
+sxs-crashy_laps.r00	7198f67d
+sxs-crashy_laps.r01	31ccbae8
+sxs-crashy_laps.r02	582d4ce2
+sxs-crashy_laps.r03	57724242
+sxs-crashy_laps.r04	751706e5
+sxs-crashy_laps.r05	0e457dca
+sxs-crashy_laps.rar	4db258a5
+sxs-crashy_laps.sfv	d322608e

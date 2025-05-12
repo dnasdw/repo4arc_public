@@ -1,0 +1,10 @@
+sxs-trivial_pursuit_live_v196608.nfo	4693f0c4
+sxs-trivial_pursuit_live_v196608.r00	bc528b08
+sxs-trivial_pursuit_live_v196608.r01	9bcca39d
+sxs-trivial_pursuit_live_v196608.r02	cc7a864a
+sxs-trivial_pursuit_live_v196608.r03	f3ef1e2c
+sxs-trivial_pursuit_live_v196608.r04	676f47ef
+sxs-trivial_pursuit_live_v196608.r05	eb75df2e
+sxs-trivial_pursuit_live_v196608.r06	82cdf982
+sxs-trivial_pursuit_live_v196608.rar	75bffe57
+sxs-trivial_pursuit_live_v196608.sfv	9f17d106

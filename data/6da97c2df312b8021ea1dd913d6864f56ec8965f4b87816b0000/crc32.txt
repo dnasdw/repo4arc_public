@@ -1,0 +1,9 @@
+sxs-picross_s_v458752.nfo	ec3f529c
+sxs-picross_s_v458752.r00	7fcc9285
+sxs-picross_s_v458752.r01	35619697
+sxs-picross_s_v458752.r02	d108e527
+sxs-picross_s_v458752.r03	87806492
+sxs-picross_s_v458752.r04	3f21920b
+sxs-picross_s_v458752.r05	7ab3403c
+sxs-picross_s_v458752.rar	70fdd175
+sxs-picross_s_v458752.sfv	4c3fbbc2

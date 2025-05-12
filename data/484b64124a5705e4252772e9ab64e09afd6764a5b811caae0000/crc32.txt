@@ -1,0 +1,5 @@
+sxs-repit.nfo	3db8ff5d
+sxs-repit.r00	58836069
+sxs-repit.r01	0c958f1f
+sxs-repit.rar	1ef3c50a
+sxs-repit.sfv	563c95c4

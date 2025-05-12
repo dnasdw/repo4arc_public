@@ -1,0 +1,6 @@
+sxs-wheel_of_fortune_v65536.nfo	-	4184	1	0	0	0
+sxs-wheel_of_fortune_v65536.r00	-	50000000	1	4184	0	1
+sxs-wheel_of_fortune_v65536.r01	-	50000000	1	50004184	0	49
+sxs-wheel_of_fortune_v65536.r02	-	4202802	1	100004184	0	97
+sxs-wheel_of_fortune_v65536.rar	-	50000000	1	104206986	0	102
+sxs-wheel_of_fortune_v65536.sfv	-	168	1	154206986	0	150

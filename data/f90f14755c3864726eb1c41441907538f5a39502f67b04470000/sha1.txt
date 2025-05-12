@@ -1,0 +1,11 @@
+sxs-cubicity.nfo	4943a1c32802fe447b84a8d74885157db457975b
+sxs-cubicity.r00	b0215f85bbfd3dfba961cd42a580056f43e3330a
+sxs-cubicity.r01	05e7d45c79ce3f536fdfb8eaf4bb0c13283a215a
+sxs-cubicity.r02	5f4b0b80f02b9696224f64efc29a32aa6bc5851a
+sxs-cubicity.r03	2ca5c76b18cd2b89ea068c7c02e33222f552c2ed
+sxs-cubicity.r04	b44d8eadf79a151a4c4a9cdb19d5fa3235105649
+sxs-cubicity.r05	1fd1592409f479d69a6e0590f5486af4cb38fbb7
+sxs-cubicity.r06	ea5960b8adc51774decb79535b6877430a682591
+sxs-cubicity.r07	5ca3c8a54754c733086d9a0aeabfaee23c7145c7
+sxs-cubicity.rar	f38fc1a2b83d9f9a33f3cd0ba27e361f10e7ba5c
+sxs-cubicity.sfv	202664fe314d5c62ad4da805484cc216f3bfbd78

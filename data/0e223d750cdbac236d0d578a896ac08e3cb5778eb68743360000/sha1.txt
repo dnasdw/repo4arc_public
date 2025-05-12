@@ -1,0 +1,5 @@
+v-blazing_chrome.nfo	d31b0a5d7f2c349f54d8250616f09fe24a134845
+v-blazing_chrome.r00	e056d585e837b586d3709bd09235033f74ab565f
+v-blazing_chrome.r01	966ab10aebedd5f7335a6d84880d195ea95ba735
+v-blazing_chrome.rar	df38cc0d33dba034d3467f67f34e6b008b582f0e
+v-blazing_chrome.sfv	20778abd5ac00c2f1b509c043958505357be4889

@@ -1,0 +1,4 @@
+v-the_caligula_effect_2_v65536.nfo	-	3952	1	0	0	0
+v-the_caligula_effect_2_v65536.r00	-	22408498	1	3952	0	1
+v-the_caligula_effect_2_v65536.rar	-	100000000	1	22412450	0	23
+v-the_caligula_effect_2_v65536.sfv	-	90	1	122412450	0	119

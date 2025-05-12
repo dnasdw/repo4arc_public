@@ -1,0 +1,6 @@
+sxs-my_girlfriend_is_a_mermaid_v65536.nfo	-	4107	1	0	0	0
+sxs-my_girlfriend_is_a_mermaid_v65536.r00	-	50000000	1	4107	0	1
+sxs-my_girlfriend_is_a_mermaid_v65536.r01	-	50000000	1	50004107	0	49
+sxs-my_girlfriend_is_a_mermaid_v65536.r02	-	47297341	1	100004107	0	97
+sxs-my_girlfriend_is_a_mermaid_v65536.rar	-	50000000	1	147301448	0	143
+sxs-my_girlfriend_is_a_mermaid_v65536.sfv	-	208	1	197301448	0	191

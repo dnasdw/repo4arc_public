@@ -1,0 +1,11 @@
+v-vectronom_v65536.nfo	c5c12ce1
+v-vectronom_v65536.r00	f671cda7
+v-vectronom_v65536.r01	5a6c7c22
+v-vectronom_v65536.r02	b09a9074
+v-vectronom_v65536.r03	bde4179b
+v-vectronom_v65536.r04	c9dcaab5
+v-vectronom_v65536.r05	91278b59
+v-vectronom_v65536.r06	8d0135ed
+v-vectronom_v65536.r07	d099461a
+v-vectronom_v65536.rar	e456c5cc
+v-vectronom_v65536.sfv	9a7a0a2d

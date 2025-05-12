@@ -1,0 +1,10 @@
+sxs-fae_farm_v655360.nfo	7bb0a799
+sxs-fae_farm_v655360.r00	198cacf1
+sxs-fae_farm_v655360.r01	79b7e678
+sxs-fae_farm_v655360.r02	c21547ac
+sxs-fae_farm_v655360.r03	4a3c1c0d
+sxs-fae_farm_v655360.r04	8003a88b
+sxs-fae_farm_v655360.r05	f149d8d8
+sxs-fae_farm_v655360.r06	254f9df7
+sxs-fae_farm_v655360.rar	3a28eb86
+sxs-fae_farm_v655360.sfv	380200bd

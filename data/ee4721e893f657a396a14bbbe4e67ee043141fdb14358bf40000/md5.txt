@@ -1,0 +1,14 @@
+sxs-reventure.nfo	36bb361af88774ba50394ec79e489fe7
+sxs-reventure.r00	56183fae9b353307ecb8ec77ae64fb36
+sxs-reventure.r01	498f19b2550438aee64aa3d7ab80208a
+sxs-reventure.r02	c832a3c2d009350b9257c32ade7cf473
+sxs-reventure.r03	2f99dad0a8b83034e573db56bb2ddeaf
+sxs-reventure.r04	4f2a7c0e6fad3e34481da0d49ad08982
+sxs-reventure.r05	3e00b11a2a367d6eb2b480d03982931d
+sxs-reventure.r06	3c048d0d6f8218463cc6e5e190b3f152
+sxs-reventure.r07	fdfbdd038251e7065bcb52309b89b29f
+sxs-reventure.r08	3f6b0955073b2439b200fe528ae7faf2
+sxs-reventure.r09	126dfe9a25fc408655a2d07f494f451a
+sxs-reventure.r10	56fd6b3078181df08650c52861a5be24
+sxs-reventure.rar	c9b40969e35ab126ebf076dd36dbb03d
+sxs-reventure.sfv	31891e473dfe96083d1fc5aa47ad9242

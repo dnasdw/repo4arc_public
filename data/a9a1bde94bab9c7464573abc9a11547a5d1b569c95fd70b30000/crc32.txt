@@ -1,0 +1,17 @@
+i-rt.nfo	fb816f03
+i-rt.r00	d6a43cb3
+i-rt.r01	f8873580
+i-rt.r02	f4a50789
+i-rt.r03	9e79229e
+i-rt.r04	01c486a9
+i-rt.r05	daf565e4
+i-rt.r06	c56d0e6b
+i-rt.r07	0b8aeb29
+i-rt.r08	aa18df6d
+i-rt.r09	2d7313d8
+i-rt.r10	a514de51
+i-rt.r11	f6e5c2c9
+i-rt.r12	42774449
+i-rt.r13	5d9e1044
+i-rt.rar	2a38eeb2
+i-rt.sfv	3ae4c791

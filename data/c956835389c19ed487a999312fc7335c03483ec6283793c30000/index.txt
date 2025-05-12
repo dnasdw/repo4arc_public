@@ -1,0 +1,5 @@
+lfc-guessthecharacter.nfo	-	4044	1	0	0	0
+lfc-guessthecharacter.r00	-	100000000	1	4044	0	1
+lfc-guessthecharacter.r01	-	13001490	1	100004044	0	97
+lfc-guessthecharacter.rar	-	100000000	1	113005534	0	110
+lfc-guessthecharacter.sfv	-	108	1	213005534	0	206

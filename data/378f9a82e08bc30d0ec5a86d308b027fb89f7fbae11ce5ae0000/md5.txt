@@ -1,0 +1,9 @@
+sxs-infernax_v196608.nfo	03496afb1aeff8acd89e85fec13066fd
+sxs-infernax_v196608.r00	42d929bd458bbe97aee17d50a3a68a72
+sxs-infernax_v196608.r01	ccf4671eb6b35e860aeb4f1a302ee88c
+sxs-infernax_v196608.r02	d90548f31009e2b3f1efd5c56197ccc6
+sxs-infernax_v196608.r03	3b8be0faef0b372c58190f6f0bfe2660
+sxs-infernax_v196608.r04	98dc574a6d1741898c8f1ad84f1c1bcf
+sxs-infernax_v196608.r05	d4222acffd3574a0a26c2f5cfb7f98a3
+sxs-infernax_v196608.rar	9363f8115a28f35aa10a4d01afbf987f
+sxs-infernax_v196608.sfv	abeb4963e6d596643ee80e88e0db68d0

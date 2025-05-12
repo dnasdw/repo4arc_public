@@ -1,0 +1,7 @@
+v-luigi3_mp_pack_2_dlc.nfo	5c21825c79d2b7a6bd5b7c7d68e262f7
+v-luigi3_mp_pack_2_dlc.r00	2737bf580387992a1ed2f8d8ad701bc8
+v-luigi3_mp_pack_2_dlc.r01	8ef87e90b0596c507b5a30d8e2735f59
+v-luigi3_mp_pack_2_dlc.r02	ff77671bbc77d18f29c165489b6e14fc
+v-luigi3_mp_pack_2_dlc.r03	bf1e65de2e677787f69ff7f69568af83
+v-luigi3_mp_pack_2_dlc.rar	42c7815324bfaf1b4e3a94e4dea3100a
+v-luigi3_mp_pack_2_dlc.sfv	1d6e3d98a7fc8517e8f56fe9f37ab365

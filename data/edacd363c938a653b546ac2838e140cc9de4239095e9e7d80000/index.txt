@@ -1,0 +1,16 @@
+sxs-robbys_adventure.nfo	-	5510	1	0	0	0
+sxs-robbys_adventure.r00	-	50000000	1	5510	0	1
+sxs-robbys_adventure.r01	-	50000000	1	50005510	0	49
+sxs-robbys_adventure.r02	-	50000000	1	100005510	0	97
+sxs-robbys_adventure.r03	-	50000000	1	150005510	0	145
+sxs-robbys_adventure.r04	-	50000000	1	200005510	0	193
+sxs-robbys_adventure.r05	-	50000000	1	250005510	0	241
+sxs-robbys_adventure.r06	-	50000000	1	300005510	0	289
+sxs-robbys_adventure.r07	-	50000000	1	350005510	0	337
+sxs-robbys_adventure.r08	-	50000000	1	400005510	0	385
+sxs-robbys_adventure.r09	-	50000000	1	450005510	0	433
+sxs-robbys_adventure.r10	-	50000000	1	500005510	0	481
+sxs-robbys_adventure.r11	-	50000000	1	12251264	1	12
+sxs-robbys_adventure.r12	-	31960237	1	62251264	1	60
+sxs-robbys_adventure.rar	-	50000000	1	94211501	1	91
+sxs-robbys_adventure.sfv	-	490	1	144211501	1	139

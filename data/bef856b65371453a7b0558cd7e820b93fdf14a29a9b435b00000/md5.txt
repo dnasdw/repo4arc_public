@@ -1,0 +1,13 @@
+sxs-firework.nfo	4d13215711448bb63e79a61f7d7018d0
+sxs-firework.r00	cc89d5ad3d6afdaa2a354326aadc8efe
+sxs-firework.r01	b98d0202974e61979e85878fea7b35fe
+sxs-firework.r02	43c9c1e474a6d9b0d181c37839d48053
+sxs-firework.r03	bb350cf1ca17cf7c2ae71965bb3db114
+sxs-firework.r04	6314fc3d5a05c3b08f40edf9c77ee380
+sxs-firework.r05	b601c00087134f89cd95a281d40eef61
+sxs-firework.r06	d63f25188e350ff07727663aee352d23
+sxs-firework.r07	a0ac2551c6fac336dcb9555e8cece443
+sxs-firework.r08	cd597319ce672bd7c34fd643c54ccca1
+sxs-firework.r09	57ad1f7c3d366cb65fcee24da19bdf59
+sxs-firework.rar	5c15c3432d008b29810ed51ce0f9ca28
+sxs-firework.sfv	d06f42cd04951d1069658431b184460a

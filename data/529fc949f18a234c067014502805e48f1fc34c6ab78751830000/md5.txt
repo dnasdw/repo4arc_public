@@ -1,0 +1,10 @@
+sxs-moving_out_demo.nfo	31ea2c61845d8f8421b180cb5de401ec
+sxs-moving_out_demo.r00	a1e3e2ab10f6f5d856e72ccd0a109f57
+sxs-moving_out_demo.r01	3c6fdf5c442a76becb089c98d4635ce1
+sxs-moving_out_demo.r02	c00541078df201d073e78686638bba62
+sxs-moving_out_demo.r03	c5c47fe4edaf4f5a54272e6d8a425567
+sxs-moving_out_demo.r04	45216a625df2b6e3d0b6fbf1d86cb46f
+sxs-moving_out_demo.r05	5b9942415f65873e704aae25ea47e72d
+sxs-moving_out_demo.r06	d173caa9cb28bc197270c6a35ed418fa
+sxs-moving_out_demo.rar	363bfeabbb484466d218f8e8d97e3134
+sxs-moving_out_demo.sfv	6cfc070df6527710dc7b6103ca29f35c

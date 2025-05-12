@@ -1,0 +1,5 @@
+sxs-korg_gadget_v262144.nfo	dd8fcf59763ef7802facf8e0f81929e89fbde8fb
+sxs-korg_gadget_v262144.r00	18f58c325854af6f0b9f47980a50e606db1975d5
+sxs-korg_gadget_v262144.r01	963ba68d466fab0ade5bca7eb8eff65204582420
+sxs-korg_gadget_v262144.rar	0b18a686d65a639df0fced6606a44cca1ee79c8b
+sxs-korg_gadget_v262144.sfv	b9739ba79e2a3bd3f0ec91fdc4122800e6b22ecd

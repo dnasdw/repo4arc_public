@@ -1,0 +1,15 @@
+n-dysmantle.nfo	93367a494bccd64867623dce226579af
+n-dysmantle.r00	39a5f1c7050f8abc758ee66a0e0308ff
+n-dysmantle.r01	87b790e360cf70fc2c1d3215c364f9e6
+n-dysmantle.r02	aca40f07cc2b1df07cb1362b71d3b399
+n-dysmantle.r03	9a49aefd9ebb5d6ef186a5041183f024
+n-dysmantle.r04	ca5de8221e7d874cfe427a0d829b7db2
+n-dysmantle.r05	79d64a5890658f704ec99cd5b9073070
+n-dysmantle.r06	219fbe322f1dd826646447ded751fe02
+n-dysmantle.r07	d2fc6a86c81f57642985fae93ad1bf9f
+n-dysmantle.r08	6cfb7cf36a306100b8dde5e1ba0cd71d
+n-dysmantle.r09	7cd4d61e5ef6e134ab845ad9282ffa22
+n-dysmantle.r10	b783bd914d07e99eb5f184ccdc6cef94
+n-dysmantle.r11	de339ee38812849e95fd2fe02a823883
+n-dysmantle.rar	1da657f5ba08adb82b06a796c13df6c4
+n-dysmantle.sfv	e587ce8af03551d54d799501a9ef1d51

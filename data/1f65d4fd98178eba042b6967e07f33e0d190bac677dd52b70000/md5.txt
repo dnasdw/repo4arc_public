@@ -1,0 +1,5 @@
+sxs-hammerwatch_v196608.nfo	92b13551da7a113c4f45a1be5b684fa3
+sxs-hammerwatch_v196608.r00	b203b14663c4284f8c20cf2519dc38f9
+sxs-hammerwatch_v196608.r01	29f289edf614ce3868ec0af1caeae008
+sxs-hammerwatch_v196608.rar	af75affe5f38a25f1a9aef82bcad6dc8
+sxs-hammerwatch_v196608.sfv	cad6992d19627ce2f4708db6ca2f2461

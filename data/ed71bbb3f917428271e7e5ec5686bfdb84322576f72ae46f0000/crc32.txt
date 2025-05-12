@@ -1,0 +1,5 @@
+sxs-urban_street_fighting_v65536.nfo	6f985686
+sxs-urban_street_fighting_v65536.r00	8d809040
+sxs-urban_street_fighting_v65536.r01	135120b3
+sxs-urban_street_fighting_v65536.rar	4e00acd2
+sxs-urban_street_fighting_v65536.sfv	41293188

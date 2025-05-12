@@ -1,0 +1,9 @@
+v-splatoon_3_wave_1_inkopolis_dlc.nfo	c69b3614
+v-splatoon_3_wave_1_inkopolis_dlc.r00	d267291f
+v-splatoon_3_wave_1_inkopolis_dlc.r01	ae41cab8
+v-splatoon_3_wave_1_inkopolis_dlc.r02	a7e44aaf
+v-splatoon_3_wave_1_inkopolis_dlc.r03	c0799a61
+v-splatoon_3_wave_1_inkopolis_dlc.r04	6ae4cfab
+v-splatoon_3_wave_1_inkopolis_dlc.r05	a2f0a81d
+v-splatoon_3_wave_1_inkopolis_dlc.rar	b00bc0b7
+v-splatoon_3_wave_1_inkopolis_dlc.sfv	aa4fcf17

@@ -1,0 +1,4 @@
+sxs-hermitage_strange_case_files_v65536.nfo	-	6368	1	0	0	0
+sxs-hermitage_strange_case_files_v65536.r00	-	1162061	1	6368	0	1
+sxs-hermitage_strange_case_files_v65536.rar	-	50000000	1	1168429	0	3
+sxs-hermitage_strange_case_files_v65536.sfv	-	108	1	51168429	0	51

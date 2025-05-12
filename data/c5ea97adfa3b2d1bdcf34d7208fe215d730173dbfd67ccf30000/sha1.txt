@@ -1,0 +1,6 @@
+lfc-grandprixstory.nfo	8ca89455bc7d1ebffb2e35fbecf9b7e56fb876fa
+lfc-grandprixstory.r00	910099aac1a8abfd00b40e63089871c8c2d976c3
+lfc-grandprixstory.r01	da432e0a726b0e6bc63c24d0303d2ecc7b25f172
+lfc-grandprixstory.r02	93999bd35217b76a364b293907f9ec74fc096f4f
+lfc-grandprixstory.rar	453d320c6a9759ca2b1930d661addd75c739ea87
+lfc-grandprixstory.sfv	bbd7601d13228beadb538d074e1b272405dfce43

@@ -1,0 +1,4 @@
+bbb-n-aqxja.nfo	-	5517	1	0	0	0
+bbb-n-aqxja.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aqxja.part2.rar	-	132277192	1	250005517	0	240
+bbb-n-aqxja.sfv	-	64	1	382282709	0	367

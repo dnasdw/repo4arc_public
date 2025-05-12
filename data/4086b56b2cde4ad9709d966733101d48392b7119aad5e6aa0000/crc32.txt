@@ -1,0 +1,4 @@
+sxs-i_zombie_v131072.nfo	eee8c30e
+sxs-i_zombie_v131072.r00	d7b7d084
+sxs-i_zombie_v131072.rar	22f3a4f8
+sxs-i_zombie_v131072.sfv	e8d1abbc

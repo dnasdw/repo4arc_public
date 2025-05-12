@@ -1,0 +1,5 @@
+sxs-breakout_birdie_adventure.nfo	7a6055b17414300704c5421010292cda
+sxs-breakout_birdie_adventure.r00	50e4283971716b7d6d82ff4bafa6fa89
+sxs-breakout_birdie_adventure.r01	889b3a3dc43c64f67185a178ac0921cd
+sxs-breakout_birdie_adventure.rar	99f24730b80dd87f9606c9c65badaad0
+sxs-breakout_birdie_adventure.sfv	38257cd2422724600d1fdc6d4ab0a8ce

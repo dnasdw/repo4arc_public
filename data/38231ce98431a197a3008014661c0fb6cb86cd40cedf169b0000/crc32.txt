@@ -1,0 +1,17 @@
+v-lethal_league_blaze_v131072.nfo	18ac7793
+v-lethal_league_blaze_v131072.r00	bd99f4e6
+v-lethal_league_blaze_v131072.r01	6d276df5
+v-lethal_league_blaze_v131072.r02	6f5e06ab
+v-lethal_league_blaze_v131072.r03	7562729c
+v-lethal_league_blaze_v131072.r04	9c1b6a5f
+v-lethal_league_blaze_v131072.r05	0d7bda40
+v-lethal_league_blaze_v131072.r06	03bee032
+v-lethal_league_blaze_v131072.r07	bddb63e0
+v-lethal_league_blaze_v131072.r08	d57685e5
+v-lethal_league_blaze_v131072.r09	fc212458
+v-lethal_league_blaze_v131072.r10	f8944da6
+v-lethal_league_blaze_v131072.r11	6850ce27
+v-lethal_league_blaze_v131072.r12	1289b54d
+v-lethal_league_blaze_v131072.r13	bb0a62e1
+v-lethal_league_blaze_v131072.rar	2d6a76cc
+v-lethal_league_blaze_v131072.sfv	34bc4a58

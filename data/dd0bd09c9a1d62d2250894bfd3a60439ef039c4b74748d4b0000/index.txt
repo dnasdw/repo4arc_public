@@ -1,0 +1,4 @@
+sxs-cat_simulator_v65536.nfo	-	3872	1	0	0	0
+sxs-cat_simulator_v65536.r00	-	53857181	1	3872	0	1
+sxs-cat_simulator_v65536.rar	-	100000000	1	53861053	0	53
+sxs-cat_simulator_v65536.sfv	-	78	1	153861053	0	149

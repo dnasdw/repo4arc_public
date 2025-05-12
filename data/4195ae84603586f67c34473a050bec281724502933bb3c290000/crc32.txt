@@ -1,0 +1,16 @@
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.nfo	a150cc3a
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r00	ce80328a
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r01	ff5015cb
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r02	282b2771
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r03	456d4faf
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r04	9f3f8555
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r05	c108500c
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r06	4c7d051c
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r07	6bb80ad3
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r08	b3ce2399
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r09	b6a0367f
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r10	d9a44e4c
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r11	89ac0f1f
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.r12	d7a2f751
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.rar	c1085fb1
+sxs-ea_sports_fc_24_in-game_commentary_russian_dlc.sfv	64284a1c

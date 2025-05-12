@@ -1,0 +1,9 @@
+sxs-crashbots_v65536.nfo	ec586b0f13dbff74005fb2c4b998d8b3
+sxs-crashbots_v65536.r00	e8af4239bad28cbb8f8d755fe212f2da
+sxs-crashbots_v65536.r01	16a2c1e38aefc98c8a4ee5657e8d57e7
+sxs-crashbots_v65536.r02	28b2d8296e040e1467716be4e328cfb4
+sxs-crashbots_v65536.r03	177575b830012d4fb6eff97acff0afc4
+sxs-crashbots_v65536.r04	5c6b71a07b3030b3dac39ac2021e12e4
+sxs-crashbots_v65536.r05	3c37292247386dfd5a6bc418540e3458
+sxs-crashbots_v65536.rar	b1c3690e958b58239b09cbbd8f7ef5ff
+sxs-crashbots_v65536.sfv	4cb323657a090053143f161bcea8ea55

@@ -1,0 +1,3 @@
+sxs-spongebob_squarepants_the_cosmic_shake_costume_pack_dlc_dlc.nfo	-	6836	1	0	0	0
+sxs-spongebob_squarepants_the_cosmic_shake_costume_pack_dlc_dlc.rar	-	104157	1	6836	0	1
+sxs-spongebob_squarepants_the_cosmic_shake_costume_pack_dlc_dlc.sfv	-	78	1	110993	0	2

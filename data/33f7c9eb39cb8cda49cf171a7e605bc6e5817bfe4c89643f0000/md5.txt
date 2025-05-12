@@ -1,0 +1,7 @@
+sxs-animal_lover.nfo	e87fc6c331b1cb8412e43d1bf12e31e6
+sxs-animal_lover.r00	eb36ff131d80ac19eb088a7bcd20b93b
+sxs-animal_lover.r01	42ed64f52b300b755b626beb79526760
+sxs-animal_lover.r02	6d32e347a496f498ca01232992cf7ce9
+sxs-animal_lover.r03	2dccc1d92bab1f921110551e36c8e490
+sxs-animal_lover.rar	4c58c7bf8e1cbbedd3293e402344f566
+sxs-animal_lover.sfv	c327cb9cf5dfb740018fe45ef21af2b5

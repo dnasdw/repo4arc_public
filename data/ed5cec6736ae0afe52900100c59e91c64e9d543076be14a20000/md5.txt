@@ -1,0 +1,9 @@
+delight.nfo	25ba48521884755d312aa4101a3adb3f
+dl-royalroads.r00	6a29195b5aa58a97e9a3bc441295b434
+dl-royalroads.r01	8812289fd45df70e3282ed7c501fef91
+dl-royalroads.r02	bb7294f694d06b37bf4d1f2e433d0bb5
+dl-royalroads.r03	6035bce00569533fec69e56114228585
+dl-royalroads.r04	69b5ae34d438d592e42e8627bed69104
+dl-royalroads.r05	3dfd5a96993f4e461532ef8dbf7b1139
+dl-royalroads.rar	42b63897fbe15f374a2c8737fd03bcb6
+dl-royalroads.sfv	bafde63885b1c35ccd946edb88fdc8e1

@@ -1,0 +1,14 @@
+v-atelier_lulua_gust_extra_bgm_dlc.nfo	94f50f45
+v-atelier_lulua_gust_extra_bgm_dlc.r00	f8abf797
+v-atelier_lulua_gust_extra_bgm_dlc.r01	80068a1d
+v-atelier_lulua_gust_extra_bgm_dlc.r02	ab6ccb13
+v-atelier_lulua_gust_extra_bgm_dlc.r03	bbfa81c3
+v-atelier_lulua_gust_extra_bgm_dlc.r04	5c52dd0c
+v-atelier_lulua_gust_extra_bgm_dlc.r05	b9e96394
+v-atelier_lulua_gust_extra_bgm_dlc.r06	afedd01f
+v-atelier_lulua_gust_extra_bgm_dlc.r07	db517129
+v-atelier_lulua_gust_extra_bgm_dlc.r08	f4f2a385
+v-atelier_lulua_gust_extra_bgm_dlc.r09	ece9ea7a
+v-atelier_lulua_gust_extra_bgm_dlc.r10	8fe21dc2
+v-atelier_lulua_gust_extra_bgm_dlc.rar	8b589999
+v-atelier_lulua_gust_extra_bgm_dlc.sfv	2961f7cb

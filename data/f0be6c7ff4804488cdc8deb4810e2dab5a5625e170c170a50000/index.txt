@@ -1,0 +1,11 @@
+v-niche_a_genetics_survival_game_v196608.nfo	-	6604	1	0	0	0
+v-niche_a_genetics_survival_game_v196608.r00	-	50000000	1	6604	0	1
+v-niche_a_genetics_survival_game_v196608.r01	-	50000000	1	50006604	0	49
+v-niche_a_genetics_survival_game_v196608.r02	-	50000000	1	100006604	0	97
+v-niche_a_genetics_survival_game_v196608.r03	-	50000000	1	150006604	0	145
+v-niche_a_genetics_survival_game_v196608.r04	-	50000000	1	200006604	0	193
+v-niche_a_genetics_survival_game_v196608.r05	-	50000000	1	250006604	0	241
+v-niche_a_genetics_survival_game_v196608.r06	-	50000000	1	300006604	0	289
+v-niche_a_genetics_survival_game_v196608.r07	-	40959984	1	350006604	0	337
+v-niche_a_genetics_survival_game_v196608.rar	-	50000000	1	390966588	0	377
+v-niche_a_genetics_survival_game_v196608.sfv	-	495	1	440966588	0	425

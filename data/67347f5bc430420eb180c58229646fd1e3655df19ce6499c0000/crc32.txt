@@ -1,0 +1,9 @@
+v-metal_tales_overkill_v65536.nfo	5e8b8181
+v-metal_tales_overkill_v65536.r00	1cd3dd72
+v-metal_tales_overkill_v65536.r01	d2a9266f
+v-metal_tales_overkill_v65536.r02	a58654da
+v-metal_tales_overkill_v65536.r03	3f66eb54
+v-metal_tales_overkill_v65536.r04	780be3e8
+v-metal_tales_overkill_v65536.r05	b457310d
+v-metal_tales_overkill_v65536.rar	0e83ae80
+v-metal_tales_overkill_v65536.sfv	41656d82

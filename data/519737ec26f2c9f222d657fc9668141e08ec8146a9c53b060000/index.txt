@@ -1,0 +1,5 @@
+sxs-qubyte_classics_the_humans_by_piko.nfo	-	5432	1	0	0	0
+sxs-qubyte_classics_the_humans_by_piko.r00	-	50000000	1	5432	0	1
+sxs-qubyte_classics_the_humans_by_piko.r01	-	12015686	1	50005432	0	49
+sxs-qubyte_classics_the_humans_by_piko.rar	-	50000000	1	62021118	0	61
+sxs-qubyte_classics_the_humans_by_piko.sfv	-	159	1	112021118	0	109

@@ -1,0 +1,12 @@
+sxs-little_mouses_encyclopedia.nfo	-	7772	1	0	0	0
+sxs-little_mouses_encyclopedia.r00	-	50000000	1	7772	0	1
+sxs-little_mouses_encyclopedia.r01	-	50000000	1	50007772	0	49
+sxs-little_mouses_encyclopedia.r02	-	50000000	1	100007772	0	97
+sxs-little_mouses_encyclopedia.r03	-	50000000	1	150007772	0	145
+sxs-little_mouses_encyclopedia.r04	-	50000000	1	200007772	0	193
+sxs-little_mouses_encyclopedia.r05	-	50000000	1	250007772	0	241
+sxs-little_mouses_encyclopedia.r06	-	50000000	1	300007772	0	289
+sxs-little_mouses_encyclopedia.r07	-	50000000	1	350007772	0	337
+sxs-little_mouses_encyclopedia.r08	-	14986348	1	400007772	0	385
+sxs-little_mouses_encyclopedia.rar	-	50000000	1	414994120	0	400
+sxs-little_mouses_encyclopedia.sfv	-	450	1	464994120	0	448

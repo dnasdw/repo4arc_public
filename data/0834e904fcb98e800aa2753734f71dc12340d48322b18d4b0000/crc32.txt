@@ -1,0 +1,6 @@
+sxs-ships_v131072.nfo	90e0c2d4
+sxs-ships_v131072.r00	1a229d49
+sxs-ships_v131072.r01	75c08f55
+sxs-ships_v131072.r02	e22bfa22
+sxs-ships_v131072.rar	a1f68b3d
+sxs-ships_v131072.sfv	d3a218a9

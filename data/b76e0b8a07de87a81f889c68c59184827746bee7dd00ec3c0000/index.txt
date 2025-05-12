@@ -1,0 +1,3 @@
+sxs-ninja_gaiden_sigma_v196608.nfo	-	5278	1	0	0	0
+sxs-ninja_gaiden_sigma_v196608.rar	-	32623867	1	5278	0	1
+sxs-ninja_gaiden_sigma_v196608.sfv	-	45	1	32629145	0	33

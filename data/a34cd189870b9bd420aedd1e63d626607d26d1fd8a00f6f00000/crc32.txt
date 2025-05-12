@@ -1,0 +1,7 @@
+lfc-mbuildersrush.nfo	cffbfd71
+lfc-mbuildersrush.r00	4097a23b
+lfc-mbuildersrush.r01	5bc0600c
+lfc-mbuildersrush.r02	4ca4881e
+lfc-mbuildersrush.r03	4a254acd
+lfc-mbuildersrush.rar	dddf1d89
+lfc-mbuildersrush.sfv	e4550a6e

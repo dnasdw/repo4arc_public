@@ -1,0 +1,17 @@
+n-gl2sotds.nfo	09d194fb
+n-gl2sotds.r00	48f94a80
+n-gl2sotds.r01	e1e63d3e
+n-gl2sotds.r02	2598dd98
+n-gl2sotds.r03	8e2ee6f8
+n-gl2sotds.r04	1a5d18a0
+n-gl2sotds.r05	c43c652c
+n-gl2sotds.r06	c3825746
+n-gl2sotds.r07	e48fb4b7
+n-gl2sotds.r08	6a6f45d6
+n-gl2sotds.r09	3c5b6a6f
+n-gl2sotds.r10	fae37fc1
+n-gl2sotds.r11	5596c225
+n-gl2sotds.r12	2776bb66
+n-gl2sotds.r13	30c50f10
+n-gl2sotds.rar	940b16c9
+n-gl2sotds.sfv	353ca933

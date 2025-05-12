@@ -1,0 +1,9 @@
+darkmoon-disease.hidden.object.eshop.nsw.nfo	-	16679	1	0	0	0
+darkmoon-disease.hidden.object.eshop.nsw.r00	-	50000000	1	16679	0	1
+darkmoon-disease.hidden.object.eshop.nsw.r01	-	50000000	1	50016679	0	49
+darkmoon-disease.hidden.object.eshop.nsw.r02	-	50000000	1	100016679	0	97
+darkmoon-disease.hidden.object.eshop.nsw.r03	-	50000000	1	150016679	0	145
+darkmoon-disease.hidden.object.eshop.nsw.r04	-	50000000	1	200016679	0	193
+darkmoon-disease.hidden.object.eshop.nsw.r05	-	9989718	1	250016679	0	241
+darkmoon-disease.hidden.object.eshop.nsw.rar	-	50000000	1	260006397	0	251
+darkmoon-disease.hidden.object.eshop.nsw.sfv	-	385	1	310006397	0	299

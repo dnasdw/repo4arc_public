@@ -1,0 +1,6 @@
+bbb-n-amr2a.nfo	-	5517	1	0	0	0
+bbb-n-amr2a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-amr2a.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-amr2a.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-amr2a.part4.rar	-	89132720	1	212251264	1	203
+bbb-n-amr2a.sfv	-	128	1	301383984	1	289

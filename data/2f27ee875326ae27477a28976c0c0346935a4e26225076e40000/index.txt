@@ -1,0 +1,5 @@
+bbb-n-ajsaa.nfo	-	5517	1	0	0	0
+bbb-n-ajsaa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ajsaa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ajsaa.part3.rar	-	214719116	1	500005517	0	479
+bbb-n-ajsaa.sfv	-	96	1	176970380	1	169

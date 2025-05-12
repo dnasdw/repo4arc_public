@@ -1,0 +1,5 @@
+sxs-jeopardy_v65536.nfo	40cb3e6d02d62b12532b89f6e37a4879
+sxs-jeopardy_v65536.r00	9b18c3c5c9031df761832ecc61f44542
+sxs-jeopardy_v65536.r01	a1d227dd92870b674ae0dfd1a914975c
+sxs-jeopardy_v65536.rar	a6ac46c2f9f2b37c7fd6682f62538bad
+sxs-jeopardy_v65536.sfv	2752088dea883385c4246b81ffd0d0fb

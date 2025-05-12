@@ -1,0 +1,6 @@
+v-sonic_origins_v131072.nfo	75db75aeace21826d25c108f5371ca01
+v-sonic_origins_v131072.r00	e84fa783a7961d2e03116bf374d7106d
+v-sonic_origins_v131072.r01	5273ed784074c2efc857166a02bcb715
+v-sonic_origins_v131072.r02	f48d1e6df41ef7f04b593c642c815f5d
+v-sonic_origins_v131072.rar	68e4d5f2a28074ea90a0511655b7d80b
+v-sonic_origins_v131072.sfv	f906fc127190ea24b2ac168d17916078

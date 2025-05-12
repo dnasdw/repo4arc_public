@@ -1,0 +1,9 @@
+sxs-4x4_dirt_track.nfo	34632228
+sxs-4x4_dirt_track.r00	b3e3a1e1
+sxs-4x4_dirt_track.r01	8bf88c27
+sxs-4x4_dirt_track.r02	5f6ae41e
+sxs-4x4_dirt_track.r03	99940055
+sxs-4x4_dirt_track.r04	52b987ac
+sxs-4x4_dirt_track.r05	5da7e91c
+sxs-4x4_dirt_track.rar	34103bc9
+sxs-4x4_dirt_track.sfv	484ec541

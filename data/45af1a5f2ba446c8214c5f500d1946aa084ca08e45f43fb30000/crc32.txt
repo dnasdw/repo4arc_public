@@ -1,0 +1,13 @@
+v-king_of_seas_v262144.nfo	0b1e86ac
+v-king_of_seas_v262144.r00	348b6af6
+v-king_of_seas_v262144.r01	89175613
+v-king_of_seas_v262144.r02	235fbf8b
+v-king_of_seas_v262144.r03	5fbf5bd3
+v-king_of_seas_v262144.r04	d79eed7c
+v-king_of_seas_v262144.r05	8fa73398
+v-king_of_seas_v262144.r06	3524d2d7
+v-king_of_seas_v262144.r07	e66a3b3b
+v-king_of_seas_v262144.r08	6b95fd2c
+v-king_of_seas_v262144.r09	52610a58
+v-king_of_seas_v262144.rar	dea59d79
+v-king_of_seas_v262144.sfv	b30321ea

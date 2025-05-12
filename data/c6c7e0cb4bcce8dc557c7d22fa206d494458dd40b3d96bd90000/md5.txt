@@ -1,0 +1,6 @@
+lfc-drai.nfo	b92b42561989a3d11ab6351c1a2e1c7b
+lfc-drai.r00	768a546e02c0c2f1827ca3ad5cf5c3b3
+lfc-drai.r01	820a323ef9e8419f7b898d32bde1d1d6
+lfc-drai.r02	7daf45309cd29da275d53a963823974b
+lfc-drai.rar	7d48e37c9d6ac2d23f3e2f06d63ace0c
+lfc-drai.sfv	3fc363c350f839dd31dbd190dd6a84b3

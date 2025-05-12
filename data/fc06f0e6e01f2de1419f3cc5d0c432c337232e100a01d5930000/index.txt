@@ -1,0 +1,4 @@
+bbb-h-ae78b.nfo	-	5517	1	0	0	0
+bbb-h-ae78b.part01.rar	-	250000000	1	5517	0	1
+bbb-h-ae78b.part02.rar	-	68503810	1	250005517	0	240
+bbb-h-ae78b.sfv	-	66	1	318509327	0	306

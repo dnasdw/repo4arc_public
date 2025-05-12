@@ -1,0 +1,7 @@
+sxs-dragon_marked_for_death_v1507328.nfo	-	8476	1	0	0	0
+sxs-dragon_marked_for_death_v1507328.r00	-	50000000	1	8476	0	1
+sxs-dragon_marked_for_death_v1507328.r01	-	50000000	1	50008476	0	49
+sxs-dragon_marked_for_death_v1507328.r02	-	50000000	1	100008476	0	97
+sxs-dragon_marked_for_death_v1507328.r03	-	40289446	1	150008476	0	145
+sxs-dragon_marked_for_death_v1507328.rar	-	50000000	1	190297922	0	184
+sxs-dragon_marked_for_death_v1507328.sfv	-	255	1	240297922	0	232

@@ -1,0 +1,3 @@
+lfc-blob.nfo	20f1811c065c3a1708df19b04d0cc77b
+lfc-blob.rar	aaf1385ce0811023083a666ccb1eba4e
+lfc-blob.sfv	e009d298ae74735e4c345b48210da343

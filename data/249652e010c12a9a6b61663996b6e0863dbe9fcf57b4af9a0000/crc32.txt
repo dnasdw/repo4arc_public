@@ -1,0 +1,14 @@
+v-crcr_v131072.nfo	e39836a9
+v-crcr_v131072.r00	2474c448
+v-crcr_v131072.r01	f5573ed5
+v-crcr_v131072.r02	46917e5b
+v-crcr_v131072.r03	dfc6819b
+v-crcr_v131072.r04	3549c923
+v-crcr_v131072.r05	8247af35
+v-crcr_v131072.r06	eaf8a76e
+v-crcr_v131072.r07	32995154
+v-crcr_v131072.r08	4faf572e
+v-crcr_v131072.r09	6f54ed5f
+v-crcr_v131072.r10	55a7ce16
+v-crcr_v131072.rar	609479cc
+v-crcr_v131072.sfv	da985231

@@ -1,0 +1,5 @@
+bbb-h-aflja.nfo	-	5517	1	0	0	0
+bbb-h-aflja.part01.rar	-	250000000	1	5517	0	1
+bbb-h-aflja.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-aflja.part03.rar	-	155482506	1	500005517	0	479
+bbb-h-aflja.sfv	-	99	1	117733770	1	113

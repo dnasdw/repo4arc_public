@@ -1,0 +1,8 @@
+sxs-reventure_v196608.nfo	8875e57002f80e8c12ff612c8b914df6
+sxs-reventure_v196608.r00	fec8a6bfffa48b2bc3dd3f436bb46360
+sxs-reventure_v196608.r01	533c41fbe6ab0aafae20e9afcd1d1514
+sxs-reventure_v196608.r02	47977fb096a68f8d08737ff47ec95ec1
+sxs-reventure_v196608.r03	f03f72d01981acc4a899b9829124f4ce
+sxs-reventure_v196608.r04	c1e672763a64012a52239cd34aa3540a
+sxs-reventure_v196608.rar	964742e3b97045bf64503c8dd3170a23
+sxs-reventure_v196608.sfv	1ed1a526379a22df00d84b8fadd171f8

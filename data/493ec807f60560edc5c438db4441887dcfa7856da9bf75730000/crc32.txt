@@ -1,0 +1,5 @@
+v-deadcraft_v131072.nfo	8d32df17
+v-deadcraft_v131072.r00	db9e65fe
+v-deadcraft_v131072.r01	fc4c3bea
+v-deadcraft_v131072.rar	0448587b
+v-deadcraft_v131072.sfv	51b20b8a

@@ -1,0 +1,11 @@
+sxs-oni_road_to_be_the_mightiest_oni_v196608.nfo	-	6994	1	0	0	0
+sxs-oni_road_to_be_the_mightiest_oni_v196608.r00	-	100000000	1	6994	0	1
+sxs-oni_road_to_be_the_mightiest_oni_v196608.r01	-	100000000	1	100006994	0	97
+sxs-oni_road_to_be_the_mightiest_oni_v196608.r02	-	100000000	1	200006994	0	193
+sxs-oni_road_to_be_the_mightiest_oni_v196608.r03	-	100000000	1	300006994	0	289
+sxs-oni_road_to_be_the_mightiest_oni_v196608.r04	-	100000000	1	400006994	0	385
+sxs-oni_road_to_be_the_mightiest_oni_v196608.r05	-	100000000	1	500006994	0	481
+sxs-oni_road_to_be_the_mightiest_oni_v196608.r06	-	100000000	1	62251264	1	60
+sxs-oni_road_to_be_the_mightiest_oni_v196608.r07	-	33381380	1	162251264	1	156
+sxs-oni_road_to_be_the_mightiest_oni_v196608.rar	-	100000000	1	195632644	1	188
+sxs-oni_road_to_be_the_mightiest_oni_v196608.sfv	-	531	1	295632644	1	284

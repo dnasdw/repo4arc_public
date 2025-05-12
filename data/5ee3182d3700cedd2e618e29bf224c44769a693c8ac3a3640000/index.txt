@@ -1,0 +1,3 @@
+sxs-unmetal_v262144.nfo	-	5822	1	0	0	0
+sxs-unmetal_v262144.rar	-	62992113	1	5822	0	1
+sxs-unmetal_v262144.sfv	-	34	1	62997935	0	62

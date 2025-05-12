@@ -1,0 +1,8 @@
+sxs-travis_strikes_again_no_more_heroes_v131072.nfo	-	6993	1	0	0	0
+sxs-travis_strikes_again_no_more_heroes_v131072.r00	-	50000000	1	6993	0	1
+sxs-travis_strikes_again_no_more_heroes_v131072.r01	-	50000000	1	50006993	0	49
+sxs-travis_strikes_again_no_more_heroes_v131072.r02	-	50000000	1	100006993	0	97
+sxs-travis_strikes_again_no_more_heroes_v131072.r03	-	50000000	1	150006993	0	145
+sxs-travis_strikes_again_no_more_heroes_v131072.r04	-	32514676	1	200006993	0	193
+sxs-travis_strikes_again_no_more_heroes_v131072.rar	-	50000000	1	232521669	0	225
+sxs-travis_strikes_again_no_more_heroes_v131072.sfv	-	372	1	282521669	0	273

@@ -1,0 +1,5 @@
+v-pokemon_legends_arceus_v131072.nfo	8c44e031
+v-pokemon_legends_arceus_v131072.r00	1ca4649a
+v-pokemon_legends_arceus_v131072.r01	f615b3fd
+v-pokemon_legends_arceus_v131072.rar	9e92ddc5
+v-pokemon_legends_arceus_v131072.sfv	df1caa4d

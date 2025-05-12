@@ -1,0 +1,11 @@
+sxs-pinball_fx_v327680.nfo	2714ec73
+sxs-pinball_fx_v327680.r00	520dca52
+sxs-pinball_fx_v327680.r01	c85aabed
+sxs-pinball_fx_v327680.r02	eafb347b
+sxs-pinball_fx_v327680.r03	cfd34661
+sxs-pinball_fx_v327680.r04	c24cae62
+sxs-pinball_fx_v327680.r05	0d27d8e3
+sxs-pinball_fx_v327680.r06	a67487e4
+sxs-pinball_fx_v327680.r07	0e57f6c5
+sxs-pinball_fx_v327680.rar	74e8494f
+sxs-pinball_fx_v327680.sfv	9373b573

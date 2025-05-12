@@ -1,0 +1,3 @@
+v-red_wings_american_aces_dlc.nfo	-	8086	1	0	0	0
+v-red_wings_american_aces_dlc.rar	-	208028	1	8086	0	1
+v-red_wings_american_aces_dlc.sfv	-	44	1	216114	0	2

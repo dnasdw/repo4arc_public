@@ -1,0 +1,8 @@
+sxs-shipped.nfo	92eb12692ef88f122364219af84759adb0b149cf
+sxs-shipped.r00	fc188ebc5f983434cd92bae7d3bc47279f1cb66a
+sxs-shipped.r01	2c1966f1148a14ccd8f5110c2b7bfaa0eb8aa676
+sxs-shipped.r02	b0ab7c9b369edd89b8cbc358bbf9f95966b7fd27
+sxs-shipped.r03	a6cf5d104f7facc5fa4db636cfae5b5e1c8cd56e
+sxs-shipped.r04	a184fbd1ac3b042d233667d9ee551a79c60082d2
+sxs-shipped.rar	951999dcafcb07de77c4f68a25dd809a86daa52f
+sxs-shipped.sfv	e2ea4318977a5f6f4fbd832ade3be6a74de7914b

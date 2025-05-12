@@ -1,0 +1,8 @@
+sxs-tricky_doors_v196608.nfo	18988a8b
+sxs-tricky_doors_v196608.r00	4667025b
+sxs-tricky_doors_v196608.r01	6c99aad7
+sxs-tricky_doors_v196608.r02	cd60485f
+sxs-tricky_doors_v196608.r03	7f12afd4
+sxs-tricky_doors_v196608.r04	c7cd859e
+sxs-tricky_doors_v196608.rar	360594a6
+sxs-tricky_doors_v196608.sfv	4d8b3f37

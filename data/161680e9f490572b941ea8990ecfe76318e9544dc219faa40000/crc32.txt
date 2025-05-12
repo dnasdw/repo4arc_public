@@ -1,0 +1,15 @@
+brw-soht_proper.nfo	e37ec9a4
+brw-soht_proper.r00	9a4f5546
+brw-soht_proper.r01	4273ffad
+brw-soht_proper.r02	6190b9c5
+brw-soht_proper.r03	65fa3528
+brw-soht_proper.r04	caf4fdfb
+brw-soht_proper.r05	005950f2
+brw-soht_proper.r06	2d2cee56
+brw-soht_proper.r07	a44c6e57
+brw-soht_proper.r08	4b0cd83a
+brw-soht_proper.r09	b99fef16
+brw-soht_proper.r10	1f180b67
+brw-soht_proper.r11	720453d6
+brw-soht_proper.rar	60496bf6
+brw-soht_proper.sfv	c22df60d

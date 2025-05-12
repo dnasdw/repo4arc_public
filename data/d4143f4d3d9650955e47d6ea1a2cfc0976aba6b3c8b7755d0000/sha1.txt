@@ -1,0 +1,3 @@
+sxs-cogen_sword_of_rewind_dlc.nfo	466e88655a32d8b0bde33b6f4c40f6be902a7c6f
+sxs-cogen_sword_of_rewind_dlc.rar	7fa24385392f5974f78a39fee8a2fa88fa9b1d3c
+sxs-cogen_sword_of_rewind_dlc.sfv	50a0f24ac04a4aefaa3ca7e8ede145cfc9e8cb9f

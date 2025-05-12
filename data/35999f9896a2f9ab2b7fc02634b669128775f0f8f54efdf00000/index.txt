@@ -1,0 +1,10 @@
+v-classic_racers_elite.nfo	-	6370	1	0	0	0
+v-classic_racers_elite.r00	-	100000000	1	6370	0	1
+v-classic_racers_elite.r01	-	100000000	1	100006370	0	97
+v-classic_racers_elite.r02	-	100000000	1	200006370	0	193
+v-classic_racers_elite.r03	-	100000000	1	300006370	0	289
+v-classic_racers_elite.r04	-	100000000	1	400006370	0	385
+v-classic_racers_elite.r05	-	100000000	1	500006370	0	481
+v-classic_racers_elite.r06	-	26980453	1	62251264	1	60
+v-classic_racers_elite.rar	-	100000000	1	89231717	1	86
+v-classic_racers_elite.sfv	-	296	1	189231717	1	182

@@ -1,0 +1,3 @@
+v-aer_memories_of_old_v65536.nfo	baf00998bbe2160f2f60e73b46181210e9bc0e4b
+v-aer_memories_of_old_v65536.rar	a0bb21c55a05b5ed1ff267dccfdbe823a8783ada
+v-aer_memories_of_old_v65536.sfv	d78b21df15d14fbc96b0ceedb08004da01d5156c

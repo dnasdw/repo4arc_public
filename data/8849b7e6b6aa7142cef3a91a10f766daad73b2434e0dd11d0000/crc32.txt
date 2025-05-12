@@ -1,0 +1,16 @@
+jfp-ffix.r00	bb5a0cb6
+jfp-ffix.r01	6dada8eb
+jfp-ffix.r02	7a970d30
+jfp-ffix.r03	2d826d6a
+jfp-ffix.r04	4ba2a600
+jfp-ffix.r05	f52bd713
+jfp-ffix.r06	d74a9c4a
+jfp-ffix.r07	1352d680
+jfp-ffix.r08	ab287855
+jfp-ffix.r09	40ea2d24
+jfp-ffix.r10	a1e2b122
+jfp-ffix.r11	e30e143a
+jfp-ffix.r12	845edcec
+jfp-ffix.rar	b628ace8
+jfp-ffix.sfv	833d64a4
+jrp-n-ffix.nfo	6e27716a

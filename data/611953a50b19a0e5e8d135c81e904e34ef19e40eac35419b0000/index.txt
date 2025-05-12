@@ -1,0 +1,3 @@
+sxs-cat_slide_tiles_v65536.nfo	-	5198	1	0	0	0
+sxs-cat_slide_tiles_v65536.rar	-	38072364	1	5198	0	1
+sxs-cat_slide_tiles_v65536.sfv	-	41	1	38077562	0	38

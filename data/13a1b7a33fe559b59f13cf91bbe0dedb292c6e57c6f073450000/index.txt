@@ -1,0 +1,5 @@
+sxs-my_child_lebensborn_remastered.nfo	-	6134	1	0	0	0
+sxs-my_child_lebensborn_remastered.r00	-	100000000	1	6134	0	1
+sxs-my_child_lebensborn_remastered.r01	-	69646623	1	100006134	0	97
+sxs-my_child_lebensborn_remastered.rar	-	100000000	1	169652757	0	164
+sxs-my_child_lebensborn_remastered.sfv	-	147	1	269652757	0	260

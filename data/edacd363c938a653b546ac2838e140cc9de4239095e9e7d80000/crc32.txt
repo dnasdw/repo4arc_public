@@ -1,0 +1,16 @@
+sxs-robbys_adventure.nfo	2ac046a5
+sxs-robbys_adventure.r00	e67887b4
+sxs-robbys_adventure.r01	75c0b30d
+sxs-robbys_adventure.r02	4fa78b30
+sxs-robbys_adventure.r03	95a1ec26
+sxs-robbys_adventure.r04	a7a1fa8b
+sxs-robbys_adventure.r05	061f2c61
+sxs-robbys_adventure.r06	37346023
+sxs-robbys_adventure.r07	c5e53885
+sxs-robbys_adventure.r08	6ce710ae
+sxs-robbys_adventure.r09	af1e9948
+sxs-robbys_adventure.r10	b98e8d8e
+sxs-robbys_adventure.r11	2c16c247
+sxs-robbys_adventure.r12	6c4a7a46
+sxs-robbys_adventure.rar	aa56cae5
+sxs-robbys_adventure.sfv	966198aa

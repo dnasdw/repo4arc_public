@@ -1,0 +1,8 @@
+sxs-warhammer_40_000_mechanicus_v196608.nfo	-	3872	1	0	0	0
+sxs-warhammer_40_000_mechanicus_v196608.r00	-	50000000	1	3872	0	1
+sxs-warhammer_40_000_mechanicus_v196608.r01	-	50000000	1	50003872	0	49
+sxs-warhammer_40_000_mechanicus_v196608.r02	-	50000000	1	100003872	0	97
+sxs-warhammer_40_000_mechanicus_v196608.r03	-	50000000	1	150003872	0	145
+sxs-warhammer_40_000_mechanicus_v196608.r04	-	20853998	1	200003872	0	193
+sxs-warhammer_40_000_mechanicus_v196608.rar	-	50000000	1	220857870	0	213
+sxs-warhammer_40_000_mechanicus_v196608.sfv	-	324	1	270857870	0	261

@@ -1,0 +1,5 @@
+sxs-planet_rix-13.nfo	-	4653	1	0	0	0
+sxs-planet_rix-13.r00	-	50000000	1	4653	0	1
+sxs-planet_rix-13.r01	-	26138342	1	50004653	0	49
+sxs-planet_rix-13.rar	-	50000000	1	76142995	0	74
+sxs-planet_rix-13.sfv	-	96	1	126142995	0	122

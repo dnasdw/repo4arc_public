@@ -1,0 +1,11 @@
+sxs-retimed_v983040.nfo	836daddc
+sxs-retimed_v983040.r00	cd40c301
+sxs-retimed_v983040.r01	84c3dd9b
+sxs-retimed_v983040.r02	0bec99ba
+sxs-retimed_v983040.r03	67b631d2
+sxs-retimed_v983040.r04	7242e69f
+sxs-retimed_v983040.r05	ab4acfdf
+sxs-retimed_v983040.r06	2b3b349d
+sxs-retimed_v983040.r07	8ac0b650
+sxs-retimed_v983040.rar	f4ec7925
+sxs-retimed_v983040.sfv	940ea542

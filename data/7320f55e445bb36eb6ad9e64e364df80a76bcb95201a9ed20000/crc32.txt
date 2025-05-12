@@ -1,0 +1,6 @@
+lfc-hydu_v65536.nfo	5ca0828a
+lfc-hydu_v65536.r00	8c5cc877
+lfc-hydu_v65536.r01	80c648b0
+lfc-hydu_v65536.r02	60787e2f
+lfc-hydu_v65536.rar	b09b6d23
+lfc-hydu_v65536.sfv	bbee9b0c

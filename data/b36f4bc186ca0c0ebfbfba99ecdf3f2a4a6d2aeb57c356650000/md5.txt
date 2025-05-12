@@ -1,0 +1,7 @@
+sxs-wargroove_v917504.nfo	9ea21f0f3cfda4ffdc23124232538c56
+sxs-wargroove_v917504.r00	9779f2cae3b6a0357d40ef88dae26c02
+sxs-wargroove_v917504.r01	cf4b70886e7f4a1ba85055c9b9221149
+sxs-wargroove_v917504.r02	f2af21779b220507ebee0b7b20ee2ebe
+sxs-wargroove_v917504.r03	4489f96245ced0155c221e4d1154629e
+sxs-wargroove_v917504.rar	6168001b0767f73af2e5b3d5c91db370
+sxs-wargroove_v917504.sfv	2ce8e6e870ad24c66f359a5c32da3b8e

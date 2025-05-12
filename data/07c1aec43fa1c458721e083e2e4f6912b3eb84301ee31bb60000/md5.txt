@@ -1,0 +1,9 @@
+v-legend_of_grimrock.nfo	8e80c8e64de2da012bea39a16af9f3a0
+v-legend_of_grimrock.r00	e6dc56b0ba5cd4b459c108e93670bc6c
+v-legend_of_grimrock.r01	96c0b100b63eba5095f039c264dbb294
+v-legend_of_grimrock.r02	9499c3987e6d5656ad282a23dc5ffd1d
+v-legend_of_grimrock.r03	f60c3538e6e30e5e5adee76a51e2ae3e
+v-legend_of_grimrock.r04	9baea429d4f6f51cd7023321075277e8
+v-legend_of_grimrock.r05	b65a344c13c279cdbabc43300e20ff0d
+v-legend_of_grimrock.rar	fff609c81405d44a79147058037fd1c3
+v-legend_of_grimrock.sfv	33f4e125d610f61a3fe8667e3ceb8de9

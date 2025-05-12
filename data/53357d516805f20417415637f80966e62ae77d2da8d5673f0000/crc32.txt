@@ -1,0 +1,6 @@
+sxs-artb.nfo	1b45aa12
+sxs-artb.r00	18e992f3
+sxs-artb.r01	2767310d
+sxs-artb.r02	ebc4ba73
+sxs-artb.rar	7b6e2905
+sxs-artb.sfv	95d00cc0

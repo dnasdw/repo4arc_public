@@ -1,0 +1,10 @@
+v-cadence_of_hyrule_v131072.nfo	f60a916b
+v-cadence_of_hyrule_v131072.r00	f601f3e4
+v-cadence_of_hyrule_v131072.r01	1551d065
+v-cadence_of_hyrule_v131072.r02	f8dfaddc
+v-cadence_of_hyrule_v131072.r03	6d3bfbb1
+v-cadence_of_hyrule_v131072.r04	0084d074
+v-cadence_of_hyrule_v131072.r05	b7ec99a8
+v-cadence_of_hyrule_v131072.r06	5e7361cd
+v-cadence_of_hyrule_v131072.rar	51a3097e
+v-cadence_of_hyrule_v131072.sfv	4c579115

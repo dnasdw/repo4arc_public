@@ -1,0 +1,7 @@
+sxs-c14_dating.nfo	7575b27d519e90aa519eb4b8986b2b01
+sxs-c14_dating.r00	eeb9d3a598c7760692aa302f373ad62a
+sxs-c14_dating.r01	39e3d4d4909c794cb782dcecafd5c574
+sxs-c14_dating.r02	ec12a6bbbb9f91bb163b447be11380be
+sxs-c14_dating.r03	77afb04e57c5e30fd7341713b4547551
+sxs-c14_dating.rar	538c4a2fef30bf9c6fa1423ed55eb47f
+sxs-c14_dating.sfv	4df1bdc4ba8384daceb5b3ba00d863a9

@@ -1,0 +1,5 @@
+v-dinosaurs_mission_dino_camp_v131072.nfo	ec1c0c90
+v-dinosaurs_mission_dino_camp_v131072.r00	e6897528
+v-dinosaurs_mission_dino_camp_v131072.r01	8f5e079c
+v-dinosaurs_mission_dino_camp_v131072.rar	e4264aca
+v-dinosaurs_mission_dino_camp_v131072.sfv	528f53df

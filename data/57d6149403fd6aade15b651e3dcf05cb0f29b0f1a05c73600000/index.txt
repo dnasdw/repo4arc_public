@@ -1,0 +1,9 @@
+sxs-samurai_warriors_5_v196608.nfo	-	6686	1	0	0	0
+sxs-samurai_warriors_5_v196608.r00	-	50000000	1	6686	0	1
+sxs-samurai_warriors_5_v196608.r01	-	50000000	1	50006686	0	49
+sxs-samurai_warriors_5_v196608.r02	-	50000000	1	100006686	0	97
+sxs-samurai_warriors_5_v196608.r03	-	50000000	1	150006686	0	145
+sxs-samurai_warriors_5_v196608.r04	-	50000000	1	200006686	0	193
+sxs-samurai_warriors_5_v196608.r05	-	2364621	1	250006686	0	241
+sxs-samurai_warriors_5_v196608.rar	-	50000000	1	252371307	0	244
+sxs-samurai_warriors_5_v196608.sfv	-	315	1	302371307	0	292

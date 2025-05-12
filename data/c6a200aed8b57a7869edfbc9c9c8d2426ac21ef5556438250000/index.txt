@@ -1,0 +1,3 @@
+sxs-aaa_clock_2_jelly_clock_dlc.nfo	-	5276	1	0	0	0
+sxs-aaa_clock_2_jelly_clock_dlc.rar	-	3759544	1	5276	0	1
+sxs-aaa_clock_2_jelly_clock_dlc.sfv	-	46	1	3764820	0	5

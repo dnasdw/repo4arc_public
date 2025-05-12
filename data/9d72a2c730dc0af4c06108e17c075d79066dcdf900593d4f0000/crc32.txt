@@ -1,0 +1,8 @@
+sxs-2064_read_only_memories_integral_v65536.nfo	9ef922ff
+sxs-2064_read_only_memories_integral_v65536.r00	ce5abbe2
+sxs-2064_read_only_memories_integral_v65536.r01	3b1f31d0
+sxs-2064_read_only_memories_integral_v65536.r02	a2351e64
+sxs-2064_read_only_memories_integral_v65536.r03	eb13c36a
+sxs-2064_read_only_memories_integral_v65536.r04	a1535397
+sxs-2064_read_only_memories_integral_v65536.rar	bd2c6f56
+sxs-2064_read_only_memories_integral_v65536.sfv	522eeecc

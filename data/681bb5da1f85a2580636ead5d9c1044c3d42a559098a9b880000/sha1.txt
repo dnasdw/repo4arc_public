@@ -1,0 +1,7 @@
+v-jinshin.nfo	cd2f5ad3ade263ffd9f60336d0ec91983f1141ff
+v-jinshin.r00	0fcb6bca32eb0e009acfdb371e5676bcc09761c5
+v-jinshin.r01	690c8370c0478e585b74ed75d34b3d3e3cd19f88
+v-jinshin.r02	c9216abf3645f68651d746fdbaee4fee109077ad
+v-jinshin.r03	b8999e3101efe4b616c1507bcf1374cee4132fb4
+v-jinshin.rar	9379d188cf779eb2f667f6cb4632197da45731b5
+v-jinshin.sfv	10ce85708764fe55b7b54b5b428b0eef6f6af866

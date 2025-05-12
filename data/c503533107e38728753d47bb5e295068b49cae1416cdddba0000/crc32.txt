@@ -1,0 +1,7 @@
+sxs-skies_of_fury_dx_v131072.nfo	99a760bc
+sxs-skies_of_fury_dx_v131072.r00	5993e213
+sxs-skies_of_fury_dx_v131072.r01	5935595b
+sxs-skies_of_fury_dx_v131072.r02	6e3ba07d
+sxs-skies_of_fury_dx_v131072.r03	c174f147
+sxs-skies_of_fury_dx_v131072.rar	cbd2600e
+sxs-skies_of_fury_dx_v131072.sfv	a2717ace

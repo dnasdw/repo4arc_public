@@ -1,0 +1,9 @@
+v-dragon_quest_ii_luminaries_of_the_legendary_line.nfo	-	5902	1	0	0	0
+v-dragon_quest_ii_luminaries_of_the_legendary_line.r00	-	50000000	1	5902	0	1
+v-dragon_quest_ii_luminaries_of_the_legendary_line.r01	-	50000000	1	50005902	0	49
+v-dragon_quest_ii_luminaries_of_the_legendary_line.r02	-	50000000	1	100005902	0	97
+v-dragon_quest_ii_luminaries_of_the_legendary_line.r03	-	50000000	1	150005902	0	145
+v-dragon_quest_ii_luminaries_of_the_legendary_line.r04	-	50000000	1	200005902	0	193
+v-dragon_quest_ii_luminaries_of_the_legendary_line.r05	-	4073816	1	250005902	0	241
+v-dragon_quest_ii_luminaries_of_the_legendary_line.rar	-	50000000	1	254079718	0	245
+v-dragon_quest_ii_luminaries_of_the_legendary_line.sfv	-	455	1	304079718	0	293

@@ -1,0 +1,15 @@
+sxs-ascendance.nfo	374133d1f579171992257da30ca055a0
+sxs-ascendance.r00	9eb9d14693a2197645a4f399a8b74044
+sxs-ascendance.r01	4a1a09b706263be1d391d27780f00028
+sxs-ascendance.r02	f09cbf58514a8d9d31cd41e390bfa0f7
+sxs-ascendance.r03	9b09cbaab44ae91ae738a7d106be2cbf
+sxs-ascendance.r04	33cf61bcc1415a5a26a0cfd422126bf8
+sxs-ascendance.r05	a2c4b3c885c216bc0951d74bb62f5d71
+sxs-ascendance.r06	d14ac32282f150e1bf7ce6de491b3144
+sxs-ascendance.r07	112a69f88293fe495a05f71c1d23c4e4
+sxs-ascendance.r08	d2d1bfcc59e838734a00a716fddc18dd
+sxs-ascendance.r09	b5887d1786b2c702a2d550e231eaa528
+sxs-ascendance.r10	cbbbed2cac77585c57317286a98d9b76
+sxs-ascendance.r11	0878d77fbb2fe7b60250c7c4071e17d1
+sxs-ascendance.rar	7d2b0d66ea38868af2913226735a72bb
+sxs-ascendance.sfv	e5aeedece024359ca9ccb8bc3449bac7

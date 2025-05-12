@@ -1,0 +1,16 @@
+sxs-legendary_heroes.nfo	-	5042	1	0	0	0
+sxs-legendary_heroes.r00	-	50000000	1	5042	0	1
+sxs-legendary_heroes.r01	-	50000000	1	50005042	0	49
+sxs-legendary_heroes.r02	-	50000000	1	100005042	0	97
+sxs-legendary_heroes.r03	-	50000000	1	150005042	0	145
+sxs-legendary_heroes.r04	-	50000000	1	200005042	0	193
+sxs-legendary_heroes.r05	-	50000000	1	250005042	0	241
+sxs-legendary_heroes.r06	-	50000000	1	300005042	0	289
+sxs-legendary_heroes.r07	-	50000000	1	350005042	0	337
+sxs-legendary_heroes.r08	-	50000000	1	400005042	0	385
+sxs-legendary_heroes.r09	-	50000000	1	450005042	0	433
+sxs-legendary_heroes.r10	-	50000000	1	500005042	0	481
+sxs-legendary_heroes.r11	-	50000000	1	12251264	1	12
+sxs-legendary_heroes.r12	-	34077757	1	62251264	1	60
+sxs-legendary_heroes.rar	-	50000000	1	96329021	1	93
+sxs-legendary_heroes.sfv	-	490	1	146329021	1	141

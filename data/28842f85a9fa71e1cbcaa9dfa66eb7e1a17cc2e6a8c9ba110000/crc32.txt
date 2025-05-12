@@ -1,0 +1,10 @@
+sxs-pokemon_violet_v196608.nfo	e097398d
+sxs-pokemon_violet_v196608.r00	cd8904ed
+sxs-pokemon_violet_v196608.r01	fa2e90d2
+sxs-pokemon_violet_v196608.r02	42be7833
+sxs-pokemon_violet_v196608.r03	ae1cf83a
+sxs-pokemon_violet_v196608.r04	c9c7b8b5
+sxs-pokemon_violet_v196608.r05	dbc282e1
+sxs-pokemon_violet_v196608.r06	f4c3f29f
+sxs-pokemon_violet_v196608.rar	6431af6d
+sxs-pokemon_violet_v196608.sfv	8dc2fedd

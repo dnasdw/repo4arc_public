@@ -1,0 +1,7 @@
+brw-rira.nfo	86f34b43be3f4d316b29972fe80fbff7
+brw-rira.r00	56d8339e0213b9a875f04797f26cc309
+brw-rira.r01	37d61f5e4ee06575c3060baee3f70d11
+brw-rira.r02	778f207bc2d1c1ee31d7195e8f88c26e
+brw-rira.r03	0c36acc223d473ff47fac52014b40f7b
+brw-rira.rar	86994e0bbc7450c416f3b86f0c1db972
+brw-rira.sfv	dbab77c0b2e2039ffa7f6ce1ac3ccd91

@@ -1,0 +1,6 @@
+v-roots_of_pacha_v262144.nfo	-	6214	1	0	0	0
+v-roots_of_pacha_v262144.r00	-	100000000	1	6214	0	1
+v-roots_of_pacha_v262144.r01	-	100000000	1	100006214	0	97
+v-roots_of_pacha_v262144.r02	-	28819057	1	200006214	0	193
+v-roots_of_pacha_v262144.rar	-	100000000	1	228825271	0	221
+v-roots_of_pacha_v262144.sfv	-	156	1	328825271	0	317

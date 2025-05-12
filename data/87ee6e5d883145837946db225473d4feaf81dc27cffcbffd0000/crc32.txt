@@ -1,0 +1,10 @@
+lfc-mela_v327680.nfo	4f70745a
+lfc-mela_v327680.r00	60e126f0
+lfc-mela_v327680.r01	38f23eb2
+lfc-mela_v327680.r02	24b811dd
+lfc-mela_v327680.r03	94685976
+lfc-mela_v327680.r04	10368cde
+lfc-mela_v327680.r05	3b03068b
+lfc-mela_v327680.r06	ae2cab72
+lfc-mela_v327680.rar	0e96db7b
+lfc-mela_v327680.sfv	96551634

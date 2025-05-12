@@ -1,0 +1,4 @@
+lfc-aase.nfo	-	5689	1	0	0	0
+lfc-aase.r00	-	6173819	1	5689	0	1
+lfc-aase.rar	-	50000000	1	6179508	0	7
+lfc-aase.sfv	-	46	1	56179508	0	55

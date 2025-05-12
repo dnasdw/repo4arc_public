@@ -1,0 +1,13 @@
+i-dragodino_v65536.nfo	91edb0b7
+i-dragodino_v65536.r00	b287c5ab
+i-dragodino_v65536.r01	c95c14b7
+i-dragodino_v65536.r02	7bee156e
+i-dragodino_v65536.r03	9f807a7b
+i-dragodino_v65536.r04	0c3140be
+i-dragodino_v65536.r05	c4fcb33d
+i-dragodino_v65536.r06	7e50ec32
+i-dragodino_v65536.r07	a7a3c5f6
+i-dragodino_v65536.r08	8bdb2744
+i-dragodino_v65536.r09	ffdebabf
+i-dragodino_v65536.rar	f68094ba
+i-dragodino_v65536.sfv	e5894822

@@ -1,0 +1,9 @@
+jrp-n-mdd.nfo	58ad5f3a9ed05649c2a698110793add1
+jrp-n-mdd.r00	2af4b74e54168fdbafa5015ed637cdc1
+jrp-n-mdd.r01	9cd75982c8434490ba40fa5137aa254a
+jrp-n-mdd.r02	417a7b2ed63a1cc32bd05c778ada5f6b
+jrp-n-mdd.r03	4ef0cbabe6e5b7193e3bd20e7a84cf47
+jrp-n-mdd.r04	ab7034dc70019abf322acb0a5e3e2531
+jrp-n-mdd.r05	5cc8b4643c95d80615b6528b7561f2ca
+jrp-n-mdd.rar	d51937199151c2ce8239293c10bf16ee
+jrp-n-mdd.sfv	da3bb7c8e8746b4e27f83c0bb569930e

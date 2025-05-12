@@ -1,0 +1,6 @@
+v-neogeo_pocket_color_selection_vol1_v196608.nfo	-	6838	1	0	0	0
+v-neogeo_pocket_color_selection_vol1_v196608.r00	-	50000000	1	6838	0	1
+v-neogeo_pocket_color_selection_vol1_v196608.r01	-	50000000	1	50006838	0	49
+v-neogeo_pocket_color_selection_vol1_v196608.r02	-	1581905	1	100006838	0	97
+v-neogeo_pocket_color_selection_vol1_v196608.rar	-	50000000	1	101588743	0	99
+v-neogeo_pocket_color_selection_vol1_v196608.sfv	-	236	1	151588743	0	147

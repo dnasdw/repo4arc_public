@@ -1,0 +1,13 @@
+sxs-rez_plz_v65536.nfo	c1e9884d
+sxs-rez_plz_v65536.r00	cbb66aab
+sxs-rez_plz_v65536.r01	97efa4e9
+sxs-rez_plz_v65536.r02	7d19a307
+sxs-rez_plz_v65536.r03	5b8d0ac0
+sxs-rez_plz_v65536.r04	3538ee78
+sxs-rez_plz_v65536.r05	fa228cb6
+sxs-rez_plz_v65536.r06	20be9fa3
+sxs-rez_plz_v65536.r07	230212c1
+sxs-rez_plz_v65536.r08	3a372116
+sxs-rez_plz_v65536.r09	48f55893
+sxs-rez_plz_v65536.rar	d88b6026
+sxs-rez_plz_v65536.sfv	daf3cce6

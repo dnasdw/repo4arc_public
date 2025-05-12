@@ -1,0 +1,7 @@
+brw-hidb.nfo	2ac34a1249bc4e3b829d7aa806fbd1cd579fef23
+brw-hidb.r00	165bcbff80ac1fabd6cf05c1afc18b0ee0cf5532
+brw-hidb.r01	96b82350b1cc21b7d9cddb315972693da2b59f58
+brw-hidb.r02	4d5c9907bf8b8d69c2120b5d30bc5059896f69be
+brw-hidb.r03	d70d874ef8a7475727d1de08ca62d2bd20b9a83d
+brw-hidb.rar	883f77aae8bc252bba0f26124cfc5a6ccf8301ca
+brw-hidb.sfv	d63c3843d0da3403de6a70e5984fd0ac9c014b06

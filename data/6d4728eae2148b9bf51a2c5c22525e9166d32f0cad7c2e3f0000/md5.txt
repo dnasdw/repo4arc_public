@@ -1,0 +1,7 @@
+sxs-neverawake_v131072.nfo	95dbc46c58b82c5402e5db19f793158f
+sxs-neverawake_v131072.r00	29bb1f08bde4bc6b8e4c5caa2b13b6f3
+sxs-neverawake_v131072.r01	69e0acf16f921f37eb256617d9e063b8
+sxs-neverawake_v131072.r02	e5da19bf3785b86b338790f380c74338
+sxs-neverawake_v131072.r03	9e9cb5aa159f70b506c2d267169edffa
+sxs-neverawake_v131072.rar	8dd8533c69a3972b0aa2948686521f5e
+sxs-neverawake_v131072.sfv	f3d053915ee86b5fb30c2edc6dc3a754

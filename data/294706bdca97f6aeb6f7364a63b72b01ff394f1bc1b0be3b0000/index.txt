@@ -1,0 +1,7 @@
+sxs-last_4_alive_escape_from_zombies_v65536.nfo	-	7928	1	0	0	0
+sxs-last_4_alive_escape_from_zombies_v65536.r00	-	50000000	1	7928	0	1
+sxs-last_4_alive_escape_from_zombies_v65536.r01	-	50000000	1	50007928	0	49
+sxs-last_4_alive_escape_from_zombies_v65536.r02	-	50000000	1	100007928	0	97
+sxs-last_4_alive_escape_from_zombies_v65536.r03	-	21583861	1	150007928	0	145
+sxs-last_4_alive_escape_from_zombies_v65536.rar	-	50000000	1	171591789	0	166
+sxs-last_4_alive_escape_from_zombies_v65536.sfv	-	290	1	221591789	0	214

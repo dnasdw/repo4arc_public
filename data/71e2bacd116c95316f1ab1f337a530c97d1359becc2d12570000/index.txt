@@ -1,0 +1,8 @@
+sxs-rivals_of_aether_v589824.nfo	-	5588	1	0	0	0
+sxs-rivals_of_aether_v589824.r00	-	50000000	1	5588	0	1
+sxs-rivals_of_aether_v589824.r01	-	50000000	1	50005588	0	49
+sxs-rivals_of_aether_v589824.r02	-	50000000	1	100005588	0	97
+sxs-rivals_of_aether_v589824.r03	-	50000000	1	150005588	0	145
+sxs-rivals_of_aether_v589824.r04	-	39011615	1	200005588	0	193
+sxs-rivals_of_aether_v589824.rar	-	50000000	1	239017203	0	231
+sxs-rivals_of_aether_v589824.sfv	-	258	1	289017203	0	279

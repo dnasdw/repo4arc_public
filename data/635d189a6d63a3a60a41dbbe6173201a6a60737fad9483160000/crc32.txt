@@ -1,0 +1,14 @@
+v-blanc.nfo	9e54a75f
+v-blanc.r00	2017148d
+v-blanc.r01	83ac4759
+v-blanc.r02	438e91c4
+v-blanc.r03	487ddd0e
+v-blanc.r04	0aa6586c
+v-blanc.r05	b8198006
+v-blanc.r06	6827a7a0
+v-blanc.r07	7eaff98d
+v-blanc.r08	445d2684
+v-blanc.r09	062400d1
+v-blanc.r10	f2e12b62
+v-blanc.rar	104147b6
+v-blanc.sfv	5715c886

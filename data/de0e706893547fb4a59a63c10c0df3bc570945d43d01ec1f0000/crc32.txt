@@ -1,0 +1,10 @@
+v-ovivo.nfo	207dee67
+v-ovivo.r00	84467ed0
+v-ovivo.r01	627540d5
+v-ovivo.r02	ee465291
+v-ovivo.r03	83d5335c
+v-ovivo.r04	6f83e9d4
+v-ovivo.r05	920eca8b
+v-ovivo.r06	73bce902
+v-ovivo.rar	7c74d3db
+v-ovivo.sfv	2b8afa20

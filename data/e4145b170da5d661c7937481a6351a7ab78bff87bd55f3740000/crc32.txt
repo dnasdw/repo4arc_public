@@ -1,0 +1,16 @@
+v-lacuna_v196608.nfo	1dbdc7cd
+v-lacuna_v196608.r00	35914dc7
+v-lacuna_v196608.r01	5b00e1c6
+v-lacuna_v196608.r02	f0bfa264
+v-lacuna_v196608.r03	d32bffad
+v-lacuna_v196608.r04	75bfdd63
+v-lacuna_v196608.r05	9cfec0ac
+v-lacuna_v196608.r06	38d4717e
+v-lacuna_v196608.r07	903ac4ac
+v-lacuna_v196608.r08	47054dd8
+v-lacuna_v196608.r09	fa9393ea
+v-lacuna_v196608.r10	521360b4
+v-lacuna_v196608.r11	6fa27ef9
+v-lacuna_v196608.r12	91c5a6e8
+v-lacuna_v196608.rar	12ecde3e
+v-lacuna_v196608.sfv	4820975a

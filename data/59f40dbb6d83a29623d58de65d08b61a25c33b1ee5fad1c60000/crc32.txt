@@ -1,0 +1,15 @@
+sxs-hazel_sky_v393216.nfo	a5ebe72f
+sxs-hazel_sky_v393216.r00	68821ce4
+sxs-hazel_sky_v393216.r01	26223458
+sxs-hazel_sky_v393216.r02	915e4fc2
+sxs-hazel_sky_v393216.r03	85f348ed
+sxs-hazel_sky_v393216.r04	de739b8c
+sxs-hazel_sky_v393216.r05	3f2523a2
+sxs-hazel_sky_v393216.r06	367a119b
+sxs-hazel_sky_v393216.r07	0237cf65
+sxs-hazel_sky_v393216.r08	90cddcd8
+sxs-hazel_sky_v393216.r09	c1c97bbe
+sxs-hazel_sky_v393216.r10	792d597e
+sxs-hazel_sky_v393216.r11	e7cd258b
+sxs-hazel_sky_v393216.rar	424578c2
+sxs-hazel_sky_v393216.sfv	e60aa086

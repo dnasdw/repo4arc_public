@@ -1,0 +1,4 @@
+v-pokemon_legends_arceus_v65536.nfo	-	6545	1	0	0	0
+v-pokemon_legends_arceus_v65536.r00	-	459654	1	6545	0	1
+v-pokemon_legends_arceus_v65536.rar	-	50000000	1	466199	0	2
+v-pokemon_legends_arceus_v65536.sfv	-	92	1	50466199	0	50

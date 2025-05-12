@@ -1,0 +1,8 @@
+sxs-mini_motorways_v262144.nfo	ed1f7bba
+sxs-mini_motorways_v262144.r00	50002ea3
+sxs-mini_motorways_v262144.r01	f6c8fd39
+sxs-mini_motorways_v262144.r02	c309afa1
+sxs-mini_motorways_v262144.r03	a9abb15b
+sxs-mini_motorways_v262144.r04	4e36cf55
+sxs-mini_motorways_v262144.rar	606a645c
+sxs-mini_motorways_v262144.sfv	df6ecdf8

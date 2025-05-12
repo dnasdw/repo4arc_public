@@ -1,0 +1,14 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-there_is_no_game_wrong_dimension.jpg	-	173881	1	0	0	0
+sxs-there_is_no_game_wrong_dimension.nfo	-	6134	1	173881	0	1
+sxs-there_is_no_game_wrong_dimension.r00	-	100000000	1	180015	0	2
+sxs-there_is_no_game_wrong_dimension.r01	-	100000000	1	100180015	0	98
+sxs-there_is_no_game_wrong_dimension.r02	-	100000000	1	200180015	0	194
+sxs-there_is_no_game_wrong_dimension.r03	-	100000000	1	300180015	0	290
+sxs-there_is_no_game_wrong_dimension.r04	-	100000000	1	400180015	0	386
+sxs-there_is_no_game_wrong_dimension.r05	-	100000000	1	500180015	0	482
+sxs-there_is_no_game_wrong_dimension.r06	-	100000000	1	63299840	1	61
+sxs-there_is_no_game_wrong_dimension.r07	-	100000000	1	163299840	1	157
+sxs-there_is_no_game_wrong_dimension.r08	-	66880423	1	263299840	1	253
+sxs-there_is_no_game_wrong_dimension.rar	-	100000000	1	330180263	1	317
+sxs-there_is_no_game_wrong_dimension.sfv	-	510	1	430180263	1	413

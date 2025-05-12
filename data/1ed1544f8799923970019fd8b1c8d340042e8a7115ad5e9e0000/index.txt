@@ -1,0 +1,14 @@
+lfc-theincadvofsuperpandarepack.nfo	-	4242	1	0	0	0
+lfc-theincadvofsuperpandarepack.r00	-	50000000	1	4242	0	1
+lfc-theincadvofsuperpandarepack.r01	-	50000000	1	50004242	0	49
+lfc-theincadvofsuperpandarepack.r02	-	50000000	1	100004242	0	97
+lfc-theincadvofsuperpandarepack.r03	-	50000000	1	150004242	0	145
+lfc-theincadvofsuperpandarepack.r04	-	50000000	1	200004242	0	193
+lfc-theincadvofsuperpandarepack.r05	-	50000000	1	250004242	0	241
+lfc-theincadvofsuperpandarepack.r06	-	50000000	1	300004242	0	289
+lfc-theincadvofsuperpandarepack.r07	-	50000000	1	350004242	0	337
+lfc-theincadvofsuperpandarepack.r08	-	50000000	1	400004242	0	385
+lfc-theincadvofsuperpandarepack.r09	-	50000000	1	450004242	0	433
+lfc-theincadvofsuperpandarepack.r10	-	13217474	1	500004242	0	481
+lfc-theincadvofsuperpandarepack.rar	-	50000000	1	513221716	0	494
+lfc-theincadvofsuperpandarepack.sfv	-	552	1	25882752	1	25

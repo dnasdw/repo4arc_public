@@ -1,0 +1,14 @@
+sxs-voez_v524288.nfo	48996a3f
+sxs-voez_v524288.r00	6bde3dd0
+sxs-voez_v524288.r01	85ab6639
+sxs-voez_v524288.r02	8be5dabf
+sxs-voez_v524288.r03	3850b005
+sxs-voez_v524288.r04	2a50147d
+sxs-voez_v524288.r05	25864d29
+sxs-voez_v524288.r06	247dbede
+sxs-voez_v524288.r07	113ab581
+sxs-voez_v524288.r08	419eb839
+sxs-voez_v524288.r09	c165b2a8
+sxs-voez_v524288.r10	78c240ee
+sxs-voez_v524288.rar	b9fa076c
+sxs-voez_v524288.sfv	6863bb7f

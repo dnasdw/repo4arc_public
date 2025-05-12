@@ -1,0 +1,7 @@
+sxs-a_matter_of_principle.nfo	f1f735b3
+sxs-a_matter_of_principle.r00	f8da8773
+sxs-a_matter_of_principle.r01	7d3bea08
+sxs-a_matter_of_principle.r02	c0f4bcd4
+sxs-a_matter_of_principle.r03	ab2037ec
+sxs-a_matter_of_principle.rar	4d14b372
+sxs-a_matter_of_principle.sfv	0485e8ea

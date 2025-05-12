@@ -1,0 +1,15 @@
+sxs-fist_forged_in_shadow_torch_v262144.nfo	-	7070	1	0	0	0
+sxs-fist_forged_in_shadow_torch_v262144.r00	-	100000000	1	7070	0	1
+sxs-fist_forged_in_shadow_torch_v262144.r01	-	100000000	1	100007070	0	97
+sxs-fist_forged_in_shadow_torch_v262144.r02	-	100000000	1	200007070	0	193
+sxs-fist_forged_in_shadow_torch_v262144.r03	-	100000000	1	300007070	0	289
+sxs-fist_forged_in_shadow_torch_v262144.r04	-	100000000	1	400007070	0	385
+sxs-fist_forged_in_shadow_torch_v262144.r05	-	100000000	1	500007070	0	481
+sxs-fist_forged_in_shadow_torch_v262144.r06	-	100000000	1	62251264	1	60
+sxs-fist_forged_in_shadow_torch_v262144.r07	-	100000000	1	162251264	1	156
+sxs-fist_forged_in_shadow_torch_v262144.r08	-	100000000	1	262251264	1	252
+sxs-fist_forged_in_shadow_torch_v262144.r09	-	100000000	1	362251264	1	348
+sxs-fist_forged_in_shadow_torch_v262144.r10	-	100000000	1	462251264	1	444
+sxs-fist_forged_in_shadow_torch_v262144.r11	-	57099688	1	24502528	2	24
+sxs-fist_forged_in_shadow_torch_v262144.rar	-	100000000	1	81602216	2	79
+sxs-fist_forged_in_shadow_torch_v262144.sfv	-	702	1	181602216	2	175

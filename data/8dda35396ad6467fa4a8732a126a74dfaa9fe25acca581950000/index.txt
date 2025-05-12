@@ -1,0 +1,4 @@
+sxs-football_simulator_2024.nfo	-	5900	1	0	0	0
+sxs-football_simulator_2024.r00	-	43591587	1	5900	0	1
+sxs-football_simulator_2024.rar	-	100000000	1	43597487	0	43
+sxs-football_simulator_2024.sfv	-	84	1	143597487	0	139

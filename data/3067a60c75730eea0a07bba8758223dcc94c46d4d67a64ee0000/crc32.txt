@@ -1,0 +1,8 @@
+lfc-suze_v65536.nfo	5f30e346
+lfc-suze_v65536.r00	7ba17b81
+lfc-suze_v65536.r01	399a14e3
+lfc-suze_v65536.r02	6c55ec4c
+lfc-suze_v65536.r03	014498e8
+lfc-suze_v65536.r04	95189997
+lfc-suze_v65536.rar	e6e09a24
+lfc-suze_v65536.sfv	f161e055

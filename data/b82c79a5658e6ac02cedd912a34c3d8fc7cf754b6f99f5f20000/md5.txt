@@ -1,0 +1,5 @@
+sxs-flying_hero_x_v65536.nfo	f6574e85fc3a22eba1a2ff44224c0f40
+sxs-flying_hero_x_v65536.r00	f155cbeaca95449c06ae2c2184e18b4d
+sxs-flying_hero_x_v65536.r01	6173f06448ceabeea2ff09857b1cfcd4
+sxs-flying_hero_x_v65536.rar	c1d7749b6740133cfcb5abec4ad98895
+sxs-flying_hero_x_v65536.sfv	9814ae49a78aaceb45a496f0cef7cc82

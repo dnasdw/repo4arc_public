@@ -1,0 +1,11 @@
+l-ploidsaga_v131072_repack.nfo	cede2442
+l-ploidsaga_v131072_repack.r00	dde60c68
+l-ploidsaga_v131072_repack.r01	c61c36f0
+l-ploidsaga_v131072_repack.r02	cc1c7eb4
+l-ploidsaga_v131072_repack.r03	4a7920da
+l-ploidsaga_v131072_repack.r04	ae6ea56f
+l-ploidsaga_v131072_repack.r05	2e86be67
+l-ploidsaga_v131072_repack.r06	614dd69c
+l-ploidsaga_v131072_repack.r07	958a1cac
+l-ploidsaga_v131072_repack.rar	e80bab1a
+l-ploidsaga_v131072_repack.sfv	aace0519

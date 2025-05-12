@@ -1,0 +1,4 @@
+sxs-need_a_packet_v131072.nfo	286d52e2aed016213db82dd09d1ec51644f19c72
+sxs-need_a_packet_v131072.r00	48463c4faecd2c870c2b4abf908e51d68c8ac950
+sxs-need_a_packet_v131072.rar	1aa4d6f2f69bd4c8f9c44b8cd045d7e47cb9581e
+sxs-need_a_packet_v131072.sfv	ef55a25dc6512c0c34641a1648ccb9dae7f0936f

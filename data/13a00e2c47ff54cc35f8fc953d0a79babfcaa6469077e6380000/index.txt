@@ -1,0 +1,16 @@
+v-ultimate_racing_2d.nfo	-	6136	1	0	0	0
+v-ultimate_racing_2d.r00	-	50000000	1	6136	0	1
+v-ultimate_racing_2d.r01	-	50000000	1	50006136	0	49
+v-ultimate_racing_2d.r02	-	50000000	1	100006136	0	97
+v-ultimate_racing_2d.r03	-	50000000	1	150006136	0	145
+v-ultimate_racing_2d.r04	-	50000000	1	200006136	0	193
+v-ultimate_racing_2d.r05	-	50000000	1	250006136	0	241
+v-ultimate_racing_2d.r06	-	50000000	1	300006136	0	289
+v-ultimate_racing_2d.r07	-	50000000	1	350006136	0	337
+v-ultimate_racing_2d.r08	-	50000000	1	400006136	0	385
+v-ultimate_racing_2d.r09	-	50000000	1	450006136	0	433
+v-ultimate_racing_2d.r10	-	50000000	1	500006136	0	481
+v-ultimate_racing_2d.r11	-	50000000	1	12251264	1	12
+v-ultimate_racing_2d.r12	-	47901276	1	62251264	1	60
+v-ultimate_racing_2d.rar	-	50000000	1	110152540	1	106
+v-ultimate_racing_2d.sfv	-	490	1	160152540	1	154

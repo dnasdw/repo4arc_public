@@ -1,0 +1,14 @@
+v-three_minutes_to_eight.nfo	-	5902	1	0	0	0
+v-three_minutes_to_eight.r00	-	100000000	1	5902	0	1
+v-three_minutes_to_eight.r01	-	100000000	1	100005902	0	97
+v-three_minutes_to_eight.r02	-	100000000	1	200005902	0	193
+v-three_minutes_to_eight.r03	-	100000000	1	300005902	0	289
+v-three_minutes_to_eight.r04	-	100000000	1	400005902	0	385
+v-three_minutes_to_eight.r05	-	100000000	1	500005902	0	481
+v-three_minutes_to_eight.r06	-	100000000	1	62251264	1	60
+v-three_minutes_to_eight.r07	-	100000000	1	162251264	1	156
+v-three_minutes_to_eight.r08	-	100000000	1	262251264	1	252
+v-three_minutes_to_eight.r09	-	100000000	1	362251264	1	348
+v-three_minutes_to_eight.r10	-	19224821	1	462251264	1	444
+v-three_minutes_to_eight.rar	-	100000000	1	481476085	1	463
+v-three_minutes_to_eight.sfv	-	468	1	44425472	2	43

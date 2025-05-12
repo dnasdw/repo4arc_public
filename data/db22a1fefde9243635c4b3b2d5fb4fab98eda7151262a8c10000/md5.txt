@@ -1,0 +1,13 @@
+hr-tdsim.nfo	2fe543c72fe6bde9fac945f130b6acfb
+hr-tdsim.r00	a31919f386dd0f4ef8083cdfbaf8fbb9
+hr-tdsim.r01	adee291c36b8565c263394d70f18de6f
+hr-tdsim.r02	58ee929dad2981900dd690b73658a16a
+hr-tdsim.r03	876afd1616464615865ff7a796909c69
+hr-tdsim.r04	558d24801ed6b98087c1de8daf9db4ba
+hr-tdsim.r05	d4198f991fb8cf95f3ea24d5181fcf8e
+hr-tdsim.r06	32ab67ea9ba46fd311ad4294be6ee9a1
+hr-tdsim.r07	fb5a00b264e35c032e93690fead65cc1
+hr-tdsim.r08	32ffc288ad450cd549a8c67f626931d5
+hr-tdsim.r09	6de6740b2a00feb3c5586eeb6c91f053
+hr-tdsim.rar	3d7e7d1b475ff481475a8fef2422c0b8
+hr-tdsim.sfv	bd1ef803bd332243edb888dea2a3ce95

@@ -1,0 +1,4 @@
+sxs-queeny_army.nfo	b9f53b82b506a7f53bb1ba9f8d7a1753
+sxs-queeny_army.r00	9b97d1a34506ae1a2f1d3c4262b4a33b
+sxs-queeny_army.rar	ac3f88547a307c259d5d12156d2d5b72
+sxs-queeny_army.sfv	aebf12cf3bb82b57b46c5ab4a8d8d4fe

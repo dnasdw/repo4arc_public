@@ -1,0 +1,4 @@
+sxs-jack_jeanne_v131072.nfo	-	4184	1	0	0	0
+sxs-jack_jeanne_v131072.r00	-	10093444	1	4184	0	1
+sxs-jack_jeanne_v131072.rar	-	100000000	1	10097628	0	11
+sxs-jack_jeanne_v131072.sfv	-	76	1	110097628	0	107

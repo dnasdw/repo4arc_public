@@ -1,0 +1,6 @@
+jrp-contraptions.nfo	ccef489e
+jrp-contraptions.r00	9c780a44
+jrp-contraptions.r01	7fa12e91
+jrp-contraptions.r02	c17a65a9
+jrp-contraptions.rar	183f0537
+jrp-contraptions.sfv	9271eb71

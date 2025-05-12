@@ -1,0 +1,3 @@
+sxs-the_bunker_v65536.nfo	-	4262	1	0	0	0
+sxs-the_bunker_v65536.rar	-	22367568	1	4262	0	1
+sxs-the_bunker_v65536.sfv	-	36	1	22371830	0	23

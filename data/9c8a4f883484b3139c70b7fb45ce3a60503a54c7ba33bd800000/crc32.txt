@@ -1,0 +1,13 @@
+lfc-fawp.nfo	d31527f3
+lfc-fawp.r00	a43e576f
+lfc-fawp.r01	e9fd702b
+lfc-fawp.r02	acf51874
+lfc-fawp.r03	9b42b257
+lfc-fawp.r04	869e6b6d
+lfc-fawp.r05	20927716
+lfc-fawp.r06	4f4cf18d
+lfc-fawp.r07	014d9eca
+lfc-fawp.r08	b19c4f38
+lfc-fawp.r09	7a685ce0
+lfc-fawp.rar	3c710ab5
+lfc-fawp.sfv	2d442b78

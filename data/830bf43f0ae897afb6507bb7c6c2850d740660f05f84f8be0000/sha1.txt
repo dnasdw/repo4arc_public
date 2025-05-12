@@ -1,0 +1,11 @@
+v-good_job.nfo	b028c501ace5644258cb3119fee0daa8361b1b12
+v-good_job.r00	ff0cfa2d9bb19120c0a64211f2aaf7645d5d104f
+v-good_job.r01	95cf4977f7375eee6b3a879fc8e538035d1da227
+v-good_job.r02	bb1df6bf0eeea1c99d045153df25013f053cbbd7
+v-good_job.r03	9590b08379d2633cf3d1c01be42da5dc2cbb9f39
+v-good_job.r04	7bb90c1c0b6bbcc8220740c7886c656edffc4de5
+v-good_job.r05	e29c073169b2b41be1698033628e6a51a347bcf6
+v-good_job.r06	aa84efaa4468d76dd1e11d047e4a1fd5fa3758b1
+v-good_job.r07	eccdf933c3969ec3ad13d76d60220faa4ccab2fd
+v-good_job.rar	67c0812f8643e73a29f356b88f69d80bce4ecae4
+v-good_job.sfv	28913067cf539f1694d31bb858e80a770a0166ab

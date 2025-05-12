@@ -1,0 +1,5 @@
+sxs-sandstorm_strike_force.nfo	9b5aac42
+sxs-sandstorm_strike_force.r00	0181a3af
+sxs-sandstorm_strike_force.r01	3783d472
+sxs-sandstorm_strike_force.rar	d527cd00
+sxs-sandstorm_strike_force.sfv	40bd0c63

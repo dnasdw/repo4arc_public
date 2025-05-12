@@ -1,0 +1,15 @@
+sxs-farm_mystery.nfo	dfad55aa
+sxs-farm_mystery.r00	42578096
+sxs-farm_mystery.r01	10d8f91b
+sxs-farm_mystery.r02	4270d73f
+sxs-farm_mystery.r03	5dff68e2
+sxs-farm_mystery.r04	ee9c8120
+sxs-farm_mystery.r05	a8c5c5b7
+sxs-farm_mystery.r06	c14b6408
+sxs-farm_mystery.r07	db10c60d
+sxs-farm_mystery.r08	b6a15868
+sxs-farm_mystery.r09	1ce3edf0
+sxs-farm_mystery.r10	b0af541d
+sxs-farm_mystery.r11	a43d773f
+sxs-farm_mystery.rar	d10331c2
+sxs-farm_mystery.sfv	a7f772c3

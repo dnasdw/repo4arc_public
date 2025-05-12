@@ -1,0 +1,5 @@
+v-aerof2.nfo	0b42547b7bc2a3a64a577493ba9163a1
+v-aerof2.r00	d4ac9b75bf8e337ff42de252a654ee16
+v-aerof2.r01	83af5d77d279bcea7c696c41b4f5839b
+v-aerof2.rar	3f838c789157ff1d55cf1f2ae17dcf9c
+v-aerof2.sfv	678cc2e6b1fdef86533361bea4329811

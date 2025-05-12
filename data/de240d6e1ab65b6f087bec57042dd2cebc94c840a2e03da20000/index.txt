@@ -1,0 +1,3 @@
+v-oppw4_yamatos_grand_tour_logbook_and_soul_map_1_dlc.nfo	-	5122	1	0	0	0
+v-oppw4_yamatos_grand_tour_logbook_and_soul_map_1_dlc.rar	-	104132	1	5122	0	1
+v-oppw4_yamatos_grand_tour_logbook_and_soul_map_1_dlc.sfv	-	68	1	109254	0	2

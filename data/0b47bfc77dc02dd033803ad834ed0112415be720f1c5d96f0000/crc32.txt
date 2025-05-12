@@ -1,0 +1,10 @@
+jrp-d2.nfo	baa1dfc1
+jrp-d2.r00	b490607f
+jrp-d2.r01	0c9e1a63
+jrp-d2.r02	6345b038
+jrp-d2.r03	f397ab7a
+jrp-d2.r04	159551f9
+jrp-d2.r05	fac69335
+jrp-d2.r06	6493148c
+jrp-d2.rar	7053d547
+jrp-d2.sfv	bd93811b

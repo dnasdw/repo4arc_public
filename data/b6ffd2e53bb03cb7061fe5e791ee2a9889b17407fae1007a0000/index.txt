@@ -1,0 +1,7 @@
+sxs-emergency_driver_simulator.nfo	-	8240	1	0	0	0
+sxs-emergency_driver_simulator.r00	-	100000000	1	8240	0	1
+sxs-emergency_driver_simulator.r01	-	100000000	1	100008240	0	97
+sxs-emergency_driver_simulator.r02	-	100000000	1	200008240	0	193
+sxs-emergency_driver_simulator.r03	-	99791846	1	300008240	0	289
+sxs-emergency_driver_simulator.rar	-	100000000	1	399800086	0	385
+sxs-emergency_driver_simulator.sfv	-	225	1	499800086	0	481

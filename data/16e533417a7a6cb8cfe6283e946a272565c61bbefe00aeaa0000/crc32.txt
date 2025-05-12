@@ -1,0 +1,14 @@
+hr-av9pav65536.nfo	ab8fc73e
+hr-av9pav65536.r00	8705e740
+hr-av9pav65536.r01	85811ffb
+hr-av9pav65536.r02	57f4d3e3
+hr-av9pav65536.r03	4bb3d4eb
+hr-av9pav65536.r04	6482925a
+hr-av9pav65536.r05	06f4e486
+hr-av9pav65536.r06	1c8bbee2
+hr-av9pav65536.r07	72dc0bbf
+hr-av9pav65536.r08	30a06ddc
+hr-av9pav65536.r09	95f4f15b
+hr-av9pav65536.r10	16f6eae0
+hr-av9pav65536.rar	6e8fa101
+hr-av9pav65536.sfv	e5f7774b

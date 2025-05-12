@@ -1,0 +1,14 @@
+lfc-ayw8a.nfo	3c90dc57
+lfc-ayw8a.r00	694611ab
+lfc-ayw8a.r01	3607872c
+lfc-ayw8a.r02	6ee9d931
+lfc-ayw8a.r03	99c100de
+lfc-ayw8a.r04	7126dfd4
+lfc-ayw8a.r05	c8cdc7aa
+lfc-ayw8a.r06	313dae72
+lfc-ayw8a.r07	72178eea
+lfc-ayw8a.r08	ba46fb5a
+lfc-ayw8a.rar	df960a52
+lfc-ayw8a.sfv	cbb937a7
+Proof	00000000
+Proof/lfc-ayw8a.jpg	032725cf

@@ -1,0 +1,14 @@
+sxs-odium_to_the_core.nfo	-	5823	1	0	0	0
+sxs-odium_to_the_core.r00	-	50000000	1	5823	0	1
+sxs-odium_to_the_core.r01	-	50000000	1	50005823	0	49
+sxs-odium_to_the_core.r02	-	50000000	1	100005823	0	97
+sxs-odium_to_the_core.r03	-	50000000	1	150005823	0	145
+sxs-odium_to_the_core.r04	-	50000000	1	200005823	0	193
+sxs-odium_to_the_core.r05	-	50000000	1	250005823	0	241
+sxs-odium_to_the_core.r06	-	50000000	1	300005823	0	289
+sxs-odium_to_the_core.r07	-	50000000	1	350005823	0	337
+sxs-odium_to_the_core.r08	-	50000000	1	400005823	0	385
+sxs-odium_to_the_core.r09	-	50000000	1	450005823	0	433
+sxs-odium_to_the_core.r10	-	48557932	1	500005823	0	481
+sxs-odium_to_the_core.rar	-	50000000	1	10809196	1	11
+sxs-odium_to_the_core.sfv	-	432	1	60809196	1	59

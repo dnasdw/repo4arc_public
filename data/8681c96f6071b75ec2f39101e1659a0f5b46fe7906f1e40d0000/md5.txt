@@ -1,0 +1,10 @@
+sxs-explosive_jake.nfo	e3f8e83f37789a75f67e4e230e7ff95a
+sxs-explosive_jake.r00	26a2a654c2a0349f668bc89adb67cb88
+sxs-explosive_jake.r01	f7c3a694daa7b1ea4a11e279709b9347
+sxs-explosive_jake.r02	57f2dc80bc4ac51d6fce2f809631d99a
+sxs-explosive_jake.r03	065e7b65016920c355abcac73589750a
+sxs-explosive_jake.r04	50dc6bc9d280955b512b8bec648d14b9
+sxs-explosive_jake.r05	085f2c86ab3c88955cd49c893d156fa1
+sxs-explosive_jake.r06	dec400fe7fd5dd316758a789bf13a1af
+sxs-explosive_jake.rar	eafe9619f2fd5d09d60c88c1828c2a2e
+sxs-explosive_jake.sfv	6986de3045da5afb9e36e748273ac617

@@ -1,0 +1,4 @@
+v-wife_quest_v65536.nfo	bba57a9e60bae2ad3a7faaa091dc0e57
+v-wife_quest_v65536.r00	bd12f75e2efd518a561807f2581e6659
+v-wife_quest_v65536.rar	25c26b0788e0e14469606064b5267aee
+v-wife_quest_v65536.sfv	17bc42281348ed5cee2971def7ab148c

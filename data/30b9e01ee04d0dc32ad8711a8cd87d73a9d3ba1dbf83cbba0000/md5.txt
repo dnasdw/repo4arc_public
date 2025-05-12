@@ -1,0 +1,5 @@
+sxs-super_rebellion_v65536.nfo	0b8d71aeee349c4ea0e77561f4ef5084
+sxs-super_rebellion_v65536.r00	463fbd5ba77526fe63cd6f164c0ee82a
+sxs-super_rebellion_v65536.r01	ee35bb5b15172795e8f4b71a76fbb8d3
+sxs-super_rebellion_v65536.rar	2e5ac9c19aab56c184c3ea7ef55098a5
+sxs-super_rebellion_v65536.sfv	788c9864bcd9ce7f1e71c3117b3f4ef3

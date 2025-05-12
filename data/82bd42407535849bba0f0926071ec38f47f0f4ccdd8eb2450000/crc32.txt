@@ -1,0 +1,6 @@
+sxs-lumines_remastered_v262144.nfo	72975051
+sxs-lumines_remastered_v262144.r00	94f521e6
+sxs-lumines_remastered_v262144.r01	630e95fa
+sxs-lumines_remastered_v262144.r02	09e868b3
+sxs-lumines_remastered_v262144.rar	fdcf0b15
+sxs-lumines_remastered_v262144.sfv	61e096aa

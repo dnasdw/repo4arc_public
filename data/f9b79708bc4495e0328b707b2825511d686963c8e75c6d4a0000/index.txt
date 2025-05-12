@@ -1,0 +1,9 @@
+v-convoy_a_tactical_roguelike_v65536.nfo	-	6526	1	0	0	0
+v-convoy_a_tactical_roguelike_v65536.r00	-	50000000	1	6526	0	1
+v-convoy_a_tactical_roguelike_v65536.r01	-	50000000	1	50006526	0	49
+v-convoy_a_tactical_roguelike_v65536.r02	-	50000000	1	100006526	0	97
+v-convoy_a_tactical_roguelike_v65536.r03	-	50000000	1	150006526	0	145
+v-convoy_a_tactical_roguelike_v65536.r04	-	50000000	1	200006526	0	193
+v-convoy_a_tactical_roguelike_v65536.r05	-	3276703	1	250006526	0	241
+v-convoy_a_tactical_roguelike_v65536.rar	-	50000000	1	253283229	0	245
+v-convoy_a_tactical_roguelike_v65536.sfv	-	357	1	303283229	0	293

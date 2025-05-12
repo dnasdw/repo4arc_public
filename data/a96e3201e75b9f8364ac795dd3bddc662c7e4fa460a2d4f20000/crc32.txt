@@ -1,0 +1,5 @@
+sxs-sonic_frontiers_v65536.nfo	d4e2b016
+sxs-sonic_frontiers_v65536.r00	3e0233f9
+sxs-sonic_frontiers_v65536.r01	4ace2998
+sxs-sonic_frontiers_v65536.rar	ba96890a
+sxs-sonic_frontiers_v65536.sfv	c13c0a03

@@ -1,0 +1,3 @@
+sxs-the_nom_monster_madness_dlc.nfo	-	8162	1	0	0	0
+sxs-the_nom_monster_madness_dlc.rar	-	124398	1	8162	0	1
+sxs-the_nom_monster_madness_dlc.sfv	-	46	1	132560	0	2

@@ -1,0 +1,7 @@
+sxs-sparkle_2_evo_v65536.nfo	c67bc04a53644d718ac9659386d39b5d
+sxs-sparkle_2_evo_v65536.r00	030044ff0bf3088f24c54e6d242d1ddb
+sxs-sparkle_2_evo_v65536.r01	3b3c57012699bdca3b76cca42f036e53
+sxs-sparkle_2_evo_v65536.r02	0228327daea3516e1368c23a9532133c
+sxs-sparkle_2_evo_v65536.r03	ddfd5dff3dbd426566fee57b0e4c5b35
+sxs-sparkle_2_evo_v65536.rar	8f50bed812f817839f4a63d54ec80633
+sxs-sparkle_2_evo_v65536.sfv	f53afc5cd95585472e0a5a6756e74b95

@@ -1,0 +1,5 @@
+sxs-alice_in_wonderland_a_jigsaw_puzzle_tale.nfo	-	4418	1	0	0	0
+sxs-alice_in_wonderland_a_jigsaw_puzzle_tale.r00	-	100000000	1	4418	0	1
+sxs-alice_in_wonderland_a_jigsaw_puzzle_tale.r01	-	581668	1	100004418	0	97
+sxs-alice_in_wonderland_a_jigsaw_puzzle_tale.rar	-	100000000	1	100586086	0	98
+sxs-alice_in_wonderland_a_jigsaw_puzzle_tale.sfv	-	177	1	200586086	0	194

@@ -1,0 +1,5 @@
+sxs-coffee_talk_episode_2_hibiscus_and_butterfly_v131072.nfo	-	6758	1	0	0	0
+sxs-coffee_talk_episode_2_hibiscus_and_butterfly_v131072.r00	-	100000000	1	6758	0	1
+sxs-coffee_talk_episode_2_hibiscus_and_butterfly_v131072.r01	-	95144956	1	100006758	0	97
+sxs-coffee_talk_episode_2_hibiscus_and_butterfly_v131072.rar	-	100000000	1	195151714	0	188
+sxs-coffee_talk_episode_2_hibiscus_and_butterfly_v131072.sfv	-	213	1	295151714	0	284

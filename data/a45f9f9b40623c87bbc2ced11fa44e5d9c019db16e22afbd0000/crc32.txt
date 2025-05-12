@@ -1,0 +1,6 @@
+v-nos_new_operating_system_v131072.nfo	fbcef740
+v-nos_new_operating_system_v131072.r00	42e53f15
+v-nos_new_operating_system_v131072.r01	a36adf15
+v-nos_new_operating_system_v131072.r02	7e514387
+v-nos_new_operating_system_v131072.rar	67c1df2d
+v-nos_new_operating_system_v131072.sfv	48dff8ac

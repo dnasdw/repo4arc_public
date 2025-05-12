@@ -1,0 +1,5 @@
+sxs-off_and_on_again_v196608.nfo	-	5276	1	0	0	0
+sxs-off_and_on_again_v196608.r00	-	50000000	1	5276	0	1
+sxs-off_and_on_again_v196608.r01	-	7977712	1	50005276	0	49
+sxs-off_and_on_again_v196608.rar	-	50000000	1	57982988	0	57
+sxs-off_and_on_again_v196608.sfv	-	129	1	107982988	0	105

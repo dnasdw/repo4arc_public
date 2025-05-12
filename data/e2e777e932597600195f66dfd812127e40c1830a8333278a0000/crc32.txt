@@ -1,0 +1,15 @@
+l-floogen.nfo	9dd4e734
+l-floogen.r00	e54c4943
+l-floogen.r01	106d7068
+l-floogen.r02	850cbd80
+l-floogen.r03	0df641ec
+l-floogen.r04	6c856871
+l-floogen.r05	3c6e3a5a
+l-floogen.r06	007f57d8
+l-floogen.r07	80a3149a
+l-floogen.r08	a32bcf8a
+l-floogen.r09	9a3ecf5f
+l-floogen.r10	c4fc2ddc
+l-floogen.r11	2ac1d643
+l-floogen.rar	c458281e
+l-floogen.sfv	4296a70c

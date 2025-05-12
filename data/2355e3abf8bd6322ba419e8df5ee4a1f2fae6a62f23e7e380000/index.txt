@@ -1,0 +1,5 @@
+sxs-genso_chronicles.nfo	-	5198	1	0	0	0
+sxs-genso_chronicles.r00	-	100000000	1	5198	0	1
+sxs-genso_chronicles.r01	-	58381045	1	100005198	0	97
+sxs-genso_chronicles.rar	-	100000000	1	158386243	0	153
+sxs-genso_chronicles.sfv	-	105	1	258386243	0	249

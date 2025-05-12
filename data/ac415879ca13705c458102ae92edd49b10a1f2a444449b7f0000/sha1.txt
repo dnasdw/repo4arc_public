@@ -1,0 +1,4 @@
+lfc-czec.nfo	c0ea18a4fd671bcdd859e9c6a1c2899f05f83ab1
+lfc-czec.r00	6c2a63344342a2e1fd2ab18d1ebe924858d2c623
+lfc-czec.rar	ee0abcf59cc80a29400e9e127de14be4f47f4da0
+lfc-czec.sfv	95302689dcc6096bf5e28710a3c0e0ef6aa4fb2b

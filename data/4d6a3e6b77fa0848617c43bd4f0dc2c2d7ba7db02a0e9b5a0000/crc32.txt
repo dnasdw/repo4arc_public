@@ -1,0 +1,15 @@
+sxs-skytime.nfo	de437aeb
+sxs-skytime.r00	c4e699df
+sxs-skytime.r01	d9a271aa
+sxs-skytime.r02	c2cb9813
+sxs-skytime.r03	41f09884
+sxs-skytime.r04	8fe73261
+sxs-skytime.r05	a35e90f8
+sxs-skytime.r06	b2b48483
+sxs-skytime.r07	1cce7d13
+sxs-skytime.r08	00504952
+sxs-skytime.r09	ad73bc3b
+sxs-skytime.r10	2eb9964e
+sxs-skytime.r11	b620b3fb
+sxs-skytime.rar	dd5d3566
+sxs-skytime.sfv	98640bf5

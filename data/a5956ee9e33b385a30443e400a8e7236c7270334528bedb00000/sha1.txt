@@ -1,0 +1,5 @@
+v-blades_of_time_v65536.nfo	e7fc42df2f4264d608a1b31f3b486266aecb1289
+v-blades_of_time_v65536.r00	aaae9ee084d79a0ed772e03625c1b9ffe03f72e9
+v-blades_of_time_v65536.r01	b603ae8f5196c6122c334f52c14a7f6ad39c45d4
+v-blades_of_time_v65536.rar	56464b7c75327b5949035d445de4f48833eae767
+v-blades_of_time_v65536.sfv	73fced1ddd4820c4e8c00a8fb381f42ef7073df5

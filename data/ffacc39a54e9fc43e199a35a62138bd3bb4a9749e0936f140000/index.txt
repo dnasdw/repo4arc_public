@@ -1,0 +1,16 @@
+brz-killer_frequency_v196608.nfo	-	241	1	0	0	0
+brz-killer_frequency_v196608.r00	-	50000000	1	241	0	1
+brz-killer_frequency_v196608.r01	-	50000000	1	50000241	0	49
+brz-killer_frequency_v196608.r02	-	50000000	1	100000241	0	97
+brz-killer_frequency_v196608.r03	-	50000000	1	150000241	0	145
+brz-killer_frequency_v196608.r04	-	50000000	1	200000241	0	193
+brz-killer_frequency_v196608.r05	-	50000000	1	250000241	0	241
+brz-killer_frequency_v196608.r06	-	50000000	1	300000241	0	289
+brz-killer_frequency_v196608.r07	-	50000000	1	350000241	0	337
+brz-killer_frequency_v196608.r08	-	50000000	1	400000241	0	385
+brz-killer_frequency_v196608.r09	-	50000000	1	450000241	0	433
+brz-killer_frequency_v196608.r10	-	50000000	1	500000241	0	481
+brz-killer_frequency_v196608.r11	-	50000000	1	12251264	1	12
+brz-killer_frequency_v196608.r12	-	39396527	1	62251264	1	60
+brz-killer_frequency_v196608.rar	-	50000000	1	101647791	1	98
+brz-killer_frequency_v196608.sfv	-	602	1	151647791	1	146

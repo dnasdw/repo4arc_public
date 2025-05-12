@@ -1,0 +1,5 @@
+lfc-gunmanclivehd.nfo	ad49af32ba94a97740be0945fe9898c7e10f2a31
+lfc-gunmanclivehd.r00	156600a0cc223bbb8dd7b08682d0143ac4036471
+lfc-gunmanclivehd.r01	4f7cda2a9f27af46901e0757c634e94488672d70
+lfc-gunmanclivehd.rar	3ff9b823d1b57414e8b2c7a9c5df4090396e7524
+lfc-gunmanclivehd.sfv	41254221bfc4407a01232ad83c1900602ae8cc57

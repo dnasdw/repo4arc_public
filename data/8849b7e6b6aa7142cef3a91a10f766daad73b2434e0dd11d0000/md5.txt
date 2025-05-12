@@ -1,0 +1,16 @@
+jfp-ffix.r00	d78aaa328fdb4990c32054f9d27af020
+jfp-ffix.r01	b1f248deb0c77194e3595bb855d62e3e
+jfp-ffix.r02	659844e1023e917409c7f2c63215dec8
+jfp-ffix.r03	351381fc403b291e8a5648612d0bd6c7
+jfp-ffix.r04	302e70c8e9ec22b6054966a8af4de801
+jfp-ffix.r05	0431c11cdc35cd3f2e15de47d68f98d4
+jfp-ffix.r06	ae6e1a95cb1ed2d9bc76c2c6d5f34a9d
+jfp-ffix.r07	562b44b093efd8539acd2f827dff169a
+jfp-ffix.r08	0592bf74d78e68504b9c7bdde52e2a2b
+jfp-ffix.r09	d3460de6eddbb372893905bb8cb7f3f1
+jfp-ffix.r10	e8d29c95535f320b7bbeab2bbdd793fa
+jfp-ffix.r11	9e069dc2d0529aee5b2a1e516ca5c778
+jfp-ffix.r12	f268107a723626caa75fc35d6170ef5d
+jfp-ffix.rar	8b6b909fcb33b450952d2bce58c39e84
+jfp-ffix.sfv	a3124b254412ac748554b99ce7e491f1
+jrp-n-ffix.nfo	8bc884c33a1bb7ba2ec98e3c97f81c8d

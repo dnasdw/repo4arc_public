@@ -1,0 +1,17 @@
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/sxs-narita_boy.jpg	0c36351dbdf00b981f793b0057c64a52
+sxs-narita_boy.nfo	9c4ed0cc754aa4680be1c883c6da4c5e
+sxs-narita_boy.r00	93a58ae460827d4843a571234bc4d739
+sxs-narita_boy.r01	a39117739df7045664eb7b9e1710d62f
+sxs-narita_boy.r02	93e389f39dc2f2d1592e07a14c0cdeef
+sxs-narita_boy.r03	2fab1d7a486e63dae65da5ff00c6048f
+sxs-narita_boy.r04	3fbde9b34a639c75a98468b1f8ef1739
+sxs-narita_boy.r05	f21a0aa2cb856cd070215991311856e2
+sxs-narita_boy.r06	c2bffc95908e9c02b16bae53d7cacf1c
+sxs-narita_boy.r07	6ed4c408c53586b045c9255a981e2857
+sxs-narita_boy.r08	b0213f465ffc5a4e4fa43c402badc68b
+sxs-narita_boy.r09	74057a0843339ce1ebb34e2c547afa5d
+sxs-narita_boy.r10	28eabd3c0f963237137f6686d809e722
+sxs-narita_boy.r11	7e94833121521bbc7c45737b8a4f3d55
+sxs-narita_boy.rar	8ec2dde3e187ebbe84a5a1d347cd5ab8
+sxs-narita_boy.sfv	6fe28bfa0e52fff50be6c98fd8ae1ea2

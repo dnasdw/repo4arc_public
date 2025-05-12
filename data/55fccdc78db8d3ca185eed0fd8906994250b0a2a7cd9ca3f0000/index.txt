@@ -1,0 +1,4 @@
+v-oddworld_strangers_wrath_v196608.nfo	-	4420	1	0	0	0
+v-oddworld_strangers_wrath_v196608.r00	-	41775125	1	4420	0	1
+v-oddworld_strangers_wrath_v196608.rar	-	50000000	1	41779545	0	41
+v-oddworld_strangers_wrath_v196608.sfv	-	98	1	91779545	0	89

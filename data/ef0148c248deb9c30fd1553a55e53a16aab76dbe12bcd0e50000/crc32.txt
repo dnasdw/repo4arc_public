@@ -1,0 +1,16 @@
+sxs-fifa_20_dutch_dlc.nfo	bb8658d9
+sxs-fifa_20_dutch_dlc.r00	2b07fede
+sxs-fifa_20_dutch_dlc.r01	bfb826a3
+sxs-fifa_20_dutch_dlc.r02	28990c9d
+sxs-fifa_20_dutch_dlc.r03	aa33d7b8
+sxs-fifa_20_dutch_dlc.r04	683fa71c
+sxs-fifa_20_dutch_dlc.r05	61cec2f8
+sxs-fifa_20_dutch_dlc.r06	63fcfafa
+sxs-fifa_20_dutch_dlc.r07	e0e6c31c
+sxs-fifa_20_dutch_dlc.r08	43b36a32
+sxs-fifa_20_dutch_dlc.r09	88bf91dd
+sxs-fifa_20_dutch_dlc.r10	cc32cbb2
+sxs-fifa_20_dutch_dlc.r11	4117d402
+sxs-fifa_20_dutch_dlc.r12	189c3dc5
+sxs-fifa_20_dutch_dlc.rar	e37b52f4
+sxs-fifa_20_dutch_dlc.sfv	d823175f

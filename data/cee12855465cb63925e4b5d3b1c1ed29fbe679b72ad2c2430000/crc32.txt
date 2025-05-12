@@ -1,0 +1,10 @@
+v-r-type_final_2_dlc_set_1.nfo	e518f121
+v-r-type_final_2_dlc_set_1.r00	44ced5d2
+v-r-type_final_2_dlc_set_1.r01	4fdcf7ea
+v-r-type_final_2_dlc_set_1.r02	887ad4fa
+v-r-type_final_2_dlc_set_1.r03	60743bf4
+v-r-type_final_2_dlc_set_1.r04	2b12dacb
+v-r-type_final_2_dlc_set_1.r05	8206bc88
+v-r-type_final_2_dlc_set_1.r06	b7846946
+v-r-type_final_2_dlc_set_1.rar	b112bc09
+v-r-type_final_2_dlc_set_1.sfv	11bc3193

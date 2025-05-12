@@ -1,0 +1,3 @@
+sxs-dnf_duel_whos_next_dlc_1_spectre.nfo	-	9262	1	0	0	0
+sxs-dnf_duel_whos_next_dlc_1_spectre.rar	-	104105	1	9262	0	1
+sxs-dnf_duel_whos_next_dlc_1_spectre.sfv	-	51	1	113367	0	2

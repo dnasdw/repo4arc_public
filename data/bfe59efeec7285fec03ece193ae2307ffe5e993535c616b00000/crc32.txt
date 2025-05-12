@@ -1,0 +1,7 @@
+sxs-fashion_dreamer_v196608.nfo	442c8eee
+sxs-fashion_dreamer_v196608.r00	c28ecba8
+sxs-fashion_dreamer_v196608.r01	80bd9fe6
+sxs-fashion_dreamer_v196608.r02	50db6593
+sxs-fashion_dreamer_v196608.r03	4a253a9d
+sxs-fashion_dreamer_v196608.rar	af864e6e
+sxs-fashion_dreamer_v196608.sfv	a72f9910

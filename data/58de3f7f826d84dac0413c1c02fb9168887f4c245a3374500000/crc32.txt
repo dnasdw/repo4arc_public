@@ -1,0 +1,10 @@
+sxs-mind_maze.nfo	6d6d0cd8
+sxs-mind_maze.r00	9b0417a8
+sxs-mind_maze.r01	3a5ba04d
+sxs-mind_maze.r02	4e2e4136
+sxs-mind_maze.r03	e190fdc4
+sxs-mind_maze.r04	11a2d117
+sxs-mind_maze.r05	77813c42
+sxs-mind_maze.r06	ad919454
+sxs-mind_maze.rar	6285d4b5
+sxs-mind_maze.sfv	3ed1adfb

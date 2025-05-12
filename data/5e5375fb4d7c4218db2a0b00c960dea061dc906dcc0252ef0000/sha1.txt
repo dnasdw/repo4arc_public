@@ -1,0 +1,5 @@
+sxs-smd.nfo	28cf8fac88ec7a409062d8c6d47993b368525218
+sxs-smd.r00	625637e74f7f48d16605dffde2c194aa15b5bfd5
+sxs-smd.r01	d4caba40980a4eb886802ac89ca67e3964faa8b5
+sxs-smd.rar	eff284ce8c834afe413f8458022214b7b6ea3539
+sxs-smd.sfv	4ba9cfad2c02346564caab5aed47e7ce7cb94d10

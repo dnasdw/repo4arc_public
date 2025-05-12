@@ -1,0 +1,3 @@
+v-piofiore_fated_memories_v65536.nfo	-	4186	1	0	0	0
+v-piofiore_fated_memories_v65536.rar	-	13668924	1	4186	0	1
+v-piofiore_fated_memories_v65536.sfv	-	47	1	13673110	0	15

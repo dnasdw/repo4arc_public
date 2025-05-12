@@ -1,0 +1,6 @@
+lfc-spbr.nfo	c75aeafbb505d0ceed7f7923039b244b
+lfc-spbr.r00	68886ff6c134a453199411088a33d44f
+lfc-spbr.r01	825ac78960a31bb315ef4676b0a189e5
+lfc-spbr.r02	2578409dda7a0b34e74b2f59854edcbd
+lfc-spbr.rar	409a7b3eeb25c5c24477693d7d6e82b8
+lfc-spbr.sfv	f0f3fab83d0c65639034667ea00a8ba0

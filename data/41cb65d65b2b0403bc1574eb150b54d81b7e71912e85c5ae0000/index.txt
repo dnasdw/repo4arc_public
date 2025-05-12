@@ -1,0 +1,4 @@
+sxs-pba_pro_bowling_2023_v131072.nfo	-	6524	1	0	0	0
+sxs-pba_pro_bowling_2023_v131072.r00	-	55519933	1	6524	0	1
+sxs-pba_pro_bowling_2023_v131072.rar	-	100000000	1	55526457	0	54
+sxs-pba_pro_bowling_2023_v131072.sfv	-	94	1	155526457	0	150

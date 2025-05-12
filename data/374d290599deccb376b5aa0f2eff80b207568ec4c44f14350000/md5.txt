@@ -1,0 +1,17 @@
+lfc-thra.nfo	bbf6a5ba355ea8eef53ab11e4d2b46bf
+lfc-thra.r00	442743db008d863ad767d519b18ce7a0
+lfc-thra.r01	f10f6eade4efefc431bcebf6bb31d904
+lfc-thra.r02	8e42c0f0d76153a85f8f1e713e219928
+lfc-thra.r03	2acfde7cf0de2640db139376458e27dd
+lfc-thra.r04	6ee8bc5db014c415ecdc5b635a3bbc08
+lfc-thra.r05	50dd768008897bd7260aa3d2fb551ea0
+lfc-thra.r06	fe42dca36d2e0ea65054f5f3adb418fc
+lfc-thra.r07	6b3cbe673a6e9cab59ca5084f1aae32a
+lfc-thra.r08	df143fff545f0910aa8aba69208c4b4f
+lfc-thra.r09	7f02b5d00c813edcf3e6ef9ee59c0b7f
+lfc-thra.r10	6371234ccc83b8a426de7940617797b8
+lfc-thra.r11	22e12e29dfecd4316c9b15123dd78bf6
+lfc-thra.r12	4b47e9dbf77954bbeae72a14b15d8d6b
+lfc-thra.r13	6bc2cb35f004deb058ecaca76716ec9b
+lfc-thra.rar	4fe1dcd757dedd1e0c18ddd6dae99e8b
+lfc-thra.sfv	7e3a9c2533af60d83018595d79f1b8cd

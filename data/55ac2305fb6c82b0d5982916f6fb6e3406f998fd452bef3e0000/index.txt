@@ -1,0 +1,3 @@
+v-tkdvr_hidden_places_and_damage_system_dlc.nfo	-	5746	1	0	0	0
+v-tkdvr_hidden_places_and_damage_system_dlc.rar	-	118547	1	5746	0	1
+v-tkdvr_hidden_places_and_damage_system_dlc.sfv	-	58	1	124293	0	2

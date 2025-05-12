@@ -1,0 +1,13 @@
+sxs-onlyup.nfo	2e638d8e27777ead3d349c34bc142c238ed95f7d
+sxs-onlyup.r00	40f51aa1a439f4b543a3c2adb1f3002439b85f0c
+sxs-onlyup.r01	ecf3bfa5f3750ae07155960acae22c015bb8cc59
+sxs-onlyup.r02	27236e282cfb2f2c19d8b38d436b2bca18e1cb14
+sxs-onlyup.r03	489c41546f0d1d2e4fb8dd79d1dddd07d2288123
+sxs-onlyup.r04	5da566d32787eaf9d837cc53e6b6ce5b96dd5664
+sxs-onlyup.r05	b0f2328ff28bc07b050e136875c3cd632a30a761
+sxs-onlyup.r06	e5a26951d6146996ba244ccc9c39afb7debab28a
+sxs-onlyup.r07	79d67730c9829e0a4faddef83dc679f2d56de232
+sxs-onlyup.r08	999a11b5fc7407cdd4accd5b1d7cd4f7e51933fd
+sxs-onlyup.r09	db575b894cb9ab0a8f0f1168d171b6bc1b1c155c
+sxs-onlyup.rar	148e074a0daade31cfb7bc12f94a3183be105af4
+sxs-onlyup.sfv	c3ba399a106f76788a673efc7adb180dfac8fa3f

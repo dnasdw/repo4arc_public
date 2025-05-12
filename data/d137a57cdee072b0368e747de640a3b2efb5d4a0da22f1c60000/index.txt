@@ -1,0 +1,4 @@
+sxs-seven_knights_time_wanderer_v262144.nfo	-	9024	1	0	0	0
+sxs-seven_knights_time_wanderer_v262144.r00	-	40803032	1	9024	0	1
+sxs-seven_knights_time_wanderer_v262144.rar	-	50000000	1	40812056	0	40
+sxs-seven_knights_time_wanderer_v262144.sfv	-	108	1	90812056	0	88

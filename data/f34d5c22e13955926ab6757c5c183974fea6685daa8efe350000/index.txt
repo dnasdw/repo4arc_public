@@ -1,0 +1,6 @@
+v-double_dragon_neon_v131072.nfo	-	4966	1	0	0	0
+v-double_dragon_neon_v131072.r00	-	100000000	1	4966	0	1
+v-double_dragon_neon_v131072.r01	-	100000000	1	100004966	0	97
+v-double_dragon_neon_v131072.r02	-	50931292	1	200004966	0	193
+v-double_dragon_neon_v131072.rar	-	100000000	1	250936258	0	242
+v-double_dragon_neon_v131072.sfv	-	172	1	350936258	0	338

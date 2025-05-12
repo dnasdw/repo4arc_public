@@ -1,0 +1,4 @@
+v-will_you_snail_v65536.nfo	-	6994	1	0	0	0
+v-will_you_snail_v65536.r00	-	37313400	1	6994	0	1
+v-will_you_snail_v65536.rar	-	50000000	1	37320394	0	37
+v-will_you_snail_v65536.sfv	-	76	1	87320394	0	85

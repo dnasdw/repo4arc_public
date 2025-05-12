@@ -1,0 +1,7 @@
+brw-bcaf.nfo	42737792
+brw-bcaf.r00	71a31090
+brw-bcaf.r01	8cc9dd5b
+brw-bcaf.r02	80c54bee
+brw-bcaf.r03	9fad3dc8
+brw-bcaf.rar	ab82a0df
+brw-bcaf.sfv	5ce56dbe

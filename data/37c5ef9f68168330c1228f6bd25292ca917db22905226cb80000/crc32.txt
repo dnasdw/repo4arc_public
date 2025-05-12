@@ -1,0 +1,15 @@
+hr-axseav131072.nfo	1df8f77c
+hr-axseav131072.r00	8aa19e83
+hr-axseav131072.r01	3c7337bb
+hr-axseav131072.r02	05d6fd14
+hr-axseav131072.r03	837b2efd
+hr-axseav131072.r04	89d21e43
+hr-axseav131072.r05	e6d8086f
+hr-axseav131072.r06	377778c7
+hr-axseav131072.r07	8f894acf
+hr-axseav131072.r08	292d06e8
+hr-axseav131072.r09	8c475685
+hr-axseav131072.r10	94072ede
+hr-axseav131072.r11	135e7659
+hr-axseav131072.rar	2d66458b
+hr-axseav131072.sfv	93680f1d

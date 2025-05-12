@@ -1,0 +1,6 @@
+lfc-aka_v65536.nfo	385d2078a1bbdb4fe6a1c2e3a7f42937c9774eda
+lfc-aka_v65536.r00	ffe00cdb0a8d6bd78db577b370ecb4dd4955b345
+lfc-aka_v65536.r01	cab072cc373c6e1f0fb8dd76baa0b7d5b13bde68
+lfc-aka_v65536.r02	bbbc9e1ce317bdbdeb6301acfd74008ebfffc8c8
+lfc-aka_v65536.rar	8d18f3a46e8113c5363bba15e0f6294acd01abc3
+lfc-aka_v65536.sfv	fe5e50399c2d9137fc74eb7cbbdcc4527a5408bb

@@ -1,0 +1,13 @@
+v-turok_3_shadow_of_oblivion_remastered.nfo	835dc369
+v-turok_3_shadow_of_oblivion_remastered.r00	5471130b
+v-turok_3_shadow_of_oblivion_remastered.r01	8a6e4db8
+v-turok_3_shadow_of_oblivion_remastered.r02	f56c4e00
+v-turok_3_shadow_of_oblivion_remastered.r03	9d1ce6ad
+v-turok_3_shadow_of_oblivion_remastered.r04	76ecb742
+v-turok_3_shadow_of_oblivion_remastered.r05	a8e0a973
+v-turok_3_shadow_of_oblivion_remastered.r06	833700fd
+v-turok_3_shadow_of_oblivion_remastered.r07	161a301e
+v-turok_3_shadow_of_oblivion_remastered.r08	270c03bd
+v-turok_3_shadow_of_oblivion_remastered.r09	ae7532be
+v-turok_3_shadow_of_oblivion_remastered.rar	fae034f3
+v-turok_3_shadow_of_oblivion_remastered.sfv	85062b8c

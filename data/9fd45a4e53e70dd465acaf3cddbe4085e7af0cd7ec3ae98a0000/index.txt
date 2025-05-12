@@ -1,0 +1,16 @@
+v-turok_2_seeds_of_evil_v131072.nfo	-	6526	1	0	0	0
+v-turok_2_seeds_of_evil_v131072.r00	-	50000000	1	6526	0	1
+v-turok_2_seeds_of_evil_v131072.r01	-	50000000	1	50006526	0	49
+v-turok_2_seeds_of_evil_v131072.r02	-	50000000	1	100006526	0	97
+v-turok_2_seeds_of_evil_v131072.r03	-	50000000	1	150006526	0	145
+v-turok_2_seeds_of_evil_v131072.r04	-	50000000	1	200006526	0	193
+v-turok_2_seeds_of_evil_v131072.r05	-	50000000	1	250006526	0	241
+v-turok_2_seeds_of_evil_v131072.r06	-	50000000	1	300006526	0	289
+v-turok_2_seeds_of_evil_v131072.r07	-	50000000	1	350006526	0	337
+v-turok_2_seeds_of_evil_v131072.r08	-	50000000	1	400006526	0	385
+v-turok_2_seeds_of_evil_v131072.r09	-	50000000	1	450006526	0	433
+v-turok_2_seeds_of_evil_v131072.r10	-	50000000	1	500006526	0	481
+v-turok_2_seeds_of_evil_v131072.r11	-	50000000	1	12251264	1	12
+v-turok_2_seeds_of_evil_v131072.r12	-	20220506	1	62251264	1	60
+v-turok_2_seeds_of_evil_v131072.rar	-	50000000	1	82471770	1	80
+v-turok_2_seeds_of_evil_v131072.sfv	-	644	1	132471770	1	128

@@ -1,0 +1,9 @@
+sxs-streets_of_red_devils_dare_deluxe_v65536.nfo	-	7227	1	0	0	0
+sxs-streets_of_red_devils_dare_deluxe_v65536.r00	-	50000000	1	7227	0	1
+sxs-streets_of_red_devils_dare_deluxe_v65536.r01	-	50000000	1	50007227	0	49
+sxs-streets_of_red_devils_dare_deluxe_v65536.r02	-	50000000	1	100007227	0	97
+sxs-streets_of_red_devils_dare_deluxe_v65536.r03	-	50000000	1	150007227	0	145
+sxs-streets_of_red_devils_dare_deluxe_v65536.r04	-	50000000	1	200007227	0	193
+sxs-streets_of_red_devils_dare_deluxe_v65536.r05	-	13444844	1	250007227	0	241
+sxs-streets_of_red_devils_dare_deluxe_v65536.rar	-	50000000	1	263452071	0	254
+sxs-streets_of_red_devils_dare_deluxe_v65536.sfv	-	413	1	313452071	0	302

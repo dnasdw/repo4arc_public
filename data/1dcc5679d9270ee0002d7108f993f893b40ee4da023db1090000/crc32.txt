@@ -1,0 +1,7 @@
+sxs-fortress_defense.nfo	f3faaab5
+sxs-fortress_defense.r00	c398122d
+sxs-fortress_defense.r01	59a9385f
+sxs-fortress_defense.r02	4fd16a76
+sxs-fortress_defense.r03	6e1123f9
+sxs-fortress_defense.rar	3dc447a2
+sxs-fortress_defense.sfv	694ee89a

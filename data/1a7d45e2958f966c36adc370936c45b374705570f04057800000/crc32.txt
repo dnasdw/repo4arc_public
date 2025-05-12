@@ -1,0 +1,17 @@
+v-rzsliaw_v65536.nfo	5f4a9bf9
+v-rzsliaw_v65536.r00	35576909
+v-rzsliaw_v65536.r01	549b9356
+v-rzsliaw_v65536.r02	cf2fe4ab
+v-rzsliaw_v65536.r03	cc22e1eb
+v-rzsliaw_v65536.r04	fc0fa432
+v-rzsliaw_v65536.r05	51510bd3
+v-rzsliaw_v65536.r06	d0310e2f
+v-rzsliaw_v65536.r07	1ebbe7ae
+v-rzsliaw_v65536.r08	4f5352bf
+v-rzsliaw_v65536.r09	95960688
+v-rzsliaw_v65536.r10	66517bfd
+v-rzsliaw_v65536.r11	a8aa9ac2
+v-rzsliaw_v65536.r12	70b9ccd6
+v-rzsliaw_v65536.r13	3ddee48b
+v-rzsliaw_v65536.rar	9ced225b
+v-rzsliaw_v65536.sfv	9bb6b6cc

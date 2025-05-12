@@ -1,0 +1,9 @@
+sxs-octopath_traveler_v196608.nfo	-	5276	1	0	0	0
+sxs-octopath_traveler_v196608.r00	-	50000000	1	5276	0	1
+sxs-octopath_traveler_v196608.r01	-	50000000	1	50005276	0	49
+sxs-octopath_traveler_v196608.r02	-	50000000	1	100005276	0	97
+sxs-octopath_traveler_v196608.r03	-	50000000	1	150005276	0	145
+sxs-octopath_traveler_v196608.r04	-	50000000	1	200005276	0	193
+sxs-octopath_traveler_v196608.r05	-	3197123	1	250005276	0	241
+sxs-octopath_traveler_v196608.rar	-	50000000	1	253202399	0	245
+sxs-octopath_traveler_v196608.sfv	-	308	1	303202399	0	293

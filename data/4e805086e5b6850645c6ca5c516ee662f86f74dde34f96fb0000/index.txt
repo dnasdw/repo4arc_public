@@ -1,0 +1,6 @@
+sxs-filmechanism.nfo	-	4652	1	0	0	0
+sxs-filmechanism.r00	-	50000000	1	4652	0	1
+sxs-filmechanism.r01	-	50000000	1	50004652	0	49
+sxs-filmechanism.r02	-	9439155	1	100004652	0	97
+sxs-filmechanism.rar	-	50000000	1	109443807	0	107
+sxs-filmechanism.sfv	-	124	1	159443807	0	155

@@ -1,0 +1,6 @@
+nnssww_arcade_archives_assault.nfo	-	1089	1	0	0	0
+nnssww_arcade_archives_assault.r00	-	15000000	1	1089	0	1
+nnssww_arcade_archives_assault.r01	-	15000000	1	15001089	0	16
+nnssww_arcade_archives_assault.r02	-	4006393	1	30001089	0	31
+nnssww_arcade_archives_assault.rar	-	15000000	1	34007482	0	35
+nnssww_arcade_archives_assault.sfv	-	180	1	49007482	0	50

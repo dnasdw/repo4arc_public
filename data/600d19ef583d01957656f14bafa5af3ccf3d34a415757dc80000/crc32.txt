@@ -1,0 +1,16 @@
+hr-a8stbv65536.nfo	66658bbf
+hr-a8stbv65536.r00	b630773c
+hr-a8stbv65536.r01	e9e45947
+hr-a8stbv65536.r02	822922c4
+hr-a8stbv65536.r03	49ab8f92
+hr-a8stbv65536.r04	285b9276
+hr-a8stbv65536.r05	495d45f3
+hr-a8stbv65536.r06	14e4703b
+hr-a8stbv65536.r07	d0eb6314
+hr-a8stbv65536.r08	5218fb66
+hr-a8stbv65536.r09	e27f4074
+hr-a8stbv65536.r10	aca66dae
+hr-a8stbv65536.r11	4d357e79
+hr-a8stbv65536.r12	8c8132cc
+hr-a8stbv65536.rar	d48dc077
+hr-a8stbv65536.sfv	fdd6ca17

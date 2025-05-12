@@ -1,0 +1,15 @@
+sxs-tied_together.nfo	302fde70
+sxs-tied_together.r00	748885bc
+sxs-tied_together.r01	222c6e13
+sxs-tied_together.r02	65b66486
+sxs-tied_together.r03	5467199d
+sxs-tied_together.r04	e52215d4
+sxs-tied_together.r05	0590a800
+sxs-tied_together.r06	183c46be
+sxs-tied_together.r07	cd454d12
+sxs-tied_together.r08	3c0cacc1
+sxs-tied_together.r09	c4374901
+sxs-tied_together.r10	9a5eab62
+sxs-tied_together.r11	a38f6d30
+sxs-tied_together.rar	a06392bd
+sxs-tied_together.sfv	e0115aa6

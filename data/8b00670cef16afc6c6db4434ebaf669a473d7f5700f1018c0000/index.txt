@@ -1,0 +1,8 @@
+sxs-monster_sanctuary_v524288.nfo	-	6680	1	0	0	0
+sxs-monster_sanctuary_v524288.r00	-	100000000	1	6680	0	1
+sxs-monster_sanctuary_v524288.r01	-	100000000	1	100006680	0	97
+sxs-monster_sanctuary_v524288.r02	-	100000000	1	200006680	0	193
+sxs-monster_sanctuary_v524288.r03	-	100000000	1	300006680	0	289
+sxs-monster_sanctuary_v524288.r04	-	28631867	1	400006680	0	385
+sxs-monster_sanctuary_v524288.rar	-	100000000	1	428638547	0	413
+sxs-monster_sanctuary_v524288.sfv	-	264	1	528638547	0	509

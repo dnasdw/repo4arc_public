@@ -1,0 +1,4 @@
+sxs-train_valley_2_community_edition_v65536.nfo	7b30d329
+sxs-train_valley_2_community_edition_v65536.r00	566ab0e4
+sxs-train_valley_2_community_edition_v65536.rar	d37915e7
+sxs-train_valley_2_community_edition_v65536.sfv	71ebb225

@@ -1,0 +1,5 @@
+sxs-lode_runner_legacy_v196608.nfo	a0e00e56
+sxs-lode_runner_legacy_v196608.r00	b15051cc
+sxs-lode_runner_legacy_v196608.r01	488ac690
+sxs-lode_runner_legacy_v196608.rar	09277402
+sxs-lode_runner_legacy_v196608.sfv	9f4abe29

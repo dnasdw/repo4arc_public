@@ -1,0 +1,7 @@
+brw-uajp.nfo	85f21ad0
+brw-uajp.r00	7967e3e3
+brw-uajp.r01	c2ce8660
+brw-uajp.r02	2a9a905a
+brw-uajp.r03	a8f28113
+brw-uajp.rar	cde5d04a
+brw-uajp.sfv	ee1c172b

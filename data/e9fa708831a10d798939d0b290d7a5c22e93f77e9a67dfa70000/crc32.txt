@@ -1,0 +1,11 @@
+hr-a8r7bv65536.nfo	0b309aac
+hr-a8r7bv65536.r00	7fef1b36
+hr-a8r7bv65536.r01	58394a94
+hr-a8r7bv65536.r02	04f93bbf
+hr-a8r7bv65536.r03	aa5c1fe1
+hr-a8r7bv65536.r04	c7b2ae82
+hr-a8r7bv65536.r05	c9feb701
+hr-a8r7bv65536.r06	17f19357
+hr-a8r7bv65536.r07	78b9e91a
+hr-a8r7bv65536.rar	90dd73fc
+hr-a8r7bv65536.sfv	1e43791a

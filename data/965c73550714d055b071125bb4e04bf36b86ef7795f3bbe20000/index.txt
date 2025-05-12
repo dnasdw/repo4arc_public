@@ -1,0 +1,13 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-chicken_range.jpg	-	732550	1	0	0	0
+sxs-chicken_range.nfo	-	5121	1	732550	0	1
+sxs-chicken_range.r00	-	50000000	1	737671	0	2
+sxs-chicken_range.r01	-	50000000	1	50737671	0	50
+sxs-chicken_range.r02	-	50000000	1	100737671	0	98
+sxs-chicken_range.r03	-	50000000	1	150737671	0	146
+sxs-chicken_range.r04	-	50000000	1	200737671	0	194
+sxs-chicken_range.r05	-	50000000	1	250737671	0	242
+sxs-chicken_range.r06	-	50000000	1	300737671	0	290
+sxs-chicken_range.r07	-	12110642	1	350737671	0	338
+sxs-chicken_range.rar	-	50000000	1	362848313	0	350
+sxs-chicken_range.sfv	-	288	1	412848313	0	398

@@ -1,0 +1,10 @@
+sxs-piggy_gambit.nfo	-	5978	1	0	0	0
+sxs-piggy_gambit.r00	-	100000000	1	5978	0	1
+sxs-piggy_gambit.r01	-	100000000	1	100005978	0	97
+sxs-piggy_gambit.r02	-	100000000	1	200005978	0	193
+sxs-piggy_gambit.r03	-	100000000	1	300005978	0	289
+sxs-piggy_gambit.r04	-	100000000	1	400005978	0	385
+sxs-piggy_gambit.r05	-	100000000	1	500005978	0	481
+sxs-piggy_gambit.r06	-	24866741	1	62251264	1	60
+sxs-piggy_gambit.rar	-	100000000	1	87118005	1	84
+sxs-piggy_gambit.sfv	-	248	1	187118005	1	180

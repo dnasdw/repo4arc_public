@@ -1,0 +1,14 @@
+lfc-wahp.nfo	072dd08b
+lfc-wahp.r00	f33d4273
+lfc-wahp.r01	4f068d90
+lfc-wahp.r02	be5785c1
+lfc-wahp.r03	f1557b83
+lfc-wahp.r04	1e2f1744
+lfc-wahp.r05	13321531
+lfc-wahp.r06	e646b852
+lfc-wahp.r07	99a3f14b
+lfc-wahp.r08	e2aee589
+lfc-wahp.r09	7e41e8ce
+lfc-wahp.r10	4b3117be
+lfc-wahp.rar	af0e23c3
+lfc-wahp.sfv	36ffc6b4

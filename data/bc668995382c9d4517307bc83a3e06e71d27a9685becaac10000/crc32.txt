@@ -1,0 +1,12 @@
+lfc-mobo_v131072.nfo	9e42559f
+lfc-mobo_v131072.r00	0d0ba6bb
+lfc-mobo_v131072.r01	40223798
+lfc-mobo_v131072.r02	8e0ab941
+lfc-mobo_v131072.r03	f0da8942
+lfc-mobo_v131072.r04	06a35db9
+lfc-mobo_v131072.r05	b0552645
+lfc-mobo_v131072.r06	12ca32b4
+lfc-mobo_v131072.r07	997d03d5
+lfc-mobo_v131072.r08	f8c5f7a7
+lfc-mobo_v131072.rar	97741f3e
+lfc-mobo_v131072.sfv	66c9c63c

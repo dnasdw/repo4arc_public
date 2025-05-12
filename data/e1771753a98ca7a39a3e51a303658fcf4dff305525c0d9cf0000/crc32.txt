@@ -1,0 +1,8 @@
+sxs-pecaminosa_a_deadly_hand.nfo	664c2bad
+sxs-pecaminosa_a_deadly_hand.r00	2eae7116
+sxs-pecaminosa_a_deadly_hand.r01	93333852
+sxs-pecaminosa_a_deadly_hand.r02	776ef65b
+sxs-pecaminosa_a_deadly_hand.r03	acc50742
+sxs-pecaminosa_a_deadly_hand.r04	ab521e19
+sxs-pecaminosa_a_deadly_hand.rar	7c216015
+sxs-pecaminosa_a_deadly_hand.sfv	d30b32fa

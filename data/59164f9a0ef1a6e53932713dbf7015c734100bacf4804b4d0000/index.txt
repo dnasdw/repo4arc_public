@@ -1,0 +1,6 @@
+sxs-seven_doors_v65536.nfo	-	4886	1	0	0	0
+sxs-seven_doors_v65536.r00	-	100000000	1	4886	0	1
+sxs-seven_doors_v65536.r01	-	100000000	1	100004886	0	97
+sxs-seven_doors_v65536.r02	-	96637581	1	200004886	0	193
+sxs-seven_doors_v65536.rar	-	100000000	1	296642467	0	286
+sxs-seven_doors_v65536.sfv	-	148	1	396642467	0	382

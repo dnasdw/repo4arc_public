@@ -1,0 +1,4 @@
+sxs-cardful_planning.nfo	df7f6da0689815bb805b18330127cbea0c36d86d
+sxs-cardful_planning.r00	db57aa367a73bd59299d91cbf7c35608ebade793
+sxs-cardful_planning.rar	0ad5c0c4f2cb3ad48e12c5a6d9bf883ce9a75ff3
+sxs-cardful_planning.sfv	0939d5154c2298ed55da2156b49431adfa81a2eb

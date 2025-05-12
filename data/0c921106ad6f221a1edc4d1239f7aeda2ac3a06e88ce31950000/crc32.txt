@@ -1,0 +1,16 @@
+v-atarifc.nfo	f3d7165f
+v-atarifc.r00	902888eb
+v-atarifc.r01	6592a700
+v-atarifc.r02	288074f1
+v-atarifc.r03	fd8530b0
+v-atarifc.r04	74625852
+v-atarifc.r05	679e30c7
+v-atarifc.r06	cdb2716c
+v-atarifc.r07	3a0b12c5
+v-atarifc.r08	45a43b5f
+v-atarifc.r09	0848f213
+v-atarifc.r10	10da7b06
+v-atarifc.r11	2ca6b77f
+v-atarifc.r12	3eea24bf
+v-atarifc.rar	8fa334a5
+v-atarifc.sfv	6e093d03

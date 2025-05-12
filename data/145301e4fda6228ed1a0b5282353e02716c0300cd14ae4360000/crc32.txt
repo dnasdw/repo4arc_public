@@ -1,0 +1,13 @@
+sxs-pokemon_scarlet_v131072.nfo	c6c3929f
+sxs-pokemon_scarlet_v131072.r00	5052559c
+sxs-pokemon_scarlet_v131072.r01	fb4ce5d7
+sxs-pokemon_scarlet_v131072.r02	54ea443e
+sxs-pokemon_scarlet_v131072.r03	9b7cb2f9
+sxs-pokemon_scarlet_v131072.r04	b7d7c25c
+sxs-pokemon_scarlet_v131072.r05	004b644b
+sxs-pokemon_scarlet_v131072.r06	8fcae3ce
+sxs-pokemon_scarlet_v131072.r07	e060aa56
+sxs-pokemon_scarlet_v131072.r08	2161209f
+sxs-pokemon_scarlet_v131072.r09	910b34bb
+sxs-pokemon_scarlet_v131072.rar	ffabeb65
+sxs-pokemon_scarlet_v131072.sfv	ae6cd5bf

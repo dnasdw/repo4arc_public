@@ -1,0 +1,5 @@
+lfc-al7waupdate.nfo	67eb42f8
+lfc-al7waupdate.r00	d0d18a02
+lfc-al7waupdate.r01	abbcc2c7
+lfc-al7waupdate.rar	77060251
+lfc-al7waupdate.sfv	80048627

@@ -1,0 +1,3 @@
+sxs-neon_chrome_arena_dlc.nfo	84c464b0
+sxs-neon_chrome_arena_dlc.rar	c1beb845
+sxs-neon_chrome_arena_dlc.sfv	d9fdcc87

@@ -1,0 +1,5 @@
+n-pokemonsnap_v65536.nfo	f249e5108d336026fb1feab9dfdab8df
+n-pokemonsnap_v65536.r00	fd3738a5dabcf6d81473dea3243a6ed5
+n-pokemonsnap_v65536.r01	e7bc5668dbf1956c187986e0d786a25c
+n-pokemonsnap_v65536.rar	5505ad42fff34491ba34308c33bd406a
+n-pokemonsnap_v65536.sfv	ed0b9c1b91699d6bbb5d3165d36a5781

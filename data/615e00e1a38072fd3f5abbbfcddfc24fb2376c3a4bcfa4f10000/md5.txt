@@ -1,0 +1,10 @@
+sxs-the_sundew.nfo	fc02a0de3272475889516cbbd81aa598
+sxs-the_sundew.r00	9691fe0eb01e9f4a2af0681ed62b1343
+sxs-the_sundew.r01	a1d790babdea17dc68064e7598685173
+sxs-the_sundew.r02	06dfc8c9360df35ba69087e6dab5944e
+sxs-the_sundew.r03	d3ac48be55df8f3078c5c64646b368ee
+sxs-the_sundew.r04	21129e790e8f49b95cef70fec11559af
+sxs-the_sundew.r05	760d22618d5e596cfd8f4749b04db989
+sxs-the_sundew.r06	0e543f11f0a6680ffe38a3222c514223
+sxs-the_sundew.rar	46df794c2effb1ce814529bbf5b3741f
+sxs-the_sundew.sfv	f2c1adb8f9b10dd12bc3f34b2a0ef49a

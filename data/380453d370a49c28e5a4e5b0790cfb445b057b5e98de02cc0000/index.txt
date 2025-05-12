@@ -1,0 +1,5 @@
+sxs-gunborg_dark_matters_v196608.nfo	-	5588	1	0	0	0
+sxs-gunborg_dark_matters_v196608.r00	-	50000000	1	5588	0	1
+sxs-gunborg_dark_matters_v196608.r01	-	1659681	1	50005588	0	49
+sxs-gunborg_dark_matters_v196608.rar	-	50000000	1	51665269	0	51
+sxs-gunborg_dark_matters_v196608.sfv	-	141	1	101665269	0	99

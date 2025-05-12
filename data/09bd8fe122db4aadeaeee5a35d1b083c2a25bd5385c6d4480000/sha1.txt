@@ -1,0 +1,6 @@
+lfc-dicelegacyupd1.1.0.nfo	5024a71ac34bf104f9a7ac1e5b0ea7d3644d1f6d
+lfc-dicelegacyupd1.1.0.r00	3456fa5a8df66e45196adb9bf0e17048764cd80f
+lfc-dicelegacyupd1.1.0.r01	1ab791301712997d578492500db140e3681daf4f
+lfc-dicelegacyupd1.1.0.r02	db72f75275f839e044f404f7942326945509e47b
+lfc-dicelegacyupd1.1.0.rar	4e4abdef3c8a4cea482995255458ddc2f4e666da
+lfc-dicelegacyupd1.1.0.sfv	c8bf8ea2c58b1e7920b8ef4f49cf41c301f5ad45

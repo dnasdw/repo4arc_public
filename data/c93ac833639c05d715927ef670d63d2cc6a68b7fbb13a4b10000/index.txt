@@ -1,0 +1,9 @@
+bbb-h-aedxa.nfo	-	5517	1	0	0	0
+bbb-h-aedxa.part01.rar	-	250000000	1	5517	0	1
+bbb-h-aedxa.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-aedxa.part03.rar	-	250000000	1	500005517	0	479
+bbb-h-aedxa.part04.rar	-	250000000	1	212251264	1	203
+bbb-h-aedxa.part05.rar	-	250000000	1	462251264	1	442
+bbb-h-aedxa.part06.rar	-	250000000	1	174502528	2	167
+bbb-h-aedxa.part07.rar	-	225868066	1	424502528	2	406
+bbb-h-aedxa.sfv	-	231	1	112621858	3	108

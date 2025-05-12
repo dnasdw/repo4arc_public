@@ -1,0 +1,9 @@
+sxs-hopiko.nfo	a43388c53ad2c78b413cc8f03ec6a188
+sxs-hopiko.r00	cb9742f67ab40186c4fa91186a41e35d
+sxs-hopiko.r01	158b9a05037a5b3f9bb81e30579081f3
+sxs-hopiko.r02	049d0fcdd6c9024a9b53d9d63a557fbd
+sxs-hopiko.r03	ae9363b67da92a4ce78ad663a65c242f
+sxs-hopiko.r04	eb7c55fbbd85dc3ecc863abb05d335db
+sxs-hopiko.r05	08baaec98fd6b0e5795095c4d9e8a1d1
+sxs-hopiko.rar	0c651e59127532b6b1d44fce6f0975c5
+sxs-hopiko.sfv	c79ea01b5c8517268c07df4ac5ff5a65

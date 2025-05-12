@@ -1,0 +1,8 @@
+sxs-teacup_v196608.nfo	b438d60ad4edd52748dd81efc2aaf8d0
+sxs-teacup_v196608.r00	17509b7f47df00dc2bccdc7f91767a8f
+sxs-teacup_v196608.r01	9f1f7a9afccb9348155f353a54e06d05
+sxs-teacup_v196608.r02	a049044d4ce7e1caa2c12322e6d2952c
+sxs-teacup_v196608.r03	f4f2a41adc0f70004cb4cdb8f15af4e4
+sxs-teacup_v196608.r04	c29d4959c509c0aa8b9776d138fb5a2a
+sxs-teacup_v196608.rar	89b8fcfcb595a9a3c730305d9c9f800d
+sxs-teacup_v196608.sfv	96f076b08e5d550d560358cee17e1aa5

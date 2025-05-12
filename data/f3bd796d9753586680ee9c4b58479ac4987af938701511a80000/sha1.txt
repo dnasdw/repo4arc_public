@@ -1,0 +1,3 @@
+v-legend_of_grimrock_v65536.nfo	6d1b8bfae1a8b2655e0f915d14cd10bc1cd7d0c9
+v-legend_of_grimrock_v65536.rar	cf08ca90cdbbd40e9cfb18d4af1f08029c066b10
+v-legend_of_grimrock_v65536.sfv	fac38d00cd40bf53763e6a38307e34be423b0135

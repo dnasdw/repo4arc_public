@@ -1,0 +1,12 @@
+sxs-aircraft_evolution.nfo	-	4886	1	0	0	0
+sxs-aircraft_evolution.r00	-	50000000	1	4886	0	1
+sxs-aircraft_evolution.r01	-	50000000	1	50004886	0	49
+sxs-aircraft_evolution.r02	-	50000000	1	100004886	0	97
+sxs-aircraft_evolution.r03	-	50000000	1	150004886	0	145
+sxs-aircraft_evolution.r04	-	50000000	1	200004886	0	193
+sxs-aircraft_evolution.r05	-	50000000	1	250004886	0	241
+sxs-aircraft_evolution.r06	-	50000000	1	300004886	0	289
+sxs-aircraft_evolution.r07	-	50000000	1	350004886	0	337
+sxs-aircraft_evolution.r08	-	8952724	1	400004886	0	385
+sxs-aircraft_evolution.rar	-	50000000	1	408957610	0	394
+sxs-aircraft_evolution.sfv	-	370	1	458957610	0	442

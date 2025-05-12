@@ -1,0 +1,10 @@
+sxs-samurai_maiden_v131072.nfo	-	5434	1	0	0	0
+sxs-samurai_maiden_v131072.r00	-	50000000	1	5434	0	1
+sxs-samurai_maiden_v131072.r01	-	50000000	1	50005434	0	49
+sxs-samurai_maiden_v131072.r02	-	50000000	1	100005434	0	97
+sxs-samurai_maiden_v131072.r03	-	50000000	1	150005434	0	145
+sxs-samurai_maiden_v131072.r04	-	50000000	1	200005434	0	193
+sxs-samurai_maiden_v131072.r05	-	50000000	1	250005434	0	241
+sxs-samurai_maiden_v131072.r06	-	284687	1	300005434	0	289
+sxs-samurai_maiden_v131072.rar	-	50000000	1	300290121	0	290
+sxs-samurai_maiden_v131072.sfv	-	328	1	350290121	0	338

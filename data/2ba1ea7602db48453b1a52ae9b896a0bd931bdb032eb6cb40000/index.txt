@@ -1,0 +1,12 @@
+lfc-brokenblades.nfo	-	6040	1	0	0	0
+lfc-brokenblades.r00	-	100000000	1	6040	0	1
+lfc-brokenblades.r01	-	100000000	1	100006040	0	97
+lfc-brokenblades.r02	-	100000000	1	200006040	0	193
+lfc-brokenblades.r03	-	100000000	1	300006040	0	289
+lfc-brokenblades.r04	-	100000000	1	400006040	0	385
+lfc-brokenblades.r05	-	100000000	1	500006040	0	481
+lfc-brokenblades.r06	-	100000000	1	62251264	1	60
+lfc-brokenblades.r07	-	100000000	1	162251264	1	156
+lfc-brokenblades.r08	-	50977586	1	262251264	1	252
+lfc-brokenblades.rar	-	100000000	1	313228850	1	301
+lfc-brokenblades.sfv	-	310	1	413228850	1	397

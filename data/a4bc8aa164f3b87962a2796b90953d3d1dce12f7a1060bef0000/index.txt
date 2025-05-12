@@ -1,0 +1,4 @@
+sxs-thea_the_awakening_v65536.nfo	-	4341	1	0	0	0
+sxs-thea_the_awakening_v65536.r00	-	18440967	1	4341	0	1
+sxs-thea_the_awakening_v65536.rar	-	50000000	1	18445308	0	19
+sxs-thea_the_awakening_v65536.sfv	-	88	1	68445308	0	67

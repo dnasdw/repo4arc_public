@@ -1,0 +1,5 @@
+sxs-mini_metro_v327680.nfo	d4fe8aedf8bc57c8741b932fb01b06d0
+sxs-mini_metro_v327680.r00	40821f48df54545831eeac824f22e2e0
+sxs-mini_metro_v327680.r01	7a0abfaeb6d2ef14429ba702688118c2
+sxs-mini_metro_v327680.rar	02ce4af06127206fd905c108d440ef1f
+sxs-mini_metro_v327680.sfv	2e5d07d6fd21c6501494947fd03828f3

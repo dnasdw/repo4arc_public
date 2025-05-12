@@ -1,0 +1,6 @@
+sxs-pretty_girls_four_kings_solitaire.nfo	-	5666	1	0	0	0
+sxs-pretty_girls_four_kings_solitaire.r00	-	50000000	1	5666	0	1
+sxs-pretty_girls_four_kings_solitaire.r01	-	50000000	1	50005666	0	49
+sxs-pretty_girls_four_kings_solitaire.r02	-	18213364	1	100005666	0	97
+sxs-pretty_girls_four_kings_solitaire.rar	-	50000000	1	118219030	0	115
+sxs-pretty_girls_four_kings_solitaire.sfv	-	208	1	168219030	0	163

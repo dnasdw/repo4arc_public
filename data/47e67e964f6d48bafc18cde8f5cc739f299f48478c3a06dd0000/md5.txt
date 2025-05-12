@@ -1,0 +1,10 @@
+sxs-retrograde_arena.nfo	26a32b72fc843149b69d7fe4ad10f6d3
+sxs-retrograde_arena.r00	1f2c3aeba621a4096da7c16939f3b373
+sxs-retrograde_arena.r01	48ab822ad0e2493d7903417a269e0930
+sxs-retrograde_arena.r02	c3f89804cbd34b9d019fee4b94aae1aa
+sxs-retrograde_arena.r03	9acca462d2b80d81c788222dacb1e8b0
+sxs-retrograde_arena.r04	cdab6ec86d3013faeb1717c37f213c38
+sxs-retrograde_arena.r05	3a0afd7a59865d8420737e4849bae565
+sxs-retrograde_arena.r06	0f9af47cbad925ee6b5977342b1e6f3a
+sxs-retrograde_arena.rar	971198206dca90fee29dd78613768616
+sxs-retrograde_arena.sfv	56b39256fe35639794c824ded96f9519

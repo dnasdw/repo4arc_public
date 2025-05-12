@@ -1,0 +1,3 @@
+v-naruto_x_boruto_ultimate_ninja_storm_connections_dlc.nfo	-	6760	1	0	0	0
+v-naruto_x_boruto_ultimate_ninja_storm_connections_dlc.rar	-	621474	1	6760	0	1
+v-naruto_x_boruto_ultimate_ninja_storm_connections_dlc.sfv	-	69	1	628234	0	2

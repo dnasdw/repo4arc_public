@@ -1,0 +1,12 @@
+sxs-escape_from_life_inc.nfo	0512ed68
+sxs-escape_from_life_inc.r00	8783149c
+sxs-escape_from_life_inc.r01	3029b861
+sxs-escape_from_life_inc.r02	298f36da
+sxs-escape_from_life_inc.r03	3c171356
+sxs-escape_from_life_inc.r04	3d2cb5a2
+sxs-escape_from_life_inc.r05	9e70d7f3
+sxs-escape_from_life_inc.r06	db68219e
+sxs-escape_from_life_inc.r07	0cc11905
+sxs-escape_from_life_inc.r08	b0baa368
+sxs-escape_from_life_inc.rar	f02ae5ff
+sxs-escape_from_life_inc.sfv	4ecf6726

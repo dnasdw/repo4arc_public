@@ -1,0 +1,4 @@
+lfc-gafo.nfo	06a8502f
+lfc-gafo.r00	20220bd2
+lfc-gafo.rar	2ba17bce
+lfc-gafo.sfv	9efaceec

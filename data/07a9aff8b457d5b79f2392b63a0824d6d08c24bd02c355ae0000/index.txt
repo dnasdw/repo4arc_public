@@ -1,0 +1,13 @@
+sxs-smoke_and_sacrifice_v262144.nfo	-	4964	1	0	0	0
+sxs-smoke_and_sacrifice_v262144.r00	-	50000000	1	4964	0	1
+sxs-smoke_and_sacrifice_v262144.r01	-	50000000	1	50004964	0	49
+sxs-smoke_and_sacrifice_v262144.r02	-	50000000	1	100004964	0	97
+sxs-smoke_and_sacrifice_v262144.r03	-	50000000	1	150004964	0	145
+sxs-smoke_and_sacrifice_v262144.r04	-	50000000	1	200004964	0	193
+sxs-smoke_and_sacrifice_v262144.r05	-	50000000	1	250004964	0	241
+sxs-smoke_and_sacrifice_v262144.r06	-	50000000	1	300004964	0	289
+sxs-smoke_and_sacrifice_v262144.r07	-	50000000	1	350004964	0	337
+sxs-smoke_and_sacrifice_v262144.r08	-	50000000	1	400004964	0	385
+sxs-smoke_and_sacrifice_v262144.r09	-	44455783	1	450004964	0	433
+sxs-smoke_and_sacrifice_v262144.rar	-	50000000	1	494460747	0	476
+sxs-smoke_and_sacrifice_v262144.sfv	-	506	1	7008384	1	7

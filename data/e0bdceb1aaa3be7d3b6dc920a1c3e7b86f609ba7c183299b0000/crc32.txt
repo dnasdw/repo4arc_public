@@ -1,0 +1,11 @@
+sxs-blackmoor_2_v1048576.nfo	c34938fe
+sxs-blackmoor_2_v1048576.r00	457a5981
+sxs-blackmoor_2_v1048576.r01	950515e5
+sxs-blackmoor_2_v1048576.r02	3ae40b4d
+sxs-blackmoor_2_v1048576.r03	e53136fa
+sxs-blackmoor_2_v1048576.r04	f0a912b8
+sxs-blackmoor_2_v1048576.r05	6211efff
+sxs-blackmoor_2_v1048576.r06	96326820
+sxs-blackmoor_2_v1048576.r07	ac2b61be
+sxs-blackmoor_2_v1048576.rar	809f3068
+sxs-blackmoor_2_v1048576.sfv	be0906a1

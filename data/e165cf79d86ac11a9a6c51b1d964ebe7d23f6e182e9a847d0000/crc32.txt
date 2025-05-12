@@ -1,0 +1,7 @@
+sxs-darius_cozmic_collection_v196608.nfo	db3ace04
+sxs-darius_cozmic_collection_v196608.r00	cfcfdafc
+sxs-darius_cozmic_collection_v196608.r01	cf8f73f8
+sxs-darius_cozmic_collection_v196608.r02	7b6ad2b3
+sxs-darius_cozmic_collection_v196608.r03	af00314c
+sxs-darius_cozmic_collection_v196608.rar	a379437c
+sxs-darius_cozmic_collection_v196608.sfv	b06184d0

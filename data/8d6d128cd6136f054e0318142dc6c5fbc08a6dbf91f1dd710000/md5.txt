@@ -1,0 +1,7 @@
+sxs-fifa_22_polish_dlc.nfo	2991b3e21649f729fdc8b9f670a5ee22
+sxs-fifa_22_polish_dlc.r00	83a5a3a53d4d4ddd35685c7b88044d1d
+sxs-fifa_22_polish_dlc.r01	ab9b2c853176d2677ea96f45a3fc4e7c
+sxs-fifa_22_polish_dlc.r02	c2bf5b346583dc2002995ed6a6792bcd
+sxs-fifa_22_polish_dlc.r03	0449571f6afb772b95d00d9e2c928169
+sxs-fifa_22_polish_dlc.rar	5720d7aee396779c85136142c514b2ba
+sxs-fifa_22_polish_dlc.sfv	0a62aacbc5a228926e15462f357dd26a

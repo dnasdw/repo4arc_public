@@ -1,0 +1,15 @@
+v-black_paradox.nfo	71bfad96
+v-black_paradox.r00	c9950809
+v-black_paradox.r01	b737704b
+v-black_paradox.r02	9ed12f99
+v-black_paradox.r03	281367de
+v-black_paradox.r04	07584c05
+v-black_paradox.r05	8e628b78
+v-black_paradox.r06	465332bb
+v-black_paradox.r07	df8d2ca6
+v-black_paradox.r08	e9c35c77
+v-black_paradox.r09	e2b51483
+v-black_paradox.r10	af1969f2
+v-black_paradox.r11	3d1bc97c
+v-black_paradox.rar	a73dd241
+v-black_paradox.sfv	a0eadb6d

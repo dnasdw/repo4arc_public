@@ -1,0 +1,15 @@
+sxs-totally_accurate_battle_simulator_v262144.nfo	-	5510	1	0	0	0
+sxs-totally_accurate_battle_simulator_v262144.r00	-	100000000	1	5510	0	1
+sxs-totally_accurate_battle_simulator_v262144.r01	-	100000000	1	100005510	0	97
+sxs-totally_accurate_battle_simulator_v262144.r02	-	100000000	1	200005510	0	193
+sxs-totally_accurate_battle_simulator_v262144.r03	-	100000000	1	300005510	0	289
+sxs-totally_accurate_battle_simulator_v262144.r04	-	100000000	1	400005510	0	385
+sxs-totally_accurate_battle_simulator_v262144.r05	-	100000000	1	500005510	0	481
+sxs-totally_accurate_battle_simulator_v262144.r06	-	100000000	1	62251264	1	60
+sxs-totally_accurate_battle_simulator_v262144.r07	-	100000000	1	162251264	1	156
+sxs-totally_accurate_battle_simulator_v262144.r08	-	100000000	1	262251264	1	252
+sxs-totally_accurate_battle_simulator_v262144.r09	-	100000000	1	362251264	1	348
+sxs-totally_accurate_battle_simulator_v262144.r10	-	100000000	1	462251264	1	444
+sxs-totally_accurate_battle_simulator_v262144.r11	-	24859391	1	24502528	2	24
+sxs-totally_accurate_battle_simulator_v262144.rar	-	100000000	1	49361919	2	48
+sxs-totally_accurate_battle_simulator_v262144.sfv	-	780	1	149361919	2	144

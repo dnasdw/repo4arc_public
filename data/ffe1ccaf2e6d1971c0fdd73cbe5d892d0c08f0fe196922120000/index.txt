@@ -1,0 +1,4 @@
+sxs-garfield_kart_furious_racing_v65536.nfo	-	4262	1	0	0	0
+sxs-garfield_kart_furious_racing_v65536.r00	-	15657515	1	4262	0	1
+sxs-garfield_kart_furious_racing_v65536.rar	-	50000000	1	15661777	0	16
+sxs-garfield_kart_furious_racing_v65536.sfv	-	108	1	65661777	0	64

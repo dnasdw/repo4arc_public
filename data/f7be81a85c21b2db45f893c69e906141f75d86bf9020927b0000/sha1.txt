@@ -1,0 +1,3 @@
+sxs-active_neurons_puzzle_game_v65536.nfo	858840a8449fed385c9101a4821aaea0faecad6f
+sxs-active_neurons_puzzle_game_v65536.rar	9df8f8d795922a3e838ee9977aca55767f58d109
+sxs-active_neurons_puzzle_game_v65536.sfv	6740e1197db55d8fd0ba21d536f07be8786d18aa

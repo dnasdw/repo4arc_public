@@ -1,0 +1,5 @@
+sxs-snes_v720896.nfo	ccbc7241
+sxs-snes_v720896.r00	a0190316
+sxs-snes_v720896.r01	1db03dd0
+sxs-snes_v720896.rar	6cc86c4e
+sxs-snes_v720896.sfv	2d8cd818

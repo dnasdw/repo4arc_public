@@ -1,0 +1,11 @@
+ycn-shimazu.nfo	0ef9b7c4886739c88f3df48c3de9b69b
+ycn-shimazu.r00	1fbf92c33500ec79cd1ab50c792f6588
+ycn-shimazu.r01	1af0ac3bede9565b0d57e7329cc2a878
+ycn-shimazu.r02	e846618564e21a130ee9b2b901584877
+ycn-shimazu.r03	09eef604a6120f9b67c5894ee8d3ce91
+ycn-shimazu.r04	bed58b773605cf32909ba9f5291224bb
+ycn-shimazu.r05	82365af84f56da9c33bd89bbce7a9a85
+ycn-shimazu.r06	5278d32739c74cc3d7aa5fcdc238ff63
+ycn-shimazu.r07	39fceb906bf0865ce36ce4da464cdad6
+ycn-shimazu.rar	7ffa349784bbde9905baaaef09871cf2
+ycn-shimazu.sfv	303fd83d861a5b2debfa7842a76a328f

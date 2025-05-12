@@ -1,0 +1,10 @@
+darkmoon-full.metal.furies.eshop.nsw.nfo	d9dd1611ba08e8e2c418b54fccab009ed07e87a4
+darkmoon-full.metal.furies.eshop.nsw.r00	99b82802c1c4e5dba40cd37632a7b7a6dbd64ed1
+darkmoon-full.metal.furies.eshop.nsw.r01	bdd50d80fc5898a67864e7e1a1cdb571272d389c
+darkmoon-full.metal.furies.eshop.nsw.r02	776bb5cdfd36cb0145933edb54669d862bd73499
+darkmoon-full.metal.furies.eshop.nsw.r03	3256cbecb581c938b9ea96bbcc89ae6d5a20125e
+darkmoon-full.metal.furies.eshop.nsw.r04	7c609fa50178b7175dc34475445c13e0a292f906
+darkmoon-full.metal.furies.eshop.nsw.r05	513b830167fc55ed7bcb86e747f75d0c9ec2c8d2
+darkmoon-full.metal.furies.eshop.nsw.r06	07663753226e10bb378e8749c7a51047cb99ef3c
+darkmoon-full.metal.furies.eshop.nsw.rar	6ca75ec3c3e69a116e6b47e7a1aa238d51b036c2
+darkmoon-full.metal.furies.eshop.nsw.sfv	152a19e5c98112631b737f3c44c441a89b6b4330

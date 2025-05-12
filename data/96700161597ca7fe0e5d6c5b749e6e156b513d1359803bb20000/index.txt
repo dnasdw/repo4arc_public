@@ -1,0 +1,14 @@
+sxs-breeder_homegrown_directors_cut.nfo	-	4108	1	0	0	0
+sxs-breeder_homegrown_directors_cut.r00	-	50000000	1	4108	0	1
+sxs-breeder_homegrown_directors_cut.r01	-	50000000	1	50004108	0	49
+sxs-breeder_homegrown_directors_cut.r02	-	50000000	1	100004108	0	97
+sxs-breeder_homegrown_directors_cut.r03	-	50000000	1	150004108	0	145
+sxs-breeder_homegrown_directors_cut.r04	-	50000000	1	200004108	0	193
+sxs-breeder_homegrown_directors_cut.r05	-	50000000	1	250004108	0	241
+sxs-breeder_homegrown_directors_cut.r06	-	50000000	1	300004108	0	289
+sxs-breeder_homegrown_directors_cut.r07	-	50000000	1	350004108	0	337
+sxs-breeder_homegrown_directors_cut.r08	-	50000000	1	400004108	0	385
+sxs-breeder_homegrown_directors_cut.r09	-	50000000	1	450004108	0	433
+sxs-breeder_homegrown_directors_cut.r10	-	4764981	1	500004108	0	481
+sxs-breeder_homegrown_directors_cut.rar	-	50000000	1	504769089	0	486
+sxs-breeder_homegrown_directors_cut.sfv	-	600	1	17494144	1	17

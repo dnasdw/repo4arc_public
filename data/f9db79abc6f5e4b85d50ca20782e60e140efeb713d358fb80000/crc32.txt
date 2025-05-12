@@ -1,0 +1,12 @@
+lfc-stuntkitepartyv65536.nfo	84909307
+lfc-stuntkitepartyv65536.r00	82c10f96
+lfc-stuntkitepartyv65536.r01	2787d110
+lfc-stuntkitepartyv65536.r02	42d960fb
+lfc-stuntkitepartyv65536.r03	5312d6b5
+lfc-stuntkitepartyv65536.r04	d939399b
+lfc-stuntkitepartyv65536.r05	43685bfa
+lfc-stuntkitepartyv65536.r06	49907aee
+lfc-stuntkitepartyv65536.r07	2f4122dd
+lfc-stuntkitepartyv65536.r08	392e016d
+lfc-stuntkitepartyv65536.rar	22c00921
+lfc-stuntkitepartyv65536.sfv	e6952618

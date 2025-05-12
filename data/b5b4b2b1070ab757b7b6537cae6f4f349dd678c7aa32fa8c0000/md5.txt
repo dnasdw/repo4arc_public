@@ -1,0 +1,4 @@
+lfc-aabb.nfo	5870486f432e169e923505e46390f86c
+lfc-aabb.r00	2a4d638b84eb1494a2e0f4a0c5c38b37
+lfc-aabb.rar	86c8b8b5d56b31bd6074ec4b160a11cd
+lfc-aabb.sfv	f505315ff75067acb7f2de7f1a50167e

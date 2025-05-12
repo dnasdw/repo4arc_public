@@ -1,0 +1,7 @@
+sxs-reventure_v327680.nfo	35fed5664ec3bcd1c19f85d28e66a247
+sxs-reventure_v327680.r00	5ddd304f3b77741429dc76bcac1f8520
+sxs-reventure_v327680.r01	3a04aa10bf4f4c7d590d6783a146f7b8
+sxs-reventure_v327680.r02	61fcfcba29a4fa61137a13488d669d0f
+sxs-reventure_v327680.r03	89b897006f13fee3111701c1ed4b9585
+sxs-reventure_v327680.rar	22870b2c5d8e395ab2c8330b4b8dd2f1
+sxs-reventure_v327680.sfv	1f10781842b48ffc7eb436f5bdcf6239

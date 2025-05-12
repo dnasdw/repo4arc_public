@@ -1,0 +1,7 @@
+v-cat_tales.nfo	e44761ccf51728fc481c7fa2a5747d33
+v-cat_tales.r00	d77a535c8221f41f24c692ab543c03c9
+v-cat_tales.r01	2c5161aaa9dec4bcf493027f7b3af0f8
+v-cat_tales.r02	3d1b9a5de52d677b155821d9100032ca
+v-cat_tales.r03	5cb709315d2b19b1a37f6343fbf3ccdf
+v-cat_tales.rar	9e678701bb54bab8f574dd585170ca87
+v-cat_tales.sfv	16490dd052574b745f43fe586691006f

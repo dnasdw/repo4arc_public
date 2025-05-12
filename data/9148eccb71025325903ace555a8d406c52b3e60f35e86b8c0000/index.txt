@@ -1,0 +1,5 @@
+v-regions_of_ruin_v65536.nfo	-	6214	1	0	0	0
+v-regions_of_ruin_v65536.r00	-	50000000	1	6214	0	1
+v-regions_of_ruin_v65536.r01	-	44598987	1	50006214	0	49
+v-regions_of_ruin_v65536.rar	-	50000000	1	94605201	0	92
+v-regions_of_ruin_v65536.sfv	-	117	1	144605201	0	140

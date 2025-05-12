@@ -1,0 +1,4 @@
+brw-hswh.nfo	0dc39e36966a8fff8b16d876b7b83e31
+brw-hswh.r00	c495df63f5a2db6a8a234a0033f8acf1
+brw-hswh.rar	1119bc80c40e2f5409cb64d8aa5fa436
+brw-hswh.sfv	06c5018903e4b157a9ea725af4a5d423

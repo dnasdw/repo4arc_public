@@ -1,0 +1,4 @@
+lfc-justglide.nfo	-	3720	1	0	0	0
+lfc-justglide.r00	-	43125421	1	3720	0	1
+lfc-justglide.rar	-	50000000	1	43129141	0	43
+lfc-justglide.sfv	-	56	1	93129141	0	91

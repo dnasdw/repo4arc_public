@@ -1,0 +1,4 @@
+sxs-singled_out_v65536.nfo	83d493b10fb0726bbe84f8f10d607395
+sxs-singled_out_v65536.r00	9c6c2536e2a105056525140ad111f33c
+sxs-singled_out_v65536.rar	0c4b0a6993f5724c90f0d6e77c814fd4
+sxs-singled_out_v65536.sfv	3ac3ce2200b734c293ca96d3116ed9cf

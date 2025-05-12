@@ -1,0 +1,5 @@
+sxs-quick_race.nfo	42436d5bd955fcce790678640be8de7b42ea4da1
+sxs-quick_race.r00	fbe5641659b727442ef8ffe153ab2e68e7af722a
+sxs-quick_race.r01	af90d56fa7c66cbd3e49cc75ef8a134305558419
+sxs-quick_race.rar	709362667a32512c5ee4a64f36441b7764f76717
+sxs-quick_race.sfv	988f97a3343f7a80ee0342b8c622c52ba4dfa76b

@@ -1,0 +1,8 @@
+i-soccerpinball.nfo	671ec8cc
+i-soccerpinball.r00	d7fbead9
+i-soccerpinball.r01	98e8c6f3
+i-soccerpinball.r02	64bc812e
+i-soccerpinball.r03	05951b5d
+i-soccerpinball.r04	f34bd0f4
+i-soccerpinball.rar	ffe92ed1
+i-soccerpinball.sfv	e8513c48

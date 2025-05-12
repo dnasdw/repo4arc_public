@@ -1,0 +1,5 @@
+sxs-neon_hell_v65536.nfo	-	4496	1	0	0	0
+sxs-neon_hell_v65536.r00	-	50000000	1	4496	0	1
+sxs-neon_hell_v65536.r01	-	48743847	1	50004496	0	49
+sxs-neon_hell_v65536.rar	-	50000000	1	98748343	0	96
+sxs-neon_hell_v65536.sfv	-	105	1	148748343	0	144

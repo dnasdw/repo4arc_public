@@ -1,0 +1,12 @@
+i-beholdtk.nfo	8f9c8eacfbaf236bce39bff2d2f477fdf0cdafb1
+i-beholdtk.r00	81fe484152eeabc4c69ea5e2191dda3cab11b333
+i-beholdtk.r01	96d97ded1bd9d170942aa76a02d9bee7ef454a6a
+i-beholdtk.r02	be86b599f54093e6aff6a83371c8582d0fc6f1a7
+i-beholdtk.r03	025e2a8656d137152028e6f18a08df8e1567c0e2
+i-beholdtk.r04	024bc7be1bd1fad6d40b736b4d7036c0ac7027db
+i-beholdtk.r05	6ee67dde0c8322f159d3ec886809b7d8a4226b2d
+i-beholdtk.r06	05a3feb3c788f64bdcc428f640dcc829fb89b873
+i-beholdtk.r07	0cc967105c6d751b4b30100ca2f3ebce6e787812
+i-beholdtk.r08	d5a5ecde077634856b755690e0f91ea7fdf26654
+i-beholdtk.rar	66a2e8bd9be86bc4af3e2626917c04bf63c6ccb3
+i-beholdtk.sfv	0308a46302cd27612a548fb17ad52c445dae28a5

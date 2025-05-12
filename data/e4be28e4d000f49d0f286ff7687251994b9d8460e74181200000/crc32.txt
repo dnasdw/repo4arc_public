@@ -1,0 +1,11 @@
+sxs-persephone.nfo	070761bc
+sxs-persephone.r00	47d8ee3d
+sxs-persephone.r01	6f1ec2bf
+sxs-persephone.r02	78e230f7
+sxs-persephone.r03	c36061c1
+sxs-persephone.r04	6057cc2f
+sxs-persephone.r05	9b5a54d1
+sxs-persephone.r06	6889b176
+sxs-persephone.r07	d6669fbb
+sxs-persephone.rar	9c54db66
+sxs-persephone.sfv	0a809569

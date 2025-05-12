@@ -1,0 +1,5 @@
+sxs-opus_collection_v65536.nfo	a25c4bb6
+sxs-opus_collection_v65536.r00	8f6a9b9d
+sxs-opus_collection_v65536.r01	243d88d1
+sxs-opus_collection_v65536.rar	003a344b
+sxs-opus_collection_v65536.sfv	5ba6447b

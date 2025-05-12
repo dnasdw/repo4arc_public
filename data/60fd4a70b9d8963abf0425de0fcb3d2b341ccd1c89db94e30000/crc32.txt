@@ -1,0 +1,8 @@
+sxs-8_ball_clash.nfo	42068c1f
+sxs-8_ball_clash.r00	4b1bee38
+sxs-8_ball_clash.r01	6c153a4e
+sxs-8_ball_clash.r02	edf8ecf3
+sxs-8_ball_clash.r03	65de70b2
+sxs-8_ball_clash.r04	59fad806
+sxs-8_ball_clash.rar	1978c153
+sxs-8_ball_clash.sfv	44fcc86d

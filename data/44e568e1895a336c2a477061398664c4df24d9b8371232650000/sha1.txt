@@ -1,0 +1,4 @@
+v-super_double_dragon.nfo	085a645dac036cc933910ad2285115e14e514b2e
+v-super_double_dragon.r00	ecac6296885fec5ac42e921cf94e460258424f91
+v-super_double_dragon.rar	9fcb4a6d09b9b8ed9ddafe763aa6f84da3917010
+v-super_double_dragon.sfv	38b30a85b877f9278138712d28580a59d67536a1

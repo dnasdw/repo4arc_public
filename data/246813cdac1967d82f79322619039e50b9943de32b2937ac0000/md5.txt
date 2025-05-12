@@ -1,0 +1,6 @@
+v-trombone_champ_v393216.nfo	079565f40051fb4bb5c9f921b42ad966
+v-trombone_champ_v393216.r00	5cec5aba4fda28891126b19fc900d0a7
+v-trombone_champ_v393216.r01	7644badf858e3f6f4e9e5b7720bae906
+v-trombone_champ_v393216.r02	8eca6c97d72c3db25154ff470bf02e14
+v-trombone_champ_v393216.rar	cec3304e620fd1c876709fe7344060c8
+v-trombone_champ_v393216.sfv	a91658ec71316f41a5000fc68e9367e8

@@ -1,0 +1,3 @@
+v-mk11_aftermath_dlc.nfo	cc668790b71b5902e3e5539a1a23dd67fa0b8697
+v-mk11_aftermath_dlc.rar	97117b0d617f0c7cb1db92afc9fe1da0b8164b14
+v-mk11_aftermath_dlc.sfv	e1af38dd1a95e1322d2140c7bb4d2a9bd3b9bd1b

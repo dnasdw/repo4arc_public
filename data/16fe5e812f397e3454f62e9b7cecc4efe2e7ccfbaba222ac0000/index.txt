@@ -1,0 +1,5 @@
+sxs-tick_tock_a_tale_for_two_v196608.nfo	-	4418	1	0	0	0
+sxs-tick_tock_a_tale_for_two_v196608.r00	-	50000000	1	4418	0	1
+sxs-tick_tock_a_tale_for_two_v196608.r01	-	20353450	1	50004418	0	49
+sxs-tick_tock_a_tale_for_two_v196608.rar	-	50000000	1	70357868	0	69
+sxs-tick_tock_a_tale_for_two_v196608.sfv	-	153	1	120357868	0	117

@@ -1,0 +1,15 @@
+l-floogen.nfo	360adda49e3f05520d51b0a75899a034
+l-floogen.r00	1a8b69ebabe2e82b1d5dd6e1ce005e81
+l-floogen.r01	3521ac922e29f355f2a21888bec05f5d
+l-floogen.r02	ca243e91daecfa35841d9ad5e661e0c7
+l-floogen.r03	5d10819faade4ff59bf747db71a65013
+l-floogen.r04	aaabda9cb927d130096b4242f347e329
+l-floogen.r05	f57f6c1ac723bc5ed803513ae7292757
+l-floogen.r06	95c41d1876056ef2d722899abc0c0b85
+l-floogen.r07	c73c7d293c8d16ffd437950c8af2d336
+l-floogen.r08	4b9c9e4ca58c9c52e6aa367d68677c60
+l-floogen.r09	c0de3ef953436b6f8403a11b5c96fc6d
+l-floogen.r10	9edef6fdc61e6bdd45f2abe3dae35e38
+l-floogen.r11	4ea82dc696e6944201d47014a0fcf756
+l-floogen.rar	d2bb22950ad3dd5d9dab480517f8e5c0
+l-floogen.sfv	73157784f40fbc0f420789a0b2f512a6

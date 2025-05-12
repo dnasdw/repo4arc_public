@@ -1,0 +1,3 @@
+lfc-pixelgladiator.nfo	6111b0351a8305bea3a61559a41f3ddbdba4e2e8
+lfc-pixelgladiator.rar	7b31fd853c9b629851b0a3cdc1efd3c2deab6071
+lfc-pixelgladiator.sfv	d41fd8dae643c1c74b2d98c5214c817e0e5b24e3

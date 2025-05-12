@@ -1,0 +1,5 @@
+sxs-debris_infinity_v196608.nfo	071f8cf9a0bc29266e2ca9ab5ac33f06
+sxs-debris_infinity_v196608.r00	b37be6f075c51f1dfa1fe816b31b498c
+sxs-debris_infinity_v196608.r01	b19435c1d5045410f04b093cca56e86c
+sxs-debris_infinity_v196608.rar	5722663e430c6e9fa69d1ec81e0fef3e
+sxs-debris_infinity_v196608.sfv	da9e424ea8cc43030b0bca764689f79a

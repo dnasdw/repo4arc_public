@@ -1,0 +1,4 @@
+lfc-aajb.nfo	-	5710	1	0	0	0
+lfc-aajb.r00	-	3162880	1	5710	0	1
+lfc-aajb.rar	-	50000000	1	3168590	0	5
+lfc-aajb.sfv	-	46	1	53168590	0	53

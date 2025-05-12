@@ -1,0 +1,5 @@
+v-outrun.nfo	93d4a2fae02212090cb5f53ff97f885c
+v-outrun.r00	237981de52015788044d1b62a0aa9821
+v-outrun.r01	c4b1b2cf58dace108446f31d07ccdf2e
+v-outrun.rar	42e6f74e70def0cc519462aa2239a044
+v-outrun.sfv	d9d782d79d06e091be91f1a42718f43a

@@ -1,0 +1,3 @@
+v-are_you_smarter_than_a_5th_grader_extra_credit_dlc.nfo	-	6526	1	0	0	0
+v-are_you_smarter_than_a_5th_grader_extra_credit_dlc.rar	-	104136	1	6526	0	1
+v-are_you_smarter_than_a_5th_grader_extra_credit_dlc.sfv	-	67	1	110662	0	2

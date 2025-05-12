@@ -1,0 +1,10 @@
+sxs-tetsumo_party.nfo	71405818bbe566cd098244d874b7e414
+sxs-tetsumo_party.r00	f3341adf0638102b9d3d6b7b59f25c98
+sxs-tetsumo_party.r01	537fe482a754590b9d95ca409b04dd74
+sxs-tetsumo_party.r02	f3629d0bee083678992ef634f06acdb9
+sxs-tetsumo_party.r03	eea27788c3acfe601603b3cb7fbbe429
+sxs-tetsumo_party.r04	f67e18ea1915d1c2e9bc713f1a3b8837
+sxs-tetsumo_party.r05	d876c0d53ee39d6e18ecfd364f58dc4d
+sxs-tetsumo_party.r06	8273f1a5271485f6d43fa7f476d68b76
+sxs-tetsumo_party.rar	0049c16c4634a86256c277f8cb197417
+sxs-tetsumo_party.sfv	09d5ae7a3510ef975909da31c0c06050

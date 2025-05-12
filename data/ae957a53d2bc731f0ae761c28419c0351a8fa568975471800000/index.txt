@@ -1,0 +1,15 @@
+sxs-drag_racing_car_simulator.nfo	-	6524	1	0	0	0
+sxs-drag_racing_car_simulator.r00	-	100000000	1	6524	0	1
+sxs-drag_racing_car_simulator.r01	-	100000000	1	100006524	0	97
+sxs-drag_racing_car_simulator.r02	-	100000000	1	200006524	0	193
+sxs-drag_racing_car_simulator.r03	-	100000000	1	300006524	0	289
+sxs-drag_racing_car_simulator.r04	-	100000000	1	400006524	0	385
+sxs-drag_racing_car_simulator.r05	-	100000000	1	500006524	0	481
+sxs-drag_racing_car_simulator.r06	-	100000000	1	62251264	1	60
+sxs-drag_racing_car_simulator.r07	-	100000000	1	162251264	1	156
+sxs-drag_racing_car_simulator.r08	-	100000000	1	262251264	1	252
+sxs-drag_racing_car_simulator.r09	-	100000000	1	362251264	1	348
+sxs-drag_racing_car_simulator.r10	-	100000000	1	462251264	1	444
+sxs-drag_racing_car_simulator.r11	-	33733925	1	24502528	2	24
+sxs-drag_racing_car_simulator.rar	-	100000000	1	58236453	2	57
+sxs-drag_racing_car_simulator.sfv	-	572	1	158236453	2	153

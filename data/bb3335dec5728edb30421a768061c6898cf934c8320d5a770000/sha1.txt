@@ -1,0 +1,3 @@
+sxs-mutant_football_gnashville_dlc.nfo	db7f1a5faea6e789a722075f53505345fcc212c7
+sxs-mutant_football_gnashville_dlc.rar	92f6bc61a77914335b26491e47c43b586adff936
+sxs-mutant_football_gnashville_dlc.sfv	0cf45cb221999d6e3d61a35d6925bf5f4ddba20a

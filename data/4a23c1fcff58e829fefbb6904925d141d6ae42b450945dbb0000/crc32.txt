@@ -1,0 +1,8 @@
+brw-kitt.nfo	cb69d71a
+brw-kitt.r00	1f761350
+brw-kitt.r01	08adb4a2
+brw-kitt.r02	a4bfbae9
+brw-kitt.r03	4a47445c
+brw-kitt.r04	6d6aea1d
+brw-kitt.rar	0b9ab3cb
+brw-kitt.sfv	f8d4cc16

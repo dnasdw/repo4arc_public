@@ -1,0 +1,3 @@
+sxs-tetra_for_nintendo_switch_v65536.nfo	-	4262	1	0	0	0
+sxs-tetra_for_nintendo_switch_v65536.rar	-	25779773	1	4262	0	1
+sxs-tetra_for_nintendo_switch_v65536.sfv	-	51	1	25784035	0	26

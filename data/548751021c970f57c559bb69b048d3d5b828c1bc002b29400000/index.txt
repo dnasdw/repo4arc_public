@@ -1,0 +1,10 @@
+sxs-the_hundred_year_kingdom_v393216.nfo	-	5744	1	0	0	0
+sxs-the_hundred_year_kingdom_v393216.r00	-	50000000	1	5744	0	1
+sxs-the_hundred_year_kingdom_v393216.r01	-	50000000	1	50005744	0	49
+sxs-the_hundred_year_kingdom_v393216.r02	-	50000000	1	100005744	0	97
+sxs-the_hundred_year_kingdom_v393216.r03	-	50000000	1	150005744	0	145
+sxs-the_hundred_year_kingdom_v393216.r04	-	50000000	1	200005744	0	193
+sxs-the_hundred_year_kingdom_v393216.r05	-	50000000	1	250005744	0	241
+sxs-the_hundred_year_kingdom_v393216.r06	-	29323750	1	300005744	0	289
+sxs-the_hundred_year_kingdom_v393216.rar	-	50000000	1	329329494	0	317
+sxs-the_hundred_year_kingdom_v393216.sfv	-	408	1	379329494	0	365

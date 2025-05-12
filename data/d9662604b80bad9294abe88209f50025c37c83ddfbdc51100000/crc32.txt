@@ -1,0 +1,5 @@
+lfc-grab.nfo	d2105b7e
+lfc-grab.r00	c5220ad4
+lfc-grab.r01	d6a7437f
+lfc-grab.rar	c4909883
+lfc-grab.sfv	cd68aa79

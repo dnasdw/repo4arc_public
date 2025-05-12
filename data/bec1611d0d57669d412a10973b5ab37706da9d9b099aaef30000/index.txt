@@ -1,0 +1,4 @@
+sxs-sniper_elite_4_v196608.nfo	-	4496	1	0	0	0
+sxs-sniper_elite_4_v196608.r00	-	42850733	1	4496	0	1
+sxs-sniper_elite_4_v196608.rar	-	50000000	1	42855229	0	42
+sxs-sniper_elite_4_v196608.sfv	-	82	1	92855229	0	90

@@ -1,0 +1,9 @@
+sxs-calico_v851968.nfo	89b30d76
+sxs-calico_v851968.r00	629e40a3
+sxs-calico_v851968.r01	f0bd7378
+sxs-calico_v851968.r02	67f1ac1e
+sxs-calico_v851968.r03	d540bff2
+sxs-calico_v851968.r04	c3414d78
+sxs-calico_v851968.r05	5bcc86be
+sxs-calico_v851968.rar	a2494ad4
+sxs-calico_v851968.sfv	9895b8d8

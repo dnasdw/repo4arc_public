@@ -1,0 +1,3 @@
+sxs-cooking_arena_dlc.nfo	2537a4187950b69caf365b058f836cb8f3ce9d4e
+sxs-cooking_arena_dlc.rar	5df55d6c7d458e6aa16ec9f7b93f8b3727677e78
+sxs-cooking_arena_dlc.sfv	3b49c5bf010168bc28b32660d4902668c1e4e171

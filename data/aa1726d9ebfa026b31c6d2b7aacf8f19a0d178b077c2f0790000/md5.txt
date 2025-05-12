@@ -1,0 +1,5 @@
+sxs-cosmic_star_heroine_v131072.nfo	d3b9dec09c8bfd3254287981ee3a826d
+sxs-cosmic_star_heroine_v131072.r00	c63c3183645f950a6e3e85dbc3cc85de
+sxs-cosmic_star_heroine_v131072.r01	3ec2841b7d9a5ac448533a3189c477ac
+sxs-cosmic_star_heroine_v131072.rar	aafaf18b0891ca1afd8bc57819c6c296
+sxs-cosmic_star_heroine_v131072.sfv	e3af24f7fd272809b4a9c4cc66ba1d64

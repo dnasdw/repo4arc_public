@@ -1,0 +1,8 @@
+sxs-treadnauts_v65536.nfo	48a4d3ca0e0a09933e9b08f30452e12f
+sxs-treadnauts_v65536.r00	5d57c640a98bee12745965f5c19e2f28
+sxs-treadnauts_v65536.r01	a671c9ab32f5f1103509160a2d19b68f
+sxs-treadnauts_v65536.r02	0cdcf68b4ad6dd15368d810ad6d87d6d
+sxs-treadnauts_v65536.r03	761b53909901a984f863bc2b8bf494ed
+sxs-treadnauts_v65536.r04	30b225effe3a763c2f99cfca13453e09
+sxs-treadnauts_v65536.rar	2bfd1f12f88b4e453dcec569d6e9d7d8
+sxs-treadnauts_v65536.sfv	a5d6abb08c7606a50206d204046b80fe

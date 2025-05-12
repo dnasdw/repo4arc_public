@@ -1,0 +1,5 @@
+sxs-cytus_alpha_v196608.nfo	285fd61cfe844b9257d3c53a4ab51482
+sxs-cytus_alpha_v196608.r00	872e8cc6424d6ea779d516fda40a21b3
+sxs-cytus_alpha_v196608.r01	100c9688cc66112c543904d76ebce3a0
+sxs-cytus_alpha_v196608.rar	f49efee0e6f26a3fe93add69f2f8290d
+sxs-cytus_alpha_v196608.sfv	8396eca302d223069dbbae65106a75c1

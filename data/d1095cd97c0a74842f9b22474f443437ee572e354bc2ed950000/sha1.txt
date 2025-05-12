@@ -1,0 +1,15 @@
+darkmoon-chicken.assassin.reloaded.eshop.nsw.nfo	9b8b76a46c489920bd98a7c599f8e95390ff64f8
+darkmoon-chicken.assassin.reloaded.eshop.nsw.r00	7d8c2797feabd152e512a27e6b8bed179f6a268a
+darkmoon-chicken.assassin.reloaded.eshop.nsw.r01	0abbe49dc0580857a12b7b237fd76b9742c89ebf
+darkmoon-chicken.assassin.reloaded.eshop.nsw.r02	2ac1661e93b0b41c78fcdf4a7bb5e1c7a4349888
+darkmoon-chicken.assassin.reloaded.eshop.nsw.r03	c93665cb0acd670536c19d65b9f1d6255529930a
+darkmoon-chicken.assassin.reloaded.eshop.nsw.r04	e5f2323011137a1fb14f7f20e659f36d2b5cc8a8
+darkmoon-chicken.assassin.reloaded.eshop.nsw.r05	5ffdf9293513da630ca3518323b6bbcc44069f7a
+darkmoon-chicken.assassin.reloaded.eshop.nsw.r06	bfed7ad454afc2030c5aa7f8541ea3c582200562
+darkmoon-chicken.assassin.reloaded.eshop.nsw.r07	43fc4cad76df0fcd7f3c2581d1382115f0184a6f
+darkmoon-chicken.assassin.reloaded.eshop.nsw.r08	861d5dc6462966a8864223938d5b3d210a7a6737
+darkmoon-chicken.assassin.reloaded.eshop.nsw.r09	20565938468eb6bbdb2cb4759a75bf59ea9af4a5
+darkmoon-chicken.assassin.reloaded.eshop.nsw.r10	21cd964d3ad6ffd521d2fbc7363e189317793f7d
+darkmoon-chicken.assassin.reloaded.eshop.nsw.r11	8ef420cad7f306122a770588135d5f436507a114
+darkmoon-chicken.assassin.reloaded.eshop.nsw.rar	cb768b7051b02e439c9cafd6b875743d5270bdc4
+darkmoon-chicken.assassin.reloaded.eshop.nsw.sfv	2445d82eb3cbae7bd6496877248d01e6491e82c4

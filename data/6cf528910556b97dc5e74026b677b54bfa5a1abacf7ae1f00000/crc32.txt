@@ -1,0 +1,10 @@
+sxs-touhou_kobuto_v_burst_battle_v196608.nfo	7a86feae
+sxs-touhou_kobuto_v_burst_battle_v196608.r00	598cd085
+sxs-touhou_kobuto_v_burst_battle_v196608.r01	4646ce9d
+sxs-touhou_kobuto_v_burst_battle_v196608.r02	ddb19a46
+sxs-touhou_kobuto_v_burst_battle_v196608.r03	89829233
+sxs-touhou_kobuto_v_burst_battle_v196608.r04	19592e8b
+sxs-touhou_kobuto_v_burst_battle_v196608.r05	61c3489c
+sxs-touhou_kobuto_v_burst_battle_v196608.r06	793c0b2b
+sxs-touhou_kobuto_v_burst_battle_v196608.rar	1db3c513
+sxs-touhou_kobuto_v_burst_battle_v196608.sfv	6bda05d8

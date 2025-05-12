@@ -1,0 +1,17 @@
+v-blstr_v327680.nfo	619f9d5a
+v-blstr_v327680.r00	2d10b3af
+v-blstr_v327680.r01	c5d83e87
+v-blstr_v327680.r02	a396e34f
+v-blstr_v327680.r03	fd602149
+v-blstr_v327680.r04	74435a28
+v-blstr_v327680.r05	250496e3
+v-blstr_v327680.r06	fb1956d7
+v-blstr_v327680.r07	53b3fbfd
+v-blstr_v327680.r08	1b721d38
+v-blstr_v327680.r09	c51541c0
+v-blstr_v327680.r10	f6c3961e
+v-blstr_v327680.r11	ee19702a
+v-blstr_v327680.r12	f3b1840e
+v-blstr_v327680.r13	76d729bc
+v-blstr_v327680.rar	a626c709
+v-blstr_v327680.sfv	aab3d7b2

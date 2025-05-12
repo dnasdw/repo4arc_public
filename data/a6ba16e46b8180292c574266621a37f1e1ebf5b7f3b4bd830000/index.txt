@@ -1,0 +1,4 @@
+v-cyber_citizen_shockman_2_a_new_menace.nfo	-	5200	1	0	0	0
+v-cyber_citizen_shockman_2_a_new_menace.r00	-	35757948	1	5200	0	1
+v-cyber_citizen_shockman_2_a_new_menace.rar	-	100000000	1	35763148	0	36
+v-cyber_citizen_shockman_2_a_new_menace.sfv	-	108	1	135763148	0	132

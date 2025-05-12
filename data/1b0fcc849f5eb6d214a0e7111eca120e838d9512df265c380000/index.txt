@@ -1,0 +1,10 @@
+sxs-glitchhikers_the_spaces_between_v327680.nfo	-	6992	1	0	0	0
+sxs-glitchhikers_the_spaces_between_v327680.r00	-	100000000	1	6992	0	1
+sxs-glitchhikers_the_spaces_between_v327680.r01	-	100000000	1	100006992	0	97
+sxs-glitchhikers_the_spaces_between_v327680.r02	-	100000000	1	200006992	0	193
+sxs-glitchhikers_the_spaces_between_v327680.r03	-	100000000	1	300006992	0	289
+sxs-glitchhikers_the_spaces_between_v327680.r04	-	100000000	1	400006992	0	385
+sxs-glitchhikers_the_spaces_between_v327680.r05	-	100000000	1	500006992	0	481
+sxs-glitchhikers_the_spaces_between_v327680.r06	-	94200168	1	62251264	1	60
+sxs-glitchhikers_the_spaces_between_v327680.rar	-	100000000	1	156451432	1	150
+sxs-glitchhikers_the_spaces_between_v327680.sfv	-	464	1	256451432	1	246

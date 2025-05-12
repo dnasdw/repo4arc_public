@@ -1,0 +1,8 @@
+sxs-the_addams_family_mansion_mayhem_v65536.nfo	3961da10
+sxs-the_addams_family_mansion_mayhem_v65536.r00	33ef4960
+sxs-the_addams_family_mansion_mayhem_v65536.r01	ecb360d2
+sxs-the_addams_family_mansion_mayhem_v65536.r02	79dbb40b
+sxs-the_addams_family_mansion_mayhem_v65536.r03	c6ab4077
+sxs-the_addams_family_mansion_mayhem_v65536.r04	b7d6bef4
+sxs-the_addams_family_mansion_mayhem_v65536.rar	e43db30b
+sxs-the_addams_family_mansion_mayhem_v65536.sfv	0aa1a481

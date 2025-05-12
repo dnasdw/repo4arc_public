@@ -1,0 +1,5 @@
+v-ffvii_v65536.nfo	a44f3369e8d766c5d9a5ae50ae40a1cb
+v-ffvii_v65536.r00	2c4c978e5704df657a7bd14bc0b18b98
+v-ffvii_v65536.r01	c8f48e13dad8815e34a23cd69a6a7c07
+v-ffvii_v65536.rar	b65dd21cdb3c1123ddc8209aaa8fc591
+v-ffvii_v65536.sfv	ff6b67fefae195d1bc0b929c3f004d26

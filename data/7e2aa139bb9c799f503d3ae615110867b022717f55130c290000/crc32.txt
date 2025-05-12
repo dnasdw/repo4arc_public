@@ -1,0 +1,11 @@
+delight.nfo	94062054
+dl-survivalists.r00	53802f88
+dl-survivalists.r01	e8fec157
+dl-survivalists.r02	56a4446b
+dl-survivalists.r03	e6bb966a
+dl-survivalists.r04	6650e541
+dl-survivalists.r05	cc56e073
+dl-survivalists.r06	4d109dd5
+dl-survivalists.r07	26fd1862
+dl-survivalists.rar	7904508a
+dl-survivalists.sfv	11f26aa3

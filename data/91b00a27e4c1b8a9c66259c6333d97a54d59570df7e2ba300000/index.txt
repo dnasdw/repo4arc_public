@@ -1,0 +1,14 @@
+sxs-rain_on_your_parade_v393216.nfo	-	6446	1	0	0	0
+sxs-rain_on_your_parade_v393216.r00	-	50000000	1	6446	0	1
+sxs-rain_on_your_parade_v393216.r01	-	50000000	1	50006446	0	49
+sxs-rain_on_your_parade_v393216.r02	-	50000000	1	100006446	0	97
+sxs-rain_on_your_parade_v393216.r03	-	50000000	1	150006446	0	145
+sxs-rain_on_your_parade_v393216.r04	-	50000000	1	200006446	0	193
+sxs-rain_on_your_parade_v393216.r05	-	50000000	1	250006446	0	241
+sxs-rain_on_your_parade_v393216.r06	-	50000000	1	300006446	0	289
+sxs-rain_on_your_parade_v393216.r07	-	50000000	1	350006446	0	337
+sxs-rain_on_your_parade_v393216.r08	-	50000000	1	400006446	0	385
+sxs-rain_on_your_parade_v393216.r09	-	50000000	1	450006446	0	433
+sxs-rain_on_your_parade_v393216.r10	-	38956282	1	500006446	0	481
+sxs-rain_on_your_parade_v393216.rar	-	50000000	1	1207546	1	2
+sxs-rain_on_your_parade_v393216.sfv	-	552	1	51207546	1	50

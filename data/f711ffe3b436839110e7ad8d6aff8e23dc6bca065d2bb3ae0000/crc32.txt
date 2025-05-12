@@ -1,0 +1,5 @@
+lfc-orax.nfo	9b416ee0
+lfc-orax.r00	2be89f6c
+lfc-orax.r01	fa90705e
+lfc-orax.rar	dd29f01b
+lfc-orax.sfv	4ba0cb70

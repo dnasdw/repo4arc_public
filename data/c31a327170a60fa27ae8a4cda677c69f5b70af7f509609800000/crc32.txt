@@ -1,0 +1,6 @@
+sxs-ski_simulator_winter_sports.nfo	0fbc66f7
+sxs-ski_simulator_winter_sports.r00	afc7695a
+sxs-ski_simulator_winter_sports.r01	b1d227de
+sxs-ski_simulator_winter_sports.r02	b7f0dead
+sxs-ski_simulator_winter_sports.rar	d3ea5c0e
+sxs-ski_simulator_winter_sports.sfv	734cb171

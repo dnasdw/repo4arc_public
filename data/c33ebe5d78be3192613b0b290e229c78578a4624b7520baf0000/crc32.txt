@@ -1,0 +1,12 @@
+sxs-war_theatre_v131072.nfo	2eba0d81
+sxs-war_theatre_v131072.r00	2123d8e1
+sxs-war_theatre_v131072.r01	2baaffa4
+sxs-war_theatre_v131072.r02	babe25e5
+sxs-war_theatre_v131072.r03	c2cedf45
+sxs-war_theatre_v131072.r04	13c0784d
+sxs-war_theatre_v131072.r05	d4d58b0d
+sxs-war_theatre_v131072.r06	01af4b1c
+sxs-war_theatre_v131072.r07	83a7170f
+sxs-war_theatre_v131072.r08	8dc4701f
+sxs-war_theatre_v131072.rar	db40284c
+sxs-war_theatre_v131072.sfv	9b514d60

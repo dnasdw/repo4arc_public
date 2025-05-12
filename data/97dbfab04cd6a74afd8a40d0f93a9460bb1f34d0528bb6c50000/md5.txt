@@ -1,0 +1,9 @@
+sxs-el_gancho.nfo	6fda73b4cdeb1214b3413dd846b05994
+sxs-el_gancho.r00	7ef56005661ecad1ddf817b23d29f1cd
+sxs-el_gancho.r01	f73d535b9b791ca2df923435538a65bb
+sxs-el_gancho.r02	e69af625f002f419687a4da705bdc178
+sxs-el_gancho.r03	1d04b561f9b8e1bf9f4890fb77cbe78b
+sxs-el_gancho.r04	593d380e901354049cf4f7e316a41a96
+sxs-el_gancho.r05	b08fb6da0cb6694fa27af0b622d3fc07
+sxs-el_gancho.rar	16ca6a56039dece882f5a2339c49167e
+sxs-el_gancho.sfv	5362d21f8f96354f83b2d86f8bc8e630

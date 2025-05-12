@@ -1,0 +1,4 @@
+sxs-tools_up_ultimate_edition_v65536.nfo	-	7382	1	0	0	0
+sxs-tools_up_ultimate_edition_v65536.r00	-	8236470	1	7382	0	1
+sxs-tools_up_ultimate_edition_v65536.rar	-	100000000	1	8243852	0	9
+sxs-tools_up_ultimate_edition_v65536.sfv	-	102	1	108243852	0	105

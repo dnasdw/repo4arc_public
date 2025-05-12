@@ -1,0 +1,9 @@
+v-roof_rage.nfo	a9b284b87813941a82060290dc0471c0
+v-roof_rage.r00	ff862787ce326e72fff736c282508931
+v-roof_rage.r01	cb8990cd158d8c2e29e90e30c1058661
+v-roof_rage.r02	a9ac23324f79cd53605ef7aa085bf9dc
+v-roof_rage.r03	c0406eb8b99beca5efc727e3718f5593
+v-roof_rage.r04	0063896654dff70d3be4d8bdb0dd7769
+v-roof_rage.r05	df9597da7c131fe9e47252fb600815e6
+v-roof_rage.rar	ab2ddee941ba9cc9e9c23083889d77b2
+v-roof_rage.sfv	810bb2434f8b083b29eea7ee1def663f

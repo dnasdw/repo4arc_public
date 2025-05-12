@@ -1,0 +1,7 @@
+sxs-knight_squad.nfo	577c72a2ae19d361dddd51c65a4819f7
+sxs-knight_squad.r00	8aaa7b57b1b13f892c02c9da61af84fd
+sxs-knight_squad.r01	da92c85d4bf2e21dce6f93166fc7f87e
+sxs-knight_squad.r02	6d444069f4eaa41c07f46a352b5ffd1a
+sxs-knight_squad.r03	d03576ad198fa3047d58d2e7fd8c075f
+sxs-knight_squad.rar	8759013d7a0ebdb0f977e4400b9ce9f4
+sxs-knight_squad.sfv	5e11b7e667c44adeca22b32767bb1d71

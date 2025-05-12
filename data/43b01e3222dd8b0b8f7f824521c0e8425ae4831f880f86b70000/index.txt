@@ -1,0 +1,4 @@
+bbb-n-an58b.nfo	-	5517	1	0	0	0
+bbb-n-an58b.part1.rar	-	250000000	1	5517	0	1
+bbb-n-an58b.part2.rar	-	186693657	1	250005517	0	240
+bbb-n-an58b.sfv	-	64	1	436699174	0	419

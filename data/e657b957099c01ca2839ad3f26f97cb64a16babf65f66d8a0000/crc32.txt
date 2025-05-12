@@ -1,0 +1,9 @@
+sxs-korg_gadget_v786432.nfo	b2da1749
+sxs-korg_gadget_v786432.r00	0c074ac9
+sxs-korg_gadget_v786432.r01	63f81fae
+sxs-korg_gadget_v786432.r02	5e92dc11
+sxs-korg_gadget_v786432.r03	fcf74764
+sxs-korg_gadget_v786432.r04	df690f42
+sxs-korg_gadget_v786432.r05	34f8834e
+sxs-korg_gadget_v786432.rar	d506a0f0
+sxs-korg_gadget_v786432.sfv	d65158b0

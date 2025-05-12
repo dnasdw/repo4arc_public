@@ -1,0 +1,5 @@
+sxs-jumanji_the_video_game_v65536.nfo	34832ac8
+sxs-jumanji_the_video_game_v65536.r00	529dd8d2
+sxs-jumanji_the_video_game_v65536.r01	7eaca4c1
+sxs-jumanji_the_video_game_v65536.rar	7dd236b8
+sxs-jumanji_the_video_game_v65536.sfv	15d1e86e

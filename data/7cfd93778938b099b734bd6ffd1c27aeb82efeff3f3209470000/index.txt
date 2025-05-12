@@ -1,0 +1,4 @@
+bbb-n-ad6ea.nfo	-	5517	1	0	0	0
+bbb-n-ad6ea.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ad6ea.part2.rar	-	58431795	1	250005517	0	240
+bbb-n-ad6ea.sfv	-	64	1	308437312	0	296

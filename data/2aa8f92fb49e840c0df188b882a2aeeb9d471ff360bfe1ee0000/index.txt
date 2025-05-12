@@ -1,0 +1,5 @@
+bbb-n-ap8pa.nfo	-	5517	1	0	0	0
+bbb-n-ap8pa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ap8pa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ap8pa.part3.rar	-	164961713	1	500005517	0	479
+bbb-n-ap8pa.sfv	-	96	1	127212977	1	122

@@ -1,0 +1,3 @@
+sxs-pac_man_99_custom_theme_hopping_mappy_dlc.nfo	-	6376	1	0	0	0
+sxs-pac_man_99_custom_theme_hopping_mappy_dlc.rar	-	118568	1	6376	0	1
+sxs-pac_man_99_custom_theme_hopping_mappy_dlc.sfv	-	60	1	124944	0	2

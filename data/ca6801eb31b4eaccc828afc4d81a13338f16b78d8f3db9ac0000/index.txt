@@ -1,0 +1,7 @@
+bbb-n-aq7pa.nfo	-	5517	1	0	0	0
+bbb-n-aq7pa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aq7pa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aq7pa.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-aq7pa.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-aq7pa.part5.rar	-	216526702	1	462251264	1	442
+bbb-n-aq7pa.sfv	-	160	1	141029230	2	135

@@ -1,0 +1,5 @@
+sxs-tinhead_qubyte_classics.nfo	5fb913e25d2562ef79801fc29e937a32
+sxs-tinhead_qubyte_classics.r00	b7266dd47662cade583a9c02170dd6a5
+sxs-tinhead_qubyte_classics.r01	74e16b137d4a295c8928ac6c28eed5dd
+sxs-tinhead_qubyte_classics.rar	e600da4805bc1248d578ee623d319378
+sxs-tinhead_qubyte_classics.sfv	f5ea127e2aeaff2a0e622e6f95d28a0a

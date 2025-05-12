@@ -1,0 +1,3 @@
+v-talisman_digital_edition_dlc.nfo	-	7618	1	0	0	0
+v-talisman_digital_edition_dlc.rar	-	2078776	1	7618	0	1
+v-talisman_digital_edition_dlc.sfv	-	45	1	2086394	0	3

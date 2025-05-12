@@ -1,0 +1,6 @@
+sxs-sherlock_holmes_the_awakened_v65536.nfo	ee46d48c
+sxs-sherlock_holmes_the_awakened_v65536.r00	d1688550
+sxs-sherlock_holmes_the_awakened_v65536.r01	328045b1
+sxs-sherlock_holmes_the_awakened_v65536.r02	299a094c
+sxs-sherlock_holmes_the_awakened_v65536.rar	efe24c05
+sxs-sherlock_holmes_the_awakened_v65536.sfv	8eafa15b

@@ -1,0 +1,6 @@
+sxs-wildcat_gun_machine_v131072.nfo	34508eae
+sxs-wildcat_gun_machine_v131072.r00	9e09ecbb
+sxs-wildcat_gun_machine_v131072.r01	68befe4f
+sxs-wildcat_gun_machine_v131072.r02	fedbac81
+sxs-wildcat_gun_machine_v131072.rar	bbbcddde
+sxs-wildcat_gun_machine_v131072.sfv	5196d9e7

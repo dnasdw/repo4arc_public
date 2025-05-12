@@ -1,0 +1,5 @@
+sxs-no_place_like_home_v262144.nfo	-	7226	1	0	0	0
+sxs-no_place_like_home_v262144.r00	-	100000000	1	7226	0	1
+sxs-no_place_like_home_v262144.r01	-	3588652	1	100007226	0	97
+sxs-no_place_like_home_v262144.rar	-	100000000	1	103595878	0	101
+sxs-no_place_like_home_v262144.sfv	-	135	1	203595878	0	197

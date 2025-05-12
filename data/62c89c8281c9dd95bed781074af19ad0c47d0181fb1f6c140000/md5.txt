@@ -1,0 +1,13 @@
+lfc-gwt.nfo	06cb2cba37fd35a3212d27a745969f5b
+lfc-gwt.r00	e25e084969f135c54822e0f4c11ea6f2
+lfc-gwt.r01	a0d29f04644ff4d85dbae2303c543a17
+lfc-gwt.r02	affaf7cd2ee095e0147e6c5e500b891a
+lfc-gwt.r03	90e74a46ff286ab1229b4ae1fe74f309
+lfc-gwt.r04	31511cf1602dd23b1335b7791bf27f2d
+lfc-gwt.r05	fa04cbac963f064e3cbef3f44b9dab85
+lfc-gwt.r06	26c1fd928a2272dfc772ed50cbf9c8da
+lfc-gwt.r07	2c0d355344a36f977b4eef04a54d58bd
+lfc-gwt.r08	41f5ace01a7d606e8c5569809dad0a54
+lfc-gwt.r09	b49f6e1aad71cd6e8183fa199794a191
+lfc-gwt.rar	4ebfdab6502caac6b059dd7b3ccdca79
+lfc-gwt.sfv	3e77f0f43c0fff5c0f3c10639252a836

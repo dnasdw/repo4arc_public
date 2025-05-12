@@ -1,0 +1,5 @@
+sxs-running_fable_v131072.nfo	4a124e7e843f90e50f10ff04a7b90404
+sxs-running_fable_v131072.r00	5828ecf0b3b4b91e9746976748fa3a76
+sxs-running_fable_v131072.r01	a7958eb8cec2d256325114ad59360766
+sxs-running_fable_v131072.rar	ca6954024dc7630fae43a9a00a31559f
+sxs-running_fable_v131072.sfv	b8a4abee3b2353c275c645870885d3cd

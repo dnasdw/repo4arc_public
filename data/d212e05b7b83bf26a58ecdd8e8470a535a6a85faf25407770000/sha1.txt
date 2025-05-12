@@ -1,0 +1,4 @@
+sxs-switch_n_shoot.nfo	9c75ea5a3ed665920560040718d36237d40cc6c1
+sxs-switch_n_shoot.r00	6a20fe931affc9308061dfacbdcf9eaafa1572ea
+sxs-switch_n_shoot.rar	df01af218b0824290badab5d9a7fc5833d4e0981
+sxs-switch_n_shoot.sfv	6731c9088041711a12d84ac5ff4cb72fac61fdef

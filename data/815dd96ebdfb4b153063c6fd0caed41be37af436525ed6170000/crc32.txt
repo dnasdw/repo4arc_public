@@ -1,0 +1,6 @@
+v-ffvii_v262144.nfo	3c696d29
+v-ffvii_v262144.r00	dbdc5d55
+v-ffvii_v262144.r01	3446ec74
+v-ffvii_v262144.r02	14a8e7d4
+v-ffvii_v262144.rar	6404102e
+v-ffvii_v262144.sfv	401ee160

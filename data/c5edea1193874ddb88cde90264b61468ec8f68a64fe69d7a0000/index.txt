@@ -1,0 +1,5 @@
+sxs-knights_and_guns_v65536.nfo	-	6914	1	0	0	0
+sxs-knights_and_guns_v65536.r00	-	50000000	1	6914	0	1
+sxs-knights_and_guns_v65536.r01	-	33252577	1	50006914	0	49
+sxs-knights_and_guns_v65536.rar	-	50000000	1	83259491	0	81
+sxs-knights_and_guns_v65536.sfv	-	126	1	133259491	0	129

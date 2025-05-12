@@ -1,0 +1,7 @@
+sxs-odium_to_the_core_v65536.nfo	164cb623
+sxs-odium_to_the_core_v65536.r00	cb6b4df4
+sxs-odium_to_the_core_v65536.r01	d8f2c628
+sxs-odium_to_the_core_v65536.r02	86a8fac8
+sxs-odium_to_the_core_v65536.r03	c5d56c9f
+sxs-odium_to_the_core_v65536.rar	4eaad03b
+sxs-odium_to_the_core_v65536.sfv	9fb8415a

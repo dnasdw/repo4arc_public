@@ -1,0 +1,3 @@
+nrz-dkctf.nfo	4a82973883d6f3afce067c73b51177ee89fe113d
+nrz-dkctf.rar	a0e2ca70d1588747fbe3795512bc259cc4a5edc7
+nrz-dkctf.sfv	b59626c91808c1d6a0a7a599da9c4adf26f6577b

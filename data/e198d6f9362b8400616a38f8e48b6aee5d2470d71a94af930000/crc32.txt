@@ -1,0 +1,11 @@
+n-nfshpr_v65536.nfo	90565736
+n-nfshpr_v65536.r00	704a563c
+n-nfshpr_v65536.r01	11af2217
+n-nfshpr_v65536.r02	daf113e1
+n-nfshpr_v65536.r03	1f06f541
+n-nfshpr_v65536.r04	0b0e44a9
+n-nfshpr_v65536.r05	45092ee4
+n-nfshpr_v65536.r06	11790ecf
+n-nfshpr_v65536.r07	fcf152fe
+n-nfshpr_v65536.rar	39f6bc32
+n-nfshpr_v65536.sfv	c9a483bf

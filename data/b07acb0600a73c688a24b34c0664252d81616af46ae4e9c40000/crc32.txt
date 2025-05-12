@@ -1,0 +1,9 @@
+sxs-gordian_quest_v65536.nfo	a0244416
+sxs-gordian_quest_v65536.r00	4ca0f702
+sxs-gordian_quest_v65536.r01	ad479463
+sxs-gordian_quest_v65536.r02	6fa1dceb
+sxs-gordian_quest_v65536.r03	68b950d6
+sxs-gordian_quest_v65536.r04	14f6880b
+sxs-gordian_quest_v65536.r05	91d1ce98
+sxs-gordian_quest_v65536.rar	ee65c80c
+sxs-gordian_quest_v65536.sfv	a83228b5

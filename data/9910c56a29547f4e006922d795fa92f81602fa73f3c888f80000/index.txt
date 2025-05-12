@@ -1,0 +1,4 @@
+sxs-20_minutes_till_dawn.nfo	-	6680	1	0	0	0
+sxs-20_minutes_till_dawn.r00	-	95420662	1	6680	0	1
+sxs-20_minutes_till_dawn.rar	-	100000000	1	95427342	0	93
+sxs-20_minutes_till_dawn.sfv	-	78	1	195427342	0	189

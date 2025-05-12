@@ -1,0 +1,4 @@
+sxs-umihara_kawase_bazooka_v262144.nfo	-	4730	1	0	0	0
+sxs-umihara_kawase_bazooka_v262144.r00	-	25819107	1	4730	0	1
+sxs-umihara_kawase_bazooka_v262144.rar	-	50000000	1	25823837	0	26
+sxs-umihara_kawase_bazooka_v262144.sfv	-	98	1	75823837	0	74

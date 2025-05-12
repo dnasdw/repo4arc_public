@@ -1,0 +1,5 @@
+sxs-genso_chronicles.nfo	5906827565c8f54801c6ec50a1bc6245e87bbba0
+sxs-genso_chronicles.r00	c2b61c854b54ab17c237878efa0b74f3056e460f
+sxs-genso_chronicles.r01	d07c08ba661181d7d6963d101ae07d8d5bb233df
+sxs-genso_chronicles.rar	73ef9472e5754b5ed7e123657ecb96048386f633
+sxs-genso_chronicles.sfv	31abf392d4ce1ef5073071fcf751f5b9cc5d1717

@@ -1,0 +1,5 @@
+sxs-new_terra_v65536.nfo	bd701304c3895886a08304a276be3bde0f0b26c9
+sxs-new_terra_v65536.r00	50a3b236a26836ce8059d25a7bf826c21fea202b
+sxs-new_terra_v65536.r01	e1c985ca3f5b06b70bf74dc9c11c6f1a17db61d4
+sxs-new_terra_v65536.rar	14f40e137c14cd587758b3b6efaae46233dc9bb2
+sxs-new_terra_v65536.sfv	eb5e4389faf3bfbb7628e68debf1ac5837ac061f

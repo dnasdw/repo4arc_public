@@ -1,0 +1,9 @@
+sxs-puzzle_book.nfo	b1e63c2a7fa65fd14dc65ec2acabc8e9
+sxs-puzzle_book.r00	12ca2709dd1a6a1def5fa753b00d6821
+sxs-puzzle_book.r01	e175c53a4120746f3c2545a07a9dfd12
+sxs-puzzle_book.r02	91a3bf9aed8d3c0a6ce45d46c9699234
+sxs-puzzle_book.r03	d44c961803afdddd90257e2dbd60062d
+sxs-puzzle_book.r04	6bd6ea1fedbccdbd87b89c979bb74e61
+sxs-puzzle_book.r05	fb8085417288741989dfc3857e303fae
+sxs-puzzle_book.rar	5b527b79ee104ed7b9019112379d1276
+sxs-puzzle_book.sfv	57cf07b68758aee3a88e296a8fe6e43f

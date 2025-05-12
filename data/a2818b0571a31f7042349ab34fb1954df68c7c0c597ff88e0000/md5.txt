@@ -1,0 +1,11 @@
+v-kine.nfo	aba029cc3ddb202a759ccc25204b375a
+v-kine.r00	7fff465f4a43dc025c60a4af023eaa44
+v-kine.r01	aa72a9a3b7d7d5e612bf8faddf750d6a
+v-kine.r02	227c8ec1303fea473020dcbcaba374c6
+v-kine.r03	b740bc814cf52d4d9514aa6abeebb981
+v-kine.r04	63cc6ee3b300f74badeae6f780a3ade6
+v-kine.r05	c93bf61820606a63c4cccf6930840a7e
+v-kine.r06	b313012c97d4607cae837d1f3ec63ade
+v-kine.r07	31605010939cc0685cbf69a73abf6a2e
+v-kine.rar	27f64141082588fd618fa9503bfc36e2
+v-kine.sfv	a305ad8dafe4804bd2a6c54455f9e475

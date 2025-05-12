@@ -1,0 +1,4 @@
+v-fight_n_rage_v131072.nfo	58157066fabf1012fdfe66f392b50380f3aabfcc
+v-fight_n_rage_v131072.r00	13b3154de86d04ea065abe438bd433f3c06d5a18
+v-fight_n_rage_v131072.rar	66c42a30bd662bcde232b1e3f348602e9b954f63
+v-fight_n_rage_v131072.sfv	756a0d7ddbf7314c4f550a055ec45c8243ca4423

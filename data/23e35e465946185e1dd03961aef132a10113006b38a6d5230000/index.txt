@@ -1,0 +1,3 @@
+v-fire_emblem_shadow_dragon_and_the_blade_of_light.nfo	-	7540	1	0	0	0
+v-fire_emblem_shadow_dragon_and_the_blade_of_light.rar	-	20210659	1	7540	0	1
+v-fire_emblem_shadow_dragon_and_the_blade_of_light.sfv	-	65	1	20218199	0	21

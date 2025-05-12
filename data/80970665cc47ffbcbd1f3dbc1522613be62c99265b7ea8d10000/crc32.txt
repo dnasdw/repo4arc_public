@@ -1,0 +1,10 @@
+v-nongunz_doppelganger_edition.nfo	8a926a47
+v-nongunz_doppelganger_edition.r00	b075a656
+v-nongunz_doppelganger_edition.r01	c4e7502a
+v-nongunz_doppelganger_edition.r02	6b3650ae
+v-nongunz_doppelganger_edition.r03	37be9604
+v-nongunz_doppelganger_edition.r04	fdc5ca3a
+v-nongunz_doppelganger_edition.r05	6526cde9
+v-nongunz_doppelganger_edition.r06	29ce7d08
+v-nongunz_doppelganger_edition.rar	c7f291c3
+v-nongunz_doppelganger_edition.sfv	e29fa939

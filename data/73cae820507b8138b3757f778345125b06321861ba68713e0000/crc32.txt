@@ -1,0 +1,10 @@
+lfc-huntdown.nfo	7a52d3c4
+lfc-huntdown.r00	534212f2
+lfc-huntdown.r01	4a7d5d8e
+lfc-huntdown.r02	88b0c621
+lfc-huntdown.r03	890b8d0e
+lfc-huntdown.r04	4344b1e1
+lfc-huntdown.r05	cdcc6cdd
+lfc-huntdown.r06	2d423284
+lfc-huntdown.rar	0bc7db89
+lfc-huntdown.sfv	d348711d

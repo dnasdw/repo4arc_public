@@ -1,0 +1,3 @@
+bbb-n-alu6a.nfo	-	5517	1	0	0	0
+bbb-n-alu6a.rar	-	185074148	1	5517	0	1
+bbb-n-alu6a.sfv	-	26	1	185079665	0	178

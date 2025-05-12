@@ -1,0 +1,4 @@
+sxs-overrogue_v65536.nfo	-	5432	1	0	0	0
+sxs-overrogue_v65536.r00	-	5777417	1	5432	0	1
+sxs-overrogue_v65536.rar	-	50000000	1	5782849	0	7
+sxs-overrogue_v65536.sfv	-	70	1	55782849	0	55

@@ -1,0 +1,5 @@
+sxs-picross_s_v327680.nfo	-	4964	1	0	0	0
+sxs-picross_s_v327680.r00	-	50000000	1	4964	0	1
+sxs-picross_s_v327680.r01	-	10873632	1	50004964	0	49
+sxs-picross_s_v327680.rar	-	50000000	1	60878596	0	60
+sxs-picross_s_v327680.sfv	-	108	1	110878596	0	108

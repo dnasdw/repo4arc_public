@@ -1,0 +1,9 @@
+sxs-mediterranea_inferno.nfo	b2751e93
+sxs-mediterranea_inferno.r00	b5f19b2d
+sxs-mediterranea_inferno.r01	ec6bc77e
+sxs-mediterranea_inferno.r02	d09a726c
+sxs-mediterranea_inferno.r03	3197bc7f
+sxs-mediterranea_inferno.r04	58487b87
+sxs-mediterranea_inferno.r05	b3ecaadd
+sxs-mediterranea_inferno.rar	cc7ebc4d
+sxs-mediterranea_inferno.sfv	e4a7f1d9

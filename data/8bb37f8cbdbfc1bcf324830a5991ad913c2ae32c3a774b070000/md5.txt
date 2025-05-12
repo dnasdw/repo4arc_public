@@ -1,0 +1,9 @@
+v-big_pharma.nfo	80e711abe27005faffba75aba60196c2
+v-big_pharma.r00	65a4d2860ccf108955120b496c3e505e
+v-big_pharma.r01	d96147dc340b1d9d590fa3261a248968
+v-big_pharma.r02	ed9c430201ff5d1ca82ddc5a2437ee0e
+v-big_pharma.r03	daac6a7646d124167cbe7069cce705d1
+v-big_pharma.r04	9fb42cef04bce7bb06b0df327aa2ccac
+v-big_pharma.r05	1727dd28c213eccbc9c7377aed307a72
+v-big_pharma.rar	a4d7f5375e74f6005a832aa83088efdb
+v-big_pharma.sfv	8cb8d52b2851e518abd06b181dd31693

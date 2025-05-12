@@ -1,0 +1,4 @@
+sxs-wasteland2dc_v65536.nfo	-	4345	1	0	0	0
+sxs-wasteland2dc_v65536.r00	-	35740742	1	4345	0	1
+sxs-wasteland2dc_v65536.rar	-	50000000	1	35745087	0	36
+sxs-wasteland2dc_v65536.sfv	-	76	1	85745087	0	84

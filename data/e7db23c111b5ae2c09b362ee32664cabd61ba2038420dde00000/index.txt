@@ -1,0 +1,4 @@
+bbb-n-afvba.nfo	-	5517	1	0	0	0
+bbb-n-afvba.part1.rar	-	250000000	1	5517	0	1
+bbb-n-afvba.part2.rar	-	113813089	1	250005517	0	240
+bbb-n-afvba.sfv	-	64	1	363818606	0	349

@@ -1,0 +1,3 @@
+sxs-anotherworld_v65536.nfo	bafbc293078c58d6939efc7200db0aa2e96b7f10
+sxs-anotherworld_v65536.rar	8a95403616697152e6f340482df0c2317af2d106
+sxs-anotherworld_v65536.sfv	20443448dfa37ccef4cdb04d6e4c38fd937d0213

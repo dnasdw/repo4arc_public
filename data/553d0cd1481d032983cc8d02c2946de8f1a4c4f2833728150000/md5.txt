@@ -1,0 +1,6 @@
+sxs-drone_delivery_simulator.nfo	67ad3a2cde624d8c8c983025b4cba0fb
+sxs-drone_delivery_simulator.r00	c313041f6de04f40edfd2bf7637b53d4
+sxs-drone_delivery_simulator.r01	a08ae77fe4b873ae5d3ee5f3aee2d91e
+sxs-drone_delivery_simulator.r02	6640bce3aba38cd3421a4fc282dcf082
+sxs-drone_delivery_simulator.rar	1f9d50648db43b70fa5f65fb094ca79f
+sxs-drone_delivery_simulator.sfv	1502e51565845fb13f0e0640f0574d9f

@@ -1,0 +1,4 @@
+sxs-wcxu.nfo	-	4730	1	0	0	0
+sxs-wcxu.r00	-	20646388	1	4730	0	1
+sxs-wcxu.rar	-	50000000	1	20651118	0	21
+sxs-wcxu.sfv	-	46	1	70651118	0	69

@@ -1,0 +1,4 @@
+v-kunio_v65536.nfo	bc8a9f273265bdeb80219166ce8d455b1ff68a02
+v-kunio_v65536.r00	cb5fc1148db31ccc409202d78e26344e65cca255
+v-kunio_v65536.rar	1422fb58f7aabb40b5089affac3a4619a94f865e
+v-kunio_v65536.sfv	2e2b1c2a1c6be2e14cece71e17ee2cb5bd8fe7cd

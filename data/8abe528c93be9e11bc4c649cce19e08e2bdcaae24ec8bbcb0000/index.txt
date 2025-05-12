@@ -1,0 +1,4 @@
+bbb-n-ap2sa.nfo	-	5517	1	0	0	0
+bbb-n-ap2sa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ap2sa.part2.rar	-	88386820	1	250005517	0	240
+bbb-n-ap2sa.sfv	-	64	1	338392337	0	325

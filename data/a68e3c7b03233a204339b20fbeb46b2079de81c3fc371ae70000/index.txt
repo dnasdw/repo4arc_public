@@ -1,0 +1,5 @@
+lfc-safetyfirst.nfo	-	5147	1	0	0	0
+lfc-safetyfirst.r00	-	50000000	1	5147	0	1
+lfc-safetyfirst.r01	-	39785459	1	50005147	0	49
+lfc-safetyfirst.rar	-	50000000	1	89790606	0	87
+lfc-safetyfirst.sfv	-	90	1	139790606	0	135

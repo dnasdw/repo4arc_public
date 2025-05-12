@@ -1,0 +1,7 @@
+sxs-love_language_stories.nfo	121c00bb401299a93f5765379a341661
+sxs-love_language_stories.r00	512dff9991e7331a45275790b94a2cb7
+sxs-love_language_stories.r01	bae2a5f9758c3127b4f70e1547baec95
+sxs-love_language_stories.r02	6fc1ad39bd5e4760bccb5f9253250490
+sxs-love_language_stories.r03	4ec76a66f0fbedb4f47a3b6a15e3d472
+sxs-love_language_stories.rar	bfb560586930047b99293bd80c923d44
+sxs-love_language_stories.sfv	5f53e507bbf19df9b3908d405255b2d4

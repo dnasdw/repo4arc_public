@@ -1,0 +1,12 @@
+hr-azdmav65536.nfo	c266042d
+hr-azdmav65536.r00	ab92c5ea
+hr-azdmav65536.r01	514cf860
+hr-azdmav65536.r02	0c01cb44
+hr-azdmav65536.r03	1767c5ea
+hr-azdmav65536.r04	dccc3abf
+hr-azdmav65536.r05	56b7bf48
+hr-azdmav65536.r06	44906eba
+hr-azdmav65536.r07	5561931f
+hr-azdmav65536.r08	6ebfd08f
+hr-azdmav65536.rar	523d929d
+hr-azdmav65536.sfv	730e9450

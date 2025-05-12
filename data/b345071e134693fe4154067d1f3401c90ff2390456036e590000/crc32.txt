@@ -1,0 +1,14 @@
+ycn-soulvars.nfo	7bb64c7a
+ycn-soulvars.r00	b5c531e0
+ycn-soulvars.r01	434c2b61
+ycn-soulvars.r02	3d9c9af8
+ycn-soulvars.r03	73804bc0
+ycn-soulvars.r04	98bc7544
+ycn-soulvars.r05	663fb53f
+ycn-soulvars.r06	4c738795
+ycn-soulvars.r07	be356bad
+ycn-soulvars.r08	22e299cc
+ycn-soulvars.r09	d1ecf229
+ycn-soulvars.r10	683de94e
+ycn-soulvars.rar	7b6677ad
+ycn-soulvars.sfv	159e314e

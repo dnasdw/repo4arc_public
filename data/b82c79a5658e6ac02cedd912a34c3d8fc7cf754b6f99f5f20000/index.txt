@@ -1,0 +1,5 @@
+sxs-flying_hero_x_v65536.nfo	-	4652	1	0	0	0
+sxs-flying_hero_x_v65536.r00	-	50000000	1	4652	0	1
+sxs-flying_hero_x_v65536.r01	-	46718141	1	50004652	0	49
+sxs-flying_hero_x_v65536.rar	-	50000000	1	96722793	0	94
+sxs-flying_hero_x_v65536.sfv	-	117	1	146722793	0	142

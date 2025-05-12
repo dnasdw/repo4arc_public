@@ -1,0 +1,12 @@
+lfc-adhq.nfo	d2c3e6c6
+lfc-adhq.r00	4c081eab
+lfc-adhq.r01	1c77ee73
+lfc-adhq.r02	feba14bc
+lfc-adhq.r03	8b8ad022
+lfc-adhq.r04	66d2ab8d
+lfc-adhq.r05	8eea1197
+lfc-adhq.r06	a6b0e732
+lfc-adhq.r07	09693bed
+lfc-adhq.r08	9761f655
+lfc-adhq.rar	40dbca06
+lfc-adhq.sfv	50f8d7f6

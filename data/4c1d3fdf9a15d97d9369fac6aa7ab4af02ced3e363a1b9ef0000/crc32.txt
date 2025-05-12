@@ -1,0 +1,8 @@
+lfc-mico.nfo	c837e25b
+lfc-mico.r00	b024631b
+lfc-mico.r01	7cb6ef4e
+lfc-mico.r02	acb6a658
+lfc-mico.r03	4bcf00ef
+lfc-mico.r04	c9db69f0
+lfc-mico.rar	e62c3651
+lfc-mico.sfv	a9341df5

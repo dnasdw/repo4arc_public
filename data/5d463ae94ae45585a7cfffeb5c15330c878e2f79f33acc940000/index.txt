@@ -1,0 +1,17 @@
+sxs-just_shapes_and_beats_v851968.nfo	-	7694	1	0	0	0
+sxs-just_shapes_and_beats_v851968.r00	-	100000000	1	7694	0	1
+sxs-just_shapes_and_beats_v851968.r01	-	100000000	1	100007694	0	97
+sxs-just_shapes_and_beats_v851968.r02	-	100000000	1	200007694	0	193
+sxs-just_shapes_and_beats_v851968.r03	-	100000000	1	300007694	0	289
+sxs-just_shapes_and_beats_v851968.r04	-	100000000	1	400007694	0	385
+sxs-just_shapes_and_beats_v851968.r05	-	100000000	1	500007694	0	481
+sxs-just_shapes_and_beats_v851968.r06	-	100000000	1	62251264	1	60
+sxs-just_shapes_and_beats_v851968.r07	-	100000000	1	162251264	1	156
+sxs-just_shapes_and_beats_v851968.r08	-	100000000	1	262251264	1	252
+sxs-just_shapes_and_beats_v851968.r09	-	100000000	1	362251264	1	348
+sxs-just_shapes_and_beats_v851968.r10	-	100000000	1	462251264	1	444
+sxs-just_shapes_and_beats_v851968.r11	-	100000000	1	24502528	2	24
+sxs-just_shapes_and_beats_v851968.r12	-	100000000	1	124502528	2	120
+sxs-just_shapes_and_beats_v851968.r13	-	40992913	1	224502528	2	216
+sxs-just_shapes_and_beats_v851968.rar	-	100000000	1	265495441	2	256
+sxs-just_shapes_and_beats_v851968.sfv	-	720	1	365495441	2	352

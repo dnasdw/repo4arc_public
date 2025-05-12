@@ -1,0 +1,10 @@
+sxs-samba_de_amigo_party_central_v327680.nfo	6980cf06
+sxs-samba_de_amigo_party_central_v327680.r00	f8adc24f
+sxs-samba_de_amigo_party_central_v327680.r01	65ca0a5e
+sxs-samba_de_amigo_party_central_v327680.r02	cf174685
+sxs-samba_de_amigo_party_central_v327680.r03	728eafaf
+sxs-samba_de_amigo_party_central_v327680.r04	38654ba0
+sxs-samba_de_amigo_party_central_v327680.r05	3d2311d2
+sxs-samba_de_amigo_party_central_v327680.r06	5fbc67d0
+sxs-samba_de_amigo_party_central_v327680.rar	c2574c9f
+sxs-samba_de_amigo_party_central_v327680.sfv	64f8041b

@@ -1,0 +1,13 @@
+sxs-chasm_v131072.nfo	3827e9bd
+sxs-chasm_v131072.r00	8b2372ab
+sxs-chasm_v131072.r01	1fe83513
+sxs-chasm_v131072.r02	6a7f4372
+sxs-chasm_v131072.r03	b540ed1d
+sxs-chasm_v131072.r04	cbeedc64
+sxs-chasm_v131072.r05	b3c2b155
+sxs-chasm_v131072.r06	c52ea7a0
+sxs-chasm_v131072.r07	4c90deaf
+sxs-chasm_v131072.r08	771af1b8
+sxs-chasm_v131072.r09	b91e8979
+sxs-chasm_v131072.rar	5e263cc5
+sxs-chasm_v131072.sfv	6cc2e9de

@@ -1,0 +1,4 @@
+v-wife_quest_v65536.nfo	-	6214	1	0	0	0
+v-wife_quest_v65536.r00	-	33433629	1	6214	0	1
+v-wife_quest_v65536.rar	-	50000000	1	33439843	0	33
+v-wife_quest_v65536.sfv	-	68	1	83439843	0	81

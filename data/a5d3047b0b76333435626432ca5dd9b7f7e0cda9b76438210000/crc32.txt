@@ -1,0 +1,5 @@
+sxs-hammerwatch_v393216.nfo	db41a12f
+sxs-hammerwatch_v393216.r00	88a1fd4e
+sxs-hammerwatch_v393216.r01	d5deafa7
+sxs-hammerwatch_v393216.rar	1f8da530
+sxs-hammerwatch_v393216.sfv	787b81ba

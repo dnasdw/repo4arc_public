@@ -1,0 +1,3 @@
+v-doom_ii_arrival_dlc.nfo	98beb78a33fee2eae562e5a829f7c758cf637dab
+v-doom_ii_arrival_dlc.rar	ad02a81a8c979650c999a7c70a6c150721cdc7cd
+v-doom_ii_arrival_dlc.sfv	1819393e7a4d5ff2b367535548200fbfec5c8763

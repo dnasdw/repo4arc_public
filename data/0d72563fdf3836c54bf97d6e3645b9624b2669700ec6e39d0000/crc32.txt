@@ -1,0 +1,6 @@
+v-cruisn_blast_v131072.nfo	ddb2f671
+v-cruisn_blast_v131072.r00	8485d986
+v-cruisn_blast_v131072.r01	308b582b
+v-cruisn_blast_v131072.r02	fc2caf78
+v-cruisn_blast_v131072.rar	5f2096e1
+v-cruisn_blast_v131072.sfv	65409d5f

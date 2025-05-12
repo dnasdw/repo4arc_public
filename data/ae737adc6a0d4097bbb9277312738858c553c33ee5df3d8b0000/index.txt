@@ -1,0 +1,4 @@
+sxs-diy_fashion_star.nfo	-	6134	1	0	0	0
+sxs-diy_fashion_star.r00	-	79438741	1	6134	0	1
+sxs-diy_fashion_star.rar	-	100000000	1	79444875	0	77
+sxs-diy_fashion_star.sfv	-	70	1	179444875	0	173

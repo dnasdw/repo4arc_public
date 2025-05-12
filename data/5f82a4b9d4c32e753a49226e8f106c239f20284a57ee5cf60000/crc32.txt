@@ -1,0 +1,13 @@
+sxs-fly_punch_boom_v327680.nfo	16114935
+sxs-fly_punch_boom_v327680.r00	5e695f2f
+sxs-fly_punch_boom_v327680.r01	04a4cdfe
+sxs-fly_punch_boom_v327680.r02	4a91f53b
+sxs-fly_punch_boom_v327680.r03	674b6163
+sxs-fly_punch_boom_v327680.r04	59344463
+sxs-fly_punch_boom_v327680.r05	54138377
+sxs-fly_punch_boom_v327680.r06	e8978cc7
+sxs-fly_punch_boom_v327680.r07	109fd5a7
+sxs-fly_punch_boom_v327680.r08	c3cf4169
+sxs-fly_punch_boom_v327680.r09	916e3455
+sxs-fly_punch_boom_v327680.rar	be8d1864
+sxs-fly_punch_boom_v327680.sfv	8c170d41

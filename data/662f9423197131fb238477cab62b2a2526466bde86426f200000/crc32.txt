@@ -1,0 +1,6 @@
+sxs-spider_solitaire_v131072.nfo	b45303da
+sxs-spider_solitaire_v131072.r00	36dce47e
+sxs-spider_solitaire_v131072.r01	b273e258
+sxs-spider_solitaire_v131072.r02	8cd9d7dd
+sxs-spider_solitaire_v131072.rar	8d1a135a
+sxs-spider_solitaire_v131072.sfv	ed8b225c

@@ -1,0 +1,7 @@
+sxs-the_spy_who_shot_me.nfo	-	4808	1	0	0	0
+sxs-the_spy_who_shot_me.r00	-	100000000	1	4808	0	1
+sxs-the_spy_who_shot_me.r01	-	100000000	1	100004808	0	97
+sxs-the_spy_who_shot_me.r02	-	100000000	1	200004808	0	193
+sxs-the_spy_who_shot_me.r03	-	19836356	1	300004808	0	289
+sxs-the_spy_who_shot_me.rar	-	100000000	1	319841164	0	308
+sxs-the_spy_who_shot_me.sfv	-	190	1	419841164	0	404

@@ -1,0 +1,5 @@
+sxs-theatrhythm_final_bar_line_v196608.nfo	-	6846	1	0	0	0
+sxs-theatrhythm_final_bar_line_v196608.r00	-	100000000	1	6846	0	1
+sxs-theatrhythm_final_bar_line_v196608.r01	-	39153148	1	100006846	0	97
+sxs-theatrhythm_final_bar_line_v196608.rar	-	100000000	1	139159994	0	135
+sxs-theatrhythm_final_bar_line_v196608.sfv	-	159	1	239159994	0	231

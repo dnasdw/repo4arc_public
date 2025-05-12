@@ -1,0 +1,12 @@
+sxs-grimshade_v65536.nfo	ffe10841
+sxs-grimshade_v65536.r00	b26cb692
+sxs-grimshade_v65536.r01	581a6d7e
+sxs-grimshade_v65536.r02	d4f9d51d
+sxs-grimshade_v65536.r03	f197af8c
+sxs-grimshade_v65536.r04	4a0c8a81
+sxs-grimshade_v65536.r05	f9ac4ca4
+sxs-grimshade_v65536.r06	a7693c03
+sxs-grimshade_v65536.r07	4e39cc08
+sxs-grimshade_v65536.r08	ec310b14
+sxs-grimshade_v65536.rar	dd81217e
+sxs-grimshade_v65536.sfv	3e3265d4

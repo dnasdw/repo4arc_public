@@ -1,0 +1,3 @@
+sxs-arcade_archives_assault_v65536.nfo	be99f8ce966caab0c447d41425d5cddb30b8bc83
+sxs-arcade_archives_assault_v65536.rar	677d3fb822604964e8fbb45ff82986bf809bc795
+sxs-arcade_archives_assault_v65536.sfv	1db6608c3955f10643c1486bfcc07ac44e1d39a1

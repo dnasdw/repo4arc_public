@@ -1,0 +1,7 @@
+nrz-dkctf.nfo	7372e3d601ea412d5d5bca49aea579cf34c00aee
+nrz-dkctf.sfv	2f3fcb2eb93073b983261b2e2bdfcc45f9bbb570
+nrz-dkctf.update.1.0.2.r00	22973f94a105dbfb22bd2a5d56c8bf77df5018dc
+nrz-dkctf.update.1.0.2.r01	593980d4d145ca1f28d2ed0762ea85bd54ec22bf
+nrz-dkctf.update.1.0.2.r02	9f9f2e335ba20b2635743b69fa1edcbe5a4995c3
+nrz-dkctf.update.1.0.2.r03	4f745a89324b8a6808b0cc3ebd9fcdc78fa78e30
+nrz-dkctf.update.1.0.2.rar	0460420d56dd36ef70b88811f74f1b6fb2c4bafb

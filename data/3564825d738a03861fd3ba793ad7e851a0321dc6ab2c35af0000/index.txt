@@ -1,0 +1,7 @@
+sxs-slay_the_spire_v327680.nfo	-	4808	1	0	0	0
+sxs-slay_the_spire_v327680.r00	-	50000000	1	4808	0	1
+sxs-slay_the_spire_v327680.r01	-	50000000	1	50004808	0	49
+sxs-slay_the_spire_v327680.r02	-	50000000	1	100004808	0	97
+sxs-slay_the_spire_v327680.r03	-	28608443	1	150004808	0	145
+sxs-slay_the_spire_v327680.rar	-	50000000	1	178613251	0	173
+sxs-slay_the_spire_v327680.sfv	-	205	1	228613251	0	221

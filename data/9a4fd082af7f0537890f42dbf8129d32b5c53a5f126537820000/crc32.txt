@@ -1,0 +1,8 @@
+v-shadowgate_v196608.nfo	4a0a1090
+v-shadowgate_v196608.r00	16263159
+v-shadowgate_v196608.r01	5c3a03d8
+v-shadowgate_v196608.r02	db11655e
+v-shadowgate_v196608.r03	b9f5c414
+v-shadowgate_v196608.r04	dfdf155a
+v-shadowgate_v196608.rar	59e24859
+v-shadowgate_v196608.sfv	e1afe184

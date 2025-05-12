@@ -1,0 +1,9 @@
+v-roof_rage.nfo	3fc5d634
+v-roof_rage.r00	aa258351
+v-roof_rage.r01	ccac24b9
+v-roof_rage.r02	3cb88379
+v-roof_rage.r03	bdb4644a
+v-roof_rage.r04	9a531411
+v-roof_rage.r05	fbd73b21
+v-roof_rage.rar	fe42bdc2
+v-roof_rage.sfv	723432fe

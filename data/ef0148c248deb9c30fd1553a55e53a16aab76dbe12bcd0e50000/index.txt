@@ -1,0 +1,16 @@
+sxs-fifa_20_dutch_dlc.nfo	-	4028	1	0	0	0
+sxs-fifa_20_dutch_dlc.r00	-	50000000	1	4028	0	1
+sxs-fifa_20_dutch_dlc.r01	-	50000000	1	50004028	0	49
+sxs-fifa_20_dutch_dlc.r02	-	50000000	1	100004028	0	97
+sxs-fifa_20_dutch_dlc.r03	-	50000000	1	150004028	0	145
+sxs-fifa_20_dutch_dlc.r04	-	50000000	1	200004028	0	193
+sxs-fifa_20_dutch_dlc.r05	-	50000000	1	250004028	0	241
+sxs-fifa_20_dutch_dlc.r06	-	50000000	1	300004028	0	289
+sxs-fifa_20_dutch_dlc.r07	-	50000000	1	350004028	0	337
+sxs-fifa_20_dutch_dlc.r08	-	50000000	1	400004028	0	385
+sxs-fifa_20_dutch_dlc.r09	-	50000000	1	450004028	0	433
+sxs-fifa_20_dutch_dlc.r10	-	50000000	1	500004028	0	481
+sxs-fifa_20_dutch_dlc.r11	-	50000000	1	12251264	1	12
+sxs-fifa_20_dutch_dlc.r12	-	10037413	1	62251264	1	60
+sxs-fifa_20_dutch_dlc.rar	-	50000000	1	72288677	1	70
+sxs-fifa_20_dutch_dlc.sfv	-	504	1	122288677	1	118

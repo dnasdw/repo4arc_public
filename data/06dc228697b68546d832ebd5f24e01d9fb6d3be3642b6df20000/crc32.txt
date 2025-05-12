@@ -1,0 +1,8 @@
+sxs-host_714.nfo	6d45c273
+sxs-host_714.r00	0dcb4a21
+sxs-host_714.r01	3684e232
+sxs-host_714.r02	40b4bb0d
+sxs-host_714.r03	48086624
+sxs-host_714.r04	c9bbf242
+sxs-host_714.rar	7de3d044
+sxs-host_714.sfv	87f70fe5

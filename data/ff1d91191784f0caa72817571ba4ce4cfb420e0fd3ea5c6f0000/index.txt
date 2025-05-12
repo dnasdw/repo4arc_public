@@ -1,0 +1,8 @@
+v-the_smurfs_2_the_prisoner_of_the_green_stone_v196608.nfo	-	7462	1	0	0	0
+v-the_smurfs_2_the_prisoner_of_the_green_stone_v196608.r00	-	100000000	1	7462	0	1
+v-the_smurfs_2_the_prisoner_of_the_green_stone_v196608.r01	-	100000000	1	100007462	0	97
+v-the_smurfs_2_the_prisoner_of_the_green_stone_v196608.r02	-	100000000	1	200007462	0	193
+v-the_smurfs_2_the_prisoner_of_the_green_stone_v196608.r03	-	100000000	1	300007462	0	289
+v-the_smurfs_2_the_prisoner_of_the_green_stone_v196608.r04	-	6932258	1	400007462	0	385
+v-the_smurfs_2_the_prisoner_of_the_green_stone_v196608.rar	-	100000000	1	406939720	0	392
+v-the_smurfs_2_the_prisoner_of_the_green_stone_v196608.sfv	-	414	1	506939720	0	488

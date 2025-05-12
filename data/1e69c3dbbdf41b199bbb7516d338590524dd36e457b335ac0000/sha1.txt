@@ -1,0 +1,4 @@
+sxs-lanota_v262144.nfo	466554a11015bad820d1e9148ca70412c7fef623
+sxs-lanota_v262144.r00	fd872e62cd7fd898eeb53d5b342f30294fb1bdcb
+sxs-lanota_v262144.rar	f96d5947e068544d4308b911e467e2b68fd2bad6
+sxs-lanota_v262144.sfv	0eb7a9eacdaa3f77d1ab5cbfd7a8fd9f4a5b6684

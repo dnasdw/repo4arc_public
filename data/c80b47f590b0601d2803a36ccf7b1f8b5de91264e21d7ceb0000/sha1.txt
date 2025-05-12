@@ -1,0 +1,5 @@
+lfc-mmbf.nfo	cf5be564b636a0d75f40ebbbd5ca858956e6f73c
+lfc-mmbf.r00	140d7de6ce95d2f14849855eca2987e27b75422b
+lfc-mmbf.r01	d109075fa3deb84d701ede1c39b7ab2decdceb08
+lfc-mmbf.rar	4c30d01f9a152cf24919956f8fb408b41f659f48
+lfc-mmbf.sfv	5f2bef8d0d3c0edf23cc44f20d564cde7b40f821

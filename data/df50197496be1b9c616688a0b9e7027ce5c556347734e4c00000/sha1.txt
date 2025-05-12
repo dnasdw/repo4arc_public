@@ -1,0 +1,6 @@
+v-quake_quake_64_dlc.nfo	2a2186e90258c289a493d4ccb681a32fd083e868
+v-quake_quake_64_dlc.r00	1c156beac89d7bd8066bf34882227254d527a910
+v-quake_quake_64_dlc.r01	1f7ff2082f94465c24165ecf29dde7522b427760
+v-quake_quake_64_dlc.r02	ceafe0875402fdf7ab8768945c13b26a08a47cfa
+v-quake_quake_64_dlc.rar	7c2e69f0f55813fbb90e663ff05a01cc479ff720
+v-quake_quake_64_dlc.sfv	91c2642a4194197999b973235159af0ac3678a1a

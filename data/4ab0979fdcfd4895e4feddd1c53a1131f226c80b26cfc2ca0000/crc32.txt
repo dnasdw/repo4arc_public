@@ -1,0 +1,5 @@
+sxs-nes_v1114112.nfo	8b4af832
+sxs-nes_v1114112.r00	a6a58ee8
+sxs-nes_v1114112.r01	05f79e4e
+sxs-nes_v1114112.rar	ec608a42
+sxs-nes_v1114112.sfv	0eb47a7a

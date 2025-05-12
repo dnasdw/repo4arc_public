@@ -1,0 +1,10 @@
+brw-pawd.nfo	f35290f7
+brw-pawd.r00	d42d9b94
+brw-pawd.r01	826450ae
+brw-pawd.r02	f7058423
+brw-pawd.r03	38500997
+brw-pawd.r04	9dd0e646
+brw-pawd.r05	034ebc7d
+brw-pawd.r06	156a2fa0
+brw-pawd.rar	9a9a8a73
+brw-pawd.sfv	644f1c95

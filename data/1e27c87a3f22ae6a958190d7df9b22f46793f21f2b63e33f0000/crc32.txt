@@ -1,0 +1,8 @@
+sxs-counter_shooter_strike_zone.nfo	659c1439
+sxs-counter_shooter_strike_zone.r00	ec11b51b
+sxs-counter_shooter_strike_zone.r01	1d7244f8
+sxs-counter_shooter_strike_zone.r02	9391f9fc
+sxs-counter_shooter_strike_zone.r03	a39f8e5b
+sxs-counter_shooter_strike_zone.r04	e2613f1b
+sxs-counter_shooter_strike_zone.rar	50534650
+sxs-counter_shooter_strike_zone.sfv	2927db95

@@ -1,0 +1,8 @@
+bbb-n-amaea.nfo	-	5517	1	0	0	0
+bbb-n-amaea.part1.rar	-	250000000	1	5517	0	1
+bbb-n-amaea.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-amaea.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-amaea.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-amaea.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-amaea.part6.rar	-	115610870	1	174502528	2	167
+bbb-n-amaea.sfv	-	192	1	290113398	2	278

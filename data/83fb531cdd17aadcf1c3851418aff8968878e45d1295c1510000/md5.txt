@@ -1,0 +1,12 @@
+sxs-crazy_trucks.nfo	361aebf626dbd34d1861c51a6a6a55ff
+sxs-crazy_trucks.r00	2c2dd75396fd15e59d5a7a273adf8eb6
+sxs-crazy_trucks.r01	c9f971b87cc005e590c52a2c155e6316
+sxs-crazy_trucks.r02	323296076f67f53990a27abd16525eb0
+sxs-crazy_trucks.r03	255c24657032f0d31d63f151186bb610
+sxs-crazy_trucks.r04	fe3e7f567550d2d9b5324b0073ca840a
+sxs-crazy_trucks.r05	df7f8af1531e1b137a3e9901d24a537b
+sxs-crazy_trucks.r06	bf77c3437478b23288d6483a83113d11
+sxs-crazy_trucks.r07	8cb7f1543e3c82eff143ca34b9d004a3
+sxs-crazy_trucks.r08	13da6e1cc6d03165809fbc1b4e05c89a
+sxs-crazy_trucks.rar	72838be4274d4c65d94c1ec5ef901be8
+sxs-crazy_trucks.sfv	9505faed01356ee6ece6a3ca5f02787a

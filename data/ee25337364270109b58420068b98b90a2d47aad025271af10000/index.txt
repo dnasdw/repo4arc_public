@@ -1,0 +1,3 @@
+v-sturmwind_ex_v65536.nfo	-	5824	1	0	0	0
+v-sturmwind_ex_v65536.rar	-	25374174	1	5824	0	1
+v-sturmwind_ex_v65536.sfv	-	36	1	25379998	0	26

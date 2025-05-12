@@ -1,0 +1,4 @@
+sxs-switch_n_shoot.nfo	-	5120	1	0	0	0
+sxs-switch_n_shoot.r00	-	44707103	1	5120	0	1
+sxs-switch_n_shoot.rar	-	50000000	1	44712223	0	44
+sxs-switch_n_shoot.sfv	-	66	1	94712223	0	92

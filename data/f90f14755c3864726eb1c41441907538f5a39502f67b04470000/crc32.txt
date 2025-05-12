@@ -1,0 +1,11 @@
+sxs-cubicity.nfo	5828f7ea
+sxs-cubicity.r00	22c0748b
+sxs-cubicity.r01	3741865e
+sxs-cubicity.r02	34663b96
+sxs-cubicity.r03	a5a71a4e
+sxs-cubicity.r04	d503ad2d
+sxs-cubicity.r05	8d9f860f
+sxs-cubicity.r06	28fa131d
+sxs-cubicity.r07	ee375353
+sxs-cubicity.rar	c99702e0
+sxs-cubicity.sfv	8ef57fad

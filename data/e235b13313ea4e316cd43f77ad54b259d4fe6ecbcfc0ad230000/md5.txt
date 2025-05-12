@@ -1,0 +1,5 @@
+v-stustl_v131072.nfo	237a3caafbb9e73da1c5248b95ecf615
+v-stustl_v131072.r00	d1fde2d152b76d374fa17df8640cbf1d
+v-stustl_v131072.r01	33400739891b3c852d43b710dcde4d7f
+v-stustl_v131072.rar	40fc16e34c5912d66394bcb1b04faa7f
+v-stustl_v131072.sfv	a5fae62f1e092fa3ea7e9a7cbde52d2d

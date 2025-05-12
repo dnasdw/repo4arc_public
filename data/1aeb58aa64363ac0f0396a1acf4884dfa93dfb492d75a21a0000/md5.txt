@@ -1,0 +1,3 @@
+v-collection_of_mana_v65536.nfo	7715dafe6b58085bfcdc502a84310b96
+v-collection_of_mana_v65536.rar	6f54f5b7a2d0f2dbe6bb95eda863f816
+v-collection_of_mana_v65536.sfv	8e68ff03a8ce457f1098b88dcc971124

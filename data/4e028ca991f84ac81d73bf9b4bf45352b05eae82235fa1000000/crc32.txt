@@ -1,0 +1,10 @@
+brw-lkdr.nfo	03a4c34a
+brw-lkdr.r00	c3a8978f
+brw-lkdr.r01	4c420cd7
+brw-lkdr.r02	7500cedb
+brw-lkdr.r03	f4540819
+brw-lkdr.r04	f932a94d
+brw-lkdr.r05	eb90389f
+brw-lkdr.r06	543f1efe
+brw-lkdr.rar	165ad046
+brw-lkdr.sfv	adccf04c

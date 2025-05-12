@@ -1,0 +1,3 @@
+v-northgard_v65536.nfo	3d5fd6b377fcfe317c0928ba480f4955a12839ff
+v-northgard_v65536.rar	e6a065e4c5dcad94825aca864eaf04154ef5e748
+v-northgard_v65536.sfv	b47b68fff9abc74ce9c81debc5da28a4a5434cfc

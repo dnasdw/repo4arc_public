@@ -1,0 +1,6 @@
+sxs-them_bombs_v65536.nfo	-	5979	1	0	0	0
+sxs-them_bombs_v65536.r00	-	50000000	1	5979	0	1
+sxs-them_bombs_v65536.r01	-	50000000	1	50005979	0	49
+sxs-them_bombs_v65536.r02	-	29919429	1	100005979	0	97
+sxs-them_bombs_v65536.rar	-	50000000	1	129925408	0	126
+sxs-them_bombs_v65536.sfv	-	144	1	179925408	0	174

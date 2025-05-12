@@ -1,0 +1,10 @@
+sxs-tbtwt_zht_dlc.nfo	c6c8a91c
+sxs-tbtwt_zht_dlc.r00	9ceacd22
+sxs-tbtwt_zht_dlc.r01	beeb8255
+sxs-tbtwt_zht_dlc.r02	d5200c3e
+sxs-tbtwt_zht_dlc.r03	1ea89eca
+sxs-tbtwt_zht_dlc.r04	836bf5d0
+sxs-tbtwt_zht_dlc.r05	27c6f1f8
+sxs-tbtwt_zht_dlc.r06	ca132522
+sxs-tbtwt_zht_dlc.rar	0b8a5cc0
+sxs-tbtwt_zht_dlc.sfv	51c81d70

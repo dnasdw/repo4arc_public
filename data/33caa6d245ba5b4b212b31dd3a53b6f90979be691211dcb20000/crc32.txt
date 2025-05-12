@@ -1,0 +1,16 @@
+n-nkr3sp_v65536.nfo	3199112b
+n-nkr3sp_v65536.r00	92b1acdf
+n-nkr3sp_v65536.r01	f0419cdf
+n-nkr3sp_v65536.r02	0a4db557
+n-nkr3sp_v65536.r03	2e7917df
+n-nkr3sp_v65536.r04	b25521b1
+n-nkr3sp_v65536.r05	b6c1ff65
+n-nkr3sp_v65536.r06	385a3d78
+n-nkr3sp_v65536.r07	a32f302f
+n-nkr3sp_v65536.r08	d969e841
+n-nkr3sp_v65536.r09	c300e804
+n-nkr3sp_v65536.r10	4f685cb6
+n-nkr3sp_v65536.r11	261d8bb3
+n-nkr3sp_v65536.r12	589b5fc9
+n-nkr3sp_v65536.rar	79680da3
+n-nkr3sp_v65536.sfv	67d3a441

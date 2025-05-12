@@ -1,0 +1,3 @@
+sxs-cozy_grove_dlc.nfo	25eb7264106018f5323022340d1aae75a99d4e27
+sxs-cozy_grove_dlc.rar	a37deeb85a8d6288f71fcf5a5f2cd576d8adc1d6
+sxs-cozy_grove_dlc.sfv	c20e262b49700a0aab3c904417b39d0d55f31c55

@@ -1,0 +1,7 @@
+lfc-athja_v65536.nfo	c77b84be
+lfc-athja_v65536.r00	bd293e8b
+lfc-athja_v65536.r01	420a631b
+lfc-athja_v65536.r02	7e2821d7
+lfc-athja_v65536.r03	cfd1d340
+lfc-athja_v65536.rar	7bde1ed5
+lfc-athja_v65536.sfv	d1867b67

@@ -1,0 +1,11 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-loop_hero.jpg	-	159589	1	0	0	0
+sxs-loop_hero.nfo	-	5748	1	159589	0	1
+sxs-loop_hero.r00	-	100000000	1	165337	0	2
+sxs-loop_hero.r01	-	100000000	1	100165337	0	98
+sxs-loop_hero.r02	-	100000000	1	200165337	0	194
+sxs-loop_hero.r03	-	100000000	1	300165337	0	290
+sxs-loop_hero.r04	-	100000000	1	400165337	0	386
+sxs-loop_hero.r05	-	3270283	1	500165337	0	482
+sxs-loop_hero.rar	-	100000000	1	503435620	0	486
+sxs-loop_hero.sfv	-	196	1	66445568	1	64

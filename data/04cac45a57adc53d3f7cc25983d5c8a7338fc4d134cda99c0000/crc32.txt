@@ -1,0 +1,6 @@
+v-blaster_master_zero_2.nfo	7af410c3
+v-blaster_master_zero_2.r00	252e7157
+v-blaster_master_zero_2.r01	51bb2080
+v-blaster_master_zero_2.r02	b0a68312
+v-blaster_master_zero_2.rar	b86a9aac
+v-blaster_master_zero_2.sfv	7716e7cf

@@ -1,0 +1,4 @@
+lfc-cols.nfo	-	4952	1	0	0	0
+lfc-cols.r00	-	47070728	1	4952	0	1
+lfc-cols.rar	-	50000000	1	47075680	0	46
+lfc-cols.sfv	-	46	1	97075680	0	94

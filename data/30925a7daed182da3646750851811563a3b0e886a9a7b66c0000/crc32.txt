@@ -1,0 +1,16 @@
+lfc-fatot.nfo	3708e672
+lfc-fatot.r00	fc49202a
+lfc-fatot.r01	56d39b46
+lfc-fatot.r02	70603e9e
+lfc-fatot.r03	64f293aa
+lfc-fatot.r04	3b101563
+lfc-fatot.r05	47f4f217
+lfc-fatot.r06	18e96c4f
+lfc-fatot.r07	4e4986ea
+lfc-fatot.r08	fa6de7f3
+lfc-fatot.r09	3306f236
+lfc-fatot.r10	6c32b60b
+lfc-fatot.r11	1ebcac5c
+lfc-fatot.r12	ae82a2e3
+lfc-fatot.rar	af0f46c0
+lfc-fatot.sfv	fe3a8fc6

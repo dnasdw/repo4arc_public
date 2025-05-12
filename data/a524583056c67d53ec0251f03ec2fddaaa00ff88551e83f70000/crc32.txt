@@ -1,0 +1,7 @@
+sxs-the_lost_ashford_ring.nfo	2849722b
+sxs-the_lost_ashford_ring.r00	7c5a43cf
+sxs-the_lost_ashford_ring.r01	87cf9b11
+sxs-the_lost_ashford_ring.r02	0536148c
+sxs-the_lost_ashford_ring.r03	aefcc524
+sxs-the_lost_ashford_ring.rar	8716a327
+sxs-the_lost_ashford_ring.sfv	87aef3ec

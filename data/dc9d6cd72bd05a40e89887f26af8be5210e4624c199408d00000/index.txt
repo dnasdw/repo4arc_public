@@ -1,0 +1,5 @@
+sxs-gravifire.nfo	-	4886	1	0	0	0
+sxs-gravifire.r00	-	50000000	1	4886	0	1
+sxs-gravifire.r01	-	49755742	1	50004886	0	49
+sxs-gravifire.rar	-	50000000	1	99760628	0	97
+sxs-gravifire.sfv	-	84	1	149760628	0	145

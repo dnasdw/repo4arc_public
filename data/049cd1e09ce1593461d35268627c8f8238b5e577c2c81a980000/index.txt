@@ -1,0 +1,17 @@
+lfc-cluetheclassicmysterygameupd.nfo	-	4082	1	0	0	0
+lfc-cluetheclassicmysterygameupd.r00	-	50000000	1	4082	0	1
+lfc-cluetheclassicmysterygameupd.r01	-	50000000	1	50004082	0	49
+lfc-cluetheclassicmysterygameupd.r02	-	50000000	1	100004082	0	97
+lfc-cluetheclassicmysterygameupd.r03	-	50000000	1	150004082	0	145
+lfc-cluetheclassicmysterygameupd.r04	-	50000000	1	200004082	0	193
+lfc-cluetheclassicmysterygameupd.r05	-	50000000	1	250004082	0	241
+lfc-cluetheclassicmysterygameupd.r06	-	50000000	1	300004082	0	289
+lfc-cluetheclassicmysterygameupd.r07	-	50000000	1	350004082	0	337
+lfc-cluetheclassicmysterygameupd.r08	-	50000000	1	400004082	0	385
+lfc-cluetheclassicmysterygameupd.r09	-	50000000	1	450004082	0	433
+lfc-cluetheclassicmysterygameupd.r10	-	50000000	1	500004082	0	481
+lfc-cluetheclassicmysterygameupd.r11	-	50000000	1	12251264	1	12
+lfc-cluetheclassicmysterygameupd.r12	-	50000000	1	62251264	1	60
+lfc-cluetheclassicmysterygameupd.r13	-	16595432	1	112251264	1	108
+lfc-cluetheclassicmysterygameupd.rar	-	50000000	1	128846696	1	124
+lfc-cluetheclassicmysterygameupd.sfv	-	705	1	178846696	1	172

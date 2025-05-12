@@ -1,0 +1,3 @@
+lfc-kind.nfo	-	5457	1	0	0	0
+lfc-kind.rar	-	28000151	1	5457	0	1
+lfc-kind.sfv	-	23	1	28005608	0	28

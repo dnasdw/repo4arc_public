@@ -1,0 +1,10 @@
+v-untitled_goose_game_v131072.nfo	cd0f9fbf
+v-untitled_goose_game_v131072.r00	26812899
+v-untitled_goose_game_v131072.r01	c16cb034
+v-untitled_goose_game_v131072.r02	6dfcd836
+v-untitled_goose_game_v131072.r03	e6ab940e
+v-untitled_goose_game_v131072.r04	b86c025a
+v-untitled_goose_game_v131072.r05	9545a5c5
+v-untitled_goose_game_v131072.r06	4ce00c17
+v-untitled_goose_game_v131072.rar	a0f56f34
+v-untitled_goose_game_v131072.sfv	26cc091c

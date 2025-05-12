@@ -1,0 +1,4 @@
+sxs-the_sealed_ampoule_v65536.nfo	ce579463
+sxs-the_sealed_ampoule_v65536.r00	0167e512
+sxs-the_sealed_ampoule_v65536.rar	115ece98
+sxs-the_sealed_ampoule_v65536.sfv	7ade7243

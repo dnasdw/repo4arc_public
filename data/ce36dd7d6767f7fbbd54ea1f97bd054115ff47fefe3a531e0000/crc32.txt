@@ -1,0 +1,9 @@
+lfc-yare.nfo	0d22db32
+lfc-yare.r00	27d01b96
+lfc-yare.r01	7fc94281
+lfc-yare.r02	d96de4a4
+lfc-yare.r03	41099ff8
+lfc-yare.r04	90459b94
+lfc-yare.r05	b05001b9
+lfc-yare.rar	5d2bab92
+lfc-yare.sfv	402db005

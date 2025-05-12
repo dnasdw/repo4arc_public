@@ -1,0 +1,6 @@
+sxs-mystery_box_the_journey.nfo	856dd1f736771ebf191e61c9d512dbc6
+sxs-mystery_box_the_journey.r00	d14e4a059176d1af062157eba7daa191
+sxs-mystery_box_the_journey.r01	1b638c4a614cf213f28c7d9e2b6e7559
+sxs-mystery_box_the_journey.r02	c839925fa88978df3b019a094957899d
+sxs-mystery_box_the_journey.rar	396cf5d759e7b48ce6471ee75f19dac4
+sxs-mystery_box_the_journey.sfv	8ebb60a35d37630ee4b3166b2bff0533

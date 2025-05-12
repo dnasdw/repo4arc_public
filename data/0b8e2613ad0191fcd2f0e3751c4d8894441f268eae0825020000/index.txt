@@ -1,0 +1,17 @@
+sxs-contra_operation_galuga_demo.nfo	-	6446	1	0	0	0
+sxs-contra_operation_galuga_demo.r00	-	100000000	1	6446	0	1
+sxs-contra_operation_galuga_demo.r01	-	100000000	1	100006446	0	97
+sxs-contra_operation_galuga_demo.r02	-	100000000	1	200006446	0	193
+sxs-contra_operation_galuga_demo.r03	-	100000000	1	300006446	0	289
+sxs-contra_operation_galuga_demo.r04	-	100000000	1	400006446	0	385
+sxs-contra_operation_galuga_demo.r05	-	100000000	1	500006446	0	481
+sxs-contra_operation_galuga_demo.r06	-	100000000	1	62251264	1	60
+sxs-contra_operation_galuga_demo.r07	-	100000000	1	162251264	1	156
+sxs-contra_operation_galuga_demo.r08	-	100000000	1	262251264	1	252
+sxs-contra_operation_galuga_demo.r09	-	100000000	1	362251264	1	348
+sxs-contra_operation_galuga_demo.r10	-	100000000	1	462251264	1	444
+sxs-contra_operation_galuga_demo.r11	-	100000000	1	24502528	2	24
+sxs-contra_operation_galuga_demo.r12	-	100000000	1	124502528	2	120
+sxs-contra_operation_galuga_demo.r13	-	83341355	1	224502528	2	216
+sxs-contra_operation_galuga_demo.rar	-	100000000	1	307843883	2	296
+sxs-contra_operation_galuga_demo.sfv	-	705	1	407843883	2	392

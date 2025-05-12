@@ -1,0 +1,4 @@
+sxs-ravens_hike.nfo	c3bd4888641933e8fa5e490f4c55f8247f8af1cd
+sxs-ravens_hike.r00	6448a76be286f974f77d6f0faab683fd4ae63919
+sxs-ravens_hike.rar	e5a616b09a586ff24812832d8b47ee51ce73e1f4
+sxs-ravens_hike.sfv	472ae67e9ca4cd57c55e7f37ff1f66d03a60cded

@@ -1,0 +1,7 @@
+sxs-farm_for_your_life_v458752.nfo	-	4106	1	0	0	0
+sxs-farm_for_your_life_v458752.r00	-	50000000	1	4106	0	1
+sxs-farm_for_your_life_v458752.r01	-	50000000	1	50004106	0	49
+sxs-farm_for_your_life_v458752.r02	-	50000000	1	100004106	0	97
+sxs-farm_for_your_life_v458752.r03	-	14814380	1	150004106	0	145
+sxs-farm_for_your_life_v458752.rar	-	50000000	1	164818486	0	160
+sxs-farm_for_your_life_v458752.sfv	-	225	1	214818486	0	208

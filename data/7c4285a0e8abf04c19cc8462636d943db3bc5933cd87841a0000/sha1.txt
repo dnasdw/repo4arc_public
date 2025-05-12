@@ -1,0 +1,7 @@
+brw-grlc.nfo	c63c6716c0ad0ac45f0571d1e5ada0baf42fdcdb
+brw-grlc.r00	7ec144db31b43c605086b0d55806d597b623eabf
+brw-grlc.r01	6347c419fb9b093e3b5a4d337c22f9969c78c5e6
+brw-grlc.r02	aa9836a8a1cead94ca691fcefa2bccc37d364cf2
+brw-grlc.r03	d23e93c458b335a14f9bd4c9d53e1d59938e9cb7
+brw-grlc.rar	757cdfff488a25f74c766c9be061c04c3503b10c
+brw-grlc.sfv	4c37c016010108231594eae57dbfa28d0fadc62f

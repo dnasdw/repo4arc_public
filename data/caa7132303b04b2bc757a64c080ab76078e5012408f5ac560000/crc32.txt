@@ -1,0 +1,13 @@
+v-gato_roboto_v327680.nfo	dd472479
+v-gato_roboto_v327680.r00	3a4eb402
+v-gato_roboto_v327680.r01	930d190b
+v-gato_roboto_v327680.r02	4fc7c9f4
+v-gato_roboto_v327680.r03	9c8a4152
+v-gato_roboto_v327680.r04	176849bd
+v-gato_roboto_v327680.r05	31565c8a
+v-gato_roboto_v327680.r06	e9e90bf6
+v-gato_roboto_v327680.r07	f90717f9
+v-gato_roboto_v327680.r08	1973f81e
+v-gato_roboto_v327680.r09	60a18a30
+v-gato_roboto_v327680.rar	d0ef5a2c
+v-gato_roboto_v327680.sfv	e842cbd0

@@ -1,0 +1,14 @@
+sxs-chimp_quest_spirit_isle.nfo	-	5432	1	0	0	0
+sxs-chimp_quest_spirit_isle.r00	-	100000000	1	5432	0	1
+sxs-chimp_quest_spirit_isle.r01	-	100000000	1	100005432	0	97
+sxs-chimp_quest_spirit_isle.r02	-	100000000	1	200005432	0	193
+sxs-chimp_quest_spirit_isle.r03	-	100000000	1	300005432	0	289
+sxs-chimp_quest_spirit_isle.r04	-	100000000	1	400005432	0	385
+sxs-chimp_quest_spirit_isle.r05	-	100000000	1	500005432	0	481
+sxs-chimp_quest_spirit_isle.r06	-	100000000	1	62251264	1	60
+sxs-chimp_quest_spirit_isle.r07	-	100000000	1	162251264	1	156
+sxs-chimp_quest_spirit_isle.r08	-	100000000	1	262251264	1	252
+sxs-chimp_quest_spirit_isle.r09	-	100000000	1	362251264	1	348
+sxs-chimp_quest_spirit_isle.r10	-	87228185	1	462251264	1	444
+sxs-chimp_quest_spirit_isle.rar	-	100000000	1	11730713	2	12
+sxs-chimp_quest_spirit_isle.sfv	-	504	1	111730713	2	108

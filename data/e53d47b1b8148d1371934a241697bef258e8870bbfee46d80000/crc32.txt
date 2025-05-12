@@ -1,0 +1,7 @@
+sxs-railway_islands_puzzle.nfo	2147c2a7
+sxs-railway_islands_puzzle.r00	41a24e34
+sxs-railway_islands_puzzle.r01	4fbbce12
+sxs-railway_islands_puzzle.r02	a46edcb8
+sxs-railway_islands_puzzle.r03	9b8988cb
+sxs-railway_islands_puzzle.rar	77e2b816
+sxs-railway_islands_puzzle.sfv	d0ba2a7b

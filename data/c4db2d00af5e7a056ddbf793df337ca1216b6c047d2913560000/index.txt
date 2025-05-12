@@ -1,0 +1,4 @@
+sxs-faircrofts_antiques_the_heir_of_glen_kinnoch_collectors_edition_v262144.nfo	-	5354	1	0	0	0
+sxs-faircrofts_antiques_the_heir_of_glen_kinnoch_collectors_edition_v262144.r00	-	15496140	1	5354	0	1
+sxs-faircrofts_antiques_the_heir_of_glen_kinnoch_collectors_edition_v262144.rar	-	50000000	1	15501494	0	16
+sxs-faircrofts_antiques_the_heir_of_glen_kinnoch_collectors_edition_v262144.sfv	-	180	1	65501494	0	64

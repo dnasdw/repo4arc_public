@@ -1,0 +1,7 @@
+sxs-move_or_die_unleashed_v131072.nfo	804b72ca
+sxs-move_or_die_unleashed_v131072.r00	bb14a155
+sxs-move_or_die_unleashed_v131072.r01	c7350afd
+sxs-move_or_die_unleashed_v131072.r02	9ab7bc2d
+sxs-move_or_die_unleashed_v131072.r03	e4d29af5
+sxs-move_or_die_unleashed_v131072.rar	18d60d0d
+sxs-move_or_die_unleashed_v131072.sfv	16bdcfed

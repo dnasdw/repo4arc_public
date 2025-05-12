@@ -1,0 +1,4 @@
+v-momodora_v196608.nfo	-	6292	1	0	0	0
+v-momodora_v196608.r00	-	33772694	1	6292	0	1
+v-momodora_v196608.rar	-	50000000	1	33778986	0	34
+v-momodora_v196608.sfv	-	66	1	83778986	0	82

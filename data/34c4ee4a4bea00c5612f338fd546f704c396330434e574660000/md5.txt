@@ -1,0 +1,17 @@
+hr-dodgeball.nfo	5ba4c4155d59d8b928b9ceb1b8183788
+hr-dodgeball.r00	d526a133d8505208ce16fdaab9366920
+hr-dodgeball.r01	aa39e2e60cad6c546af04edd9184caa5
+hr-dodgeball.r02	c3a53868962f022eb718630841fed70b
+hr-dodgeball.r03	008e1763223ada3481a993c4da64338b
+hr-dodgeball.r04	073872660ea678c4d54b2a35323a3615
+hr-dodgeball.r05	8388394d5a242cd1e3fdbbda4122acb4
+hr-dodgeball.r06	97013e79654106e3b58c469ea79f9dd3
+hr-dodgeball.r07	b0082fca3898593fc316f38277399d34
+hr-dodgeball.r08	351b02d1bbf8bc1eb711459fd26f79ed
+hr-dodgeball.r09	c02333e1849bbc9aedaedd6cf9fb1b49
+hr-dodgeball.r10	53258897e5a996f6978423593196138e
+hr-dodgeball.r11	961093fdd6f93fa400432cc19c301d6b
+hr-dodgeball.r12	3298875412f36d5e2777fc0cfdd03c12
+hr-dodgeball.r13	4a11d1f009c643039d3eed024f147afa
+hr-dodgeball.rar	85ff57e4c146f7b9478ed88e1f8258ef
+hr-dodgeball.sfv	cf7031019b67677a8dcfe5e37d537a48

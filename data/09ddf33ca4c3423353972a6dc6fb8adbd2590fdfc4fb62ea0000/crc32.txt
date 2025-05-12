@@ -1,0 +1,12 @@
+sxs-farm_for_your_life_v131072.nfo	3e259b6f
+sxs-farm_for_your_life_v131072.r00	0eb1b741
+sxs-farm_for_your_life_v131072.r01	6f1a7bf6
+sxs-farm_for_your_life_v131072.r02	87cd0f2e
+sxs-farm_for_your_life_v131072.r03	610202c6
+sxs-farm_for_your_life_v131072.r04	837fe110
+sxs-farm_for_your_life_v131072.r05	bfa1ddc4
+sxs-farm_for_your_life_v131072.r06	042ffd78
+sxs-farm_for_your_life_v131072.r07	c8472548
+sxs-farm_for_your_life_v131072.r08	87d704b9
+sxs-farm_for_your_life_v131072.rar	08b354ba
+sxs-farm_for_your_life_v131072.sfv	271323da

@@ -1,0 +1,3 @@
+v-return_to_monkey_island_horse_armor_dlc.nfo	d79fe60c412d08ee772fdb9db15005c7
+v-return_to_monkey_island_horse_armor_dlc.rar	1e86e945a105fc256ffd9d6cba107d6e
+v-return_to_monkey_island_horse_armor_dlc.sfv	bdd4c6fa0c87609fcea88cb3fad8dc5f

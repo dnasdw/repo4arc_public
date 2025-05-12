@@ -1,0 +1,9 @@
+v-bomb_rush_cyberfunk_v262144.nfo	5950fb98
+v-bomb_rush_cyberfunk_v262144.r00	f3311552
+v-bomb_rush_cyberfunk_v262144.r01	f3889ff6
+v-bomb_rush_cyberfunk_v262144.r02	3450cc88
+v-bomb_rush_cyberfunk_v262144.r03	d64ea4b0
+v-bomb_rush_cyberfunk_v262144.r04	bef1c84c
+v-bomb_rush_cyberfunk_v262144.r05	d5befb6f
+v-bomb_rush_cyberfunk_v262144.rar	996dc5b2
+v-bomb_rush_cyberfunk_v262144.sfv	e6aaafe1

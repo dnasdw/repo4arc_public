@@ -1,0 +1,13 @@
+sxs-digimon_survive_readnfo_multi_v196608.nfo	3852cd3f
+sxs-digimon_survive_readnfo_multi_v196608.r00	e3dd9cd8
+sxs-digimon_survive_readnfo_multi_v196608.r01	94f7330c
+sxs-digimon_survive_readnfo_multi_v196608.r02	d1aae231
+sxs-digimon_survive_readnfo_multi_v196608.r03	8a8c1eb9
+sxs-digimon_survive_readnfo_multi_v196608.r04	3bb5689c
+sxs-digimon_survive_readnfo_multi_v196608.r05	5555e80c
+sxs-digimon_survive_readnfo_multi_v196608.r06	6bb8e975
+sxs-digimon_survive_readnfo_multi_v196608.r07	b1341474
+sxs-digimon_survive_readnfo_multi_v196608.r08	5de1e6d1
+sxs-digimon_survive_readnfo_multi_v196608.r09	4b3f3d4e
+sxs-digimon_survive_readnfo_multi_v196608.rar	7eee887d
+sxs-digimon_survive_readnfo_multi_v196608.sfv	fb3a32fe

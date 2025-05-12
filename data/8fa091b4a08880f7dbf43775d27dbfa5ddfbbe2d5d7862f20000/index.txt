@@ -1,0 +1,5 @@
+sxs-the_nom.nfo	-	6368	1	0	0	0
+sxs-the_nom.r00	-	100000000	1	6368	0	1
+sxs-the_nom.r01	-	71386667	1	100006368	0	97
+sxs-the_nom.rar	-	100000000	1	171393035	0	166
+sxs-the_nom.sfv	-	78	1	271393035	0	262

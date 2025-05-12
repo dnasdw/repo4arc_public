@@ -1,0 +1,3 @@
+v-civilization_vi_dlc.nfo	-	7072	1	0	0	0
+v-civilization_vi_dlc.rar	-	246717	1	7072	0	1
+v-civilization_vi_dlc.sfv	-	36	1	253789	0	2

@@ -1,0 +1,9 @@
+sxs-tnte.nfo	49731a26082b00a03bb22dc9bd134997
+sxs-tnte.r00	aa4d620b78622c5477e80c75c9a78cf9
+sxs-tnte.r01	886ef6985994400db4473d92f42515d3
+sxs-tnte.r02	ba0baf248e6b360193fa2d7594a0a1df
+sxs-tnte.r03	301e51f7fafdef01abaefa87f009b5f3
+sxs-tnte.r04	01addcda313cc32a58f5d01291dd2632
+sxs-tnte.r05	de576ae0d30899b54a4ef63b4d13c850
+sxs-tnte.rar	92e358b4ef493c52c3091cd6cc14e32a
+sxs-tnte.sfv	918cab023c27bfecce03000a5db053be

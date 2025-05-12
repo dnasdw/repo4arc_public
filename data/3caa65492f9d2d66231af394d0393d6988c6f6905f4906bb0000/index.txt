@@ -1,0 +1,5 @@
+sxs-jett_rider_v65536.nfo	-	5276	1	0	0	0
+sxs-jett_rider_v65536.r00	-	100000000	1	5276	0	1
+sxs-jett_rider_v65536.r01	-	20708600	1	100005276	0	97
+sxs-jett_rider_v65536.rar	-	100000000	1	120713876	0	117
+sxs-jett_rider_v65536.sfv	-	108	1	220713876	0	213

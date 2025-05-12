@@ -1,0 +1,5 @@
+sxs-mortal_shell_complete_edition_v65536.nfo	0f092df5
+sxs-mortal_shell_complete_edition_v65536.r00	5bf37a85
+sxs-mortal_shell_complete_edition_v65536.r01	138d8f8d
+sxs-mortal_shell_complete_edition_v65536.rar	4e314bb0
+sxs-mortal_shell_complete_edition_v65536.sfv	b784b337

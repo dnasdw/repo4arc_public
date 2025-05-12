@@ -1,0 +1,6 @@
+v-dolphin_spirit_ocean_mission_v65536.nfo	9dfe5c23
+v-dolphin_spirit_ocean_mission_v65536.r00	d04fba7d
+v-dolphin_spirit_ocean_mission_v65536.r01	2dc1bd5e
+v-dolphin_spirit_ocean_mission_v65536.r02	1393ee0f
+v-dolphin_spirit_ocean_mission_v65536.rar	c4624ccc
+v-dolphin_spirit_ocean_mission_v65536.sfv	bf3a7020

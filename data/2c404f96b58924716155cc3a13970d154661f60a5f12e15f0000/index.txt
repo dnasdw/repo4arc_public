@@ -1,0 +1,9 @@
+sxs-doctor_who_the_edge_of_reality_v131072.nfo	-	5666	1	0	0	0
+sxs-doctor_who_the_edge_of_reality_v131072.r00	-	100000000	1	5666	0	1
+sxs-doctor_who_the_edge_of_reality_v131072.r01	-	100000000	1	100005666	0	97
+sxs-doctor_who_the_edge_of_reality_v131072.r02	-	100000000	1	200005666	0	193
+sxs-doctor_who_the_edge_of_reality_v131072.r03	-	100000000	1	300005666	0	289
+sxs-doctor_who_the_edge_of_reality_v131072.r04	-	100000000	1	400005666	0	385
+sxs-doctor_who_the_edge_of_reality_v131072.r05	-	52473073	1	500005666	0	481
+sxs-doctor_who_the_edge_of_reality_v131072.rar	-	100000000	1	14724337	1	15
+sxs-doctor_who_the_edge_of_reality_v131072.sfv	-	399	1	114724337	1	111

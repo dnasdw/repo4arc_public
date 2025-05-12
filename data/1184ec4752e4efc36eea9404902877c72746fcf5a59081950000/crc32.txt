@@ -1,0 +1,11 @@
+sxs-motogp_20_v65536.nfo	86bb97f8
+sxs-motogp_20_v65536.r00	c8756537
+sxs-motogp_20_v65536.r01	f3c09fb0
+sxs-motogp_20_v65536.r02	97a56016
+sxs-motogp_20_v65536.r03	528322c9
+sxs-motogp_20_v65536.r04	64947cdf
+sxs-motogp_20_v65536.r05	8818ed60
+sxs-motogp_20_v65536.r06	e9ae55eb
+sxs-motogp_20_v65536.r07	7849c307
+sxs-motogp_20_v65536.rar	6788c376
+sxs-motogp_20_v65536.sfv	d8aa4e57

@@ -1,0 +1,3 @@
+sxs-astria_ascending_cosmetic_weapon_set_dlc.nfo	bfc6cab5463cedf967d75967dd1f9f6f
+sxs-astria_ascending_cosmetic_weapon_set_dlc.rar	b8403f5b8225065fd8a617b094416df6
+sxs-astria_ascending_cosmetic_weapon_set_dlc.sfv	2919dafd011e5eb371e34a9b824fad15

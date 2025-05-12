@@ -1,0 +1,11 @@
+hr-a549bv65536.nfo	db4901ba
+hr-a549bv65536.r00	eaafbabc
+hr-a549bv65536.r01	1dfb8ad3
+hr-a549bv65536.r02	7c6fdb2f
+hr-a549bv65536.r03	e102d91e
+hr-a549bv65536.r04	1c7abea1
+hr-a549bv65536.r05	3f3f833b
+hr-a549bv65536.r06	dc87b9d2
+hr-a549bv65536.r07	dea5b1ce
+hr-a549bv65536.rar	9a4ccfc8
+hr-a549bv65536.sfv	e2c357bb

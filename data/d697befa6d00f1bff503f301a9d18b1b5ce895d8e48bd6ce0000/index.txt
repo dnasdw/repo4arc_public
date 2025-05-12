@@ -1,0 +1,3 @@
+sxs-omega_labyrinth_life_dlc.nfo	-	17444	1	0	0	0
+sxs-omega_labyrinth_life_dlc.rar	-	4703650	1	17444	0	1
+sxs-omega_labyrinth_life_dlc.sfv	-	43	1	4721094	0	6

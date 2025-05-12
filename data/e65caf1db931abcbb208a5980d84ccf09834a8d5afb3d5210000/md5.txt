@@ -1,0 +1,13 @@
+v-gnosia.nfo	265afa035316ca6ea273e1c086de6b18
+v-gnosia.r00	f4af7a04fb7fa89e1d152bb19464e5bb
+v-gnosia.r01	ab6ccf3dddc045b2f102c1a3a3fb292c
+v-gnosia.r02	47d356d0ea7f23799e43ff34f32d12fc
+v-gnosia.r03	52e372940cbbdd472ffce3bd5f889732
+v-gnosia.r04	3f63b848b198e3faf9c454b7c5ee5fa6
+v-gnosia.r05	a9c51bb7879cb1d8031b5af7c08bf4cc
+v-gnosia.r06	7546bc5b435eb60aff3b50dd76363ad4
+v-gnosia.r07	f1f3a9c97bda5ffe1ee48c5116c6f0fa
+v-gnosia.r08	081498d3a98b66722e0752d3a6fd8d03
+v-gnosia.r09	9b321faced3b4839605f7fee6ab65762
+v-gnosia.rar	45f9c2dba5b50e75c6b0f295966e1bbe
+v-gnosia.sfv	6ebc74ba582c554883e88c8993b402d4

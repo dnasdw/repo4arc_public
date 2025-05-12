@@ -1,0 +1,4 @@
+v-ddogma_v65536.nfo	b83c7eec25cb166f775a06cafccbf952def22854
+v-ddogma_v65536.r00	0d7155024ca50d642ef3d81a65a42ef2cd83e2c2
+v-ddogma_v65536.rar	22e2e4fcc1173d70e7411cb13f0f36890f62cb56
+v-ddogma_v65536.sfv	f899aaed4c7eb3cccaab6b0f834da409118d4dbf

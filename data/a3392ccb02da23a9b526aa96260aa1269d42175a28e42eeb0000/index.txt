@@ -1,0 +1,8 @@
+sxs-melbits_world_v65536.nfo	-	3950	1	0	0	0
+sxs-melbits_world_v65536.r00	-	50000000	1	3950	0	1
+sxs-melbits_world_v65536.r01	-	50000000	1	50003950	0	49
+sxs-melbits_world_v65536.r02	-	50000000	1	100003950	0	97
+sxs-melbits_world_v65536.r03	-	50000000	1	150003950	0	145
+sxs-melbits_world_v65536.r04	-	14491190	1	200003950	0	193
+sxs-melbits_world_v65536.rar	-	50000000	1	214495140	0	207
+sxs-melbits_world_v65536.sfv	-	234	1	264495140	0	255

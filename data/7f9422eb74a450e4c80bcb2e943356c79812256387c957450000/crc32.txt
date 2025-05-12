@@ -1,0 +1,8 @@
+sxs-xenoblade_chronicles_3_v262144.nfo	b9a17a4e
+sxs-xenoblade_chronicles_3_v262144.r00	390a4739
+sxs-xenoblade_chronicles_3_v262144.r01	0f55263b
+sxs-xenoblade_chronicles_3_v262144.r02	57bb2902
+sxs-xenoblade_chronicles_3_v262144.r03	47b80b9f
+sxs-xenoblade_chronicles_3_v262144.r04	e670e1ce
+sxs-xenoblade_chronicles_3_v262144.rar	c6e331ec
+sxs-xenoblade_chronicles_3_v262144.sfv	8e0e97dc

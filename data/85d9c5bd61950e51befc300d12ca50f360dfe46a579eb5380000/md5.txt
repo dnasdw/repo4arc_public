@@ -1,0 +1,9 @@
+v-vandals.nfo	cc9c15158fb4913a463fa6d5427a2e0d
+v-vandals.r00	1f3d748d9c34bfac4ba7ada82ce4b022
+v-vandals.r01	07b83c85709b1f4f837c45016537a91e
+v-vandals.r02	343c5e1f4ad98a45d24effd121efc23e
+v-vandals.r03	0caf2e5f9a46d50ec309339abade51e3
+v-vandals.r04	ca60e51fa60d77894599210e65b08602
+v-vandals.r05	e1fa291e9dadb2568938b56f50eb278a
+v-vandals.rar	3541ebe17fca56119f876891783da88f
+v-vandals.sfv	b4ad391a1ba11d64530028c9d26c1025

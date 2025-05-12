@@ -1,0 +1,4 @@
+sxs-magazine_mogul_v65536.nfo	48f2ce31c8a21b6381acdedeaf0b727e640a5b2c
+sxs-magazine_mogul_v65536.r00	fd4d6b7fac9e40cb33cc380182b697a926472f89
+sxs-magazine_mogul_v65536.rar	23cfa5b0b969abc59cfd1d90b8f766c9ff344efb
+sxs-magazine_mogul_v65536.sfv	e73a1ace9ea06a7882f3d36a65189e019d0324cf

@@ -1,0 +1,7 @@
+sxs-dead_cells_v262144.nfo	a39c4e5e
+sxs-dead_cells_v262144.r00	605eb82e
+sxs-dead_cells_v262144.r01	38c89e5b
+sxs-dead_cells_v262144.r02	69667835
+sxs-dead_cells_v262144.r03	924cd540
+sxs-dead_cells_v262144.rar	38e43874
+sxs-dead_cells_v262144.sfv	590f5043

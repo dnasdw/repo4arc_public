@@ -1,0 +1,6 @@
+lfc-drinkmoreglurp.nfo	cafc6c96152c3b2817caa4f5bc0bf37936d3c0ad
+lfc-drinkmoreglurp.r00	8774f71d659e09016d5c1cbd97873a7e0c8cca4c
+lfc-drinkmoreglurp.r01	dfbc2974e8ca8fe3e7e0c57051e6f5f64c3303fa
+lfc-drinkmoreglurp.r02	3ee203fab0872f3996aeb982a9d90d89cd542ae5
+lfc-drinkmoreglurp.rar	801028d25f126265b3b05a535fa7c743f57415d6
+lfc-drinkmoreglurp.sfv	cc81569b8617f070b6d6c6511e748472193f74f0

@@ -1,0 +1,14 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-parents_vs_kids.jpg	-	115066	1	0	0	0
+sxs-parents_vs_kids.nfo	-	7772	1	115066	0	1
+sxs-parents_vs_kids.r00	-	100000000	1	122838	0	2
+sxs-parents_vs_kids.r01	-	100000000	1	100122838	0	98
+sxs-parents_vs_kids.r02	-	100000000	1	200122838	0	194
+sxs-parents_vs_kids.r03	-	100000000	1	300122838	0	290
+sxs-parents_vs_kids.r04	-	100000000	1	400122838	0	386
+sxs-parents_vs_kids.r05	-	100000000	1	500122838	0	482
+sxs-parents_vs_kids.r06	-	100000000	1	62251264	1	60
+sxs-parents_vs_kids.r07	-	100000000	1	162251264	1	156
+sxs-parents_vs_kids.r08	-	19349553	1	262251264	1	252
+sxs-parents_vs_kids.rar	-	100000000	1	281600817	1	271
+sxs-parents_vs_kids.sfv	-	340	1	381600817	1	367

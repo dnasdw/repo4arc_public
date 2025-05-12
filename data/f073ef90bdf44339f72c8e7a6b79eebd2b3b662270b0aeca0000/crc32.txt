@@ -1,0 +1,10 @@
+v-valfaris_v131072.nfo	e03bc0af
+v-valfaris_v131072.r00	9545efbe
+v-valfaris_v131072.r01	bd11c6b9
+v-valfaris_v131072.r02	81771dcb
+v-valfaris_v131072.r03	ddbe7693
+v-valfaris_v131072.r04	103baf94
+v-valfaris_v131072.r05	a7fa766a
+v-valfaris_v131072.r06	06581abb
+v-valfaris_v131072.rar	376a06e7
+v-valfaris_v131072.sfv	c1726024

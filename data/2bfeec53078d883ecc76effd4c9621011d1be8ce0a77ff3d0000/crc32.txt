@@ -1,0 +1,11 @@
+v-wreckfest_v131072.nfo	d4ce631d
+v-wreckfest_v131072.r00	952e7590
+v-wreckfest_v131072.r01	c6d720ee
+v-wreckfest_v131072.r02	2924302a
+v-wreckfest_v131072.r03	18e9f068
+v-wreckfest_v131072.r04	2ac5d5b9
+v-wreckfest_v131072.r05	88069956
+v-wreckfest_v131072.r06	8f9533e2
+v-wreckfest_v131072.r07	9b4dd225
+v-wreckfest_v131072.rar	087be8a9
+v-wreckfest_v131072.sfv	852474bc

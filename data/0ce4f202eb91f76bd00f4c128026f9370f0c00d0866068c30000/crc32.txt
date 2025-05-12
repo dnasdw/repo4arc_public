@@ -1,0 +1,12 @@
+v-muse_dash_v327680.nfo	706d0447
+v-muse_dash_v327680.r00	92359694
+v-muse_dash_v327680.r01	110c2e0d
+v-muse_dash_v327680.r02	a42b90a6
+v-muse_dash_v327680.r03	ba8da2f5
+v-muse_dash_v327680.r04	9b5d6dd5
+v-muse_dash_v327680.r05	7084731f
+v-muse_dash_v327680.r06	c290e3c8
+v-muse_dash_v327680.r07	ae66177d
+v-muse_dash_v327680.r08	dfa91c30
+v-muse_dash_v327680.rar	86e9f3af
+v-muse_dash_v327680.sfv	820321c1

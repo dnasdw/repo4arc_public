@@ -1,0 +1,12 @@
+v-soundfall_v196608.nfo	a40855fd
+v-soundfall_v196608.r00	aa7d84ea
+v-soundfall_v196608.r01	07150912
+v-soundfall_v196608.r02	0d9b25ab
+v-soundfall_v196608.r03	8587ea73
+v-soundfall_v196608.r04	8197a79a
+v-soundfall_v196608.r05	3c2b301e
+v-soundfall_v196608.r06	8b2d2ef3
+v-soundfall_v196608.r07	d85cbba1
+v-soundfall_v196608.r08	9e53e416
+v-soundfall_v196608.rar	129d8493
+v-soundfall_v196608.sfv	0a73aced

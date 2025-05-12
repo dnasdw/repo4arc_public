@@ -1,0 +1,8 @@
+sxs-melbits_world_v65536.nfo	dbdd3a26
+sxs-melbits_world_v65536.r00	4b31dc02
+sxs-melbits_world_v65536.r01	a0cb37af
+sxs-melbits_world_v65536.r02	0bfecdf6
+sxs-melbits_world_v65536.r03	42e81447
+sxs-melbits_world_v65536.r04	acfca7d7
+sxs-melbits_world_v65536.rar	fdca06c8
+sxs-melbits_world_v65536.sfv	5143d703

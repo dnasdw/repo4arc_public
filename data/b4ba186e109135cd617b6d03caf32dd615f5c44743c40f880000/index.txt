@@ -1,0 +1,16 @@
+sxs-devil_slayer_raksasi_v262144.nfo	-	8162	1	0	0	0
+sxs-devil_slayer_raksasi_v262144.r00	-	50000000	1	8162	0	1
+sxs-devil_slayer_raksasi_v262144.r01	-	50000000	1	50008162	0	49
+sxs-devil_slayer_raksasi_v262144.r02	-	50000000	1	100008162	0	97
+sxs-devil_slayer_raksasi_v262144.r03	-	50000000	1	150008162	0	145
+sxs-devil_slayer_raksasi_v262144.r04	-	50000000	1	200008162	0	193
+sxs-devil_slayer_raksasi_v262144.r05	-	50000000	1	250008162	0	241
+sxs-devil_slayer_raksasi_v262144.r06	-	50000000	1	300008162	0	289
+sxs-devil_slayer_raksasi_v262144.r07	-	50000000	1	350008162	0	337
+sxs-devil_slayer_raksasi_v262144.r08	-	50000000	1	400008162	0	385
+sxs-devil_slayer_raksasi_v262144.r09	-	50000000	1	450008162	0	433
+sxs-devil_slayer_raksasi_v262144.r10	-	50000000	1	500008162	0	481
+sxs-devil_slayer_raksasi_v262144.r11	-	50000000	1	12251264	1	12
+sxs-devil_slayer_raksasi_v262144.r12	-	38029711	1	62251264	1	60
+sxs-devil_slayer_raksasi_v262144.rar	-	50000000	1	100280975	1	97
+sxs-devil_slayer_raksasi_v262144.sfv	-	658	1	150280975	1	145

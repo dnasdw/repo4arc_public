@@ -1,0 +1,13 @@
+sxs-five_dates_v262144.nfo	0a9b9d92
+sxs-five_dates_v262144.r00	2f86395f
+sxs-five_dates_v262144.r01	26c9d633
+sxs-five_dates_v262144.r02	5941d034
+sxs-five_dates_v262144.r03	45caad39
+sxs-five_dates_v262144.r04	e3f787a9
+sxs-five_dates_v262144.r05	0062c08a
+sxs-five_dates_v262144.r06	4150244b
+sxs-five_dates_v262144.r07	fd358040
+sxs-five_dates_v262144.r08	0875fb3f
+sxs-five_dates_v262144.r09	f31ccd6c
+sxs-five_dates_v262144.rar	640f72d7
+sxs-five_dates_v262144.sfv	9219849b

@@ -1,0 +1,5 @@
+sxs-fate_extella_link_v131072.nfo	e3de95db635feb644c025e009847deb1
+sxs-fate_extella_link_v131072.r00	5ff5e31b6bebbcf24b3cc802d636c6ef
+sxs-fate_extella_link_v131072.r01	4dac51fd69805d88b116994ff8ec9e65
+sxs-fate_extella_link_v131072.rar	5a8420179d2a1b2c06d78ea3d84d81c0
+sxs-fate_extella_link_v131072.sfv	9617ecd0d42cfe037a17686393427adf

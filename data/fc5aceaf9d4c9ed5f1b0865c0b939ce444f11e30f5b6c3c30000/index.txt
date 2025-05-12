@@ -1,0 +1,6 @@
+v-eastward_octopia_dlc.nfo	-	8632	1	0	0	0
+v-eastward_octopia_dlc.r00	-	100000000	1	8632	0	1
+v-eastward_octopia_dlc.r01	-	100000000	1	100008632	0	97
+v-eastward_octopia_dlc.r02	-	15875068	1	200008632	0	193
+v-eastward_octopia_dlc.rar	-	100000000	1	215883700	0	209
+v-eastward_octopia_dlc.sfv	-	148	1	315883700	0	305

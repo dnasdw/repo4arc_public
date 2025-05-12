@@ -1,0 +1,16 @@
+nnssww_they_always_run.nfo	-	1119	1	0	0	0
+nnssww_they_always_run.r00	-	50000000	1	1119	0	1
+nnssww_they_always_run.r01	-	50000000	1	50001119	0	49
+nnssww_they_always_run.r02	-	50000000	1	100001119	0	97
+nnssww_they_always_run.r03	-	50000000	1	150001119	0	145
+nnssww_they_always_run.r04	-	50000000	1	200001119	0	193
+nnssww_they_always_run.r05	-	50000000	1	250001119	0	241
+nnssww_they_always_run.r06	-	50000000	1	300001119	0	289
+nnssww_they_always_run.r07	-	50000000	1	350001119	0	337
+nnssww_they_always_run.r08	-	50000000	1	400001119	0	385
+nnssww_they_always_run.r09	-	50000000	1	450001119	0	433
+nnssww_they_always_run.r10	-	50000000	1	500001119	0	481
+nnssww_they_always_run.r11	-	50000000	1	12251264	1	12
+nnssww_they_always_run.r12	-	33183583	1	62251264	1	60
+nnssww_they_always_run.rar	-	50000000	1	95434847	1	92
+nnssww_they_always_run.sfv	-	518	1	145434847	1	140

@@ -1,0 +1,10 @@
+sxs-monster_hunter_rise_demo_v131072.nfo	47be1d19
+sxs-monster_hunter_rise_demo_v131072.r00	9ea83b82
+sxs-monster_hunter_rise_demo_v131072.r01	c4d2b50c
+sxs-monster_hunter_rise_demo_v131072.r02	552b749e
+sxs-monster_hunter_rise_demo_v131072.r03	837c08fc
+sxs-monster_hunter_rise_demo_v131072.r04	3b632a27
+sxs-monster_hunter_rise_demo_v131072.r05	3832b307
+sxs-monster_hunter_rise_demo_v131072.r06	6fd99fbd
+sxs-monster_hunter_rise_demo_v131072.rar	eb7d7d13
+sxs-monster_hunter_rise_demo_v131072.sfv	7f4cb255

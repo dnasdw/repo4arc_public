@@ -1,0 +1,10 @@
+v-madshot_v196608.nfo	d4ad4fe6
+v-madshot_v196608.r00	1d297f7d
+v-madshot_v196608.r01	97489108
+v-madshot_v196608.r02	e2581415
+v-madshot_v196608.r03	9085838c
+v-madshot_v196608.r04	bab666ef
+v-madshot_v196608.r05	87aebd9a
+v-madshot_v196608.r06	6c226863
+v-madshot_v196608.rar	5347794a
+v-madshot_v196608.sfv	1f593dd9

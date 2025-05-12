@@ -1,0 +1,11 @@
+sxs-pato_box_v196608.nfo	d757d8c4
+sxs-pato_box_v196608.r00	d1975144
+sxs-pato_box_v196608.r01	32bef314
+sxs-pato_box_v196608.r02	462eccfb
+sxs-pato_box_v196608.r03	f3329d4a
+sxs-pato_box_v196608.r04	555dcc20
+sxs-pato_box_v196608.r05	2d03e00c
+sxs-pato_box_v196608.r06	11b74db6
+sxs-pato_box_v196608.r07	d3666674
+sxs-pato_box_v196608.rar	5180c4f7
+sxs-pato_box_v196608.sfv	643b5813

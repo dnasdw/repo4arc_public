@@ -1,0 +1,4 @@
+sxs-geojelly.nfo	96c92f1fa86550eb3ebf6252c581c5d8
+sxs-geojelly.r00	a5353bc2f680f4abe8ce6d0c85e78fbf
+sxs-geojelly.rar	a181a33e613a9ad00396d6772141948f
+sxs-geojelly.sfv	b657f12eac7b0f97f1429805f9c04fbd

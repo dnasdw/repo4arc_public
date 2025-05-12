@@ -1,0 +1,4 @@
+sxs-avenger_bird_v65536.nfo	-	5199	1	0	0	0
+sxs-avenger_bird_v65536.r00	-	20106489	1	5199	0	1
+sxs-avenger_bird_v65536.rar	-	50000000	1	20111688	0	21
+sxs-avenger_bird_v65536.sfv	-	76	1	70111688	0	69

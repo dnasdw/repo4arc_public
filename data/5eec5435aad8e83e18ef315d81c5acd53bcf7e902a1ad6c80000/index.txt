@@ -1,0 +1,3 @@
+sxs-throne_of_egypt.nfo	-	4262	1	0	0	0
+sxs-throne_of_egypt.rar	-	96449574	1	4262	0	1
+sxs-throne_of_egypt.sfv	-	34	1	96453836	0	93

@@ -1,0 +1,4 @@
+sxs-train_valley_2_community_edition_v65536.nfo	-	5120	1	0	0	0
+sxs-train_valley_2_community_edition_v65536.r00	-	22507971	1	5120	0	1
+sxs-train_valley_2_community_edition_v65536.rar	-	100000000	1	22513091	0	23
+sxs-train_valley_2_community_edition_v65536.sfv	-	116	1	122513091	0	119

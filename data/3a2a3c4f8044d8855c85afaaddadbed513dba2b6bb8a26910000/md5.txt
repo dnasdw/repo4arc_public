@@ -1,0 +1,11 @@
+v-dorfromantik.nfo	39d7b0e37e70c623e20dedded431c1c9
+v-dorfromantik.r00	37545657b5c49e56ec35580efdd1af1d
+v-dorfromantik.r01	e42a2e89f115e2410647f5e0182104e4
+v-dorfromantik.r02	f8eb7bb4d734e2a366af551e0fa4c76b
+v-dorfromantik.r03	22984e9fcfa11677807a1724e77515af
+v-dorfromantik.r04	dd2dd9ee657909c276f1066c28718dfe
+v-dorfromantik.r05	c52cc31f136e413510fc59cb53aafec2
+v-dorfromantik.r06	36337ddb8a970b556ca2ed3d7bf90e97
+v-dorfromantik.r07	b350fb95b8564b6fec3472fb9e2d625b
+v-dorfromantik.rar	31f0817ed2275bebf4f4bb8d0c8ac49d
+v-dorfromantik.sfv	d63e9610e22cf643069dd127e27dcd07

@@ -1,0 +1,4 @@
+sxs-lego_star_wars_the_skywalker_saga_mumble_mode_pack_dlc.nfo	-	6056	1	0	0	0
+sxs-lego_star_wars_the_skywalker_saga_mumble_mode_pack_dlc.r00	-	41305235	1	6056	0	1
+sxs-lego_star_wars_the_skywalker_saga_mumble_mode_pack_dlc.rar	-	50000000	1	41311291	0	41
+sxs-lego_star_wars_the_skywalker_saga_mumble_mode_pack_dlc.sfv	-	146	1	91311291	0	89

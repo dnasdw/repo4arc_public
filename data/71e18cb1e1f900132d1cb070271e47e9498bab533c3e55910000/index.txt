@@ -1,0 +1,15 @@
+sxs-wheel_of_fortune_v131072.nfo	-	4184	1	0	0	0
+sxs-wheel_of_fortune_v131072.r00	-	50000000	1	4184	0	1
+sxs-wheel_of_fortune_v131072.r01	-	50000000	1	50004184	0	49
+sxs-wheel_of_fortune_v131072.r02	-	50000000	1	100004184	0	97
+sxs-wheel_of_fortune_v131072.r03	-	50000000	1	150004184	0	145
+sxs-wheel_of_fortune_v131072.r04	-	50000000	1	200004184	0	193
+sxs-wheel_of_fortune_v131072.r05	-	50000000	1	250004184	0	241
+sxs-wheel_of_fortune_v131072.r06	-	50000000	1	300004184	0	289
+sxs-wheel_of_fortune_v131072.r07	-	50000000	1	350004184	0	337
+sxs-wheel_of_fortune_v131072.r08	-	50000000	1	400004184	0	385
+sxs-wheel_of_fortune_v131072.r09	-	50000000	1	450004184	0	433
+sxs-wheel_of_fortune_v131072.r10	-	50000000	1	500004184	0	481
+sxs-wheel_of_fortune_v131072.r11	-	13423802	1	12251264	1	12
+sxs-wheel_of_fortune_v131072.rar	-	50000000	1	25675066	1	25
+sxs-wheel_of_fortune_v131072.sfv	-	559	1	75675066	1	73

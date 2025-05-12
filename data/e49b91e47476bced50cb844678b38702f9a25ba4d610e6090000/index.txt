@@ -1,0 +1,6 @@
+sxs-pinball_fx_v65536.nfo	-	5198	1	0	0	0
+sxs-pinball_fx_v65536.r00	-	100000000	1	5198	0	1
+sxs-pinball_fx_v65536.r01	-	100000000	1	100005198	0	97
+sxs-pinball_fx_v65536.r02	-	61897910	1	200005198	0	193
+sxs-pinball_fx_v65536.rar	-	100000000	1	261903108	0	253
+sxs-pinball_fx_v65536.sfv	-	144	1	361903108	0	349

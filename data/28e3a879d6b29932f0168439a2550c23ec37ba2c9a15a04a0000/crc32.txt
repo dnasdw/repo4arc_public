@@ -1,0 +1,10 @@
+sxs-flatland_vol1.nfo	de6c24a2
+sxs-flatland_vol1.r00	b216dcdd
+sxs-flatland_vol1.r01	9bad3cab
+sxs-flatland_vol1.r02	b5c3bf9e
+sxs-flatland_vol1.r03	501c7515
+sxs-flatland_vol1.r04	ed7ec351
+sxs-flatland_vol1.r05	e9356c0d
+sxs-flatland_vol1.r06	5d6029d9
+sxs-flatland_vol1.rar	15135f3a
+sxs-flatland_vol1.sfv	0bbae621

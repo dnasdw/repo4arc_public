@@ -1,0 +1,12 @@
+sxs-dirt_trackin_sprint_cars_v524288.nfo	-	6680	1	0	0	0
+sxs-dirt_trackin_sprint_cars_v524288.r00	-	50000000	1	6680	0	1
+sxs-dirt_trackin_sprint_cars_v524288.r01	-	50000000	1	50006680	0	49
+sxs-dirt_trackin_sprint_cars_v524288.r02	-	50000000	1	100006680	0	97
+sxs-dirt_trackin_sprint_cars_v524288.r03	-	50000000	1	150006680	0	145
+sxs-dirt_trackin_sprint_cars_v524288.r04	-	50000000	1	200006680	0	193
+sxs-dirt_trackin_sprint_cars_v524288.r05	-	50000000	1	250006680	0	241
+sxs-dirt_trackin_sprint_cars_v524288.r06	-	50000000	1	300006680	0	289
+sxs-dirt_trackin_sprint_cars_v524288.r07	-	50000000	1	350006680	0	337
+sxs-dirt_trackin_sprint_cars_v524288.r08	-	37856031	1	400006680	0	385
+sxs-dirt_trackin_sprint_cars_v524288.rar	-	50000000	1	437862711	0	422
+sxs-dirt_trackin_sprint_cars_v524288.sfv	-	510	1	487862711	0	470

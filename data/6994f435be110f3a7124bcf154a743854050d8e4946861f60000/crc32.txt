@@ -1,0 +1,4 @@
+v-doom_64_v131072.nfo	0a863586
+v-doom_64_v131072.r00	c0651ff8
+v-doom_64_v131072.rar	b8564abc
+v-doom_64_v131072.sfv	7f6e328c

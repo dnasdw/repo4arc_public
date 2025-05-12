@@ -1,0 +1,10 @@
+sxs-pktu.nfo	f6aac9daa4d74b01564053f13ab2b19f
+sxs-pktu.r00	4605a6b1527371f55517739e870d833d
+sxs-pktu.r01	daae7857cefef62465e146eb3f0688df
+sxs-pktu.r02	0d20ba68af367dfb3791689b3fbf968e
+sxs-pktu.r03	d5e1f87f20c45afc02b548f9774fedd3
+sxs-pktu.r04	bf2febbc98727d53bcd55174bea91f35
+sxs-pktu.r05	6320ac45ad0acee9b4d86e5fb92f9bfc
+sxs-pktu.r06	9e0098573437915c79045b14cb39b77d
+sxs-pktu.rar	5fdef5350b27048db951c0f9518ab64f
+sxs-pktu.sfv	7d2940d5166f6e05e5dd8ca2edf209b5

@@ -1,0 +1,15 @@
+v-turnip_boy_robs_a_bank.nfo	-	6292	1	0	0	0
+v-turnip_boy_robs_a_bank.r00	-	100000000	1	6292	0	1
+v-turnip_boy_robs_a_bank.r01	-	100000000	1	100006292	0	97
+v-turnip_boy_robs_a_bank.r02	-	100000000	1	200006292	0	193
+v-turnip_boy_robs_a_bank.r03	-	100000000	1	300006292	0	289
+v-turnip_boy_robs_a_bank.r04	-	100000000	1	400006292	0	385
+v-turnip_boy_robs_a_bank.r05	-	100000000	1	500006292	0	481
+v-turnip_boy_robs_a_bank.r06	-	100000000	1	62251264	1	60
+v-turnip_boy_robs_a_bank.r07	-	100000000	1	162251264	1	156
+v-turnip_boy_robs_a_bank.r08	-	100000000	1	262251264	1	252
+v-turnip_boy_robs_a_bank.r09	-	100000000	1	362251264	1	348
+v-turnip_boy_robs_a_bank.r10	-	100000000	1	462251264	1	444
+v-turnip_boy_robs_a_bank.r11	-	44618996	1	24502528	2	24
+v-turnip_boy_robs_a_bank.rar	-	100000000	1	69121524	2	67
+v-turnip_boy_robs_a_bank.sfv	-	507	1	169121524	2	163

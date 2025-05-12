@@ -1,0 +1,12 @@
+lfc-spzn.nfo	80317c40
+lfc-spzn.r00	ad209b95
+lfc-spzn.r01	607ba85d
+lfc-spzn.r02	c68c4b1a
+lfc-spzn.r03	92e8f0fe
+lfc-spzn.r04	24a6cb27
+lfc-spzn.r05	e7c76ad2
+lfc-spzn.r06	320f6e01
+lfc-spzn.r07	2000fda1
+lfc-spzn.r08	a196fcb5
+lfc-spzn.rar	e572c682
+lfc-spzn.sfv	f6834ced

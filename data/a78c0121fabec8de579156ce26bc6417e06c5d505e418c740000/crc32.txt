@@ -1,0 +1,8 @@
+sxs-super_blood_hockey.nfo	7b386dcb
+sxs-super_blood_hockey.r00	1c16544a
+sxs-super_blood_hockey.r01	18f8685f
+sxs-super_blood_hockey.r02	ab9ed4f6
+sxs-super_blood_hockey.r03	24d76f6f
+sxs-super_blood_hockey.r04	7b9b701d
+sxs-super_blood_hockey.rar	c0813f50
+sxs-super_blood_hockey.sfv	01e4b143

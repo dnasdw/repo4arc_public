@@ -1,0 +1,11 @@
+ycn-shimazu.nfo	086e9520
+ycn-shimazu.r00	e35938b4
+ycn-shimazu.r01	661b6ea6
+ycn-shimazu.r02	18fab6d9
+ycn-shimazu.r03	3a964108
+ycn-shimazu.r04	a38e52b9
+ycn-shimazu.r05	8ef3479a
+ycn-shimazu.r06	321eccd5
+ycn-shimazu.r07	b56a3d87
+ycn-shimazu.rar	b16c5c68
+ycn-shimazu.sfv	1120d7c1

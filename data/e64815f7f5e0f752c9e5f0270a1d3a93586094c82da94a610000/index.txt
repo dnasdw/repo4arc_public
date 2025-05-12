@@ -1,0 +1,11 @@
+sxs-bud_spencer_and_terence_hill_slaps_and_beans_2_v131072.nfo	-	5432	1	0	0	0
+sxs-bud_spencer_and_terence_hill_slaps_and_beans_2_v131072.r00	-	100000000	1	5432	0	1
+sxs-bud_spencer_and_terence_hill_slaps_and_beans_2_v131072.r01	-	100000000	1	100005432	0	97
+sxs-bud_spencer_and_terence_hill_slaps_and_beans_2_v131072.r02	-	100000000	1	200005432	0	193
+sxs-bud_spencer_and_terence_hill_slaps_and_beans_2_v131072.r03	-	100000000	1	300005432	0	289
+sxs-bud_spencer_and_terence_hill_slaps_and_beans_2_v131072.r04	-	100000000	1	400005432	0	385
+sxs-bud_spencer_and_terence_hill_slaps_and_beans_2_v131072.r05	-	100000000	1	500005432	0	481
+sxs-bud_spencer_and_terence_hill_slaps_and_beans_2_v131072.r06	-	100000000	1	62251264	1	60
+sxs-bud_spencer_and_terence_hill_slaps_and_beans_2_v131072.r07	-	32670784	1	162251264	1	156
+sxs-bud_spencer_and_terence_hill_slaps_and_beans_2_v131072.rar	-	100000000	1	194922048	1	188
+sxs-bud_spencer_and_terence_hill_slaps_and_beans_2_v131072.sfv	-	657	1	294922048	1	284

@@ -1,0 +1,8 @@
+sxs-asscrr_jap_dlc.nfo	-	4184	1	0	0	0
+sxs-asscrr_jap_dlc.r00	-	50000000	1	4184	0	1
+sxs-asscrr_jap_dlc.r01	-	50000000	1	50004184	0	49
+sxs-asscrr_jap_dlc.r02	-	50000000	1	100004184	0	97
+sxs-asscrr_jap_dlc.r03	-	50000000	1	150004184	0	145
+sxs-asscrr_jap_dlc.r04	-	26945744	1	200004184	0	193
+sxs-asscrr_jap_dlc.rar	-	50000000	1	226949928	0	219
+sxs-asscrr_jap_dlc.sfv	-	198	1	276949928	0	267

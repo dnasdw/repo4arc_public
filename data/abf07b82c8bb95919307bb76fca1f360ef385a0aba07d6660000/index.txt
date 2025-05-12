@@ -1,0 +1,8 @@
+sxs-aztec_tiki_talisman.nfo	-	5435	1	0	0	0
+sxs-aztec_tiki_talisman.r00	-	100000000	1	5435	0	1
+sxs-aztec_tiki_talisman.r01	-	100000000	1	100005435	0	97
+sxs-aztec_tiki_talisman.r02	-	100000000	1	200005435	0	193
+sxs-aztec_tiki_talisman.r03	-	100000000	1	300005435	0	289
+sxs-aztec_tiki_talisman.r04	-	33246503	1	400005435	0	385
+sxs-aztec_tiki_talisman.rar	-	100000000	1	433251938	0	417
+sxs-aztec_tiki_talisman.sfv	-	228	1	533251938	0	513

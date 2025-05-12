@@ -1,0 +1,15 @@
+sxs-60_parsecs_v131072.nfo	1053622e
+sxs-60_parsecs_v131072.r00	e253def5
+sxs-60_parsecs_v131072.r01	eb63d4d2
+sxs-60_parsecs_v131072.r02	5a34bfbd
+sxs-60_parsecs_v131072.r03	5c16b80f
+sxs-60_parsecs_v131072.r04	8d687371
+sxs-60_parsecs_v131072.r05	fbd9d557
+sxs-60_parsecs_v131072.r06	c0303df0
+sxs-60_parsecs_v131072.r07	550cbc03
+sxs-60_parsecs_v131072.r08	418d2da2
+sxs-60_parsecs_v131072.r09	fae6ebab
+sxs-60_parsecs_v131072.r10	c9fa9834
+sxs-60_parsecs_v131072.r11	2269a3da
+sxs-60_parsecs_v131072.rar	48ceefc6
+sxs-60_parsecs_v131072.sfv	cb2d3e8a

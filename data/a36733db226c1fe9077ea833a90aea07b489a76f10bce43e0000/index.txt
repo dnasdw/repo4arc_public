@@ -1,0 +1,4 @@
+lfc-vogo.nfo	-	5896	1	0	0	0
+lfc-vogo.r00	-	33747307	1	5896	0	1
+lfc-vogo.rar	-	50000000	1	33753203	0	34
+lfc-vogo.sfv	-	46	1	83753203	0	82

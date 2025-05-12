@@ -1,0 +1,10 @@
+lfc-tlob_v196608.nfo	ec121337
+lfc-tlob_v196608.r00	90f99d12
+lfc-tlob_v196608.r01	7d635eb7
+lfc-tlob_v196608.r02	917b124d
+lfc-tlob_v196608.r03	ea5b02a2
+lfc-tlob_v196608.r04	5572b445
+lfc-tlob_v196608.r05	973cbc22
+lfc-tlob_v196608.r06	26a4b676
+lfc-tlob_v196608.rar	7defa9e8
+lfc-tlob_v196608.sfv	ede01425

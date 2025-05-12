@@ -1,0 +1,9 @@
+sxs-devil_slayer_raksasi_v393216.nfo	-	8162	1	0	0	0
+sxs-devil_slayer_raksasi_v393216.r00	-	100000000	1	8162	0	1
+sxs-devil_slayer_raksasi_v393216.r01	-	100000000	1	100008162	0	97
+sxs-devil_slayer_raksasi_v393216.r02	-	100000000	1	200008162	0	193
+sxs-devil_slayer_raksasi_v393216.r03	-	100000000	1	300008162	0	289
+sxs-devil_slayer_raksasi_v393216.r04	-	100000000	1	400008162	0	385
+sxs-devil_slayer_raksasi_v393216.r05	-	5713611	1	500008162	0	481
+sxs-devil_slayer_raksasi_v393216.rar	-	100000000	1	505721773	0	487
+sxs-devil_slayer_raksasi_v393216.sfv	-	329	1	68542720	1	66

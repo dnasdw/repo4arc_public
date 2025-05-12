@@ -1,0 +1,8 @@
+v-super_monkey_ball_banana_mania_v196608.nfo	-	5512	1	0	0	0
+v-super_monkey_ball_banana_mania_v196608.r00	-	50000000	1	5512	0	1
+v-super_monkey_ball_banana_mania_v196608.r01	-	50000000	1	50005512	0	49
+v-super_monkey_ball_banana_mania_v196608.r02	-	50000000	1	100005512	0	97
+v-super_monkey_ball_banana_mania_v196608.r03	-	50000000	1	150005512	0	145
+v-super_monkey_ball_banana_mania_v196608.r04	-	44006580	1	200005512	0	193
+v-super_monkey_ball_banana_mania_v196608.rar	-	50000000	1	244012092	0	235
+v-super_monkey_ball_banana_mania_v196608.sfv	-	330	1	294012092	0	283

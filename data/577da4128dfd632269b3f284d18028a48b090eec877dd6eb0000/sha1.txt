@@ -1,0 +1,3 @@
+sxs-mbsp.nfo	0081e9fac0c736c44820ac7ae2d4b6155c2222a6
+sxs-mbsp.rar	45e76221fbbca5e1896ac11ac9fc8669096e65fc
+sxs-mbsp.sfv	be50457f6e416838f5eb3bfe0e729a8fbd0ecb62

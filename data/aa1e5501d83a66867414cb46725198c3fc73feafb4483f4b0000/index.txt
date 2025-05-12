@@ -1,0 +1,4 @@
+sxs-kid_ball_adventure.nfo	-	5900	1	0	0	0
+sxs-kid_ball_adventure.r00	-	27033745	1	5900	0	1
+sxs-kid_ball_adventure.rar	-	50000000	1	27039645	0	27
+sxs-kid_ball_adventure.sfv	-	74	1	77039645	0	75

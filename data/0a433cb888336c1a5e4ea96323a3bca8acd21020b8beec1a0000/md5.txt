@@ -1,0 +1,7 @@
+sxs-a_matter_of_principle.nfo	bfcc68f3da03a7ba56363d4afd50c6ab
+sxs-a_matter_of_principle.r00	4b36882439198bcf6a3efee4430be64e
+sxs-a_matter_of_principle.r01	fe5e887306a8a8a0b988db1c5e37c883
+sxs-a_matter_of_principle.r02	6feef06c917407248f2e33c0218ff3ae
+sxs-a_matter_of_principle.r03	6a8a4596cb6d97f48bcf50913135e082
+sxs-a_matter_of_principle.rar	099ddd936f4b46a9f9dcca77c2bd71ee
+sxs-a_matter_of_principle.sfv	3313244ee4c0f19e76952c90886d159f

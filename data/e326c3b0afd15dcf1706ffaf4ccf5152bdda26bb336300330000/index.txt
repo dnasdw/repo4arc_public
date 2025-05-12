@@ -1,0 +1,3 @@
+sxs-the_legend_of_dark_witch_day_dlc.nfo	-	5198	1	0	0	0
+sxs-the_legend_of_dark_witch_day_dlc.rar	-	104071	1	5198	0	1
+sxs-the_legend_of_dark_witch_day_dlc.sfv	-	51	1	109269	0	2

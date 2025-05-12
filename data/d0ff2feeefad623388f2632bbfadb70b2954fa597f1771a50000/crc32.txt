@@ -1,0 +1,7 @@
+sxs-moonscars_v524288.nfo	7a642b97
+sxs-moonscars_v524288.r00	23e9bea3
+sxs-moonscars_v524288.r01	5ba6429e
+sxs-moonscars_v524288.r02	94fb042e
+sxs-moonscars_v524288.r03	98e9513e
+sxs-moonscars_v524288.rar	e2aac273
+sxs-moonscars_v524288.sfv	bc130ed8

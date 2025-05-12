@@ -1,0 +1,4 @@
+v-the_legend_of_steel_empire_v65536.nfo	-	4654	1	0	0	0
+v-the_legend_of_steel_empire_v65536.r00	-	24220605	1	4654	0	1
+v-the_legend_of_steel_empire_v65536.rar	-	100000000	1	24225259	0	25
+v-the_legend_of_steel_empire_v65536.sfv	-	100	1	124225259	0	121

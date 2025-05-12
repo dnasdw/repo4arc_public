@@ -1,0 +1,4 @@
+lfc-gala.nfo	10cc3101
+lfc-gala.r00	dd2fb5b5
+lfc-gala.rar	33d4c3db
+lfc-gala.sfv	9273191a

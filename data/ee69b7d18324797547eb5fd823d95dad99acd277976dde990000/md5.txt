@@ -1,0 +1,9 @@
+sxs-mazm_pechka.nfo	cfbde3e852c15f52de331ef1c12552cb
+sxs-mazm_pechka.r00	47ac7c32162e052351590705af3422a8
+sxs-mazm_pechka.r01	5f9733e3d980902cf3ebf1736e889b68
+sxs-mazm_pechka.r02	49cc5a9590117b231749b01bc82af668
+sxs-mazm_pechka.r03	db7732fd87187bf0c1bb4f7ba84efdc8
+sxs-mazm_pechka.r04	f795843cc06cbe041cfcd680b705bb26
+sxs-mazm_pechka.r05	f3e78625631e1e8ddd1ffcdb0b104d02
+sxs-mazm_pechka.rar	f3fd78b53e05b9712615ed9c7868be5d
+sxs-mazm_pechka.sfv	b8679585398d43d1fc74ae213c8b53de

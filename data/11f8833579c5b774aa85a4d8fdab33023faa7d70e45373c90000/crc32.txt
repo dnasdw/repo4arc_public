@@ -1,0 +1,11 @@
+hr-overrogue.nfo	b9be5612
+hr-overrogue.r00	d9d4e605
+hr-overrogue.r01	d4a0f668
+hr-overrogue.r02	9043c44b
+hr-overrogue.r03	8f745034
+hr-overrogue.r04	031d238c
+hr-overrogue.r05	f58454ab
+hr-overrogue.r06	b55c6e09
+hr-overrogue.r07	94010375
+hr-overrogue.rar	c235518b
+hr-overrogue.sfv	fb5507a9

@@ -1,0 +1,7 @@
+sxs-mary_skelter_2_dlc.nfo	0a7e13f9
+sxs-mary_skelter_2_dlc.r00	d78d0089
+sxs-mary_skelter_2_dlc.r01	8aed9e05
+sxs-mary_skelter_2_dlc.r02	5aebe1f5
+sxs-mary_skelter_2_dlc.r03	a7f406d3
+sxs-mary_skelter_2_dlc.rar	35fbf4dd
+sxs-mary_skelter_2_dlc.sfv	c0af240f

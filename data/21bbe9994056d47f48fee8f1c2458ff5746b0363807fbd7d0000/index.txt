@@ -1,0 +1,7 @@
+sxs-girabox.nfo	-	5432	1	0	0	0
+sxs-girabox.r00	-	50000000	1	5432	0	1
+sxs-girabox.r01	-	50000000	1	50005432	0	49
+sxs-girabox.r02	-	50000000	1	100005432	0	97
+sxs-girabox.r03	-	19447466	1	150005432	0	145
+sxs-girabox.rar	-	50000000	1	169452898	0	164
+sxs-girabox.sfv	-	130	1	219452898	0	212

@@ -1,0 +1,5 @@
+sxs-puzzle_book_v65536.nfo	3f9f7e92
+sxs-puzzle_book_v65536.r00	685bd320
+sxs-puzzle_book_v65536.r01	ae61eaab
+sxs-puzzle_book_v65536.rar	a3b7d575
+sxs-puzzle_book_v65536.sfv	28f10a38

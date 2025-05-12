@@ -1,0 +1,5 @@
+bbb-n-ahmha.nfo	-	5517	1	0	0	0
+bbb-n-ahmha.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ahmha.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ahmha.part3.rar	-	121265883	1	500005517	0	479
+bbb-n-ahmha.sfv	-	96	1	83517147	1	80

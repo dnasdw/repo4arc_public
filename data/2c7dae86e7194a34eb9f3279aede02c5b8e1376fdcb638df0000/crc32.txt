@@ -1,0 +1,6 @@
+brw-obta.nfo	992c67ab
+brw-obta.r00	bdcc7a22
+brw-obta.r01	57d9186d
+brw-obta.r02	4e0a9f67
+brw-obta.rar	51de2dd2
+brw-obta.sfv	c0a6bb98

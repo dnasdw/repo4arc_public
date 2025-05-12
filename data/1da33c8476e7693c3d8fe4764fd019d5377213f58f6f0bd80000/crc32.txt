@@ -1,0 +1,8 @@
+sxs-bug_fables_the_everlasting_sapling_v262144.nfo	c1030a0a
+sxs-bug_fables_the_everlasting_sapling_v262144.r00	ad95d4cf
+sxs-bug_fables_the_everlasting_sapling_v262144.r01	528d3b58
+sxs-bug_fables_the_everlasting_sapling_v262144.r02	955376fe
+sxs-bug_fables_the_everlasting_sapling_v262144.r03	94d922cd
+sxs-bug_fables_the_everlasting_sapling_v262144.r04	605762dc
+sxs-bug_fables_the_everlasting_sapling_v262144.rar	fe716847
+sxs-bug_fables_the_everlasting_sapling_v262144.sfv	4cad167a

@@ -1,0 +1,10 @@
+sxs-retimed_v851968.nfo	8f0db0b1
+sxs-retimed_v851968.r00	4ed18afd
+sxs-retimed_v851968.r01	dae300e8
+sxs-retimed_v851968.r02	25910d31
+sxs-retimed_v851968.r03	3dbcfe79
+sxs-retimed_v851968.r04	720b257e
+sxs-retimed_v851968.r05	0af82666
+sxs-retimed_v851968.r06	d0470140
+sxs-retimed_v851968.rar	ffde47c3
+sxs-retimed_v851968.sfv	2818cde8

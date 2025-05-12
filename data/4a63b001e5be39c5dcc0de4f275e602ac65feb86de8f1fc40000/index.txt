@@ -1,0 +1,4 @@
+sxs-room_of_depression_v196608.nfo	-	4964	1	0	0	0
+sxs-room_of_depression_v196608.r00	-	26958763	1	4964	0	1
+sxs-room_of_depression_v196608.rar	-	100000000	1	26963727	0	27
+sxs-room_of_depression_v196608.sfv	-	90	1	126963727	0	123

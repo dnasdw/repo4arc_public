@@ -1,0 +1,10 @@
+sxs-the_sundew.nfo	55e188c8
+sxs-the_sundew.r00	4fff7674
+sxs-the_sundew.r01	c27bd9a7
+sxs-the_sundew.r02	dee1b920
+sxs-the_sundew.r03	7c19c4b6
+sxs-the_sundew.r04	ad0a9a09
+sxs-the_sundew.r05	2cc2b8f4
+sxs-the_sundew.r06	7f9e771a
+sxs-the_sundew.rar	7ee9d852
+sxs-the_sundew.sfv	1b7c5dae

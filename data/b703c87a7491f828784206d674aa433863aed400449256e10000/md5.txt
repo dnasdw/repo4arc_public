@@ -1,0 +1,7 @@
+sxs-carrion_v720896.nfo	dcbdd4305261daf8e4165cb5c2ae709b
+sxs-carrion_v720896.r00	90bf9e4616fac370d9bbac161929f8d6
+sxs-carrion_v720896.r01	00b0a2d70c0f3c1552658e4ff2db8610
+sxs-carrion_v720896.r02	2dc8ca47dcebac1b6d794d11800b213e
+sxs-carrion_v720896.r03	62934b814be2346d5e7efdace0ce17c4
+sxs-carrion_v720896.rar	bdee8dd8ca2a409413ebf18802f7ce14
+sxs-carrion_v720896.sfv	ccdc50389206148fd5bdfc7d978df4f3

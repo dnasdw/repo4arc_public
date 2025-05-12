@@ -1,0 +1,4 @@
+sxs-arkanoid_eternal_battle_v196608.nfo	a1329657aec5af6f32f2b2e4ea102889
+sxs-arkanoid_eternal_battle_v196608.r00	fae07863fee1a0effaff888d17e6fe01
+sxs-arkanoid_eternal_battle_v196608.rar	426416d08d768db9b5d8e2574987037d
+sxs-arkanoid_eternal_battle_v196608.sfv	fb696d0fcf1158979c6bf5a1ab4e851d

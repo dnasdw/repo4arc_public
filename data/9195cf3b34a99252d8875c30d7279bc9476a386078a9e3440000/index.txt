@@ -1,0 +1,3 @@
+sxs-antiquia_lost_dlc.nfo	-	5744	1	0	0	0
+sxs-antiquia_lost_dlc.rar	-	533959	1	5744	0	1
+sxs-antiquia_lost_dlc.sfv	-	36	1	539703	0	2

@@ -1,0 +1,5 @@
+sxs-drawngeon_dungeons_of_ink_and_paper.nfo	-	5666	1	0	0	0
+sxs-drawngeon_dungeons_of_ink_and_paper.r00	-	50000000	1	5666	0	1
+sxs-drawngeon_dungeons_of_ink_and_paper.r01	-	16764021	1	50005666	0	49
+sxs-drawngeon_dungeons_of_ink_and_paper.rar	-	50000000	1	66769687	0	65
+sxs-drawngeon_dungeons_of_ink_and_paper.sfv	-	162	1	116769687	0	113

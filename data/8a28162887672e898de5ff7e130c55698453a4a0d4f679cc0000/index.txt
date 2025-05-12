@@ -1,0 +1,7 @@
+sxs-super_hero_fight_club_reloaded.nfo	-	4185	1	0	0	0
+sxs-super_hero_fight_club_reloaded.r00	-	50000000	1	4185	0	1
+sxs-super_hero_fight_club_reloaded.r01	-	50000000	1	50004185	0	49
+sxs-super_hero_fight_club_reloaded.r02	-	50000000	1	100004185	0	97
+sxs-super_hero_fight_club_reloaded.r03	-	46858444	1	150004185	0	145
+sxs-super_hero_fight_club_reloaded.rar	-	50000000	1	196862629	0	190
+sxs-super_hero_fight_club_reloaded.sfv	-	245	1	246862629	0	238

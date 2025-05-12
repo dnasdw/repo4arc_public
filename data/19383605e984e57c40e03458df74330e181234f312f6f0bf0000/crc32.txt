@@ -1,0 +1,8 @@
+v-panzer_paladin.nfo	a906dea6
+v-panzer_paladin.r00	2f55167d
+v-panzer_paladin.r01	5c715265
+v-panzer_paladin.r02	ac314244
+v-panzer_paladin.r03	7413f877
+v-panzer_paladin.r04	7392b527
+v-panzer_paladin.rar	f5e7a461
+v-panzer_paladin.sfv	d0f18044

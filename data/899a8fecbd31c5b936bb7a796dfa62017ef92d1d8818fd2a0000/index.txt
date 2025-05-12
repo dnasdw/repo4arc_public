@@ -1,0 +1,3 @@
+sxs-shiren_the_wanderer_the_tower_of_fortune_and_the_dice_of_fate_v196608.nfo	-	5744	1	0	0	0
+sxs-shiren_the_wanderer_the_tower_of_fortune_and_the_dice_of_fate_v196608.rar	-	28535601	1	5744	0	1
+sxs-shiren_the_wanderer_the_tower_of_fortune_and_the_dice_of_fate_v196608.sfv	-	88	1	28541345	0	29

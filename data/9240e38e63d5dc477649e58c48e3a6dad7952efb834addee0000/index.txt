@@ -1,0 +1,3 @@
+sxs-touhou_kobuto_v_burst_battle_youmu_konpaku_dlc.nfo	-	4965	1	0	0	0
+sxs-touhou_kobuto_v_burst_battle_youmu_konpaku_dlc.rar	-	340866	1	4965	0	1
+sxs-touhou_kobuto_v_burst_battle_youmu_konpaku_dlc.sfv	-	65	1	345831	0	2

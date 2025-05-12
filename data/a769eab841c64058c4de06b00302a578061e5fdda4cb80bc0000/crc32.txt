@@ -1,0 +1,15 @@
+hr-a5jza.nfo	3b549ff5
+hr-a5jza.r00	8db3bf07
+hr-a5jza.r01	18d596b0
+hr-a5jza.r02	ffac73fa
+hr-a5jza.r03	92d2b541
+hr-a5jza.r04	d853c484
+hr-a5jza.r05	9dfd4e4b
+hr-a5jza.r06	a89cb82e
+hr-a5jza.r07	a6f6d481
+hr-a5jza.r08	9d4bfa8b
+hr-a5jza.r09	db010934
+hr-a5jza.rar	3b121f8c
+hr-a5jza.sfv	fabd064b
+Proof	00000000
+Proof/hr-a5jza.jpg	e4fda959

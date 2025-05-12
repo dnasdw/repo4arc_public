@@ -1,0 +1,12 @@
+lfc-sbpr.nfo	53fbb5fc
+lfc-sbpr.r00	f2a348f5
+lfc-sbpr.r01	591d4827
+lfc-sbpr.r02	b2cb5754
+lfc-sbpr.r03	fed3ba99
+lfc-sbpr.r04	c5ef9d7f
+lfc-sbpr.r05	b7b1de13
+lfc-sbpr.r06	dcac538c
+lfc-sbpr.r07	acacdd3e
+lfc-sbpr.r08	54ebcf8b
+lfc-sbpr.rar	ed233165
+lfc-sbpr.sfv	4e43af6d

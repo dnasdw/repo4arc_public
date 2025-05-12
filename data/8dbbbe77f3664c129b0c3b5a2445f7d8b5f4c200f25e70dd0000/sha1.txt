@@ -1,0 +1,3 @@
+v-doom_1993_addons_1_dlc.nfo	1c7ed4f4b0511860543f871ce520bb6185915f4a
+v-doom_1993_addons_1_dlc.rar	2921aa049cd79b55c3245c49f319bf4966a4acd2
+v-doom_1993_addons_1_dlc.sfv	2f35b10b3eb55030bcca35147a077986ddebb2fc

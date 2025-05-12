@@ -1,0 +1,6 @@
+lfc-ax3fav1.0.29.0.update.nfo	7f9e198ec8cafef0a5324c23f99a9baa
+lfc-ax3fav1.0.29.0.update.r00	c18d7f2e8b1fc1b2080293a98d164f95
+lfc-ax3fav1.0.29.0.update.r01	08a25a2ebad8f7f45cdf87f3b6296a90
+lfc-ax3fav1.0.29.0.update.r02	e4148544cd40704816c49c29d79a3e33
+lfc-ax3fav1.0.29.0.update.rar	cd11808dcd95df61e124a056892c2fc2
+lfc-ax3fav1.0.29.0.update.sfv	c8a97db97928bf04859e4f1a5650fb4d

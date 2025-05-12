@@ -1,0 +1,11 @@
+v-spirittea.nfo	4069acdb
+v-spirittea.r00	c12de705
+v-spirittea.r01	ea79393d
+v-spirittea.r02	ade04b12
+v-spirittea.r03	48a6e93f
+v-spirittea.r04	95bddef0
+v-spirittea.r05	7e5e3c25
+v-spirittea.r06	e9d8ddc2
+v-spirittea.r07	c9d5beb9
+v-spirittea.rar	1a293ee7
+v-spirittea.sfv	351c1536

@@ -1,0 +1,7 @@
+sxs-rtmd.nfo	f09ebc30
+sxs-rtmd.r00	c77d7e77
+sxs-rtmd.r01	9d4747d9
+sxs-rtmd.r02	47ee9908
+sxs-rtmd.r03	4fedd724
+sxs-rtmd.rar	1690543c
+sxs-rtmd.sfv	5338e720

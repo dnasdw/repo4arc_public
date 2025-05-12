@@ -1,0 +1,16 @@
+i-juicyrealm.nfo	811f1e4212932b21eafad299105129f6
+i-juicyrealm.r00	a42ca898f4b95d4bca9beae1173844ae
+i-juicyrealm.r01	acd45f44d0443bca4b1870495364ab4a
+i-juicyrealm.r02	ca723a41860e801aea6dbd126c64b189
+i-juicyrealm.r03	ffeb7c0125617573a3538fac6d3e6b5d
+i-juicyrealm.r04	d0885e9c3814ab4a863d8db1306bd2d6
+i-juicyrealm.r05	aa000f1d9060a6089f2ecd72b79fac97
+i-juicyrealm.r06	ff276b3110a932710fd5e4cfa02f9a76
+i-juicyrealm.r07	ba0e0552825632f819fcb343b5ce08b8
+i-juicyrealm.r08	65a216e0596685e725836a6bab8bfdc3
+i-juicyrealm.r09	749effa803e1805d1d5c0ecd1731ebff
+i-juicyrealm.r10	cb016bb5e339868bc8056a846c3330f8
+i-juicyrealm.r11	e22250045857b020c17e098a880f69ac
+i-juicyrealm.r12	aa4f6904395c751d06e5af3e671f3cf4
+i-juicyrealm.rar	8b8e7c6e14afc44a58b63e76ec2943df
+i-juicyrealm.sfv	79462c5d771e7c4d9a406eab93cccfde

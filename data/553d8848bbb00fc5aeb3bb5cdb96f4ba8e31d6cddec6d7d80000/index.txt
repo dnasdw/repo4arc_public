@@ -1,0 +1,10 @@
+v-aviary_attorney_definitive_edition.nfo	-	6605	1	0	0	0
+v-aviary_attorney_definitive_edition.r00	-	50000000	1	6605	0	1
+v-aviary_attorney_definitive_edition.r01	-	50000000	1	50006605	0	49
+v-aviary_attorney_definitive_edition.r02	-	50000000	1	100006605	0	97
+v-aviary_attorney_definitive_edition.r03	-	50000000	1	150006605	0	145
+v-aviary_attorney_definitive_edition.r04	-	50000000	1	200006605	0	193
+v-aviary_attorney_definitive_edition.r05	-	50000000	1	250006605	0	241
+v-aviary_attorney_definitive_edition.r06	-	14442912	1	300006605	0	289
+v-aviary_attorney_definitive_edition.rar	-	50000000	1	314449517	0	303
+v-aviary_attorney_definitive_edition.sfv	-	408	1	364449517	0	351

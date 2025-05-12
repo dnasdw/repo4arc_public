@@ -1,0 +1,7 @@
+hr-ausdav131072.nfo	dd957968
+hr-ausdav131072.r00	0fc49399
+hr-ausdav131072.r01	ec38927a
+hr-ausdav131072.r02	641085b7
+hr-ausdav131072.r03	f078e3bc
+hr-ausdav131072.rar	9def59c2
+hr-ausdav131072.sfv	0dedc546

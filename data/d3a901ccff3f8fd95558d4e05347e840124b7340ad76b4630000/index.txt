@@ -1,0 +1,3 @@
+sxs-snkhttf_v130_dlc.nfo	-	5744	1	0	0	0
+sxs-snkhttf_v130_dlc.rar	-	949413	1	5744	0	1
+sxs-snkhttf_v130_dlc.sfv	-	35	1	955157	0	2

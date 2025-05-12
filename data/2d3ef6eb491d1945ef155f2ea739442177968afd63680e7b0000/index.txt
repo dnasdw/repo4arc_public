@@ -1,0 +1,3 @@
+sxs-nerf_legends_alpha_pack_dlc.nfo	-	5280	1	0	0	0
+sxs-nerf_legends_alpha_pack_dlc.rar	-	104064	1	5280	0	1
+sxs-nerf_legends_alpha_pack_dlc.sfv	-	46	1	109344	0	2

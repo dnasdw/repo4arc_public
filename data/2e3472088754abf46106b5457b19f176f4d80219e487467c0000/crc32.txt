@@ -1,0 +1,13 @@
+l-ksolitaire.nfo	ee3fe181
+l-ksolitaire.r00	1c87c6d6
+l-ksolitaire.r01	7ca26b29
+l-ksolitaire.r02	34fef834
+l-ksolitaire.r03	dc290a37
+l-ksolitaire.r04	9673e94c
+l-ksolitaire.r05	d43d4b9f
+l-ksolitaire.r06	4f4ad489
+l-ksolitaire.r07	a118c46c
+l-ksolitaire.r08	fdd24af4
+l-ksolitaire.r09	0f80f33d
+l-ksolitaire.rar	af67cc64
+l-ksolitaire.sfv	dc7baa9d

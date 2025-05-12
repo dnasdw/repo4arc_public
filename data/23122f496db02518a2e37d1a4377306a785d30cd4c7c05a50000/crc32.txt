@@ -1,0 +1,4 @@
+sxs-final_fantasy_ii_v131072.nfo	f64f23b8
+sxs-final_fantasy_ii_v131072.r00	0ac3cbe1
+sxs-final_fantasy_ii_v131072.rar	37c8fe33
+sxs-final_fantasy_ii_v131072.sfv	096f710c

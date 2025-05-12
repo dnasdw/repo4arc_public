@@ -1,0 +1,3 @@
+sxs-turrican_anthology_vol_i_v65536.nfo	-	8084	1	0	0	0
+sxs-turrican_anthology_vol_i_v65536.rar	-	32139319	1	8084	0	1
+sxs-turrican_anthology_vol_i_v65536.sfv	-	50	1	32147403	0	32

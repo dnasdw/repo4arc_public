@@ -1,0 +1,4 @@
+sxs-virus_rush_v65536.nfo	-	5042	1	0	0	0
+sxs-virus_rush_v65536.r00	-	24606923	1	5042	0	1
+sxs-virus_rush_v65536.rar	-	100000000	1	24611965	0	25
+sxs-virus_rush_v65536.sfv	-	72	1	124611965	0	121

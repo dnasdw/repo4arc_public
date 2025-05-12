@@ -1,0 +1,5 @@
+sxs-ufo_henfield.nfo	3cd34b95
+sxs-ufo_henfield.r00	3872749a
+sxs-ufo_henfield.r01	3dcc6efa
+sxs-ufo_henfield.rar	3409b860
+sxs-ufo_henfield.sfv	e6237a31

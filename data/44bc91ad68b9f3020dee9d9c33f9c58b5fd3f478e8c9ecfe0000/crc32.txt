@@ -1,0 +1,16 @@
+v-crcr_v393216.nfo	3ab5fb48
+v-crcr_v393216.r00	01fa6148
+v-crcr_v393216.r01	8518e118
+v-crcr_v393216.r02	d49c8d25
+v-crcr_v393216.r03	3fea019e
+v-crcr_v393216.r04	f7031981
+v-crcr_v393216.r05	c5db3843
+v-crcr_v393216.r06	97d93051
+v-crcr_v393216.r07	d632b084
+v-crcr_v393216.r08	572b3f54
+v-crcr_v393216.r09	df37967b
+v-crcr_v393216.r10	0fa7b14b
+v-crcr_v393216.r11	2f708efe
+v-crcr_v393216.r12	f008a1b2
+v-crcr_v393216.rar	ff95ffc0
+v-crcr_v393216.sfv	8f266df6

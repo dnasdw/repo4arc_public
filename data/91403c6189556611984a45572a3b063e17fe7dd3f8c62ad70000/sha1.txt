@@ -1,0 +1,5 @@
+v-hammerwatch_2_v131072.nfo	8d71bbb88c0e3f295605e65c8240999b6ad360c7
+v-hammerwatch_2_v131072.r00	b2ab6b85e36666a67b4d79dd3ad5f035c4c88668
+v-hammerwatch_2_v131072.r01	bdb70118f7cb1f7b7212f460471da3ac7521c0dc
+v-hammerwatch_2_v131072.rar	b70d719cdbe71c62a9bb1a46c72c9e781fac1a98
+v-hammerwatch_2_v131072.sfv	b72fa9db8afd5d6c496df2ace52e0773ad8d2e35

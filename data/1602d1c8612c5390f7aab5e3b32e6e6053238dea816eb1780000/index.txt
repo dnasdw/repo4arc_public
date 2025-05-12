@@ -1,0 +1,4 @@
+sxs-freddi_fish_and_the_case_of_the_missing_kelp_seeds.nfo	-	4886	1	0	0	0
+sxs-freddi_fish_and_the_case_of_the_missing_kelp_seeds.r00	-	74733529	1	4886	0	1
+sxs-freddi_fish_and_the_case_of_the_missing_kelp_seeds.rar	-	100000000	1	74738415	0	73
+sxs-freddi_fish_and_the_case_of_the_missing_kelp_seeds.sfv	-	138	1	174738415	0	169

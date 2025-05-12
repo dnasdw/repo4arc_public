@@ -1,0 +1,4 @@
+sxs-the_captain_v65536.nfo	b71dc803c6d29a9039047a8ef972d352
+sxs-the_captain_v65536.r00	32450e9d6a148f79c9b6927b08d45cd3
+sxs-the_captain_v65536.rar	a8c74c5a12e02a16faf17872f2ad92a6
+sxs-the_captain_v65536.sfv	4edbe69d60606a3a3f8065399b0ae168

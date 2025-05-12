@@ -1,0 +1,12 @@
+v-gato_roboto_v262144.nfo	4a82b07c
+v-gato_roboto_v262144.r00	2c424c65
+v-gato_roboto_v262144.r01	95da27ba
+v-gato_roboto_v262144.r02	0da69823
+v-gato_roboto_v262144.r03	b3f92c67
+v-gato_roboto_v262144.r04	df272cd7
+v-gato_roboto_v262144.r05	5df0cd06
+v-gato_roboto_v262144.r06	4a176052
+v-gato_roboto_v262144.r07	3c23723b
+v-gato_roboto_v262144.r08	c1d3315f
+v-gato_roboto_v262144.rar	fa11c1c5
+v-gato_roboto_v262144.sfv	dc9670ba

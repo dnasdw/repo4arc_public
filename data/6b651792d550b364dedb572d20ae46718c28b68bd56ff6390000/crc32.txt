@@ -1,0 +1,10 @@
+v-oppw4_anime_song_pack_dlc.nfo	73e123bc
+v-oppw4_anime_song_pack_dlc.r00	ac1a9eab
+v-oppw4_anime_song_pack_dlc.r01	2b2a1469
+v-oppw4_anime_song_pack_dlc.r02	9fae626e
+v-oppw4_anime_song_pack_dlc.r03	3f2d2981
+v-oppw4_anime_song_pack_dlc.r04	e8b1d08b
+v-oppw4_anime_song_pack_dlc.r05	e6a347a4
+v-oppw4_anime_song_pack_dlc.r06	43594774
+v-oppw4_anime_song_pack_dlc.rar	a5f97ead
+v-oppw4_anime_song_pack_dlc.sfv	14676407

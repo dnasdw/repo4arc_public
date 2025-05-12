@@ -1,0 +1,4 @@
+v-space_harrier.nfo	-	6215	1	0	0	0
+v-space_harrier.r00	-	32236499	1	6215	0	1
+v-space_harrier.rar	-	50000000	1	32242714	0	32
+v-space_harrier.sfv	-	60	1	82242714	0	80

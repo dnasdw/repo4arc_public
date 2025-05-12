@@ -1,0 +1,4 @@
+lfc-superskelemaniaupd.nfo	4c85e81f3e3e7138488923ee7f78803d696e7552
+lfc-superskelemaniaupd.r00	ecc1400aa81dbd743b2f8829cf32f322acb39987
+lfc-superskelemaniaupd.rar	d822eb815b78ba55e7d3cb9ee5ca307f6b9cc236
+lfc-superskelemaniaupd.sfv	c6da2c6ed53e5fb177a86d3a3fd84db75cbc3bee

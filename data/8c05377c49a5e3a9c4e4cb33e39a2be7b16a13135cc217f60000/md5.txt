@@ -1,0 +1,17 @@
+lfc-adavb.nfo	7c5f54227398270985e3da991171d4b8
+lfc-adavb.r00	ddacdd8ebd8452460cb761b4028c4525
+lfc-adavb.r01	a90b3c436cb01187546aa1c2d9db2d13
+lfc-adavb.r02	b0fdcc8d5b30a3796291cf2ca98a0ca7
+lfc-adavb.r03	4e4929a7088dd2fc937a8b1609f3eda0
+lfc-adavb.r04	d53252c8438924da0239613e288c5d57
+lfc-adavb.r05	078b35125024cecbe2a6ba4512b6b3ba
+lfc-adavb.r06	e943b0d3bd4ecfdcc612c17b9d0f6d7f
+lfc-adavb.r07	bc46003a780819a912b83adc47bf48a1
+lfc-adavb.r08	dee2ec834dbf8aebbcac793bc37c4ee5
+lfc-adavb.r09	a5739298b515f92210ee8b3ad36e6a88
+lfc-adavb.r10	b640f27e7bc59e2dc62390d130b7f95c
+lfc-adavb.r11	72e46f2f75e6f2beee1df6e4d2eb6e58
+lfc-adavb.rar	822824c32e99bd24da9841aed009eca5
+lfc-adavb.sfv	6c5f49a73c2aeea8414244b918f09d3c
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/lfc-adavb.jpg	8451905f20dfcd51806fdc87ae3dd7d1

@@ -1,0 +1,14 @@
+v-turok_2_seeds_of_evil.nfo	-	5902	1	0	0	0
+v-turok_2_seeds_of_evil.r00	-	50000000	1	5902	0	1
+v-turok_2_seeds_of_evil.r01	-	50000000	1	50005902	0	49
+v-turok_2_seeds_of_evil.r02	-	50000000	1	100005902	0	97
+v-turok_2_seeds_of_evil.r03	-	50000000	1	150005902	0	145
+v-turok_2_seeds_of_evil.r04	-	50000000	1	200005902	0	193
+v-turok_2_seeds_of_evil.r05	-	50000000	1	250005902	0	241
+v-turok_2_seeds_of_evil.r06	-	50000000	1	300005902	0	289
+v-turok_2_seeds_of_evil.r07	-	50000000	1	350005902	0	337
+v-turok_2_seeds_of_evil.r08	-	50000000	1	400005902	0	385
+v-turok_2_seeds_of_evil.r09	-	50000000	1	450005902	0	433
+v-turok_2_seeds_of_evil.r10	-	40403939	1	500005902	0	481
+v-turok_2_seeds_of_evil.rar	-	50000000	1	2655203	1	3
+v-turok_2_seeds_of_evil.sfv	-	456	1	52655203	1	51

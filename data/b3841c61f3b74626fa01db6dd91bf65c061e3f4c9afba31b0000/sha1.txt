@@ -1,0 +1,5 @@
+sxs-swap_this.nfo	7b1aa06722b07bf8601cc7f50c39014a00763883
+sxs-swap_this.r00	c018d5bb91a2dd4ac1a82a5a1df234f301411b64
+sxs-swap_this.r01	19bde74f443fbcf0321dcc058c024430e3928986
+sxs-swap_this.rar	6af4f9a6fea1018795c4ac8fa491bc2b220b732c
+sxs-swap_this.sfv	fa16973945a0d0a6e93ae7139011b2e77c766c2f

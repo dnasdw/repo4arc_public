@@ -1,0 +1,16 @@
+hr-atptav4.nfo	85c202c2
+hr-atptav4.r00	22b9b9a6
+hr-atptav4.r01	e8da94e6
+hr-atptav4.r02	e50cc9f9
+hr-atptav4.r03	15c9d732
+hr-atptav4.r04	88692dd3
+hr-atptav4.r05	1a6b6691
+hr-atptav4.r06	bab20225
+hr-atptav4.r07	18dde3c0
+hr-atptav4.r08	6a122b90
+hr-atptav4.r09	49ee6a5b
+hr-atptav4.r10	ca0e9d4d
+hr-atptav4.r11	44a3c385
+hr-atptav4.r12	4c247ca4
+hr-atptav4.rar	8ab75934
+hr-atptav4.sfv	a2b75978

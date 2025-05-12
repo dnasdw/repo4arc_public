@@ -1,0 +1,9 @@
+v-animal_crossing_new_horizons_v262144.nfo	-	6760	1	0	0	0
+v-animal_crossing_new_horizons_v262144.r00	-	50000000	1	6760	0	1
+v-animal_crossing_new_horizons_v262144.r01	-	50000000	1	50006760	0	49
+v-animal_crossing_new_horizons_v262144.r02	-	50000000	1	100006760	0	97
+v-animal_crossing_new_horizons_v262144.r03	-	50000000	1	150006760	0	145
+v-animal_crossing_new_horizons_v262144.r04	-	50000000	1	200006760	0	193
+v-animal_crossing_new_horizons_v262144.r05	-	3279404	1	250006760	0	241
+v-animal_crossing_new_horizons_v262144.rar	-	50000000	1	253286164	0	245
+v-animal_crossing_new_horizons_v262144.sfv	-	371	1	303286164	0	293

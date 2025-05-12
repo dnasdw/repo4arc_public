@@ -1,0 +1,15 @@
+lfc-wiro.nfo	7f6a3d3f
+lfc-wiro.r00	c3cb74ab
+lfc-wiro.r01	0da07995
+lfc-wiro.r02	d1d25ea3
+lfc-wiro.r03	18eeefa9
+lfc-wiro.r04	986e4a2b
+lfc-wiro.r05	ae15e58b
+lfc-wiro.r06	a260a9f5
+lfc-wiro.r07	6e413767
+lfc-wiro.r08	d38e7973
+lfc-wiro.r09	d5107c49
+lfc-wiro.r10	1cfef792
+lfc-wiro.r11	744eace6
+lfc-wiro.rar	4b241a87
+lfc-wiro.sfv	4469f948

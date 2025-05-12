@@ -1,0 +1,11 @@
+delight.nfo	f4ceb7a1
+dl-moaivi.r00	0a49a6e6
+dl-moaivi.r01	26341904
+dl-moaivi.r02	3c59d84d
+dl-moaivi.r03	10060fdc
+dl-moaivi.r04	8cbfbb44
+dl-moaivi.r05	7d2f621e
+dl-moaivi.r06	2d0a5fa1
+dl-moaivi.r07	2b7aaa48
+dl-moaivi.rar	39a9f621
+dl-moaivi.sfv	867643bd

@@ -1,0 +1,14 @@
+v-pianista.nfo	04f0b61a88f9ffbe93d572f5b1192264
+v-pianista.r00	5b7ac0c05cbc4c88c7f0fb507c08a400
+v-pianista.r01	5a1d126c1044acf8010683bdd6cc2e44
+v-pianista.r02	1bdb603b4ba2456701494ab923f88b92
+v-pianista.r03	d79789f99fd0f8f206320ae8617802ac
+v-pianista.r04	dbffe16a382b9484a4200fbf3f2e7627
+v-pianista.r05	aadb263f91bddc0fd191e0b0024faedc
+v-pianista.r06	cc3627553b30940c0c02fc1929e51942
+v-pianista.r07	67daae244d2233e1e89e2a5f9a199880
+v-pianista.r08	e985e5df6d87bebaec437664093c1a24
+v-pianista.r09	49b29c1f217ca646f28f10d3539f107a
+v-pianista.r10	da6f219efa28a16c6d96f5aa6b5f3713
+v-pianista.rar	c86bfa78643c118d5463214c191e3d50
+v-pianista.sfv	dba7dc77e30cb30d3230a4ca88426907

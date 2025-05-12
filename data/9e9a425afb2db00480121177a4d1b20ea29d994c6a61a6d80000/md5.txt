@@ -1,0 +1,5 @@
+lfc-poso.nfo	85e891b099573e55f8d8707773f76315
+lfc-poso.r00	f118976135b3c4f6d2f560db32a1844f
+lfc-poso.r01	a4f7efadbc54c5668e7bf28087dd277a
+lfc-poso.rar	7a1f856cbbe8fc9ca1fe06624d688d2b
+lfc-poso.sfv	2077dca617e03bdd54e750516d386b95

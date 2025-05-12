@@ -1,0 +1,16 @@
+sxs-celeste_v458752.nfo	1805409e
+sxs-celeste_v458752.r00	ba2262de
+sxs-celeste_v458752.r01	a1fc0d58
+sxs-celeste_v458752.r02	8771b85a
+sxs-celeste_v458752.r03	bb4ea574
+sxs-celeste_v458752.r04	77476336
+sxs-celeste_v458752.r05	3b576da3
+sxs-celeste_v458752.r06	f852265c
+sxs-celeste_v458752.r07	0c921b97
+sxs-celeste_v458752.r08	c66e0c09
+sxs-celeste_v458752.r09	4b674de5
+sxs-celeste_v458752.r10	25c08251
+sxs-celeste_v458752.r11	bf5fe8bf
+sxs-celeste_v458752.r12	f6fcb700
+sxs-celeste_v458752.rar	52c59bbc
+sxs-celeste_v458752.sfv	b20a54e5

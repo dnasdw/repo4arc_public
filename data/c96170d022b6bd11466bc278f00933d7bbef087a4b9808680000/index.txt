@@ -1,0 +1,4 @@
+sxs-sigi_a_fart_for_melusina_v103.nfo	-	5354	1	0	0	0
+sxs-sigi_a_fart_for_melusina_v103.r00	-	38566416	1	5354	0	1
+sxs-sigi_a_fart_for_melusina_v103.rar	-	50000000	1	38571770	0	38
+sxs-sigi_a_fart_for_melusina_v103.sfv	-	96	1	88571770	0	86

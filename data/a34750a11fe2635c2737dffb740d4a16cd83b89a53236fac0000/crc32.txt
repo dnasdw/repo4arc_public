@@ -1,0 +1,8 @@
+sxs-coloring_book_v196608.nfo	c052253c
+sxs-coloring_book_v196608.r00	22cd37ec
+sxs-coloring_book_v196608.r01	21ef03f2
+sxs-coloring_book_v196608.r02	a0f94815
+sxs-coloring_book_v196608.r03	55fc4c69
+sxs-coloring_book_v196608.r04	4913cb40
+sxs-coloring_book_v196608.rar	fade07e2
+sxs-coloring_book_v196608.sfv	4d9fb7bb

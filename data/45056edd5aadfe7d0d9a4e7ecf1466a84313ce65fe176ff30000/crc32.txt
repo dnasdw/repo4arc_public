@@ -1,0 +1,9 @@
+lfc-sign_v196608.nfo	d546bc0b
+lfc-sign_v196608.r00	397e9c59
+lfc-sign_v196608.r01	42f53c3b
+lfc-sign_v196608.r02	900d836c
+lfc-sign_v196608.r03	03f8eb35
+lfc-sign_v196608.r04	39e1e411
+lfc-sign_v196608.r05	dc712509
+lfc-sign_v196608.rar	95c336d0
+lfc-sign_v196608.sfv	d9de6d93

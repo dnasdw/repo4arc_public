@@ -1,0 +1,8 @@
+l-foodtruck.nfo	31457c11
+l-foodtruck.r00	77e8e6e9
+l-foodtruck.r01	005d1876
+l-foodtruck.r02	1f48657a
+l-foodtruck.r03	c6070295
+l-foodtruck.r04	dfc560c3
+l-foodtruck.rar	087d8e8e
+l-foodtruck.sfv	a1cb9768

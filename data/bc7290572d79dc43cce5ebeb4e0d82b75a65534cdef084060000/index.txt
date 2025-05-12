@@ -1,0 +1,3 @@
+sxs-asdivine_menace_dlc.nfo	-	5198	1	0	0	0
+sxs-asdivine_menace_dlc.rar	-	727670	1	5198	0	1
+sxs-asdivine_menace_dlc.sfv	-	38	1	732868	0	2

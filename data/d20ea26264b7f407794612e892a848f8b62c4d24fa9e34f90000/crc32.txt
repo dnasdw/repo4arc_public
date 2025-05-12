@@ -1,0 +1,17 @@
+hr-a42xb.nfo	3d03777d
+hr-a42xb.r00	7a246214
+hr-a42xb.r01	caa69fd5
+hr-a42xb.r02	1bf9f164
+hr-a42xb.r03	8af7a554
+hr-a42xb.r04	bff77cff
+hr-a42xb.r05	32a8f371
+hr-a42xb.r06	38707fd7
+hr-a42xb.r07	2e34ca4c
+hr-a42xb.r08	b01b2d18
+hr-a42xb.r09	9ef6a6b7
+hr-a42xb.r10	62393610
+hr-a42xb.r11	37483fa5
+hr-a42xb.rar	3dd03bc1
+hr-a42xb.sfv	5bce40c9
+Proof	00000000
+Proof/hr-a42xb.jpg	c1d52320

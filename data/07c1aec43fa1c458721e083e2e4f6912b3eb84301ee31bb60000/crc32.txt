@@ -1,0 +1,9 @@
+v-legend_of_grimrock.nfo	26b3afb3
+v-legend_of_grimrock.r00	2f80f545
+v-legend_of_grimrock.r01	b58ee26c
+v-legend_of_grimrock.r02	0cfa7190
+v-legend_of_grimrock.r03	acd7c7ee
+v-legend_of_grimrock.r04	f9584f5b
+v-legend_of_grimrock.r05	a92f4b32
+v-legend_of_grimrock.rar	8af7c05a
+v-legend_of_grimrock.sfv	f0fed99b

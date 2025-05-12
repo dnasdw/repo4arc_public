@@ -1,0 +1,8 @@
+sxs-anglerfish.nfo	72c125bcea31c032f7fe3cb8212705d9
+sxs-anglerfish.r00	53cd4d30adbbd2415d2fb435a00da7d2
+sxs-anglerfish.r01	8e2cd569ecafe83936fcc7d3adc3034e
+sxs-anglerfish.r02	95989b470429328c3395362d81da6dc4
+sxs-anglerfish.r03	20f2ae7b796525dbce1adbc88ea738b4
+sxs-anglerfish.r04	fac4920bd519b23120746942434824f5
+sxs-anglerfish.rar	6874c65931bf6ad9fd6f6a6f50149f7b
+sxs-anglerfish.sfv	5ac8984bcc2c709360ff228f818bd327

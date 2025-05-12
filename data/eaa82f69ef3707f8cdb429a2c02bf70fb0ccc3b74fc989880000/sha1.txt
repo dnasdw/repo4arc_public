@@ -1,0 +1,4 @@
+v-northgard_v131072.nfo	a5ac0d08c739b04de0f54eccd18ba702319f10c8
+v-northgard_v131072.r00	c67c20615fb1ac2f413e439fafed5ee5c0e3defd
+v-northgard_v131072.rar	1a3cecd4585b45285f14f5d4dc3a1bd7245cb42f
+v-northgard_v131072.sfv	7028e97582cae710d89ffd14d726ba3f9195066b

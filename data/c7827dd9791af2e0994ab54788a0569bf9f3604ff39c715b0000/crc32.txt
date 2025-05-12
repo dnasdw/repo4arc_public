@@ -1,0 +1,17 @@
+sxs-bonfire_peaks_v524288.nfo	7a59e512
+sxs-bonfire_peaks_v524288.r00	91b020bf
+sxs-bonfire_peaks_v524288.r01	e1277aed
+sxs-bonfire_peaks_v524288.r02	fe75e72f
+sxs-bonfire_peaks_v524288.r03	52e0304d
+sxs-bonfire_peaks_v524288.r04	500baf38
+sxs-bonfire_peaks_v524288.r05	efd7f04d
+sxs-bonfire_peaks_v524288.r06	82e27fe2
+sxs-bonfire_peaks_v524288.r07	5d959f20
+sxs-bonfire_peaks_v524288.r08	c588e408
+sxs-bonfire_peaks_v524288.r09	27325839
+sxs-bonfire_peaks_v524288.r10	b8386185
+sxs-bonfire_peaks_v524288.r11	6b38e054
+sxs-bonfire_peaks_v524288.r12	9e51987f
+sxs-bonfire_peaks_v524288.r13	de29b7b1
+sxs-bonfire_peaks_v524288.rar	648c4cf9
+sxs-bonfire_peaks_v524288.sfv	4aea5786

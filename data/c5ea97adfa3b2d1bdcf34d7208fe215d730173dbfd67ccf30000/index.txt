@@ -1,0 +1,6 @@
+lfc-grandprixstory.nfo	-	3573	1	0	0	0
+lfc-grandprixstory.r00	-	50000000	1	3573	0	1
+lfc-grandprixstory.r01	-	50000000	1	50003573	0	49
+lfc-grandprixstory.r02	-	47876737	1	100003573	0	97
+lfc-grandprixstory.rar	-	50000000	1	147880310	0	143
+lfc-grandprixstory.sfv	-	132	1	197880310	0	191

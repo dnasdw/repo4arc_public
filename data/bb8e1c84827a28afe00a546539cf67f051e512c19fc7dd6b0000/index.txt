@@ -1,0 +1,4 @@
+bbb-n-apzxa.nfo	-	5517	1	0	0	0
+bbb-n-apzxa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-apzxa.part2.rar	-	2363984	1	250005517	0	240
+bbb-n-apzxa.sfv	-	64	1	252369501	0	243

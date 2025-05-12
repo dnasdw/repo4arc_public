@@ -1,0 +1,15 @@
+sxs-rising_hell.nfo	-	5978	1	0	0	0
+sxs-rising_hell.r00	-	50000000	1	5978	0	1
+sxs-rising_hell.r01	-	50000000	1	50005978	0	49
+sxs-rising_hell.r02	-	50000000	1	100005978	0	97
+sxs-rising_hell.r03	-	50000000	1	150005978	0	145
+sxs-rising_hell.r04	-	50000000	1	200005978	0	193
+sxs-rising_hell.r05	-	50000000	1	250005978	0	241
+sxs-rising_hell.r06	-	50000000	1	300005978	0	289
+sxs-rising_hell.r07	-	50000000	1	350005978	0	337
+sxs-rising_hell.r08	-	50000000	1	400005978	0	385
+sxs-rising_hell.r09	-	50000000	1	450005978	0	433
+sxs-rising_hell.r10	-	50000000	1	500005978	0	481
+sxs-rising_hell.r11	-	313371	1	12251264	1	12
+sxs-rising_hell.rar	-	50000000	1	12564635	1	13
+sxs-rising_hell.sfv	-	390	1	62564635	1	61

@@ -1,0 +1,4 @@
+sxs-rbdu.nfo	-	4262	1	0	0	0
+sxs-rbdu.r00	-	35215171	1	4262	0	1
+sxs-rbdu.rar	-	50000000	1	35219433	0	35
+sxs-rbdu.sfv	-	46	1	85219433	0	83

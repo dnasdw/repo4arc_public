@@ -1,0 +1,13 @@
+lfc-katwm.nfo	f79da15e0938bda36fba403b310e8236
+lfc-katwm.r00	7013293ec87479ea3de46cb07e8ea0d2
+lfc-katwm.r01	2c3c201b18e359f45952605ed0fc1081
+lfc-katwm.r02	9127ce318920615ce0c5205dd03e3c9b
+lfc-katwm.r03	9f5cf4b2fb8a42f68d3753c76dc8c28e
+lfc-katwm.r04	e66f1af01f6887321c7d30dd7c5a03c7
+lfc-katwm.r05	a69c18a2bd49ce061fad7b34bc8c5897
+lfc-katwm.r06	b56461a1a532d59ab7778a3def45bcd4
+lfc-katwm.r07	bfeaedf1cd8a121cdb359ccedef459bf
+lfc-katwm.r08	b69bdafe11996a5fec9963f012bf5c78
+lfc-katwm.r09	473631c983d811322ad4aa04f0156f58
+lfc-katwm.rar	54d9fc7a695b87531f6203adf37bd3ca
+lfc-katwm.sfv	0887062360137e610465c94df2e95a4c

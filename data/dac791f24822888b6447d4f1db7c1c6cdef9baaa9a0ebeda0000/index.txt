@@ -1,0 +1,3 @@
+sxs-egglien_v65536.nfo	-	5900	1	0	0	0
+sxs-egglien_v65536.rar	-	24295461	1	5900	0	1
+sxs-egglien_v65536.sfv	-	33	1	24301361	0	25

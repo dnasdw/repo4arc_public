@@ -1,0 +1,6 @@
+sxs-detective_dolittle.nfo	-	4496	1	0	0	0
+sxs-detective_dolittle.r00	-	50000000	1	4496	0	1
+sxs-detective_dolittle.r01	-	50000000	1	50004496	0	49
+sxs-detective_dolittle.r02	-	30372080	1	100004496	0	97
+sxs-detective_dolittle.rar	-	50000000	1	130376576	0	126
+sxs-detective_dolittle.sfv	-	148	1	180376576	0	174

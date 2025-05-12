@@ -1,0 +1,5 @@
+sxs-final_fantasy_vi_v262144.nfo	a1185179
+sxs-final_fantasy_vi_v262144.r00	2a3dfbc7
+sxs-final_fantasy_vi_v262144.r01	20de4429
+sxs-final_fantasy_vi_v262144.rar	c64e0f70
+sxs-final_fantasy_vi_v262144.sfv	0d5e300c

@@ -1,0 +1,7 @@
+sxs-sports_car_driver.nfo	bc1036a0
+sxs-sports_car_driver.r00	25992773
+sxs-sports_car_driver.r01	623c112f
+sxs-sports_car_driver.r02	4d1d1a9b
+sxs-sports_car_driver.r03	1784088f
+sxs-sports_car_driver.rar	e2274c24
+sxs-sports_car_driver.sfv	4db26fa2

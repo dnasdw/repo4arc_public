@@ -1,0 +1,4 @@
+sxs-anthill.nfo	-	5120	1	0	0	0
+sxs-anthill.r00	-	4295738	1	5120	0	1
+sxs-anthill.rar	-	50000000	1	4300858	0	6
+sxs-anthill.sfv	-	52	1	54300858	0	54

@@ -1,0 +1,6 @@
+sxs-boulder_dash_30th_anniversary_v131072.nfo	-	6992	1	0	0	0
+sxs-boulder_dash_30th_anniversary_v131072.r00	-	100000000	1	6992	0	1
+sxs-boulder_dash_30th_anniversary_v131072.r01	-	100000000	1	100006992	0	97
+sxs-boulder_dash_30th_anniversary_v131072.r02	-	81762819	1	200006992	0	193
+sxs-boulder_dash_30th_anniversary_v131072.rar	-	100000000	1	281769811	0	271
+sxs-boulder_dash_30th_anniversary_v131072.sfv	-	224	1	381769811	0	367

@@ -1,0 +1,4 @@
+lfc-justglide.nfo	6e15a5f2c4d1d597a6a78c0cab194331
+lfc-justglide.r00	80c3655d6d7d5236198b055983b3e657
+lfc-justglide.rar	c47188ef4ab86bbafb6c51e72abc31fa
+lfc-justglide.sfv	450d060df0a9d96f6d151faa0a34b82e

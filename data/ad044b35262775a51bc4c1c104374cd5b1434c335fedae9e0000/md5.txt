@@ -1,0 +1,7 @@
+delight.nfo	3943a179d0ef94f4966f36758fc83d19
+dl-hoggy2.r00	f503fb3d4a1412f53bcefba98e2e279e
+dl-hoggy2.r01	1c0bfc7ff1c958df013d6b6aced2c3a6
+dl-hoggy2.r02	fddb20812a2103cf37067b506346a1b9
+dl-hoggy2.r03	9774874c86d0ba58b46e0a1da914513a
+dl-hoggy2.rar	e29bfd9cc1fb5bf981dda125efbd1f9b
+dl-hoggy2.sfv	d2686ebcce5a2be4e13a7f41f998579a

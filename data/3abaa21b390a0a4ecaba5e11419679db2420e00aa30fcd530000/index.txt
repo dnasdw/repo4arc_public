@@ -1,0 +1,6 @@
+v-little_league_world_series_baseball_2022_v65536.nfo	-	5434	1	0	0	0
+v-little_league_world_series_baseball_2022_v65536.r00	-	50000000	1	5434	0	1
+v-little_league_world_series_baseball_2022_v65536.r01	-	50000000	1	50005434	0	49
+v-little_league_world_series_baseball_2022_v65536.r02	-	15915159	1	100005434	0	97
+v-little_league_world_series_baseball_2022_v65536.rar	-	50000000	1	115920593	0	113
+v-little_league_world_series_baseball_2022_v65536.sfv	-	256	1	165920593	0	161

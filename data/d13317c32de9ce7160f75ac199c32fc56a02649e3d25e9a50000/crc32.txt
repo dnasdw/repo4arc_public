@@ -1,0 +1,7 @@
+sxs-arcade_space_shooter_2_in_1.nfo	e9e5c840
+sxs-arcade_space_shooter_2_in_1.r00	f65f869f
+sxs-arcade_space_shooter_2_in_1.r01	5c22294c
+sxs-arcade_space_shooter_2_in_1.r02	652e024a
+sxs-arcade_space_shooter_2_in_1.r03	ecf95aa0
+sxs-arcade_space_shooter_2_in_1.rar	9bb8978f
+sxs-arcade_space_shooter_2_in_1.sfv	89998cb6

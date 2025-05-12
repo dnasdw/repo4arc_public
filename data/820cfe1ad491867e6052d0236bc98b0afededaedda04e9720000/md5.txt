@@ -1,0 +1,7 @@
+lfc-evol.nfo	32ae9ae974d740c9ff43276328775f5a
+lfc-evol.r00	c9ada4ccd3f6c9f5a892f1d5f61dbc8f
+lfc-evol.r01	03d916dc05aae36a3640082550557654
+lfc-evol.r02	cffa4e374e6bcd51cba560f9efcc43a6
+lfc-evol.r03	b053e30c19d704e8f2538146e0928b62
+lfc-evol.rar	b9997bce554a9be937824507d6bc396f
+lfc-evol.sfv	6c4efe254540f057f6b0c516d122cf51

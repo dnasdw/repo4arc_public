@@ -1,0 +1,15 @@
+v-dordogne_v131072.nfo	c20e7dd9
+v-dordogne_v131072.r00	d5cf405e
+v-dordogne_v131072.r01	95acdff2
+v-dordogne_v131072.r02	86d4ddb3
+v-dordogne_v131072.r03	5733e5b4
+v-dordogne_v131072.r04	1274252d
+v-dordogne_v131072.r05	6cc144c5
+v-dordogne_v131072.r06	bde6e5bb
+v-dordogne_v131072.r07	7b5e50fd
+v-dordogne_v131072.r08	3923f718
+v-dordogne_v131072.r09	582f76ba
+v-dordogne_v131072.r10	a13dc867
+v-dordogne_v131072.r11	44cbdcc1
+v-dordogne_v131072.rar	603a9f7e
+v-dordogne_v131072.sfv	e8a41062

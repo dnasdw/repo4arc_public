@@ -1,0 +1,10 @@
+sxs-explosive_jake.nfo	37527701
+sxs-explosive_jake.r00	bf81ca63
+sxs-explosive_jake.r01	2bc300ae
+sxs-explosive_jake.r02	950fd6b5
+sxs-explosive_jake.r03	9d11988e
+sxs-explosive_jake.r04	5a71e156
+sxs-explosive_jake.r05	e8b723d3
+sxs-explosive_jake.r06	979c4b7e
+sxs-explosive_jake.rar	ea2d5637
+sxs-explosive_jake.sfv	9b5d84ed

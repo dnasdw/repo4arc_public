@@ -1,0 +1,11 @@
+i-farabel.nfo	3a78c6dc
+i-farabel.r00	a199a73c
+i-farabel.r01	9d68dff7
+i-farabel.r02	ac255eb8
+i-farabel.r03	e5c42a08
+i-farabel.r04	6b37d659
+i-farabel.r05	970ef08c
+i-farabel.r06	ab78cec5
+i-farabel.r07	d8b6fb0f
+i-farabel.rar	720899bf
+i-farabel.sfv	7a939220

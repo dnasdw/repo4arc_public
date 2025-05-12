@@ -1,0 +1,15 @@
+lfc-indiepuzzlevol1.nfo	d7f8824b
+lfc-indiepuzzlevol1.r00	4cb3f109
+lfc-indiepuzzlevol1.r01	3b289575
+lfc-indiepuzzlevol1.r02	5231a605
+lfc-indiepuzzlevol1.r03	2b764493
+lfc-indiepuzzlevol1.r04	5d31fb8e
+lfc-indiepuzzlevol1.r05	8a13d9bc
+lfc-indiepuzzlevol1.r06	45e55386
+lfc-indiepuzzlevol1.r07	4d5246a2
+lfc-indiepuzzlevol1.r08	cab9f10f
+lfc-indiepuzzlevol1.r09	8d39d9f4
+lfc-indiepuzzlevol1.r10	50bb7142
+lfc-indiepuzzlevol1.r11	4017bdb1
+lfc-indiepuzzlevol1.rar	ef332175
+lfc-indiepuzzlevol1.sfv	f316363d

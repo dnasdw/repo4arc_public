@@ -1,0 +1,8 @@
+sxs-bugsnax_v196608.nfo	3a147c89
+sxs-bugsnax_v196608.r00	fa246469
+sxs-bugsnax_v196608.r01	50979323
+sxs-bugsnax_v196608.r02	ace65e28
+sxs-bugsnax_v196608.r03	aac2f062
+sxs-bugsnax_v196608.r04	e79f1010
+sxs-bugsnax_v196608.rar	f7a4a5da
+sxs-bugsnax_v196608.sfv	96cc9527

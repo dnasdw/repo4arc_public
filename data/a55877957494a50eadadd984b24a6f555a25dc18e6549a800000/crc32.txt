@@ -1,0 +1,5 @@
+sxs-neon_hell_v65536.nfo	78e9c95a
+sxs-neon_hell_v65536.r00	60daf7cd
+sxs-neon_hell_v65536.r01	e73b40ff
+sxs-neon_hell_v65536.rar	16201405
+sxs-neon_hell_v65536.sfv	c9a1713f

@@ -1,0 +1,5 @@
+sxs-blackjack_hands.nfo	5f9b521d95bde035870b63df544c187e
+sxs-blackjack_hands.r00	99fce992e715189ad7cf2c0e16b1bd8f
+sxs-blackjack_hands.r01	78df1931c480afadea10fc529953c761
+sxs-blackjack_hands.rar	04f81ab257230e3349c2892f1d0d9f4c
+sxs-blackjack_hands.sfv	564fbb4063ebf7ef8799826d664665a2

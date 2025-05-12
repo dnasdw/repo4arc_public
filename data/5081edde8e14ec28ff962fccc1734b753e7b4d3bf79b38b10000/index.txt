@@ -1,0 +1,4 @@
+lfc-drcr.nfo	-	6031	1	0	0	0
+lfc-drcr.r00	-	39130045	1	6031	0	1
+lfc-drcr.rar	-	50000000	1	39136076	0	39
+lfc-drcr.sfv	-	46	1	89136076	0	87

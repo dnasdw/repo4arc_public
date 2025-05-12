@@ -1,0 +1,3 @@
+v-taiko_v131072_dlc.nfo	7cc2e2b45fc2e37b15d34c1954d62d55
+v-taiko_v131072_dlc.rar	2e9ecaf58edf92f3df5e349bcdb4fdee
+v-taiko_v131072_dlc.sfv	1cd86710476d2a67587c56b947ff0b45

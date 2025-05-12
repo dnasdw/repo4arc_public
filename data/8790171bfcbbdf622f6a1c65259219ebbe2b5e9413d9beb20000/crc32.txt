@@ -1,0 +1,7 @@
+v-steamworld_build_v655360.nfo	868a281b
+v-steamworld_build_v655360.r00	e3577805
+v-steamworld_build_v655360.r01	a1fa75d5
+v-steamworld_build_v655360.r02	c1dc338d
+v-steamworld_build_v655360.r03	a9805847
+v-steamworld_build_v655360.rar	88bf0e9d
+v-steamworld_build_v655360.sfv	a37cbff6

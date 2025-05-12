@@ -1,0 +1,4 @@
+sxs-wrc_generations_multi11_v262144.nfo	d09a709a
+sxs-wrc_generations_multi11_v262144.r00	3f57d3ef
+sxs-wrc_generations_multi11_v262144.rar	e2e5c381
+sxs-wrc_generations_multi11_v262144.sfv	97505d7f

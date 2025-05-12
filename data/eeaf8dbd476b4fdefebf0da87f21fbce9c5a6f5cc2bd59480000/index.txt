@@ -1,0 +1,12 @@
+sxs-the_darkside_detective_v327680.nfo	-	6212	1	0	0	0
+sxs-the_darkside_detective_v327680.r00	-	100000000	1	6212	0	1
+sxs-the_darkside_detective_v327680.r01	-	100000000	1	100006212	0	97
+sxs-the_darkside_detective_v327680.r02	-	100000000	1	200006212	0	193
+sxs-the_darkside_detective_v327680.r03	-	100000000	1	300006212	0	289
+sxs-the_darkside_detective_v327680.r04	-	100000000	1	400006212	0	385
+sxs-the_darkside_detective_v327680.r05	-	100000000	1	500006212	0	481
+sxs-the_darkside_detective_v327680.r06	-	100000000	1	62251264	1	60
+sxs-the_darkside_detective_v327680.r07	-	100000000	1	162251264	1	156
+sxs-the_darkside_detective_v327680.r08	-	8849182	1	262251264	1	252
+sxs-the_darkside_detective_v327680.rar	-	100000000	1	271100446	1	261
+sxs-the_darkside_detective_v327680.sfv	-	490	1	371100446	1	357

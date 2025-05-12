@@ -1,0 +1,4 @@
+sxs-eternum_ex_v131072.nfo	-	6681	1	0	0	0
+sxs-eternum_ex_v131072.r00	-	35475849	1	6681	0	1
+sxs-eternum_ex_v131072.rar	-	50000000	1	35482530	0	35
+sxs-eternum_ex_v131072.sfv	-	74	1	85482530	0	83

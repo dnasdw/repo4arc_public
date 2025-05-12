@@ -1,0 +1,4 @@
+sxs-neko_navy_v131072.nfo	5e646f10e44cab0dfac48b7cb16d97b6
+sxs-neko_navy_v131072.r00	8133035ae353c63476f809c419178301
+sxs-neko_navy_v131072.rar	12c53c6ed217eb5826cfd0f09032b440
+sxs-neko_navy_v131072.sfv	b2229cd3e76f7e93adbe19113c6c4718

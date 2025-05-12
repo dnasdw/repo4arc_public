@@ -1,0 +1,5 @@
+sxs-goblin_sword_v196608.nfo	353528f367468886cd8620fb32ba8837
+sxs-goblin_sword_v196608.r00	612399efd18bc4e759b06d43f653c474
+sxs-goblin_sword_v196608.r01	ca6766b5464a178cc8d96ba476782e04
+sxs-goblin_sword_v196608.rar	5e7ee6c690f73b1bc2b1015619c389cb
+sxs-goblin_sword_v196608.sfv	582d9aa4ec67bc81c430f39691703d4f

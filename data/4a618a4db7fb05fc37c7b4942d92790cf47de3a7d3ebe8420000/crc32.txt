@@ -1,0 +1,10 @@
+v-shadowgate_v131072.nfo	d16d4b18
+v-shadowgate_v131072.r00	9ba4279a
+v-shadowgate_v131072.r01	01034885
+v-shadowgate_v131072.r02	c6ad99f6
+v-shadowgate_v131072.r03	cb870d45
+v-shadowgate_v131072.r04	a1edd4f3
+v-shadowgate_v131072.r05	05c26f22
+v-shadowgate_v131072.r06	d60b2a3e
+v-shadowgate_v131072.rar	29aef0ae
+v-shadowgate_v131072.sfv	96259fe1

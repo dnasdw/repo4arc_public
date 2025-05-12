@@ -1,0 +1,4 @@
+sxs-wargroove_v524288.nfo	-	12842	1	0	0	0
+sxs-wargroove_v524288.r00	-	48820852	1	12842	0	1
+sxs-wargroove_v524288.rar	-	50000000	1	48833694	0	48
+sxs-wargroove_v524288.sfv	-	72	1	98833694	0	96

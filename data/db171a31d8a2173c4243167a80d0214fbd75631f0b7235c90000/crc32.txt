@@ -1,0 +1,11 @@
+sxs-ultra_space_battle_brawl_v196608.nfo	ff814345
+sxs-ultra_space_battle_brawl_v196608.r00	151d2984
+sxs-ultra_space_battle_brawl_v196608.r01	3c0cec13
+sxs-ultra_space_battle_brawl_v196608.r02	6b51006b
+sxs-ultra_space_battle_brawl_v196608.r03	ce9bdf71
+sxs-ultra_space_battle_brawl_v196608.r04	2126932e
+sxs-ultra_space_battle_brawl_v196608.r05	57288b9f
+sxs-ultra_space_battle_brawl_v196608.r06	f6bd4818
+sxs-ultra_space_battle_brawl_v196608.r07	978657b1
+sxs-ultra_space_battle_brawl_v196608.rar	4b0a50d5
+sxs-ultra_space_battle_brawl_v196608.sfv	acc78be9

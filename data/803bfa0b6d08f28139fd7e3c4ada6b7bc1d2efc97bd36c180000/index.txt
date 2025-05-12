@@ -1,0 +1,10 @@
+sxs-lion_simulator_survival_rpg_animal_battle.nfo	-	5822	1	0	0	0
+sxs-lion_simulator_survival_rpg_animal_battle.r00	-	100000000	1	5822	0	1
+sxs-lion_simulator_survival_rpg_animal_battle.r01	-	100000000	1	100005822	0	97
+sxs-lion_simulator_survival_rpg_animal_battle.r02	-	100000000	1	200005822	0	193
+sxs-lion_simulator_survival_rpg_animal_battle.r03	-	100000000	1	300005822	0	289
+sxs-lion_simulator_survival_rpg_animal_battle.r04	-	100000000	1	400005822	0	385
+sxs-lion_simulator_survival_rpg_animal_battle.r05	-	100000000	1	500005822	0	481
+sxs-lion_simulator_survival_rpg_animal_battle.r06	-	38918301	1	62251264	1	60
+sxs-lion_simulator_survival_rpg_animal_battle.rar	-	100000000	1	101169565	1	98
+sxs-lion_simulator_survival_rpg_animal_battle.sfv	-	480	1	201169565	1	194

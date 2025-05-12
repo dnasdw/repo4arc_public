@@ -1,0 +1,6 @@
+sxs-unlock_the_king.nfo	35832102
+sxs-unlock_the_king.r00	d9719a4a
+sxs-unlock_the_king.r01	3b059cad
+sxs-unlock_the_king.r02	f2699f8f
+sxs-unlock_the_king.rar	acaaecc8
+sxs-unlock_the_king.sfv	0af15beb

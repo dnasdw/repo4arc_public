@@ -1,0 +1,6 @@
+sxs-uglydolls_v65536.nfo	63e6603fd7a7a4ecd08a62f97db2e005
+sxs-uglydolls_v65536.r00	7241c60c64fb36b48ec57f91e45323ca
+sxs-uglydolls_v65536.r01	fc5cfc8dc6794893a1eb574dedd1541f
+sxs-uglydolls_v65536.r02	987ec066d82437cc761e63980f80c5e3
+sxs-uglydolls_v65536.rar	7c739b1be80766acff899af565e15ce8
+sxs-uglydolls_v65536.sfv	3226a5656a4fc133cbffb7927db44292

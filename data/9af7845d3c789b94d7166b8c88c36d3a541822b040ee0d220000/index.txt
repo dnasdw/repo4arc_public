@@ -1,0 +1,4 @@
+sxs-across_the_grooves_v65536.nfo	-	7071	1	0	0	0
+sxs-across_the_grooves_v65536.r00	-	18614262	1	7071	0	1
+sxs-across_the_grooves_v65536.rar	-	50000000	1	18621333	0	19
+sxs-across_the_grooves_v65536.sfv	-	88	1	68621333	0	67

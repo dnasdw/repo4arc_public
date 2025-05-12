@@ -1,0 +1,6 @@
+sxs-rift_adventure.nfo	adcaea540f2c2a44d20ee0869eeb5038
+sxs-rift_adventure.r00	1921384f0ca7b5da7e1d33cd3ffbb0f0
+sxs-rift_adventure.r01	f648c167dfe4dd30cc8e356867e23e2e
+sxs-rift_adventure.r02	7cbb114bc20b8df7462d66916f25b497
+sxs-rift_adventure.rar	0f0097d05ed4e77ae10c706e3795325f
+sxs-rift_adventure.sfv	97b03682781c3e255b8371edbceae169

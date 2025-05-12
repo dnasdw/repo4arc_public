@@ -1,0 +1,3 @@
+v-ssbu_ultimate_spirits_set_dlc.nfo	-	5590	1	0	0	0
+v-ssbu_ultimate_spirits_set_dlc.rar	-	103948	1	5590	0	1
+v-ssbu_ultimate_spirits_set_dlc.sfv	-	46	1	109538	0	2

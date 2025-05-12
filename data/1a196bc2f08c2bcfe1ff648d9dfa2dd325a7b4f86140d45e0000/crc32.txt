@@ -1,0 +1,9 @@
+brw-anfp.nfo	c7bfd7d1
+brw-anfp.r00	a3316cf2
+brw-anfp.r01	80af273a
+brw-anfp.r02	04cb3356
+brw-anfp.r03	3c53b7fd
+brw-anfp.r04	6b60aa27
+brw-anfp.r05	ed40e0f0
+brw-anfp.rar	fcb5ddcc
+brw-anfp.sfv	56dea8a1

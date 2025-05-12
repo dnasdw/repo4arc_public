@@ -1,0 +1,9 @@
+v-dragon_quest_builders_2_v262144.nfo	16d4e9a9
+v-dragon_quest_builders_2_v262144.r00	3b225cc4
+v-dragon_quest_builders_2_v262144.r01	33b80850
+v-dragon_quest_builders_2_v262144.r02	4bd993ef
+v-dragon_quest_builders_2_v262144.r03	8f97d2bf
+v-dragon_quest_builders_2_v262144.r04	f586868f
+v-dragon_quest_builders_2_v262144.r05	c818b4f5
+v-dragon_quest_builders_2_v262144.rar	b0aca960
+v-dragon_quest_builders_2_v262144.sfv	75cba400

@@ -1,0 +1,5 @@
+lfc-projectstarship.nfo	-	3987	1	0	0	0
+lfc-projectstarship.r00	-	50000000	1	3987	0	1
+lfc-projectstarship.r01	-	15286224	1	50003987	0	49
+lfc-projectstarship.rar	-	50000000	1	65290211	0	64
+lfc-projectstarship.sfv	-	102	1	115290211	0	112

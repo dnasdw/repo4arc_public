@@ -1,0 +1,16 @@
+hr-avsza.nfo	9f85980342b3ef4eb62b076e5853695d
+hr-avsza.r00	bc05f2b5c06d9a843211e469d7d5848b
+hr-avsza.r01	b8703b860a0ff7c84b31904832b29eae
+hr-avsza.r02	7946de0dd81b32911a338afb2d1575c4
+hr-avsza.r03	ccd6fdaccea1ce4c3a5691a5b5d58645
+hr-avsza.r04	6cf3ad63cdfb4207a0ff4ab0a8491a10
+hr-avsza.r05	44451ef802cb788ba2198bd750e4a11e
+hr-avsza.r06	1ff61a2eaefa5db47ff47edb1592267b
+hr-avsza.r07	fcba9538183d9e258a0d8038ed379b52
+hr-avsza.r08	ee1707847b0093fe140f6b9fafc8a673
+hr-avsza.r09	7638c077c50207c45e3e4826e8233da7
+hr-avsza.r10	be23c218a038c5edc0ae97e78e62b54d
+hr-avsza.rar	a31ba5ab6e8263dce703abf5499b56a8
+hr-avsza.sfv	e9ce55ff8565f5051b2e864fa6840dcc
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/hr-avsza.jpg	51f4f6fa2d4a1c8df95c33ab839fcd59

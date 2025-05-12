@@ -1,0 +1,17 @@
+sxs-bite_the_bullet_v131072.nfo	f7795cc7
+sxs-bite_the_bullet_v131072.r00	038e379e
+sxs-bite_the_bullet_v131072.r01	05999516
+sxs-bite_the_bullet_v131072.r02	36cda422
+sxs-bite_the_bullet_v131072.r03	a0ecb320
+sxs-bite_the_bullet_v131072.r04	bef8b36e
+sxs-bite_the_bullet_v131072.r05	8e6a98b0
+sxs-bite_the_bullet_v131072.r06	192a3588
+sxs-bite_the_bullet_v131072.r07	0446dd7b
+sxs-bite_the_bullet_v131072.r08	65862f7a
+sxs-bite_the_bullet_v131072.r09	51007439
+sxs-bite_the_bullet_v131072.r10	28ddcc6a
+sxs-bite_the_bullet_v131072.r11	8eab01f0
+sxs-bite_the_bullet_v131072.r12	214c42aa
+sxs-bite_the_bullet_v131072.r13	52841d95
+sxs-bite_the_bullet_v131072.rar	7ce7c189
+sxs-bite_the_bullet_v131072.sfv	8ad934cc

@@ -1,0 +1,11 @@
+sxs-mechblaze.nfo	8e809925
+sxs-mechblaze.r00	5784b08a
+sxs-mechblaze.r01	f656eec2
+sxs-mechblaze.r02	d7a8cb71
+sxs-mechblaze.r03	4a7df8d6
+sxs-mechblaze.r04	0ffc48fe
+sxs-mechblaze.r05	162647c1
+sxs-mechblaze.r06	d26db50f
+sxs-mechblaze.r07	0fb7a208
+sxs-mechblaze.rar	74e5aace
+sxs-mechblaze.sfv	6809458a

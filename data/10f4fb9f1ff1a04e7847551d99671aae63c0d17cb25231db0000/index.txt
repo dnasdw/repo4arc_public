@@ -1,0 +1,3 @@
+v-jinshin_dlc.nfo	-	5122	1	0	0	0
+v-jinshin_dlc.rar	-	311868	1	5122	0	1
+v-jinshin_dlc.sfv	-	28	1	316990	0	2

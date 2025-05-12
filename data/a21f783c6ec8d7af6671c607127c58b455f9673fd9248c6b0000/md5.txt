@@ -1,0 +1,5 @@
+sxs-super_jumpy_ball_v196608.nfo	d7e0189e70c3dd7195e8bd886f82cccb
+sxs-super_jumpy_ball_v196608.r00	67f6aa72178f8a6155caf777fcc149a2
+sxs-super_jumpy_ball_v196608.r01	70d4bf618e1c5ff412916d39b11f688a
+sxs-super_jumpy_ball_v196608.rar	52dfbc5325de2d68cdb66631e5c9df54
+sxs-super_jumpy_ball_v196608.sfv	7e58df3073b8b97dcbb10d41e77aca06

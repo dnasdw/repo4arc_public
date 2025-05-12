@@ -1,0 +1,16 @@
+v-pillars_of_eternity_complete_edition_v65536.nfo	-	9646	1	0	0	0
+v-pillars_of_eternity_complete_edition_v65536.r00	-	50000000	1	9646	0	1
+v-pillars_of_eternity_complete_edition_v65536.r01	-	50000000	1	50009646	0	49
+v-pillars_of_eternity_complete_edition_v65536.r02	-	50000000	1	100009646	0	97
+v-pillars_of_eternity_complete_edition_v65536.r03	-	50000000	1	150009646	0	145
+v-pillars_of_eternity_complete_edition_v65536.r04	-	50000000	1	200009646	0	193
+v-pillars_of_eternity_complete_edition_v65536.r05	-	50000000	1	250009646	0	241
+v-pillars_of_eternity_complete_edition_v65536.r06	-	50000000	1	300009646	0	289
+v-pillars_of_eternity_complete_edition_v65536.r07	-	50000000	1	350009646	0	337
+v-pillars_of_eternity_complete_edition_v65536.r08	-	50000000	1	400009646	0	385
+v-pillars_of_eternity_complete_edition_v65536.r09	-	50000000	1	450009646	0	433
+v-pillars_of_eternity_complete_edition_v65536.r10	-	50000000	1	500009646	0	481
+v-pillars_of_eternity_complete_edition_v65536.r11	-	50000000	1	12251264	1	12
+v-pillars_of_eternity_complete_edition_v65536.r12	-	26734917	1	62251264	1	60
+v-pillars_of_eternity_complete_edition_v65536.rar	-	50000000	1	88986181	1	86
+v-pillars_of_eternity_complete_edition_v65536.sfv	-	840	1	138986181	1	134

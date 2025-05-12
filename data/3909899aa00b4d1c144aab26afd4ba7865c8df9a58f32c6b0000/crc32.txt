@@ -1,0 +1,9 @@
+v-titanium_hound.nfo	fa2d08d9
+v-titanium_hound.r00	22f56681
+v-titanium_hound.r01	5e5183e3
+v-titanium_hound.r02	a26b8498
+v-titanium_hound.r03	5457174c
+v-titanium_hound.r04	112143c7
+v-titanium_hound.r05	f97bb5d8
+v-titanium_hound.rar	18c7a57d
+v-titanium_hound.sfv	a44037e9

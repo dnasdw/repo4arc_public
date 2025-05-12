@@ -1,0 +1,5 @@
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v65536.nfo	-	5978	1	0	0	0
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v65536.r00	-	100000000	1	5978	0	1
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v65536.r01	-	43878784	1	100005978	0	97
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v65536.rar	-	100000000	1	143884762	0	139
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v65536.sfv	-	243	1	243884762	0	235

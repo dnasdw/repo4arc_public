@@ -1,0 +1,6 @@
+sxs-n64jp_v131072.nfo	c8797b93
+sxs-n64jp_v131072.r00	4eda3751
+sxs-n64jp_v131072.r01	ded9c096
+sxs-n64jp_v131072.r02	8c45bcf4
+sxs-n64jp_v131072.rar	64b9b932
+sxs-n64jp_v131072.sfv	f02e058e

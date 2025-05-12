@@ -1,0 +1,8 @@
+sxs-little_red_riding_hood_wonder_animals.nfo	-	5281	1	0	0	0
+sxs-little_red_riding_hood_wonder_animals.r00	-	100000000	1	5281	0	1
+sxs-little_red_riding_hood_wonder_animals.r01	-	100000000	1	100005281	0	97
+sxs-little_red_riding_hood_wonder_animals.r02	-	100000000	1	200005281	0	193
+sxs-little_red_riding_hood_wonder_animals.r03	-	100000000	1	300005281	0	289
+sxs-little_red_riding_hood_wonder_animals.r04	-	77567379	1	400005281	0	385
+sxs-little_red_riding_hood_wonder_animals.rar	-	100000000	1	477572660	0	459
+sxs-little_red_riding_hood_wonder_animals.sfv	-	336	1	40231168	1	39

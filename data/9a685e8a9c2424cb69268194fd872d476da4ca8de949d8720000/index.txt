@@ -1,0 +1,4 @@
+sxs-picture_painting_puzzle_1000.nfo	-	3638	1	0	0	0
+sxs-picture_painting_puzzle_1000.r00	-	16351405	1	3638	0	1
+sxs-picture_painting_puzzle_1000.rar	-	50000000	1	16355043	0	17
+sxs-picture_painting_puzzle_1000.sfv	-	94	1	66355043	0	65

@@ -1,0 +1,5 @@
+brw-essc.nfo	b11430aeac3b29f73fde7a005250639d
+brw-essc.r00	98757e8112ab8d175763bc6344160cbf
+brw-essc.r01	cabf459b13854c6b26d0bf1f68ffd0b6
+brw-essc.rar	f2748dd4300c35e8036e54f8763263b3
+brw-essc.sfv	eee00887cab150af88fc081063d409d5

@@ -1,0 +1,4 @@
+gyrogunner_nsw-monev.nfo	-	819	1	0	0	0
+gyrogunner_nsw-monev.r00	-	37107012	1	819	0	1
+gyrogunner_nsw-monev.rar	-	50000000	1	37107831	0	37
+gyrogunner_nsw-monev.sfv	-	70	1	87107831	0	85

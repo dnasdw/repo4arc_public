@@ -1,0 +1,3 @@
+v-doom_1993_deathless_dlc.nfo	0293a7e48493f7de5c77c7efe939dba5c181c2da
+v-doom_1993_deathless_dlc.rar	f0f7b825c1a61fd0e70d3d9f45d97c630eabba8c
+v-doom_1993_deathless_dlc.sfv	50b21c8b1e776cf8f14038f2786c8982eb3a85c5

@@ -1,0 +1,9 @@
+sxs-the_journey_down_chapter_three_v65536.nfo	-	5432	1	0	0	0
+sxs-the_journey_down_chapter_three_v65536.r00	-	50000000	1	5432	0	1
+sxs-the_journey_down_chapter_three_v65536.r01	-	50000000	1	50005432	0	49
+sxs-the_journey_down_chapter_three_v65536.r02	-	50000000	1	100005432	0	97
+sxs-the_journey_down_chapter_three_v65536.r03	-	50000000	1	150005432	0	145
+sxs-the_journey_down_chapter_three_v65536.r04	-	50000000	1	200005432	0	193
+sxs-the_journey_down_chapter_three_v65536.r05	-	5146340	1	250005432	0	241
+sxs-the_journey_down_chapter_three_v65536.rar	-	50000000	1	255151772	0	246
+sxs-the_journey_down_chapter_three_v65536.sfv	-	392	1	305151772	0	294

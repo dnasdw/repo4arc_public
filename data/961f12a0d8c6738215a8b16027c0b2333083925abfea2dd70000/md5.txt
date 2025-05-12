@@ -1,0 +1,8 @@
+brw-frsu.nfo	33ef9161baf2da7c586adee52c320a1e
+brw-frsu.r00	54ef30d171c9503260f6c9e8be960dc1
+brw-frsu.r01	72692bd66d21f67cd25d7340ef7dffa8
+brw-frsu.r02	636d501489ee721a3487c73249cc0b58
+brw-frsu.r03	37c1b19f2a0a585f9bc7d26c0830c38d
+brw-frsu.r04	85503e32eca5e2ad1fd84a547fc49343
+brw-frsu.rar	a9143ba4cbc211fe0e28eef177f01428
+brw-frsu.sfv	974c6955e79ffdc73fd445a2b1f75f34

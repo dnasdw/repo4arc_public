@@ -1,0 +1,3 @@
+sxs-gbjp.nfo	-	6368	1	0	0	0
+sxs-gbjp.rar	-	55778837	1	6368	0	1
+sxs-gbjp.sfv	-	23	1	55785205	0	55

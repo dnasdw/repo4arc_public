@@ -1,0 +1,12 @@
+v-fuze4_v327680.nfo	91471a76
+v-fuze4_v327680.r00	0110fd6e
+v-fuze4_v327680.r01	428f8086
+v-fuze4_v327680.r02	cd11dced
+v-fuze4_v327680.r03	a864c4f7
+v-fuze4_v327680.r04	6248c3d2
+v-fuze4_v327680.r05	abe38ff8
+v-fuze4_v327680.r06	c028e07b
+v-fuze4_v327680.r07	b045fccf
+v-fuze4_v327680.r08	9afd7a52
+v-fuze4_v327680.rar	07b61ed3
+v-fuze4_v327680.sfv	7b45b13f

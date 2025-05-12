@@ -1,0 +1,4 @@
+sxs-xbc2_torna_tgc_v131072.nfo	b85bd33356bdcd6489713d0ccf007bc811bf6826
+sxs-xbc2_torna_tgc_v131072.r00	248c17abfc852286ee0799e7b4b7c8131cb2db21
+sxs-xbc2_torna_tgc_v131072.rar	6246d39ef402b67d7d2730a4ea22a3b2c4caaf66
+sxs-xbc2_torna_tgc_v131072.sfv	4d03dee3c75edef65bc5f875e096ae31f9871b5a

@@ -1,0 +1,8 @@
+sxs-hexagravity.nfo	277f1d9f9a659470da66f31b77b851e2a7fef481
+sxs-hexagravity.r00	d52bf5fd6f8510b962328e5a199251199b560a07
+sxs-hexagravity.r01	9ca9ed3ea2f5dc08a5f87ffb8146fa5748442884
+sxs-hexagravity.r02	40bd4f4090bbbee7766a528868722aa16c93d1cb
+sxs-hexagravity.r03	70d1f64948cebbd054e9a10b8bec3ce7415872d8
+sxs-hexagravity.r04	767a24c081ff754b59d13fc875b96e64f5e4d7c2
+sxs-hexagravity.rar	e0140769c53417410cdf3308b37bbd1b5fd347cc
+sxs-hexagravity.sfv	063e5a8143019d067018ce127f308ba9e81628b4

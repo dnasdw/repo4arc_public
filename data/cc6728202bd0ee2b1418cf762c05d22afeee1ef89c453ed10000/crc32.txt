@@ -1,0 +1,12 @@
+sxs-titan_chaser_v196608.nfo	bb1b5b58
+sxs-titan_chaser_v196608.r00	6679c1df
+sxs-titan_chaser_v196608.r01	4b971acb
+sxs-titan_chaser_v196608.r02	32000335
+sxs-titan_chaser_v196608.r03	102adf70
+sxs-titan_chaser_v196608.r04	392e791a
+sxs-titan_chaser_v196608.r05	5b1de95b
+sxs-titan_chaser_v196608.r06	fc3051dd
+sxs-titan_chaser_v196608.r07	614b10f7
+sxs-titan_chaser_v196608.r08	2532ccbc
+sxs-titan_chaser_v196608.rar	9d35cd30
+sxs-titan_chaser_v196608.sfv	287b64dc

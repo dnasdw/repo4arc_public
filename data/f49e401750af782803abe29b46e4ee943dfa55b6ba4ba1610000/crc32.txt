@@ -1,0 +1,13 @@
+sxs-anno_mutationem_v196608.nfo	0525d581
+sxs-anno_mutationem_v196608.r00	92e03221
+sxs-anno_mutationem_v196608.r01	ca97f5ec
+sxs-anno_mutationem_v196608.r02	1b7bf590
+sxs-anno_mutationem_v196608.r03	22515983
+sxs-anno_mutationem_v196608.r04	06dbd301
+sxs-anno_mutationem_v196608.r05	98baeba6
+sxs-anno_mutationem_v196608.r06	ba4deeb9
+sxs-anno_mutationem_v196608.r07	5d6640bf
+sxs-anno_mutationem_v196608.r08	4e3d22c8
+sxs-anno_mutationem_v196608.r09	23257dbb
+sxs-anno_mutationem_v196608.rar	4845ea20
+sxs-anno_mutationem_v196608.sfv	6314c521

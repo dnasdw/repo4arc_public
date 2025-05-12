@@ -1,0 +1,12 @@
+sxs-garfield_lasagna_party_v131072.nfo	acc52756
+sxs-garfield_lasagna_party_v131072.r00	8bbe4ee1
+sxs-garfield_lasagna_party_v131072.r01	a38a0209
+sxs-garfield_lasagna_party_v131072.r02	6a744567
+sxs-garfield_lasagna_party_v131072.r03	8ce83590
+sxs-garfield_lasagna_party_v131072.r04	5c3ce8c7
+sxs-garfield_lasagna_party_v131072.r05	83d2311c
+sxs-garfield_lasagna_party_v131072.r06	e8ca5be6
+sxs-garfield_lasagna_party_v131072.r07	177b2bcb
+sxs-garfield_lasagna_party_v131072.r08	8740b33b
+sxs-garfield_lasagna_party_v131072.rar	938104be
+sxs-garfield_lasagna_party_v131072.sfv	211b77d9

@@ -1,0 +1,12 @@
+sxs-battle_stations_blockade.nfo	-	5822	1	0	0	0
+sxs-battle_stations_blockade.r00	-	100000000	1	5822	0	1
+sxs-battle_stations_blockade.r01	-	100000000	1	100005822	0	97
+sxs-battle_stations_blockade.r02	-	100000000	1	200005822	0	193
+sxs-battle_stations_blockade.r03	-	100000000	1	300005822	0	289
+sxs-battle_stations_blockade.r04	-	100000000	1	400005822	0	385
+sxs-battle_stations_blockade.r05	-	100000000	1	500005822	0	481
+sxs-battle_stations_blockade.r06	-	100000000	1	62251264	1	60
+sxs-battle_stations_blockade.r07	-	100000000	1	162251264	1	156
+sxs-battle_stations_blockade.r08	-	99736805	1	262251264	1	252
+sxs-battle_stations_blockade.rar	-	100000000	1	361988069	1	348
+sxs-battle_stations_blockade.sfv	-	430	1	461988069	1	444

@@ -1,0 +1,11 @@
+sxs-blue_reflection_second_light_v262144.nfo	-	9722	1	0	0	0
+sxs-blue_reflection_second_light_v262144.r00	-	50000000	1	9722	0	1
+sxs-blue_reflection_second_light_v262144.r01	-	50000000	1	50009722	0	49
+sxs-blue_reflection_second_light_v262144.r02	-	50000000	1	100009722	0	97
+sxs-blue_reflection_second_light_v262144.r03	-	50000000	1	150009722	0	145
+sxs-blue_reflection_second_light_v262144.r04	-	50000000	1	200009722	0	193
+sxs-blue_reflection_second_light_v262144.r05	-	50000000	1	250009722	0	241
+sxs-blue_reflection_second_light_v262144.r06	-	50000000	1	300009722	0	289
+sxs-blue_reflection_second_light_v262144.r07	-	28370700	1	350009722	0	337
+sxs-blue_reflection_second_light_v262144.rar	-	50000000	1	378380422	0	365
+sxs-blue_reflection_second_light_v262144.sfv	-	495	1	428380422	0	413

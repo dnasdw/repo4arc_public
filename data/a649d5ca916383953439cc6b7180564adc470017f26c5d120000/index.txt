@@ -1,0 +1,4 @@
+v-deemo_reborn_taiko_no_tatsujin_collaboration_collection_dlc.nfo	-	7880	1	0	0	0
+v-deemo_reborn_taiko_no_tatsujin_collaboration_collection_dlc.r00	-	24433154	1	7880	0	1
+v-deemo_reborn_taiko_no_tatsujin_collaboration_collection_dlc.rar	-	50000000	1	24441034	0	25
+v-deemo_reborn_taiko_no_tatsujin_collaboration_collection_dlc.sfv	-	152	1	74441034	0	73

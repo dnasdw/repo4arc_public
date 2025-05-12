@@ -1,0 +1,4 @@
+lfc-drop_v65536.nfo	f0a28d35
+lfc-drop_v65536.r00	af0341c6
+lfc-drop_v65536.rar	464b10a8
+lfc-drop_v65536.sfv	84a21d01

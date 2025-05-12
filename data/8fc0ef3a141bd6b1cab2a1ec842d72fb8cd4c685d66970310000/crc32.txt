@@ -1,0 +1,7 @@
+v-my_little_dog_adventure_v65536.nfo	5f36b610
+v-my_little_dog_adventure_v65536.r00	7e10ff86
+v-my_little_dog_adventure_v65536.r01	942513d8
+v-my_little_dog_adventure_v65536.r02	80cddb6c
+v-my_little_dog_adventure_v65536.r03	f5855a4c
+v-my_little_dog_adventure_v65536.rar	f245ce14
+v-my_little_dog_adventure_v65536.sfv	ad96ff75

@@ -1,0 +1,5 @@
+sxs-splashy_cube.nfo	-	5666	1	0	0	0
+sxs-splashy_cube.r00	-	50000000	1	5666	0	1
+sxs-splashy_cube.r01	-	4411551	1	50005666	0	49
+sxs-splashy_cube.rar	-	50000000	1	54417217	0	54
+sxs-splashy_cube.sfv	-	93	1	104417217	0	102

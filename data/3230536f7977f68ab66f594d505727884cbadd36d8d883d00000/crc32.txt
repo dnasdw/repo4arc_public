@@ -1,0 +1,10 @@
+sxs-nova_111.nfo	6014208e
+sxs-nova_111.r00	859221be
+sxs-nova_111.r01	4ca214d1
+sxs-nova_111.r02	ac068a93
+sxs-nova_111.r03	93679761
+sxs-nova_111.r04	1d17dfe4
+sxs-nova_111.r05	bcf79fdc
+sxs-nova_111.r06	e6016b3e
+sxs-nova_111.rar	5fd898b6
+sxs-nova_111.sfv	380fd5be

@@ -1,0 +1,4 @@
+sxs-victor_vran_overkill_edition_v196608.nfo	-	5309	1	0	0	0
+sxs-victor_vran_overkill_edition_v196608.r00	-	43216191	1	5309	0	1
+sxs-victor_vran_overkill_edition_v196608.rar	-	50000000	1	43221500	0	43
+sxs-victor_vran_overkill_edition_v196608.sfv	-	110	1	93221500	0	91

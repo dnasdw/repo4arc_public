@@ -1,0 +1,8 @@
+v-super_monkey_ball_banana_mania_v196608.nfo	3fb3b79d
+v-super_monkey_ball_banana_mania_v196608.r00	0765752b
+v-super_monkey_ball_banana_mania_v196608.r01	ea7cec96
+v-super_monkey_ball_banana_mania_v196608.r02	aecceeed
+v-super_monkey_ball_banana_mania_v196608.r03	9b5925f0
+v-super_monkey_ball_banana_mania_v196608.r04	9677ffb6
+v-super_monkey_ball_banana_mania_v196608.rar	659f312f
+v-super_monkey_ball_banana_mania_v196608.sfv	73556462

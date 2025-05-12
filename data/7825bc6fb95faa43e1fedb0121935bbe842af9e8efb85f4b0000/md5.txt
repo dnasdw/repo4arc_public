@@ -1,0 +1,4 @@
+v-ultimate_racing_2d_v65536.nfo	2328f0dcca34d2426513b7dc7589b6bd
+v-ultimate_racing_2d_v65536.r00	c72ce1861e0157dc27fa8895a7c37b5d
+v-ultimate_racing_2d_v65536.rar	7a1baa63c5d87dd79aa30371659701d8
+v-ultimate_racing_2d_v65536.sfv	af1e5cee92cb7f76432734abf036ffaf

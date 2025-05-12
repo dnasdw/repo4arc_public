@@ -1,0 +1,15 @@
+v-astral_ascent.nfo	714349d3
+v-astral_ascent.r00	320af359
+v-astral_ascent.r01	398a6703
+v-astral_ascent.r02	db617d58
+v-astral_ascent.r03	bb4fb7a4
+v-astral_ascent.r04	7fa1681e
+v-astral_ascent.r05	4af031c0
+v-astral_ascent.r06	ef019480
+v-astral_ascent.r07	0010620a
+v-astral_ascent.r08	0d14b5c7
+v-astral_ascent.r09	59e7171c
+v-astral_ascent.r10	3509c1b7
+v-astral_ascent.r11	ebc3d7b2
+v-astral_ascent.rar	970940b1
+v-astral_ascent.sfv	edbe9683

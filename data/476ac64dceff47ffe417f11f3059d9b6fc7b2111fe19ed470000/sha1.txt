@@ -1,0 +1,6 @@
+sxs-warborn_v327680.nfo	b3ab725357beffbba6b5c5906c56f7a0d64e8fac
+sxs-warborn_v327680.r00	7c583e868ed0ce4bffedd959ff0f14031336c684
+sxs-warborn_v327680.r01	eb086e29b349769abcbea8976cc00fdf3ac927a6
+sxs-warborn_v327680.r02	6308ba0f4023b2f7e1666284d6277e793de56ac6
+sxs-warborn_v327680.rar	78a12604bfee668223e0697fda8c90bcc22aacee
+sxs-warborn_v327680.sfv	80e4c9ad904fe7e157dc06cd7665e11ccc3247bf

@@ -1,0 +1,10 @@
+sxs-otoko_cross_pretty_boys_mahjong_solitaire.nfo	9a760d3f
+sxs-otoko_cross_pretty_boys_mahjong_solitaire.r00	a8d56ac1
+sxs-otoko_cross_pretty_boys_mahjong_solitaire.r01	f78f744b
+sxs-otoko_cross_pretty_boys_mahjong_solitaire.r02	29993556
+sxs-otoko_cross_pretty_boys_mahjong_solitaire.r03	9c664f2c
+sxs-otoko_cross_pretty_boys_mahjong_solitaire.r04	5360c9e3
+sxs-otoko_cross_pretty_boys_mahjong_solitaire.r05	f89125b4
+sxs-otoko_cross_pretty_boys_mahjong_solitaire.r06	c40ed4be
+sxs-otoko_cross_pretty_boys_mahjong_solitaire.rar	20d04470
+sxs-otoko_cross_pretty_boys_mahjong_solitaire.sfv	09ceb933

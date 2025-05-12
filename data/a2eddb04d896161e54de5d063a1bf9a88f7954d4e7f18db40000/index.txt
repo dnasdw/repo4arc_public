@@ -1,0 +1,7 @@
+sxs-katamari_damacy_reroll_v131072.nfo	-	4732	1	0	0	0
+sxs-katamari_damacy_reroll_v131072.r00	-	50000000	1	4732	0	1
+sxs-katamari_damacy_reroll_v131072.r01	-	50000000	1	50004732	0	49
+sxs-katamari_damacy_reroll_v131072.r02	-	50000000	1	100004732	0	97
+sxs-katamari_damacy_reroll_v131072.r03	-	35048647	1	150004732	0	145
+sxs-katamari_damacy_reroll_v131072.rar	-	50000000	1	185053379	0	179
+sxs-katamari_damacy_reroll_v131072.sfv	-	245	1	235053379	0	227

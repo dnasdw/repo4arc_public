@@ -1,0 +1,9 @@
+v-legend_of_grimrock.nfo	-	5746	1	0	0	0
+v-legend_of_grimrock.r00	-	100000000	1	5746	0	1
+v-legend_of_grimrock.r01	-	100000000	1	100005746	0	97
+v-legend_of_grimrock.r02	-	100000000	1	200005746	0	193
+v-legend_of_grimrock.r03	-	100000000	1	300005746	0	289
+v-legend_of_grimrock.r04	-	100000000	1	400005746	0	385
+v-legend_of_grimrock.r05	-	36614783	1	500005746	0	481
+v-legend_of_grimrock.rar	-	100000000	1	536620529	0	516
+v-legend_of_grimrock.sfv	-	245	1	98951424	1	95

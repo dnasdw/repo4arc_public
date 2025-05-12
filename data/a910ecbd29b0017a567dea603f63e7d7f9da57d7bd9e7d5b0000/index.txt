@@ -1,0 +1,3 @@
+sxs-mutant_football_la_power_pack_dlc.nfo	-	10112	1	0	0	0
+sxs-mutant_football_la_power_pack_dlc_0100c3e00acab005.rar	-	104098	1	10112	0	1
+sxs-mutant_football_la_power_pack_dlc_0100c3e00acab005.sfv	-	69	1	114210	0	2

@@ -1,0 +1,4 @@
+sxs-alien_escape.nfo	-	5042	1	0	0	0
+sxs-alien_escape.r00	-	18378256	1	5042	0	1
+sxs-alien_escape.rar	-	50000000	1	18383298	0	19
+sxs-alien_escape.sfv	-	62	1	68383298	0	67

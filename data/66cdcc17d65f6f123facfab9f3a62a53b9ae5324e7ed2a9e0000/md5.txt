@@ -1,0 +1,8 @@
+lfc-hygu.nfo	53d3a1de4b765fdb2dac2fada616c59c
+lfc-hygu.r00	2e3567984f9bfcf867c3627cc0f6b4f8
+lfc-hygu.r01	67eb072be4a45a22dc77cdcc850bdb8e
+lfc-hygu.r02	2baf0d3a853e769ece28c13e8a7e0542
+lfc-hygu.r03	ba7c5ed696ef271e1ce608febbe79819
+lfc-hygu.r04	54b7d0dbba6a0b5c7bb4bbcab4cf6063
+lfc-hygu.rar	ade8e4f5707b3a8cb664fae562873004
+lfc-hygu.sfv	5a3160b71393c034d73e957bfc835ea1

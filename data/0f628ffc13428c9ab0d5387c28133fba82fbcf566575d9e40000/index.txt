@@ -1,0 +1,6 @@
+sxs-splash_cars.nfo	-	5666	1	0	0	0
+sxs-splash_cars.r00	-	50000000	1	5666	0	1
+sxs-splash_cars.r01	-	50000000	1	50005666	0	49
+sxs-splash_cars.r02	-	46162391	1	100005666	0	97
+sxs-splash_cars.rar	-	50000000	1	146168057	0	142
+sxs-splash_cars.sfv	-	120	1	196168057	0	190

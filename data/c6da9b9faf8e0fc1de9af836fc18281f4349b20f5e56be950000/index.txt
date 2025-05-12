@@ -1,0 +1,3 @@
+sxs-piano_learn_and_play_dlc.nfo	-	6056	1	0	0	0
+sxs-piano_learn_and_play_dlc.rar	-	302544	1	6056	0	1
+sxs-piano_learn_and_play_dlc.sfv	-	43	1	308600	0	2

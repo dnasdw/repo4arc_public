@@ -1,0 +1,8 @@
+sxs-mechblaze_demo.nfo	26fd3b8e
+sxs-mechblaze_demo.r00	bab5874a
+sxs-mechblaze_demo.r01	c426d824
+sxs-mechblaze_demo.r02	8415decb
+sxs-mechblaze_demo.r03	0d58caad
+sxs-mechblaze_demo.r04	5d335a57
+sxs-mechblaze_demo.rar	bae835a1
+sxs-mechblaze_demo.sfv	027496f4

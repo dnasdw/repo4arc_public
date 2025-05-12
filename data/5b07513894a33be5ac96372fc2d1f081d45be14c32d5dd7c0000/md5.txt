@@ -1,0 +1,3 @@
+sxs-arcanoid_breakout_v65536.nfo	142f874b988b2da1d83162cd59fbf9e7
+sxs-arcanoid_breakout_v65536.rar	d61931dd0214740d48fa73d9b07f42b1
+sxs-arcanoid_breakout_v65536.sfv	a3bdcdb4dcce91d7eaee88a1aef6f522

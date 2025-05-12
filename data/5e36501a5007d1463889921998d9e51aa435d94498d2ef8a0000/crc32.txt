@@ -1,0 +1,6 @@
+brw-jtrs.nfo	510f67f2
+brw-jtrs.r00	b0943b5e
+brw-jtrs.r01	9e5d3cb9
+brw-jtrs.r02	1b5285f6
+brw-jtrs.rar	5b6c04b4
+brw-jtrs.sfv	21cb96ac

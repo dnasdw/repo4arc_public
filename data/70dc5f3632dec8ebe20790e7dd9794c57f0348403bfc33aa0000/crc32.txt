@@ -1,0 +1,14 @@
+lfc-esch.nfo	7555bca6
+lfc-esch.r00	9ce1d739
+lfc-esch.r01	c01299a1
+lfc-esch.r02	ceda0633
+lfc-esch.r03	7eceba81
+lfc-esch.r04	07d4d655
+lfc-esch.r05	04e3ca9b
+lfc-esch.r06	1860d25c
+lfc-esch.r07	eb57291e
+lfc-esch.r08	770fd2d7
+lfc-esch.r09	4fd8e4a0
+lfc-esch.r10	1d37482d
+lfc-esch.rar	3d57ffaa
+lfc-esch.sfv	f7c65bd7

@@ -1,0 +1,4 @@
+v-sam_and_max_save_the_world_v524288.nfo	db1f24ef701e3712990d36b5775ec620
+v-sam_and_max_save_the_world_v524288.r00	04e91e0a24f04d502af3545481e4c76b
+v-sam_and_max_save_the_world_v524288.rar	e6fc338579775704c1bdab80dfe4ac38
+v-sam_and_max_save_the_world_v524288.sfv	a7110a661a23d4ecc5b535ae42f728fb

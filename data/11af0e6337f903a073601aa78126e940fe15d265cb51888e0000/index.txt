@@ -1,0 +1,9 @@
+sxs-jewel_match_twilight_solitaire.nfo	-	5588	1	0	0	0
+sxs-jewel_match_twilight_solitaire.r00	-	50000000	1	5588	0	1
+sxs-jewel_match_twilight_solitaire.r01	-	50000000	1	50005588	0	49
+sxs-jewel_match_twilight_solitaire.r02	-	50000000	1	100005588	0	97
+sxs-jewel_match_twilight_solitaire.r03	-	50000000	1	150005588	0	145
+sxs-jewel_match_twilight_solitaire.r04	-	50000000	1	200005588	0	193
+sxs-jewel_match_twilight_solitaire.r05	-	5400693	1	250005588	0	241
+sxs-jewel_match_twilight_solitaire.rar	-	50000000	1	255406281	0	247
+sxs-jewel_match_twilight_solitaire.sfv	-	343	1	305406281	0	295

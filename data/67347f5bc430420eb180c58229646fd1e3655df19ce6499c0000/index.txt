@@ -1,0 +1,9 @@
+v-metal_tales_overkill_v65536.nfo	-	7540	1	0	0	0
+v-metal_tales_overkill_v65536.r00	-	100000000	1	7540	0	1
+v-metal_tales_overkill_v65536.r01	-	100000000	1	100007540	0	97
+v-metal_tales_overkill_v65536.r02	-	100000000	1	200007540	0	193
+v-metal_tales_overkill_v65536.r03	-	100000000	1	300007540	0	289
+v-metal_tales_overkill_v65536.r04	-	100000000	1	400007540	0	385
+v-metal_tales_overkill_v65536.r05	-	88985619	1	500007540	0	481
+v-metal_tales_overkill_v65536.rar	-	100000000	1	51236883	1	49
+v-metal_tales_overkill_v65536.sfv	-	308	1	151236883	1	145

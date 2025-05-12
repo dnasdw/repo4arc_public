@@ -1,0 +1,4 @@
+v-teslagrad_remastered_v65536.nfo	96ca2913
+v-teslagrad_remastered_v65536.r00	5927b316
+v-teslagrad_remastered_v65536.rar	3251b1df
+v-teslagrad_remastered_v65536.sfv	3dc0adce

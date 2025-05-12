@@ -1,0 +1,8 @@
+sxs-jd20_v65536.nfo	72a418dd
+sxs-jd20_v65536.r00	7075a9c4
+sxs-jd20_v65536.r01	08c42560
+sxs-jd20_v65536.r02	b93b40bf
+sxs-jd20_v65536.r03	088e8b9d
+sxs-jd20_v65536.r04	a0dfb208
+sxs-jd20_v65536.rar	47256024
+sxs-jd20_v65536.sfv	fc53e456

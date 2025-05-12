@@ -1,0 +1,5 @@
+v-dusk_v65536.nfo	e6729499
+v-dusk_v65536.r00	524f21b1
+v-dusk_v65536.r01	1dfb8008
+v-dusk_v65536.rar	d1dbcb9a
+v-dusk_v65536.sfv	e70d3baa

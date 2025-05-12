@@ -1,0 +1,9 @@
+v-cyber_protocol.nfo	746194c3
+v-cyber_protocol.r00	d4d6a37e
+v-cyber_protocol.r01	e8befac5
+v-cyber_protocol.r02	b7946f82
+v-cyber_protocol.r03	57bb67f2
+v-cyber_protocol.r04	6d8555e0
+v-cyber_protocol.r05	b12f4d98
+v-cyber_protocol.rar	8515db8c
+v-cyber_protocol.sfv	63fee64b

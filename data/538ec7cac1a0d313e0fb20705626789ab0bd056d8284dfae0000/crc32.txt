@@ -1,0 +1,5 @@
+sxs-game_dev_story_v262144.nfo	b1e4c01c
+sxs-game_dev_story_v262144.r00	a89f38a7
+sxs-game_dev_story_v262144.r01	2deed14b
+sxs-game_dev_story_v262144.rar	f4b29f3b
+sxs-game_dev_story_v262144.sfv	442458f8

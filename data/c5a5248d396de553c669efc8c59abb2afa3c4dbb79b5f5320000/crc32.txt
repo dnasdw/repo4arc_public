@@ -1,0 +1,5 @@
+sxs-smd_v458752.nfo	14a292aa
+sxs-smd_v458752.r00	94cd1bd1
+sxs-smd_v458752.r01	e2156cb7
+sxs-smd_v458752.rar	ce9c6282
+sxs-smd_v458752.sfv	fe5eb271

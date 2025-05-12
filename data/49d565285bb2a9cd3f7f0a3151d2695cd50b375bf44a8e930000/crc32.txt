@@ -1,0 +1,13 @@
+sxs-the_red_exile_survival_horror.nfo	f33500bc
+sxs-the_red_exile_survival_horror.r00	4599e53c
+sxs-the_red_exile_survival_horror.r01	4c413e5a
+sxs-the_red_exile_survival_horror.r02	f35735ea
+sxs-the_red_exile_survival_horror.r03	cad3aee6
+sxs-the_red_exile_survival_horror.r04	9a8978e7
+sxs-the_red_exile_survival_horror.r05	cb67d7da
+sxs-the_red_exile_survival_horror.r06	05e7bd27
+sxs-the_red_exile_survival_horror.r07	bb503783
+sxs-the_red_exile_survival_horror.r08	94e325cd
+sxs-the_red_exile_survival_horror.r09	dfe23629
+sxs-the_red_exile_survival_horror.rar	3461d7d6
+sxs-the_red_exile_survival_horror.sfv	6e09887a

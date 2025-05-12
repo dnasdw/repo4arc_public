@@ -1,0 +1,7 @@
+wmt-n-otttd.nfo	f134196c
+wmt-n-otttd.r00	3a2168b1
+wmt-n-otttd.r01	a2f05996
+wmt-n-otttd.r02	d581f823
+wmt-n-otttd.r03	f4f474f6
+wmt-n-otttd.rar	0d8c64c1
+wmt-n-otttd.sfv	f5bc5540

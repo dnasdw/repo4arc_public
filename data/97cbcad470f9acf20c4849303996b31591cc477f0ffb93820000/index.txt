@@ -1,0 +1,4 @@
+sxs-cyber_fight_v65536.nfo	-	5042	1	0	0	0
+sxs-cyber_fight_v65536.r00	-	31763974	1	5042	0	1
+sxs-cyber_fight_v65536.rar	-	50000000	1	31769016	0	32
+sxs-cyber_fight_v65536.sfv	-	74	1	81769016	0	80

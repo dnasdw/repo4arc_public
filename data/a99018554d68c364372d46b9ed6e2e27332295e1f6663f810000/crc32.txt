@@ -1,0 +1,8 @@
+sxs-radical_rabbit_stew.nfo	e8a13e8c
+sxs-radical_rabbit_stew.r00	ed65ea08
+sxs-radical_rabbit_stew.r01	a02fb359
+sxs-radical_rabbit_stew.r02	a0a7ea76
+sxs-radical_rabbit_stew.r03	f4b696e2
+sxs-radical_rabbit_stew.r04	d9c21f65
+sxs-radical_rabbit_stew.rar	f27a2614
+sxs-radical_rabbit_stew.sfv	5942c02e

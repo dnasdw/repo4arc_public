@@ -1,0 +1,6 @@
+v-dolphin_spirit_ocean_mission_v65536.nfo	-	5746	1	0	0	0
+v-dolphin_spirit_ocean_mission_v65536.r00	-	100000000	1	5746	0	1
+v-dolphin_spirit_ocean_mission_v65536.r01	-	100000000	1	100005746	0	97
+v-dolphin_spirit_ocean_mission_v65536.r02	-	72324330	1	200005746	0	193
+v-dolphin_spirit_ocean_mission_v65536.rar	-	100000000	1	272330076	0	262
+v-dolphin_spirit_ocean_mission_v65536.sfv	-	208	1	372330076	0	358

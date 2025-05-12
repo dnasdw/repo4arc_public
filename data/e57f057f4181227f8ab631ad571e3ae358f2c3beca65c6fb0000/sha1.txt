@@ -1,0 +1,6 @@
+sxs-golfinite.nfo	a9318df77b6448f430b049ae14f324f79bf1f1c9
+sxs-golfinite.r00	00f4d4ad71a0a4e0d3d2482482b5202c0d25c804
+sxs-golfinite.r01	8b44b64f6532dc459f5e4a4e9cb68be3000ebdab
+sxs-golfinite.r02	302e71e4d44c267ebb4b8c2277fa433059877288
+sxs-golfinite.rar	6147341da373a99a32f2e348dbe0cd6b823ae796
+sxs-golfinite.sfv	71ae3978290d229be8de1d6333ccaf592cd5c91c

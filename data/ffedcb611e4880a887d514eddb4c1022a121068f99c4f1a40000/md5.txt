@@ -1,0 +1,12 @@
+lfc-hebl.nfo	f4e91cf6109dab6f57da3d9e48d145ad
+lfc-hebl.r00	a581b975b13cf310af33f42e6db94552
+lfc-hebl.r01	427ef296d93c5d65ecdf68a5efe3ed34
+lfc-hebl.r02	845445a4afe79b3375bab055b7d68602
+lfc-hebl.r03	d4961f62d694e2692fd50981678bca0f
+lfc-hebl.r04	c0161e87969df79ea86c369aaf64726b
+lfc-hebl.r05	3c94c1841160f5f4c31bb3700e438505
+lfc-hebl.r06	1c3e428d1f724ce83a56c94987699b6f
+lfc-hebl.r07	22f6df335ae36088ac6fb19f7f2cd76d
+lfc-hebl.r08	9b535f1a77f0896968eedfd1c3a75953
+lfc-hebl.rar	07f0098d5eccd4d3ca7e33cb4dfcd354
+lfc-hebl.sfv	bc994382accc2de4946caca63f9b8c15

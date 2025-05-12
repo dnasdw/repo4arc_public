@@ -1,0 +1,3 @@
+sxs-disjunction_v65536.nfo	26f1abd5ed3f10df53c0852400b33ea6
+sxs-disjunction_v65536.rar	2b33ebd23129a1cd238e2e8bb0629103
+sxs-disjunction_v65536.sfv	57e4fe6dfc5089ccdb8275a4ff3d8b11

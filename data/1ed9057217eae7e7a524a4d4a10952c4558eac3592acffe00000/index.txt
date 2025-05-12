@@ -1,0 +1,3 @@
+sxs-shift_quantum_v65536.nfo	-	5042	1	0	0	0
+sxs-shift_quantum_v65536.rar	-	66159653	1	5042	0	1
+sxs-shift_quantum_v65536.sfv	-	39	1	66164695	0	65

@@ -1,0 +1,5 @@
+sxs-n64_v65536.nfo	c931456b
+sxs-n64_v65536.r00	3a061f26
+sxs-n64_v65536.r01	0504a6db
+sxs-n64_v65536.rar	19186066
+sxs-n64_v65536.sfv	c8cd16c8

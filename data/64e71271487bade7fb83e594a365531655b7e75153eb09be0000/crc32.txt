@@ -1,0 +1,15 @@
+v-tactics_v_obsidian_brigade_v1048576.nfo	527ce1a0
+v-tactics_v_obsidian_brigade_v1048576.r00	7d4df5cf
+v-tactics_v_obsidian_brigade_v1048576.r01	cfba59ce
+v-tactics_v_obsidian_brigade_v1048576.r02	8e0e48d8
+v-tactics_v_obsidian_brigade_v1048576.r03	b1fddc5c
+v-tactics_v_obsidian_brigade_v1048576.r04	72c1f900
+v-tactics_v_obsidian_brigade_v1048576.r05	05ac28e6
+v-tactics_v_obsidian_brigade_v1048576.r06	22808c50
+v-tactics_v_obsidian_brigade_v1048576.r07	275b94a0
+v-tactics_v_obsidian_brigade_v1048576.r08	ee4046b0
+v-tactics_v_obsidian_brigade_v1048576.r09	7258e26b
+v-tactics_v_obsidian_brigade_v1048576.r10	ebd4906d
+v-tactics_v_obsidian_brigade_v1048576.r11	7a79cca5
+v-tactics_v_obsidian_brigade_v1048576.rar	2dffce0b
+v-tactics_v_obsidian_brigade_v1048576.sfv	0f08e47a

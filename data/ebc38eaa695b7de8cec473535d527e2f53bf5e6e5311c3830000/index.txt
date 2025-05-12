@@ -1,0 +1,10 @@
+sxs-advent_calendar_v196608.nfo	-	6134	1	0	0	0
+sxs-advent_calendar_v196608.r00	-	50000000	1	6134	0	1
+sxs-advent_calendar_v196608.r01	-	50000000	1	50006134	0	49
+sxs-advent_calendar_v196608.r02	-	50000000	1	100006134	0	97
+sxs-advent_calendar_v196608.r03	-	50000000	1	150006134	0	145
+sxs-advent_calendar_v196608.r04	-	50000000	1	200006134	0	193
+sxs-advent_calendar_v196608.r05	-	50000000	1	250006134	0	241
+sxs-advent_calendar_v196608.r06	-	39927090	1	300006134	0	289
+sxs-advent_calendar_v196608.rar	-	50000000	1	339933224	0	328
+sxs-advent_calendar_v196608.sfv	-	336	1	389933224	0	376

@@ -1,0 +1,4 @@
+v-far_lone_sails_v65536.nfo	54b03ebb
+v-far_lone_sails_v65536.r00	3d268f94
+v-far_lone_sails_v65536.rar	e5753ec2
+v-far_lone_sails_v65536.sfv	d2f595b3

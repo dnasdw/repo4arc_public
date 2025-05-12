@@ -1,0 +1,12 @@
+sxs-rain_on_your_parade_v262144.nfo	90c22e2b
+sxs-rain_on_your_parade_v262144.r00	bb9d0220
+sxs-rain_on_your_parade_v262144.r01	775f30e3
+sxs-rain_on_your_parade_v262144.r02	c155205b
+sxs-rain_on_your_parade_v262144.r03	b03718a6
+sxs-rain_on_your_parade_v262144.r04	58d3b4de
+sxs-rain_on_your_parade_v262144.r05	a6414d71
+sxs-rain_on_your_parade_v262144.r06	ef3dd8b9
+sxs-rain_on_your_parade_v262144.r07	38634d50
+sxs-rain_on_your_parade_v262144.r08	9747cd0d
+sxs-rain_on_your_parade_v262144.rar	9d62de8c
+sxs-rain_on_your_parade_v262144.sfv	1b38d0f9

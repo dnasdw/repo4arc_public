@@ -1,0 +1,4 @@
+sxs-idle_zoo_park.nfo	-	4496	1	0	0	0
+sxs-idle_zoo_park.r00	-	55853361	1	4496	0	1
+sxs-idle_zoo_park.rar	-	100000000	1	55857857	0	55
+sxs-idle_zoo_park.sfv	-	64	1	155857857	0	151

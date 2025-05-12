@@ -1,0 +1,4 @@
+sxs-10_second_run_returns_v196608.nfo	-	3954	1	0	0	0
+sxs-10_second_run_returns_v196608.r00	-	40700290	1	3954	0	1
+sxs-10_second_run_returns_v196608.rar	-	50000000	1	40704244	0	40
+sxs-10_second_run_returns_v196608.sfv	-	96	1	90704244	0	88

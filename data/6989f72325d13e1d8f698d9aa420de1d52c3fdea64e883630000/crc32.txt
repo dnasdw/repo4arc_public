@@ -1,0 +1,14 @@
+sxs-crown_trick_v262144.nfo	2df77072
+sxs-crown_trick_v262144.r00	a0265dee
+sxs-crown_trick_v262144.r01	df062963
+sxs-crown_trick_v262144.r02	80c9a460
+sxs-crown_trick_v262144.r03	2bc3c31d
+sxs-crown_trick_v262144.r04	ccfb21fd
+sxs-crown_trick_v262144.r05	589a0c88
+sxs-crown_trick_v262144.r06	32b7b181
+sxs-crown_trick_v262144.r07	f140049a
+sxs-crown_trick_v262144.r08	c7a48cd5
+sxs-crown_trick_v262144.r09	2a0c1f53
+sxs-crown_trick_v262144.r10	8fb53902
+sxs-crown_trick_v262144.rar	e119db5c
+sxs-crown_trick_v262144.sfv	0146ed02

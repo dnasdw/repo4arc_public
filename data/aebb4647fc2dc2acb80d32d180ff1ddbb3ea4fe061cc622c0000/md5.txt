@@ -1,0 +1,11 @@
+l-spidersolitaire.nfo	8f225f322f5459058d4841af5c2b17c7
+l-spidersolitaire.r00	d70df2a47ad3ee96b25f6c0e260df4c0
+l-spidersolitaire.r01	d85cffd292f648c16b7c4691e59c49bb
+l-spidersolitaire.r02	0a7ccbff188951221f9c0a5f3d503c64
+l-spidersolitaire.r03	f23f203f1248c9b14eccfd23af57432c
+l-spidersolitaire.r04	914539a195b4710088339aaf2a9e3272
+l-spidersolitaire.r05	b6af42b79ad26a40adaa2cc6c7e97dba
+l-spidersolitaire.r06	a570c7290dc971de6ba00c8742e1e2ef
+l-spidersolitaire.r07	b8176b0bdd7d59688ab44e9ff6e585a5
+l-spidersolitaire.rar	bdf13599a3e3d12f4f542af9f9c3ad57
+l-spidersolitaire.sfv	bc46b7e7dd189abaaf98afe5d0205459

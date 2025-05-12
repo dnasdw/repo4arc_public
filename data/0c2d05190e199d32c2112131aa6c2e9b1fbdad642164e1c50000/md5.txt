@@ -1,0 +1,4 @@
+sxs-tunic_v196608.nfo	5b45366ce64d01cfc987541b7ac19bac
+sxs-tunic_v196608.r00	c9baba05af715f7a802b7822f83a3b40
+sxs-tunic_v196608.rar	b7de8df26d4f9286a57bd49227e89b54
+sxs-tunic_v196608.sfv	a4883053d5ff65f224ec86ba2d3938ba

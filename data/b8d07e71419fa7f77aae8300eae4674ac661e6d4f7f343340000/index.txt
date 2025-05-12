@@ -1,0 +1,3 @@
+sxs-dnf_duel_whos_next_dlc_3_battle_mage_dlc.nfo	-	9418	1	0	0	0
+sxs-dnf_duel_whos_next_dlc_3_battle_mage_dlc.rar	-	124411	1	9418	0	1
+sxs-dnf_duel_whos_next_dlc_3_battle_mage_dlc.sfv	-	59	1	133829	0	2

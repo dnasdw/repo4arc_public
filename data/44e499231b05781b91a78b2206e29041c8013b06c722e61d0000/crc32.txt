@@ -1,0 +1,11 @@
+sxs-georifters_v196608.nfo	f68c5fcb
+sxs-georifters_v196608.r00	d2c200fa
+sxs-georifters_v196608.r01	657513d1
+sxs-georifters_v196608.r02	342fd24f
+sxs-georifters_v196608.r03	2d679a6b
+sxs-georifters_v196608.r04	fe601152
+sxs-georifters_v196608.r05	b2ad1205
+sxs-georifters_v196608.r06	1c0c2b7c
+sxs-georifters_v196608.r07	d9668321
+sxs-georifters_v196608.rar	f5d68734
+sxs-georifters_v196608.sfv	9aff8d2e

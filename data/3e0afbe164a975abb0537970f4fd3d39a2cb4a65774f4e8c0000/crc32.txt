@@ -1,0 +1,14 @@
+hr-a95fa.nfo	150724af
+hr-a95fa.r00	6cd46fcd
+hr-a95fa.r01	5fc28da1
+hr-a95fa.r02	4ed773db
+hr-a95fa.r03	85f9c8d9
+hr-a95fa.r04	579ccd0e
+hr-a95fa.r05	73d44e07
+hr-a95fa.r06	f5299b18
+hr-a95fa.r07	b99995f2
+hr-a95fa.r08	845aaea9
+hr-a95fa.rar	94364a3b
+hr-a95fa.sfv	e22b73e6
+Proof	00000000
+Proof/hr-a95fa.jpg	e1a8b37d

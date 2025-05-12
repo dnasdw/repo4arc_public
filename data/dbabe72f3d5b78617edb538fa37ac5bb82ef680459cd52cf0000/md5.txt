@@ -1,0 +1,3 @@
+sxs-get_10_quest_v65536.nfo	0f8c987a4c1e83bb55fb99e99d5186fb
+sxs-get_10_quest_v65536.rar	d5eeaad39145ca52bcb0cdc3fba29340
+sxs-get_10_quest_v65536.sfv	4a9824a6df8b40dab061e04c0b74d9f0

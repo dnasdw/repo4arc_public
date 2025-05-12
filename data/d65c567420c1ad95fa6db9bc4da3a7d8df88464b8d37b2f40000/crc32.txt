@@ -1,0 +1,7 @@
+sxs-picross_s2_v393216.nfo	bbd54a15
+sxs-picross_s2_v393216.r00	51399861
+sxs-picross_s2_v393216.r01	b9e53aea
+sxs-picross_s2_v393216.r02	ad9086be
+sxs-picross_s2_v393216.r03	33c34583
+sxs-picross_s2_v393216.rar	31670c3a
+sxs-picross_s2_v393216.sfv	64de210d

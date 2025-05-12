@@ -1,0 +1,5 @@
+sxs-coloring_book_v65536.nfo	8c7489c0b283b72fcb849988823d190c
+sxs-coloring_book_v65536.r00	9af930259a667137e48648f6857a3683
+sxs-coloring_book_v65536.r01	03a627ce105b2443922e74e5952063b6
+sxs-coloring_book_v65536.rar	25620fb96f2277a285974fb7b2ed8ba4
+sxs-coloring_book_v65536.sfv	c0bcbe2465517a460fa3d3daa63cdb20

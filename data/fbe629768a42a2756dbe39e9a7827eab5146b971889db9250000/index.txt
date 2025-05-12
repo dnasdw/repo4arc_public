@@ -1,0 +1,7 @@
+bbb-n-ap63a.nfo	-	5517	1	0	0	0
+bbb-n-ap63a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ap63a.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ap63a.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-ap63a.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-ap63a.part5.rar	-	238633829	1	462251264	1	442
+bbb-n-ap63a.sfv	-	160	1	163136357	2	156

@@ -1,0 +1,4 @@
+sxs-arcade_archives_salamander.nfo	-	4731	1	0	0	0
+sxs-arcade_archives_salamander.r00	-	29784389	1	4731	0	1
+sxs-arcade_archives_salamander.rar	-	50000000	1	29789120	0	30
+sxs-arcade_archives_salamander.sfv	-	90	1	79789120	0	78

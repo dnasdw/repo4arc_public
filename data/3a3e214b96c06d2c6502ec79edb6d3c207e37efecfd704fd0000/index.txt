@@ -1,0 +1,7 @@
+sxs-haunted_house_v196608.nfo	-	7304	1	0	0	0
+sxs-haunted_house_v196608.r00	-	100000000	1	7304	0	1
+sxs-haunted_house_v196608.r01	-	100000000	1	100007304	0	97
+sxs-haunted_house_v196608.r02	-	100000000	1	200007304	0	193
+sxs-haunted_house_v196608.r03	-	69835216	1	300007304	0	289
+sxs-haunted_house_v196608.rar	-	100000000	1	369842520	0	356
+sxs-haunted_house_v196608.sfv	-	200	1	469842520	0	452

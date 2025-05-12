@@ -1,0 +1,5 @@
+v-resident_evil_5_v196608.nfo	-	4420	1	0	0	0
+v-resident_evil_5_v196608.r00	-	50000000	1	4420	0	1
+v-resident_evil_5_v196608.r01	-	1728416	1	50004420	0	49
+v-resident_evil_5_v196608.rar	-	50000000	1	51732836	0	51
+v-resident_evil_5_v196608.sfv	-	120	1	101732836	0	99

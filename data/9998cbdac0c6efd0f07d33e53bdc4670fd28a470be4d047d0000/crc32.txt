@@ -1,0 +1,12 @@
+sxs-battlesloths.nfo	6725feff
+sxs-battlesloths.r00	9fb2467e
+sxs-battlesloths.r01	93f942a0
+sxs-battlesloths.r02	b51ca772
+sxs-battlesloths.r03	6a36985c
+sxs-battlesloths.r04	8502664d
+sxs-battlesloths.r05	1dba80f7
+sxs-battlesloths.r06	873bbe6f
+sxs-battlesloths.r07	a187a462
+sxs-battlesloths.r08	7e1d8abd
+sxs-battlesloths.rar	80be9156
+sxs-battlesloths.sfv	da2edf15

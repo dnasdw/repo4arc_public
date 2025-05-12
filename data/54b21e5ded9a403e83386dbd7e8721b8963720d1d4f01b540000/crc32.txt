@@ -1,0 +1,7 @@
+v-steamworld_build_v524288.nfo	e9869360
+v-steamworld_build_v524288.r00	0071a282
+v-steamworld_build_v524288.r01	e7aa581e
+v-steamworld_build_v524288.r02	74896c70
+v-steamworld_build_v524288.r03	bba087a9
+v-steamworld_build_v524288.rar	3de4f212
+v-steamworld_build_v524288.sfv	c88488d6

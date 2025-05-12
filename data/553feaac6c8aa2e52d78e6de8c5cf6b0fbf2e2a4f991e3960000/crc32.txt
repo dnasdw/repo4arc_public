@@ -1,0 +1,15 @@
+sxs-samshom_hibiki_takane_dlc.nfo	790ee649
+sxs-samshom_hibiki_takane_dlc.r00	e85cbd52
+sxs-samshom_hibiki_takane_dlc.r01	922921a4
+sxs-samshom_hibiki_takane_dlc.r02	513bfa01
+sxs-samshom_hibiki_takane_dlc.r03	ceaef806
+sxs-samshom_hibiki_takane_dlc.r04	ef9dbabe
+sxs-samshom_hibiki_takane_dlc.r05	91999d49
+sxs-samshom_hibiki_takane_dlc.r06	8e580aad
+sxs-samshom_hibiki_takane_dlc.r07	1041f3b7
+sxs-samshom_hibiki_takane_dlc.r08	86733efd
+sxs-samshom_hibiki_takane_dlc.r09	46d5bbc7
+sxs-samshom_hibiki_takane_dlc.r10	1a8819b9
+sxs-samshom_hibiki_takane_dlc.r11	a5b08f67
+sxs-samshom_hibiki_takane_dlc.rar	42dfec0e
+sxs-samshom_hibiki_takane_dlc.sfv	9935e9d7

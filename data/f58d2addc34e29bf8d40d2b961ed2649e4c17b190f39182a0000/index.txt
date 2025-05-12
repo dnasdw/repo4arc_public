@@ -1,0 +1,6 @@
+sxs-dull_grey.nfo	-	5276	1	0	0	0
+sxs-dull_grey.r00	-	50000000	1	5276	0	1
+sxs-dull_grey.r01	-	50000000	1	50005276	0	49
+sxs-dull_grey.r02	-	22692073	1	100005276	0	97
+sxs-dull_grey.rar	-	50000000	1	122697349	0	119
+sxs-dull_grey.sfv	-	112	1	172697349	0	167

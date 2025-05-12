@@ -1,0 +1,5 @@
+sxs-remnant_from_the_ashes_japanese_language_pack_dlc.nfo	2d1ca56d
+sxs-remnant_from_the_ashes_japanese_language_pack_dlc.r00	e51dd0af
+sxs-remnant_from_the_ashes_japanese_language_pack_dlc.r01	7e45c8d0
+sxs-remnant_from_the_ashes_japanese_language_pack_dlc.rar	70be3b21
+sxs-remnant_from_the_ashes_japanese_language_pack_dlc.sfv	59ef5fba

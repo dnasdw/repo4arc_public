@@ -1,0 +1,3 @@
+sxs-dead_cells_dlc_internal.nfo	7dce2d6d64d4aa869e0352ba71d212ddb44f9263
+sxs-dead_cells_dlc_internal.rar	4a353b09ec9b91757ced3ad5a5e72841a31e21ce
+sxs-dead_cells_dlc_internal.sfv	f9a6103f7d02c0592b05c5304339186e7df9c96a

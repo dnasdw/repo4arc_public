@@ -1,0 +1,12 @@
+bbb-n-plgpkiosk.nfo	745fb09b558c191863b076c8b163367230a17027
+bbb-n-plgpkiosk.part01.rar	a981daef13377462b9af4e191ae8174e5b445eca
+bbb-n-plgpkiosk.part02.rar	c1a65ec447595450818217451c8abefd0206bb47
+bbb-n-plgpkiosk.part03.rar	6251f18c77b158531f034ea1d1800658fd474a1c
+bbb-n-plgpkiosk.part04.rar	fd81d52bcaceff43bbfde8c00313449537d4da6d
+bbb-n-plgpkiosk.part05.rar	29c8fb189bb25e1368a924d5d486f6c8f919e4c0
+bbb-n-plgpkiosk.part06.rar	20c642163f0faf589386b274cc790a611217495f
+bbb-n-plgpkiosk.part07.rar	424484a0bc2dbcc593f87860f569f28719a32dfb
+bbb-n-plgpkiosk.part08.rar	f2b2afd9b220601083e487de3babde8ba1edb274
+bbb-n-plgpkiosk.part09.rar	efdefa0ddfb6e35e6ba2a2f6e82990daf0ccf319
+bbb-n-plgpkiosk.part10.rar	2994544d47f85490eaf90a743a07e78e21e46e83
+bbb-n-plgpkiosk.sfv	7dafaf2e339764046985e22cf9fa64e321b78153

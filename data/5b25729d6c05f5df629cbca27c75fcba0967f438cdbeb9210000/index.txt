@@ -1,0 +1,5 @@
+v-super_crazy_rhythm_castle_v65536.nfo	-	8320	1	0	0	0
+v-super_crazy_rhythm_castle_v65536.r00	-	100000000	1	8320	0	1
+v-super_crazy_rhythm_castle_v65536.r01	-	57241386	1	100008320	0	97
+v-super_crazy_rhythm_castle_v65536.rar	-	100000000	1	157249706	0	152
+v-super_crazy_rhythm_castle_v65536.sfv	-	147	1	257249706	0	248

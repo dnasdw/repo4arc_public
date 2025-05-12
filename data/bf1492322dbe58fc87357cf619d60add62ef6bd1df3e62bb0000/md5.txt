@@ -1,0 +1,5 @@
+sxs-super_adventure_hand.nfo	91b027283f17c877aa0b56124e35026e
+sxs-super_adventure_hand.r00	1fb9eb2df31803900847b1d595312c10
+sxs-super_adventure_hand.r01	b0ee68b997dc0541b95dc37e91a39c37
+sxs-super_adventure_hand.rar	d928b6103b552a7ff2ffbb949bd41a7f
+sxs-super_adventure_hand.sfv	fd13b1b7c7c379040d440dbc1c11afc1

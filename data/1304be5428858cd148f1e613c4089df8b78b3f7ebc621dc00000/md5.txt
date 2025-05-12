@@ -1,0 +1,7 @@
+sxs-zotrix_solar_division.nfo	6ac3ed951c319f2c7c390d459faa2230
+sxs-zotrix_solar_division.r00	37bdb8993dd39f75593b1877119c73f1
+sxs-zotrix_solar_division.r01	c938e52e519e9171a33e39053f697f75
+sxs-zotrix_solar_division.r02	af2db74634682dc1df545ffd8dddec9e
+sxs-zotrix_solar_division.r03	47b4f62bf14dfd432c8c118060b68805
+sxs-zotrix_solar_division.rar	91dda009994c3961e7620c34d24ca854
+sxs-zotrix_solar_division.sfv	187bfa629506870aee86e3af93d78326

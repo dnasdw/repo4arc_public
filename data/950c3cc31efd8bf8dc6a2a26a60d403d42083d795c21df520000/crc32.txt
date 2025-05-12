@@ -1,0 +1,7 @@
+brw-pgtl.nfo	61f3315a
+brw-pgtl.r00	fdcf583a
+brw-pgtl.r01	b2f30e1f
+brw-pgtl.r02	cb908b06
+brw-pgtl.r03	5b3718cf
+brw-pgtl.rar	433443db
+brw-pgtl.sfv	2274012d

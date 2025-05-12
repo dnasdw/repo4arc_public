@@ -1,0 +1,5 @@
+sxs-super_putty_squad_v131072.nfo	303aec477e8080486d27e7975d6f8ff8
+sxs-super_putty_squad_v131072.r00	90305c087ca1099c9f25024c4d305c98
+sxs-super_putty_squad_v131072.r01	e621747408273c0d6080be29b62c2672
+sxs-super_putty_squad_v131072.rar	b4550e139d944a2db98986dcec969742
+sxs-super_putty_squad_v131072.sfv	d0e97c34321da36e0dfbf0d2d2bca2cb

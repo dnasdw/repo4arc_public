@@ -1,0 +1,15 @@
+lfc-edmd.nfo	a82f003a
+lfc-edmd.r00	853a40d3
+lfc-edmd.r01	504eab95
+lfc-edmd.r02	0c4b95ee
+lfc-edmd.r03	d59f45ec
+lfc-edmd.r04	ebd535f5
+lfc-edmd.r05	fee93b62
+lfc-edmd.r06	7505eb8b
+lfc-edmd.r07	4bf04fef
+lfc-edmd.r08	87b75ec8
+lfc-edmd.r09	eac77b9a
+lfc-edmd.r10	0905ae28
+lfc-edmd.r11	a222a3a5
+lfc-edmd.rar	6cd7df99
+lfc-edmd.sfv	3bfb6ba1

@@ -1,0 +1,3 @@
+v-atarifc_v65536.nfo	f2ae3d3ffdfcf9602fe390567cff8195
+v-atarifc_v65536.rar	72d7eb61a99c8842d8254b78821cda3a
+v-atarifc_v65536.sfv	723a97cf7eae29b4f50890a32b62c383

@@ -1,0 +1,10 @@
+sxs-pool_together_2.nfo	6561fe8e
+sxs-pool_together_2.r00	e36a882b
+sxs-pool_together_2.r01	6e97259f
+sxs-pool_together_2.r02	3b695b4a
+sxs-pool_together_2.r03	f55b6cc7
+sxs-pool_together_2.r04	c4361532
+sxs-pool_together_2.r05	0ad6775b
+sxs-pool_together_2.r06	e42c5605
+sxs-pool_together_2.rar	2872f88c
+sxs-pool_together_2.sfv	f3c537d0

@@ -1,0 +1,7 @@
+v-megaquarium_v131072.nfo	c66a5105
+v-megaquarium_v131072.r00	75edde24
+v-megaquarium_v131072.r01	cc7db010
+v-megaquarium_v131072.r02	3f7a7207
+v-megaquarium_v131072.r03	d91cfda3
+v-megaquarium_v131072.rar	0b5923e0
+v-megaquarium_v131072.sfv	9db2b843

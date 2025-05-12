@@ -1,0 +1,14 @@
+lfc-theincadvofsuperpandarepack.nfo	b3b0eed6
+lfc-theincadvofsuperpandarepack.r00	72c157c4
+lfc-theincadvofsuperpandarepack.r01	3bdb9d8d
+lfc-theincadvofsuperpandarepack.r02	92921fe8
+lfc-theincadvofsuperpandarepack.r03	f7ed0c5f
+lfc-theincadvofsuperpandarepack.r04	43774802
+lfc-theincadvofsuperpandarepack.r05	e03e1fbc
+lfc-theincadvofsuperpandarepack.r06	1f1d05c7
+lfc-theincadvofsuperpandarepack.r07	78de8034
+lfc-theincadvofsuperpandarepack.r08	26cc0b54
+lfc-theincadvofsuperpandarepack.r09	bfbd40cc
+lfc-theincadvofsuperpandarepack.r10	60ad6e62
+lfc-theincadvofsuperpandarepack.rar	11c61bc9
+lfc-theincadvofsuperpandarepack.sfv	ca2fb1d1

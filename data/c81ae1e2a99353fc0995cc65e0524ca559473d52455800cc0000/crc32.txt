@@ -1,0 +1,11 @@
+sxs-fifa_20_brazil_dlc.nfo	798464aa
+sxs-fifa_20_brazil_dlc.r00	11696786
+sxs-fifa_20_brazil_dlc.r01	ac43ae09
+sxs-fifa_20_brazil_dlc.r02	2500fe51
+sxs-fifa_20_brazil_dlc.r03	9c3b1980
+sxs-fifa_20_brazil_dlc.r04	8547672f
+sxs-fifa_20_brazil_dlc.r05	9ad1cfb6
+sxs-fifa_20_brazil_dlc.r06	88bbbbf8
+sxs-fifa_20_brazil_dlc.r07	7beee892
+sxs-fifa_20_brazil_dlc.rar	90961ecf
+sxs-fifa_20_brazil_dlc.sfv	133b2f4c

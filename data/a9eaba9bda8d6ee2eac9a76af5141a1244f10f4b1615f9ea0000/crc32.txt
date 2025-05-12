@@ -1,0 +1,4 @@
+lfc-lyricaupd.nfo	55ced633
+lfc-lyricaupd.r00	72dfc4e6
+lfc-lyricaupd.rar	372b5019
+lfc-lyricaupd.sfv	6454c972

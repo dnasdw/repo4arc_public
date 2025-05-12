@@ -1,0 +1,6 @@
+v-astral_ascent_v131072.nfo	79ff420bed3fac1f586ae00e11a82745
+v-astral_ascent_v131072.r00	37ad0fa41e14735a5f1d17e5532355ee
+v-astral_ascent_v131072.r01	10bf78a44f30df90cd2975904ad34aa9
+v-astral_ascent_v131072.r02	7930f358356ad38cec1faed1a5523819
+v-astral_ascent_v131072.rar	0396615b8ab66e32abdebe1bf8722d04
+v-astral_ascent_v131072.sfv	7df0b961e4ff5c0092978c3338d21bee

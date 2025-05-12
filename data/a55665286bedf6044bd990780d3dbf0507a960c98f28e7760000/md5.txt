@@ -1,0 +1,4 @@
+v-picross_s5_v196608.nfo	a53160113cc064d0abf83f217b73217a
+v-picross_s5_v196608.r00	2d8c0cb68a55d5f262f6d04ba36829eb
+v-picross_s5_v196608.rar	c6edf86f8af52d2b2ea5284d2cee3ba0
+v-picross_s5_v196608.sfv	a86cba89a1478d028995c5979cf3da20

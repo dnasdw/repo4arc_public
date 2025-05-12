@@ -1,0 +1,8 @@
+v-legend_of_the_skyfish.nfo	-	5122	1	0	0	0
+v-legend_of_the_skyfish.r00	-	50000000	1	5122	0	1
+v-legend_of_the_skyfish.r01	-	50000000	1	50005122	0	49
+v-legend_of_the_skyfish.r02	-	50000000	1	100005122	0	97
+v-legend_of_the_skyfish.r03	-	50000000	1	150005122	0	145
+v-legend_of_the_skyfish.r04	-	37445256	1	200005122	0	193
+v-legend_of_the_skyfish.rar	-	50000000	1	237450378	0	229
+v-legend_of_the_skyfish.sfv	-	228	1	287450378	0	277

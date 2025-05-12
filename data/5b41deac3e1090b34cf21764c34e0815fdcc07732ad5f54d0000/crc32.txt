@@ -1,0 +1,13 @@
+sxs-fuzzball.nfo	0125bd4e
+sxs-fuzzball.r00	cbb89037
+sxs-fuzzball.r01	bf750589
+sxs-fuzzball.r02	aaede70c
+sxs-fuzzball.r03	6b967385
+sxs-fuzzball.r04	eb7d01df
+sxs-fuzzball.r05	3c460876
+sxs-fuzzball.r06	5de6d1d0
+sxs-fuzzball.r07	623fdf53
+sxs-fuzzball.r08	5c08f01a
+sxs-fuzzball.r09	1c91bf58
+sxs-fuzzball.rar	1d3949c7
+sxs-fuzzball.sfv	11b9fc4f

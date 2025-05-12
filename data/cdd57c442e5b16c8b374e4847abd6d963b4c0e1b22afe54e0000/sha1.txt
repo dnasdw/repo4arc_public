@@ -1,0 +1,4 @@
+v-knightin_plus.nfo	cf63715ff55d7dd3c83bb449afcd11f6a98c39b0
+v-knightin_plus.r00	bc55779c70235186287fe513988bb10a31e0e7cf
+v-knightin_plus.rar	02d0c25e881f4a1f9f5539dea253ae3b604c5976
+v-knightin_plus.sfv	604a9f93aba47907a82a6243e5d42e69b90769c6

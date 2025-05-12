@@ -1,0 +1,4 @@
+sxs-pixelbot_extreme.nfo	d05f8d1192f3099ce5b9e14f12063c12222b214f
+sxs-pixelbot_extreme.r00	30ba197a508baa21134aa325012d01f394b2e397
+sxs-pixelbot_extreme.rar	6316f07f91997c4c42e8aa64bfe0158ed2d064ad
+sxs-pixelbot_extreme.sfv	f55c5dcf7d2b8ad2bbca2675035556b0ac74e2a3

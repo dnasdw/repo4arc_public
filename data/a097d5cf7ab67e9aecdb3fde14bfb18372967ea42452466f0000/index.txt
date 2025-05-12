@@ -1,0 +1,3 @@
+sxs-minecraft_dungeons_howling_peaks_dlc.nfo	-	7148	1	0	0	0
+sxs-minecraft_dungeons_howling_peaks_dlc.rar	-	104154	1	7148	0	1
+sxs-minecraft_dungeons_howling_peaks_dlc.sfv	-	55	1	111302	0	2

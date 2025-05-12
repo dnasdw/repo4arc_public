@@ -1,0 +1,4 @@
+sxs-snes_v1507328.nfo	a1c376d54bfa5fb4c263351cc20b3bddd3c57d17
+sxs-snes_v1507328.r00	bbb3ee8f6dcca58ed7c013b7c81f7d138776877b
+sxs-snes_v1507328.rar	d548bdf349e1f72c994ea887efd864fdec19b000
+sxs-snes_v1507328.sfv	c69cfed7603b9aba16bed90f657b26a3fefd01f6

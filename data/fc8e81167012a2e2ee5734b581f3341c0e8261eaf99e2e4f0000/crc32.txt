@@ -1,0 +1,14 @@
+v-spectrolite.nfo	f3609aa2
+v-spectrolite.r00	4e2e0a1f
+v-spectrolite.r01	d9dcb81b
+v-spectrolite.r02	ef023c16
+v-spectrolite.r03	2786712f
+v-spectrolite.r04	b0b44ac2
+v-spectrolite.r05	901debda
+v-spectrolite.r06	4dbc731f
+v-spectrolite.r07	800ad167
+v-spectrolite.r08	6de98abe
+v-spectrolite.r09	480511cd
+v-spectrolite.r10	722a6df5
+v-spectrolite.rar	92fdd6e9
+v-spectrolite.sfv	c579f85c

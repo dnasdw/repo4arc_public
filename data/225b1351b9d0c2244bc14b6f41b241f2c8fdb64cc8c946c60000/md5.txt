@@ -1,0 +1,8 @@
+v-trialm_v196608.nfo	7d1eeaa02f8f5ed8dbbffdec8e2acac4
+v-trialm_v196608.r00	1d6d2431ef8e0b6a76d92d98df68c3fd
+v-trialm_v196608.r01	08fadc00edf3491af416f69adbe45f96
+v-trialm_v196608.r02	028560dfe41bda3dca8041ff150e076f
+v-trialm_v196608.r03	522af02fe95b84f86f2a4ff5ae9c587f
+v-trialm_v196608.r04	61df53192fe2e4484a3af10b1eb0acb4
+v-trialm_v196608.rar	dbca519f47b22c09fee2c22c5b2b02a7
+v-trialm_v196608.sfv	35c0216ee824e1b34988e1b53a6d0f41

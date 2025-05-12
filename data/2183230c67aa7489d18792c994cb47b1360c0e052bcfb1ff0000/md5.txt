@@ -1,0 +1,3 @@
+v-doom_1993_base_ganymede_dlc.nfo	c9d6e7983ab9d24bcefebe67afc4c0b1
+v-doom_1993_base_ganymede_dlc.rar	5204c25d16163db24f454bfae122f091
+v-doom_1993_base_ganymede_dlc.sfv	02c22753c0a67be9b9077ac2df2c289f

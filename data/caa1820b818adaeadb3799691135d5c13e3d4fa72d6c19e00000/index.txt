@@ -1,0 +1,9 @@
+sxs-starlight_shores.nfo	-	8006	1	0	0	0
+sxs-starlight_shores.r00	-	50000000	1	8006	0	1
+sxs-starlight_shores.r01	-	50000000	1	50008006	0	49
+sxs-starlight_shores.r02	-	50000000	1	100008006	0	97
+sxs-starlight_shores.r03	-	50000000	1	150008006	0	145
+sxs-starlight_shores.r04	-	50000000	1	200008006	0	193
+sxs-starlight_shores.r05	-	44436695	1	250008006	0	241
+sxs-starlight_shores.rar	-	50000000	1	294444701	0	284
+sxs-starlight_shores.sfv	-	245	1	344444701	0	332

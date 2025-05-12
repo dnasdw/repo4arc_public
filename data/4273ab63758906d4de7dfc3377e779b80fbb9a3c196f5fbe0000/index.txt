@@ -1,0 +1,11 @@
+sxs-maze_of_realities_reflection_of_light_collectors_edition.nfo	-	4652	1	0	0	0
+sxs-maze_of_realities_reflection_of_light_collectors_edition.r00	-	100000000	1	4652	0	1
+sxs-maze_of_realities_reflection_of_light_collectors_edition.r01	-	100000000	1	100004652	0	97
+sxs-maze_of_realities_reflection_of_light_collectors_edition.r02	-	100000000	1	200004652	0	193
+sxs-maze_of_realities_reflection_of_light_collectors_edition.r03	-	100000000	1	300004652	0	289
+sxs-maze_of_realities_reflection_of_light_collectors_edition.r04	-	100000000	1	400004652	0	385
+sxs-maze_of_realities_reflection_of_light_collectors_edition.r05	-	100000000	1	500004652	0	481
+sxs-maze_of_realities_reflection_of_light_collectors_edition.r06	-	100000000	1	62251264	1	60
+sxs-maze_of_realities_reflection_of_light_collectors_edition.r07	-	45345949	1	162251264	1	156
+sxs-maze_of_realities_reflection_of_light_collectors_edition.rar	-	100000000	1	207597213	1	200
+sxs-maze_of_realities_reflection_of_light_collectors_edition.sfv	-	675	1	307597213	1	296

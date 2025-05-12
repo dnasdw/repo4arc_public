@@ -1,0 +1,17 @@
+sxs-fuser_v196608.nfo	2142bce9
+sxs-fuser_v196608.r00	0dc7b577
+sxs-fuser_v196608.r01	e00d3596
+sxs-fuser_v196608.r02	211e2df0
+sxs-fuser_v196608.r03	4769b8f0
+sxs-fuser_v196608.r04	ee63cff2
+sxs-fuser_v196608.r05	4d0a0372
+sxs-fuser_v196608.r06	bf4a897e
+sxs-fuser_v196608.r07	444c5692
+sxs-fuser_v196608.r08	37c57131
+sxs-fuser_v196608.r09	6bdb4bf5
+sxs-fuser_v196608.r10	23411e9c
+sxs-fuser_v196608.r11	2d279caf
+sxs-fuser_v196608.r12	58dcf6d1
+sxs-fuser_v196608.r13	d6af33f8
+sxs-fuser_v196608.rar	b61c6339
+sxs-fuser_v196608.sfv	f16afdeb

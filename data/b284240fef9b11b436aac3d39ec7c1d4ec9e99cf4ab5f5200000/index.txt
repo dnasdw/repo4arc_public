@@ -1,0 +1,3 @@
+v-mortal_kombat_1_dlc.nfo	-	5357	1	0	0	0
+v-mortal_kombat_1_dlc.rar	-	104124	1	5357	0	1
+v-mortal_kombat_1_dlc.sfv	-	36	1	109481	0	2

@@ -1,0 +1,15 @@
+v-type_rider.nfo	8f8bdd47
+v-type_rider.r00	dd1dff37
+v-type_rider.r01	47a6381d
+v-type_rider.r02	3213205f
+v-type_rider.r03	0872a09c
+v-type_rider.r04	2f0ddf87
+v-type_rider.r05	a760a194
+v-type_rider.r06	96723cec
+v-type_rider.r07	4fc22848
+v-type_rider.r08	5be5fc39
+v-type_rider.r09	2744b254
+v-type_rider.r10	5bf0b9a0
+v-type_rider.r11	e93d4cf6
+v-type_rider.rar	9ee87ad4
+v-type_rider.sfv	4d25c156

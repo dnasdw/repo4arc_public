@@ -1,0 +1,9 @@
+v-girls_und_panzer_v196608.nfo	-	4108	1	0	0	0
+v-girls_und_panzer_v196608.r00	-	50000000	1	4108	0	1
+v-girls_und_panzer_v196608.r01	-	50000000	1	50004108	0	49
+v-girls_und_panzer_v196608.r02	-	50000000	1	100004108	0	97
+v-girls_und_panzer_v196608.r03	-	50000000	1	150004108	0	145
+v-girls_und_panzer_v196608.r04	-	50000000	1	200004108	0	193
+v-girls_und_panzer_v196608.r05	-	22069421	1	250004108	0	241
+v-girls_und_panzer_v196608.rar	-	50000000	1	272073529	0	263
+v-girls_und_panzer_v196608.sfv	-	287	1	322073529	0	311

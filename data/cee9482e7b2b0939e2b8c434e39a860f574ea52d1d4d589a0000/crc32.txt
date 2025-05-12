@@ -1,0 +1,6 @@
+v-picross_s3_v131072.nfo	4eb84018
+v-picross_s3_v131072.r00	5f648a1f
+v-picross_s3_v131072.r01	94bfdd25
+v-picross_s3_v131072.r02	25997ebd
+v-picross_s3_v131072.rar	9282e139
+v-picross_s3_v131072.sfv	b31a069e

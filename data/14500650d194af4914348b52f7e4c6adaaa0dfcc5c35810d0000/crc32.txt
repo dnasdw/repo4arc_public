@@ -1,0 +1,15 @@
+hr-alfmav262144.nfo	376eb305
+hr-alfmav262144.r00	87d381b2
+hr-alfmav262144.r01	e25a5b6e
+hr-alfmav262144.r02	5f8edd66
+hr-alfmav262144.r03	3c50a175
+hr-alfmav262144.r04	2909b241
+hr-alfmav262144.r05	aca17870
+hr-alfmav262144.r06	ea035d0e
+hr-alfmav262144.r07	39cbbfd2
+hr-alfmav262144.r08	e1e18d1c
+hr-alfmav262144.r09	313b0208
+hr-alfmav262144.r10	d9743b28
+hr-alfmav262144.r11	1d11b03e
+hr-alfmav262144.rar	16872acd
+hr-alfmav262144.sfv	152a425f

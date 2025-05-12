@@ -1,0 +1,4 @@
+sxs-clannad_v393216.nfo	-	5822	1	0	0	0
+sxs-clannad_v393216.r00	-	25817056	1	5822	0	1
+sxs-clannad_v393216.rar	-	50000000	1	25822878	0	26
+sxs-clannad_v393216.sfv	-	68	1	75822878	0	74

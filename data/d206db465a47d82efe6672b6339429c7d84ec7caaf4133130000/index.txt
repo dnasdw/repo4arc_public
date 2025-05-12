@@ -1,0 +1,9 @@
+v-fight_of_animals_v327680.nfo	-	4342	1	0	0	0
+v-fight_of_animals_v327680.r00	-	50000000	1	4342	0	1
+v-fight_of_animals_v327680.r01	-	50000000	1	50004342	0	49
+v-fight_of_animals_v327680.r02	-	50000000	1	100004342	0	97
+v-fight_of_animals_v327680.r03	-	50000000	1	150004342	0	145
+v-fight_of_animals_v327680.r04	-	50000000	1	200004342	0	193
+v-fight_of_animals_v327680.r05	-	19133690	1	250004342	0	241
+v-fight_of_animals_v327680.rar	-	50000000	1	269138032	0	260
+v-fight_of_animals_v327680.sfv	-	287	1	319138032	0	308

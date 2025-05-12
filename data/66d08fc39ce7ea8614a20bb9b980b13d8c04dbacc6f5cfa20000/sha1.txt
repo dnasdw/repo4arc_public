@@ -1,0 +1,4 @@
+v-disga4_v65536.nfo	9af066af3be6b38fc2bc756ecdbccf3ab3d9fd55
+v-disga4_v65536.r00	95eae65f7002f784c55ecf2312b2edd6608b9cb1
+v-disga4_v65536.rar	3280732fab41aa357c568857b05fdf0b16de8299
+v-disga4_v65536.sfv	c3ba69fd4bd6c2738b080fabb3cbabaa6ee76509

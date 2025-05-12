@@ -1,0 +1,4 @@
+v-mr_driller_drillland_v196608.nfo	-	5200	1	0	0	0
+v-mr_driller_drillland_v196608.r00	-	46000410	1	5200	0	1
+v-mr_driller_drillland_v196608.rar	-	50000000	1	46005610	0	45
+v-mr_driller_drillland_v196608.sfv	-	90	1	96005610	0	93

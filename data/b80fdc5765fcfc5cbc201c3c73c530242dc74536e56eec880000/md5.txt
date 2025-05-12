@@ -1,0 +1,5 @@
+sxs-slimeboo.nfo	f44f27004fb333f28c12f9dc575b0c9a
+sxs-slimeboo.r00	26129c98ef1897295f743757267ec715
+sxs-slimeboo.r01	4c3f5804ca27201f25a5478ed8428714
+sxs-slimeboo.rar	68f5aae6d53cf6e75c0eda63d9a67d78
+sxs-slimeboo.sfv	e1bbf1cb3d8ae3865badf7a21c59b1e5

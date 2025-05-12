@@ -1,0 +1,13 @@
+hr-troubledays.nfo	0d4ac105e95e80c545930905452d8e4a
+hr-troubledays.r00	876301b625f7687d1d62830455a25134
+hr-troubledays.r01	72073875ab077cffc567c372fd53b9a2
+hr-troubledays.r02	d5da32456ac3e5d48007f0ee92b2ac76
+hr-troubledays.r03	3f74317c8888db2fda05b334e4b64e20
+hr-troubledays.r04	68cd4c7acf441cecf25cbd463a81de70
+hr-troubledays.r05	d1ad785a2b0d020aa1a13cb4b3c370dd
+hr-troubledays.r06	d698cdaff5baf4840b3adce1987af791
+hr-troubledays.r07	c31aea2e264b64045e8910595bb69c68
+hr-troubledays.r08	9635a4948213b1f9487c84ade5ae8f01
+hr-troubledays.r09	4b286f2d637eef71408f40755f7e87a3
+hr-troubledays.rar	08788559222b0954cfcb983b76394823
+hr-troubledays.sfv	3c1b68166b8f17deacc5a7aebcffa018

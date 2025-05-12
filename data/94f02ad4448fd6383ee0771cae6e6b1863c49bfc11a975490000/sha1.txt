@@ -1,0 +1,3 @@
+v-doom_ii_syringe_dlc.nfo	5ca9924768022f6cff9900b7a74c7affdb53d173
+v-doom_ii_syringe_dlc.rar	c1f31f561b6887322b9091d50d4f702279dedea1
+v-doom_ii_syringe_dlc.sfv	f3035e28db3643cf5e54983c7beff64cd17f93a0

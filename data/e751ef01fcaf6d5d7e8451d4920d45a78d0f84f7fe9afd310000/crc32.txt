@@ -1,0 +1,15 @@
+sxs-super_cane_magic_zero_v131072.nfo	9faafb51
+sxs-super_cane_magic_zero_v131072.r00	c37daecc
+sxs-super_cane_magic_zero_v131072.r01	c4b27d51
+sxs-super_cane_magic_zero_v131072.r02	163ce309
+sxs-super_cane_magic_zero_v131072.r03	1a8b42cd
+sxs-super_cane_magic_zero_v131072.r04	07cbcd09
+sxs-super_cane_magic_zero_v131072.r05	a07f54df
+sxs-super_cane_magic_zero_v131072.r06	58f2a861
+sxs-super_cane_magic_zero_v131072.r07	c2816f4e
+sxs-super_cane_magic_zero_v131072.r08	cf6a4dbe
+sxs-super_cane_magic_zero_v131072.r09	69221e09
+sxs-super_cane_magic_zero_v131072.r10	dc24e878
+sxs-super_cane_magic_zero_v131072.r11	741b74a6
+sxs-super_cane_magic_zero_v131072.rar	d392bbfc
+sxs-super_cane_magic_zero_v131072.sfv	12fb8985

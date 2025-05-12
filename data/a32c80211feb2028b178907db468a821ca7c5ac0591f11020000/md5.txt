@@ -1,0 +1,13 @@
+hr-ddgrotd.nfo	b9fa246b3c1c62be80da8403fccd836f
+hr-ddgrotd.r00	9c276839946703ab2f5fd3b3f33bfa05
+hr-ddgrotd.r01	67e49412b56dac374fa7db6b394e2f4c
+hr-ddgrotd.r02	40157f784762f9593ab1c079ac6b85c9
+hr-ddgrotd.r03	d72054ccdf56c2ff8385e195aa06cd3a
+hr-ddgrotd.r04	4b5423d7615c0c2f8df5af739a0626bc
+hr-ddgrotd.r05	4483391646c2a67ed31fcd63b1cf89b7
+hr-ddgrotd.r06	9717f31cd29f6045d9adab5bc71d935f
+hr-ddgrotd.r07	f6dc98218316083b0a7fa74b85d9f3de
+hr-ddgrotd.r08	c83d8fc4d75534ab1258df2a4faf5aee
+hr-ddgrotd.r09	a873749dd104a47f21234ea961eb758b
+hr-ddgrotd.rar	65842169dc80cbf9a4f5853373158b88
+hr-ddgrotd.sfv	da5a6dc833e02e3060df14fea94d9de4

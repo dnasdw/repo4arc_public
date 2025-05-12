@@ -1,0 +1,4 @@
+bbb-n-apppa.nfo	-	5517	1	0	0	0
+bbb-n-apppa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-apppa.part2.rar	-	190650449	1	250005517	0	240
+bbb-n-apppa.sfv	-	64	1	440655966	0	422

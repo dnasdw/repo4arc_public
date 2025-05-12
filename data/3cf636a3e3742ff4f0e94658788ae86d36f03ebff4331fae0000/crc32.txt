@@ -1,0 +1,8 @@
+sxs-dead_cells_v102.nfo	2e161b09
+sxs-dead_cells_v102.r00	43cbd948
+sxs-dead_cells_v102.r01	aae22f53
+sxs-dead_cells_v102.r02	16ed602a
+sxs-dead_cells_v102.r03	89ceb731
+sxs-dead_cells_v102.r04	9de21032
+sxs-dead_cells_v102.rar	5c020696
+sxs-dead_cells_v102.sfv	721da9f8

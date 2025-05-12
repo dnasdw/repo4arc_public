@@ -1,0 +1,11 @@
+sxs-nirvana_pilot_yume.nfo	7e5404fb
+sxs-nirvana_pilot_yume.r00	bf14202b
+sxs-nirvana_pilot_yume.r01	9ffbee13
+sxs-nirvana_pilot_yume.r02	6b1b640f
+sxs-nirvana_pilot_yume.r03	a450b164
+sxs-nirvana_pilot_yume.r04	ec868ab3
+sxs-nirvana_pilot_yume.r05	6d7b0c61
+sxs-nirvana_pilot_yume.r06	4199acfc
+sxs-nirvana_pilot_yume.r07	0bcfb749
+sxs-nirvana_pilot_yume.rar	bd5b4ebe
+sxs-nirvana_pilot_yume.sfv	8b1efb38

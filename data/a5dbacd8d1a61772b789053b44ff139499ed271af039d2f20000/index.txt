@@ -1,0 +1,15 @@
+v-black_paradox.nfo	-	5590	1	0	0	0
+v-black_paradox.r00	-	50000000	1	5590	0	1
+v-black_paradox.r01	-	50000000	1	50005590	0	49
+v-black_paradox.r02	-	50000000	1	100005590	0	97
+v-black_paradox.r03	-	50000000	1	150005590	0	145
+v-black_paradox.r04	-	50000000	1	200005590	0	193
+v-black_paradox.r05	-	50000000	1	250005590	0	241
+v-black_paradox.r06	-	50000000	1	300005590	0	289
+v-black_paradox.r07	-	50000000	1	350005590	0	337
+v-black_paradox.r08	-	50000000	1	400005590	0	385
+v-black_paradox.r09	-	50000000	1	450005590	0	433
+v-black_paradox.r10	-	50000000	1	500005590	0	481
+v-black_paradox.r11	-	12043662	1	12251264	1	12
+v-black_paradox.rar	-	50000000	1	24294926	1	24
+v-black_paradox.sfv	-	390	1	74294926	1	72

@@ -1,0 +1,17 @@
+v-snowboarding_the_next_phase.nfo	-	6293	1	0	0	0
+v-snowboarding_the_next_phase.r00	-	50000000	1	6293	0	1
+v-snowboarding_the_next_phase.r01	-	50000000	1	50006293	0	49
+v-snowboarding_the_next_phase.r02	-	50000000	1	100006293	0	97
+v-snowboarding_the_next_phase.r03	-	50000000	1	150006293	0	145
+v-snowboarding_the_next_phase.r04	-	50000000	1	200006293	0	193
+v-snowboarding_the_next_phase.r05	-	50000000	1	250006293	0	241
+v-snowboarding_the_next_phase.r06	-	50000000	1	300006293	0	289
+v-snowboarding_the_next_phase.r07	-	50000000	1	350006293	0	337
+v-snowboarding_the_next_phase.r08	-	50000000	1	400006293	0	385
+v-snowboarding_the_next_phase.r09	-	50000000	1	450006293	0	433
+v-snowboarding_the_next_phase.r10	-	50000000	1	500006293	0	481
+v-snowboarding_the_next_phase.r11	-	50000000	1	12251264	1	12
+v-snowboarding_the_next_phase.r12	-	50000000	1	62251264	1	60
+v-snowboarding_the_next_phase.r13	-	7168283	1	112251264	1	108
+v-snowboarding_the_next_phase.rar	-	50000202	1	119419547	1	115
+v-snowboarding_the_next_phase.sfv	-	660	1	169419749	1	163

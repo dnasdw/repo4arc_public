@@ -1,0 +1,12 @@
+sxs-furi_definitive_edition_v65536.nfo	d07b1490
+sxs-furi_definitive_edition_v65536.r00	8c99be96
+sxs-furi_definitive_edition_v65536.r01	921b2967
+sxs-furi_definitive_edition_v65536.r02	3b18c0ee
+sxs-furi_definitive_edition_v65536.r03	cdcc000d
+sxs-furi_definitive_edition_v65536.r04	57f5dce4
+sxs-furi_definitive_edition_v65536.r05	86e07862
+sxs-furi_definitive_edition_v65536.r06	3b820ae0
+sxs-furi_definitive_edition_v65536.r07	145d27e0
+sxs-furi_definitive_edition_v65536.r08	f5c037dc
+sxs-furi_definitive_edition_v65536.rar	cdc47511
+sxs-furi_definitive_edition_v65536.sfv	f0317ac3

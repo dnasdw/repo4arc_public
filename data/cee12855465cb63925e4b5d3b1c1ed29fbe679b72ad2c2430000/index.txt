@@ -1,0 +1,10 @@
+v-r-type_final_2_dlc_set_1.nfo	-	4810	1	0	0	0
+v-r-type_final_2_dlc_set_1.r00	-	50000000	1	4810	0	1
+v-r-type_final_2_dlc_set_1.r01	-	50000000	1	50004810	0	49
+v-r-type_final_2_dlc_set_1.r02	-	50000000	1	100004810	0	97
+v-r-type_final_2_dlc_set_1.r03	-	50000000	1	150004810	0	145
+v-r-type_final_2_dlc_set_1.r04	-	50000000	1	200004810	0	193
+v-r-type_final_2_dlc_set_1.r05	-	50000000	1	250004810	0	241
+v-r-type_final_2_dlc_set_1.r06	-	10878587	1	300004810	0	289
+v-r-type_final_2_dlc_set_1.rar	-	50000000	1	310883397	0	300
+v-r-type_final_2_dlc_set_1.sfv	-	328	1	360883397	0	348

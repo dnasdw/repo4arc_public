@@ -1,0 +1,13 @@
+sxs-fatum_betula.nfo	598e6d70
+sxs-fatum_betula.r00	85d56815
+sxs-fatum_betula.r01	2e50f2c2
+sxs-fatum_betula.r02	7f5bc0a0
+sxs-fatum_betula.r03	b38bf9d6
+sxs-fatum_betula.r04	3e5cb459
+sxs-fatum_betula.r05	73de87d8
+sxs-fatum_betula.r06	59722100
+sxs-fatum_betula.r07	c308205c
+sxs-fatum_betula.r08	5c4e0f77
+sxs-fatum_betula.r09	753f9265
+sxs-fatum_betula.rar	89cf02fa
+sxs-fatum_betula.sfv	80ebee93

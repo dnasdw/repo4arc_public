@@ -1,0 +1,7 @@
+sxs-darius_cozmic_collection_v196608.nfo	-	4887	1	0	0	0
+sxs-darius_cozmic_collection_v196608.r00	-	50000000	1	4887	0	1
+sxs-darius_cozmic_collection_v196608.r01	-	50000000	1	50004887	0	49
+sxs-darius_cozmic_collection_v196608.r02	-	50000000	1	100004887	0	97
+sxs-darius_cozmic_collection_v196608.r03	-	19100576	1	150004887	0	145
+sxs-darius_cozmic_collection_v196608.rar	-	50000000	1	169105463	0	164
+sxs-darius_cozmic_collection_v196608.sfv	-	255	1	219105463	0	212

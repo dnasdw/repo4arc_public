@@ -1,0 +1,5 @@
+v-ultimate_racing_2d_v262144.nfo	d4407315129993d8ac711f00d5b71882
+v-ultimate_racing_2d_v262144.r00	446b3cd877d19fd27a752c8d2577c044
+v-ultimate_racing_2d_v262144.r01	98a713a78a6974d38adb5edd243e7c04
+v-ultimate_racing_2d_v262144.rar	637b80b5adddd640bc86f9a4307ec1dc
+v-ultimate_racing_2d_v262144.sfv	c25628103f809816ea5d3c783ce03dec

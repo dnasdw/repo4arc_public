@@ -1,0 +1,17 @@
+v-no_place_for_bravery_v196608.nfo	-	6760	1	0	0	0
+v-no_place_for_bravery_v196608.r00	-	50000000	1	6760	0	1
+v-no_place_for_bravery_v196608.r01	-	50000000	1	50006760	0	49
+v-no_place_for_bravery_v196608.r02	-	50000000	1	100006760	0	97
+v-no_place_for_bravery_v196608.r03	-	50000000	1	150006760	0	145
+v-no_place_for_bravery_v196608.r04	-	50000000	1	200006760	0	193
+v-no_place_for_bravery_v196608.r05	-	50000000	1	250006760	0	241
+v-no_place_for_bravery_v196608.r06	-	50000000	1	300006760	0	289
+v-no_place_for_bravery_v196608.r07	-	50000000	1	350006760	0	337
+v-no_place_for_bravery_v196608.r08	-	50000000	1	400006760	0	385
+v-no_place_for_bravery_v196608.r09	-	50000000	1	450006760	0	433
+v-no_place_for_bravery_v196608.r10	-	50000000	1	500006760	0	481
+v-no_place_for_bravery_v196608.r11	-	50000000	1	12251264	1	12
+v-no_place_for_bravery_v196608.r12	-	50000000	1	62251264	1	60
+v-no_place_for_bravery_v196608.r13	-	13926715	1	112251264	1	108
+v-no_place_for_bravery_v196608.rar	-	50000000	1	126177979	1	122
+v-no_place_for_bravery_v196608.sfv	-	675	1	176177979	1	170

@@ -1,0 +1,8 @@
+sxs-asscrr_spa_dlc.nfo	3291955b
+sxs-asscrr_spa_dlc.r00	21b3abd8
+sxs-asscrr_spa_dlc.r01	21e55fd1
+sxs-asscrr_spa_dlc.r02	5a7069cd
+sxs-asscrr_spa_dlc.r03	e2f25671
+sxs-asscrr_spa_dlc.r04	0a8ec107
+sxs-asscrr_spa_dlc.rar	2dff5060
+sxs-asscrr_spa_dlc.sfv	6fde9e7d

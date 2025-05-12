@@ -1,0 +1,13 @@
+l-deployment.nfo	e3f8ba2e
+l-deployment.r00	988f9bcb
+l-deployment.r01	ec58480e
+l-deployment.r02	5d136c5a
+l-deployment.r03	37941e44
+l-deployment.r04	61f44cb5
+l-deployment.r05	b35112cf
+l-deployment.r06	e3b74b19
+l-deployment.r07	eb7fb402
+l-deployment.r08	fab54800
+l-deployment.r09	c51526ab
+l-deployment.rar	2eed8023
+l-deployment.sfv	ba46d943

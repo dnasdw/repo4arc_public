@@ -1,0 +1,7 @@
+sxs-warioware_get_it_together_demo.nfo	3652ece9
+sxs-warioware_get_it_together_demo.r00	73e18df8
+sxs-warioware_get_it_together_demo.r01	78fbcf2b
+sxs-warioware_get_it_together_demo.r02	c6118560
+sxs-warioware_get_it_together_demo.r03	06fb05e5
+sxs-warioware_get_it_together_demo.rar	bb415863
+sxs-warioware_get_it_together_demo.sfv	ad9ba973

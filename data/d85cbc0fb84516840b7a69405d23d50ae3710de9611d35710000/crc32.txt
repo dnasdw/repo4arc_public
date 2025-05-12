@@ -1,0 +1,16 @@
+sxs-aeon_drive_v131072.nfo	ec065445
+sxs-aeon_drive_v131072.r00	3e9efc56
+sxs-aeon_drive_v131072.r01	c4fc16ea
+sxs-aeon_drive_v131072.r02	90b7f844
+sxs-aeon_drive_v131072.r03	93b9625d
+sxs-aeon_drive_v131072.r04	cff1468a
+sxs-aeon_drive_v131072.r05	018453f3
+sxs-aeon_drive_v131072.r06	d32d4701
+sxs-aeon_drive_v131072.r07	491d903e
+sxs-aeon_drive_v131072.r08	050209ae
+sxs-aeon_drive_v131072.r09	c0eec380
+sxs-aeon_drive_v131072.r10	7932af7b
+sxs-aeon_drive_v131072.r11	326f7847
+sxs-aeon_drive_v131072.r12	2b560814
+sxs-aeon_drive_v131072.rar	82de034f
+sxs-aeon_drive_v131072.sfv	2902d192

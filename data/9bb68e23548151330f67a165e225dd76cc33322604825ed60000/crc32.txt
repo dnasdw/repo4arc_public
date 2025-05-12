@@ -1,0 +1,8 @@
+sxs-crocs_world.nfo	4168773f
+sxs-crocs_world.r00	15b5ae1d
+sxs-crocs_world.r01	1717ee04
+sxs-crocs_world.r02	e0d2ccbe
+sxs-crocs_world.r03	a3bab0e3
+sxs-crocs_world.r04	3db96979
+sxs-crocs_world.rar	b4f07b60
+sxs-crocs_world.sfv	df3433a2

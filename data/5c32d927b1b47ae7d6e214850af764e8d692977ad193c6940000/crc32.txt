@@ -1,0 +1,7 @@
+v-shapeshifting_detective_v65536.nfo	06103051
+v-shapeshifting_detective_v65536.r00	79b168e0
+v-shapeshifting_detective_v65536.r01	dc645afd
+v-shapeshifting_detective_v65536.r02	0d332323
+v-shapeshifting_detective_v65536.r03	286b032f
+v-shapeshifting_detective_v65536.rar	f7e4819d
+v-shapeshifting_detective_v65536.sfv	b3c3b2c5

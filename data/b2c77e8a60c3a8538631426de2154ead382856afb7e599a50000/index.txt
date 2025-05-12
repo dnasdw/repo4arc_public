@@ -1,0 +1,3 @@
+sxs-crime_secrets_crimson_lily_v65536.nfo	-	5120	1	0	0	0
+sxs-crime_secrets_crimson_lily_v65536.rar	-	43918392	1	5120	0	1
+sxs-crime_secrets_crimson_lily_v65536.sfv	-	52	1	43923512	0	43

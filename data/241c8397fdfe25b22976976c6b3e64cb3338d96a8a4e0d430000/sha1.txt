@@ -1,0 +1,6 @@
+sxs-darts_club.nfo	70713dff25028887f222dba60a0577b13ee9a160
+sxs-darts_club.r00	b61b37e891f0306c78737b9063293b7017576d6c
+sxs-darts_club.r01	31f1f9be458932a22fe3d503f841af681716d72e
+sxs-darts_club.r02	a94c0c17d20f2202add3c0c85680901d3fd93ef0
+sxs-darts_club.rar	d743e63621c24d46628c28aed67225b3c0c5ea0d
+sxs-darts_club.sfv	96ff5eae7de3692a86302d6e2be466ae86957e42

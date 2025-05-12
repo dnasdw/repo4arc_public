@@ -1,0 +1,6 @@
+sxs-bad_north_v262144.nfo	d47db829
+sxs-bad_north_v262144.r00	f0321e9e
+sxs-bad_north_v262144.r01	512f05e7
+sxs-bad_north_v262144.r02	9c94f47f
+sxs-bad_north_v262144.rar	7ca9f8a2
+sxs-bad_north_v262144.sfv	77ec2fd2

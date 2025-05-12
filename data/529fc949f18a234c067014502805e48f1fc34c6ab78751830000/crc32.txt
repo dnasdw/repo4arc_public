@@ -1,0 +1,10 @@
+sxs-moving_out_demo.nfo	c315b9ab
+sxs-moving_out_demo.r00	4d7d906f
+sxs-moving_out_demo.r01	d41182be
+sxs-moving_out_demo.r02	a671581c
+sxs-moving_out_demo.r03	6c6a4776
+sxs-moving_out_demo.r04	365e49c0
+sxs-moving_out_demo.r05	34a588b2
+sxs-moving_out_demo.r06	e947277b
+sxs-moving_out_demo.rar	25fa5101
+sxs-moving_out_demo.sfv	314500d1

@@ -1,0 +1,9 @@
+sxs-peppa_pig_world_adventures_v65536.nfo	-	5900	1	0	0	0
+sxs-peppa_pig_world_adventures_v65536.r00	-	100000000	1	5900	0	1
+sxs-peppa_pig_world_adventures_v65536.r01	-	100000000	1	100005900	0	97
+sxs-peppa_pig_world_adventures_v65536.r02	-	100000000	1	200005900	0	193
+sxs-peppa_pig_world_adventures_v65536.r03	-	100000000	1	300005900	0	289
+sxs-peppa_pig_world_adventures_v65536.r04	-	100000000	1	400005900	0	385
+sxs-peppa_pig_world_adventures_v65536.r05	-	12910338	1	500005900	0	481
+sxs-peppa_pig_world_adventures_v65536.rar	-	100000000	1	512916238	0	494
+sxs-peppa_pig_world_adventures_v65536.sfv	-	364	1	75882752	1	73

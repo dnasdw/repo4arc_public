@@ -1,0 +1,4 @@
+sxs-piczle_colors_v65536.nfo	fe7d3304
+sxs-piczle_colors_v65536.r00	59c2fe49
+sxs-piczle_colors_v65536.rar	8c9e0e7d
+sxs-piczle_colors_v65536.sfv	344e1a70

@@ -1,0 +1,7 @@
+sxs-sparkle_2_evo_v65536.nfo	1791fbaf
+sxs-sparkle_2_evo_v65536.r00	b2ece1aa
+sxs-sparkle_2_evo_v65536.r01	0d1523bf
+sxs-sparkle_2_evo_v65536.r02	ab9f97b7
+sxs-sparkle_2_evo_v65536.r03	51947243
+sxs-sparkle_2_evo_v65536.rar	bff88a60
+sxs-sparkle_2_evo_v65536.sfv	00a2130b

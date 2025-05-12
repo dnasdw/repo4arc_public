@@ -1,0 +1,6 @@
+hr-gcgm.nfo	de95608ec5dc1833594c1cbf2eb55a82
+hr-gcgm.r00	eb8b3f9a896ba896c4f6a0e0f7215965
+hr-gcgm.r01	26be4a93a8854b1d6d2261876ba7bb85
+hr-gcgm.r02	23c040ba32106d25910e54a1ac8f47df
+hr-gcgm.rar	ee759a2ed58aaa4dd315e6cd5a433d0f
+hr-gcgm.sfv	8988fc8fc0f81c6ae16f0cb82cd3bc66

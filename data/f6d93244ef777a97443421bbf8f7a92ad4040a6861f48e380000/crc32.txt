@@ -1,0 +1,13 @@
+sxs-horace_v131072.nfo	f4364606
+sxs-horace_v131072.r00	c6fe6bf5
+sxs-horace_v131072.r01	2c29469f
+sxs-horace_v131072.r02	d91a2ab7
+sxs-horace_v131072.r03	2f0cfd15
+sxs-horace_v131072.r04	b6755bf8
+sxs-horace_v131072.r05	6f3ad8a6
+sxs-horace_v131072.r06	a87802c4
+sxs-horace_v131072.r07	3b695357
+sxs-horace_v131072.r08	7e45a44c
+sxs-horace_v131072.r09	c343d032
+sxs-horace_v131072.rar	7a085cef
+sxs-horace_v131072.sfv	99d32d41

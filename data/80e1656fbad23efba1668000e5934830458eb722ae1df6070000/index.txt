@@ -1,0 +1,14 @@
+lfc-ecrossminton.nfo	-	6126	1	0	0	0
+lfc-ecrossminton.r00	-	50000000	1	6126	0	1
+lfc-ecrossminton.r01	-	50000000	1	50006126	0	49
+lfc-ecrossminton.r02	-	50000000	1	100006126	0	97
+lfc-ecrossminton.r03	-	50000000	1	150006126	0	145
+lfc-ecrossminton.r04	-	50000000	1	200006126	0	193
+lfc-ecrossminton.r05	-	50000000	1	250006126	0	241
+lfc-ecrossminton.r06	-	50000000	1	300006126	0	289
+lfc-ecrossminton.r07	-	50000000	1	350006126	0	337
+lfc-ecrossminton.r08	-	50000000	1	400006126	0	385
+lfc-ecrossminton.r09	-	50000000	1	450006126	0	433
+lfc-ecrossminton.r10	-	29352294	1	500006126	0	481
+lfc-ecrossminton.rar	-	50000000	1	529358420	0	509
+lfc-ecrossminton.sfv	-	372	1	41611392	1	40

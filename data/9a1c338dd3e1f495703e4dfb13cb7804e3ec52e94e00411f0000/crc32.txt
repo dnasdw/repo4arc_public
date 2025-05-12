@@ -1,0 +1,12 @@
+sxs-gi_joe_operation_blackout_v327680.nfo	8c876a2e
+sxs-gi_joe_operation_blackout_v327680.r00	a0228fd4
+sxs-gi_joe_operation_blackout_v327680.r01	11d6488a
+sxs-gi_joe_operation_blackout_v327680.r02	2b85703e
+sxs-gi_joe_operation_blackout_v327680.r03	388090b3
+sxs-gi_joe_operation_blackout_v327680.r04	d769a0a0
+sxs-gi_joe_operation_blackout_v327680.r05	e1a9bb34
+sxs-gi_joe_operation_blackout_v327680.r06	498c62d8
+sxs-gi_joe_operation_blackout_v327680.r07	4115175b
+sxs-gi_joe_operation_blackout_v327680.r08	ab4a55a9
+sxs-gi_joe_operation_blackout_v327680.rar	0c6e6b40
+sxs-gi_joe_operation_blackout_v327680.sfv	bdec9ad0

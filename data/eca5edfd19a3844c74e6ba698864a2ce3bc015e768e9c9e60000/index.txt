@@ -1,0 +1,3 @@
+sxs-port_royale_4_bonus_pack_dlc.nfo	-	4028	1	0	0	0
+sxs-port_royale_4_bonus_pack_dlc.rar	-	104093	1	4028	0	1
+sxs-port_royale_4_bonus_pack_dlc.sfv	-	47	1	108121	0	2

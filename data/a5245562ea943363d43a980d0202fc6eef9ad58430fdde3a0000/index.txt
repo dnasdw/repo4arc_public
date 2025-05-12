@@ -1,0 +1,4 @@
+sxs-picross_s2_v458752.nfo	-	5120	1	0	0	0
+sxs-picross_s2_v458752.r00	-	77624219	1	5120	0	1
+sxs-picross_s2_v458752.rar	-	100000000	1	77629339	0	76
+sxs-picross_s2_v458752.sfv	-	74	1	177629339	0	172

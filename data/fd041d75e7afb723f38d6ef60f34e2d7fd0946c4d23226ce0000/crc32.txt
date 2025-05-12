@@ -1,0 +1,12 @@
+hr-awmgbv65536.nfo	4cfc55ee
+hr-awmgbv65536.r00	38bb198b
+hr-awmgbv65536.r01	4be254a6
+hr-awmgbv65536.r02	fb8e88e3
+hr-awmgbv65536.r03	22ec5c8f
+hr-awmgbv65536.r04	56371695
+hr-awmgbv65536.r05	64b49042
+hr-awmgbv65536.r06	ae02d95c
+hr-awmgbv65536.r07	d4f934ad
+hr-awmgbv65536.r08	2fb17941
+hr-awmgbv65536.rar	be729459
+hr-awmgbv65536.sfv	d3653363

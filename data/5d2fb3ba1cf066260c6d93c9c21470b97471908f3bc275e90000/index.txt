@@ -1,0 +1,11 @@
+lfc-slaythespire.nfo	-	4180	1	0	0	0
+lfc-slaythespire.r00	-	50000000	1	4180	0	1
+lfc-slaythespire.r01	-	50000000	1	50004180	0	49
+lfc-slaythespire.r02	-	50000000	1	100004180	0	97
+lfc-slaythespire.r03	-	50000000	1	150004180	0	145
+lfc-slaythespire.r04	-	50000000	1	200004180	0	193
+lfc-slaythespire.r05	-	50000000	1	250004180	0	241
+lfc-slaythespire.r06	-	50000000	1	300004180	0	289
+lfc-slaythespire.r07	-	46567946	1	350004180	0	337
+lfc-slaythespire.rar	-	50000000	1	396572126	0	382
+lfc-slaythespire.sfv	-	279	1	446572126	0	430

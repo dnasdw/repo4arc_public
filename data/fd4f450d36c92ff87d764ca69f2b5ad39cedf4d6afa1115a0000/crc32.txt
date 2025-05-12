@@ -1,0 +1,9 @@
+sxs-invisible_fist.nfo	434e02ad
+sxs-invisible_fist.r00	8022a606
+sxs-invisible_fist.r01	d9ccb67e
+sxs-invisible_fist.r02	f2526f86
+sxs-invisible_fist.r03	e0c0add5
+sxs-invisible_fist.r04	4d6b9c00
+sxs-invisible_fist.r05	f43e90c4
+sxs-invisible_fist.rar	9cf607e0
+sxs-invisible_fist.sfv	9a692c15

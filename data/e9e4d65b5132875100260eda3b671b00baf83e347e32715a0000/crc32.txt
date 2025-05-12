@@ -1,0 +1,10 @@
+v-diablo_ii_resurrected_v1572864.nfo	344debe3
+v-diablo_ii_resurrected_v1572864.r00	bfc2000a
+v-diablo_ii_resurrected_v1572864.r01	aa7c006e
+v-diablo_ii_resurrected_v1572864.r02	149ea3ad
+v-diablo_ii_resurrected_v1572864.r03	967f32ad
+v-diablo_ii_resurrected_v1572864.r04	80bc8cb5
+v-diablo_ii_resurrected_v1572864.r05	bcde7e9c
+v-diablo_ii_resurrected_v1572864.r06	49e6ed05
+v-diablo_ii_resurrected_v1572864.rar	51739ade
+v-diablo_ii_resurrected_v1572864.sfv	65c7248b

@@ -1,0 +1,3 @@
+v-dr4sm_dlc.nfo	-	6215	1	0	0	0
+v-dr4sm_dlc.rar	-	44443083	1	6215	0	1
+v-dr4sm_dlc.sfv	-	26	1	44449298	0	44

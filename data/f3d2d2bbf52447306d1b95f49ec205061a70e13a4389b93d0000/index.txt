@@ -1,0 +1,4 @@
+sxs-guts_n_goals_v65536.nfo	-	5198	1	0	0	0
+sxs-guts_n_goals_v65536.r00	-	22757537	1	5198	0	1
+sxs-guts_n_goals_v65536.rar	-	50000000	1	22762735	0	23
+sxs-guts_n_goals_v65536.sfv	-	76	1	72762735	0	71

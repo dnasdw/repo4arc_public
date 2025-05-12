@@ -1,0 +1,13 @@
+hr-atcfbv4.nfo	15003da6a9a3f5d9a4d115793e4c6faa
+hr-atcfbv4.r00	14fe95940af163ee6a89dd7055bd08cb
+hr-atcfbv4.r01	e4142fa849947cb06b0eedec4c37bb76
+hr-atcfbv4.r02	b4172bde24a09ca3b4905919f773a8fd
+hr-atcfbv4.r03	4681fea764414880fe89de04424d2906
+hr-atcfbv4.r04	467a0f158b601a924de6765d3ef04163
+hr-atcfbv4.r05	5ec5d5d4c3a8928b4fe98f5c149f8832
+hr-atcfbv4.r06	f02b42608943fc30ddf4b877a5bd35ec
+hr-atcfbv4.r07	ba61516ae99d9221bde6971b74cf6413
+hr-atcfbv4.r08	909cd4652149009f8d1186ed9eaedbde
+hr-atcfbv4.r09	32da3d6965d79bedf79f3ca3490d862e
+hr-atcfbv4.rar	6dfc0d8eec7be2e73810a881cc49607f
+hr-atcfbv4.sfv	d77b7a5acd8475cad12938dad407da0a

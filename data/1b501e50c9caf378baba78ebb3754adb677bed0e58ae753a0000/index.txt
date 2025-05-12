@@ -1,0 +1,4 @@
+sxs-angry_bunnies_colossal_carrot_crusade_incl_dlc.nfo	-	7850	1	0	0	0
+sxs-angry_bunnies_colossal_carrot_crusade_incl_dlc.r00	-	44000699	1	7850	0	1
+sxs-angry_bunnies_colossal_carrot_crusade_incl_dlc.rar	-	50000000	1	44008549	0	43
+sxs-angry_bunnies_colossal_carrot_crusade_incl_dlc.sfv	-	130	1	94008549	0	91

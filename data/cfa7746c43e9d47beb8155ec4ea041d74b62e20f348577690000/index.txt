@@ -1,0 +1,10 @@
+sxs-warzone_chronicles_virtual_warfare_shooter.nfo	-	6758	1	0	0	0
+sxs-warzone_chronicles_virtual_warfare_shooter.r00	-	100000000	1	6758	0	1
+sxs-warzone_chronicles_virtual_warfare_shooter.r01	-	100000000	1	100006758	0	97
+sxs-warzone_chronicles_virtual_warfare_shooter.r02	-	100000000	1	200006758	0	193
+sxs-warzone_chronicles_virtual_warfare_shooter.r03	-	100000000	1	300006758	0	289
+sxs-warzone_chronicles_virtual_warfare_shooter.r04	-	100000000	1	400006758	0	385
+sxs-warzone_chronicles_virtual_warfare_shooter.r05	-	100000000	1	500006758	0	481
+sxs-warzone_chronicles_virtual_warfare_shooter.r06	-	43222693	1	62251264	1	60
+sxs-warzone_chronicles_virtual_warfare_shooter.rar	-	100000000	1	105473957	1	102
+sxs-warzone_chronicles_virtual_warfare_shooter.sfv	-	488	1	205473957	1	198

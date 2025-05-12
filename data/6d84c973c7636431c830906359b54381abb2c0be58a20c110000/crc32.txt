@@ -1,0 +1,6 @@
+sxs-mini_metro_v131072.nfo	4d7ed870
+sxs-mini_metro_v131072.r00	5947e490
+sxs-mini_metro_v131072.r01	bb42c43d
+sxs-mini_metro_v131072.r02	95d3b935
+sxs-mini_metro_v131072.rar	3ef31795
+sxs-mini_metro_v131072.sfv	ea68b444

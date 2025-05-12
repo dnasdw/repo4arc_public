@@ -1,0 +1,5 @@
+sxs-super_rebellion_v65536.nfo	-	3872	1	0	0	0
+sxs-super_rebellion_v65536.r00	-	50000000	1	3872	0	1
+sxs-super_rebellion_v65536.r01	-	34002477	1	50003872	0	49
+sxs-super_rebellion_v65536.rar	-	50000000	1	84006349	0	82
+sxs-super_rebellion_v65536.sfv	-	123	1	134006349	0	130

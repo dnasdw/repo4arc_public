@@ -1,0 +1,3 @@
+sxs-rento_fortune_rento_teams_dlc.nfo	9274bf764b3040b0c495c602c1aaf33e2f282acc
+sxs-rento_fortune_rento_teams_dlc.rar	e06b62bddd604f2c5a217960d2c336d4ffff33eb
+sxs-rento_fortune_rento_teams_dlc.sfv	1fc4593cca8085043932c8c98d2b531d31358353

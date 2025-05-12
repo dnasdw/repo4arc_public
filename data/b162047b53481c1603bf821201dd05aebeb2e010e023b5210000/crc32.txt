@@ -1,0 +1,10 @@
+sxs-petit_petit_petit.nfo	67cb0bd1
+sxs-petit_petit_petit.r00	bd87046a
+sxs-petit_petit_petit.r01	92833e4c
+sxs-petit_petit_petit.r02	c4fc0314
+sxs-petit_petit_petit.r03	353013cf
+sxs-petit_petit_petit.r04	cbe133f5
+sxs-petit_petit_petit.r05	5ca04d5f
+sxs-petit_petit_petit.r06	53a3febd
+sxs-petit_petit_petit.rar	79409004
+sxs-petit_petit_petit.sfv	f57d2f31

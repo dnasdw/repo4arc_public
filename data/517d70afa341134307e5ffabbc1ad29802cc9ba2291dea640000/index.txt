@@ -1,0 +1,4 @@
+sxs-membrane_v196608.nfo	-	5042	1	0	0	0
+sxs-membrane_v196608.r00	-	16285438	1	5042	0	1
+sxs-membrane_v196608.rar	-	50000000	1	16290480	0	17
+sxs-membrane_v196608.sfv	-	70	1	66290480	0	65

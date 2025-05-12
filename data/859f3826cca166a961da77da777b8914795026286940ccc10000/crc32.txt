@@ -1,0 +1,10 @@
+v-redout_space_assault_v65536.nfo	fa62f693
+v-redout_space_assault_v65536.r00	c46d7a62
+v-redout_space_assault_v65536.r01	484ef0fa
+v-redout_space_assault_v65536.r02	65470ebe
+v-redout_space_assault_v65536.r03	41911d77
+v-redout_space_assault_v65536.r04	8f16777b
+v-redout_space_assault_v65536.r05	cb64b437
+v-redout_space_assault_v65536.r06	a2912528
+v-redout_space_assault_v65536.rar	38d57ef5
+v-redout_space_assault_v65536.sfv	8e53f3e5

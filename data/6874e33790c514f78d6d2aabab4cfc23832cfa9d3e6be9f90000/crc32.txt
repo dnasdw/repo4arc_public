@@ -1,0 +1,3 @@
+v-catan_console_edition_dlc.nfo	09bcfc96
+v-catan_console_edition_dlc.rar	17886c63
+v-catan_console_edition_dlc.sfv	2aaaa17a

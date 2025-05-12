@@ -1,0 +1,7 @@
+sxs-hammerhelm_v131072.nfo	ceba5905f74a2a8892ad00188e0368e6
+sxs-hammerhelm_v131072.r00	c11d045b0ae6697fc85e72a177b1eb2f
+sxs-hammerhelm_v131072.r01	0a7048bd5c5867c9248aa4e7a942e5e5
+sxs-hammerhelm_v131072.r02	d9e9a03a5d1d23ec3e0c86542dcbbc07
+sxs-hammerhelm_v131072.r03	e55cf7d92e2457fc678b0ac314647cc3
+sxs-hammerhelm_v131072.rar	62388251f3ff1c93806cc7057dd64f0d
+sxs-hammerhelm_v131072.sfv	4ef976081a1a290e72f746abdf06b554

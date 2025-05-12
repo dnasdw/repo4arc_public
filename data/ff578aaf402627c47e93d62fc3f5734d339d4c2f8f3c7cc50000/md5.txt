@@ -1,0 +1,4 @@
+sxs-snk40ac_dlc.nfo	aff595029619d12029b9ab9b5827ddb7
+sxs-snk40ac_dlc.r00	3acdc2e08f7d7f670e550fb2ab3016f6
+sxs-snk40ac_dlc.rar	be35c95ce4505e4b175d3469fa98fe82
+sxs-snk40ac_dlc.sfv	ff9bdcfa4edeaf6558e44c58807cff61

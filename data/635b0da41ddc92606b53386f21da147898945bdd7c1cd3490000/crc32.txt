@@ -1,0 +1,9 @@
+sxs-mystery_box_escape_the_room.nfo	3dd1178a
+sxs-mystery_box_escape_the_room.r00	f7773c1f
+sxs-mystery_box_escape_the_room.r01	20fd68d9
+sxs-mystery_box_escape_the_room.r02	e964a784
+sxs-mystery_box_escape_the_room.r03	5832c6e3
+sxs-mystery_box_escape_the_room.r04	05e89b18
+sxs-mystery_box_escape_the_room.r05	e0d24fba
+sxs-mystery_box_escape_the_room.rar	b19a5bdd
+sxs-mystery_box_escape_the_room.sfv	5508994b

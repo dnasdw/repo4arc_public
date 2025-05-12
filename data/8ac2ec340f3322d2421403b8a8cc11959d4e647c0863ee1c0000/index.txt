@@ -1,0 +1,3 @@
+bbb-n-amwca.nfo	-	5517	1	0	0	0
+bbb-n-amwca.rar	-	121938203	1	5517	0	1
+bbb-n-amwca.sfv	-	26	1	121943720	0	118

@@ -1,0 +1,12 @@
+lfc-hebl.nfo	6f4c1912
+lfc-hebl.r00	dc9bca30
+lfc-hebl.r01	727516e0
+lfc-hebl.r02	c061aa81
+lfc-hebl.r03	1eff9918
+lfc-hebl.r04	0446880c
+lfc-hebl.r05	349d773e
+lfc-hebl.r06	4f67814e
+lfc-hebl.r07	267dbda4
+lfc-hebl.r08	5c612138
+lfc-hebl.rar	6bd13783
+lfc-hebl.sfv	a18f472c

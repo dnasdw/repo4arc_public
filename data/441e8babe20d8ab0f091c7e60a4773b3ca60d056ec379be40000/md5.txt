@@ -1,0 +1,7 @@
+v-blood_waves_v65536.nfo	ec0e7b6ea2ecc7f8ca4fe55fc0c37849
+v-blood_waves_v65536.r00	04f8b7974ed2a936e82d57625bdd3306
+v-blood_waves_v65536.r01	f59e59ee524d3907ed19fda5afd452c6
+v-blood_waves_v65536.r02	b35bd7976dc3d65efeffcdd34461d702
+v-blood_waves_v65536.r03	0d64971ee3d66b58d05c2b741b6a9231
+v-blood_waves_v65536.rar	aa624cf426e76668afba616e84962b92
+v-blood_waves_v65536.sfv	c19c9db8376fbec28eb71ac09ecabb36

@@ -1,0 +1,16 @@
+lfc-saap.nfo	95da17d07c87231d2e2639496630da9c
+lfc-saap.r00	0959b5cb26bd59e3c0d81152d1b1272a
+lfc-saap.r01	1f1f560a6c5b2760d0f02c32cd534993
+lfc-saap.r02	a07cd51ed7388f4f1d201e1bec5026de
+lfc-saap.r03	d4515f7c612ba387d7a6a2a6fce6827e
+lfc-saap.r04	5f9758df78db61da586afe2459c7d2ac
+lfc-saap.r05	bbd2c7f6892a4899a2345828a1fb0eaa
+lfc-saap.r06	7d2df7a5aed139aebaf56433fce46b55
+lfc-saap.r07	d63bee5a5f4b833be7170fd82b47f707
+lfc-saap.r08	5a4e8062f2527403a0549481e567825f
+lfc-saap.r09	fa1e3093aaa23cbe0e6fe0f4a5555de0
+lfc-saap.r10	02a4abe230f8f7c2dd02b2fed40b38da
+lfc-saap.r11	932dfc9107908256c50da1e3a6b679f0
+lfc-saap.r12	be9f1cd6a24e22dff89f1cac5fc48b4a
+lfc-saap.rar	c14039f191c17e5e37e0907a522a3cec
+lfc-saap.sfv	f3620663b54639ae48a73fa4012baccb

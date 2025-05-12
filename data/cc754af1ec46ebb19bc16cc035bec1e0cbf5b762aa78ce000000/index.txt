@@ -1,0 +1,7 @@
+darkmoon-eat.beat.deadspike.san.eshop.nsw.nfo	-	16711	1	0	0	0
+darkmoon-eat.beat.deadspike.san.eshop.nsw.r00	-	50000000	1	16711	0	1
+darkmoon-eat.beat.deadspike.san.eshop.nsw.r01	-	50000000	1	50016711	0	49
+darkmoon-eat.beat.deadspike.san.eshop.nsw.r02	-	50000000	1	100016711	0	97
+darkmoon-eat.beat.deadspike.san.eshop.nsw.r03	-	27555149	1	150016711	0	145
+darkmoon-eat.beat.deadspike.san.eshop.nsw.rar	-	50000000	1	177571860	0	172
+darkmoon-eat.beat.deadspike.san.eshop.nsw.sfv	-	280	1	227571860	0	220

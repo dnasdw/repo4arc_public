@@ -1,0 +1,9 @@
+v-code_shifter.nfo	-	7072	1	0	0	0
+v-code_shifter.r00	-	50000000	1	7072	0	1
+v-code_shifter.r01	-	50000000	1	50007072	0	49
+v-code_shifter.r02	-	50000000	1	100007072	0	97
+v-code_shifter.r03	-	50000000	1	150007072	0	145
+v-code_shifter.r04	-	50000000	1	200007072	0	193
+v-code_shifter.r05	-	5776963	1	250007072	0	241
+v-code_shifter.rar	-	50000000	1	255784035	0	247
+v-code_shifter.sfv	-	203	1	305784035	0	295

@@ -1,0 +1,7 @@
+sxs-timberman_vs_v262144.nfo	-	6056	1	0	0	0
+sxs-timberman_vs_v262144.r00	-	50000000	1	6056	0	1
+sxs-timberman_vs_v262144.r01	-	50000000	1	50006056	0	49
+sxs-timberman_vs_v262144.r02	-	50000000	1	100006056	0	97
+sxs-timberman_vs_v262144.r03	-	14324910	1	150006056	0	145
+sxs-timberman_vs_v262144.rar	-	50000000	1	164330966	0	159
+sxs-timberman_vs_v262144.sfv	-	195	1	214330966	0	207

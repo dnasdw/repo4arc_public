@@ -1,0 +1,8 @@
+sxs-hyperforma_v65536.nfo	373fed02
+sxs-hyperforma_v65536.r00	3f18380c
+sxs-hyperforma_v65536.r01	c9b620f2
+sxs-hyperforma_v65536.r02	eef7b6ca
+sxs-hyperforma_v65536.r03	6bbdc28e
+sxs-hyperforma_v65536.r04	1913962f
+sxs-hyperforma_v65536.rar	f94c504d
+sxs-hyperforma_v65536.sfv	96666ace

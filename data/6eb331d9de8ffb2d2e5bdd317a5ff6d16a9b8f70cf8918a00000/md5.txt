@@ -1,0 +1,3 @@
+sxs-aeternoblade_bikini_costume_dlc.nfo	2e5138fb9c424803ed8cdbb8492c2266
+sxs-aeternoblade_bikini_costume_dlc.rar	0a2c816a33adc51b2ef14f04b1cfb46c
+sxs-aeternoblade_bikini_costume_dlc.sfv	bf4359df5c7a945ecb2412d1e4a8a6e8

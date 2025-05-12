@@ -1,0 +1,5 @@
+sxs-for_a_vast_future.nfo	-	5978	1	0	0	0
+sxs-for_a_vast_future.r00	-	100000000	1	5978	0	1
+sxs-for_a_vast_future.r01	-	67842638	1	100005978	0	97
+sxs-for_a_vast_future.rar	-	100000000	1	167848616	0	162
+sxs-for_a_vast_future.sfv	-	108	1	267848616	0	258

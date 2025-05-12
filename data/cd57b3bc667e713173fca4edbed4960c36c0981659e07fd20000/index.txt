@@ -1,0 +1,11 @@
+lfc-voxelsword.nfo	-	4145	1	0	0	0
+lfc-voxelsword.r00	-	50000000	1	4145	0	1
+lfc-voxelsword.r01	-	50000000	1	50004145	0	49
+lfc-voxelsword.r02	-	50000000	1	100004145	0	97
+lfc-voxelsword.r03	-	50000000	1	150004145	0	145
+lfc-voxelsword.r04	-	50000000	1	200004145	0	193
+lfc-voxelsword.r05	-	50000000	1	250004145	0	241
+lfc-voxelsword.r06	-	50000000	1	300004145	0	289
+lfc-voxelsword.r07	-	25017875	1	350004145	0	337
+lfc-voxelsword.rar	-	50000000	1	375022020	0	361
+lfc-voxelsword.sfv	-	261	1	425022020	0	409

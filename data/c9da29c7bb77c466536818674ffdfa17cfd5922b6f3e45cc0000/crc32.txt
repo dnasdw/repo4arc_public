@@ -1,0 +1,17 @@
+sxs-deaths_gambit_afterlife_v393216.nfo	da77b1d6
+sxs-deaths_gambit_afterlife_v393216.r00	24ff8122
+sxs-deaths_gambit_afterlife_v393216.r01	0580c467
+sxs-deaths_gambit_afterlife_v393216.r02	1413eb1f
+sxs-deaths_gambit_afterlife_v393216.r03	f0ab9b5a
+sxs-deaths_gambit_afterlife_v393216.r04	02b605c7
+sxs-deaths_gambit_afterlife_v393216.r05	4248f8d2
+sxs-deaths_gambit_afterlife_v393216.r06	e1f2a750
+sxs-deaths_gambit_afterlife_v393216.r07	53959c2d
+sxs-deaths_gambit_afterlife_v393216.r08	406bb317
+sxs-deaths_gambit_afterlife_v393216.r09	9f5eb6ae
+sxs-deaths_gambit_afterlife_v393216.r10	34060a2e
+sxs-deaths_gambit_afterlife_v393216.r11	e7e23ed3
+sxs-deaths_gambit_afterlife_v393216.r12	866fbbeb
+sxs-deaths_gambit_afterlife_v393216.r13	cfab898c
+sxs-deaths_gambit_afterlife_v393216.rar	f79732a1
+sxs-deaths_gambit_afterlife_v393216.sfv	cf7ec64c

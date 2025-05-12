@@ -1,0 +1,15 @@
+v-stellatum.nfo	32d52fb1
+v-stellatum.r00	22debda0
+v-stellatum.r01	381df774
+v-stellatum.r02	cc799f45
+v-stellatum.r03	e73baf0e
+v-stellatum.r04	90770414
+v-stellatum.r05	0f9a85d1
+v-stellatum.r06	af2cf9e6
+v-stellatum.r07	66dc7389
+v-stellatum.r08	74c400d5
+v-stellatum.r09	f67d33fc
+v-stellatum.r10	834ca772
+v-stellatum.r11	92dbf1bd
+v-stellatum.rar	8d0c5376
+v-stellatum.sfv	c3616f5a

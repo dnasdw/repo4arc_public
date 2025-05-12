@@ -1,0 +1,15 @@
+l-mybrotherrabbit.nfo	1b99b6df
+l-mybrotherrabbit.r00	ec32372a
+l-mybrotherrabbit.r01	1443dfe8
+l-mybrotherrabbit.r02	46a020a2
+l-mybrotherrabbit.r03	ba4ea7ca
+l-mybrotherrabbit.r04	dbf2bac7
+l-mybrotherrabbit.r05	50f89358
+l-mybrotherrabbit.r06	3c91ade2
+l-mybrotherrabbit.r07	12bb3faa
+l-mybrotherrabbit.r08	59ca0812
+l-mybrotherrabbit.r09	edf0ad79
+l-mybrotherrabbit.r10	e94eff17
+l-mybrotherrabbit.r11	678648a2
+l-mybrotherrabbit.rar	44e19a9d
+l-mybrotherrabbit.sfv	96bcd8eb

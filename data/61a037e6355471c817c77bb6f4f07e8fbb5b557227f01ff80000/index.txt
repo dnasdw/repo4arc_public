@@ -1,0 +1,5 @@
+sxs-game_dev_story_v196608.nfo	-	4652	1	0	0	0
+sxs-game_dev_story_v196608.r00	-	50000000	1	4652	0	1
+sxs-game_dev_story_v196608.r01	-	30941643	1	50004652	0	49
+sxs-game_dev_story_v196608.rar	-	50000000	1	80946295	0	79
+sxs-game_dev_story_v196608.sfv	-	123	1	130946295	0	127

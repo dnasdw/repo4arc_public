@@ -1,0 +1,10 @@
+sxs-musynx_v131072.nfo	7918f4cb
+sxs-musynx_v131072.r00	5cf5c0aa
+sxs-musynx_v131072.r01	539b8eb7
+sxs-musynx_v131072.r02	25f064b9
+sxs-musynx_v131072.r03	16766f24
+sxs-musynx_v131072.r04	cc34ae9f
+sxs-musynx_v131072.r05	a81991b2
+sxs-musynx_v131072.r06	d6df9757
+sxs-musynx_v131072.rar	524671d7
+sxs-musynx_v131072.sfv	1d237129

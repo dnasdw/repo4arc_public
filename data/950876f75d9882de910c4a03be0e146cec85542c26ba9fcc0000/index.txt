@@ -1,0 +1,11 @@
+sxs-pandas_village.nfo	-	5588	1	0	0	0
+sxs-pandas_village.r00	-	100000000	1	5588	0	1
+sxs-pandas_village.r01	-	100000000	1	100005588	0	97
+sxs-pandas_village.r02	-	100000000	1	200005588	0	193
+sxs-pandas_village.r03	-	100000000	1	300005588	0	289
+sxs-pandas_village.r04	-	100000000	1	400005588	0	385
+sxs-pandas_village.r05	-	100000000	1	500005588	0	481
+sxs-pandas_village.r06	-	100000000	1	62251264	1	60
+sxs-pandas_village.r07	-	78491936	1	162251264	1	156
+sxs-pandas_village.rar	-	100000000	1	240743200	1	231
+sxs-pandas_village.sfv	-	297	1	340743200	1	327

@@ -1,0 +1,5 @@
+sxs-digimon_world_next_order_v65536.nfo	681f2465
+sxs-digimon_world_next_order_v65536.r00	878a98fe
+sxs-digimon_world_next_order_v65536.r01	0d31fbc4
+sxs-digimon_world_next_order_v65536.rar	6e632924
+sxs-digimon_world_next_order_v65536.sfv	ef2bee97

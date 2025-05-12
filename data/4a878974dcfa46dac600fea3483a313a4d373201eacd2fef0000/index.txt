@@ -1,0 +1,5 @@
+lfc-al7waupdate.nfo	-	5127	1	0	0	0
+lfc-al7waupdate.r00	-	100000000	1	5127	0	1
+lfc-al7waupdate.r01	-	36292618	1	100005127	0	97
+lfc-al7waupdate.rar	-	100000000	1	136297745	0	132
+lfc-al7waupdate.sfv	-	90	1	236297745	0	228

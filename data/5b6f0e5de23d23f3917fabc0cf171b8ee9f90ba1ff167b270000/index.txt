@@ -1,0 +1,10 @@
+sxs-bird_game_plus.nfo	-	5042	1	0	0	0
+sxs-bird_game_plus.r00	-	50000000	1	5042	0	1
+sxs-bird_game_plus.r01	-	50000000	1	50005042	0	49
+sxs-bird_game_plus.r02	-	50000000	1	100005042	0	97
+sxs-bird_game_plus.r03	-	50000000	1	150005042	0	145
+sxs-bird_game_plus.r04	-	50000000	1	200005042	0	193
+sxs-bird_game_plus.r05	-	50000000	1	250005042	0	241
+sxs-bird_game_plus.r06	-	45072265	1	300005042	0	289
+sxs-bird_game_plus.rar	-	50000000	1	345077307	0	332
+sxs-bird_game_plus.sfv	-	264	1	395077307	0	380

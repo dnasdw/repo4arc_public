@@ -1,0 +1,17 @@
+sxs-zombie_army_4_dead_war_v131072.nfo	fde9d97f
+sxs-zombie_army_4_dead_war_v131072.r00	ab361d64
+sxs-zombie_army_4_dead_war_v131072.r01	0dd852f6
+sxs-zombie_army_4_dead_war_v131072.r02	2d178960
+sxs-zombie_army_4_dead_war_v131072.r03	5042218f
+sxs-zombie_army_4_dead_war_v131072.r04	b06fcde3
+sxs-zombie_army_4_dead_war_v131072.r05	a61b263a
+sxs-zombie_army_4_dead_war_v131072.r06	435807c3
+sxs-zombie_army_4_dead_war_v131072.r07	44d993cf
+sxs-zombie_army_4_dead_war_v131072.r08	99befbbe
+sxs-zombie_army_4_dead_war_v131072.r09	e74af27d
+sxs-zombie_army_4_dead_war_v131072.r10	56e07154
+sxs-zombie_army_4_dead_war_v131072.r11	bad6f431
+sxs-zombie_army_4_dead_war_v131072.r12	3f095020
+sxs-zombie_army_4_dead_war_v131072.r13	2fc15dce
+sxs-zombie_army_4_dead_war_v131072.rar	c9f44baf
+sxs-zombie_army_4_dead_war_v131072.sfv	b9108664

@@ -1,0 +1,4 @@
+sxs-graze_counter_gm_v262144.nfo	-	7694	1	0	0	0
+sxs-graze_counter_gm_v262144.r00	-	34993624	1	7694	0	1
+sxs-graze_counter_gm_v262144.rar	-	100000000	1	35001318	0	35
+sxs-graze_counter_gm_v262144.sfv	-	86	1	135001318	0	131

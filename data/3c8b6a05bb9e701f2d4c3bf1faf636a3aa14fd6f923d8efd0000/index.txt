@@ -1,0 +1,9 @@
+lfc-azombied.nfo	-	4271	1	0	0	0
+lfc-azombied.r00	-	50000000	1	4271	0	1
+lfc-azombied.r01	-	50000000	1	50004271	0	49
+lfc-azombied.r02	-	50000000	1	100004271	0	97
+lfc-azombied.r03	-	50000000	1	150004271	0	145
+lfc-azombied.r04	-	50000000	1	200004271	0	193
+lfc-azombied.r05	-	4607439	1	250004271	0	241
+lfc-azombied.rar	-	50000000	1	254611710	0	246
+lfc-azombied.sfv	-	189	1	304611710	0	294

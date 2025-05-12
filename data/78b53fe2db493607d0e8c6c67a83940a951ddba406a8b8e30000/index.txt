@@ -1,0 +1,9 @@
+sxs-gensokyo_defenders_v327680.nfo	-	4028	1	0	0	0
+sxs-gensokyo_defenders_v327680.r00	-	50000000	1	4028	0	1
+sxs-gensokyo_defenders_v327680.r01	-	50000000	1	50004028	0	49
+sxs-gensokyo_defenders_v327680.r02	-	50000000	1	100004028	0	97
+sxs-gensokyo_defenders_v327680.r03	-	50000000	1	150004028	0	145
+sxs-gensokyo_defenders_v327680.r04	-	50000000	1	200004028	0	193
+sxs-gensokyo_defenders_v327680.r05	-	28545209	1	250004028	0	241
+sxs-gensokyo_defenders_v327680.rar	-	50000000	1	278549237	0	269
+sxs-gensokyo_defenders_v327680.sfv	-	315	1	328549237	0	317

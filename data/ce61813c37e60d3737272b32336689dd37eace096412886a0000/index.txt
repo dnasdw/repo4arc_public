@@ -1,0 +1,4 @@
+sxs-angerforce_reloaded_for_nintendo_switch_v65536.nfo	-	6602	1	0	0	0
+sxs-angerforce_reloaded_for_nintendo_switch_v65536.r00	-	44396597	1	6602	0	1
+sxs-angerforce_reloaded_for_nintendo_switch_v65536.rar	-	50000000	1	44403199	0	44
+sxs-angerforce_reloaded_for_nintendo_switch_v65536.sfv	-	130	1	94403199	0	92

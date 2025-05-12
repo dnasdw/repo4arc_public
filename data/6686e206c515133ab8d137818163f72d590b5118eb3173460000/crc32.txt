@@ -1,0 +1,12 @@
+i-sagr.nfo	fa1ba738
+i-sagr.r00	1dcbd545
+i-sagr.r01	b237492e
+i-sagr.r02	faeb150d
+i-sagr.r03	349afa8a
+i-sagr.r04	e8949d39
+i-sagr.r05	f6bea5a4
+i-sagr.r06	900d6584
+i-sagr.r07	48dd4fb2
+i-sagr.r08	0d9dc7fc
+i-sagr.rar	756c865a
+i-sagr.sfv	f983b0a7

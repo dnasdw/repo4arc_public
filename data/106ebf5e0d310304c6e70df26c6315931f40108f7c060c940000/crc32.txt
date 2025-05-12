@@ -1,0 +1,13 @@
+v-taiko_v131072.nfo	351f4a7d
+v-taiko_v131072.r00	d9915700
+v-taiko_v131072.r01	f96fe4f1
+v-taiko_v131072.r02	ad946037
+v-taiko_v131072.r03	6dfe547f
+v-taiko_v131072.r04	fedc9d63
+v-taiko_v131072.r05	4859127e
+v-taiko_v131072.r06	b16b9751
+v-taiko_v131072.r07	57b16ba7
+v-taiko_v131072.r08	db20685a
+v-taiko_v131072.r09	ad4c46fe
+v-taiko_v131072.rar	c30d85d9
+v-taiko_v131072.sfv	c928b2a7

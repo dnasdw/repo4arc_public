@@ -1,0 +1,4 @@
+sxs-super_chicken_jumper.nfo	deddf86d
+sxs-super_chicken_jumper.r00	ccf240ec
+sxs-super_chicken_jumper.rar	6a6020df
+sxs-super_chicken_jumper.sfv	4d3e94e6

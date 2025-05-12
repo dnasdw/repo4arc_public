@@ -1,0 +1,5 @@
+sxs-scott_pilgrim_vs_the_world_the_game_v196608.nfo	-	4574	1	0	0	0
+sxs-scott_pilgrim_vs_the_world_the_game_v196608.r00	-	50000000	1	4574	0	1
+sxs-scott_pilgrim_vs_the_world_the_game_v196608.r01	-	10953726	1	50004574	0	49
+sxs-scott_pilgrim_vs_the_world_the_game_v196608.rar	-	50000000	1	60958300	0	60
+sxs-scott_pilgrim_vs_the_world_the_game_v196608.sfv	-	186	1	110958300	0	108

@@ -1,0 +1,13 @@
+lfc-ar3sb.nfo	ed5aed32
+lfc-ar3sb.r00	6174cec3
+lfc-ar3sb.r01	ee70e2d4
+lfc-ar3sb.r02	5bbef826
+lfc-ar3sb.r03	4d2083a7
+lfc-ar3sb.r04	76c18725
+lfc-ar3sb.r05	8ad02099
+lfc-ar3sb.r06	727c90f8
+lfc-ar3sb.r07	2c6399f5
+lfc-ar3sb.r08	04d9b127
+lfc-ar3sb.r09	21637954
+lfc-ar3sb.rar	bac94060
+lfc-ar3sb.sfv	aee4d0cd

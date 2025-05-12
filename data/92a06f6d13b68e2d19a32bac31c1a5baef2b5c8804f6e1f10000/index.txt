@@ -1,0 +1,12 @@
+sxs-connected_hearts_full_moon_curse_collectors_edition.nfo	-	5354	1	0	0	0
+sxs-connected_hearts_full_moon_curse_collectors_edition.r00	-	100000000	1	5354	0	1
+sxs-connected_hearts_full_moon_curse_collectors_edition.r01	-	100000000	1	100005354	0	97
+sxs-connected_hearts_full_moon_curse_collectors_edition.r02	-	100000000	1	200005354	0	193
+sxs-connected_hearts_full_moon_curse_collectors_edition.r03	-	100000000	1	300005354	0	289
+sxs-connected_hearts_full_moon_curse_collectors_edition.r04	-	100000000	1	400005354	0	385
+sxs-connected_hearts_full_moon_curse_collectors_edition.r05	-	100000000	1	500005354	0	481
+sxs-connected_hearts_full_moon_curse_collectors_edition.r06	-	100000000	1	62251264	1	60
+sxs-connected_hearts_full_moon_curse_collectors_edition.r07	-	100000000	1	162251264	1	156
+sxs-connected_hearts_full_moon_curse_collectors_edition.r08	-	24810483	1	262251264	1	252
+sxs-connected_hearts_full_moon_curse_collectors_edition.rar	-	100000000	1	287061747	1	276
+sxs-connected_hearts_full_moon_curse_collectors_edition.sfv	-	700	1	387061747	1	372

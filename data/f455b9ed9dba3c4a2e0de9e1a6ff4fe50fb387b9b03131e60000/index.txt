@@ -1,0 +1,6 @@
+bbb-n-aqdna.nfo	-	5517	1	0	0	0
+bbb-n-aqdna.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aqdna.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aqdna.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-aqdna.part4.rar	-	20118275	1	212251264	1	203
+bbb-n-aqdna.sfv	-	128	1	232369539	1	223

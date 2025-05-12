@@ -1,0 +1,7 @@
+sxs-the_world_according_to_girl.nfo	-	6530	1	0	0	0
+sxs-the_world_according_to_girl.r00	-	100000000	1	6530	0	1
+sxs-the_world_according_to_girl.r01	-	100000000	1	100006530	0	97
+sxs-the_world_according_to_girl.r02	-	100000000	1	200006530	0	193
+sxs-the_world_according_to_girl.r03	-	60116972	1	300006530	0	289
+sxs-the_world_according_to_girl.rar	-	100000000	1	360123502	0	347
+sxs-the_world_according_to_girl.sfv	-	230	1	460123502	0	443

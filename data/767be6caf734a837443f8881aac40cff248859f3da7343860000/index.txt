@@ -1,0 +1,5 @@
+sxs-reigns_three_kingdoms.nfo	-	5588	1	0	0	0
+sxs-reigns_three_kingdoms.r00	-	100000000	1	5588	0	1
+sxs-reigns_three_kingdoms.r01	-	81904389	1	100005588	0	97
+sxs-reigns_three_kingdoms.rar	-	100000000	1	181909977	0	176
+sxs-reigns_three_kingdoms.sfv	-	120	1	281909977	0	272

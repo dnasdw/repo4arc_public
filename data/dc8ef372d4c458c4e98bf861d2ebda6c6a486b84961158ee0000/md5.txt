@@ -1,0 +1,4 @@
+sxs-picross_s_v524288.nfo	7177fbbbcbeb85ce383249a9a8b2f817
+sxs-picross_s_v524288.r00	aa1cf2494476fa7451fbc627f50ed616
+sxs-picross_s_v524288.rar	a2f67b87ba1af3b709a7b4bf796e1927
+sxs-picross_s_v524288.sfv	db56fa5781fdbf221fabd9f48973c348

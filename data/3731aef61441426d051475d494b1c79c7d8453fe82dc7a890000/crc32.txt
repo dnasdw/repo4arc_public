@@ -1,0 +1,14 @@
+n-stormboy.nfo	683064ca
+n-stormboy.r00	1d0ceb56
+n-stormboy.r01	7dee32a8
+n-stormboy.r02	621982f2
+n-stormboy.r03	74d1a484
+n-stormboy.r04	a722783c
+n-stormboy.r05	93646457
+n-stormboy.r06	e5a8b4c8
+n-stormboy.r07	f8fb43d8
+n-stormboy.r08	60cc51e8
+n-stormboy.r09	0c93e0e3
+n-stormboy.r10	17af069b
+n-stormboy.rar	58bd6e23
+n-stormboy.sfv	5bd7c33b

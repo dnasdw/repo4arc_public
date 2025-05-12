@@ -1,0 +1,14 @@
+sxs-shadows_of_adam_v393216.nfo	ac184e1d
+sxs-shadows_of_adam_v393216.r00	b4c30034
+sxs-shadows_of_adam_v393216.r01	d9a5571a
+sxs-shadows_of_adam_v393216.r02	86da9c0a
+sxs-shadows_of_adam_v393216.r03	f5664e40
+sxs-shadows_of_adam_v393216.r04	599d93e3
+sxs-shadows_of_adam_v393216.r05	ae7edc04
+sxs-shadows_of_adam_v393216.r06	91ede6cc
+sxs-shadows_of_adam_v393216.r07	e10fcdab
+sxs-shadows_of_adam_v393216.r08	336472db
+sxs-shadows_of_adam_v393216.r09	41c2aa7c
+sxs-shadows_of_adam_v393216.r10	f7ca79fd
+sxs-shadows_of_adam_v393216.rar	01c57b36
+sxs-shadows_of_adam_v393216.sfv	fe85f23f

@@ -1,0 +1,7 @@
+brw-jigk.nfo	f343268b
+brw-jigk.r00	6a00fc35
+brw-jigk.r01	200787d9
+brw-jigk.r02	ca629900
+brw-jigk.r03	75ac7c88
+brw-jigk.rar	eac65bfe
+brw-jigk.sfv	653e52f4

@@ -1,0 +1,6 @@
+sxs-scribblenauts_mega_pack_v65536.nfo	-	4419	1	0	0	0
+sxs-scribblenauts_mega_pack_v65536.r00	-	50000000	1	4419	0	1
+sxs-scribblenauts_mega_pack_v65536.r01	-	50000000	1	50004419	0	49
+sxs-scribblenauts_mega_pack_v65536.r02	-	31699663	1	100004419	0	97
+sxs-scribblenauts_mega_pack_v65536.rar	-	50000000	1	131704082	0	128
+sxs-scribblenauts_mega_pack_v65536.sfv	-	196	1	181704082	0	176

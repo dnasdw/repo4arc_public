@@ -1,0 +1,12 @@
+bbb-n-anbwa.nfo	-	5517	1	0	0	0
+bbb-n-anbwa.part01.rar	-	250000000	1	5517	0	1
+bbb-n-anbwa.part02.rar	-	250000000	1	250005517	0	240
+bbb-n-anbwa.part03.rar	-	250000000	1	500005517	0	479
+bbb-n-anbwa.part04.rar	-	250000000	1	212251264	1	203
+bbb-n-anbwa.part05.rar	-	250000000	1	462251264	1	442
+bbb-n-anbwa.part06.rar	-	250000000	1	174502528	2	167
+bbb-n-anbwa.part07.rar	-	250000000	1	424502528	2	406
+bbb-n-anbwa.part08.rar	-	250000000	1	136753792	3	131
+bbb-n-anbwa.part09.rar	-	250000000	1	386753792	3	370
+bbb-n-anbwa.part10.rar	-	240243764	1	99005056	4	95
+bbb-n-anbwa.sfv	-	330	1	339248820	4	325

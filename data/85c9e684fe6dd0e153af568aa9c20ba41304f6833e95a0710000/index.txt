@@ -1,0 +1,12 @@
+sxs-laser_kitty_pow_pow.nfo	-	4653	1	0	0	0
+sxs-laser_kitty_pow_pow.r00	-	50000000	1	4653	0	1
+sxs-laser_kitty_pow_pow.r01	-	50000000	1	50004653	0	49
+sxs-laser_kitty_pow_pow.r02	-	50000000	1	100004653	0	97
+sxs-laser_kitty_pow_pow.r03	-	50000000	1	150004653	0	145
+sxs-laser_kitty_pow_pow.r04	-	50000000	1	200004653	0	193
+sxs-laser_kitty_pow_pow.r05	-	50000000	1	250004653	0	241
+sxs-laser_kitty_pow_pow.r06	-	50000000	1	300004653	0	289
+sxs-laser_kitty_pow_pow.r07	-	50000000	1	350004653	0	337
+sxs-laser_kitty_pow_pow.r08	-	44206042	1	400004653	0	385
+sxs-laser_kitty_pow_pow.rar	-	50000000	1	444210695	0	428
+sxs-laser_kitty_pow_pow.sfv	-	380	1	494210695	0	476

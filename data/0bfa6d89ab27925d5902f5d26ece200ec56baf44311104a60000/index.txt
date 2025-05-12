@@ -1,0 +1,16 @@
+lfc-fivenightsatfreddies4.nfo	-	4049	1	0	0	0
+lfc-fivenightsatfreddies4.r00	-	50000000	1	4049	0	1
+lfc-fivenightsatfreddies4.r01	-	50000000	1	50004049	0	49
+lfc-fivenightsatfreddies4.r02	-	50000000	1	100004049	0	97
+lfc-fivenightsatfreddies4.r03	-	50000000	1	150004049	0	145
+lfc-fivenightsatfreddies4.r04	-	50000000	1	200004049	0	193
+lfc-fivenightsatfreddies4.r05	-	50000000	1	250004049	0	241
+lfc-fivenightsatfreddies4.r06	-	50000000	1	300004049	0	289
+lfc-fivenightsatfreddies4.r07	-	50000000	1	350004049	0	337
+lfc-fivenightsatfreddies4.r08	-	50000000	1	400004049	0	385
+lfc-fivenightsatfreddies4.r09	-	50000000	1	450004049	0	433
+lfc-fivenightsatfreddies4.r10	-	50000000	1	500004049	0	481
+lfc-fivenightsatfreddies4.r11	-	50000000	1	12251264	1	12
+lfc-fivenightsatfreddies4.r12	-	428647	1	62251264	1	60
+lfc-fivenightsatfreddies4.rar	-	50000000	1	62679911	1	61
+lfc-fivenightsatfreddies4.sfv	-	560	1	112679911	1	109

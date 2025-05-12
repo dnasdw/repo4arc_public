@@ -1,0 +1,9 @@
+v-degrees_of_separation_v65536.nfo	-	4577	1	0	0	0
+v-degrees_of_separation_v65536.r00	-	50000000	1	4577	0	1
+v-degrees_of_separation_v65536.r01	-	50000000	1	50004577	0	49
+v-degrees_of_separation_v65536.r02	-	50000000	1	100004577	0	97
+v-degrees_of_separation_v65536.r03	-	50000000	1	150004577	0	145
+v-degrees_of_separation_v65536.r04	-	50000000	1	200004577	0	193
+v-degrees_of_separation_v65536.r05	-	7053857	1	250004577	0	241
+v-degrees_of_separation_v65536.rar	-	50000000	1	257058434	0	248
+v-degrees_of_separation_v65536.sfv	-	315	1	307058434	0	296

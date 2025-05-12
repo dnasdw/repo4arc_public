@@ -1,0 +1,10 @@
+lfc-a6sdc_v65536.nfo	fa4e0cc8
+lfc-a6sdc_v65536.r00	61695b0e
+lfc-a6sdc_v65536.r01	d32c43fc
+lfc-a6sdc_v65536.r02	a22a9456
+lfc-a6sdc_v65536.r03	26c27901
+lfc-a6sdc_v65536.r04	2010b755
+lfc-a6sdc_v65536.r05	800bede8
+lfc-a6sdc_v65536.r06	1304c2ce
+lfc-a6sdc_v65536.rar	a60e1fec
+lfc-a6sdc_v65536.sfv	3584596b

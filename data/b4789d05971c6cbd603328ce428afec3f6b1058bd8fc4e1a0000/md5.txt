@@ -1,0 +1,5 @@
+lfc-papu.nfo	3589c5a0b8110b8a1effa4f0f5b093b4
+lfc-papu.r00	b1197261f8a475830b79e9df4fe855ab
+lfc-papu.r01	a94035461e070890d2f332a9f487a329
+lfc-papu.rar	c77d4cb7fdb1f7872ce37a637e6ef266
+lfc-papu.sfv	c9204b3b3ca1415e4488ed77358db8c1

@@ -1,0 +1,9 @@
+v-catan_console_edition_v131072.nfo	-	6604	1	0	0	0
+v-catan_console_edition_v131072.r00	-	100000000	1	6604	0	1
+v-catan_console_edition_v131072.r01	-	100000000	1	100006604	0	97
+v-catan_console_edition_v131072.r02	-	100000000	1	200006604	0	193
+v-catan_console_edition_v131072.r03	-	100000000	1	300006604	0	289
+v-catan_console_edition_v131072.r04	-	100000000	1	400006604	0	385
+v-catan_console_edition_v131072.r05	-	16812034	1	500006604	0	481
+v-catan_console_edition_v131072.rar	-	100000000	1	516818638	0	498
+v-catan_console_edition_v131072.sfv	-	322	1	79028480	1	76

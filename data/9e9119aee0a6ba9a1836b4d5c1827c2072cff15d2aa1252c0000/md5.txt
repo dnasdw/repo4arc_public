@@ -1,0 +1,7 @@
+sxs-oo.nfo	651e74e75295ad6277d7c6f6bf4eccf1
+sxs-oo.r00	a5577f972907eb8e1b77030e96c0f6f1
+sxs-oo.r01	5606f256fcc5bc7e77874888da4a1b9e
+sxs-oo.r02	3cc20c7cf56c5af3670eb3f35a08ec92
+sxs-oo.r03	fbb847e21a01ee6d8e7c05b3b6e26014
+sxs-oo.rar	c4d839fbadf26c6da03f9f7562fc96c9
+sxs-oo.sfv	f77deebd807476f71ca3b6c9f7d9f67b

@@ -1,0 +1,5 @@
+sxs-bahnsen_knights.nfo	e0bfb5e8b7860fa2d10508eb684b7722
+sxs-bahnsen_knights.r00	01b6c5de31fc9f5562b238693f2084ea
+sxs-bahnsen_knights.r01	6573343e67779c61f155a96d4f669243
+sxs-bahnsen_knights.rar	f207a56f5a09856a3f888af900918e76
+sxs-bahnsen_knights.sfv	b1bb83ce711785e1b6d563f64f811e6a

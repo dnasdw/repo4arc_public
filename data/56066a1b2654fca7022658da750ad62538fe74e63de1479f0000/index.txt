@@ -1,0 +1,5 @@
+bbb-n-aqcra.nfo	-	5517	1	0	0	0
+bbb-n-aqcra.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aqcra.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aqcra.part3.rar	-	230043412	1	500005517	0	479
+bbb-n-aqcra.sfv	-	96	1	192294676	1	184

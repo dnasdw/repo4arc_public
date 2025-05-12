@@ -1,0 +1,6 @@
+sxs-city_bus_driver_simulator.nfo	-	7148	1	0	0	0
+sxs-city_bus_driver_simulator.r00	-	100000000	1	7148	0	1
+sxs-city_bus_driver_simulator.r01	-	100000000	1	100007148	0	97
+sxs-city_bus_driver_simulator.r02	-	79710329	1	200007148	0	193
+sxs-city_bus_driver_simulator.rar	-	100000000	1	279717477	0	270
+sxs-city_bus_driver_simulator.sfv	-	176	1	379717477	0	366

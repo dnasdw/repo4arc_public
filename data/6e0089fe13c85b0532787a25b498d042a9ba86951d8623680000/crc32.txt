@@ -1,0 +1,13 @@
+v-ssbu_v196608.nfo	640a265e
+v-ssbu_v196608.r00	531b8bf2
+v-ssbu_v196608.r01	3abb49f6
+v-ssbu_v196608.r02	6da49951
+v-ssbu_v196608.r03	9bb994a5
+v-ssbu_v196608.r04	3f25c9b7
+v-ssbu_v196608.r05	24377016
+v-ssbu_v196608.r06	cb560621
+v-ssbu_v196608.r07	78d767d4
+v-ssbu_v196608.r08	a38ba83a
+v-ssbu_v196608.r09	c82e9d85
+v-ssbu_v196608.rar	042de0e9
+v-ssbu_v196608.sfv	21833554

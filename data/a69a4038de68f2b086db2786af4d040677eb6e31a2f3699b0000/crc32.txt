@@ -1,0 +1,6 @@
+sxs-evolution_board_game_v131072.nfo	5165e555
+sxs-evolution_board_game_v131072.r00	13206808
+sxs-evolution_board_game_v131072.r01	4049050a
+sxs-evolution_board_game_v131072.r02	85821945
+sxs-evolution_board_game_v131072.rar	47840063
+sxs-evolution_board_game_v131072.sfv	129c0e50

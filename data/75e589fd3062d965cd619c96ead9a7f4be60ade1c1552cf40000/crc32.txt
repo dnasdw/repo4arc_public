@@ -1,0 +1,6 @@
+sxs-mario_kart_live_home_circuit_v131072.nfo	dcbe0750
+sxs-mario_kart_live_home_circuit_v131072.r00	ebd6615b
+sxs-mario_kart_live_home_circuit_v131072.r01	cfcbce1a
+sxs-mario_kart_live_home_circuit_v131072.r02	be3f8ea5
+sxs-mario_kart_live_home_circuit_v131072.rar	1f691fc4
+sxs-mario_kart_live_home_circuit_v131072.sfv	dd3b977f

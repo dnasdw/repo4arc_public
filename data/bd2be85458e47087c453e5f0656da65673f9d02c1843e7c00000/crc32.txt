@@ -1,0 +1,9 @@
+lfc-bope_v262144.nfo	9e8b23be
+lfc-bope_v262144.r00	417e7a3f
+lfc-bope_v262144.r01	4eef5735
+lfc-bope_v262144.r02	d4a880a8
+lfc-bope_v262144.r03	a7894a20
+lfc-bope_v262144.r04	72a44b03
+lfc-bope_v262144.r05	331448a8
+lfc-bope_v262144.rar	6e6d49e0
+lfc-bope_v262144.sfv	3aa689c8

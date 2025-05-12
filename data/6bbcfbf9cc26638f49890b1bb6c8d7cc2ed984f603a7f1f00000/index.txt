@@ -1,0 +1,5 @@
+sxs-pixel_puzzle_makeout_league_v196608.nfo	-	6759	1	0	0	0
+sxs-pixel_puzzle_makeout_league_v196608.r00	-	50000000	1	6759	0	1
+sxs-pixel_puzzle_makeout_league_v196608.r01	-	24900725	1	50006759	0	49
+sxs-pixel_puzzle_makeout_league_v196608.rar	-	50000000	1	74907484	0	73
+sxs-pixel_puzzle_makeout_league_v196608.sfv	-	162	1	124907484	0	121

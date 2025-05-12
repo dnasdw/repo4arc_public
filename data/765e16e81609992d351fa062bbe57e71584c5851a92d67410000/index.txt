@@ -1,0 +1,16 @@
+sxs-drift_master_simulator_2024_driving_sim.nfo	-	4340	1	0	0	0
+sxs-drift_master_simulator_2024_driving_sim.r00	-	100000000	1	4340	0	1
+sxs-drift_master_simulator_2024_driving_sim.r01	-	100000000	1	100004340	0	97
+sxs-drift_master_simulator_2024_driving_sim.r02	-	100000000	1	200004340	0	193
+sxs-drift_master_simulator_2024_driving_sim.r03	-	100000000	1	300004340	0	289
+sxs-drift_master_simulator_2024_driving_sim.r04	-	100000000	1	400004340	0	385
+sxs-drift_master_simulator_2024_driving_sim.r05	-	100000000	1	500004340	0	481
+sxs-drift_master_simulator_2024_driving_sim.r06	-	100000000	1	62251264	1	60
+sxs-drift_master_simulator_2024_driving_sim.r07	-	100000000	1	162251264	1	156
+sxs-drift_master_simulator_2024_driving_sim.r08	-	100000000	1	262251264	1	252
+sxs-drift_master_simulator_2024_driving_sim.r09	-	100000000	1	362251264	1	348
+sxs-drift_master_simulator_2024_driving_sim.r10	-	100000000	1	462251264	1	444
+sxs-drift_master_simulator_2024_driving_sim.r11	-	100000000	1	24502528	2	24
+sxs-drift_master_simulator_2024_driving_sim.r12	-	18675032	1	124502528	2	120
+sxs-drift_master_simulator_2024_driving_sim.rar	-	100000000	1	143177560	2	138
+sxs-drift_master_simulator_2024_driving_sim.sfv	-	812	1	243177560	2	234

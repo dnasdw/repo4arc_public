@@ -1,0 +1,10 @@
+sxs-morphies_law_v103.nfo	84baf26be557362c929ec5016b6ae827
+sxs-morphies_law_v103.r00	f23dd07c816818598ad1beb9b99687c4
+sxs-morphies_law_v103.r01	01cce3ac15d8af81ecf4097ba545d96d
+sxs-morphies_law_v103.r02	60d72fac2f750559be8d26dbf4ac97e3
+sxs-morphies_law_v103.r03	4071f001863bf20d2087355bd60506dc
+sxs-morphies_law_v103.r04	17bb369227589e3c13d8d6318acc2b92
+sxs-morphies_law_v103.r05	b4d71ad324a955ba297ee329e6fdbdfe
+sxs-morphies_law_v103.r06	1424913dd07a4e1702bba1bacac104f4
+sxs-morphies_law_v103.rar	e15fd8c36247b1ec0831fdefcd5a3a41
+sxs-morphies_law_v103.sfv	02a96ac4dc7716d4d58edb1c4f612763

@@ -1,0 +1,4 @@
+sxs-astro_duel_2.nfo	eb1c3c10ffffa2111d2cbe06d20d50aa02d2e110
+sxs-astro_duel_2.r00	d76f99e0e79a55cfc74ee3c4193fec57e1b35998
+sxs-astro_duel_2.rar	47fc8abdeb1b8adf24336f74064b5d0ad500c174
+sxs-astro_duel_2.sfv	72a0d9c0d293195eb1a115c06c4fe4fd2e2efa0d

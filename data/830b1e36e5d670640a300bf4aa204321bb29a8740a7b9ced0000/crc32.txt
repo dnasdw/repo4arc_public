@@ -1,0 +1,16 @@
+sxs-unspottable.nfo	4cd8fd6d
+sxs-unspottable.r00	e8085089
+sxs-unspottable.r01	d1853b98
+sxs-unspottable.r02	a33f6ec1
+sxs-unspottable.r03	f99236fd
+sxs-unspottable.r04	da6e5676
+sxs-unspottable.r05	e5f80f27
+sxs-unspottable.r06	0242fb09
+sxs-unspottable.r07	9d88cbe0
+sxs-unspottable.r08	dadaa614
+sxs-unspottable.r09	67b457d0
+sxs-unspottable.r10	44891237
+sxs-unspottable.r11	30062ecd
+sxs-unspottable.r12	15b9112e
+sxs-unspottable.rar	fa4fd61f
+sxs-unspottable.sfv	c5710dd0

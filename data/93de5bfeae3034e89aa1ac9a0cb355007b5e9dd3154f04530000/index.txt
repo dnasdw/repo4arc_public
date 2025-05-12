@@ -1,0 +1,3 @@
+sxs-arcade_archives_dragon_spirit_v65536.nfo	-	5276	1	0	0	0
+sxs-arcade_archives_dragon_spirit_v65536.rar	-	34703930	1	5276	0	1
+sxs-arcade_archives_dragon_spirit_v65536.sfv	-	55	1	34709206	0	35

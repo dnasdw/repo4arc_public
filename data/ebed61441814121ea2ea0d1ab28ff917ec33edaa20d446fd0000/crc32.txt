@@ -1,0 +1,16 @@
+sxs-moonlighter_v131072.nfo	7c3592fe
+sxs-moonlighter_v131072.r00	c4299b3c
+sxs-moonlighter_v131072.r01	466311ee
+sxs-moonlighter_v131072.r02	4f507ea4
+sxs-moonlighter_v131072.r03	40835c8c
+sxs-moonlighter_v131072.r04	c7abdde9
+sxs-moonlighter_v131072.r05	2bc40c77
+sxs-moonlighter_v131072.r06	b91c4a98
+sxs-moonlighter_v131072.r07	50f7e038
+sxs-moonlighter_v131072.r08	41569de4
+sxs-moonlighter_v131072.r09	aed7b850
+sxs-moonlighter_v131072.r10	a0d38e3c
+sxs-moonlighter_v131072.r11	1d885111
+sxs-moonlighter_v131072.r12	f24cb0ef
+sxs-moonlighter_v131072.rar	9a1d1995
+sxs-moonlighter_v131072.sfv	bfb50b30

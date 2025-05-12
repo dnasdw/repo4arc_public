@@ -1,0 +1,3 @@
+sxs-sonic_frontiers_monster_hunter_collaboration_pack_dlc.nfo	-	7538	1	0	0	0
+sxs-sonic_frontiers_monster_hunter_collaboration_pack_dlc.rar	-	6643157	1	7538	0	1
+sxs-sonic_frontiers_monster_hunter_collaboration_pack_dlc.sfv	-	72	1	6650695	0	8

@@ -1,0 +1,6 @@
+darkmoon-game.dev.story.eshop.nsw.nfo	b5201cd5e0dec732bb5e9365f27761e0c14caf3fd8813a34c9aeda02ca629b6f
+darkmoon-game.dev.story.eshop.nsw.r00	048d186aa2a4db5a1c650c9b38e23818d58e931c030bfe615ec1b25519aeb263
+darkmoon-game.dev.story.eshop.nsw.r01	23353a30f7a32469d35f962c43674c4b5994e56ee95e0541a5484559e6629aa8
+darkmoon-game.dev.story.eshop.nsw.r02	9d3900ab349278b4997d08f3461e21078bf5336948303e41db1bc4da941641c7
+darkmoon-game.dev.story.eshop.nsw.rar	2291ee99ff857309ae946d05fd02d16a1b3e83c1eb4545630267bf683ce81dfe
+darkmoon-game.dev.story.eshop.nsw.sfv	5f48f5660f0be3a71410c78d39737aff25219c166f7a403c171c7bf1812bd403

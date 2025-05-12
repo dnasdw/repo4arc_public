@@ -1,0 +1,6 @@
+v-picross_s5_v393216.nfo	7f5a8c7f
+v-picross_s5_v393216.r00	2c8b9594
+v-picross_s5_v393216.r01	fdb01093
+v-picross_s5_v393216.r02	8ee7334a
+v-picross_s5_v393216.rar	358ef08e
+v-picross_s5_v393216.sfv	9350c8bc

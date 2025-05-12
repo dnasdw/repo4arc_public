@@ -1,0 +1,12 @@
+i-turtlepop_jtf_v131072.nfo	e8522b42
+i-turtlepop_jtf_v131072.r00	8cc8d63e
+i-turtlepop_jtf_v131072.r01	f965a091
+i-turtlepop_jtf_v131072.r02	aaa0cb5a
+i-turtlepop_jtf_v131072.r03	ffe62abc
+i-turtlepop_jtf_v131072.r04	6680d443
+i-turtlepop_jtf_v131072.r05	b78a155a
+i-turtlepop_jtf_v131072.r06	9c4e98a8
+i-turtlepop_jtf_v131072.r07	914a9cd2
+i-turtlepop_jtf_v131072.r08	fee9162e
+i-turtlepop_jtf_v131072.rar	e4e4af61
+i-turtlepop_jtf_v131072.sfv	795cb87a

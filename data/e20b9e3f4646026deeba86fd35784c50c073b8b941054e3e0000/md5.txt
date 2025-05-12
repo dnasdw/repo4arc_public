@@ -1,0 +1,15 @@
+brw-amci.nfo	2fe01f5f28615b7f3dff9aa205e6d96a
+brw-amci.r00	83f28ccf4dcea0eb9457ccce41c62059
+brw-amci.r01	a124cf5dc9de359c3351ae7869f5f6a0
+brw-amci.r02	1883d002a6f4578b3ffbdf8bc37fad38
+brw-amci.r03	8e0462521e1178b4c8ae84a3207b2b3e
+brw-amci.r04	89fc9116ade2b0ce14a660ddbe87d7d0
+brw-amci.r05	7b1764c28769841c13e8c0ee1b5cd192
+brw-amci.r06	afe2d5ef4ba7d9e5edacbecacc5e7225
+brw-amci.r07	b7e6cd4fa91535434812f1ba6bb39b0e
+brw-amci.r08	cbe00c703371b01e372599c8c352c452
+brw-amci.r09	d57e248338dbc4e7eb5a14ab2879ef65
+brw-amci.r10	76f26547024f9dc40d3f1a01937e46bf
+brw-amci.r11	9ab1c8da55a6c5d374f5f777e0b6212a
+brw-amci.rar	c94234e0fa0e848d327df05bb46de0c5
+brw-amci.sfv	4f968d3d28c3b86f5992f9113998fad0

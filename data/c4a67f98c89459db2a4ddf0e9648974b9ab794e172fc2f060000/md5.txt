@@ -1,0 +1,17 @@
+jrp-h-anr6a-jpn.jpg	a3a1d4b361b70bcc693c501d83107f47
+jrp-h-anr6a-jpn.nfo	0992fffe49e1a33126fb04ea1c77004d
+jrp-h-anr6a-jpn.r00	c063a1fbe9ce78913b329bc3445da3b2
+jrp-h-anr6a-jpn.r01	6fd9f7d230784353466f50d765a56c01
+jrp-h-anr6a-jpn.r02	7c580b45d003d15fb0fef59a583c57aa
+jrp-h-anr6a-jpn.r03	dfd56b4696da428da20282681afbe001
+jrp-h-anr6a-jpn.r04	fb70c445700de4b770a4c22110fbe436
+jrp-h-anr6a-jpn.r05	af00f089ff1649f0f3ade64d38b7139d
+jrp-h-anr6a-jpn.r06	0d7f66bbd85e380e2c2f510684e2e972
+jrp-h-anr6a-jpn.r07	9497c8f6b40b953121c34df983f10aaf
+jrp-h-anr6a-jpn.r08	fd989082f50ad7dad93e3f4b16bc07b2
+jrp-h-anr6a-jpn.r09	8917f7ecf05fec32555401fec4b7dd94
+jrp-h-anr6a-jpn.r10	d91075150e799e42507452aeacf2468a
+jrp-h-anr6a-jpn.r11	85cb3323d8b4b1feb5471eed90ec5009
+jrp-h-anr6a-jpn.r12	944b106797a990499bf0a2c9a6de8b85
+jrp-h-anr6a-jpn.rar	60b17785b94d46eb104429ac3acd003b
+jrp-h-anr6a-jpn.sfv	b9751aed9683699e74b211e544f01eb7

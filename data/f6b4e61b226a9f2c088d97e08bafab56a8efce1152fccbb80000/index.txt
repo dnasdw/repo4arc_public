@@ -1,0 +1,3 @@
+hr-be2da-vol1-dlc.nfo	-	43404	1	0	0	0
+hr-be2da-vol1-dlc.rar	-	16210224	1	43404	0	1
+hr-be2da-vol1-dlc.sfv	-	32	1	16253628	0	17

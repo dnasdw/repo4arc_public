@@ -1,0 +1,14 @@
+Proof	00000000
+Proof/v-guns_and_spurs_2.jpg	12cd1262
+v-guns_and_spurs_2.nfo	071445d5
+v-guns_and_spurs_2.r00	2b249bbb
+v-guns_and_spurs_2.r01	4b5980c8
+v-guns_and_spurs_2.r02	24618728
+v-guns_and_spurs_2.r03	28262ba8
+v-guns_and_spurs_2.r04	0aa36715
+v-guns_and_spurs_2.r05	ba865a94
+v-guns_and_spurs_2.r06	6afd5442
+v-guns_and_spurs_2.r07	b4ac2aa9
+v-guns_and_spurs_2.r08	30173d98
+v-guns_and_spurs_2.rar	a35d112d
+v-guns_and_spurs_2.sfv	fac2e169

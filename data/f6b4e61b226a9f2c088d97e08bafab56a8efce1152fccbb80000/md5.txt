@@ -1,0 +1,3 @@
+hr-be2da-vol1-dlc.nfo	0028aaed4d93a78d5150e76f425ccc41
+hr-be2da-vol1-dlc.rar	7010e4a3f411df72a004c0efc6105c5c
+hr-be2da-vol1-dlc.sfv	54a565f1555af24c2316f638b7d1368b

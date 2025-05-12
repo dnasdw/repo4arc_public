@@ -1,0 +1,16 @@
+v-windjammers_2.nfo	57bc7aee
+v-windjammers_2.r00	bace3204
+v-windjammers_2.r01	51017fd8
+v-windjammers_2.r02	96b63640
+v-windjammers_2.r03	d1a5318a
+v-windjammers_2.r04	8855f176
+v-windjammers_2.r05	48ba58f5
+v-windjammers_2.r06	d16319b4
+v-windjammers_2.r07	2638ff5c
+v-windjammers_2.r08	5bd23117
+v-windjammers_2.r09	7f1d72aa
+v-windjammers_2.r10	13c95e41
+v-windjammers_2.r11	30d55549
+v-windjammers_2.r12	ce21d640
+v-windjammers_2.rar	78dafc67
+v-windjammers_2.sfv	d632a8f0

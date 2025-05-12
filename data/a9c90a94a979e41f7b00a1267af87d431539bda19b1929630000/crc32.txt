@@ -1,0 +1,8 @@
+sxs-n64jp_v1048576.nfo	63c3ccc2
+sxs-n64jp_v1048576.r00	57809c8a
+sxs-n64jp_v1048576.r01	ce646a5d
+sxs-n64jp_v1048576.r02	41a9b3e6
+sxs-n64jp_v1048576.r03	bd2b334b
+sxs-n64jp_v1048576.r04	0e37892e
+sxs-n64jp_v1048576.rar	0f943c4d
+sxs-n64jp_v1048576.sfv	c5a786dd

@@ -1,0 +1,9 @@
+i-littleshopping.nfo	c0d21d5456b391265a81cccd94d2bb56
+i-littleshopping.r00	f541d9349b0f3d9449bafe1fd0fbe470
+i-littleshopping.r01	0de3a8ff2aa03e4d46b62bd3ad0649d8
+i-littleshopping.r02	e8cff0c3a5620c4f0e94a1428527a9bf
+i-littleshopping.r03	d494a6838cb269c03799a86a53c6dba6
+i-littleshopping.r04	af0dd3ee8445ba4a8e77362674349094
+i-littleshopping.r05	f6e99f2a5f379156e17def0c7b6e2fde
+i-littleshopping.rar	98711f6874bed2193c403f4c3ec8144b
+i-littleshopping.sfv	92672e7deec6de2b864846823a12a831

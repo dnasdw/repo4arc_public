@@ -1,0 +1,6 @@
+v-pinballfx3_williams_5_dlc.nfo	86e31785
+v-pinballfx3_williams_5_dlc.r00	bdb61ee5
+v-pinballfx3_williams_5_dlc.r01	d3dd2e0b
+v-pinballfx3_williams_5_dlc.r02	952b6fa1
+v-pinballfx3_williams_5_dlc.rar	4b33f183
+v-pinballfx3_williams_5_dlc.sfv	f63f9801

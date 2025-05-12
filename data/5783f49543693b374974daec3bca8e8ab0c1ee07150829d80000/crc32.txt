@@ -1,0 +1,5 @@
+v-my_singing_monsters_playground_v65536.nfo	85251ba0
+v-my_singing_monsters_playground_v65536.r00	1deb395a
+v-my_singing_monsters_playground_v65536.r01	2c9c8d95
+v-my_singing_monsters_playground_v65536.rar	3b1e921f
+v-my_singing_monsters_playground_v65536.sfv	7e47a989

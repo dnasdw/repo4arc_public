@@ -1,0 +1,5 @@
+bbb-n-an3aa.nfo	-	5517	1	0	0	0
+bbb-n-an3aa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-an3aa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-an3aa.part3.rar	-	189971533	1	500005517	0	479
+bbb-n-an3aa.sfv	-	96	1	152222797	1	146

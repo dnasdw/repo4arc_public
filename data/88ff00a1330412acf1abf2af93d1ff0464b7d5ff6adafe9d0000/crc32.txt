@@ -1,0 +1,16 @@
+l-awmf.nfo	423bf318
+l-awmf.r00	dec69773
+l-awmf.r01	9338565e
+l-awmf.r02	b95d43d7
+l-awmf.r03	2ae61f11
+l-awmf.r04	e247b6f9
+l-awmf.r05	83080bcd
+l-awmf.r06	81ea4739
+l-awmf.r07	d0f39b26
+l-awmf.r08	c0c8fe4b
+l-awmf.r09	d8fb60f6
+l-awmf.r10	991bf3c1
+l-awmf.r11	d5ab0156
+l-awmf.r12	6b3ae050
+l-awmf.rar	4bfb8100
+l-awmf.sfv	8673ac34

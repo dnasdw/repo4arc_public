@@ -1,0 +1,9 @@
+l-spacepioneer.nfo	dd503f17
+l-spacepioneer.r00	b899a1d6
+l-spacepioneer.r01	880c6fbb
+l-spacepioneer.r02	6a2cd3e2
+l-spacepioneer.r03	d4eb8e1e
+l-spacepioneer.r04	8b246d72
+l-spacepioneer.r05	d4a5120c
+l-spacepioneer.rar	b4bc63cd
+l-spacepioneer.sfv	bdc7dc2b

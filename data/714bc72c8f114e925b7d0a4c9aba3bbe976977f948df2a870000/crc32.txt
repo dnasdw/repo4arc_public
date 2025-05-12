@@ -1,0 +1,16 @@
+sxs-crashbots.nfo	1e809a3e
+sxs-crashbots.r00	8a588db8
+sxs-crashbots.r01	8a2dee51
+sxs-crashbots.r02	45c554f3
+sxs-crashbots.r03	24797a15
+sxs-crashbots.r04	7ef31799
+sxs-crashbots.r05	41c37b0d
+sxs-crashbots.r06	e1cd5bae
+sxs-crashbots.r07	490f2df3
+sxs-crashbots.r08	b011bc26
+sxs-crashbots.r09	16c4722b
+sxs-crashbots.r10	bca15523
+sxs-crashbots.r11	1032d949
+sxs-crashbots.r12	0f8dc402
+sxs-crashbots.rar	ea61db32
+sxs-crashbots.sfv	e94bf311

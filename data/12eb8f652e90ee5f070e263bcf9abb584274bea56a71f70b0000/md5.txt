@@ -1,0 +1,10 @@
+delight.nfo	3057b624d306528172641922b4ec6292
+dl-torntales.r00	4159aeb28854c51a5574d172f9f25b88
+dl-torntales.r01	b2d3ac1492942514a02dfca753a0256b
+dl-torntales.r02	03dda6b977281be5e2373635aa4bc5c0
+dl-torntales.r03	fd29b3222f9c569ea7a2c84b588ae1de
+dl-torntales.r04	d6992e4c4d61f4e048c106a5ea8eca6f
+dl-torntales.r05	28e93a42a6152dc9396d10a652691b4d
+dl-torntales.r06	eb64d0068ad9e3e1e9838e3bc51cc017
+dl-torntales.rar	593ff458111328e9cf6395c4ec0a193a
+dl-torntales.sfv	bb06ebec0d8c256622c68e1ad285ad63

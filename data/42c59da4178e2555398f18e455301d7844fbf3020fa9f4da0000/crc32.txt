@@ -1,0 +1,7 @@
+v-super_trunko_go_v131072.nfo	2248f028
+v-super_trunko_go_v131072.r00	c000ea4d
+v-super_trunko_go_v131072.r01	94ff50e5
+v-super_trunko_go_v131072.r02	9a36757f
+v-super_trunko_go_v131072.r03	4cde70fb
+v-super_trunko_go_v131072.rar	7670143a
+v-super_trunko_go_v131072.sfv	3fffe286

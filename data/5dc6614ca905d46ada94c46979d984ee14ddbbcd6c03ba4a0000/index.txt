@@ -1,0 +1,14 @@
+sxs-sniper_hunter_scope_v196608.nfo	-	5120	1	0	0	0
+sxs-sniper_hunter_scope_v196608.r00	-	100000000	1	5120	0	1
+sxs-sniper_hunter_scope_v196608.r01	-	100000000	1	100005120	0	97
+sxs-sniper_hunter_scope_v196608.r02	-	100000000	1	200005120	0	193
+sxs-sniper_hunter_scope_v196608.r03	-	100000000	1	300005120	0	289
+sxs-sniper_hunter_scope_v196608.r04	-	100000000	1	400005120	0	385
+sxs-sniper_hunter_scope_v196608.r05	-	100000000	1	500005120	0	481
+sxs-sniper_hunter_scope_v196608.r06	-	100000000	1	62251264	1	60
+sxs-sniper_hunter_scope_v196608.r07	-	100000000	1	162251264	1	156
+sxs-sniper_hunter_scope_v196608.r08	-	100000000	1	262251264	1	252
+sxs-sniper_hunter_scope_v196608.r09	-	100000000	1	362251264	1	348
+sxs-sniper_hunter_scope_v196608.r10	-	75503067	1	462251264	1	444
+sxs-sniper_hunter_scope_v196608.rar	-	100000000	1	5595	2	1
+sxs-sniper_hunter_scope_v196608.sfv	-	552	1	100005595	2	97

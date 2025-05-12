@@ -1,0 +1,4 @@
+sxs-gerrrms_v65536.nfo	3a7d79ff3b920bb9dc985fa88158dc7e668971f0
+sxs-gerrrms_v65536.r00	f232d8471ddf74d0ccc29781d2f24a1a24b7afc5
+sxs-gerrrms_v65536.rar	4ed60abca3884f35379ccb5d1e2e4315d70ae948
+sxs-gerrrms_v65536.sfv	57ae64d6bea70c4520e8a8f64a118af71235abb0

@@ -1,0 +1,13 @@
+sxs-world_neverland_elnea_kingdom_v524288.nfo	8158215a
+sxs-world_neverland_elnea_kingdom_v524288.r00	99d03f51
+sxs-world_neverland_elnea_kingdom_v524288.r01	d40e9531
+sxs-world_neverland_elnea_kingdom_v524288.r02	af464367
+sxs-world_neverland_elnea_kingdom_v524288.r03	bac5f2ce
+sxs-world_neverland_elnea_kingdom_v524288.r04	2ef5f9a1
+sxs-world_neverland_elnea_kingdom_v524288.r05	81146592
+sxs-world_neverland_elnea_kingdom_v524288.r06	98bb3e35
+sxs-world_neverland_elnea_kingdom_v524288.r07	ef8f5cc3
+sxs-world_neverland_elnea_kingdom_v524288.r08	9ff9d441
+sxs-world_neverland_elnea_kingdom_v524288.r09	985bc0b8
+sxs-world_neverland_elnea_kingdom_v524288.rar	3ca9557e
+sxs-world_neverland_elnea_kingdom_v524288.sfv	428d0685

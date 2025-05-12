@@ -1,0 +1,3 @@
+v-devilengine_v65536.nfo	f2fe5d3ec0b9ea3fcf0d241980430f3143d7a308
+v-devilengine_v65536.rar	470251e8349cdc92383cb51c6bd538fdfca30b93
+v-devilengine_v65536.sfv	baa43ff2f2de8e703aeb35ef7a20004dcc7947e8

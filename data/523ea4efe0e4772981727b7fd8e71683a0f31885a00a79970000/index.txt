@@ -1,0 +1,6 @@
+v-snk_vs_capcom_the_match_of_the_millennium.nfo	-	5746	1	0	0	0
+v-snk_vs_capcom_the_match_of_the_millennium.r00	-	50000000	1	5746	0	1
+v-snk_vs_capcom_the_match_of_the_millennium.r01	-	50000000	1	50005746	0	49
+v-snk_vs_capcom_the_match_of_the_millennium.r02	-	11572063	1	100005746	0	97
+v-snk_vs_capcom_the_match_of_the_millennium.rar	-	50000000	1	111577809	0	109
+v-snk_vs_capcom_the_match_of_the_millennium.sfv	-	232	1	161577809	0	157

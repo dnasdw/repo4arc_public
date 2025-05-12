@@ -1,0 +1,4 @@
+sxs-deathly_dangerous.nfo	-	4184	1	0	0	0
+sxs-deathly_dangerous.r00	-	87388055	1	4184	0	1
+sxs-deathly_dangerous.rar	-	100000000	1	87392239	0	85
+sxs-deathly_dangerous.sfv	-	72	1	187392239	0	181

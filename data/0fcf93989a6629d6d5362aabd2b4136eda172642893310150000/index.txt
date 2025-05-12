@@ -1,0 +1,7 @@
+sxs-charons_staircase_v65536.nfo	-	4262	1	0	0	0
+sxs-charons_staircase_v65536.r00	-	100000000	1	4262	0	1
+sxs-charons_staircase_v65536.r01	-	100000000	1	100004262	0	97
+sxs-charons_staircase_v65536.r02	-	100000000	1	200004262	0	193
+sxs-charons_staircase_v65536.r03	-	80963065	1	300004262	0	289
+sxs-charons_staircase_v65536.rar	-	100000000	1	380967327	0	367
+sxs-charons_staircase_v65536.sfv	-	215	1	480967327	0	463

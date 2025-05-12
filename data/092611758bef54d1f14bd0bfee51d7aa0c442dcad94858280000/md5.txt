@@ -1,0 +1,8 @@
+sxs-terrorbane_v131072.nfo	b0fe2812998a0d424ee415b354f9f26f
+sxs-terrorbane_v131072.r00	b9b37036a9e6067427ced0f8306e6764
+sxs-terrorbane_v131072.r01	dc28716e2b9d6a4a06fd539b67b478c2
+sxs-terrorbane_v131072.r02	cb19059135af208e1976e43ff7aedccf
+sxs-terrorbane_v131072.r03	80a33a564f98ab5a8bc38a414885ecf2
+sxs-terrorbane_v131072.r04	275ee1c177cb676bebd27e2705e57058
+sxs-terrorbane_v131072.rar	8564fc94b07bd3fc9e3618421267cb0e
+sxs-terrorbane_v131072.sfv	c8066a169e3621dc747a0da55da815fe

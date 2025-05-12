@@ -1,0 +1,6 @@
+bbb-h-aeuca.nfo	-	5517	1	0	0	0
+bbb-h-aeuca.part01.rar	-	250000000	1	5517	0	1
+bbb-h-aeuca.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-aeuca.part03.rar	-	250000000	1	500005517	0	479
+bbb-h-aeuca.part04.rar	-	74231213	1	212251264	1	203
+bbb-h-aeuca.sfv	-	132	1	286482477	1	274

@@ -1,0 +1,6 @@
+sxs-warborn_v262144.nfo	5f490703
+sxs-warborn_v262144.r00	345919be
+sxs-warborn_v262144.r01	49884ea1
+sxs-warborn_v262144.r02	31a8ac24
+sxs-warborn_v262144.rar	ea90ca65
+sxs-warborn_v262144.sfv	26db7cd6

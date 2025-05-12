@@ -1,0 +1,3 @@
+sxs-blue_reflection_second_light_school_development_facility_summer_night_vacation_dlc.nfo	-	11360	1	0	0	0
+sxs-blue_reflection_second_light_school_development_facility_summer_night_vacation_dlc.rar	-	104148	1	11360	0	1
+sxs-blue_reflection_second_light_school_development_facility_summer_night_vacation_dlc.sfv	-	101	1	115508	0	2

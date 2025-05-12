@@ -1,0 +1,3 @@
+sxs-dysmantle_underworld_dlc.nfo	1894b7aad7778c1e85aa96b820c8dcd7
+sxs-dysmantle_underworld_dlc.rar	53a382359294eddbfc316a96b9f6cbda
+sxs-dysmantle_underworld_dlc.sfv	45aa2e860a9ab3be6b4155408e7923fe

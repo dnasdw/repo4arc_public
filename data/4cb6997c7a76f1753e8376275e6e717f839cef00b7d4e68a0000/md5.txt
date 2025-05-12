@@ -1,0 +1,5 @@
+v-ultimate_racing_2d_v196608.nfo	059d10d92a3d7a4565a554427c72f73e
+v-ultimate_racing_2d_v196608.r00	d7b665e0cda5bf8daa8ec6ade4f24450
+v-ultimate_racing_2d_v196608.r01	e82646d1068a7d44ad3f82557eddb72b
+v-ultimate_racing_2d_v196608.rar	f3ee6fbcd824e2b93782913bd08586db
+v-ultimate_racing_2d_v196608.sfv	55d3923c5bd9d04f8e07c3b3d8aca2c1

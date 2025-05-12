@@ -1,0 +1,17 @@
+i-ttatft.nfo	02b8cb8e
+i-ttatft.r00	65c87f79
+i-ttatft.r01	55bbef22
+i-ttatft.r02	f2917a83
+i-ttatft.r03	69980f63
+i-ttatft.r04	2508a6d7
+i-ttatft.r05	5d937ff0
+i-ttatft.r06	22e5abb9
+i-ttatft.r07	f5efd83d
+i-ttatft.r08	eae571a8
+i-ttatft.r09	e477c960
+i-ttatft.r10	b6f92e02
+i-ttatft.r11	1d091fff
+i-ttatft.r12	bc75da4d
+i-ttatft.r13	9eecbc8e
+i-ttatft.rar	12b729b8
+i-ttatft.sfv	4790dade

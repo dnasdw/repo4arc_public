@@ -1,0 +1,11 @@
+sxs-sir_lovelot.nfo	b6a09aa8c31f72cef234fe7a724c738b
+sxs-sir_lovelot.r00	bb74f6cee83f743a98142b7864d5291d
+sxs-sir_lovelot.r01	3175a0ede906f341212cf0067acd1771
+sxs-sir_lovelot.r02	77b8ee0d80a34e1e20f6221ccdce0087
+sxs-sir_lovelot.r03	42d88c73db0a98f52c84c37157750739
+sxs-sir_lovelot.r04	cbc546be1f75fa7cb917ab3466bcc0ad
+sxs-sir_lovelot.r05	cb90c7510fef58033c8664d51c1800b2
+sxs-sir_lovelot.r06	d9a9aa0455639d3f8a394be8819eceda
+sxs-sir_lovelot.r07	e129962b69b036626dca0eb8ad20a4cd
+sxs-sir_lovelot.rar	52ffe3c1f2efffa3dfbaa5178338f36c
+sxs-sir_lovelot.sfv	bf21070bd0a0407cfcf9e7bf5db173cf

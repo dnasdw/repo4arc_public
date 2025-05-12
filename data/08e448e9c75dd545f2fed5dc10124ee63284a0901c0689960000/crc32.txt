@@ -1,0 +1,12 @@
+sxs-aircraft_evolution.nfo	7a548590
+sxs-aircraft_evolution.r00	a2e52a53
+sxs-aircraft_evolution.r01	9fdbfe81
+sxs-aircraft_evolution.r02	2a1931bf
+sxs-aircraft_evolution.r03	da3f2326
+sxs-aircraft_evolution.r04	b3c0179d
+sxs-aircraft_evolution.r05	44392541
+sxs-aircraft_evolution.r06	fa0275c1
+sxs-aircraft_evolution.r07	bb15a03f
+sxs-aircraft_evolution.r08	31371e94
+sxs-aircraft_evolution.rar	78e44c74
+sxs-aircraft_evolution.sfv	a5e40dcc

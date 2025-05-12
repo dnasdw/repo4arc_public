@@ -1,0 +1,3 @@
+sxs-bloodstained_curse_of_the_moon_2_v327680.nfo	-	5276	1	0	0	0
+sxs-bloodstained_curse_of_the_moon_2_v327680.rar	-	38080265	1	5276	0	1
+sxs-bloodstained_curse_of_the_moon_2_v327680.sfv	-	59	1	38085541	0	38

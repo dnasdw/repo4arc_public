@@ -1,0 +1,13 @@
+lfc-okru.nfo	5563edb6d27870bd3a5f18e90c10b8c5
+lfc-okru.r00	aabaee6419040e0e570800f4534c9e08
+lfc-okru.r01	e9a32b95b1339bc9f9636d9fb22da22f
+lfc-okru.r02	42d8d36e639915ca718d5cb85e2c7375
+lfc-okru.r03	f49e20a3008a6bcdf83a696db4027244
+lfc-okru.r04	1eb6cef3e48a067c561eac185b75dcd8
+lfc-okru.r05	0e7f7407f2237572197835a2dc4a9b77
+lfc-okru.r06	d9486f49f7e346e07809543d9d204d65
+lfc-okru.r07	cfd7eec7234e10f6533bc9c6137a4cbe
+lfc-okru.r08	b107f515e325b1f8f28d0c8dd5144e8d
+lfc-okru.r09	4b660588c81e68a5bfe75e663b7cf8b2
+lfc-okru.rar	f7e2fb0c7fea4dab5ef4bc35d8980540
+lfc-okru.sfv	b832c91680e65bacfbcd5badcbc48729

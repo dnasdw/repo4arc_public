@@ -1,0 +1,5 @@
+hr-takeoverv65536.nfo	5b2075d8
+hr-takeoverv65536.r00	b88d6af1
+hr-takeoverv65536.r01	b45b7c0b
+hr-takeoverv65536.rar	26f2e265
+hr-takeoverv65536.sfv	76d077c7

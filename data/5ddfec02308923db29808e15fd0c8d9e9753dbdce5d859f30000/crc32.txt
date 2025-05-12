@@ -1,0 +1,16 @@
+v-embracelet.nfo	36a6a012
+v-embracelet.r00	508bcc45
+v-embracelet.r01	7ff23c82
+v-embracelet.r02	990478dd
+v-embracelet.r03	365b3740
+v-embracelet.r04	221f394b
+v-embracelet.r05	05b72908
+v-embracelet.r06	980d3fdf
+v-embracelet.r07	e3b0ebf6
+v-embracelet.r08	3ed1c07a
+v-embracelet.r09	5c33f0c7
+v-embracelet.r10	5f57d4dc
+v-embracelet.r11	332471c6
+v-embracelet.r12	e2c5bf58
+v-embracelet.rar	c65332fb
+v-embracelet.sfv	a58d3973

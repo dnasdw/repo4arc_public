@@ -1,0 +1,11 @@
+lfc-slaythespire.nfo	673c55519221e1b57cf54602d208733b
+lfc-slaythespire.r00	d33954130d3e5dcf612a8e5ac8231e5c
+lfc-slaythespire.r01	bd6a71bfbb148090f6aa7847311dfa3a
+lfc-slaythespire.r02	6083bd166a378ac48e8ea58a221454df
+lfc-slaythespire.r03	a53f63767ed9ed40d8e0f205e5020343
+lfc-slaythespire.r04	6b5f6dfa75816d261cbe0adec466f664
+lfc-slaythespire.r05	86d8a977b99c2fdba2eee351f6fd21cd
+lfc-slaythespire.r06	37a4008d3d741908de8bad5b58707fe7
+lfc-slaythespire.r07	3f8846f5268a6b9d17dfa0627fe586c2
+lfc-slaythespire.rar	1ae6fcf6d9360bae17417a293c810f8a
+lfc-slaythespire.sfv	07ee352a1b7ad188f740016c48b6600c

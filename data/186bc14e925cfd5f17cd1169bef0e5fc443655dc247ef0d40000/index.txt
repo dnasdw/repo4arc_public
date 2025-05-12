@@ -1,0 +1,5 @@
+bbb-n-alfxa.nfo	-	5517	1	0	0	0
+bbb-n-alfxa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-alfxa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-alfxa.part3.rar	-	36981661	1	500005517	0	479
+bbb-n-alfxa.sfv	-	96	1	0	1	0

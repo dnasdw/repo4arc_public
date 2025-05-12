@@ -1,0 +1,3 @@
+sxs-sonic_colors_ultimate_dlc.nfo	-	4652	1	0	0	0
+sxs-sonic_colors_ultimate_dlc.rar	-	519748	1	4652	0	1
+sxs-sonic_colors_ultimate_dlc.sfv	-	44	1	524400	0	2

@@ -1,0 +1,4 @@
+v-devilengine_v196608.nfo	bbc608bbe34eeedccc83370db7186f6e11686467
+v-devilengine_v196608.r00	751ce61256178716384adda2f0bbb51d1b18bb40
+v-devilengine_v196608.rar	fb7fe4988f77e1e77d91dc64645a1fbf176817da
+v-devilengine_v196608.sfv	fdb46cf47a3722bd7124d46955f6c92162cafc94

@@ -1,0 +1,12 @@
+v-taiko_v327680.nfo	5a8e2205
+v-taiko_v327680.r00	651a37c3
+v-taiko_v327680.r01	217852ce
+v-taiko_v327680.r02	5134af38
+v-taiko_v327680.r03	ebc93b35
+v-taiko_v327680.r04	1c66700a
+v-taiko_v327680.r05	d5447583
+v-taiko_v327680.r06	52384b41
+v-taiko_v327680.r07	aa6b7a1c
+v-taiko_v327680.r08	815b4229
+v-taiko_v327680.rar	dabd04a7
+v-taiko_v327680.sfv	9c9a5b04

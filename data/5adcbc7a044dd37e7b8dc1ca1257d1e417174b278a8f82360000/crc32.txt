@@ -1,0 +1,14 @@
+sxs-blackmoor_2_v524288.nfo	5763c382
+sxs-blackmoor_2_v524288.r00	1e34ec06
+sxs-blackmoor_2_v524288.r01	584b03a4
+sxs-blackmoor_2_v524288.r02	e8b60f3f
+sxs-blackmoor_2_v524288.r03	486e7758
+sxs-blackmoor_2_v524288.r04	4b5a6c80
+sxs-blackmoor_2_v524288.r05	817243b7
+sxs-blackmoor_2_v524288.r06	3cbae335
+sxs-blackmoor_2_v524288.r07	245e0919
+sxs-blackmoor_2_v524288.r08	8568d158
+sxs-blackmoor_2_v524288.r09	67e244a4
+sxs-blackmoor_2_v524288.r10	4eda3f15
+sxs-blackmoor_2_v524288.rar	039d3d3d
+sxs-blackmoor_2_v524288.sfv	9472a072

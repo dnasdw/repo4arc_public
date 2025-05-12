@@ -1,0 +1,3 @@
+bbb-n-ap2pa.nfo	-	5517	1	0	0	0
+bbb-n-ap2pa.rar	-	100376458	1	5517	0	1
+bbb-n-ap2pa.sfv	-	26	1	100381975	0	97

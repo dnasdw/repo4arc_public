@@ -1,0 +1,4 @@
+v-rtypex_v131072.nfo	dd0eba1db3c9e17fd06910ee7ae575b3
+v-rtypex_v131072.r00	ff58d860704b1026884fed791c5f233a
+v-rtypex_v131072.rar	e5bbb8ab9268f3fdde90d3d2f3bccdc8
+v-rtypex_v131072.sfv	c64ea28403abfc0bb66e18b7168c008a

@@ -1,0 +1,3 @@
+sxs-zumba_aqua_v65536.nfo	-	4652	1	0	0	0
+sxs-zumba_aqua_v65536.rar	-	31313960	1	4652	0	1
+sxs-zumba_aqua_v65536.sfv	-	36	1	31318612	0	31

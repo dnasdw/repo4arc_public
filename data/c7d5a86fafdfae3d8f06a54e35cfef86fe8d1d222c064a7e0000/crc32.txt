@@ -1,0 +1,6 @@
+sxs-roombo_first_blood_v65536.nfo	40b5e18b
+sxs-roombo_first_blood_v65536.r00	c27463b1
+sxs-roombo_first_blood_v65536.r01	b6f67a09
+sxs-roombo_first_blood_v65536.r02	4d818979
+sxs-roombo_first_blood_v65536.rar	b973303e
+sxs-roombo_first_blood_v65536.sfv	5feb54c0

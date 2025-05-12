@@ -1,0 +1,5 @@
+sxs-ngolf.nfo	1b49cdd2f550a2a918be26975eeabaa4
+sxs-ngolf.r00	e1b4089d91a97aa9d02a7bcb4fdd4f47
+sxs-ngolf.r01	2d15a2eb7f15bb5b2398465257eda1a8
+sxs-ngolf.rar	bc1a1d76a0010d24e673acc27b77ac43
+sxs-ngolf.sfv	9808bcd920c06b47dea0c48757c87505

@@ -1,0 +1,14 @@
+sxs-life_of_fly_v65536.nfo	4c152ad9
+sxs-life_of_fly_v65536.r00	15bb2851
+sxs-life_of_fly_v65536.r01	3aaabb86
+sxs-life_of_fly_v65536.r02	4c1eb662
+sxs-life_of_fly_v65536.r03	0b1f2dcb
+sxs-life_of_fly_v65536.r04	7cf12a16
+sxs-life_of_fly_v65536.r05	53f32738
+sxs-life_of_fly_v65536.r06	57b3c541
+sxs-life_of_fly_v65536.r07	f1032f02
+sxs-life_of_fly_v65536.r08	6956ce30
+sxs-life_of_fly_v65536.r09	c7ca6d6e
+sxs-life_of_fly_v65536.r10	e04a7c9f
+sxs-life_of_fly_v65536.rar	84774f18
+sxs-life_of_fly_v65536.sfv	24d2dae9

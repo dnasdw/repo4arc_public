@@ -1,0 +1,5 @@
+bbb-n-aq6ba.nfo	-	5517	1	0	0	0
+bbb-n-aq6ba.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aq6ba.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aq6ba.part3.rar	-	147774764	1	500005517	0	479
+bbb-n-aq6ba.sfv	-	96	1	110026028	1	105

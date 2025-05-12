@@ -1,0 +1,6 @@
+i-troubleshooter_v65536.nfo	-	1172	1	0	0	0
+i-troubleshooter_v65536.r00	-	50000000	1	1172	0	1
+i-troubleshooter_v65536.r01	-	50000000	1	50001172	0	49
+i-troubleshooter_v65536.r02	-	3549991	1	100001172	0	97
+i-troubleshooter_v65536.rar	-	50000000	1	103551163	0	101
+i-troubleshooter_v65536.sfv	-	152	1	153551163	0	149

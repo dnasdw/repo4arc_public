@@ -1,0 +1,9 @@
+hr-avc3av131072.nfo	8677e7a3
+hr-avc3av131072.r00	d607018f
+hr-avc3av131072.r01	be81c647
+hr-avc3av131072.r02	e69f4ec2
+hr-avc3av131072.r03	c768fe6d
+hr-avc3av131072.r04	2e007acc
+hr-avc3av131072.r05	3255406e
+hr-avc3av131072.rar	b467d8f8
+hr-avc3av131072.sfv	370c4819

@@ -1,0 +1,4 @@
+sxs-ni_no_kuni_ii_revenant_kingdom_princes_edition_v65536.nfo	-	5120	1	0	0	0
+sxs-ni_no_kuni_ii_revenant_kingdom_princes_edition_v65536.r00	-	44120645	1	5120	0	1
+sxs-ni_no_kuni_ii_revenant_kingdom_princes_edition_v65536.rar	-	50000000	1	44125765	0	44
+sxs-ni_no_kuni_ii_revenant_kingdom_princes_edition_v65536.sfv	-	144	1	94125765	0	92

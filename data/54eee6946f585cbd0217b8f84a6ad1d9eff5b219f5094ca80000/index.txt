@@ -1,0 +1,13 @@
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.nfo	-	10426	1	0	0	0
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.r00	-	100000000	1	10426	0	1
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.r01	-	100000000	1	100010426	0	97
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.r02	-	100000000	1	200010426	0	193
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.r03	-	100000000	1	300010426	0	289
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.r04	-	100000000	1	400010426	0	385
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.r05	-	100000000	1	500010426	0	481
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.r06	-	100000000	1	62251264	1	60
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.r07	-	100000000	1	162251264	1	156
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.r08	-	100000000	1	262251264	1	252
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.r09	-	4138283	1	362251264	1	348
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.rar	-	100000000	1	366389547	1	352
+v-borderlands_3_ultimate_edition_psycho_krieg_and_the_fantastic_fustercluck_dlc.sfv	-	1034	1	466389547	1	448

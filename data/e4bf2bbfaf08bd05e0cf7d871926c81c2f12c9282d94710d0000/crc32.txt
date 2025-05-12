@@ -1,0 +1,10 @@
+sxs-dead_cells_v196608.nfo	9de6b2d1
+sxs-dead_cells_v196608.r00	c41c33e6
+sxs-dead_cells_v196608.r01	67ced55c
+sxs-dead_cells_v196608.r02	4b386aeb
+sxs-dead_cells_v196608.r03	4f5a91fc
+sxs-dead_cells_v196608.r04	1b64d222
+sxs-dead_cells_v196608.r05	86bcc500
+sxs-dead_cells_v196608.r06	837922fa
+sxs-dead_cells_v196608.rar	4c3747eb
+sxs-dead_cells_v196608.sfv	c16b75cf

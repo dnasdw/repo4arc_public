@@ -1,0 +1,6 @@
+v-eastward_octopia_dlc.nfo	5c39c8d3eb6bbbc44410cd0531258e88
+v-eastward_octopia_dlc.r00	b4a48d1f09dfd93564e5b5d68d90cb2c
+v-eastward_octopia_dlc.r01	51b77e0b536849c2543825e9fecd4b99
+v-eastward_octopia_dlc.r02	b245d756fe1b8931feb25e446ca232ff
+v-eastward_octopia_dlc.rar	91b36a27bf986116e4d10f72a9fb0988
+v-eastward_octopia_dlc.sfv	04de92bd8212ceb139b3b1d216bca822

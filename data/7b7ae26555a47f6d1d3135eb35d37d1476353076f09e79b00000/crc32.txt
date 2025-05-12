@@ -1,0 +1,14 @@
+v-shadow_gangs.nfo	b2980b0d
+v-shadow_gangs.r00	958331a1
+v-shadow_gangs.r01	445b6af2
+v-shadow_gangs.r02	a0bc248d
+v-shadow_gangs.r03	345aa45c
+v-shadow_gangs.r04	5dc89f7b
+v-shadow_gangs.r05	fdb54a99
+v-shadow_gangs.r06	9f24976e
+v-shadow_gangs.r07	2e791248
+v-shadow_gangs.r08	93d36461
+v-shadow_gangs.r09	0375f6cb
+v-shadow_gangs.r10	d53a9de6
+v-shadow_gangs.rar	1a0a52bd
+v-shadow_gangs.sfv	e55dbc11

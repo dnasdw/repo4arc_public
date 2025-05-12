@@ -1,0 +1,3 @@
+sxs-for_a_vast_future_dlc.nfo	-	6056	1	0	0	0
+sxs-for_a_vast_future_dlc.rar	-	118533	1	6056	0	1
+sxs-for_a_vast_future_dlc.sfv	-	40	1	124589	0	2

@@ -1,0 +1,12 @@
+v-maze_of_realities_flower_of_discord_collectors_edition.nfo	-	5434	1	0	0	0
+v-maze_of_realities_flower_of_discord_collectors_edition.r00	-	100000000	1	5434	0	1
+v-maze_of_realities_flower_of_discord_collectors_edition.r01	-	100000000	1	100005434	0	97
+v-maze_of_realities_flower_of_discord_collectors_edition.r02	-	100000000	1	200005434	0	193
+v-maze_of_realities_flower_of_discord_collectors_edition.r03	-	100000000	1	300005434	0	289
+v-maze_of_realities_flower_of_discord_collectors_edition.r04	-	100000000	1	400005434	0	385
+v-maze_of_realities_flower_of_discord_collectors_edition.r05	-	100000000	1	500005434	0	481
+v-maze_of_realities_flower_of_discord_collectors_edition.r06	-	100000000	1	62251264	1	60
+v-maze_of_realities_flower_of_discord_collectors_edition.r07	-	100000000	1	162251264	1	156
+v-maze_of_realities_flower_of_discord_collectors_edition.r08	-	60743687	1	262251264	1	252
+v-maze_of_realities_flower_of_discord_collectors_edition.rar	-	100000000	1	322994951	1	310
+v-maze_of_realities_flower_of_discord_collectors_edition.sfv	-	710	1	422994951	1	406

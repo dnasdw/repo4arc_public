@@ -1,0 +1,5 @@
+sxs-final_fantasy_vi_v262144.nfo	4d91d6a86f92853caccae1c163d7d9e2
+sxs-final_fantasy_vi_v262144.r00	5118de347d50422e7639c196e10ad538
+sxs-final_fantasy_vi_v262144.r01	b843c12333ec65f01e1c22df13eaa1c2
+sxs-final_fantasy_vi_v262144.rar	46bf29255e3578ae549503aa73411c26
+sxs-final_fantasy_vi_v262144.sfv	1ade254659b27fd8c9eed549f078b095

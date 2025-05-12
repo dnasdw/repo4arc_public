@@ -1,0 +1,4 @@
+hr-aurpbv3.nfo	-	20150	1	0	0	0
+hr-aurpbv3.r00	-	34303146	1	20150	0	1
+hr-aurpbv3.rar	-	50000000	1	34323296	0	34
+hr-aurpbv3.sfv	-	50	1	84323296	0	82

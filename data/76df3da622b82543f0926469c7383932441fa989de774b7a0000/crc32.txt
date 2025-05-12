@@ -1,0 +1,11 @@
+sxs-sea_king.nfo	5e671346
+sxs-sea_king.r00	a6a2586e
+sxs-sea_king.r01	65da2c2a
+sxs-sea_king.r02	19a4ac11
+sxs-sea_king.r03	3e8059c2
+sxs-sea_king.r04	9e80a7fc
+sxs-sea_king.r05	8507c9fe
+sxs-sea_king.r06	0eaa1f07
+sxs-sea_king.r07	32e0a90b
+sxs-sea_king.rar	7ac179cb
+sxs-sea_king.sfv	c4d138c7

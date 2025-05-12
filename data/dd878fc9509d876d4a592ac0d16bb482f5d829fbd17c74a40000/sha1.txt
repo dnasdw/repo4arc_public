@@ -1,0 +1,4 @@
+sxs-the_bunker_v131072.nfo	50f19b22aa125ea7bcff523bb044ad588336e176
+sxs-the_bunker_v131072.r00	a8a4a157cf21d5a7acccc0b386ae17e5da5017e2
+sxs-the_bunker_v131072.rar	745f302c2a14e745223300b8c5fd5b177c3c406b
+sxs-the_bunker_v131072.sfv	345e1598713094c931da6a049a7d82ec59c9fa9a

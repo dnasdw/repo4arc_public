@@ -1,0 +1,3 @@
+sxs-zaccaria_pinball_dlc.nfo	-	16040	1	0	0	0
+sxs-zaccaria_pinball_dlc.rar	-	7481734	1	16040	0	1
+sxs-zaccaria_pinball_dlc.sfv	-	39	1	7497774	0	9

@@ -1,0 +1,7 @@
+sxs-darksiders_genesis_v196608.nfo	54d39584
+sxs-darksiders_genesis_v196608.r00	7f0242af
+sxs-darksiders_genesis_v196608.r01	c586008d
+sxs-darksiders_genesis_v196608.r02	9aad65b1
+sxs-darksiders_genesis_v196608.r03	3165f5c7
+sxs-darksiders_genesis_v196608.rar	be0ec429
+sxs-darksiders_genesis_v196608.sfv	baa31280

@@ -1,0 +1,7 @@
+sxs-pets_no_more.nfo	-	6368	1	0	0	0
+sxs-pets_no_more.r00	-	50000000	1	6368	0	1
+sxs-pets_no_more.r01	-	50000000	1	50006368	0	49
+sxs-pets_no_more.r02	-	50000000	1	100006368	0	97
+sxs-pets_no_more.r03	-	16392325	1	150006368	0	145
+sxs-pets_no_more.rar	-	50000000	1	166398693	0	161
+sxs-pets_no_more.sfv	-	155	1	216398693	0	209

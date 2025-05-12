@@ -1,0 +1,6 @@
+jrp-n-hp.nfo	dc4eef1e
+jrp-n-hp.r00	ec8a827f
+jrp-n-hp.r01	5ad51d5c
+jrp-n-hp.r02	9aadfca7
+jrp-n-hp.rar	eaeec086
+jrp-n-hp.sfv	af2925ab

@@ -1,0 +1,6 @@
+sxs-scribblenauts_showdown_v65536.nfo	e1f8dc9b
+sxs-scribblenauts_showdown_v65536.r00	75ca9be8
+sxs-scribblenauts_showdown_v65536.r01	600bcaab
+sxs-scribblenauts_showdown_v65536.r02	2ddac38a
+sxs-scribblenauts_showdown_v65536.rar	54074cd2
+sxs-scribblenauts_showdown_v65536.sfv	ac3da453

@@ -1,0 +1,8 @@
+sxs-sunset_racer.nfo	-	5978	1	0	0	0
+sxs-sunset_racer.r00	-	100000000	1	5978	0	1
+sxs-sunset_racer.r01	-	100000000	1	100005978	0	97
+sxs-sunset_racer.r02	-	100000000	1	200005978	0	193
+sxs-sunset_racer.r03	-	100000000	1	300005978	0	289
+sxs-sunset_racer.r04	-	32431357	1	400005978	0	385
+sxs-sunset_racer.rar	-	100000000	1	432437335	0	416
+sxs-sunset_racer.sfv	-	186	1	532437335	0	512

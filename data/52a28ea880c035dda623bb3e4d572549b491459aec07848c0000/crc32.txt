@@ -1,0 +1,15 @@
+v-aoxxl2_v262144.nfo	56b393d3
+v-aoxxl2_v262144.r00	29d92236
+v-aoxxl2_v262144.r01	a680e29d
+v-aoxxl2_v262144.r02	c3fb61df
+v-aoxxl2_v262144.r03	419bdfbf
+v-aoxxl2_v262144.r04	17cbef5a
+v-aoxxl2_v262144.r05	bb946fbb
+v-aoxxl2_v262144.r06	b056ee34
+v-aoxxl2_v262144.r07	dd95b951
+v-aoxxl2_v262144.r08	291ab4d4
+v-aoxxl2_v262144.r09	4b0a12c9
+v-aoxxl2_v262144.r10	326794ce
+v-aoxxl2_v262144.r11	f60677e7
+v-aoxxl2_v262144.rar	f3b403c5
+v-aoxxl2_v262144.sfv	970ea858

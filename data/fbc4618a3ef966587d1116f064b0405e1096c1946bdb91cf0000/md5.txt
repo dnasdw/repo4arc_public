@@ -1,0 +1,5 @@
+sxs-tetsumo_party_v131072.nfo	a5771859e815a0bc4cbc212335f5ad63
+sxs-tetsumo_party_v131072.r00	45d3d23871a6d14bae289c2e7899ff5d
+sxs-tetsumo_party_v131072.r01	22ce1a0a26e30001f9e74a4c894104fc
+sxs-tetsumo_party_v131072.rar	128a0e2efbedd71c772b1e4e6914c530
+sxs-tetsumo_party_v131072.sfv	8d7ff3a5b67184d72146e155727e23e5

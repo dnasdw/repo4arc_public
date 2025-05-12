@@ -1,0 +1,5 @@
+sxs-eight_dragons_v65536.nfo	8e06d591
+sxs-eight_dragons_v65536.r00	83b0e06a
+sxs-eight_dragons_v65536.r01	c58b8bfd
+sxs-eight_dragons_v65536.rar	33782e35
+sxs-eight_dragons_v65536.sfv	e442629a

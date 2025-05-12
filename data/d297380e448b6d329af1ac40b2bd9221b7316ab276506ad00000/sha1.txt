@@ -1,0 +1,4 @@
+sxs-hyper_light_drifter_v120.nfo	be78b7609449a6a8913a5aa56d4e2c91bb8b0039
+sxs-hyper_light_drifter_v120.r00	105e65aa8fe72a63b6f9a2a22967d1c8acec0fdb
+sxs-hyper_light_drifter_v120.rar	067a48ae16e64bef11ad98490a26a9baf82cae3c
+sxs-hyper_light_drifter_v120.sfv	582568f869e18b1ce2701ecdac7166bbd666e950

@@ -1,0 +1,9 @@
+sxs-jump_king_v196608.nfo	c5792b1c4aa6973601dc66ba2015a16a
+sxs-jump_king_v196608.r00	da2e93e95dc8602fbe2ef0207aaaf6ff
+sxs-jump_king_v196608.r01	f728e4b6a1bc2c63e05b6729478ce007
+sxs-jump_king_v196608.r02	9845ebc5b190e75896d52142870a9dfd
+sxs-jump_king_v196608.r03	eab1a0f1d5d5cb0a96944ae879cb2d6c
+sxs-jump_king_v196608.r04	65ea5e74de6164d0bf6a80fa2e442ec9
+sxs-jump_king_v196608.r05	22aa7e0436a82d976abbb0990e64db72
+sxs-jump_king_v196608.rar	1b955de81d3b5640f42ea9af41e4ca5f
+sxs-jump_king_v196608.sfv	88266e0415670c878314dc215494a8b2

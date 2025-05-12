@@ -1,0 +1,3 @@
+v-doom_1993_base_ganymede_dlc.nfo	-	7384	1	0	0	0
+v-doom_1993_base_ganymede_dlc.rar	-	6959286	1	7384	0	1
+v-doom_1993_base_ganymede_dlc.sfv	-	44	1	6966670	0	8

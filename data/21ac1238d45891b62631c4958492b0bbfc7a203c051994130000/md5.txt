@@ -1,0 +1,5 @@
+sxs-space_moth_lunar_edition.nfo	31178804ae0e1e80989efebf48cc1dcf
+sxs-space_moth_lunar_edition.r00	f2d6a1b3001ebfb597bc9c842fbeebdb
+sxs-space_moth_lunar_edition.r01	ba38e27b09c441fa183006aa6c66c633
+sxs-space_moth_lunar_edition.rar	e346a01ee91340b02f94122abd9d0bcc
+sxs-space_moth_lunar_edition.sfv	1fc4efa9bd4f088e7cdd147d490eac70

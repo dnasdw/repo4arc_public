@@ -1,0 +1,3 @@
+v-thems_fightin_herds_tfh_additional_character_3_nidra_dlc.nfo	-	6760	1	0	0	0
+v-thems_fightin_herds_tfh_additional_character_3_nidra_dlc.rar	-	124435	1	6760	0	1
+v-thems_fightin_herds_tfh_additional_character_3_nidra_dlc.sfv	-	73	1	131195	0	2

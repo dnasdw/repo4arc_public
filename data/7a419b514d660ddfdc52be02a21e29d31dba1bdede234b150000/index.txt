@@ -1,0 +1,5 @@
+sxs-alien_isolation_v196608.nfo	-	6758	1	0	0	0
+sxs-alien_isolation_v196608.r00	-	50000000	1	6758	0	1
+sxs-alien_isolation_v196608.r01	-	15709699	1	50006758	0	49
+sxs-alien_isolation_v196608.rar	-	50000000	1	65716457	0	64
+sxs-alien_isolation_v196608.sfv	-	126	1	115716457	0	112

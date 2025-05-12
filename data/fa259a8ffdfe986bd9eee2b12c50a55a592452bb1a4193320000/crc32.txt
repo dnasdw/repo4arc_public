@@ -1,0 +1,11 @@
+v-kunai_v196608r.nfo	b4f1f6ba
+v-kunai_v196608r.r00	1b7a0f58
+v-kunai_v196608r.r01	4e68d301
+v-kunai_v196608r.r02	a52ac342
+v-kunai_v196608r.r03	2cb5ea55
+v-kunai_v196608r.r04	ddca0876
+v-kunai_v196608r.r05	c89e69a9
+v-kunai_v196608r.r06	d57312fe
+v-kunai_v196608r.r07	e0ce5475
+v-kunai_v196608r.rar	39dffca0
+v-kunai_v196608r.sfv	968fc203

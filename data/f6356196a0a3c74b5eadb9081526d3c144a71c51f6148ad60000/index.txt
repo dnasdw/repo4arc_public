@@ -1,0 +1,5 @@
+sxs-harvest_moon_one_world_v196608.nfo	-	5978	1	0	0	0
+sxs-harvest_moon_one_world_v196608.r00	-	50000000	1	5978	0	1
+sxs-harvest_moon_one_world_v196608.r01	-	28207925	1	50005978	0	49
+sxs-harvest_moon_one_world_v196608.rar	-	50000000	1	78213903	0	76
+sxs-harvest_moon_one_world_v196608.sfv	-	147	1	128213903	0	124

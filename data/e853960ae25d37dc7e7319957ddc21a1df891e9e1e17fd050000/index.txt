@@ -1,0 +1,7 @@
+sxs-darksiders_genesis_v196608.nfo	-	4106	1	0	0	0
+sxs-darksiders_genesis_v196608.r00	-	50000000	1	4106	0	1
+sxs-darksiders_genesis_v196608.r01	-	50000000	1	50004106	0	49
+sxs-darksiders_genesis_v196608.r02	-	50000000	1	100004106	0	97
+sxs-darksiders_genesis_v196608.r03	-	13778451	1	150004106	0	145
+sxs-darksiders_genesis_v196608.rar	-	50000000	1	163782557	0	159
+sxs-darksiders_genesis_v196608.sfv	-	225	1	213782557	0	207

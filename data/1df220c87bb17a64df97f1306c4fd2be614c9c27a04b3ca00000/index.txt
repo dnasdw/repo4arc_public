@@ -1,0 +1,4 @@
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_v65536.nfo	-	6994	1	0	0	0
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_v65536.r00	-	18597355	1	6994	0	1
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_v65536.rar	-	50000000	1	18604349	0	19
+v-atelier_sophie_2_the_alchemist_of_the_mysterious_dream_v65536.sfv	-	156	1	68604349	0	67

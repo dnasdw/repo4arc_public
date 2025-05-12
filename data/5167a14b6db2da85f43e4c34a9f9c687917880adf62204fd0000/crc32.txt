@@ -1,0 +1,13 @@
+v-make_way.nfo	237be685
+v-make_way.r00	0fc95f4f
+v-make_way.r01	0bff7c32
+v-make_way.r02	0a7c824f
+v-make_way.r03	a5822951
+v-make_way.r04	8333abe0
+v-make_way.r05	4fd38147
+v-make_way.r06	7b74ea5b
+v-make_way.r07	f5d987c6
+v-make_way.r08	40ab94bf
+v-make_way.r09	c19f48a7
+v-make_way.rar	e7e83f8b
+v-make_way.sfv	4af5dc53

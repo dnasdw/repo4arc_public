@@ -1,0 +1,3 @@
+sxs-game_dev_story_v65536.nfo	5c06a3d0cf024edb56260155d4d0ef19
+sxs-game_dev_story_v65536.rar	273e673ea46946825061d41090c1d2f8
+sxs-game_dev_story_v65536.sfv	941212e0d75d587a78e41af70a29d6ba

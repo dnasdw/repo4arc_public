@@ -1,0 +1,12 @@
+i-beholdtk.nfo	17c77456
+i-beholdtk.r00	3cb54f1a
+i-beholdtk.r01	7a9094e9
+i-beholdtk.r02	02d5603d
+i-beholdtk.r03	bd3700f5
+i-beholdtk.r04	c7ccd1fb
+i-beholdtk.r05	4c625db0
+i-beholdtk.r06	68c6124d
+i-beholdtk.r07	710f96d4
+i-beholdtk.r08	75d77f0a
+i-beholdtk.rar	33644059
+i-beholdtk.sfv	80f36235

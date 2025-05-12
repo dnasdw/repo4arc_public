@@ -1,0 +1,5 @@
+sxs-nes_v1310720.nfo	62523391
+sxs-nes_v1310720.r00	57757a00
+sxs-nes_v1310720.r01	a74aca27
+sxs-nes_v1310720.rar	e3f7c4d2
+sxs-nes_v1310720.sfv	e666e0b0

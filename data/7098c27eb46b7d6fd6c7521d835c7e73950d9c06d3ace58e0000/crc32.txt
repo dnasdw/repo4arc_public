@@ -1,0 +1,13 @@
+sxs-goonya_monster_v524288.nfo	88b69976
+sxs-goonya_monster_v524288.r00	baa17572
+sxs-goonya_monster_v524288.r01	cdd13fd8
+sxs-goonya_monster_v524288.r02	95e9383e
+sxs-goonya_monster_v524288.r03	99eaa278
+sxs-goonya_monster_v524288.r04	949044b3
+sxs-goonya_monster_v524288.r05	459ab202
+sxs-goonya_monster_v524288.r06	61137778
+sxs-goonya_monster_v524288.r07	cf2e6f56
+sxs-goonya_monster_v524288.r08	11a4d8cf
+sxs-goonya_monster_v524288.r09	08b15a05
+sxs-goonya_monster_v524288.rar	730577b7
+sxs-goonya_monster_v524288.sfv	e61585d7

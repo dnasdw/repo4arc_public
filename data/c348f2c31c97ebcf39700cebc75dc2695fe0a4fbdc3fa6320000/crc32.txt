@@ -1,0 +1,7 @@
+sxs-wildbus_v524288.nfo	7b641e1e
+sxs-wildbus_v524288.r00	fb7e60a8
+sxs-wildbus_v524288.r01	c3b4eb8d
+sxs-wildbus_v524288.r02	4c63520d
+sxs-wildbus_v524288.r03	99007522
+sxs-wildbus_v524288.rar	48c7462e
+sxs-wildbus_v524288.sfv	73d81a30

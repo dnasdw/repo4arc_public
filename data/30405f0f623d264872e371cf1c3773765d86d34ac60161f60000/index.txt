@@ -1,0 +1,9 @@
+v-gravitar_recharged.nfo	-	6370	1	0	0	0
+v-gravitar_recharged.r00	-	50000000	1	6370	0	1
+v-gravitar_recharged.r01	-	50000000	1	50006370	0	49
+v-gravitar_recharged.r02	-	50000000	1	100006370	0	97
+v-gravitar_recharged.r03	-	50000000	1	150006370	0	145
+v-gravitar_recharged.r04	-	50000000	1	200006370	0	193
+v-gravitar_recharged.r05	-	44414183	1	250006370	0	241
+v-gravitar_recharged.rar	-	50000000	1	294420553	0	284
+v-gravitar_recharged.sfv	-	245	1	344420553	0	332

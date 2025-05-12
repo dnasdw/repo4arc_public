@@ -1,0 +1,10 @@
+v-close_to_the_sun_v65536.nfo	6a42a6f5
+v-close_to_the_sun_v65536.r00	04b74731
+v-close_to_the_sun_v65536.r01	d17fb3df
+v-close_to_the_sun_v65536.r02	40cbe9a2
+v-close_to_the_sun_v65536.r03	41c46053
+v-close_to_the_sun_v65536.r04	b0adb110
+v-close_to_the_sun_v65536.r05	ab5823a9
+v-close_to_the_sun_v65536.r06	d5a3eea1
+v-close_to_the_sun_v65536.rar	cf45849c
+v-close_to_the_sun_v65536.sfv	1df36641

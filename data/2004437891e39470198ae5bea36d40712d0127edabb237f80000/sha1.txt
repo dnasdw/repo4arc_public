@@ -1,0 +1,3 @@
+sxs-touhou_kobuto_v_burst_battle_dlc.nfo	3e8e63aa7ed46495be383b9d6fd33b42b7a8d000
+sxs-touhou_kobuto_v_burst_battle_dlc.rar	f02719270849a788ecb9ba2f6833ace6d1df947a
+sxs-touhou_kobuto_v_burst_battle_dlc.sfv	f4da82e640e1c94db1a0065537ce5348d59afd58

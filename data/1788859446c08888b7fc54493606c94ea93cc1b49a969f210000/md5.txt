@@ -1,0 +1,5 @@
+lfc-hgis.nfo	ecb7942477f1bf35c179579ede7ae8d2
+lfc-hgis.r00	6eb2ae7c0782cdddb0767d145c90d3f7
+lfc-hgis.r01	06f5d5fea6e0e536781ffbe9bf1398e6
+lfc-hgis.rar	8946696f0a3ac82168578daa972d9aa8
+lfc-hgis.sfv	f49221ffedf8d6a8d7e8a2780c1b5946

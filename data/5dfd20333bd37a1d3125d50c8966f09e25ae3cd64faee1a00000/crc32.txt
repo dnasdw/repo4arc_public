@@ -1,0 +1,11 @@
+lfc-virt.nfo	8f586d0e
+lfc-virt.r00	1621d2f1
+lfc-virt.r01	e8b9301d
+lfc-virt.r02	5ffb5810
+lfc-virt.r03	e0054f60
+lfc-virt.r04	24ec52d2
+lfc-virt.r05	278dc20e
+lfc-virt.r06	b7434a15
+lfc-virt.r07	29c40f1c
+lfc-virt.rar	c329a55a
+lfc-virt.sfv	b9560c0e

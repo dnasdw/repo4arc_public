@@ -1,0 +1,10 @@
+v-killer_queen_black_v262144.nfo	02ec6b73
+v-killer_queen_black_v262144.r00	77224801
+v-killer_queen_black_v262144.r01	4937d361
+v-killer_queen_black_v262144.r02	6087880c
+v-killer_queen_black_v262144.r03	bcb1ce4d
+v-killer_queen_black_v262144.r04	d60a7683
+v-killer_queen_black_v262144.r05	dfab93dd
+v-killer_queen_black_v262144.r06	824dca88
+v-killer_queen_black_v262144.rar	639e331d
+v-killer_queen_black_v262144.sfv	01d43a0d

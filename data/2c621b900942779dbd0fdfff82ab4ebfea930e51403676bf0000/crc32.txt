@@ -1,0 +1,5 @@
+hr-az32av65536.nfo	00377f5c
+hr-az32av65536.r00	9252210f
+hr-az32av65536.r01	12bdcae7
+hr-az32av65536.rar	6c9d075b
+hr-az32av65536.sfv	a6f320eb

@@ -1,0 +1,4 @@
+sxs-moon_lander.nfo	93a71927f6539790c6dfbbe880feed0b
+sxs-moon_lander.r00	a7335417bbc1582ab203fa64634021e9
+sxs-moon_lander.rar	377a0016e9aa4f787220d0f47502b883
+sxs-moon_lander.sfv	67a00e3ee1e64433346c772d3673077b

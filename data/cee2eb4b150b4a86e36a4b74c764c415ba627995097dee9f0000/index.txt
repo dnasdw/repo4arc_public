@@ -1,0 +1,11 @@
+sxs-soul_searching.nfo	-	6446	1	0	0	0
+sxs-soul_searching.r00	-	50000000	1	6446	0	1
+sxs-soul_searching.r01	-	50000000	1	50006446	0	49
+sxs-soul_searching.r02	-	50000000	1	100006446	0	97
+sxs-soul_searching.r03	-	50000000	1	150006446	0	145
+sxs-soul_searching.r04	-	50000000	1	200006446	0	193
+sxs-soul_searching.r05	-	50000000	1	250006446	0	241
+sxs-soul_searching.r06	-	50000000	1	300006446	0	289
+sxs-soul_searching.r07	-	9367163	1	350006446	0	337
+sxs-soul_searching.rar	-	50000000	1	359373609	0	346
+sxs-soul_searching.sfv	-	297	1	409373609	0	394

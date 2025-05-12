@@ -1,0 +1,10 @@
+sxs-kobolok.nfo	91e05c4c4a226cc948757d60bb774aa6
+sxs-kobolok.r00	8016cf3d56bbf63d5731c179ca4d8ba9
+sxs-kobolok.r01	44da90e74b31838fe3e4c9437312ee2d
+sxs-kobolok.r02	68744aaa6107db932af306b715702c95
+sxs-kobolok.r03	6520d6911e934679b78b1d5374f48a94
+sxs-kobolok.r04	35286894cd3daf096f6c02a9d40f1429
+sxs-kobolok.r05	f42f12b58f2ec5fefbf26216dde48286
+sxs-kobolok.r06	d56926f0c4137e5de4fb22c1e926ac83
+sxs-kobolok.rar	dc1ea6b26d768ac4c4c2467c182ce8f8
+sxs-kobolok.sfv	33a6f9c0ec3ae838687bc168dc585173

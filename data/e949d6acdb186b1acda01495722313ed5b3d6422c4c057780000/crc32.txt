@@ -1,0 +1,4 @@
+sxs-truck_simulator_usa_revolution_v65536.nfo	f9068dd1
+sxs-truck_simulator_usa_revolution_v65536.r00	b085128f
+sxs-truck_simulator_usa_revolution_v65536.rar	f21b6243
+sxs-truck_simulator_usa_revolution_v65536.sfv	2ce8f7a2

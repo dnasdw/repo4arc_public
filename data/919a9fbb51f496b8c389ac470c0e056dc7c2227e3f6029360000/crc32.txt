@@ -1,0 +1,8 @@
+sxs-west_of_loathing_v262144.nfo	c5894e40
+sxs-west_of_loathing_v262144.r00	00a36038
+sxs-west_of_loathing_v262144.r01	64925b3c
+sxs-west_of_loathing_v262144.r02	9a67de9d
+sxs-west_of_loathing_v262144.r03	2226fb31
+sxs-west_of_loathing_v262144.r04	050f92ac
+sxs-west_of_loathing_v262144.rar	d553ccda
+sxs-west_of_loathing_v262144.sfv	828e8c55

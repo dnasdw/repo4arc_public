@@ -1,0 +1,11 @@
+sxs-tbtwt_esmx_dlc.nfo	1451b8f1d097115f27885f73f3435ee2
+sxs-tbtwt_esmx_dlc.r00	f244d4cbf20304628e5a83f1f0aba84c
+sxs-tbtwt_esmx_dlc.r01	ab609237c2d78897d57df7b1a89f4d23
+sxs-tbtwt_esmx_dlc.r02	56025bacc5a8946472262a4d22edc1b1
+sxs-tbtwt_esmx_dlc.r03	0c22bf5dc55f5758fc949945290ba378
+sxs-tbtwt_esmx_dlc.r04	d5a0d9fc04f04b6e7e68930ce1c2caf9
+sxs-tbtwt_esmx_dlc.r05	67df07c6f7a0efe040f136e0719673d3
+sxs-tbtwt_esmx_dlc.r06	8c5df8a856e08b5f8f794e6cbce4f030
+sxs-tbtwt_esmx_dlc.r07	ec25ed6fbeded4e4a6b939abdae5fdaf
+sxs-tbtwt_esmx_dlc.rar	23e326d6c0bfc9e5c4c27849768d52e7
+sxs-tbtwt_esmx_dlc.sfv	2da474610266c7ae6c03f5ce0241fe0d

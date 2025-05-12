@@ -1,0 +1,3 @@
+sxs-sniper_elite_4_dlc.nfo	-	5042	1	0	0	0
+sxs-sniper_elite_4_dlc.rar	-	831328	1	5042	0	1
+sxs-sniper_elite_4_dlc.sfv	-	37	1	836370	0	2

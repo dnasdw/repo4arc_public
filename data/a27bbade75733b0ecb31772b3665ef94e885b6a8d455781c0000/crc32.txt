@@ -1,0 +1,5 @@
+sxs-quick_race.nfo	e6a09f40
+sxs-quick_race.r00	44945f04
+sxs-quick_race.r01	fbebc605
+sxs-quick_race.rar	7379ef8a
+sxs-quick_race.sfv	43587ec5

@@ -1,0 +1,11 @@
+sxs-the_tower_of_beatrice.nfo	105c2b96
+sxs-the_tower_of_beatrice.r00	69428096
+sxs-the_tower_of_beatrice.r01	36427abd
+sxs-the_tower_of_beatrice.r02	c0ddf23b
+sxs-the_tower_of_beatrice.r03	a019ee2f
+sxs-the_tower_of_beatrice.r04	7269f94a
+sxs-the_tower_of_beatrice.r05	c1f496b9
+sxs-the_tower_of_beatrice.r06	c47b67de
+sxs-the_tower_of_beatrice.r07	4a152947
+sxs-the_tower_of_beatrice.rar	b0bc7dc3
+sxs-the_tower_of_beatrice.sfv	77c38b6d

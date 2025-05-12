@@ -1,0 +1,12 @@
+sxs-n64jp_v720896.nfo	8becfd41
+sxs-n64jp_v720896.r00	5fc9c1d1
+sxs-n64jp_v720896.r01	cbabaef6
+sxs-n64jp_v720896.r02	d21dcbd0
+sxs-n64jp_v720896.r03	b62d4ada
+sxs-n64jp_v720896.r04	67c6dffd
+sxs-n64jp_v720896.r05	406ea723
+sxs-n64jp_v720896.r06	f8c4838a
+sxs-n64jp_v720896.r07	539d7e01
+sxs-n64jp_v720896.r08	3b865c8b
+sxs-n64jp_v720896.rar	9edd3f5b
+sxs-n64jp_v720896.sfv	f7e61e63

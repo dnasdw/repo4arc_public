@@ -1,0 +1,8 @@
+v-cptttt_v131072_dlc.nfo	a29f3024
+v-cptttt_v131072_dlc.r00	69c29a91
+v-cptttt_v131072_dlc.r01	caf58654
+v-cptttt_v131072_dlc.r02	139f2d96
+v-cptttt_v131072_dlc.r03	e77e86c8
+v-cptttt_v131072_dlc.r04	82ad4469
+v-cptttt_v131072_dlc.rar	30fe3976
+v-cptttt_v131072_dlc.sfv	ecf61695

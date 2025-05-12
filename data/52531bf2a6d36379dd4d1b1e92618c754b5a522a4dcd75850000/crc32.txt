@@ -1,0 +1,12 @@
+sxs-death_trick_double_blind_demo.nfo	c402a80f
+sxs-death_trick_double_blind_demo.r00	87e9a0b5
+sxs-death_trick_double_blind_demo.r01	f5ee9b13
+sxs-death_trick_double_blind_demo.r02	87ec09a7
+sxs-death_trick_double_blind_demo.r03	3f9c2b86
+sxs-death_trick_double_blind_demo.r04	876f3ea5
+sxs-death_trick_double_blind_demo.r05	6e1cdeb9
+sxs-death_trick_double_blind_demo.r06	aab96724
+sxs-death_trick_double_blind_demo.r07	f79b0312
+sxs-death_trick_double_blind_demo.r08	d1dc62c7
+sxs-death_trick_double_blind_demo.rar	d441b866
+sxs-death_trick_double_blind_demo.sfv	450dc0e5

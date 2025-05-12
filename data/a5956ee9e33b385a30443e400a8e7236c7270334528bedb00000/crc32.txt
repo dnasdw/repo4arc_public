@@ -1,0 +1,5 @@
+v-blades_of_time_v65536.nfo	2efde798
+v-blades_of_time_v65536.r00	9eaa1cf4
+v-blades_of_time_v65536.r01	af540508
+v-blades_of_time_v65536.rar	a0019664
+v-blades_of_time_v65536.sfv	074a2457

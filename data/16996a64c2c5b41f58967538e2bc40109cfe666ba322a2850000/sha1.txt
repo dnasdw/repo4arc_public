@@ -1,0 +1,6 @@
+sxs-mathland.nfo	7b769d10b5efe078f7d424c2a94fa4bddc81f68c
+sxs-mathland.r00	c7909d7744dafeadb120f606908835780f433b20
+sxs-mathland.r01	d72804074dca8ea068c6e1dd87d77ff13c4cdb63
+sxs-mathland.r02	0a2acd78ca65c559646c7531e9b9e862a9eb5655
+sxs-mathland.rar	ec71c40c965dde8a0b7ffa4a690fbee03f8be6b1
+sxs-mathland.sfv	f6c1360a35d6f7aca9a918a129de7b872b66201f

@@ -1,0 +1,4 @@
+v-shakedown_hawaii_v262144.nfo	-	5044	1	0	0	0
+v-shakedown_hawaii_v262144.r00	-	1793715	1	5044	0	1
+v-shakedown_hawaii_v262144.rar	-	50000000	1	1798759	0	3
+v-shakedown_hawaii_v262144.sfv	-	82	1	51798759	0	51

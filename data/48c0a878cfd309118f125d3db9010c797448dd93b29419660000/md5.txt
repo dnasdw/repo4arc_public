@@ -1,0 +1,3 @@
+v-doom_ii_earthless_dlc.nfo	b5bb67e6d409c300f0b3beac373e3409
+v-doom_ii_earthless_dlc.rar	49d0636fec784fda76e7e549b9e68ec6
+v-doom_ii_earthless_dlc.sfv	966c664306373f649dd97e5fa88b0d11

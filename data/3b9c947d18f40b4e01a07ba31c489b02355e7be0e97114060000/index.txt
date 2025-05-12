@@ -1,0 +1,6 @@
+lfc-wordify.nfo	-	4950	1	0	0	0
+lfc-wordify.r00	-	50000000	1	4950	0	1
+lfc-wordify.r01	-	50000000	1	50004950	0	49
+lfc-wordify.r02	-	7905657	1	100004950	0	97
+lfc-wordify.rar	-	50000000	1	107910607	0	105
+lfc-wordify.sfv	-	104	1	157910607	0	153

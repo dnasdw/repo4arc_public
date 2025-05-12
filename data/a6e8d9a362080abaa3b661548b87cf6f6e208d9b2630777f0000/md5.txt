@@ -1,0 +1,6 @@
+sxs-brunch_club.nfo	b1594798344ed65dec0d5ce8405e8e9b
+sxs-brunch_club.r00	dfea3009bd8e4cd515a9ef89b159e987
+sxs-brunch_club.r01	c531397b0cc6ab7ca1a92da5582a1331
+sxs-brunch_club.r02	064ea99a149c51a44d32da1ccf2298e7
+sxs-brunch_club.rar	6e5e911bd29e3c5518dce7f2c59957f3
+sxs-brunch_club.sfv	723ee235c5e8ab54e2f8d72090cd4fe5

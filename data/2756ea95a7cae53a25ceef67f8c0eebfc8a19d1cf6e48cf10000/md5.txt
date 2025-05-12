@@ -1,0 +1,10 @@
+lfc-ggac2updv1.0.4.nfo	118f017f1414ffeb856562316b767ecd
+lfc-ggac2updv1.0.4.r00	6bc887a2f64b057d758aeed499b71128
+lfc-ggac2updv1.0.4.r01	2cc13e13486dc6d8cd188007fffd478e
+lfc-ggac2updv1.0.4.r02	cac9e5bf6aed536a904ab77d0765fc9c
+lfc-ggac2updv1.0.4.r03	45c53b807ebad2711b28c7cffab7e66a
+lfc-ggac2updv1.0.4.r04	87b8d46411ef94b038bb7bac22302a72
+lfc-ggac2updv1.0.4.r05	abc0e0343016c845e15b444fa521efe2
+lfc-ggac2updv1.0.4.r06	acb45c8e228aad6b99d477b6dd77c215
+lfc-ggac2updv1.0.4.rar	795b5ea5181f7a8236905275f94c7202
+lfc-ggac2updv1.0.4.sfv	803f06fe3c56c8c7fb371ed732b143f5

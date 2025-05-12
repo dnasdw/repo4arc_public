@@ -1,0 +1,5 @@
+v-picross_s_plus.nfo	cab28df5
+v-picross_s_plus.r00	d851e775
+v-picross_s_plus.r01	8388878c
+v-picross_s_plus.rar	63d881c0
+v-picross_s_plus.sfv	c75b42a8

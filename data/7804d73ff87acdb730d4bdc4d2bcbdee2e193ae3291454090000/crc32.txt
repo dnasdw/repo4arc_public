@@ -1,0 +1,10 @@
+sxs-escapists2_v65536.nfo	073453b9
+sxs-escapists2_v65536.r00	7a9cf277
+sxs-escapists2_v65536.r01	371bbe52
+sxs-escapists2_v65536.r02	f46550f6
+sxs-escapists2_v65536.r03	b8c30395
+sxs-escapists2_v65536.r04	e37c9e8a
+sxs-escapists2_v65536.r05	5c3930a2
+sxs-escapists2_v65536.r06	3b3a9547
+sxs-escapists2_v65536.rar	b01f3e28
+sxs-escapists2_v65536.sfv	906d88b3

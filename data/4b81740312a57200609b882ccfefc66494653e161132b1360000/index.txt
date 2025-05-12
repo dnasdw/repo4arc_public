@@ -1,0 +1,3 @@
+sxs-super_meat_boy_v262144.nfo	-	5277	1	0	0	0
+sxs-super_meat_boy_v262144.rar	-	13863280	1	5277	0	1
+sxs-super_meat_boy_v262144.sfv	-	41	1	13868557	0	15

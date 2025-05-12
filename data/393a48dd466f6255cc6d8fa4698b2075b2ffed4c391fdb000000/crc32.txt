@@ -1,0 +1,7 @@
+v-megaquarium_v196608.nfo	a3828b1e
+v-megaquarium_v196608.r00	6ffb047f
+v-megaquarium_v196608.r01	a126c9b7
+v-megaquarium_v196608.r02	051d21d3
+v-megaquarium_v196608.r03	e08c5460
+v-megaquarium_v196608.rar	9cd3029a
+v-megaquarium_v196608.sfv	c33bd750

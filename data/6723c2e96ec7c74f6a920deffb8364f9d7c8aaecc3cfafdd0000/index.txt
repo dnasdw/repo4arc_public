@@ -1,0 +1,4 @@
+sxs-wrc_generations_multi11_v196608.nfo	-	7304	1	0	0	0
+sxs-wrc_generations_multi11_v196608.r00	-	54879456	1	7304	0	1
+sxs-wrc_generations_multi11_v196608.rar	-	100000000	1	54886760	0	54
+sxs-wrc_generations_multi11_v196608.sfv	-	100	1	154886760	0	150

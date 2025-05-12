@@ -1,0 +1,14 @@
+v-deruac.nfo	dd0c962f
+v-deruac.r00	e62ded3e
+v-deruac.r01	79fdd8ed
+v-deruac.r02	67f551dd
+v-deruac.r03	e71c4225
+v-deruac.r04	06a60705
+v-deruac.r05	37eb9338
+v-deruac.r06	1b79dc92
+v-deruac.r07	ba3fcdf7
+v-deruac.r08	7bed88e1
+v-deruac.r09	f26f2aa1
+v-deruac.r10	3bf4a7f3
+v-deruac.rar	33d59003
+v-deruac.sfv	bee679cb

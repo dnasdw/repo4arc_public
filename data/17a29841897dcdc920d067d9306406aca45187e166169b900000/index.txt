@@ -1,0 +1,3 @@
+sxs-ace_angler_fishing_spirits_dlc.nfo	-	10658	1	0	0	0
+sxs-ace_angler_fishing_spirits_dlc.rar	-	1739078	1	10658	0	1
+sxs-ace_angler_fishing_spirits_dlc.sfv	-	49	1	1749736	0	3

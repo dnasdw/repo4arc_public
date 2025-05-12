@@ -1,0 +1,5 @@
+sxs-kosmonavtes_escape_reality.nfo	fd014a7658ce649603c14fe870695c42
+sxs-kosmonavtes_escape_reality.r00	9a0cf8964e72a26142e0a1d275c7604d
+sxs-kosmonavtes_escape_reality.r01	a4f6798e8fad08b990de389374d0df9b
+sxs-kosmonavtes_escape_reality.rar	e4b38aed1895132fc6ff91ecea4fa5fe
+sxs-kosmonavtes_escape_reality.sfv	bdc936ea7eaeb43860229575fbe5d86f

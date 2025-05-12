@@ -1,0 +1,3 @@
+lfc-bapgb_v65536.nfo	39eab3bf59a83a2796782c31eb1ca997c32d25d1
+lfc-bapgb_v65536.rar	3845506ecc3cada2342d0f8863c797028ebb0cfa
+lfc-bapgb_v65536.sfv	38ed7b64da57fdfbce23d34b4b361b542b3820d9

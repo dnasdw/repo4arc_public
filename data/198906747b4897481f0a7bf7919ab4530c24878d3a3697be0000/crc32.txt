@@ -1,0 +1,12 @@
+v-constructor_plus_v196608.nfo	c2d01c07
+v-constructor_plus_v196608.r00	21420082
+v-constructor_plus_v196608.r01	9b3ded26
+v-constructor_plus_v196608.r02	24c33f2f
+v-constructor_plus_v196608.r03	f01fcccd
+v-constructor_plus_v196608.r04	ea08ea51
+v-constructor_plus_v196608.r05	dfe50957
+v-constructor_plus_v196608.r06	673208a0
+v-constructor_plus_v196608.r07	a106f3ba
+v-constructor_plus_v196608.r08	cea677e8
+v-constructor_plus_v196608.rar	d67b8d15
+v-constructor_plus_v196608.sfv	37e101b7

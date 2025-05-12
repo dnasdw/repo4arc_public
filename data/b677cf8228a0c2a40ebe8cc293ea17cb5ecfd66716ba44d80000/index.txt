@@ -1,0 +1,16 @@
+sxs-angry_alligator_v65536.nfo	-	6680	1	0	0	0
+sxs-angry_alligator_v65536.r00	-	50000000	1	6680	0	1
+sxs-angry_alligator_v65536.r01	-	50000000	1	50006680	0	49
+sxs-angry_alligator_v65536.r02	-	50000000	1	100006680	0	97
+sxs-angry_alligator_v65536.r03	-	50000000	1	150006680	0	145
+sxs-angry_alligator_v65536.r04	-	50000000	1	200006680	0	193
+sxs-angry_alligator_v65536.r05	-	50000000	1	250006680	0	241
+sxs-angry_alligator_v65536.r06	-	50000000	1	300006680	0	289
+sxs-angry_alligator_v65536.r07	-	50000000	1	350006680	0	337
+sxs-angry_alligator_v65536.r08	-	50000000	1	400006680	0	385
+sxs-angry_alligator_v65536.r09	-	50000000	1	450006680	0	433
+sxs-angry_alligator_v65536.r10	-	50000000	1	500006680	0	481
+sxs-angry_alligator_v65536.r11	-	50000000	1	12251264	1	12
+sxs-angry_alligator_v65536.r12	-	48660259	1	62251264	1	60
+sxs-angry_alligator_v65536.rar	-	50000000	1	110911523	1	107
+sxs-angry_alligator_v65536.sfv	-	574	1	160911523	1	155

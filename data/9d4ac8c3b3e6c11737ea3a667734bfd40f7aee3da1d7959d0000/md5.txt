@@ -1,0 +1,4 @@
+v-bluey_the_videogame_v131072.nfo	38bef44709aa2ddf88d9f935aae50599
+v-bluey_the_videogame_v131072.r00	a4590f88482fb48027f5056db4a6a841
+v-bluey_the_videogame_v131072.rar	c043dcf1fdfb0100b60f76b34416ea96
+v-bluey_the_videogame_v131072.sfv	015d6a9fdb4730d08505fb55c4ef3b0a

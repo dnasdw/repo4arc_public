@@ -1,0 +1,4 @@
+lfc-picapixpieces.nfo	-	5372	1	0	0	0
+lfc-picapixpieces.r00	-	33355892	1	5372	0	1
+lfc-picapixpieces.rar	-	50000000	1	33361264	0	33
+lfc-picapixpieces.sfv	-	64	1	83361264	0	81

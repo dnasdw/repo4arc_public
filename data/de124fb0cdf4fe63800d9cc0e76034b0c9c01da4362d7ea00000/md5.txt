@@ -1,0 +1,8 @@
+sxs-war_theatre.nfo	284dbb2e8b3d2fae74c3c7f4b4961e0b
+sxs-war_theatre.r00	f963277b3e7694cf2e3bd24551130cf2
+sxs-war_theatre.r01	51ed747119ff8471b8e2b10773545e8f
+sxs-war_theatre.r02	dd5451ed07aa92437ba5a8fa95d10948
+sxs-war_theatre.r03	df6ca35280bf1560bdb7f758a22e1b35
+sxs-war_theatre.r04	35db349907f8ff869cc8cd25d7d3a5bf
+sxs-war_theatre.rar	8149a99007a79dbce122d7d99b463538
+sxs-war_theatre.sfv	2bcdeaecb31daeffbdc73a82dc60c49f

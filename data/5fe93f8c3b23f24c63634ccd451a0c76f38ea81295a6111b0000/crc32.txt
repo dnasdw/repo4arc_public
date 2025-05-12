@@ -1,0 +1,17 @@
+v-diablo3_v196608.nfo	e1a65a15
+v-diablo3_v196608.r00	cbab8f17
+v-diablo3_v196608.r01	5d345655
+v-diablo3_v196608.r02	af5dd3c4
+v-diablo3_v196608.r03	4a68aa76
+v-diablo3_v196608.r04	1a7f2843
+v-diablo3_v196608.r05	1562dfff
+v-diablo3_v196608.r06	54a84ca5
+v-diablo3_v196608.r07	a8abcbbb
+v-diablo3_v196608.r08	35210ea9
+v-diablo3_v196608.r09	302067e3
+v-diablo3_v196608.r10	efe52aac
+v-diablo3_v196608.r11	da2f5adf
+v-diablo3_v196608.r12	3ab637a5
+v-diablo3_v196608.r13	fbf5151a
+v-diablo3_v196608.rar	52d2020e
+v-diablo3_v196608.sfv	18c980ac

@@ -1,0 +1,13 @@
+sxs-bus_driving_simulator_22_v131072.nfo	-	7304	1	0	0	0
+sxs-bus_driving_simulator_22_v131072.r00	-	100000000	1	7304	0	1
+sxs-bus_driving_simulator_22_v131072.r01	-	100000000	1	100007304	0	97
+sxs-bus_driving_simulator_22_v131072.r02	-	100000000	1	200007304	0	193
+sxs-bus_driving_simulator_22_v131072.r03	-	100000000	1	300007304	0	289
+sxs-bus_driving_simulator_22_v131072.r04	-	100000000	1	400007304	0	385
+sxs-bus_driving_simulator_22_v131072.r05	-	100000000	1	500007304	0	481
+sxs-bus_driving_simulator_22_v131072.r06	-	100000000	1	62251264	1	60
+sxs-bus_driving_simulator_22_v131072.r07	-	100000000	1	162251264	1	156
+sxs-bus_driving_simulator_22_v131072.r08	-	100000000	1	262251264	1	252
+sxs-bus_driving_simulator_22_v131072.r09	-	25364361	1	362251264	1	348
+sxs-bus_driving_simulator_22_v131072.rar	-	100000000	1	387615625	1	373
+sxs-bus_driving_simulator_22_v131072.sfv	-	561	1	487615625	1	469

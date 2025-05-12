@@ -1,0 +1,4 @@
+bbb-n-ad89a.nfo	-	5517	1	0	0	0
+bbb-n-ad89a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ad89a.part2.rar	-	225340868	1	250005517	0	240
+bbb-n-ad89a.sfv	-	64	1	475346385	0	455

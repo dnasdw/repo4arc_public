@@ -1,0 +1,5 @@
+sxs-dexteritrip.nfo	a82b1acb
+sxs-dexteritrip.r00	550ea84f
+sxs-dexteritrip.r01	6ded9eb5
+sxs-dexteritrip.rar	4a9207bf
+sxs-dexteritrip.sfv	85f508c7

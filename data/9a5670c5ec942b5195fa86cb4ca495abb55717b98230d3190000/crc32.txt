@@ -1,0 +1,7 @@
+v-riotcu_v65536.nfo	7b8976a1
+v-riotcu_v65536.r00	c68301fe
+v-riotcu_v65536.r01	564810d2
+v-riotcu_v65536.r02	a23cbf29
+v-riotcu_v65536.r03	82c07d70
+v-riotcu_v65536.rar	736a125e
+v-riotcu_v65536.sfv	83097420

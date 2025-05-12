@@ -1,0 +1,3 @@
+sxs-warlocks_tower_v65536.nfo	fecb9e88
+sxs-warlocks_tower_v65536.rar	becec12a
+sxs-warlocks_tower_v65536.sfv	05f917ef

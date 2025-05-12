@@ -1,0 +1,5 @@
+sxs-beesim_ptbr.nfo	-	4419	1	0	0	0
+sxs-beesim_ptbr.r00	-	50000000	1	4419	0	1
+sxs-beesim_ptbr.r01	-	16695049	1	50004419	0	49
+sxs-beesim_ptbr.rar	-	50000000	1	66699468	0	65
+sxs-beesim_ptbr.sfv	-	90	1	116699468	0	113

@@ -1,0 +1,13 @@
+v-quake_v327680.nfo	97f9ac29
+v-quake_v327680.r00	29163eee
+v-quake_v327680.r01	d61f77e6
+v-quake_v327680.r02	50fd6b7a
+v-quake_v327680.r03	f01d824c
+v-quake_v327680.r04	6be76238
+v-quake_v327680.r05	5f13b6cb
+v-quake_v327680.r06	115212d3
+v-quake_v327680.r07	83ed57a5
+v-quake_v327680.r08	709d0c44
+v-quake_v327680.r09	350645bc
+v-quake_v327680.rar	2d04afba
+v-quake_v327680.sfv	2865f050

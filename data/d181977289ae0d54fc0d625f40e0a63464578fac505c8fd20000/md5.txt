@@ -1,0 +1,6 @@
+sxs-pyramid_quest.nfo	ebd64d2f701e122510048b510898f4d7
+sxs-pyramid_quest.r00	962d3fdb1f307cdee7a82fc8129e2db4
+sxs-pyramid_quest.r01	77a20ddb9568dceb6f71efb4c80888d5
+sxs-pyramid_quest.r02	e435814c04083991def194da3bfa5deb
+sxs-pyramid_quest.rar	34885d67d20ec422e24c4f67b73461a1
+sxs-pyramid_quest.sfv	b036ebc345e47e8c8fa793ccd1efbf84

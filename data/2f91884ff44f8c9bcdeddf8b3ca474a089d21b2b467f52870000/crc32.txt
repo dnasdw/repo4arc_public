@@ -1,0 +1,9 @@
+hr-apsuav65536.nfo	f78bcef9
+hr-apsuav65536.r00	5f083504
+hr-apsuav65536.r01	fd783fe0
+hr-apsuav65536.r02	3121278a
+hr-apsuav65536.r03	02d92149
+hr-apsuav65536.r04	de4d4d57
+hr-apsuav65536.r05	4b8ed7b1
+hr-apsuav65536.rar	25fc2a9b
+hr-apsuav65536.sfv	00b20425

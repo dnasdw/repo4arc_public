@@ -1,0 +1,4 @@
+lfc-spin.nfo	c640d5ae
+lfc-spin.r00	64a85ca7
+lfc-spin.rar	9f7ee5a2
+lfc-spin.sfv	4dd8cd60

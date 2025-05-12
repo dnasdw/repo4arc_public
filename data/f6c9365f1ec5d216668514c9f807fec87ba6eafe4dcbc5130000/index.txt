@@ -1,0 +1,5 @@
+sxs-alchemic_cutie_v196608.nfo	-	6524	1	0	0	0
+sxs-alchemic_cutie_v196608.r00	-	100000000	1	6524	0	1
+sxs-alchemic_cutie_v196608.r01	-	73424802	1	100006524	0	97
+sxs-alchemic_cutie_v196608.rar	-	100000000	1	173431326	0	168
+sxs-alchemic_cutie_v196608.sfv	-	123	1	273431326	0	264

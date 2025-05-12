@@ -1,0 +1,5 @@
+v-ghostbusters_v131072.nfo	-	4966	1	0	0	0
+v-ghostbusters_v131072.r00	-	50000000	1	4966	0	1
+v-ghostbusters_v131072.r01	-	17302699	1	50004966	0	49
+v-ghostbusters_v131072.rar	-	50000000	1	67307665	0	66
+v-ghostbusters_v131072.sfv	-	111	1	117307665	0	114

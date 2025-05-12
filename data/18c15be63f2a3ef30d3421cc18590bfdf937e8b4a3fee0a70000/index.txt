@@ -1,0 +1,3 @@
+v-ship_of_fools_dlc.nfo	-	7696	1	0	0	0
+v-ship_of_fools_dlc.rar	-	208076	1	7696	0	1
+v-ship_of_fools_dlc.sfv	-	34	1	215772	0	2

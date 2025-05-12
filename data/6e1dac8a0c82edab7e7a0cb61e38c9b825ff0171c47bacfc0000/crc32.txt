@@ -1,0 +1,10 @@
+v-astroneer_v786432.nfo	2772b694
+v-astroneer_v786432.r00	ed4922f6
+v-astroneer_v786432.r01	de90949c
+v-astroneer_v786432.r02	f99a2f01
+v-astroneer_v786432.r03	a85cbc8b
+v-astroneer_v786432.r04	d11feabb
+v-astroneer_v786432.r05	d1261aee
+v-astroneer_v786432.r06	be3402f6
+v-astroneer_v786432.rar	bf9c6b64
+v-astroneer_v786432.sfv	cba13ea2

@@ -1,0 +1,7 @@
+sxs-bowling_fever.nfo	-	4808	1	0	0	0
+sxs-bowling_fever.r00	-	100000000	1	4808	0	1
+sxs-bowling_fever.r01	-	100000000	1	100004808	0	97
+sxs-bowling_fever.r02	-	100000000	1	200004808	0	193
+sxs-bowling_fever.r03	-	69713830	1	300004808	0	289
+sxs-bowling_fever.rar	-	100000000	1	369718638	0	356
+sxs-bowling_fever.sfv	-	160	1	469718638	0	452

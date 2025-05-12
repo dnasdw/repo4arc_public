@@ -1,0 +1,13 @@
+lfc-popu.nfo	d7bed843cfe5436bcfa9db1ac5e340d5
+lfc-popu.r00	7f6de2aba971600dd6986200fdecd1b5
+lfc-popu.r01	e6436292c30268d21985cdd7c36b2280
+lfc-popu.r02	aa097d445c660d07cc6854a41f8d6df6
+lfc-popu.r03	aa1e0ac5e89d0170fa682809b2353572
+lfc-popu.r04	5415a8f4675d0cb870457f0fafd4cb1d
+lfc-popu.r05	95e1190fa2b772de3a0f00b6a89cf484
+lfc-popu.r06	3b2348387f2bfdd65e62641fa56d1be9
+lfc-popu.r07	0ac1aa5a2dd75f47c7cabee745d03ebb
+lfc-popu.r08	4838298c030997869ecde71e8f2a3a6e
+lfc-popu.r09	bcd288cfb4caa8825ed0fd36d97ce824
+lfc-popu.rar	2557bca5f5e6ce3936f2a3c077a47a4e
+lfc-popu.sfv	0b502baa5eb9e13cbe7f01815ef98808

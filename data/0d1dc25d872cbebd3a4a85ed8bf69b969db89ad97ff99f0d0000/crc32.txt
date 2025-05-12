@@ -1,0 +1,12 @@
+sxs-fifa_22_russian_dlc.nfo	1b938de0
+sxs-fifa_22_russian_dlc.r00	b6c0e458
+sxs-fifa_22_russian_dlc.r01	1bdea1f1
+sxs-fifa_22_russian_dlc.r02	383d00ba
+sxs-fifa_22_russian_dlc.r03	626aa912
+sxs-fifa_22_russian_dlc.r04	ac356cc3
+sxs-fifa_22_russian_dlc.r05	6eb24025
+sxs-fifa_22_russian_dlc.r06	1da75850
+sxs-fifa_22_russian_dlc.r07	15701735
+sxs-fifa_22_russian_dlc.r08	57e75aac
+sxs-fifa_22_russian_dlc.rar	6b01f7b3
+sxs-fifa_22_russian_dlc.sfv	4a8d7d53

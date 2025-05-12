@@ -1,0 +1,6 @@
+v-red_dead_redemption_v131072.nfo	6407c9b9
+v-red_dead_redemption_v131072.r00	b21ba02c
+v-red_dead_redemption_v131072.r01	8bbf45c5
+v-red_dead_redemption_v131072.r02	377ef89d
+v-red_dead_redemption_v131072.rar	56d61ba3
+v-red_dead_redemption_v131072.sfv	32088719

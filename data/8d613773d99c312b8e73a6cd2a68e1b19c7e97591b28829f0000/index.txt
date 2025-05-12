@@ -1,0 +1,14 @@
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.nfo	-	6056	1	0	0	0
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.r00	-	50000000	1	6056	0	1
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.r01	-	50000000	1	50006056	0	49
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.r02	-	50000000	1	100006056	0	97
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.r03	-	50000000	1	150006056	0	145
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.r04	-	50000000	1	200006056	0	193
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.r05	-	50000000	1	250006056	0	241
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.r06	-	50000000	1	300006056	0	289
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.r07	-	50000000	1	350006056	0	337
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.r08	-	50000000	1	400006056	0	385
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.r09	-	50000000	1	450006056	0	433
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.r10	-	30376556	1	500006056	0	481
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.rar	-	50000000	1	530382612	0	510
+sxs-lego_star_wars_the_skywalker_saga_polish_language_pack_dlc.sfv	-	924	1	42659968	1	41

@@ -1,0 +1,10 @@
+sxs-full_metal_furies_v196608.nfo	-	4262	1	0	0	0
+sxs-full_metal_furies_v196608.r00	-	50000000	1	4262	0	1
+sxs-full_metal_furies_v196608.r01	-	50000000	1	50004262	0	49
+sxs-full_metal_furies_v196608.r02	-	50000000	1	100004262	0	97
+sxs-full_metal_furies_v196608.r03	-	50000000	1	150004262	0	145
+sxs-full_metal_furies_v196608.r04	-	50000000	1	200004262	0	193
+sxs-full_metal_furies_v196608.r05	-	50000000	1	250004262	0	241
+sxs-full_metal_furies_v196608.r06	-	6570032	1	300004262	0	289
+sxs-full_metal_furies_v196608.rar	-	50000000	1	306574294	0	296
+sxs-full_metal_furies_v196608.sfv	-	352	1	356574294	0	344

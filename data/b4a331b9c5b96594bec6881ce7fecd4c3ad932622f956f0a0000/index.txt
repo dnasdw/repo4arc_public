@@ -1,0 +1,4 @@
+sxs-missile_dancer_v196608.nfo	-	5432	1	0	0	0
+sxs-missile_dancer_v196608.r00	-	12231781	1	5432	0	1
+sxs-missile_dancer_v196608.rar	-	50000000	1	12237213	0	13
+sxs-missile_dancer_v196608.sfv	-	82	1	62237213	0	61

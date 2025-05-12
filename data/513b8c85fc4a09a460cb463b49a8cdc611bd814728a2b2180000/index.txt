@@ -1,0 +1,7 @@
+sxs-freezer_pops.nfo	-	5432	1	0	0	0
+sxs-freezer_pops.r00	-	50000000	1	5432	0	1
+sxs-freezer_pops.r01	-	50000000	1	50005432	0	49
+sxs-freezer_pops.r02	-	50000000	1	100005432	0	97
+sxs-freezer_pops.r03	-	37655575	1	150005432	0	145
+sxs-freezer_pops.rar	-	50000000	1	187661007	0	181
+sxs-freezer_pops.sfv	-	155	1	237661007	0	229

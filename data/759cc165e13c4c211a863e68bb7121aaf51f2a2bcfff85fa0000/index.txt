@@ -1,0 +1,3 @@
+sxs-nekopara1_v102.nfo	-	5276	1	0	0	0
+sxs-nekopara1_v102.rar	-	45067240	1	5276	0	1
+sxs-nekopara1_v102.sfv	-	33	1	45072516	0	44

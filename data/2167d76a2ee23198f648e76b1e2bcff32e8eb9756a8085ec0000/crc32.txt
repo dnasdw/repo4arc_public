@@ -1,0 +1,16 @@
+w-aeternoblade2_v131072.nfo	37aa9c77
+w-aeternoblade2_v131072.r00	5975f731
+w-aeternoblade2_v131072.r01	db7c8320
+w-aeternoblade2_v131072.r02	9c790dc4
+w-aeternoblade2_v131072.r03	a5a03c2b
+w-aeternoblade2_v131072.r04	5330f9e8
+w-aeternoblade2_v131072.r05	ba6b3055
+w-aeternoblade2_v131072.r06	d2c33280
+w-aeternoblade2_v131072.r07	b53759ae
+w-aeternoblade2_v131072.r08	c793059c
+w-aeternoblade2_v131072.r09	cc002575
+w-aeternoblade2_v131072.r10	5363478c
+w-aeternoblade2_v131072.r11	ff004489
+w-aeternoblade2_v131072.r12	5e017cc2
+w-aeternoblade2_v131072.rar	3d858c0a
+w-aeternoblade2_v131072.sfv	1a47e0a5

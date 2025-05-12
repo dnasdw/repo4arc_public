@@ -1,0 +1,11 @@
+lfc-mrsr.nfo	ba32ed0f
+lfc-mrsr.r00	cd2794aa
+lfc-mrsr.r01	1f14375d
+lfc-mrsr.r02	2534b74e
+lfc-mrsr.r03	ede4be97
+lfc-mrsr.r04	cde75b27
+lfc-mrsr.r05	0d35bec2
+lfc-mrsr.r06	f34c4ba6
+lfc-mrsr.r07	ee1cf8d7
+lfc-mrsr.rar	2f789aa2
+lfc-mrsr.sfv	5ea235e8

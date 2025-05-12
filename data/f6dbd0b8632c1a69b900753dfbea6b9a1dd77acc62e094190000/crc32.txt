@@ -1,0 +1,13 @@
+sxs-fighting_fantasy_legends.nfo	6fd1f061
+sxs-fighting_fantasy_legends.r00	42a28f1c
+sxs-fighting_fantasy_legends.r01	fa0c41d4
+sxs-fighting_fantasy_legends.r02	ed2547d1
+sxs-fighting_fantasy_legends.r03	ea370bc3
+sxs-fighting_fantasy_legends.r04	b75b32b4
+sxs-fighting_fantasy_legends.r05	972707be
+sxs-fighting_fantasy_legends.r06	f0c79383
+sxs-fighting_fantasy_legends.r07	3d357f49
+sxs-fighting_fantasy_legends.r08	9f5cf9b6
+sxs-fighting_fantasy_legends.r09	1781cfe5
+sxs-fighting_fantasy_legends.rar	91ec441d
+sxs-fighting_fantasy_legends.sfv	fd7e6a7e

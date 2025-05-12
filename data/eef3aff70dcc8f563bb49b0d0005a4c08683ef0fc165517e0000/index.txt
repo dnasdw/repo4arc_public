@@ -1,0 +1,3 @@
+v-portia_dlc.nfo	-	8632	1	0	0	0
+v-portia_dlc.rar	-	1737	1	8632	0	1
+v-portia_dlc.sfv	-	27	1	10369	0	2

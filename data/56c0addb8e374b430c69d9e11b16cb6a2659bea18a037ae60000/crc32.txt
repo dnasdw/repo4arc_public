@@ -1,0 +1,12 @@
+lfc-kile.nfo	17d1c7ca
+lfc-kile.r00	df343110
+lfc-kile.r01	83a02c65
+lfc-kile.r02	a5160882
+lfc-kile.r03	738dad9d
+lfc-kile.r04	1772b697
+lfc-kile.r05	0e9590e2
+lfc-kile.r06	3c23c5a9
+lfc-kile.r07	2b8d0e21
+lfc-kile.r08	60818d5c
+lfc-kile.rar	19ec6491
+lfc-kile.sfv	e59a1b88

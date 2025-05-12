@@ -1,0 +1,4 @@
+sxs-chameneon.nfo	-	5354	1	0	0	0
+sxs-chameneon.r00	-	35183243	1	5354	0	1
+sxs-chameneon.rar	-	50000000	1	35188597	0	35
+sxs-chameneon.sfv	-	56	1	85188597	0	83

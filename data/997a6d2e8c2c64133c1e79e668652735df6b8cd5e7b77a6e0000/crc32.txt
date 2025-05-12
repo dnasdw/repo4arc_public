@@ -1,0 +1,6 @@
+sxs-classic_games_collection_vol2.nfo	e13a2cae
+sxs-classic_games_collection_vol2.r00	a158b316
+sxs-classic_games_collection_vol2.r01	a9691b0d
+sxs-classic_games_collection_vol2.r02	ec14e446
+sxs-classic_games_collection_vol2.rar	f7a55c39
+sxs-classic_games_collection_vol2.sfv	2a7381d0

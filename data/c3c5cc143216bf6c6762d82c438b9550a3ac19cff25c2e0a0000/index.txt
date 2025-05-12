@@ -1,0 +1,5 @@
+bbb-n-ah42a.nfo	-	5517	1	0	0	0
+bbb-n-ah42a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ah42a.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ah42a.part3.rar	-	148358785	1	500005517	0	479
+bbb-n-ah42a.sfv	-	96	1	110610049	1	106

@@ -1,0 +1,5 @@
+sxs-nes_v786432.nfo	4eb89691
+sxs-nes_v786432.r00	019f5dc1
+sxs-nes_v786432.r01	449fa9fa
+sxs-nes_v786432.rar	3f82dbc6
+sxs-nes_v786432.sfv	b827f41f

@@ -1,0 +1,13 @@
+lfc-glassmasquerade.nfo	-	4073	1	0	0	0
+lfc-glassmasquerade.r00	-	50000000	1	4073	0	1
+lfc-glassmasquerade.r01	-	50000000	1	50004073	0	49
+lfc-glassmasquerade.r02	-	50000000	1	100004073	0	97
+lfc-glassmasquerade.r03	-	50000000	1	150004073	0	145
+lfc-glassmasquerade.r04	-	50000000	1	200004073	0	193
+lfc-glassmasquerade.r05	-	50000000	1	250004073	0	241
+lfc-glassmasquerade.r06	-	50000000	1	300004073	0	289
+lfc-glassmasquerade.r07	-	50000000	1	350004073	0	337
+lfc-glassmasquerade.r08	-	50000000	1	400004073	0	385
+lfc-glassmasquerade.r09	-	22069923	1	450004073	0	433
+lfc-glassmasquerade.rar	-	50000000	1	472073996	0	455
+lfc-glassmasquerade.sfv	-	374	1	522073996	0	503

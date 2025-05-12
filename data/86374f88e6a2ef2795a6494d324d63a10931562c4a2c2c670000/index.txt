@@ -1,0 +1,4 @@
+sxs-arkanoid_eternal_battle_v196608.nfo	-	7382	1	0	0	0
+sxs-arkanoid_eternal_battle_v196608.r00	-	57188790	1	7382	0	1
+sxs-arkanoid_eternal_battle_v196608.rar	-	100000000	1	57196172	0	56
+sxs-arkanoid_eternal_battle_v196608.sfv	-	100	1	157196172	0	152

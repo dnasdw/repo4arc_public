@@ -1,0 +1,3 @@
+sxs-wild_seas.nfo	-	4964	1	0	0	0
+sxs-wild_seas.rar	-	58353696	1	4964	0	1
+sxs-wild_seas.sfv	-	28	1	58358660	0	57

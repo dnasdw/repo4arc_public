@@ -1,0 +1,3 @@
+sxs-country_tales_v65536.nfo	-	6134	1	0	0	0
+sxs-country_tales_v65536.rar	-	31691306	1	6134	0	1
+sxs-country_tales_v65536.sfv	-	39	1	31697440	0	32

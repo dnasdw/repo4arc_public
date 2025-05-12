@@ -1,0 +1,15 @@
+sxs-skytime.nfo	4c9052cdc5f504ffb868fb962fd569ef
+sxs-skytime.r00	d7107745e99fae96796c9d986025850a
+sxs-skytime.r01	8fe61bf39e5a0b42bbdbf2421aface4d
+sxs-skytime.r02	e34259b7471c969db5b97816c4b56f2a
+sxs-skytime.r03	cf7f61c62e281094f03891afcf24bb33
+sxs-skytime.r04	a83f78954a9d6dd37295947aa884a8a7
+sxs-skytime.r05	2555effe9bad31646599ec36456aa515
+sxs-skytime.r06	323bac429e3d9d68ca39166845a60a29
+sxs-skytime.r07	33bc11cf5c75d03971c8265470b967cf
+sxs-skytime.r08	76b0f255bb5e0f140526fe170676ee0a
+sxs-skytime.r09	08cfdea85e65cd05c4d14f913ca0d43a
+sxs-skytime.r10	0abeb60531ce69b33028af459ffde56e
+sxs-skytime.r11	03a2008df94766a37978ba3e73dc5c56
+sxs-skytime.rar	3170c0c65e2689d9284fd7846af9f083
+sxs-skytime.sfv	7b73689428dafb694d7b6cbbe948b565

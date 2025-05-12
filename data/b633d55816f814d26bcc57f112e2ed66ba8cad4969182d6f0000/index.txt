@@ -1,0 +1,5 @@
+v-pokemon_legends_arceus_v262144.nfo	-	7484	1	0	0	0
+v-pokemon_legends_arceus_v262144.r00	-	50000000	1	7484	0	1
+v-pokemon_legends_arceus_v262144.r01	-	43738832	1	50007484	0	49
+v-pokemon_legends_arceus_v262144.rar	-	50000000	1	93746316	0	91
+v-pokemon_legends_arceus_v262144.sfv	-	141	1	143746316	0	139

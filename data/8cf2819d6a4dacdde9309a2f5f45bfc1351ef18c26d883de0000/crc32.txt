@@ -1,0 +1,11 @@
+sxs-arcade_spirits_v65536.nfo	5a7636e5
+sxs-arcade_spirits_v65536.r00	0cd1a213
+sxs-arcade_spirits_v65536.r01	01a10631
+sxs-arcade_spirits_v65536.r02	08d67757
+sxs-arcade_spirits_v65536.r03	eabb5dd6
+sxs-arcade_spirits_v65536.r04	b3046366
+sxs-arcade_spirits_v65536.r05	73a6fb20
+sxs-arcade_spirits_v65536.r06	bab54266
+sxs-arcade_spirits_v65536.r07	72e44235
+sxs-arcade_spirits_v65536.rar	9828179a
+sxs-arcade_spirits_v65536.sfv	691ac2af

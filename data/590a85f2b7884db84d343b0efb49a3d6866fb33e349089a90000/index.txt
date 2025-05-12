@@ -1,0 +1,3 @@
+lfc-aait.nfo	-	5756	1	0	0	0
+lfc-aait.rar	-	48134039	1	5756	0	1
+lfc-aait.sfv	-	23	1	48139795	0	47

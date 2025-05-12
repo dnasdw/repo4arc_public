@@ -1,0 +1,9 @@
+lfc-a4tca_v65536.nfo	581aa781
+lfc-a4tca_v65536.r00	5c33064e
+lfc-a4tca_v65536.r01	dd5e7163
+lfc-a4tca_v65536.r02	6114ea97
+lfc-a4tca_v65536.r03	41ddbccf
+lfc-a4tca_v65536.r04	faa681e5
+lfc-a4tca_v65536.r05	518a6c0a
+lfc-a4tca_v65536.rar	3037046e
+lfc-a4tca_v65536.sfv	255165e2

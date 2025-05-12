@@ -1,0 +1,3 @@
+sxs-overrogue_dlc.nfo	5f5a0ba60d3785905fe481422be4f24b
+sxs-overrogue_dlc.rar	e299257f1afebdcb235ffd9b1e542091
+sxs-overrogue_dlc.sfv	3ffa4adcb396363c33c3ccd46943bfaf

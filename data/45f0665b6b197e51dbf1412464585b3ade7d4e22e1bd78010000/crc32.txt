@@ -1,0 +1,8 @@
+sxs-eastward_v589824.nfo	2ab28333
+sxs-eastward_v589824.r00	2076f10f
+sxs-eastward_v589824.r01	29fe6352
+sxs-eastward_v589824.r02	99d6f885
+sxs-eastward_v589824.r03	fca868be
+sxs-eastward_v589824.r04	5ce5e5d5
+sxs-eastward_v589824.rar	3f6b62cd
+sxs-eastward_v589824.sfv	920911e0

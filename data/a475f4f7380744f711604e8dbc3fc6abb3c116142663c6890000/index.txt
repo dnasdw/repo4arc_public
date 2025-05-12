@@ -1,0 +1,7 @@
+nrz-dkctf.nfo	-	207	1	0	0	0
+nrz-dkctf.sfv	-	661	1	207	0	1
+nrz-dkctf.update.1.0.2.r00	-	5000000	1	868	0	2
+nrz-dkctf.update.1.0.2.r01	-	5000000	1	5000868	0	7
+nrz-dkctf.update.1.0.2.r02	-	5000000	1	10000868	0	12
+nrz-dkctf.update.1.0.2.r03	-	1238562	1	15000868	0	17
+nrz-dkctf.update.1.0.2.rar	-	5000000	1	16239430	0	19

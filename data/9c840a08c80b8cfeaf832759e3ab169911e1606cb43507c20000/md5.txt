@@ -1,0 +1,8 @@
+sxs-worms_wmd_v196608.nfo	b694987a2e350a17761f1a5b6d3256d4
+sxs-worms_wmd_v196608.r00	030fd135c4add064aa34dd03d2ed0f34
+sxs-worms_wmd_v196608.r01	cbce07e702bee8e34c481ec7b54da45c
+sxs-worms_wmd_v196608.r02	473e58eb7e384d158b631ed28521c43a
+sxs-worms_wmd_v196608.r03	b3e84be1b024f627abf0ad31020d9fb1
+sxs-worms_wmd_v196608.r04	314b3b4cc0ef4eaa7a94d639266d0b31
+sxs-worms_wmd_v196608.rar	dd15cc11fb925867f8c9b2e39185a408
+sxs-worms_wmd_v196608.sfv	7a8c6da08343178abd31f2651774f750

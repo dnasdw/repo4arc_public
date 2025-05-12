@@ -1,0 +1,10 @@
+sxs-piggy_gambit.nfo	54dce058
+sxs-piggy_gambit.r00	4ddb720b
+sxs-piggy_gambit.r01	46b2749d
+sxs-piggy_gambit.r02	ef9aee2d
+sxs-piggy_gambit.r03	2b916286
+sxs-piggy_gambit.r04	28d00176
+sxs-piggy_gambit.r05	ba881727
+sxs-piggy_gambit.r06	ef86885d
+sxs-piggy_gambit.rar	3ee87015
+sxs-piggy_gambit.sfv	6c0a265b

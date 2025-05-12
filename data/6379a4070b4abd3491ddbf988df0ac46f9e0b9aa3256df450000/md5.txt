@@ -1,0 +1,9 @@
+sxs-taxi_chaos_v65536.nfo	0d7b97e798a190ccdfe7edbd87dfc3e4
+sxs-taxi_chaos_v65536.r00	623ab0e01fd6f3d0b8dfb1680a827393
+sxs-taxi_chaos_v65536.r01	999f0d6a6389f4c7ae7654e2848d34e6
+sxs-taxi_chaos_v65536.r02	49f4a9d755abee48c677aad07f13f017
+sxs-taxi_chaos_v65536.r03	20eee18161c7ca646c3d57b76180cf60
+sxs-taxi_chaos_v65536.r04	56d4dca0b17ee94ee4d5790c2a1e1a67
+sxs-taxi_chaos_v65536.r05	6b3b03459f145af0561937d5d2a1aea3
+sxs-taxi_chaos_v65536.rar	971f6db236245a04dd72b562015e91a3
+sxs-taxi_chaos_v65536.sfv	015ea97e7e174de735b4befe80e23b77

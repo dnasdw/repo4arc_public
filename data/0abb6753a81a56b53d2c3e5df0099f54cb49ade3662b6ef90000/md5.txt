@@ -1,0 +1,7 @@
+sxs-rtmr.nfo	1b5409e4825ae19b17386e713e8f553e
+sxs-rtmr.r00	068c196f30baa430b1615c8f29065111
+sxs-rtmr.r01	a8dcd17a5a5648b83cf41e739c80e446
+sxs-rtmr.r02	152d511c6514bff3ffbb43c49caff1da
+sxs-rtmr.r03	44b11d5b282be4df1a63bca607a0ce70
+sxs-rtmr.rar	bedbc3dde84e174bb5beb903b5183beb
+sxs-rtmr.sfv	60b34dcddf9ff80ea867428e83314650

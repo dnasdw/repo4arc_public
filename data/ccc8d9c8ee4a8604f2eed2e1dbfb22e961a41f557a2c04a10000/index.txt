@@ -1,0 +1,6 @@
+sxs-the_hundred_year_kingdom_v524288.nfo	-	5744	1	0	0	0
+sxs-the_hundred_year_kingdom_v524288.r00	-	100000000	1	5744	0	1
+sxs-the_hundred_year_kingdom_v524288.r01	-	100000000	1	100005744	0	97
+sxs-the_hundred_year_kingdom_v524288.r02	-	84554032	1	200005744	0	193
+sxs-the_hundred_year_kingdom_v524288.rar	-	100000000	1	284559776	0	274
+sxs-the_hundred_year_kingdom_v524288.sfv	-	204	1	384559776	0	370

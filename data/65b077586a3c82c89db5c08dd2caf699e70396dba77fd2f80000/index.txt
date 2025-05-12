@@ -1,0 +1,9 @@
+v-collection_of_mana.nfo	-	4342	1	0	0	0
+v-collection_of_mana.r00	-	50000000	1	4342	0	1
+v-collection_of_mana.r01	-	50000000	1	50004342	0	49
+v-collection_of_mana.r02	-	50000000	1	100004342	0	97
+v-collection_of_mana.r03	-	50000000	1	150004342	0	145
+v-collection_of_mana.r04	-	50000000	1	200004342	0	193
+v-collection_of_mana.r05	-	41257512	1	250004342	0	241
+v-collection_of_mana.rar	-	50000000	1	291261854	0	281
+v-collection_of_mana.sfv	-	245	1	341261854	0	329

@@ -1,0 +1,10 @@
+sxs-hardcore_maze_cube_v131072.nfo	c3ab2499
+sxs-hardcore_maze_cube_v131072.r00	c22a32ea
+sxs-hardcore_maze_cube_v131072.r01	91b6eae5
+sxs-hardcore_maze_cube_v131072.r02	57ea4371
+sxs-hardcore_maze_cube_v131072.r03	af040861
+sxs-hardcore_maze_cube_v131072.r04	19db1c49
+sxs-hardcore_maze_cube_v131072.r05	82e09cfb
+sxs-hardcore_maze_cube_v131072.r06	1252fb4e
+sxs-hardcore_maze_cube_v131072.rar	ffdcaabe
+sxs-hardcore_maze_cube_v131072.sfv	b12c920b

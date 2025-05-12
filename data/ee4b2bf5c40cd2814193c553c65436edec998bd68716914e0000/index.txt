@@ -1,0 +1,4 @@
+sxs-slipstream_v327680.nfo	-	4184	1	0	0	0
+sxs-slipstream_v327680.r00	-	36800140	1	4184	0	1
+sxs-slipstream_v327680.rar	-	50000000	1	36804324	0	37
+sxs-slipstream_v327680.sfv	-	74	1	86804324	0	85

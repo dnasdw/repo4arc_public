@@ -1,0 +1,17 @@
+v-herodes.nfo	98de8e96
+v-herodes.r00	7df9257d
+v-herodes.r01	f70963ce
+v-herodes.r02	cf697902
+v-herodes.r03	1a844676
+v-herodes.r04	783220f6
+v-herodes.r05	113e3529
+v-herodes.r06	429cd037
+v-herodes.r07	fd3b1662
+v-herodes.r08	7a585ac6
+v-herodes.r09	0f0602a3
+v-herodes.r10	819a9bae
+v-herodes.r11	59c1385d
+v-herodes.r12	ae79cca3
+v-herodes.r13	bb9c5d9f
+v-herodes.rar	844a8cce
+v-herodes.sfv	0cf99115

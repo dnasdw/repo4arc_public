@@ -1,0 +1,5 @@
+v-trombone_champ_v655360.nfo	-	4732	1	0	0	0
+v-trombone_champ_v655360.r00	-	100000000	1	4732	0	1
+v-trombone_champ_v655360.r01	-	80610062	1	100004732	0	97
+v-trombone_champ_v655360.rar	-	100000000	1	180614794	0	174
+v-trombone_champ_v655360.sfv	-	117	1	280614794	0	270

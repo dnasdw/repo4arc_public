@@ -1,0 +1,12 @@
+v-fhook.nfo	3f429e72
+v-fhook.r00	87a4cc0f
+v-fhook.r01	8944a0e5
+v-fhook.r02	8f0843f9
+v-fhook.r03	09e55855
+v-fhook.r04	74bee541
+v-fhook.r05	6b45036e
+v-fhook.r06	7fc154c4
+v-fhook.r07	14ccc292
+v-fhook.r08	71c3a2d5
+v-fhook.rar	ab9a510e
+v-fhook.sfv	122d95ce

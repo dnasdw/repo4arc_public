@@ -1,0 +1,10 @@
+sxs-croixleur_sigma_v393216.nfo	77a7cf90
+sxs-croixleur_sigma_v393216.r00	c253c673
+sxs-croixleur_sigma_v393216.r01	dda46418
+sxs-croixleur_sigma_v393216.r02	939367b2
+sxs-croixleur_sigma_v393216.r03	c86bb6e1
+sxs-croixleur_sigma_v393216.r04	f3e62ff1
+sxs-croixleur_sigma_v393216.r05	e19c12bb
+sxs-croixleur_sigma_v393216.r06	c4bef205
+sxs-croixleur_sigma_v393216.rar	f2004f46
+sxs-croixleur_sigma_v393216.sfv	323fb217

@@ -1,0 +1,4 @@
+v-xenon_valkyrie_plus.nfo	539766b4
+v-xenon_valkyrie_plus.r00	eaf92ed4
+v-xenon_valkyrie_plus.rar	0587ad32
+v-xenon_valkyrie_plus.sfv	34aef798

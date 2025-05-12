@@ -1,0 +1,4 @@
+lfc-grab_v65536.nfo	2285d94a
+lfc-grab_v65536.r00	087b0378
+lfc-grab_v65536.rar	daa142e4
+lfc-grab_v65536.sfv	21b0b00e

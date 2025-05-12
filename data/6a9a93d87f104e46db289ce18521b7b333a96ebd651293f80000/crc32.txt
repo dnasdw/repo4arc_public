@@ -1,0 +1,13 @@
+sxs-azure_striker_gunvolt_3_v327680.nfo	75efd7d8
+sxs-azure_striker_gunvolt_3_v327680.r00	2a5e9ebc
+sxs-azure_striker_gunvolt_3_v327680.r01	bafd3f74
+sxs-azure_striker_gunvolt_3_v327680.r02	266fe1e8
+sxs-azure_striker_gunvolt_3_v327680.r03	769339f6
+sxs-azure_striker_gunvolt_3_v327680.r04	d56feeca
+sxs-azure_striker_gunvolt_3_v327680.r05	9734ebb4
+sxs-azure_striker_gunvolt_3_v327680.r06	8bbafd44
+sxs-azure_striker_gunvolt_3_v327680.r07	44b72a27
+sxs-azure_striker_gunvolt_3_v327680.r08	8e130fe5
+sxs-azure_striker_gunvolt_3_v327680.r09	30079e61
+sxs-azure_striker_gunvolt_3_v327680.rar	7b39f107
+sxs-azure_striker_gunvolt_3_v327680.sfv	73bf82d9

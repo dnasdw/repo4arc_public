@@ -1,0 +1,7 @@
+v-touryst.nfo	31feeee8cab2ce1eb3093a05fad49209
+v-touryst.r00	a77ad3b0ecd7a52c4a19116dc104fc20
+v-touryst.r01	7fc5430a5867030264fd647161977b4e
+v-touryst.r02	3b96150a6d5b48ce46f3d42953697d7f
+v-touryst.r03	184d01c6cdd4a0c562900b855f9d941f
+v-touryst.rar	f997f904cf9aed598ea8365e163e342f
+v-touryst.sfv	2ec72c2a70db73b358769a72252048dc

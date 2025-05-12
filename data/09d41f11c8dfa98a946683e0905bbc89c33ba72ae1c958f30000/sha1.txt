@@ -1,0 +1,3 @@
+sxs-steamworld_dig_v65536.nfo	542719c215bfe7236ac517304028a7fc54bfdb85
+sxs-steamworld_dig_v65536.rar	ff66694d343c6e4a80a24a5edf92063b03babbe5
+sxs-steamworld_dig_v65536.sfv	7b62ca76b3d6a4289dba9699426863a6db7fc78e

@@ -1,0 +1,4 @@
+lfc-boar.nfo	0484a5c990b6daaf82d01fc012af652460631c4d
+lfc-boar.r00	e52f552dcfdae9ff74431fa0945afd7ea102659f
+lfc-boar.rar	305d54c9ed7899c449cb13fb179407828932c0ba
+lfc-boar.sfv	6876842789ebba89a46a1fe2f15eb7b6a81cffbb

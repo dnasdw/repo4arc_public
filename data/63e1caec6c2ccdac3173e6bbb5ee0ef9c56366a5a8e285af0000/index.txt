@@ -1,0 +1,3 @@
+sxs-snowrunner_crocodile_pack_dlc.nfo	-	6602	1	0	0	0
+sxs-snowrunner_crocodile_pack_dlc.rar	-	104154	1	6602	0	1
+sxs-snowrunner_crocodile_pack_dlc.sfv	-	48	1	110756	0	2

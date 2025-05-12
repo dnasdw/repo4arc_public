@@ -1,0 +1,8 @@
+sxs-zomborg.nfo	96ca1dca
+sxs-zomborg.r00	dc7a7e6b
+sxs-zomborg.r01	ec8c92ec
+sxs-zomborg.r02	a245ae67
+sxs-zomborg.r03	e1f08c57
+sxs-zomborg.r04	3031204e
+sxs-zomborg.rar	4c8c7fd2
+sxs-zomborg.sfv	2273ea5f

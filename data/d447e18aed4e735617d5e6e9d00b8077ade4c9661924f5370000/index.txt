@@ -1,0 +1,3 @@
+bbb-n-abeta.nfo	-	5517	1	0	0	0
+bbb-n-abeta.rar	-	179194706	1	5517	0	1
+bbb-n-abeta.sfv	-	26	1	179200223	0	172

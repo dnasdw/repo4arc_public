@@ -1,0 +1,13 @@
+sxs-touhou_kobuto_v_burst_battle_v262144.nfo	fcb743d5
+sxs-touhou_kobuto_v_burst_battle_v262144.r00	357c9313
+sxs-touhou_kobuto_v_burst_battle_v262144.r01	a98f57c6
+sxs-touhou_kobuto_v_burst_battle_v262144.r02	ebbf462a
+sxs-touhou_kobuto_v_burst_battle_v262144.r03	cac389d5
+sxs-touhou_kobuto_v_burst_battle_v262144.r04	a542e74b
+sxs-touhou_kobuto_v_burst_battle_v262144.r05	d09d5b3d
+sxs-touhou_kobuto_v_burst_battle_v262144.r06	b2ce417a
+sxs-touhou_kobuto_v_burst_battle_v262144.r07	7db9385c
+sxs-touhou_kobuto_v_burst_battle_v262144.r08	7cd32b8d
+sxs-touhou_kobuto_v_burst_battle_v262144.r09	b1337d32
+sxs-touhou_kobuto_v_burst_battle_v262144.rar	c5229e00
+sxs-touhou_kobuto_v_burst_battle_v262144.sfv	356b8de3

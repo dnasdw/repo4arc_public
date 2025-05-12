@@ -1,0 +1,4 @@
+v-pianista_v65536.nfo	4ba5768c4d0c9c094feac008d6622d85893c10a3
+v-pianista_v65536.r00	29b05e884af09dc001d742e950b1b6ccc2a54d76
+v-pianista_v65536.rar	3e79edceb5c13d23a2c9a449983ebdfd1f2435a3
+v-pianista_v65536.sfv	84bb3ea61e68ef9f6a0d0c4ac9f94e9518a883be

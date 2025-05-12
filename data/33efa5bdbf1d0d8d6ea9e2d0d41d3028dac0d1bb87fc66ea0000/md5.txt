@@ -1,0 +1,7 @@
+sxs-gunbrella_v262144.nfo	7659f81c8cf8743f810bdccfc5220172
+sxs-gunbrella_v262144.r00	6f4f5b59116c199378ef5ed4cfa7990f
+sxs-gunbrella_v262144.r01	c8bd85e76a5ccd7ed22bf00829ba6f98
+sxs-gunbrella_v262144.r02	3089c5e7e6d4d193a66432a98a553492
+sxs-gunbrella_v262144.r03	cf8d94a1305e4a0eca20504b86029fe6
+sxs-gunbrella_v262144.rar	7d8e63e561cef949f5016ceaf6dede95
+sxs-gunbrella_v262144.sfv	231eadff86af7fd81b0d613c7a24d973

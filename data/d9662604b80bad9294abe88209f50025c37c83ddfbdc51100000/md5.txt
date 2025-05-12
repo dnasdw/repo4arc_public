@@ -1,0 +1,5 @@
+lfc-grab.nfo	0b5efe53b14fb346b8dc1b64517c69bf
+lfc-grab.r00	b8140e5a442fd5e5fa3e5f2b0d1a9b0e
+lfc-grab.r01	890eac7e96a727de723208e7c627c011
+lfc-grab.rar	3a289586fc31a512719ffdfc0d77b4fe
+lfc-grab.sfv	f4a17ced279495616cc689b542262b06

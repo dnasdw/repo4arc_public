@@ -1,0 +1,5 @@
+lfc-alst.nfo	e3325b45a6ed788a07ecc65c80a5b673324b318e
+lfc-alst.r00	a71053fb2e1f1d7a8a63565e622c39c334f7bc9c
+lfc-alst.r01	f5443dbfdca7d460412e7335bef23d0e6e78d9ec
+lfc-alst.rar	55e03fdba36e5a4a941afe004f981af3b55da92b
+lfc-alst.sfv	46c159af9936eef0725416039507527c5ecddb9e

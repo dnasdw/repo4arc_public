@@ -1,0 +1,14 @@
+sxs-pocket_card_jockey_ride_on.nfo	-	4808	1	0	0	0
+sxs-pocket_card_jockey_ride_on.r00	-	100000000	1	4808	0	1
+sxs-pocket_card_jockey_ride_on.r01	-	100000000	1	100004808	0	97
+sxs-pocket_card_jockey_ride_on.r02	-	100000000	1	200004808	0	193
+sxs-pocket_card_jockey_ride_on.r03	-	100000000	1	300004808	0	289
+sxs-pocket_card_jockey_ride_on.r04	-	100000000	1	400004808	0	385
+sxs-pocket_card_jockey_ride_on.r05	-	100000000	1	500004808	0	481
+sxs-pocket_card_jockey_ride_on.r06	-	100000000	1	62251264	1	60
+sxs-pocket_card_jockey_ride_on.r07	-	100000000	1	162251264	1	156
+sxs-pocket_card_jockey_ride_on.r08	-	100000000	1	262251264	1	252
+sxs-pocket_card_jockey_ride_on.r09	-	100000000	1	362251264	1	348
+sxs-pocket_card_jockey_ride_on.r10	-	19926991	1	462251264	1	444
+sxs-pocket_card_jockey_ride_on.rar	-	100000000	1	482178255	1	464
+sxs-pocket_card_jockey_ride_on.sfv	-	540	1	44425472	2	43

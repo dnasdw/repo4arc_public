@@ -1,0 +1,15 @@
+sxs-musou_orochi3_v720896.nfo	718bafb7
+sxs-musou_orochi3_v720896.r00	cf4695a5
+sxs-musou_orochi3_v720896.r01	6d4d2b64
+sxs-musou_orochi3_v720896.r02	6945fab2
+sxs-musou_orochi3_v720896.r03	caf886ed
+sxs-musou_orochi3_v720896.r04	9f425af3
+sxs-musou_orochi3_v720896.r05	5aaac796
+sxs-musou_orochi3_v720896.r06	dcd3f583
+sxs-musou_orochi3_v720896.r07	229e3c7f
+sxs-musou_orochi3_v720896.r08	477f8217
+sxs-musou_orochi3_v720896.r09	36b2abd8
+sxs-musou_orochi3_v720896.r10	97fdf27c
+sxs-musou_orochi3_v720896.r11	0a23b1e8
+sxs-musou_orochi3_v720896.rar	ae50022a
+sxs-musou_orochi3_v720896.sfv	d18c53d0

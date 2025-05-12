@@ -1,0 +1,16 @@
+sxs-road_96_v131072.nfo	501a3fbd
+sxs-road_96_v131072.r00	da78e2f5
+sxs-road_96_v131072.r01	97d60f75
+sxs-road_96_v131072.r02	58644862
+sxs-road_96_v131072.r03	7a6d5305
+sxs-road_96_v131072.r04	06fb297d
+sxs-road_96_v131072.r05	32b48554
+sxs-road_96_v131072.r06	99ac57ab
+sxs-road_96_v131072.r07	ff5be1d9
+sxs-road_96_v131072.r08	8a3054b2
+sxs-road_96_v131072.r09	74084f6a
+sxs-road_96_v131072.r10	4742bab1
+sxs-road_96_v131072.r11	aa4aef30
+sxs-road_96_v131072.r12	c4144902
+sxs-road_96_v131072.rar	13c76134
+sxs-road_96_v131072.sfv	024b4a60

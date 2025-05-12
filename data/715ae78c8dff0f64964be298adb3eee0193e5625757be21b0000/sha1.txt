@@ -1,0 +1,3 @@
+v-doom_1993_revolution_dlc.nfo	5b19bfce62fd1a3104df1a7df835873418206c1b
+v-doom_1993_revolution_dlc.rar	ed57be933b03139df208ec225d5be056e43d4cad
+v-doom_1993_revolution_dlc.sfv	227856ad70e755002667acca96aa686af7376581

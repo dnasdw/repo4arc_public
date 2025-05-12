@@ -1,0 +1,7 @@
+sxs-pocket_pool.nfo	b03e43d9
+sxs-pocket_pool.r00	b751f16f
+sxs-pocket_pool.r01	ade8b94e
+sxs-pocket_pool.r02	bc278e03
+sxs-pocket_pool.r03	7cb67595
+sxs-pocket_pool.rar	b0d9f048
+sxs-pocket_pool.sfv	c2d056ae

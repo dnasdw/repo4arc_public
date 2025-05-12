@@ -1,0 +1,4 @@
+v-digimonscs_v196608.nfo	-	5590	1	0	0	0
+v-digimonscs_v196608.r00	-	38524117	1	5590	0	1
+v-digimonscs_v196608.rar	-	50000000	1	38529707	0	38
+v-digimonscs_v196608.sfv	-	70	1	88529707	0	86

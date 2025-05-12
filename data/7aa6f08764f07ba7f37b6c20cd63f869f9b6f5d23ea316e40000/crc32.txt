@@ -1,0 +1,9 @@
+sxs-drawful_2_v131072.nfo	c7d50c6a
+sxs-drawful_2_v131072.r00	ae882cdc
+sxs-drawful_2_v131072.r01	d2f52586
+sxs-drawful_2_v131072.r02	7b747cd5
+sxs-drawful_2_v131072.r03	38e9170d
+sxs-drawful_2_v131072.r04	8ff991c6
+sxs-drawful_2_v131072.r05	987674b8
+sxs-drawful_2_v131072.rar	3c4d2ad5
+sxs-drawful_2_v131072.sfv	edadf9eb

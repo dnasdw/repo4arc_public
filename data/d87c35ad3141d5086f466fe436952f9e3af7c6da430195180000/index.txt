@@ -1,0 +1,4 @@
+sxs-cattails.nfo	-	5979	1	0	0	0
+sxs-cattails.r00	-	40889429	1	5979	0	1
+sxs-cattails.rar	-	50000000	1	40895408	0	40
+sxs-cattails.sfv	-	54	1	90895408	0	88

@@ -1,0 +1,9 @@
+v-arcade_game_zone.nfo	cfb7208a27453d33850cf02e1dd2bb42
+v-arcade_game_zone.r00	981f6e844a7dd2953a06daa9bfaa2abe
+v-arcade_game_zone.r01	04062be044053aeb0adf7600008bf032
+v-arcade_game_zone.r02	f808a307e53cb7ea07ab73bfc99da12b
+v-arcade_game_zone.r03	d4af99f753a6d8acdf1df2e963602584
+v-arcade_game_zone.r04	0a7335a2507af34083183014a49c2b39
+v-arcade_game_zone.r05	a8357c56c5d3dfeb99fa194f3076f8f5
+v-arcade_game_zone.rar	1bbb44fd00ba99e7bf3d2c6e4c4eaca6
+v-arcade_game_zone.sfv	2a46b09267b45ccbd3869058626adf59

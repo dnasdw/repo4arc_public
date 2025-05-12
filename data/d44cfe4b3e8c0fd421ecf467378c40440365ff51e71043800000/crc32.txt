@@ -1,0 +1,10 @@
+sxs-reventure_v131072.nfo	8cf6a276
+sxs-reventure_v131072.r00	45c47fed
+sxs-reventure_v131072.r01	560f180f
+sxs-reventure_v131072.r02	a407119d
+sxs-reventure_v131072.r03	0ebf0c9f
+sxs-reventure_v131072.r04	5cd58ff8
+sxs-reventure_v131072.r05	cc5ada01
+sxs-reventure_v131072.r06	e27ba472
+sxs-reventure_v131072.rar	de8b3b8d
+sxs-reventure_v131072.sfv	46f53129

@@ -1,0 +1,8 @@
+sxs-smoots_golf_v131072.nfo	c450f994fe615ab3a28ff2ab82ed0348
+sxs-smoots_golf_v131072.r00	9b4afc042665173134227fe01fc4688e
+sxs-smoots_golf_v131072.r01	69ef44def65dd60af6a4e5a312ab6a69
+sxs-smoots_golf_v131072.r02	cb51b0f9763e9b27331b4ca863d43ab3
+sxs-smoots_golf_v131072.r03	4f5f7e7fb6d72b3b0fb1f20bfb7ac29b
+sxs-smoots_golf_v131072.r04	bb1764f96dee220dbdca6d06c2b858c0
+sxs-smoots_golf_v131072.rar	0ccf093fe753f14a2861186070575277
+sxs-smoots_golf_v131072.sfv	8a490d57e559a159789b5352a8e3e575

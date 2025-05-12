@@ -1,0 +1,7 @@
+lfc-blazingbeaksupd.nfo	-	4604	1	0	0	0
+lfc-blazingbeaksupd.r00	-	50000000	1	4604	0	1
+lfc-blazingbeaksupd.r01	-	50000000	1	50004604	0	49
+lfc-blazingbeaksupd.r02	-	50000000	1	100004604	0	97
+lfc-blazingbeaksupd.r03	-	29577077	1	150004604	0	145
+lfc-blazingbeaksupd.rar	-	50000000	1	179581681	0	174
+lfc-blazingbeaksupd.sfv	-	170	1	229581681	0	222

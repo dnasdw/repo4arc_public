@@ -1,0 +1,3 @@
+sxs-diy_fashion_star_dlc.nfo	-	4652	1	0	0	0
+sxs-diy_fashion_star_dlc.rar	-	311977	1	4652	0	1
+sxs-diy_fashion_star_dlc.sfv	-	39	1	316629	0	2

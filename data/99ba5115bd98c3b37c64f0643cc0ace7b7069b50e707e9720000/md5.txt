@@ -1,0 +1,6 @@
+sxs-warborn_v589824.nfo	7452e38eecb36692c6e9a14bd4a4be0f
+sxs-warborn_v589824.r00	fedc27035f636838d206c69f2004f0e1
+sxs-warborn_v589824.r01	b6662aa56ae2a0df6caad24e7817a94d
+sxs-warborn_v589824.r02	7a9442af91e836a8027395ccaae2d828
+sxs-warborn_v589824.rar	a966c0289dbc9c38f3df55296cb0bf0f
+sxs-warborn_v589824.sfv	ab6d0061d9ed6bf67218858a028a9fda

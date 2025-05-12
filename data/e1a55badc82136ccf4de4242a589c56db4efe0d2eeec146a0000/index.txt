@@ -1,0 +1,5 @@
+jrp-nicole.nfo	-	6094	1	0	0	0
+jrp-nicole.r00	-	50000000	1	6094	0	1
+jrp-nicole.r01	-	35466278	1	50006094	0	49
+jrp-nicole.rar	-	50000000	1	85472372	0	83
+jrp-nicole.sfv	-	75	1	135472372	0	131

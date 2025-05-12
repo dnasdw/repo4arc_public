@@ -1,0 +1,14 @@
+v-pianista.nfo	2ee1d139
+v-pianista.r00	29183688
+v-pianista.r01	daca3ee3
+v-pianista.r02	d38e7668
+v-pianista.r03	502df3b1
+v-pianista.r04	6cf6e583
+v-pianista.r05	ec0b63cc
+v-pianista.r06	4f6a4d54
+v-pianista.r07	260ff4c3
+v-pianista.r08	d901c2f7
+v-pianista.r09	794ede3d
+v-pianista.r10	d84871c2
+v-pianista.rar	40332afd
+v-pianista.sfv	41fd0719

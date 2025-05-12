@@ -1,0 +1,3 @@
+v-pikmin_1_v65536.nfo	99b24319
+v-pikmin_1_v65536.rar	062944e2
+v-pikmin_1_v65536.sfv	71cf5943

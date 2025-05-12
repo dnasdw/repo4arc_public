@@ -1,0 +1,4 @@
+bbb-n-an34a.nfo	-	5517	1	0	0	0
+bbb-n-an34a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-an34a.part2.rar	-	75704778	1	250005517	0	240
+bbb-n-an34a.sfv	-	64	1	325710295	0	313

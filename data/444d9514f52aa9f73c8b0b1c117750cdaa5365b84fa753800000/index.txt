@@ -1,0 +1,11 @@
+sxs-bunker_21_extended_edition.nfo	-	5666	1	0	0	0
+sxs-bunker_21_extended_edition.r00	-	100000000	1	5666	0	1
+sxs-bunker_21_extended_edition.r01	-	100000000	1	100005666	0	97
+sxs-bunker_21_extended_edition.r02	-	100000000	1	200005666	0	193
+sxs-bunker_21_extended_edition.r03	-	100000000	1	300005666	0	289
+sxs-bunker_21_extended_edition.r04	-	100000000	1	400005666	0	385
+sxs-bunker_21_extended_edition.r05	-	100000000	1	500005666	0	481
+sxs-bunker_21_extended_edition.r06	-	100000000	1	62251264	1	60
+sxs-bunker_21_extended_edition.r07	-	19138650	1	162251264	1	156
+sxs-bunker_21_extended_edition.rar	-	100000000	1	181389914	1	175
+sxs-bunker_21_extended_edition.sfv	-	405	1	281389914	1	271

@@ -1,0 +1,5 @@
+sxs-nes_v1703936.nfo	581b976c
+sxs-nes_v1703936.r00	2e8fa61b
+sxs-nes_v1703936.r01	bf90fa03
+sxs-nes_v1703936.rar	655d3246
+sxs-nes_v1703936.sfv	a459fd5e

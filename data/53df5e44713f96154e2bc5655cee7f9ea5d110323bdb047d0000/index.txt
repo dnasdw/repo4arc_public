@@ -1,0 +1,10 @@
+v-blossom_tales_ii_the_minotaur_prince_v196608.nfo	-	5590	1	0	0	0
+v-blossom_tales_ii_the_minotaur_prince_v196608.r00	-	50000000	1	5590	0	1
+v-blossom_tales_ii_the_minotaur_prince_v196608.r01	-	50000000	1	50005590	0	49
+v-blossom_tales_ii_the_minotaur_prince_v196608.r02	-	50000000	1	100005590	0	97
+v-blossom_tales_ii_the_minotaur_prince_v196608.r03	-	50000000	1	150005590	0	145
+v-blossom_tales_ii_the_minotaur_prince_v196608.r04	-	50000000	1	200005590	0	193
+v-blossom_tales_ii_the_minotaur_prince_v196608.r05	-	50000000	1	250005590	0	241
+v-blossom_tales_ii_the_minotaur_prince_v196608.r06	-	17642713	1	300005590	0	289
+v-blossom_tales_ii_the_minotaur_prince_v196608.rar	-	50000000	1	317648303	0	306
+v-blossom_tales_ii_the_minotaur_prince_v196608.sfv	-	488	1	367648303	0	354

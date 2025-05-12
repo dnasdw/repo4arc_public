@@ -1,0 +1,7 @@
+delight.nfo	-	8891	1	0	0	0
+dl-liegedragon.r00	-	50000000	1	8891	0	1
+dl-liegedragon.r01	-	50000000	1	50008891	0	49
+dl-liegedragon.r02	-	50000000	1	100008891	0	97
+dl-liegedragon.r03	-	31249105	1	150008891	0	145
+dl-liegedragon.rar	-	50000000	1	181257996	0	175
+dl-liegedragon.sfv	-	145	1	231257996	0	223

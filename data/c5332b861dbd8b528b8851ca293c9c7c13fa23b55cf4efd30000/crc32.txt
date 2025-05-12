@@ -1,0 +1,6 @@
+sxs-zombie_rollerz_pinball_heroes_v65536.nfo	adcf6f45
+sxs-zombie_rollerz_pinball_heroes_v65536.r00	dfbf5254
+sxs-zombie_rollerz_pinball_heroes_v65536.r01	3e88392c
+sxs-zombie_rollerz_pinball_heroes_v65536.r02	ddc2b8c2
+sxs-zombie_rollerz_pinball_heroes_v65536.rar	0ed2606e
+sxs-zombie_rollerz_pinball_heroes_v65536.sfv	c1d151e7

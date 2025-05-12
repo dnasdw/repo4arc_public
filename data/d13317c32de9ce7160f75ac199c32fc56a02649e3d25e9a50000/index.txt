@@ -1,0 +1,7 @@
+sxs-arcade_space_shooter_2_in_1.nfo	-	5432	1	0	0	0
+sxs-arcade_space_shooter_2_in_1.r00	-	50000000	1	5432	0	1
+sxs-arcade_space_shooter_2_in_1.r01	-	50000000	1	50005432	0	49
+sxs-arcade_space_shooter_2_in_1.r02	-	50000000	1	100005432	0	97
+sxs-arcade_space_shooter_2_in_1.r03	-	4731940	1	150005432	0	145
+sxs-arcade_space_shooter_2_in_1.rar	-	50000000	1	154737372	0	150
+sxs-arcade_space_shooter_2_in_1.sfv	-	230	1	204737372	0	198

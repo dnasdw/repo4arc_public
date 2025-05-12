@@ -1,0 +1,16 @@
+sxs-crashbots.nfo	bfee7f01b6af386c511460f13703aaa6
+sxs-crashbots.r00	0355a32337cee20a9e696c051cf83b28
+sxs-crashbots.r01	c223afe0b30765f932da506c2fd62677
+sxs-crashbots.r02	d0834080011de3de1a21ce1d2a8d0968
+sxs-crashbots.r03	c4e8df71f421d8a689ff78aee073e2a8
+sxs-crashbots.r04	53180c78717b67bc1ab09a89036f3fe7
+sxs-crashbots.r05	022498f4cc1478a9b391fa8126d4ac78
+sxs-crashbots.r06	5762c2b970994289f6caed1ed1003dfc
+sxs-crashbots.r07	7585f79382ca48741db045058e16e1b4
+sxs-crashbots.r08	a93fb30804ef3935d352648f484c3c36
+sxs-crashbots.r09	a54fdf4b1485bc8d08529b934134762f
+sxs-crashbots.r10	08950411d22c6cc105e9a031d9ee7fc3
+sxs-crashbots.r11	2b65539f1daeeea96ad90dca7345214c
+sxs-crashbots.r12	f1b5c50e331d169f2a74c89aca4f7021
+sxs-crashbots.rar	c6804496eb90d813ed0b6c5f58207d5e
+sxs-crashbots.sfv	5251487f22d8bcdb1a822b5924166a14

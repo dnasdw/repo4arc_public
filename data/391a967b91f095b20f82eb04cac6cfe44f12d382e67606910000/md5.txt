@@ -1,0 +1,3 @@
+sxs-digimon_survive_multi_dlc.nfo	4ef3214926e5500f66ad953423cc7a04
+sxs-digimon_survive_multi_dlc.rar	9c149ebb8467eaae5d0e6a1efd42ed5a
+sxs-digimon_survive_multi_dlc.sfv	234a2a5722c88ec52f86a794d9e16aa8

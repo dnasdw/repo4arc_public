@@ -1,0 +1,6 @@
+brw-tbch.nfo	7c3eb342
+brw-tbch.r00	32539da6
+brw-tbch.r01	771eb37c
+brw-tbch.r02	81bf9fa8
+brw-tbch.rar	45df18cc
+brw-tbch.sfv	64739b0f

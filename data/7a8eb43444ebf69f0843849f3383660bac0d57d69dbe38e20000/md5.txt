@@ -1,0 +1,8 @@
+sxs-dongo_adventure.nfo	9618edc75b2cd8a260b88ef14588094c
+sxs-dongo_adventure.r00	fe9c6dac7c079e838cd2f4b745d49b62
+sxs-dongo_adventure.r01	a7b25425fd4ad10327a2c97538909c68
+sxs-dongo_adventure.r02	c54b2a0485ae72fa758c12c6d43a33ef
+sxs-dongo_adventure.r03	cf5e49c876d4cd8f42b90eee0da513f0
+sxs-dongo_adventure.r04	c3288ac9cd1ce37639b913c84c920cdc
+sxs-dongo_adventure.rar	d02c1d891f6f9da456f40ceb3329883a
+sxs-dongo_adventure.sfv	e8cbe28bc55aa646936087cf22365dcc

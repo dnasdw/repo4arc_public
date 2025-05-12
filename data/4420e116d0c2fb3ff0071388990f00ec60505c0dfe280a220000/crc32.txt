@@ -1,0 +1,9 @@
+hr-a4tcbv65536.nfo	e8c34400
+hr-a4tcbv65536.r00	3f2bea85
+hr-a4tcbv65536.r01	e471c701
+hr-a4tcbv65536.r02	a5a24bf6
+hr-a4tcbv65536.r03	6201aed3
+hr-a4tcbv65536.r04	3b0813fe
+hr-a4tcbv65536.r05	7a292ace
+hr-a4tcbv65536.rar	9a3f1c0e
+hr-a4tcbv65536.sfv	2c108d27

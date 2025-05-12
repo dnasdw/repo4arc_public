@@ -1,0 +1,8 @@
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v262144.nfo	-	4964	1	0	0	0
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v262144.r00	-	100000000	1	4964	0	1
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v262144.r01	-	100000000	1	100004964	0	97
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v262144.r02	-	100000000	1	200004964	0	193
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v262144.r03	-	100000000	1	300004964	0	289
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v262144.r04	-	84908009	1	400004964	0	385
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v262144.rar	-	100000000	1	484912973	0	466
+sxs-yu_gi_oh_rush_duel_dawn_of_the_battle_royale_v262144.sfv	-	426	1	47571200	1	46

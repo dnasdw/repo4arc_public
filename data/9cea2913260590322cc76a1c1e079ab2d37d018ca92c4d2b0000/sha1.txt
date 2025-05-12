@@ -1,0 +1,4 @@
+sxs-nes_v327680.nfo	f61ee352cb1fbb9f8e586c38eabdf2460bb8aba7
+sxs-nes_v327680.r00	34349dce6d77aa2aa467c94b20f59bea3fb05f17
+sxs-nes_v327680.rar	62bbb6eb667bc1c55070738e775a936e931ed3c1
+sxs-nes_v327680.sfv	50368df01c5d730efe9b638da2bc1775dcd3fdba

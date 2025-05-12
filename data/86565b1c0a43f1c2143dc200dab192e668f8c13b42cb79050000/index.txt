@@ -1,0 +1,7 @@
+v-gargoyles_remastered.nfo	-	6214	1	0	0	0
+v-gargoyles_remastered.r00	-	100000000	1	6214	0	1
+v-gargoyles_remastered.r01	-	100000000	1	100006214	0	97
+v-gargoyles_remastered.r02	-	100000000	1	200006214	0	193
+v-gargoyles_remastered.r03	-	81933869	1	300006214	0	289
+v-gargoyles_remastered.rar	-	100000000	1	381940083	0	368
+v-gargoyles_remastered.sfv	-	185	1	481940083	0	464

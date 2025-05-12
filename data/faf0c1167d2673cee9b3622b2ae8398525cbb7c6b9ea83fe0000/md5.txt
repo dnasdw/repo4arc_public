@@ -1,0 +1,5 @@
+sxs-tokyo_2020_olympics_v65536.nfo	a061dfbd896fbd0b92ab56559fc62ec9
+sxs-tokyo_2020_olympics_v65536.r00	455fbb6ed41673deb5e271b4547f1d08
+sxs-tokyo_2020_olympics_v65536.r01	275c44a9d1891d1038cc579e36455567
+sxs-tokyo_2020_olympics_v65536.rar	6cafe20b73a245ee062f56b3adf97cee
+sxs-tokyo_2020_olympics_v65536.sfv	aab38697dc166069281f318a105f02c4

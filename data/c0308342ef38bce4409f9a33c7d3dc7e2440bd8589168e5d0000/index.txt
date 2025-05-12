@@ -1,0 +1,15 @@
+sxs-clue_the_classic_mystery_game_v786432.nfo	-	7382	1	0	0	0
+sxs-clue_the_classic_mystery_game_v786432.r00	-	100000000	1	7382	0	1
+sxs-clue_the_classic_mystery_game_v786432.r01	-	100000000	1	100007382	0	97
+sxs-clue_the_classic_mystery_game_v786432.r02	-	100000000	1	200007382	0	193
+sxs-clue_the_classic_mystery_game_v786432.r03	-	100000000	1	300007382	0	289
+sxs-clue_the_classic_mystery_game_v786432.r04	-	100000000	1	400007382	0	385
+sxs-clue_the_classic_mystery_game_v786432.r05	-	100000000	1	500007382	0	481
+sxs-clue_the_classic_mystery_game_v786432.r06	-	100000000	1	62251264	1	60
+sxs-clue_the_classic_mystery_game_v786432.r07	-	100000000	1	162251264	1	156
+sxs-clue_the_classic_mystery_game_v786432.r08	-	100000000	1	262251264	1	252
+sxs-clue_the_classic_mystery_game_v786432.r09	-	100000000	1	362251264	1	348
+sxs-clue_the_classic_mystery_game_v786432.r10	-	100000000	1	462251264	1	444
+sxs-clue_the_classic_mystery_game_v786432.r11	-	51775816	1	24502528	2	24
+sxs-clue_the_classic_mystery_game_v786432.rar	-	100000000	1	76278344	2	74
+sxs-clue_the_classic_mystery_game_v786432.sfv	-	728	1	176278344	2	170

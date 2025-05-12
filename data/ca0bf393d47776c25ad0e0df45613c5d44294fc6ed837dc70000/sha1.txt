@@ -1,0 +1,8 @@
+jrp-n-wtad.nfo	e220384286658cfde17b465c6b0218bea003dad7
+jrp-n-wtad.r00	88600296afc76de7163b50e42d9f7d4e2415e5e4
+jrp-n-wtad.r01	329790e429d53a1b5a408fc011472d623c8c87a7
+jrp-n-wtad.r02	7d8e52a7a43fecc94eaad159f7fef3af19d70ad4
+jrp-n-wtad.r03	f1cbabbbe75a18be54de64a64d81b15b85f2e3be
+jrp-n-wtad.r04	a2e11aedd0ae5e68abe2448d077ee85a77bf6185
+jrp-n-wtad.rar	64bb9b3863fbb0b5c06a5644f73be278499d56be
+jrp-n-wtad.sfv	ce6d4e0c13709d7e47f6e0cd8c1fa3852c54daf4

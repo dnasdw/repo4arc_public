@@ -1,0 +1,7 @@
+sxs-saomi.nfo	9e1cca72fc827b6e0a0ad2afa3a5985f7137cbf9
+sxs-saomi.r00	5a06965bedce84ee11ca7988242b18e77e1cdcb5
+sxs-saomi.r01	b4c046f4b5ff306510e273e7364235ce02b1bcee
+sxs-saomi.r02	5486e6bf87d8a621c42dd0d8f463109474465d1e
+sxs-saomi.r03	ebfb25c9d926fc8cfb0e9b047d1d38659db7886a
+sxs-saomi.rar	b2e05181ed4ebbf774d294eca0a1ce1184f96016
+sxs-saomi.sfv	61fdebba7fa2569bd6da5d041bf0e3255a4e5378

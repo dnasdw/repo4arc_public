@@ -1,0 +1,5 @@
+sxs-kingdom_new_lands_v262144.nfo	-	6368	1	0	0	0
+sxs-kingdom_new_lands_v262144.r00	-	50000000	1	6368	0	1
+sxs-kingdom_new_lands_v262144.r01	-	8037961	1	50006368	0	49
+sxs-kingdom_new_lands_v262144.rar	-	50000000	1	58044329	0	57
+sxs-kingdom_new_lands_v262144.sfv	-	132	1	108044329	0	105

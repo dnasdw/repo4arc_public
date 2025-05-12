@@ -1,0 +1,4 @@
+v-picross_s5_v262144.nfo	f52396d8
+v-picross_s5_v262144.r00	8c034478
+v-picross_s5_v262144.rar	5e1eedd6
+v-picross_s5_v262144.sfv	51cea917

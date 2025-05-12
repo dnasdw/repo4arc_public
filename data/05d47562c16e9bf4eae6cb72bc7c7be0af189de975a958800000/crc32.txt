@@ -1,0 +1,17 @@
+v-no_place_for_bravery_v196608.nfo	50a327eb
+v-no_place_for_bravery_v196608.r00	aef596d8
+v-no_place_for_bravery_v196608.r01	e1637d29
+v-no_place_for_bravery_v196608.r02	e811a40d
+v-no_place_for_bravery_v196608.r03	ccf8d41f
+v-no_place_for_bravery_v196608.r04	bb0b8596
+v-no_place_for_bravery_v196608.r05	77cb1a47
+v-no_place_for_bravery_v196608.r06	7f3a54a1
+v-no_place_for_bravery_v196608.r07	8196aa48
+v-no_place_for_bravery_v196608.r08	54effd22
+v-no_place_for_bravery_v196608.r09	7652b354
+v-no_place_for_bravery_v196608.r10	2e4e4aa9
+v-no_place_for_bravery_v196608.r11	fb432b47
+v-no_place_for_bravery_v196608.r12	14f0ca85
+v-no_place_for_bravery_v196608.r13	53d1649c
+v-no_place_for_bravery_v196608.rar	6e13b180
+v-no_place_for_bravery_v196608.sfv	26608112

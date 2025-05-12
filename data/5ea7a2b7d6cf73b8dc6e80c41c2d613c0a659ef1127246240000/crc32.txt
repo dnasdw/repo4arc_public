@@ -1,0 +1,8 @@
+delight.nfo	3307e25f
+dl-queensquest4.r00	c6662033
+dl-queensquest4.r01	72aa4ff8
+dl-queensquest4.r02	3324f180
+dl-queensquest4.r03	545e7b9b
+dl-queensquest4.r04	1a7be13f
+dl-queensquest4.rar	0ec09dc8
+dl-queensquest4.sfv	938f5265

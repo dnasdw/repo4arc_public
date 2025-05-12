@@ -1,0 +1,6 @@
+sxs-lumines_remastered_v327680.nfo	-	5276	1	0	0	0
+sxs-lumines_remastered_v327680.r00	-	50000000	1	5276	0	1
+sxs-lumines_remastered_v327680.r01	-	50000000	1	50005276	0	49
+sxs-lumines_remastered_v327680.r02	-	9312750	1	100005276	0	97
+sxs-lumines_remastered_v327680.rar	-	50000000	1	109318026	0	106
+sxs-lumines_remastered_v327680.sfv	-	180	1	159318026	0	154

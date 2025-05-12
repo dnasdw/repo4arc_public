@@ -1,0 +1,5 @@
+sxs-little_inferno_v262144.nfo	-	5354	1	0	0	0
+sxs-little_inferno_v262144.r00	-	100000000	1	5354	0	1
+sxs-little_inferno_v262144.r01	-	47052462	1	100005354	0	97
+sxs-little_inferno_v262144.rar	-	100000000	1	147057816	0	142
+sxs-little_inferno_v262144.sfv	-	123	1	247057816	0	238

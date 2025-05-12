@@ -1,0 +1,12 @@
+Proof	00000000
+Proof/v-turrican_flashback.jpg	6446652c
+v-turrican_flashback.nfo	7d89a58c
+v-turrican_flashback.r00	a3c1f6ea
+v-turrican_flashback.r01	d2d9b9e7
+v-turrican_flashback.r02	c1c66b80
+v-turrican_flashback.r03	2018509c
+v-turrican_flashback.r04	05714045
+v-turrican_flashback.r05	3d329001
+v-turrican_flashback.r06	043ae278
+v-turrican_flashback.rar	c3c0f0cd
+v-turrican_flashback.sfv	ba195199

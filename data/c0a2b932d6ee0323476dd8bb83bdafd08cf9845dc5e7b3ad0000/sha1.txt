@@ -1,0 +1,5 @@
+sxs-morto_chapter_2.nfo	d093ec797939dc1404bb7a7f367da3b90e6cabc5
+sxs-morto_chapter_2.r00	ec70df5fc134ce70213d97cde2c3b251b864d8c4
+sxs-morto_chapter_2.r01	6ba7106c52968613c8cb99a66b6e4834ce2a325a
+sxs-morto_chapter_2.rar	6246995f6f5417d2b8a17e0be131291face64cd2
+sxs-morto_chapter_2.sfv	023f764353e05b4fa7c01fbf339d8f55c6dcafe2

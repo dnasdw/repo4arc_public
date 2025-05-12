@@ -1,0 +1,8 @@
+v-blood_waves_v131072.nfo	10f22a75
+v-blood_waves_v131072.r00	c56d2bcd
+v-blood_waves_v131072.r01	a2cd390c
+v-blood_waves_v131072.r02	8489cac7
+v-blood_waves_v131072.r03	5443932e
+v-blood_waves_v131072.r04	05202464
+v-blood_waves_v131072.rar	ef4af0c2
+v-blood_waves_v131072.sfv	e43d776d

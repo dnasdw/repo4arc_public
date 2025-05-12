@@ -1,0 +1,4 @@
+sxs-missile_dancer_v196608.nfo	0ce4325197d1079d83763f1fd9820678
+sxs-missile_dancer_v196608.r00	3ae430ba9a677ab4970cc75278626da3
+sxs-missile_dancer_v196608.rar	d91d211d53f8629ccf6f750fd3700dc0
+sxs-missile_dancer_v196608.sfv	6f7e9918e132c54dcabf82e9ade38fa6

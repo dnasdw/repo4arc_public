@@ -1,0 +1,9 @@
+sxs-golazo_2_v131072.nfo	e3b0dee7
+sxs-golazo_2_v131072.r00	13a3a7ba
+sxs-golazo_2_v131072.r01	fa5f518b
+sxs-golazo_2_v131072.r02	ba70d959
+sxs-golazo_2_v131072.r03	36f76f5f
+sxs-golazo_2_v131072.r04	9a7185e3
+sxs-golazo_2_v131072.r05	2eef4c91
+sxs-golazo_2_v131072.rar	789a47ab
+sxs-golazo_2_v131072.sfv	7855a9ea

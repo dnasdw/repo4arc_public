@@ -1,0 +1,5 @@
+sxs-roller_drama_v393216.nfo	-	6836	1	0	0	0
+sxs-roller_drama_v393216.r00	-	100000000	1	6836	0	1
+sxs-roller_drama_v393216.r01	-	91759072	1	100006836	0	97
+sxs-roller_drama_v393216.rar	-	100000000	1	191765908	0	185
+sxs-roller_drama_v393216.sfv	-	117	1	291765908	0	281

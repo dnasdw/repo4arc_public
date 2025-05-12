@@ -1,0 +1,4 @@
+sxs-korg_gadget_v196608.nfo	ef7c8a6b
+sxs-korg_gadget_v196608.r00	a8f17cbd
+sxs-korg_gadget_v196608.rar	9a8f3235
+sxs-korg_gadget_v196608.sfv	638ce10c

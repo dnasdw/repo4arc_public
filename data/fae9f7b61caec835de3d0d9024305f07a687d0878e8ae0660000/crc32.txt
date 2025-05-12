@@ -1,0 +1,9 @@
+sxs-glaive_brick_breaker_v65536.nfo	7504518a
+sxs-glaive_brick_breaker_v65536.r00	c48a9796
+sxs-glaive_brick_breaker_v65536.r01	79ac3467
+sxs-glaive_brick_breaker_v65536.r02	19cf0c2b
+sxs-glaive_brick_breaker_v65536.r03	ee1edaac
+sxs-glaive_brick_breaker_v65536.r04	47208527
+sxs-glaive_brick_breaker_v65536.r05	9059d4e3
+sxs-glaive_brick_breaker_v65536.rar	622f9fc5
+sxs-glaive_brick_breaker_v65536.sfv	2c112175

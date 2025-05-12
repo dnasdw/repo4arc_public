@@ -1,0 +1,4 @@
+sxs-arcade_archives_vs_gradius.nfo	e964737b
+sxs-arcade_archives_vs_gradius.r00	0ff3f0ac
+sxs-arcade_archives_vs_gradius.rar	c3c813e8
+sxs-arcade_archives_vs_gradius.sfv	baa58102

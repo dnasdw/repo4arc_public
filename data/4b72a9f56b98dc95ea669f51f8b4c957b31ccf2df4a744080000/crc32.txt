@@ -1,0 +1,9 @@
+sxs-taco_tom_2.nfo	4cfad054
+sxs-taco_tom_2.r00	9e7bd3b4
+sxs-taco_tom_2.r01	388082cd
+sxs-taco_tom_2.r02	c3873a14
+sxs-taco_tom_2.r03	6e7bea48
+sxs-taco_tom_2.r04	126ac7db
+sxs-taco_tom_2.r05	0b2a920e
+sxs-taco_tom_2.rar	081a7e6d
+sxs-taco_tom_2.sfv	d59e1c67

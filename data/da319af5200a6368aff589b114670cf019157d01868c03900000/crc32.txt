@@ -1,0 +1,10 @@
+l-ploidsaga_v131072.nfo	66ba64d5
+l-ploidsaga_v131072.r00	9364d80e
+l-ploidsaga_v131072.r01	48b05348
+l-ploidsaga_v131072.r02	d1022830
+l-ploidsaga_v131072.r03	60d0c00a
+l-ploidsaga_v131072.r04	702ac75e
+l-ploidsaga_v131072.r05	ad6bd2ab
+l-ploidsaga_v131072.r06	44ebd368
+l-ploidsaga_v131072.r07	e93f9543
+l-ploidsaga_v131072.sfv	3e44ea9d

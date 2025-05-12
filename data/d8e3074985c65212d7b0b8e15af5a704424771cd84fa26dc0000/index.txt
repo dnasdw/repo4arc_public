@@ -1,0 +1,4 @@
+sxs-tales_of_the_neon_sea_v196608.nfo	-	4028	1	0	0	0
+sxs-tales_of_the_neon_sea_v196608.r00	-	41286831	1	4028	0	1
+sxs-tales_of_the_neon_sea_v196608.rar	-	100000000	1	41290859	0	41
+sxs-tales_of_the_neon_sea_v196608.sfv	-	96	1	141290859	0	137

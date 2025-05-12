@@ -1,0 +1,11 @@
+sxs-flbu.nfo	4515dc91
+sxs-flbu.r00	95a4f149
+sxs-flbu.r01	b80257fe
+sxs-flbu.r02	41154289
+sxs-flbu.r03	5d85202a
+sxs-flbu.r04	4aface51
+sxs-flbu.r05	2df0306f
+sxs-flbu.r06	c003323a
+sxs-flbu.r07	400352bd
+sxs-flbu.rar	2928b13b
+sxs-flbu.sfv	b3f68e5f

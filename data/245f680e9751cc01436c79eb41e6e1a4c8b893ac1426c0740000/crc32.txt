@@ -1,0 +1,7 @@
+sxs-survive_on_raft_v196608.nfo	20f4a1b5
+sxs-survive_on_raft_v196608.r00	92eb0783
+sxs-survive_on_raft_v196608.r01	89bb61d4
+sxs-survive_on_raft_v196608.r02	ce790a3e
+sxs-survive_on_raft_v196608.r03	d130a481
+sxs-survive_on_raft_v196608.rar	9d5d0e4d
+sxs-survive_on_raft_v196608.sfv	a8378e49

@@ -1,0 +1,5 @@
+sxs-hirilun.nfo	e1f52f8095784b3ac3d6e7a77945f5d5
+sxs-hirilun.r00	c21832d1a9280d0d0e7cd0c3840639d3
+sxs-hirilun.r01	73dd036138cd48b6e686c61bcd1ce97f
+sxs-hirilun.rar	ef78649ff67b49b6f1f788ff5a306e5c
+sxs-hirilun.sfv	062be281ba45728c72300778c7388bfa

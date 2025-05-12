@@ -1,0 +1,5 @@
+lfc-biun.nfo	dcdc24942b1e1986e7028fc6ef9c9eef
+lfc-biun.r00	6e1ae46caf1e2a77c57cce2458073e69
+lfc-biun.r01	cb16ab3d907e3dec09c614dd918248a0
+lfc-biun.rar	cc6e7ac57242c9c4f41be4ae32603662
+lfc-biun.sfv	56a8e95afed1eded723b59b2923b6bc3

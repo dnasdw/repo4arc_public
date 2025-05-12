@@ -1,0 +1,4 @@
+sxs-ace_of_seafood_v196608.nfo	-	4575	1	0	0	0
+sxs-ace_of_seafood_v196608.r00	-	16462866	1	4575	0	1
+sxs-ace_of_seafood_v196608.rar	-	50000000	1	16467441	0	17
+sxs-ace_of_seafood_v196608.sfv	-	82	1	66467441	0	65

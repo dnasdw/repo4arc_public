@@ -1,0 +1,15 @@
+v-no_straight_roads_v196608.nfo	24daedf6
+v-no_straight_roads_v196608.r00	2fe9ee74
+v-no_straight_roads_v196608.r01	763c239f
+v-no_straight_roads_v196608.r02	ab83fbb7
+v-no_straight_roads_v196608.r03	1987b769
+v-no_straight_roads_v196608.r04	cc52fff7
+v-no_straight_roads_v196608.r05	3c6c893d
+v-no_straight_roads_v196608.r06	50c24c0a
+v-no_straight_roads_v196608.r07	2816f842
+v-no_straight_roads_v196608.r08	b8ba96ea
+v-no_straight_roads_v196608.r09	35f321d9
+v-no_straight_roads_v196608.r10	11e6f3ba
+v-no_straight_roads_v196608.r11	5a7e80db
+v-no_straight_roads_v196608.rar	e6e43995
+v-no_straight_roads_v196608.sfv	c92d1693

@@ -1,0 +1,4 @@
+sxs-dyna_bomb_v196608.nfo	a893a9cdda1e5524be289dcfbc2ea4b4
+sxs-dyna_bomb_v196608.r00	cf251e72b552f7238c3a6b813e4d76ca
+sxs-dyna_bomb_v196608.rar	b61e7328f8f30ab379fbf20dbc63ffdb
+sxs-dyna_bomb_v196608.sfv	e07051263748ceaff8e6b6c853ce5ade

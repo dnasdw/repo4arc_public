@@ -1,0 +1,4 @@
+lfc-az32b_v65536.nfo	59613109
+lfc-az32b_v65536.r00	8bf56c6f
+lfc-az32b_v65536.rar	37d1cf83
+lfc-az32b_v65536.sfv	4e282b05

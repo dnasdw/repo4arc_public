@@ -1,0 +1,4 @@
+sxs-crosscode_v262144.nfo	0cc9b5f8e5cf11cd0a49e5fb71b5e6b8ac4d3e84
+sxs-crosscode_v262144.r00	df04be1137d616831dda313ba1ad3ccd66d0dba9
+sxs-crosscode_v262144.rar	9954190a9fa711a05557b3b1d9ce20203eec58d8
+sxs-crosscode_v262144.sfv	b0ffd37a44cafd2c72048435adec45b0612bdda5

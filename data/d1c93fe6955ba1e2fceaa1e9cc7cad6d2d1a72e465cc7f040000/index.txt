@@ -1,0 +1,3 @@
+sxs-aluna_sentinel_of_the_shards_v65536.r00	-	7044986	1	0	0	0
+sxs-aluna_sentinel_of_the_shards_v65536.rar	-	50000000	1	7044986	0	7
+sxs-aluna_sentinel_of_the_shards_v65536.sfv	-	108	1	57044986	0	55

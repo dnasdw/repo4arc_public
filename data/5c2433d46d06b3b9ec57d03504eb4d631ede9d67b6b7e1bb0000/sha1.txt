@@ -1,0 +1,3 @@
+v-wrc_10_the_official_game_dlc.nfo	9356933307d272589e0e05435f0a167fb557359f
+v-wrc_10_the_official_game_dlc.rar	718b404cc82eff029c94aad38fac5f2a4ac1976c
+v-wrc_10_the_official_game_dlc.sfv	062e1f68856eb22fe431441ef62d36ce45e3f973

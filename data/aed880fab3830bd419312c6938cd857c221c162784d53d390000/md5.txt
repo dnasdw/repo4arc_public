@@ -1,0 +1,4 @@
+sxs-genseisuikoden_plus_v131072.nfo	b424009a606ff40b9a42e1b98b7eae10
+sxs-genseisuikoden_plus_v131072.r00	554237b58d6fca98eaca3aacf3f69d50
+sxs-genseisuikoden_plus_v131072.rar	0fdf9e0819ba8eb18376125e6926bb0f
+sxs-genseisuikoden_plus_v131072.sfv	db24d9f72e15d6c1d85d8099d730a66d

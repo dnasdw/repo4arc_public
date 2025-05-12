@@ -1,0 +1,6 @@
+delight.nfo	ee4d4b88
+dl-countrytales.r00	a680addf
+dl-countrytales.r01	903194da
+dl-countrytales.r02	b8cb1d14
+dl-countrytales.rar	b7d8276a
+dl-countrytales.sfv	86cd303a

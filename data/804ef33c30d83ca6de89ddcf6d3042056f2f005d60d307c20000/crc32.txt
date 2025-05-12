@@ -1,0 +1,13 @@
+v-reverie_knights_tactics_v196608.nfo	fa59e7c2
+v-reverie_knights_tactics_v196608.r00	1b924bb0
+v-reverie_knights_tactics_v196608.r01	005bb6eb
+v-reverie_knights_tactics_v196608.r02	c7e4507c
+v-reverie_knights_tactics_v196608.r03	28e475ea
+v-reverie_knights_tactics_v196608.r04	5f928382
+v-reverie_knights_tactics_v196608.r05	130f14e3
+v-reverie_knights_tactics_v196608.r06	0a71eb56
+v-reverie_knights_tactics_v196608.r07	edfa2977
+v-reverie_knights_tactics_v196608.r08	b1135348
+v-reverie_knights_tactics_v196608.r09	0564680b
+v-reverie_knights_tactics_v196608.rar	f5a2fbe3
+v-reverie_knights_tactics_v196608.sfv	3009662c

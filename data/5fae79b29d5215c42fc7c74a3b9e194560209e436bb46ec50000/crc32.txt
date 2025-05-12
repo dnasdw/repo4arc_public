@@ -1,0 +1,13 @@
+lfc-wahpupdv101.nfo	ffbef8f1
+lfc-wahpupdv101.r00	706dd46c
+lfc-wahpupdv101.r01	ad30261a
+lfc-wahpupdv101.r02	dcaccddd
+lfc-wahpupdv101.r03	efca1ee9
+lfc-wahpupdv101.r04	9a5deb3a
+lfc-wahpupdv101.r05	98a9561e
+lfc-wahpupdv101.r06	443bc334
+lfc-wahpupdv101.r07	eca84736
+lfc-wahpupdv101.r08	34332ba7
+lfc-wahpupdv101.r09	4c0f105d
+lfc-wahpupdv101.rar	b0183156
+lfc-wahpupdv101.sfv	4b6df08e

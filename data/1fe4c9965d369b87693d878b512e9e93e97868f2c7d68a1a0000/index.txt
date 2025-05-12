@@ -1,0 +1,6 @@
+sxs-whispering_willows_v327680.nfo	-	5510	1	0	0	0
+sxs-whispering_willows_v327680.r00	-	100000000	1	5510	0	1
+sxs-whispering_willows_v327680.r01	-	100000000	1	100005510	0	97
+sxs-whispering_willows_v327680.r02	-	94438403	1	200005510	0	193
+sxs-whispering_willows_v327680.rar	-	100000000	1	294443913	0	284
+sxs-whispering_willows_v327680.sfv	-	180	1	394443913	0	380

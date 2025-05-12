@@ -1,0 +1,6 @@
+sxs-twin_robots_ultimate_edition_v131072.nfo	fcc272f1
+sxs-twin_robots_ultimate_edition_v131072.r00	02a53521
+sxs-twin_robots_ultimate_edition_v131072.r01	b96909dd
+sxs-twin_robots_ultimate_edition_v131072.r02	e28e340a
+sxs-twin_robots_ultimate_edition_v131072.rar	b7ec6379
+sxs-twin_robots_ultimate_edition_v131072.sfv	f7e2dd8e

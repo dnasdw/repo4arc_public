@@ -1,0 +1,4 @@
+sxs-spectrum_v110.nfo	-	4808	1	0	0	0
+sxs-spectrum_v110.r00	-	25912082	1	4808	0	1
+sxs-spectrum_v110.rar	-	50000000	1	25916890	0	26
+sxs-spectrum_v110.sfv	-	64	1	75916890	0	74

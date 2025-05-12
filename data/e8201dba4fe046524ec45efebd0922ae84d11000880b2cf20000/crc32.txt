@@ -1,0 +1,11 @@
+v-hammerwatch_2.nfo	7552b823
+v-hammerwatch_2.r00	3dbb4039
+v-hammerwatch_2.r01	ba6b5e72
+v-hammerwatch_2.r02	6b538bd5
+v-hammerwatch_2.r03	7633f4b7
+v-hammerwatch_2.r04	ff9d3cc5
+v-hammerwatch_2.r05	ed695252
+v-hammerwatch_2.r06	68cc8a94
+v-hammerwatch_2.r07	8b50e196
+v-hammerwatch_2.rar	a498b823
+v-hammerwatch_2.sfv	fead57f8

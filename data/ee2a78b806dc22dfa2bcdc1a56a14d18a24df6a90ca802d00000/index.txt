@@ -1,0 +1,3 @@
+sxs-dungeon_defence_simulator_2024.nfo	-	6680	1	0	0	0
+sxs-dungeon_defence_simulator_2024.rar	-	87085621	1	6680	0	1
+sxs-dungeon_defence_simulator_2024.sfv	-	49	1	87092301	0	85

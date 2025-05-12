@@ -1,0 +1,6 @@
+lfc-ghostgrab.nfo	f0ff3acca2795f7cdf1385584ba1fdb9
+lfc-ghostgrab.r00	d584f1dae2f2d7ba0c9508b1f9f66279
+lfc-ghostgrab.r01	0a73d2e17f2800c6d0acdad926186bbf
+lfc-ghostgrab.r02	0698df2b515e190bd44aa4c712ee1229
+lfc-ghostgrab.rar	ec3252383011d338c13f43a1c35da4d3
+lfc-ghostgrab.sfv	8ae2db8328aae6874b269b91d4a39c97

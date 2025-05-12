@@ -1,0 +1,7 @@
+l-crashdrive2.nfo	-	287	1	0	0	0
+l-crashdrive2.r00	-	50000000	1	287	0	1
+l-crashdrive2.r01	-	50000000	1	50000287	0	49
+l-crashdrive2.r02	-	50000000	1	100000287	0	97
+l-crashdrive2.r03	-	49563349	1	150000287	0	145
+l-crashdrive2.rar	-	50000000	1	199563636	0	193
+l-crashdrive2.sfv	-	140	1	249563636	0	241

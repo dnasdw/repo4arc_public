@@ -1,0 +1,12 @@
+v-defense_master.nfo	-	5200	1	0	0	0
+v-defense_master.r00	-	100000000	1	5200	0	1
+v-defense_master.r01	-	100000000	1	100005200	0	97
+v-defense_master.r02	-	100000000	1	200005200	0	193
+v-defense_master.r03	-	100000000	1	300005200	0	289
+v-defense_master.r04	-	100000000	1	400005200	0	385
+v-defense_master.r05	-	100000000	1	500005200	0	481
+v-defense_master.r06	-	100000000	1	62251264	1	60
+v-defense_master.r07	-	100000000	1	162251264	1	156
+v-defense_master.r08	-	35955320	1	262251264	1	252
+v-defense_master.rar	-	100000000	1	298206584	1	287
+v-defense_master.sfv	-	310	1	398206584	1	383

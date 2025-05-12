@@ -1,0 +1,13 @@
+sxs-knights_retreat.nfo	-	4340	1	0	0	0
+sxs-knights_retreat.r00	-	50000000	1	4340	0	1
+sxs-knights_retreat.r01	-	50000000	1	50004340	0	49
+sxs-knights_retreat.r02	-	50000000	1	100004340	0	97
+sxs-knights_retreat.r03	-	50000000	1	150004340	0	145
+sxs-knights_retreat.r04	-	50000000	1	200004340	0	193
+sxs-knights_retreat.r05	-	50000000	1	250004340	0	241
+sxs-knights_retreat.r06	-	50000000	1	300004340	0	289
+sxs-knights_retreat.r07	-	50000000	1	350004340	0	337
+sxs-knights_retreat.r08	-	50000000	1	400004340	0	385
+sxs-knights_retreat.r09	-	11108746	1	450004340	0	433
+sxs-knights_retreat.rar	-	50000000	1	461113086	0	444
+sxs-knights_retreat.sfv	-	374	1	511113086	0	492

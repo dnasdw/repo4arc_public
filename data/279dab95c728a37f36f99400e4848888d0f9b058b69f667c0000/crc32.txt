@@ -1,0 +1,12 @@
+hr-alfmav101.nfo	f67aa722
+hr-alfmav101.r00	0535df3e
+hr-alfmav101.r01	34a89d1a
+hr-alfmav101.r02	d5cbc016
+hr-alfmav101.r03	efea1479
+hr-alfmav101.r04	ea5b0d44
+hr-alfmav101.r05	9f63acb7
+hr-alfmav101.r06	3b08f39a
+hr-alfmav101.r07	2f0cc7ca
+hr-alfmav101.r08	8128e1c8
+hr-alfmav101.rar	445861a0
+hr-alfmav101.sfv	f4af0147

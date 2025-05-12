@@ -1,0 +1,3 @@
+v-oddworld_munchs_oddysee_v65536.nfo	-	5044	1	0	0	0
+v-oddworld_munchs_oddysee_v65536.rar	-	16404254	1	5044	0	1
+v-oddworld_munchs_oddysee_v65536.sfv	-	47	1	16409298	0	17

@@ -1,0 +1,3 @@
+v-ssbu_fighters_pass_vol2_dlc.nfo	30cf6cef790fd1249a00a68fdf21de1fdc3953c6
+v-ssbu_fighters_pass_vol2_dlc.rar	268b3172bfb0c6dae80ff6a11f46ca2108f87e93
+v-ssbu_fighters_pass_vol2_dlc.sfv	bc91dfaaad1ad54675e7469e8623b9164d320e2b

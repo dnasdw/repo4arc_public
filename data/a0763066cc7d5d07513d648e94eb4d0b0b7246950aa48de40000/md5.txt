@@ -1,0 +1,13 @@
+sxs-ziksquare.nfo	a6e5370170984d4da15109752233fe26
+sxs-ziksquare.r00	925fb1b6d20761121d6d93e0ea0ef3c2
+sxs-ziksquare.r01	ab4a1a1cb5955d007c04e846d15fe2a5
+sxs-ziksquare.r02	6e6a4ed81392ee474163f1f1adf28813
+sxs-ziksquare.r03	82e915289d50c8cfa2170531230bbe25
+sxs-ziksquare.r04	f1e008076120e3b75bedc545abdb1387
+sxs-ziksquare.r05	7f973d850fb08b250a4c13425d98a1fe
+sxs-ziksquare.r06	3549793f7696776746ce085a8480472b
+sxs-ziksquare.r07	0998efafbf61f099759ab7fe39e5d329
+sxs-ziksquare.r08	07a5f697ddc3c64d498007c6fe80032b
+sxs-ziksquare.r09	e8923107eb394543761e4cbcdb1b5ebf
+sxs-ziksquare.rar	65d6a72d099125f776af4de0dbdcdcd0
+sxs-ziksquare.sfv	9a09c0b6ad06a951ee0925ae67f12477

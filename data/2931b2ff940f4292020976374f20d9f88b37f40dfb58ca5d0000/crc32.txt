@@ -1,0 +1,8 @@
+v-rise_v65536.nfo	5be0a068
+v-rise_v65536.r00	96e8bb40
+v-rise_v65536.r01	c57a3616
+v-rise_v65536.r02	1ba9854e
+v-rise_v65536.r03	251ffa62
+v-rise_v65536.r04	56fb0679
+v-rise_v65536.rar	19b94175
+v-rise_v65536.sfv	8a646da9

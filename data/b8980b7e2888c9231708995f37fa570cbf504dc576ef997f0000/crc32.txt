@@ -1,0 +1,9 @@
+sxs-n64.nfo	9080aa03
+sxs-n64.r00	366429b0
+sxs-n64.r01	684f9230
+sxs-n64.r02	4466e096
+sxs-n64.r03	0d67e320
+sxs-n64.r04	10d7bbc1
+sxs-n64.r05	e75ff8db
+sxs-n64.rar	3b8f5274
+sxs-n64.sfv	c54041b2

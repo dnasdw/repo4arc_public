@@ -1,0 +1,9 @@
+sxs-varion.nfo	ef08313b223f3625b5f96eb7319a301b
+sxs-varion.r00	7c3a3896d107eef6679e07bae8beedad
+sxs-varion.r01	473e5082f0bd873733c40d4ba47aa408
+sxs-varion.r02	d0899b631979a177785533f6a22535c3
+sxs-varion.r03	267fb345771603d7ebc5482684d94524
+sxs-varion.r04	93d6d9dfc235f6e40de45243d3770135
+sxs-varion.r05	fa800a7cf6c79d150db906eac598a384
+sxs-varion.rar	ab582ada2eb1fe3634b9a7fe329816ae
+sxs-varion.sfv	08d3981362f7dde757849bc69ca133ac

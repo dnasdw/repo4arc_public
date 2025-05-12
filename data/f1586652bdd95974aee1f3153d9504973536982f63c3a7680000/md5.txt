@@ -1,0 +1,11 @@
+sxs-mokoko_x_v131072.nfo	876ed73376d95cf119e0bd176dae444b
+sxs-mokoko_x_v131072.r00	bc19163c7f96baf6efa6b2a39755b392
+sxs-mokoko_x_v131072.r01	914f80265c7c4c1d483f5e414d15cbaa
+sxs-mokoko_x_v131072.r02	c228e550bf51559d92fdb7b8cde7fcb0
+sxs-mokoko_x_v131072.r03	7d3cd6433d97a0f72b4cf11f68c463d7
+sxs-mokoko_x_v131072.r04	8d70c0d51da83db3a2d3848ba503534e
+sxs-mokoko_x_v131072.r05	322db72d655fdd1aa79a4c41c1e6efed
+sxs-mokoko_x_v131072.r06	93cf93e76b60f84ace9d052287249665
+sxs-mokoko_x_v131072.r07	f9dea5fa9872f43e9bb77ee6031a00c7
+sxs-mokoko_x_v131072.rar	7411343f6d5d928c4d9b2a439cbc1386
+sxs-mokoko_x_v131072.sfv	a2d0226e3a6d389195efea3fcc7c8d47

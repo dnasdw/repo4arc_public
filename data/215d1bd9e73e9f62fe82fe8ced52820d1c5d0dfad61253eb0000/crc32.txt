@@ -1,0 +1,7 @@
+v-the_last_remnant_remastered_v65536.nfo	88d1621c
+v-the_last_remnant_remastered_v65536.r00	1e576296
+v-the_last_remnant_remastered_v65536.r01	98a23e32
+v-the_last_remnant_remastered_v65536.r02	63a393cc
+v-the_last_remnant_remastered_v65536.r03	4280a428
+v-the_last_remnant_remastered_v65536.rar	214a17ae
+v-the_last_remnant_remastered_v65536.sfv	bf0e3e80

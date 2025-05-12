@@ -1,0 +1,12 @@
+lfc-unicornicopia.nfo	-	3660	1	0	0	0
+lfc-unicornicopia.r00	-	100000000	1	3660	0	1
+lfc-unicornicopia.r01	-	100000000	1	100003660	0	97
+lfc-unicornicopia.r02	-	100000000	1	200003660	0	193
+lfc-unicornicopia.r03	-	100000000	1	300003660	0	289
+lfc-unicornicopia.r04	-	100000000	1	400003660	0	385
+lfc-unicornicopia.r05	-	100000000	1	500003660	0	481
+lfc-unicornicopia.r06	-	100000000	1	62251264	1	60
+lfc-unicornicopia.r07	-	100000000	1	162251264	1	156
+lfc-unicornicopia.r08	-	79121464	1	262251264	1	252
+lfc-unicornicopia.rar	-	100000000	1	341372728	1	328
+lfc-unicornicopia.sfv	-	320	1	441372728	1	424

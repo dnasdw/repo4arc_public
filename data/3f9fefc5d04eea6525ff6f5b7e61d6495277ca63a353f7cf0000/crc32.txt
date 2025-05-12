@@ -1,0 +1,15 @@
+sxs-ascendance.nfo	114149ae
+sxs-ascendance.r00	51b627c1
+sxs-ascendance.r01	f059b150
+sxs-ascendance.r02	01e076c0
+sxs-ascendance.r03	e0fe9368
+sxs-ascendance.r04	1820991d
+sxs-ascendance.r05	3bc03187
+sxs-ascendance.r06	74187333
+sxs-ascendance.r07	f780fcdd
+sxs-ascendance.r08	300f3081
+sxs-ascendance.r09	40cbd900
+sxs-ascendance.r10	bf0d21f3
+sxs-ascendance.r11	7e41827a
+sxs-ascendance.rar	7870a157
+sxs-ascendance.sfv	6746a95e

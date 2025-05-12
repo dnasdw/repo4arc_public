@@ -1,0 +1,8 @@
+sxs-hillbilly_doomsday.nfo	-	5120	1	0	0	0
+sxs-hillbilly_doomsday.r00	-	50000000	1	5120	0	1
+sxs-hillbilly_doomsday.r01	-	50000000	1	50005120	0	49
+sxs-hillbilly_doomsday.r02	-	50000000	1	100005120	0	97
+sxs-hillbilly_doomsday.r03	-	50000000	1	150005120	0	145
+sxs-hillbilly_doomsday.r04	-	41795828	1	200005120	0	193
+sxs-hillbilly_doomsday.rar	-	50000000	1	241800948	0	233
+sxs-hillbilly_doomsday.sfv	-	222	1	291800948	0	281

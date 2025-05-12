@@ -1,0 +1,6 @@
+lfc-ovev.nfo	cab119daf3d33bad3d04506bffc3c92c
+lfc-ovev.r00	a414c956a5f0d5245c6bb53eb0377bd4
+lfc-ovev.r01	706739eb52e241e80c47b4737e9e023c
+lfc-ovev.r02	5a663cbfc5886d1e1f5f82b5b45d6a8a
+lfc-ovev.rar	bcbd0470db9cd7c8d3fc830bfd48694d
+lfc-ovev.sfv	a147a2764fed7f0398fe8cacadf2983e

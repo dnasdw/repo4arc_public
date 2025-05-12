@@ -1,0 +1,4 @@
+jrp-n-cst.nfo	3b7d6f4853f150cdf9e38103e75a5f2c
+jrp-n-cst.r00	dd13d6d5ef3fe9d9ce6d4525b5bb58c4
+jrp-n-cst.rar	e393c7f1d3591ac83f315113daa053f3
+jrp-n-cst.sfv	ddf86d3ed38754e42eae258fbe83f8e1

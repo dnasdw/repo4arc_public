@@ -1,0 +1,6 @@
+bbb-n-aky4a.nfo	-	5517	1	0	0	0
+bbb-n-aky4a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aky4a.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aky4a.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-aky4a.part4.rar	-	205864678	1	212251264	1	203
+bbb-n-aky4a.sfv	-	128	1	418115942	1	400

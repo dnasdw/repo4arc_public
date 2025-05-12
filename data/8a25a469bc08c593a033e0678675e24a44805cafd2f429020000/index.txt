@@ -1,0 +1,16 @@
+sxs-deaths_gambit_afterlife_v327680.nfo	-	8552	1	0	0	0
+sxs-deaths_gambit_afterlife_v327680.r00	-	50000000	1	8552	0	1
+sxs-deaths_gambit_afterlife_v327680.r01	-	50000000	1	50008552	0	49
+sxs-deaths_gambit_afterlife_v327680.r02	-	50000000	1	100008552	0	97
+sxs-deaths_gambit_afterlife_v327680.r03	-	50000000	1	150008552	0	145
+sxs-deaths_gambit_afterlife_v327680.r04	-	50000000	1	200008552	0	193
+sxs-deaths_gambit_afterlife_v327680.r05	-	50000000	1	250008552	0	241
+sxs-deaths_gambit_afterlife_v327680.r06	-	50000000	1	300008552	0	289
+sxs-deaths_gambit_afterlife_v327680.r07	-	50000000	1	350008552	0	337
+sxs-deaths_gambit_afterlife_v327680.r08	-	50000000	1	400008552	0	385
+sxs-deaths_gambit_afterlife_v327680.r09	-	50000000	1	450008552	0	433
+sxs-deaths_gambit_afterlife_v327680.r10	-	50000000	1	500008552	0	481
+sxs-deaths_gambit_afterlife_v327680.r11	-	50000000	1	12251264	1	12
+sxs-deaths_gambit_afterlife_v327680.r12	-	30413152	1	62251264	1	60
+sxs-deaths_gambit_afterlife_v327680.rar	-	50000000	1	92664416	1	90
+sxs-deaths_gambit_afterlife_v327680.sfv	-	700	1	142664416	1	138

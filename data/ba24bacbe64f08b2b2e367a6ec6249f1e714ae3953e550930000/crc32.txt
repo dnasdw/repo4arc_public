@@ -1,0 +1,7 @@
+i-rawroff.nfo	3fd0115d
+i-rawroff.r00	3f10a35a
+i-rawroff.r01	d817c4ec
+i-rawroff.r02	615dcfc9
+i-rawroff.r03	55b4c06f
+i-rawroff.rar	f683926b
+i-rawroff.sfv	46cb1a2d

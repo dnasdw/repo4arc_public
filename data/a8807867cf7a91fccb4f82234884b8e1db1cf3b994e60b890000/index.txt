@@ -1,0 +1,4 @@
+v-nyan_cat_lost_in_space_v65536r.nfo	-	5746	1	0	0	0
+v-nyan_cat_lost_in_space_v65536r.r00	-	13265633	1	5746	0	1
+v-nyan_cat_lost_in_space_v65536r.rar	-	50000000	1	13271379	0	14
+v-nyan_cat_lost_in_space_v65536r.sfv	-	94	1	63271379	0	62

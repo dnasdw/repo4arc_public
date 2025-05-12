@@ -1,0 +1,14 @@
+sxs-stardew_valley_v262144.nfo	b815c118
+sxs-stardew_valley_v262144.r00	9e79abb6
+sxs-stardew_valley_v262144.r01	0117feec
+sxs-stardew_valley_v262144.r02	848c36ab
+sxs-stardew_valley_v262144.r03	af9bb5cf
+sxs-stardew_valley_v262144.r04	51fae10f
+sxs-stardew_valley_v262144.r05	26e956fd
+sxs-stardew_valley_v262144.r06	a3252bff
+sxs-stardew_valley_v262144.r07	af86cad6
+sxs-stardew_valley_v262144.r08	a92df9bf
+sxs-stardew_valley_v262144.r09	5220f7e8
+sxs-stardew_valley_v262144.r10	cee18ff9
+sxs-stardew_valley_v262144.rar	197a79eb
+sxs-stardew_valley_v262144.sfv	3a108441

@@ -1,0 +1,17 @@
+sxs-eldest_souls_v196608.nfo	6910bc38
+sxs-eldest_souls_v196608.r00	ca25f535
+sxs-eldest_souls_v196608.r01	24f3fd97
+sxs-eldest_souls_v196608.r02	b0d6760c
+sxs-eldest_souls_v196608.r03	32e742c6
+sxs-eldest_souls_v196608.r04	a815d6e3
+sxs-eldest_souls_v196608.r05	920ceb76
+sxs-eldest_souls_v196608.r06	36cc9003
+sxs-eldest_souls_v196608.r07	6390b79f
+sxs-eldest_souls_v196608.r08	2864883d
+sxs-eldest_souls_v196608.r09	958c0bf4
+sxs-eldest_souls_v196608.r10	cb66c454
+sxs-eldest_souls_v196608.r11	4df7436b
+sxs-eldest_souls_v196608.r12	456987fe
+sxs-eldest_souls_v196608.r13	701d03f8
+sxs-eldest_souls_v196608.rar	022482ec
+sxs-eldest_souls_v196608.sfv	9faa605f

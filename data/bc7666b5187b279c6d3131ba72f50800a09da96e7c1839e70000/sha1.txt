@@ -1,0 +1,6 @@
+sxs-unlock_the_king.nfo	c6079139ffde9052acca320f893b7aa5191941e0
+sxs-unlock_the_king.r00	125f36d359d5f7d5795909532c33fa2e08ad6a79
+sxs-unlock_the_king.r01	90ec92db1af5aeddb29174e584b92550afe6ac5b
+sxs-unlock_the_king.r02	34ff980dddf23c5d64dcac3bf670f92ac3172a24
+sxs-unlock_the_king.rar	e8840689551c08989f75756358bd46eb8d521036
+sxs-unlock_the_king.sfv	7727e6e2f188e167097b90807aac8cc6aaf6175d

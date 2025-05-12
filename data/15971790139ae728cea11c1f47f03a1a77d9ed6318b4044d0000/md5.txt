@@ -1,0 +1,16 @@
+lfc-rowa.nfo	37ce7041c2aa33176446962c9b18a0ae
+lfc-rowa.r00	f660e2214e0fc14507a9fba4718816aa
+lfc-rowa.r01	1b8d5ad12fc79fe0f5355dd2012b5d72
+lfc-rowa.r02	0a3e2d829253a5548f0cb0ebd755b41b
+lfc-rowa.r03	c451369f8b0b5913dfe82ccb70f6c6c7
+lfc-rowa.r04	431aefefab3cd3be322c995c9cdd0356
+lfc-rowa.r05	d230f3d7fc95fae929f1b9d3f7cd7095
+lfc-rowa.r06	01ae56e208968103dc7f038e6a64b802
+lfc-rowa.r07	d7f7010c702cebb3abf2fa7bd3982aa5
+lfc-rowa.r08	39ca456fa290fa96a1eafbbb97fe3539
+lfc-rowa.r09	b52dccacc4492006589bbd5d68eeee38
+lfc-rowa.r10	71c16f06d9243972d7e69424a9e22071
+lfc-rowa.r11	3a10493e45d08be3c32632320da0cff9
+lfc-rowa.r12	849fa5f84108dc8c0a9884186f838fc2
+lfc-rowa.rar	b1e2ca92fde81644147eed24d8f01fcf
+lfc-rowa.sfv	fdd5d4df02cedc13bacd2b22211f1b84

@@ -1,0 +1,8 @@
+sxs-trine_5_a_clockwork_conspiracy_v196608.nfo	-	4964	1	0	0	0
+sxs-trine_5_a_clockwork_conspiracy_v196608.r00	-	100000000	1	4964	0	1
+sxs-trine_5_a_clockwork_conspiracy_v196608.r01	-	100000000	1	100004964	0	97
+sxs-trine_5_a_clockwork_conspiracy_v196608.r02	-	100000000	1	200004964	0	193
+sxs-trine_5_a_clockwork_conspiracy_v196608.r03	-	100000000	1	300004964	0	289
+sxs-trine_5_a_clockwork_conspiracy_v196608.r04	-	94457592	1	400004964	0	385
+sxs-trine_5_a_clockwork_conspiracy_v196608.rar	-	100000000	1	494462556	0	476
+sxs-trine_5_a_clockwork_conspiracy_v196608.sfv	-	342	1	57008384	1	55

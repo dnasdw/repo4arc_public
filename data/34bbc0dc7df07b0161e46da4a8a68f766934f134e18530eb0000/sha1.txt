@@ -1,0 +1,6 @@
+v-ringo.nfo	31ecbcb545c2efdf5a671b53d4206539ae858fc9
+v-ringo.r00	1ce1bc7c543cefd62ee6f243b5dfa344b6f4a2c3
+v-ringo.r01	c879574b403326287d064e62a379d766bb6a33e1
+v-ringo.r02	2e2ae794265b71386b3be7339e7e0da41e6f1d5b
+v-ringo.rar	d572a2403a1bf03ae839d36c7babbade7c085586
+v-ringo.sfv	c4ac191e9020f065eaa2fd3cb3aeba971ba563f8

@@ -1,0 +1,11 @@
+sxs-wildbus_v262144.nfo	d5624349
+sxs-wildbus_v262144.r00	be65b603
+sxs-wildbus_v262144.r01	edd4c114
+sxs-wildbus_v262144.r02	bb7af314
+sxs-wildbus_v262144.r03	fbb1b7c8
+sxs-wildbus_v262144.r04	b717248a
+sxs-wildbus_v262144.r05	2e5bafb7
+sxs-wildbus_v262144.r06	ba83327e
+sxs-wildbus_v262144.r07	85776540
+sxs-wildbus_v262144.rar	eb258b49
+sxs-wildbus_v262144.sfv	2532963e

@@ -1,0 +1,4 @@
+bbb-n-ahdga.nfo	-	5517	1	0	0	0
+bbb-n-ahdga.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ahdga.part2.rar	-	8878878	1	250005517	0	240
+bbb-n-ahdga.sfv	-	64	1	258884395	0	249

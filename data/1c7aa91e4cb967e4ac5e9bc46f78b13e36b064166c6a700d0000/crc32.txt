@@ -1,0 +1,16 @@
+v-northgard.nfo	2cd6ac43
+v-northgard.r00	b669596a
+v-northgard.r01	13087894
+v-northgard.r02	9acb9bc3
+v-northgard.r03	4f0569fa
+v-northgard.r04	b1f50165
+v-northgard.r05	c64bf0d1
+v-northgard.r06	07700c2d
+v-northgard.r07	3bc2597b
+v-northgard.r08	71804271
+v-northgard.r09	dce68ef1
+v-northgard.r10	fbb5dab1
+v-northgard.r11	dec1b854
+v-northgard.r12	a33e851f
+v-northgard.rar	34d18a12
+v-northgard.sfv	abed31e0

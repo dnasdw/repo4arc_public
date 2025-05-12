@@ -1,0 +1,4 @@
+sxs-gem_wizards_tactics_v65536.nfo	83c7e800
+sxs-gem_wizards_tactics_v65536.r00	dc107203
+sxs-gem_wizards_tactics_v65536.rar	59b42dd7
+sxs-gem_wizards_tactics_v65536.sfv	4435b3c8

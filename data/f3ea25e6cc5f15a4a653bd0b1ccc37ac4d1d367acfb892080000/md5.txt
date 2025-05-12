@@ -1,0 +1,3 @@
+v-arcoa_dlc.nfo	120ef38b22b1ca6bb9f42df1e9488942
+v-arcoa_dlc.rar	c35067fc482533fd2d15cc261883843b
+v-arcoa_dlc.sfv	014e4bd83034b61f444fdb0300e45d90

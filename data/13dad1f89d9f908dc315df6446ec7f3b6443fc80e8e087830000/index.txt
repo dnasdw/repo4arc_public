@@ -1,0 +1,3 @@
+sxs-station_117_v65536.nfo	-	6446	1	0	0	0
+sxs-station_117_v65536.rar	-	33127977	1	6446	0	1
+sxs-station_117_v65536.sfv	-	37	1	33134423	0	33

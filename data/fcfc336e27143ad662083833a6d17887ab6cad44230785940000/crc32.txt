@@ -1,0 +1,10 @@
+sxs-two_point_hospital_v65536.nfo	5657a5f0
+sxs-two_point_hospital_v65536.r00	9ea771ad
+sxs-two_point_hospital_v65536.r01	7184c1fb
+sxs-two_point_hospital_v65536.r02	126b4377
+sxs-two_point_hospital_v65536.r03	d25d6f91
+sxs-two_point_hospital_v65536.r04	34762738
+sxs-two_point_hospital_v65536.r05	0458dab3
+sxs-two_point_hospital_v65536.r06	a97abffa
+sxs-two_point_hospital_v65536.rar	cc20d2a7
+sxs-two_point_hospital_v65536.sfv	51c214dd

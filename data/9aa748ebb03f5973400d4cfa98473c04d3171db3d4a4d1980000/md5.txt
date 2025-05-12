@@ -1,0 +1,6 @@
+sxs-sally_face_v131072.nfo	36225d4ce8d58fe7986154145712afe3
+sxs-sally_face_v131072.r00	dacc59e0e132d0b145504b9ec02267c1
+sxs-sally_face_v131072.r01	d71af6a68b075fb4793aff3138f835e8
+sxs-sally_face_v131072.r02	3b8ab58b00095522c873c566dc3f92c2
+sxs-sally_face_v131072.rar	4be4e8d54c6866bbfabdf1596eaf31aa
+sxs-sally_face_v131072.sfv	85ecffb581378f4fec962a7bbdaf5fc1

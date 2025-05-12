@@ -1,0 +1,13 @@
+v-sumohd_v131072.nfo	4507d8e7
+v-sumohd_v131072.r00	2c2e1b91
+v-sumohd_v131072.r01	161898a2
+v-sumohd_v131072.r02	dc10800d
+v-sumohd_v131072.r03	412f7ed5
+v-sumohd_v131072.r04	031de494
+v-sumohd_v131072.r05	efbf339e
+v-sumohd_v131072.r06	6d99ebd5
+v-sumohd_v131072.r07	52d8d761
+v-sumohd_v131072.r08	8dc84c56
+v-sumohd_v131072.r09	0aa95683
+v-sumohd_v131072.rar	6d9c33a8
+v-sumohd_v131072.sfv	5fdacf6a

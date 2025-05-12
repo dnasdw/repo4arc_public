@@ -1,0 +1,17 @@
+v-monster_hunter_rise_v196608.nfo	-	5044	1	0	0	0
+v-monster_hunter_rise_v196608.r00	-	50000000	1	5044	0	1
+v-monster_hunter_rise_v196608.r01	-	50000000	1	50005044	0	49
+v-monster_hunter_rise_v196608.r02	-	50000000	1	100005044	0	97
+v-monster_hunter_rise_v196608.r03	-	50000000	1	150005044	0	145
+v-monster_hunter_rise_v196608.r04	-	50000000	1	200005044	0	193
+v-monster_hunter_rise_v196608.r05	-	50000000	1	250005044	0	241
+v-monster_hunter_rise_v196608.r06	-	50000000	1	300005044	0	289
+v-monster_hunter_rise_v196608.r07	-	50000000	1	350005044	0	337
+v-monster_hunter_rise_v196608.r08	-	50000000	1	400005044	0	385
+v-monster_hunter_rise_v196608.r09	-	50000000	1	450005044	0	433
+v-monster_hunter_rise_v196608.r10	-	50000000	1	500005044	0	481
+v-monster_hunter_rise_v196608.r11	-	50000000	1	12251264	1	12
+v-monster_hunter_rise_v196608.r12	-	50000000	1	62251264	1	60
+v-monster_hunter_rise_v196608.r13	-	25924682	1	112251264	1	108
+v-monster_hunter_rise_v196608.rar	-	50000000	1	138175946	1	133
+v-monster_hunter_rise_v196608.sfv	-	660	1	188175946	1	181

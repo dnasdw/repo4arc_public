@@ -1,0 +1,4 @@
+v-nascar_arcade_rush_v65536.nfo	-	5590	1	0	0	0
+v-nascar_arcade_rush_v65536.r00	-	18033114	1	5590	0	1
+v-nascar_arcade_rush_v65536.rar	-	100000000	1	18038704	0	19
+v-nascar_arcade_rush_v65536.sfv	-	84	1	118038704	0	115

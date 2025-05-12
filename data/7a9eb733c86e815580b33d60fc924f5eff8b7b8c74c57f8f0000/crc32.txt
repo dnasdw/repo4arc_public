@@ -1,0 +1,15 @@
+sxs-minecraft_v1376256.nfo	80010eac
+sxs-minecraft_v1376256.r00	87c558e1
+sxs-minecraft_v1376256.r01	aae3e2b2
+sxs-minecraft_v1376256.r02	c54697a9
+sxs-minecraft_v1376256.r03	cea6fcd2
+sxs-minecraft_v1376256.r04	b2baa8f2
+sxs-minecraft_v1376256.r05	13c86881
+sxs-minecraft_v1376256.r06	4a9ee474
+sxs-minecraft_v1376256.r07	3fca1f69
+sxs-minecraft_v1376256.r08	a364f1dd
+sxs-minecraft_v1376256.r09	7f63a4e9
+sxs-minecraft_v1376256.r10	f919c86d
+sxs-minecraft_v1376256.r11	20edfea4
+sxs-minecraft_v1376256.rar	75e42e5f
+sxs-minecraft_v1376256.sfv	cd31348d

@@ -1,0 +1,8 @@
+sxs-cat_slide_tiles.nfo	64684393
+sxs-cat_slide_tiles.r00	c76bb492
+sxs-cat_slide_tiles.r01	ce6fd07c
+sxs-cat_slide_tiles.r02	3868d848
+sxs-cat_slide_tiles.r03	84a06140
+sxs-cat_slide_tiles.r04	a01e82b7
+sxs-cat_slide_tiles.rar	74d86e85
+sxs-cat_slide_tiles.sfv	07bfb5f4

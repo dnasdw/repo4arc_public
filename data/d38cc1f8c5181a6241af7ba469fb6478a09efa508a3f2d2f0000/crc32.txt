@@ -1,0 +1,15 @@
+lfc-drop.nfo	10d7141d
+lfc-drop.r00	8c9844aa
+lfc-drop.r01	9b6fb775
+lfc-drop.r02	66218111
+lfc-drop.r03	7bd61d6f
+lfc-drop.r04	33abb4fe
+lfc-drop.r05	3485cb83
+lfc-drop.r06	19c66509
+lfc-drop.r07	e85d1aba
+lfc-drop.r08	2e0630d8
+lfc-drop.r09	4f92c2d9
+lfc-drop.r10	49b9f746
+lfc-drop.r11	9cd4e4ab
+lfc-drop.rar	7ddeabb1
+lfc-drop.sfv	277ebeec

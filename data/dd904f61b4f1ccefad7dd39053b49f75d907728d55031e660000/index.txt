@@ -1,0 +1,4 @@
+bbb-n-adpxa.nfo	-	5517	1	0	0	0
+bbb-n-adpxa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-adpxa.part2.rar	-	142198411	1	250005517	0	240
+bbb-n-adpxa.sfv	-	64	1	392203928	0	376

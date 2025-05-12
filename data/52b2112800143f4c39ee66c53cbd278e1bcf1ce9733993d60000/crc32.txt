@@ -1,0 +1,10 @@
+sxs-shovel_knight_dig_v262144.nfo	928f0403
+sxs-shovel_knight_dig_v262144.r00	4941ae11
+sxs-shovel_knight_dig_v262144.r01	da866911
+sxs-shovel_knight_dig_v262144.r02	1f783836
+sxs-shovel_knight_dig_v262144.r03	b506ad8c
+sxs-shovel_knight_dig_v262144.r04	ce0089f2
+sxs-shovel_knight_dig_v262144.r05	233d8dd4
+sxs-shovel_knight_dig_v262144.r06	d58e69d5
+sxs-shovel_knight_dig_v262144.rar	8709efab
+sxs-shovel_knight_dig_v262144.sfv	aa2ada3c

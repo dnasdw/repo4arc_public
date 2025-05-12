@@ -1,0 +1,11 @@
+v-asteroids_recharged.nfo	-	5122	1	0	0	0
+v-asteroids_recharged.r00	-	50000000	1	5122	0	1
+v-asteroids_recharged.r01	-	50000000	1	50005122	0	49
+v-asteroids_recharged.r02	-	50000000	1	100005122	0	97
+v-asteroids_recharged.r03	-	50000000	1	150005122	0	145
+v-asteroids_recharged.r04	-	50000000	1	200005122	0	193
+v-asteroids_recharged.r05	-	50000000	1	250005122	0	241
+v-asteroids_recharged.r06	-	50000000	1	300005122	0	289
+v-asteroids_recharged.r07	-	45658203	1	350005122	0	337
+v-asteroids_recharged.rar	-	50000000	1	395663325	0	381
+v-asteroids_recharged.sfv	-	324	1	445663325	0	429

@@ -1,0 +1,3 @@
+sxs-disgaea_7_vows_of_the_virtueless_dlc.nfo	-	6134	1	0	0	0
+sxs-disgaea_7_vows_of_the_virtueless_dlc.rar	-	1975466	1	6134	0	1
+sxs-disgaea_7_vows_of_the_virtueless_dlc.sfv	-	55	1	1981600	0	3

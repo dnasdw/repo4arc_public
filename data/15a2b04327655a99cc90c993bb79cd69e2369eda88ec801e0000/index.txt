@@ -1,0 +1,4 @@
+v-bluey_the_videogame_v327680.nfo	-	5668	1	0	0	0
+v-bluey_the_videogame_v327680.r00	-	12278708	1	5668	0	1
+v-bluey_the_videogame_v327680.rar	-	100000000	1	12284376	0	13
+v-bluey_the_videogame_v327680.sfv	-	88	1	112284376	0	109

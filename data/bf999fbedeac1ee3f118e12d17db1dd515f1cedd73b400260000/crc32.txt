@@ -1,0 +1,6 @@
+v-metroid_dread_v65536.nfo	7887b101
+v-metroid_dread_v65536.r00	624bb3cb
+v-metroid_dread_v65536.r01	23bf28ba
+v-metroid_dread_v65536.r02	60910fb9
+v-metroid_dread_v65536.rar	6861941e
+v-metroid_dread_v65536.sfv	6fa7a49b

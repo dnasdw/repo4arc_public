@@ -1,0 +1,7 @@
+delight.nfo	ba336ed6
+dl-rimelands.r00	9cb8bcbf
+dl-rimelands.r01	2f298774
+dl-rimelands.r02	170f4ea6
+dl-rimelands.r03	0676222c
+dl-rimelands.rar	4b0b9b67
+dl-rimelands.sfv	9a5f8f6c

@@ -1,0 +1,5 @@
+v-dinosaurs_mission_dino_camp_v65536.nfo	fab76588
+v-dinosaurs_mission_dino_camp_v65536.r00	320d48ae
+v-dinosaurs_mission_dino_camp_v65536.r01	847df63e
+v-dinosaurs_mission_dino_camp_v65536.rar	9433c3d2
+v-dinosaurs_mission_dino_camp_v65536.sfv	65bca1ae

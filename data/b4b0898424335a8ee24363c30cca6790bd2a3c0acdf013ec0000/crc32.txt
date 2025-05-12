@@ -1,0 +1,12 @@
+v-soccer_tactics_and_glory_v65536.nfo	191c5109
+v-soccer_tactics_and_glory_v65536.r00	424af2d1
+v-soccer_tactics_and_glory_v65536.r01	1f873eaf
+v-soccer_tactics_and_glory_v65536.r02	5fa83664
+v-soccer_tactics_and_glory_v65536.r03	d2297b4a
+v-soccer_tactics_and_glory_v65536.r04	0cc47617
+v-soccer_tactics_and_glory_v65536.r05	68e371e5
+v-soccer_tactics_and_glory_v65536.r06	dcb06b0f
+v-soccer_tactics_and_glory_v65536.r07	d96a19ba
+v-soccer_tactics_and_glory_v65536.r08	13ac4e9b
+v-soccer_tactics_and_glory_v65536.rar	4bbb2299
+v-soccer_tactics_and_glory_v65536.sfv	188e6a7a

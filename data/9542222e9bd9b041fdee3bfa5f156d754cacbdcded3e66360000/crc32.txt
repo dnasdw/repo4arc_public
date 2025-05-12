@@ -1,0 +1,14 @@
+v-bomb_rush_cyberfunk_v196608.nfo	f389d969
+v-bomb_rush_cyberfunk_v196608.r00	38a41ed3
+v-bomb_rush_cyberfunk_v196608.r01	32e353a4
+v-bomb_rush_cyberfunk_v196608.r02	c3febf71
+v-bomb_rush_cyberfunk_v196608.r03	de02956c
+v-bomb_rush_cyberfunk_v196608.r04	d3eedbc5
+v-bomb_rush_cyberfunk_v196608.r05	7e8bb723
+v-bomb_rush_cyberfunk_v196608.r06	e089b57e
+v-bomb_rush_cyberfunk_v196608.r07	74858ca4
+v-bomb_rush_cyberfunk_v196608.r08	d79bd411
+v-bomb_rush_cyberfunk_v196608.r09	4a443f84
+v-bomb_rush_cyberfunk_v196608.r10	16c08f51
+v-bomb_rush_cyberfunk_v196608.rar	be4507ac
+v-bomb_rush_cyberfunk_v196608.sfv	be3aff0d

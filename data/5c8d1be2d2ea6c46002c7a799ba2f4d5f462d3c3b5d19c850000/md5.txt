@@ -1,0 +1,9 @@
+delight.nfo	eebbd3a69f8febbcd5ad3a032721e231
+dl-moderntales.r00	be6a4963a71224caa28d05784b78ab26
+dl-moderntales.r01	9d3c5ae37b4d9b78afa8d5394fe9ab8d
+dl-moderntales.r02	fe1aa017fb044caa979e1e8f875b41b0
+dl-moderntales.r03	a15cbf3090949694fbb523cbdf90432f
+dl-moderntales.r04	3ad029ed5aa853cfce18161fd2a68d48
+dl-moderntales.r05	0ceea44a90b82df8ad151079a847bf84
+dl-moderntales.rar	33d73e74e96967e40a9b3f4565aadd77
+dl-moderntales.sfv	7aa4cd99eda4489529deb5a5d4e61cc4

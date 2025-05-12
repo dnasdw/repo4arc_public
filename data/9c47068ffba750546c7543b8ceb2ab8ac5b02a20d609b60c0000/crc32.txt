@@ -1,0 +1,9 @@
+v-doublecross_v131072.nfo	3f926c09
+v-doublecross_v131072.r00	975a2063
+v-doublecross_v131072.r01	50840298
+v-doublecross_v131072.r02	7b95c6ab
+v-doublecross_v131072.r03	cbcdcfe3
+v-doublecross_v131072.r04	d2253da3
+v-doublecross_v131072.r05	63dabd63
+v-doublecross_v131072.rar	ec14cc30
+v-doublecross_v131072.sfv	8058433a

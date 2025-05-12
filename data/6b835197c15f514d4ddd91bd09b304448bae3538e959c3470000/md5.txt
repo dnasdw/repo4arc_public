@@ -1,0 +1,14 @@
+lfc-ayw8a.nfo	37a0c75783d514ad7fe3c0660fb55fce
+lfc-ayw8a.r00	e26a89ac33629ea7556e6cc608d0701a
+lfc-ayw8a.r01	e35965266cec542ba44dd587d62bd3d2
+lfc-ayw8a.r02	22e389faaea1f8a2bcc02eda9e60b9bb
+lfc-ayw8a.r03	dbcf8c342d836a040fc4a826daa10032
+lfc-ayw8a.r04	bc3372de22cf536ae64c753295dbaf37
+lfc-ayw8a.r05	86b056ccea0a630ed36dd0541abed7c0
+lfc-ayw8a.r06	f38af0d04ecbde4cbd83c715af2fdf20
+lfc-ayw8a.r07	702865ca60c85eca1a15687acfcab6ce
+lfc-ayw8a.r08	c7ee911849a808e2f76c042e24b172e1
+lfc-ayw8a.rar	1d9f817f0b1d36b4c30451a73cb251fd
+lfc-ayw8a.sfv	172f4392e4ccca3d7847abefec6242d7
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/lfc-ayw8a.jpg	58f15b232654b2c63e06877c1fde327f

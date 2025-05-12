@@ -1,0 +1,12 @@
+sxs-lichtspeer_double_speer_edition_v262144.nfo	0bb95b9c
+sxs-lichtspeer_double_speer_edition_v262144.r00	85e06aa4
+sxs-lichtspeer_double_speer_edition_v262144.r01	2d3acffe
+sxs-lichtspeer_double_speer_edition_v262144.r02	3964faf1
+sxs-lichtspeer_double_speer_edition_v262144.r03	2ca8bf60
+sxs-lichtspeer_double_speer_edition_v262144.r04	25f39ab3
+sxs-lichtspeer_double_speer_edition_v262144.r05	1f54727e
+sxs-lichtspeer_double_speer_edition_v262144.r06	bcfed139
+sxs-lichtspeer_double_speer_edition_v262144.r07	c3bd596c
+sxs-lichtspeer_double_speer_edition_v262144.r08	40b0a0aa
+sxs-lichtspeer_double_speer_edition_v262144.rar	71c664cf
+sxs-lichtspeer_double_speer_edition_v262144.sfv	cf2cc3f2

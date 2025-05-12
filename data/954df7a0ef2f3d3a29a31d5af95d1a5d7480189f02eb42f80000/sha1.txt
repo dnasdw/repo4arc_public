@@ -1,0 +1,3 @@
+v-atelier_ryza_v65536_dlc.nfo	28166a2682937b33e9c854c74a794abd1bad9ec4
+v-atelier_ryza_v65536_dlc.rar	388d11f01d4283fc627315c649b3dc41bde89030
+v-atelier_ryza_v65536_dlc.sfv	9b8dd1afd9a684bdf071ef2186cfd77d38f24f2c

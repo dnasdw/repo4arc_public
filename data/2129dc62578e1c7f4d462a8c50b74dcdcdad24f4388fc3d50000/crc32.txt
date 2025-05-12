@@ -1,0 +1,8 @@
+sxs-puzzletronics_digital_infinite.nfo	492f8648
+sxs-puzzletronics_digital_infinite.r00	d0e9d01d
+sxs-puzzletronics_digital_infinite.r01	7d58dc4a
+sxs-puzzletronics_digital_infinite.r02	aa513407
+sxs-puzzletronics_digital_infinite.r03	519d6d4f
+sxs-puzzletronics_digital_infinite.r04	fffc967d
+sxs-puzzletronics_digital_infinite.rar	7a544045
+sxs-puzzletronics_digital_infinite.sfv	adab7783

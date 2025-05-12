@@ -1,0 +1,4 @@
+sxs-pyramid_quest_v262144.nfo	-	4418	1	0	0	0
+sxs-pyramid_quest_v262144.r00	-	40570576	1	4418	0	1
+sxs-pyramid_quest_v262144.rar	-	50000000	1	40574994	0	40
+sxs-pyramid_quest_v262144.sfv	-	80	1	90574994	0	88

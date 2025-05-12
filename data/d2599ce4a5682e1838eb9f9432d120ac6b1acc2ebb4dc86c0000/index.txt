@@ -1,0 +1,4 @@
+sxs-slay_the_spire_v65536.nfo	-	4730	1	0	0	0
+sxs-slay_the_spire_v65536.r00	-	8413137	1	4730	0	1
+sxs-slay_the_spire_v65536.rar	-	50000000	1	8417867	0	10
+sxs-slay_the_spire_v65536.sfv	-	80	1	58417867	0	58

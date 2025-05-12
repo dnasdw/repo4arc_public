@@ -1,0 +1,7 @@
+darkmoon-demetrios.the.big.cynical.adventure.eshop.nsw.nfo	-	16696	1	0	0	0
+darkmoon-demetrios.the.big.cynical.adventure.eshop.nsw.r00	-	50000000	1	16696	0	1
+darkmoon-demetrios.the.big.cynical.adventure.eshop.nsw.r01	-	50000000	1	50016696	0	49
+darkmoon-demetrios.the.big.cynical.adventure.eshop.nsw.r02	-	50000000	1	100016696	0	97
+darkmoon-demetrios.the.big.cynical.adventure.eshop.nsw.r03	-	17096136	1	150016696	0	145
+darkmoon-demetrios.the.big.cynical.adventure.eshop.nsw.rar	-	50000000	1	167112832	0	162
+darkmoon-demetrios.the.big.cynical.adventure.eshop.nsw.sfv	-	345	1	217112832	0	210

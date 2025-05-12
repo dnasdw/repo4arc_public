@@ -1,0 +1,16 @@
+i-cos_v131072.nfo	e3176b32
+i-cos_v131072.r00	f989d23c
+i-cos_v131072.r01	5b26a718
+i-cos_v131072.r02	152ba410
+i-cos_v131072.r03	d15fdd88
+i-cos_v131072.r04	911c93be
+i-cos_v131072.r05	0a9a46e0
+i-cos_v131072.r06	59c96802
+i-cos_v131072.r07	0afc49fa
+i-cos_v131072.r08	8f84c200
+i-cos_v131072.r09	32939fcd
+i-cos_v131072.r10	9b3a872b
+i-cos_v131072.r11	bbc31d3d
+i-cos_v131072.r12	3ea4742c
+i-cos_v131072.rar	d5994b75
+i-cos_v131072.sfv	9ce8696b

@@ -1,0 +1,14 @@
+v-steamworld_v262144.nfo	3b900d57
+v-steamworld_v262144.r00	827d4d66
+v-steamworld_v262144.r01	e61462ab
+v-steamworld_v262144.r02	91d8b2f0
+v-steamworld_v262144.r03	be1a359f
+v-steamworld_v262144.r04	05d266c3
+v-steamworld_v262144.r05	7b57263c
+v-steamworld_v262144.r06	627dc4c3
+v-steamworld_v262144.r07	e48e7ae8
+v-steamworld_v262144.r08	880b0d90
+v-steamworld_v262144.r09	37c4ca57
+v-steamworld_v262144.r10	d328fcb3
+v-steamworld_v262144.rar	b9594231
+v-steamworld_v262144.sfv	2b1bbe5a

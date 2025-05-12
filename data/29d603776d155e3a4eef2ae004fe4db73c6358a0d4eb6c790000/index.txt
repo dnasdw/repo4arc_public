@@ -1,0 +1,10 @@
+v-winter_games_challenge.nfo	-	5980	1	0	0	0
+v-winter_games_challenge.r00	-	100000000	1	5980	0	1
+v-winter_games_challenge.r01	-	100000000	1	100005980	0	97
+v-winter_games_challenge.r02	-	100000000	1	200005980	0	193
+v-winter_games_challenge.r03	-	100000000	1	300005980	0	289
+v-winter_games_challenge.r04	-	100000000	1	400005980	0	385
+v-winter_games_challenge.r05	-	100000000	1	500005980	0	481
+v-winter_games_challenge.r06	-	33513983	1	62251264	1	60
+v-winter_games_challenge.rar	-	100000000	1	95765247	1	92
+v-winter_games_challenge.sfv	-	312	1	195765247	1	188

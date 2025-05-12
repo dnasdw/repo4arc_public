@@ -1,0 +1,10 @@
+sxs-cuphead_v458752.nfo	472fc4c9
+sxs-cuphead_v458752.r00	d60c69b7
+sxs-cuphead_v458752.r01	5165b666
+sxs-cuphead_v458752.r02	d70adb67
+sxs-cuphead_v458752.r03	5be05ae2
+sxs-cuphead_v458752.r04	d7a9e16f
+sxs-cuphead_v458752.r05	8c7b0512
+sxs-cuphead_v458752.r06	d8c6a41a
+sxs-cuphead_v458752.rar	27423275
+sxs-cuphead_v458752.sfv	73c71a8d

@@ -1,0 +1,9 @@
+jrp-as3ma-jpn.nfo	65b524413e4dd7212d58e5cde7cb9dd0
+jrp-as3ma-jpn.r00	76969e2a31698e6ad82f2354551797d2
+jrp-as3ma-jpn.r01	a47a1623b2bbc44c2db69e5960d3dd57
+jrp-as3ma-jpn.r02	509e5f10aebc98da886ac7b951e6338c
+jrp-as3ma-jpn.r03	5516c3a5c97dbbde96745b50cb3600e7
+jrp-as3ma-jpn.r04	3ca5881953210e69e9374bc959dec579
+jrp-as3ma-jpn.r05	4abfa802797d68e7dd30bbc03fd3969b
+jrp-as3ma-jpn.rar	623826f2fb039af0ad756c732b94f047
+jrp-as3ma-jpn.sfv	fec08b092a31d9975a8160189cc6bb80

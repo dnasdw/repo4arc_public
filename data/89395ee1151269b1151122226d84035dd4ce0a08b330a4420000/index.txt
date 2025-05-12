@@ -1,0 +1,8 @@
+v-r-type_final_2_dlc_set_2.nfo	-	4966	1	0	0	0
+v-r-type_final_2_dlc_set_2.r00	-	50000000	1	4966	0	1
+v-r-type_final_2_dlc_set_2.r01	-	50000000	1	50004966	0	49
+v-r-type_final_2_dlc_set_2.r02	-	50000000	1	100004966	0	97
+v-r-type_final_2_dlc_set_2.r03	-	50000000	1	150004966	0	145
+v-r-type_final_2_dlc_set_2.r04	-	49510444	1	200004966	0	193
+v-r-type_final_2_dlc_set_2.rar	-	50000000	1	249515410	0	241
+v-r-type_final_2_dlc_set_2.sfv	-	246	1	299515410	0	289

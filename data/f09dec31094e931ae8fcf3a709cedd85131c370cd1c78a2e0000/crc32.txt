@@ -1,0 +1,9 @@
+sxs-mad_games_tycoon_v65536.nfo	02c428af
+sxs-mad_games_tycoon_v65536.r00	0359a17d
+sxs-mad_games_tycoon_v65536.r01	22df0a6c
+sxs-mad_games_tycoon_v65536.r02	34019c46
+sxs-mad_games_tycoon_v65536.r03	6141bd2d
+sxs-mad_games_tycoon_v65536.r04	54ae49b5
+sxs-mad_games_tycoon_v65536.r05	927532b4
+sxs-mad_games_tycoon_v65536.rar	70c63e0f
+sxs-mad_games_tycoon_v65536.sfv	e2ec3832

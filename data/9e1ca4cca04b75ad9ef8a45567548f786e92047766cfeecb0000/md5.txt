@@ -1,0 +1,4 @@
+sxs-absolute_drift_v196608.nfo	4948add9208656b35c05947ed8486f2d
+sxs-absolute_drift_v196608.r00	723201e4db725fff09e47a02f689656f
+sxs-absolute_drift_v196608.rar	01bd56f05e86394a99ff69cb60d6ab77
+sxs-absolute_drift_v196608.sfv	4be1042be0f7aaa69108cf09cbd302c0

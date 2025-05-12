@@ -1,0 +1,4 @@
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v65536.nfo	-	7928	1	0	0	0
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v65536.r00	-	7105703	1	7928	0	1
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v65536.rar	-	50000000	1	7113631	0	8
+sxs-teenage_mutant_ninja_turtles_the_cowabunga_collection_v65536.sfv	-	158	1	57113631	0	56

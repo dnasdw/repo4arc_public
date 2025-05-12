@@ -1,0 +1,10 @@
+sxs-moving_out_demo.nfo	-	7616	1	0	0	0
+sxs-moving_out_demo.r00	-	50000000	1	7616	0	1
+sxs-moving_out_demo.r01	-	50000000	1	50007616	0	49
+sxs-moving_out_demo.r02	-	50000000	1	100007616	0	97
+sxs-moving_out_demo.r03	-	50000000	1	150007616	0	145
+sxs-moving_out_demo.r04	-	50000000	1	200007616	0	193
+sxs-moving_out_demo.r05	-	50000000	1	250007616	0	241
+sxs-moving_out_demo.r06	-	34493918	1	300007616	0	289
+sxs-moving_out_demo.rar	-	50000000	1	334501534	0	322
+sxs-moving_out_demo.sfv	-	272	1	384501534	0	370

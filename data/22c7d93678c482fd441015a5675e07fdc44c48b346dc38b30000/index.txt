@@ -1,0 +1,5 @@
+sxs-move_or_die_unleashed_v327680.nfo	-	9644	1	0	0	0
+sxs-move_or_die_unleashed_v327680.r00	-	100000000	1	9644	0	1
+sxs-move_or_die_unleashed_v327680.r01	-	54422153	1	100009644	0	97
+sxs-move_or_die_unleashed_v327680.rar	-	100000000	1	154431797	0	149
+sxs-move_or_die_unleashed_v327680.sfv	-	144	1	254431797	0	245

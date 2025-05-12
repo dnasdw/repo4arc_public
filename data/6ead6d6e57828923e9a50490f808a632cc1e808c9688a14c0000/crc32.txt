@@ -1,0 +1,8 @@
+lfc-njmc_v131072.nfo	7cbaccc5
+lfc-njmc_v131072.r00	4003ea0c
+lfc-njmc_v131072.r01	46533a58
+lfc-njmc_v131072.r02	c8e6000b
+lfc-njmc_v131072.r03	e1e4be3f
+lfc-njmc_v131072.r04	222ca35c
+lfc-njmc_v131072.rar	d120e355
+lfc-njmc_v131072.sfv	6ecee8ff

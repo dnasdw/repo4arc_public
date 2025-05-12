@@ -1,0 +1,13 @@
+sxs-escape_doodland.nfo	c569240f
+sxs-escape_doodland.r00	59441d70
+sxs-escape_doodland.r01	d6556f87
+sxs-escape_doodland.r02	134d43ec
+sxs-escape_doodland.r03	e4090ce0
+sxs-escape_doodland.r04	fa1ebb89
+sxs-escape_doodland.r05	aab57da6
+sxs-escape_doodland.r06	eb282443
+sxs-escape_doodland.r07	6134863e
+sxs-escape_doodland.r08	7f4a2468
+sxs-escape_doodland.r09	fccc3756
+sxs-escape_doodland.rar	a749d9fb
+sxs-escape_doodland.sfv	876e19ff

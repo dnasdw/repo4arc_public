@@ -1,0 +1,12 @@
+cat-arcwa.jpg	77748fa6
+cat-arcwa.nfo	ace70552
+cat-arcwa.r00	c31fe7d1
+cat-arcwa.r01	6f2534d3
+cat-arcwa.r02	1a58d615
+cat-arcwa.r03	0b7cc28a
+cat-arcwa.r04	0609aa8a
+cat-arcwa.r05	d22184c2
+cat-arcwa.r06	33e447dc
+cat-arcwa.r07	fd6012d3
+cat-arcwa.rar	fb3567b2
+cat-arcwa.sfv	c6f02346

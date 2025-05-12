@@ -1,0 +1,9 @@
+v-code_shifter.nfo	01510f3b9730fce8964db39ec29ae59533d3936d
+v-code_shifter.r00	6a1dc4d2e8d929733f6ca0483f52be709f316b4c
+v-code_shifter.r01	70e3f01a6fd19e6c970d9b59e9cd85233837cc62
+v-code_shifter.r02	1d06dc36f63ed320cd50c0b0e288cdc14ca14210
+v-code_shifter.r03	1e564b172026531986ae974d778a295d66cfe260
+v-code_shifter.r04	f23bb3a7f5494441ff4a694ba929305d44adcf94
+v-code_shifter.r05	72fac94fda3e05e527ace8983e667d58bde2d86d
+v-code_shifter.rar	aeb49dfa991d87990b1c9fd10ab881b4921fa44b
+v-code_shifter.sfv	6107a317803df86aa96456ac4ac2753bfa2ee9a1

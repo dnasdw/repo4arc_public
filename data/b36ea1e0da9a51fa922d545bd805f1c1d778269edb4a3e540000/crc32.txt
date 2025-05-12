@@ -1,0 +1,8 @@
+sxs-fifa_20_legacy_edition_v131072.nfo	55db2b33
+sxs-fifa_20_legacy_edition_v131072.r00	66e65789
+sxs-fifa_20_legacy_edition_v131072.r01	27e3c997
+sxs-fifa_20_legacy_edition_v131072.r02	372b753b
+sxs-fifa_20_legacy_edition_v131072.r03	2cab3541
+sxs-fifa_20_legacy_edition_v131072.r04	b3d7cb1f
+sxs-fifa_20_legacy_edition_v131072.rar	7404e575
+sxs-fifa_20_legacy_edition_v131072.sfv	db8e032a

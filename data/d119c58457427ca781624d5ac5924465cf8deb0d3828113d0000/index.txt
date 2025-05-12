@@ -1,0 +1,9 @@
+sxs-the_bonfire_forsaken_lands.nfo	-	4730	1	0	0	0
+sxs-the_bonfire_forsaken_lands.r00	-	50000000	1	4730	0	1
+sxs-the_bonfire_forsaken_lands.r01	-	50000000	1	50004730	0	49
+sxs-the_bonfire_forsaken_lands.r02	-	50000000	1	100004730	0	97
+sxs-the_bonfire_forsaken_lands.r03	-	50000000	1	150004730	0	145
+sxs-the_bonfire_forsaken_lands.r04	-	50000000	1	200004730	0	193
+sxs-the_bonfire_forsaken_lands.r05	-	48185261	1	250004730	0	241
+sxs-the_bonfire_forsaken_lands.rar	-	50000000	1	298189991	0	287
+sxs-the_bonfire_forsaken_lands.sfv	-	315	1	348189991	0	335

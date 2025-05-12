@@ -1,0 +1,6 @@
+nnssww_devastator.nfo	-	1115	1	0	0	0
+nnssww_devastator.r00	-	50000000	1	1115	0	1
+nnssww_devastator.r01	-	50000000	1	50001115	0	49
+nnssww_devastator.r02	-	49599780	1	100001115	0	97
+nnssww_devastator.rar	-	50000000	1	149600895	0	145
+nnssww_devastator.sfv	-	128	1	199600895	0	193

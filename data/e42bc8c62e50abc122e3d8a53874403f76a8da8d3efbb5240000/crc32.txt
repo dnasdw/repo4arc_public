@@ -1,0 +1,10 @@
+lfc-ffsr_v65536.nfo	73027379
+lfc-ffsr_v65536.r00	c84f44f2
+lfc-ffsr_v65536.r01	a619355d
+lfc-ffsr_v65536.r02	1ff4901b
+lfc-ffsr_v65536.r03	22df6d42
+lfc-ffsr_v65536.r04	39acc16a
+lfc-ffsr_v65536.r05	a9316a71
+lfc-ffsr_v65536.r06	b7501fd2
+lfc-ffsr_v65536.rar	0e282efe
+lfc-ffsr_v65536.sfv	eb31f518

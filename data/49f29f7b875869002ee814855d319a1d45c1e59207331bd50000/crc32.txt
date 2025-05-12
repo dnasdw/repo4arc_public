@@ -1,0 +1,11 @@
+sxs-sail_forth.nfo	4faa14ef
+sxs-sail_forth.r00	0e1d2f52
+sxs-sail_forth.r01	16d9807a
+sxs-sail_forth.r02	1656ad84
+sxs-sail_forth.r03	7fa3616e
+sxs-sail_forth.r04	68626e62
+sxs-sail_forth.r05	b239c9d5
+sxs-sail_forth.r06	bd0e644e
+sxs-sail_forth.r07	ed98cc7c
+sxs-sail_forth.rar	c8f19673
+sxs-sail_forth.sfv	a82eddc2

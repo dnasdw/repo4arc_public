@@ -1,0 +1,7 @@
+v-fall_of_porcupine_v393216.nfo	-	7306	1	0	0	0
+v-fall_of_porcupine_v393216.r00	-	100000000	1	7306	0	1
+v-fall_of_porcupine_v393216.r01	-	100000000	1	100007306	0	97
+v-fall_of_porcupine_v393216.r02	-	100000000	1	200007306	0	193
+v-fall_of_porcupine_v393216.r03	-	15344100	1	300007306	0	289
+v-fall_of_porcupine_v393216.rar	-	100000000	1	315351406	0	304
+v-fall_of_porcupine_v393216.sfv	-	210	1	415351406	0	400

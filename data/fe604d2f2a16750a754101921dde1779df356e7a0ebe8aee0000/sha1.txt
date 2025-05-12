@@ -1,0 +1,3 @@
+sxs-color_zen_dlc.nfo	8a4c97c415511966e8fb01d9ae7ca7fefd97698c
+sxs-color_zen_dlc.rar	45c6f3983befed79f31e2edfe2dc9e505939b40e
+sxs-color_zen_dlc.sfv	f909f4263758d0d32ebe86bc26f4c7215c10d98b

@@ -1,0 +1,16 @@
+sxs-the_bluecoats_north_and_south_v196608.nfo	182bfe25
+sxs-the_bluecoats_north_and_south_v196608.r00	d45429d8
+sxs-the_bluecoats_north_and_south_v196608.r01	e242a51d
+sxs-the_bluecoats_north_and_south_v196608.r02	cd9c4fb8
+sxs-the_bluecoats_north_and_south_v196608.r03	747b0ae8
+sxs-the_bluecoats_north_and_south_v196608.r04	708aa56f
+sxs-the_bluecoats_north_and_south_v196608.r05	430b10e6
+sxs-the_bluecoats_north_and_south_v196608.r06	34bf4d51
+sxs-the_bluecoats_north_and_south_v196608.r07	04220644
+sxs-the_bluecoats_north_and_south_v196608.r08	f5444f1f
+sxs-the_bluecoats_north_and_south_v196608.r09	d8f07605
+sxs-the_bluecoats_north_and_south_v196608.r10	4b229047
+sxs-the_bluecoats_north_and_south_v196608.r11	99553fc0
+sxs-the_bluecoats_north_and_south_v196608.r12	8439bcd9
+sxs-the_bluecoats_north_and_south_v196608.rar	4244e17c
+sxs-the_bluecoats_north_and_south_v196608.sfv	6c34a53a

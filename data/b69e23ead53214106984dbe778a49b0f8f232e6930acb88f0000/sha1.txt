@@ -1,0 +1,5 @@
+sxs-hexologic_v110.nfo	533eeea9ca271b567c51b04233abb502f0cbba5b
+sxs-hexologic_v110.r00	d268a31912bdd867854e46dbc8c9cc3b038d08b4
+sxs-hexologic_v110.r01	3cf1ce635339a8e67ba6a9c85171fdb415bc4a9f
+sxs-hexologic_v110.rar	b9b84495543f588afb8fef450fb8d9d66afb54e2
+sxs-hexologic_v110.sfv	0a8ea5bd4e3a8ea6c5b2c0fac3a8c9caca942bb2

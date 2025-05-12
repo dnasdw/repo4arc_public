@@ -1,0 +1,5 @@
+sxs-elta7_v131072.nfo	9c0b6725
+sxs-elta7_v131072.r00	fe644c9f
+sxs-elta7_v131072.r01	033560f7
+sxs-elta7_v131072.rar	846b161e
+sxs-elta7_v131072.sfv	76871629

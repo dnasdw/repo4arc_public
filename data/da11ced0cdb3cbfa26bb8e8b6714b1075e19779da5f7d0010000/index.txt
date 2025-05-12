@@ -1,0 +1,15 @@
+bbb-n-mk8dkiosk.nfo	-	5517	1	0	0	0
+bbb-n-mk8dkiosk.part01.rar	-	250000000	1	5517	0	1
+bbb-n-mk8dkiosk.part02.rar	-	250000000	1	250005517	0	240
+bbb-n-mk8dkiosk.part03.rar	-	250000000	1	500005517	0	479
+bbb-n-mk8dkiosk.part04.rar	-	250000000	1	212251264	1	203
+bbb-n-mk8dkiosk.part05.rar	-	250000000	1	462251264	1	442
+bbb-n-mk8dkiosk.part06.rar	-	250000000	1	174502528	2	167
+bbb-n-mk8dkiosk.part07.rar	-	250000000	1	424502528	2	406
+bbb-n-mk8dkiosk.part08.rar	-	250000000	1	136753792	3	131
+bbb-n-mk8dkiosk.part09.rar	-	250000000	1	386753792	3	370
+bbb-n-mk8dkiosk.part10.rar	-	250000000	1	99005056	4	95
+bbb-n-mk8dkiosk.part11.rar	-	250000000	1	349005056	4	334
+bbb-n-mk8dkiosk.part12.rar	-	250000000	1	61256320	5	59
+bbb-n-mk8dkiosk.part13.rar	-	145284095	1	311256320	5	298
+bbb-n-mk8dkiosk.sfv	-	481	1	456540415	5	437

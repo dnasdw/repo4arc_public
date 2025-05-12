@@ -1,0 +1,13 @@
+nnssww-zombie_beyond_terror_fps_survival.nfo	-	1119	1	0	0	0
+nnssww-zombie_beyond_terror_fps_survival.r00	-	15000000	1	1119	0	1
+nnssww-zombie_beyond_terror_fps_survival.r01	-	15000000	1	15001119	0	16
+nnssww-zombie_beyond_terror_fps_survival.r02	-	15000000	1	30001119	0	31
+nnssww-zombie_beyond_terror_fps_survival.r03	-	15000000	1	45001119	0	46
+nnssww-zombie_beyond_terror_fps_survival.r04	-	15000000	1	60001119	0	61
+nnssww-zombie_beyond_terror_fps_survival.r05	-	15000000	1	75001119	0	76
+nnssww-zombie_beyond_terror_fps_survival.r06	-	15000000	1	90001119	0	91
+nnssww-zombie_beyond_terror_fps_survival.r07	-	15000000	1	105001119	0	106
+nnssww-zombie_beyond_terror_fps_survival.r08	-	15000000	1	120001119	0	121
+nnssww-zombie_beyond_terror_fps_survival.r09	-	11890096	1	135001119	0	136
+nnssww-zombie_beyond_terror_fps_survival.rar	-	15000000	1	146891215	0	148
+nnssww-zombie_beyond_terror_fps_survival.sfv	-	605	1	161891215	0	163

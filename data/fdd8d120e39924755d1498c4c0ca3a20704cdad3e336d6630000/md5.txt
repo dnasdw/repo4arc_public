@@ -1,0 +1,10 @@
+sxs-piggy_gambit.nfo	884e65f3e64b94b27ebec1863d3e76bc
+sxs-piggy_gambit.r00	4b9b0eeb644d1c4c0edb9025ad15a0b9
+sxs-piggy_gambit.r01	6cb1210cd5fd5cd0d041f7e3bd4bb6d8
+sxs-piggy_gambit.r02	e480db51bd862b7f180a6c5928fc3c3b
+sxs-piggy_gambit.r03	9692727f5b8f92bf65867b3c7529dd6e
+sxs-piggy_gambit.r04	0d25a0cbf5b0f9e88d4c92333756b4f8
+sxs-piggy_gambit.r05	6abf7d2c42924eb7555bd0e3dc9ec76b
+sxs-piggy_gambit.r06	3c71b207b00d60bec88a2392af130ea9
+sxs-piggy_gambit.rar	47e4669a9a53473cb25b406b00329899
+sxs-piggy_gambit.sfv	f341189c14d4fb46205fbb7650d32cfb

@@ -1,0 +1,6 @@
+lfc-wordify.nfo	356c381e
+lfc-wordify.r00	85e41509
+lfc-wordify.r01	6028d91c
+lfc-wordify.r02	63310af9
+lfc-wordify.rar	a8674929
+lfc-wordify.sfv	098ba1e2

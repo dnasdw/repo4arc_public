@@ -1,0 +1,15 @@
+sxs-rising_hell.nfo	5c78e7c5
+sxs-rising_hell.r00	1a1cb26d
+sxs-rising_hell.r01	5e6102c6
+sxs-rising_hell.r02	a837c475
+sxs-rising_hell.r03	84c9bd00
+sxs-rising_hell.r04	b1f78a4e
+sxs-rising_hell.r05	a3277bea
+sxs-rising_hell.r06	e6d177ec
+sxs-rising_hell.r07	36696819
+sxs-rising_hell.r08	74ddf9c4
+sxs-rising_hell.r09	dd2ddc40
+sxs-rising_hell.r10	8d39985d
+sxs-rising_hell.r11	f6b017f6
+sxs-rising_hell.rar	c65da825
+sxs-rising_hell.sfv	9ef4b9e1

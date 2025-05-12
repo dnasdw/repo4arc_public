@@ -1,0 +1,4 @@
+sxs-real_boxing_2_v65536.nfo	fca515b0011614c787dc291ecf6021aa
+sxs-real_boxing_2_v65536.r00	7d6e53cc71230f01c924813b4d383aca
+sxs-real_boxing_2_v65536.rar	5e9ccfeaf45442f9af7a7628bebb75e8
+sxs-real_boxing_2_v65536.sfv	13f53fe0e69f344b79aa55a4449b1080

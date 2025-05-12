@@ -1,0 +1,4 @@
+lfc-hopl_v65536.nfo	fbc74e1d3cd30da20e67d57fd5520494
+lfc-hopl_v65536.r00	979b766bc72723a4f90fe34a0bf2d946
+lfc-hopl_v65536.rar	e8fdca133eff28135d0fb16a77ec1beb
+lfc-hopl_v65536.sfv	b6c9405245e5ffc5e56ba54ed522d6f2

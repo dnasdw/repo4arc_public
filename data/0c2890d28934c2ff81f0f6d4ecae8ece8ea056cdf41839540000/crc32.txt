@@ -1,0 +1,7 @@
+sxs-necrosphere_deluxe.nfo	4445ed14
+sxs-necrosphere_deluxe.r00	e3e1e2d8
+sxs-necrosphere_deluxe.r01	bf9b45c0
+sxs-necrosphere_deluxe.r02	4f40e82a
+sxs-necrosphere_deluxe.r03	f7cab438
+sxs-necrosphere_deluxe.rar	54601b51
+sxs-necrosphere_deluxe.sfv	ec14cdb3

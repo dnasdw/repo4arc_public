@@ -1,0 +1,14 @@
+brw-lthf.nfo	dd493d71
+brw-lthf.r00	e269262c
+brw-lthf.r01	aaf89ada
+brw-lthf.r02	e251dd1a
+brw-lthf.r03	ca7660a1
+brw-lthf.r04	b60cc445
+brw-lthf.r05	8ef4d6b9
+brw-lthf.r06	bd18dfc2
+brw-lthf.r07	140f07df
+brw-lthf.r08	f389e504
+brw-lthf.r09	774c8a63
+brw-lthf.r10	59d9b57f
+brw-lthf.rar	c9e9cabd
+brw-lthf.sfv	0b9aa33d

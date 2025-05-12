@@ -1,0 +1,3 @@
+v-turbo_shell_v65536.nfo	11c2068b3a20da34bfc5b5dc5777dd29de90bbca
+v-turbo_shell_v65536.rar	a31635cbae4d64170027b44e6496215f4ae37454
+v-turbo_shell_v65536.sfv	4e6284e90977b0095a67635cc05b0b31cc040eed

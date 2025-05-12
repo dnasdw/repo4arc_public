@@ -1,0 +1,4 @@
+sxs-hidden_shapes_animals_plus_lovely_cats_v65536.nfo	-	5432	1	0	0	0
+sxs-hidden_shapes_animals_plus_lovely_cats_v65536.r00	-	24850028	1	5432	0	1
+sxs-hidden_shapes_animals_plus_lovely_cats_v65536.rar	-	50000000	1	24855460	0	25
+sxs-hidden_shapes_animals_plus_lovely_cats_v65536.sfv	-	128	1	74855460	0	73

@@ -1,0 +1,5 @@
+sxs-aca_neogeo_metal_slug_v131072.nfo	-	4964	1	0	0	0
+sxs-aca_neogeo_metal_slug_v131072.r00	-	50000000	1	4964	0	1
+sxs-aca_neogeo_metal_slug_v131072.r01	-	35181759	1	50004964	0	49
+sxs-aca_neogeo_metal_slug_v131072.rar	-	50000000	1	85186723	0	83
+sxs-aca_neogeo_metal_slug_v131072.sfv	-	144	1	135186723	0	131

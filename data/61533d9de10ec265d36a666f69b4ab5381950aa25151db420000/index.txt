@@ -1,0 +1,5 @@
+sxs-minekos_night_market_v262144.nfo	-	4886	1	0	0	0
+sxs-minekos_night_market_v262144.r00	-	100000000	1	4886	0	1
+sxs-minekos_night_market_v262144.r01	-	72804635	1	100004886	0	97
+sxs-minekos_night_market_v262144.rar	-	100000000	1	172809521	0	167
+sxs-minekos_night_market_v262144.sfv	-	141	1	272809521	0	263

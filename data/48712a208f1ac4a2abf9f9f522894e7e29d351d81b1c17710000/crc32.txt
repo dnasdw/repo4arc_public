@@ -1,0 +1,8 @@
+sxs-treadnauts_v65536.nfo	8de9f549
+sxs-treadnauts_v65536.r00	295aeff9
+sxs-treadnauts_v65536.r01	5bc1d4f8
+sxs-treadnauts_v65536.r02	3a115e84
+sxs-treadnauts_v65536.r03	b4af27ce
+sxs-treadnauts_v65536.r04	1977a286
+sxs-treadnauts_v65536.rar	2d566e1e
+sxs-treadnauts_v65536.sfv	2d1069c8

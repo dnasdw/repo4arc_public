@@ -1,0 +1,17 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-gotta_protectors_cart_of_darkness.jpg	-	126541	1	0	0	0
+sxs-gotta_protectors_cart_of_darkness.nfo	-	6998	1	126541	0	1
+sxs-gotta_protectors_cart_of_darkness.r00	-	100000000	1	133539	0	2
+sxs-gotta_protectors_cart_of_darkness.r01	-	100000000	1	100133539	0	98
+sxs-gotta_protectors_cart_of_darkness.r02	-	100000000	1	200133539	0	194
+sxs-gotta_protectors_cart_of_darkness.r03	-	100000000	1	300133539	0	290
+sxs-gotta_protectors_cart_of_darkness.r04	-	100000000	1	400133539	0	386
+sxs-gotta_protectors_cart_of_darkness.r05	-	100000000	1	500133539	0	482
+sxs-gotta_protectors_cart_of_darkness.r06	-	100000000	1	62251264	1	60
+sxs-gotta_protectors_cart_of_darkness.r07	-	100000000	1	162251264	1	156
+sxs-gotta_protectors_cart_of_darkness.r08	-	100000000	1	262251264	1	252
+sxs-gotta_protectors_cart_of_darkness.r09	-	100000000	1	362251264	1	348
+sxs-gotta_protectors_cart_of_darkness.r10	-	100000000	1	462251264	1	444
+sxs-gotta_protectors_cart_of_darkness.r11	-	29789336	1	24502528	2	24
+sxs-gotta_protectors_cart_of_darkness.rar	-	100000000	1	54291864	2	53
+sxs-gotta_protectors_cart_of_darkness.sfv	-	676	1	154291864	2	149

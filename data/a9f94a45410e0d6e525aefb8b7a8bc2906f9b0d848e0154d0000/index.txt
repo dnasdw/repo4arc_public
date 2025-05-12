@@ -1,0 +1,4 @@
+sxs-tasty_slot_machine.nfo	-	4886	1	0	0	0
+sxs-tasty_slot_machine.r00	-	12050380	1	4886	0	1
+sxs-tasty_slot_machine.rar	-	100000000	1	12055266	0	13
+sxs-tasty_slot_machine.sfv	-	74	1	112055266	0	109

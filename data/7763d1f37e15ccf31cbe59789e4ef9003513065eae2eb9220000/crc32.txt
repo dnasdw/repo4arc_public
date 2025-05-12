@@ -1,0 +1,6 @@
+sxs-sail_forth_v917504.nfo	9e426eba
+sxs-sail_forth_v917504.r00	be9bd7e4
+sxs-sail_forth_v917504.r01	580dc5a7
+sxs-sail_forth_v917504.r02	30c0fa71
+sxs-sail_forth_v917504.rar	2a5587ed
+sxs-sail_forth_v917504.sfv	faf71a87

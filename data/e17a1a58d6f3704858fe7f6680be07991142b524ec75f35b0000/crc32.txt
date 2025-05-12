@@ -1,0 +1,8 @@
+lfc-tabs_v131072.nfo	f267ceae
+lfc-tabs_v131072.r00	54efd2be
+lfc-tabs_v131072.r01	20b47954
+lfc-tabs_v131072.r02	b5a841fd
+lfc-tabs_v131072.r03	bab57743
+lfc-tabs_v131072.r04	1009a30e
+lfc-tabs_v131072.rar	17f65eed
+lfc-tabs_v131072.sfv	9caad1d0

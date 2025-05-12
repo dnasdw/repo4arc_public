@@ -1,0 +1,13 @@
+sxs-lets_sing_2019_extra_songs_dlc.nfo	-	6679	1	0	0	0
+sxs-lets_sing_2019_extra_songs_dlc.r00	-	50000000	1	6679	0	1
+sxs-lets_sing_2019_extra_songs_dlc.r01	-	50000000	1	50006679	0	49
+sxs-lets_sing_2019_extra_songs_dlc.r02	-	50000000	1	100006679	0	97
+sxs-lets_sing_2019_extra_songs_dlc.r03	-	50000000	1	150006679	0	145
+sxs-lets_sing_2019_extra_songs_dlc.r04	-	50000000	1	200006679	0	193
+sxs-lets_sing_2019_extra_songs_dlc.r05	-	50000000	1	250006679	0	241
+sxs-lets_sing_2019_extra_songs_dlc.r06	-	50000000	1	300006679	0	289
+sxs-lets_sing_2019_extra_songs_dlc.r07	-	50000000	1	350006679	0	337
+sxs-lets_sing_2019_extra_songs_dlc.r08	-	50000000	1	400006679	0	385
+sxs-lets_sing_2019_extra_songs_dlc.r09	-	37512313	1	450006679	0	433
+sxs-lets_sing_2019_extra_songs_dlc.rar	-	50000000	1	487518992	0	469
+sxs-lets_sing_2019_extra_songs_dlc.sfv	-	539	1	0	1	0

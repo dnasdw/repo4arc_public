@@ -1,0 +1,9 @@
+lfc-skdu_v131072.nfo	baa1fe66
+lfc-skdu_v131072.r00	e8bdc6de
+lfc-skdu_v131072.r01	aa157ceb
+lfc-skdu_v131072.r02	a260fb46
+lfc-skdu_v131072.r03	3a141d43
+lfc-skdu_v131072.r04	ff6d318c
+lfc-skdu_v131072.r05	8407e9ad
+lfc-skdu_v131072.rar	334af970
+lfc-skdu_v131072.sfv	0128a49d

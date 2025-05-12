@@ -1,0 +1,6 @@
+sxs-scribblenauts_mega_pack_v65536.nfo	631ba783
+sxs-scribblenauts_mega_pack_v65536.r00	0d6c8826
+sxs-scribblenauts_mega_pack_v65536.r01	f5aa63fc
+sxs-scribblenauts_mega_pack_v65536.r02	da34485d
+sxs-scribblenauts_mega_pack_v65536.rar	8828db95
+sxs-scribblenauts_mega_pack_v65536.sfv	db4f9895

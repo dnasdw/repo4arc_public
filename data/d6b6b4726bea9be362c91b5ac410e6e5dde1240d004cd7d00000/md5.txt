@@ -1,0 +1,5 @@
+sxs-mini_motorways_v458752.nfo	590d2f1f153f46f217b808eed88cd840
+sxs-mini_motorways_v458752.r00	5cb4f150e724a73ac9f2a1b58ff93d33
+sxs-mini_motorways_v458752.r01	47514a18514cd77bc3cdda7f0f89895b
+sxs-mini_motorways_v458752.rar	d3f8db4da2c4e2ed815944172d58201c
+sxs-mini_motorways_v458752.sfv	ec55100effd5cc8b0f6eccde90f0b38b

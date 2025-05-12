@@ -1,0 +1,3 @@
+sxs-twt_denis_shapovalov_dlc.nfo	-	4575	1	0	0	0
+sxs-twt_denis_shapovalov_dlc.rar	-	118534	1	4575	0	1
+sxs-twt_denis_shapovalov_dlc.sfv	-	43	1	123109	0	2

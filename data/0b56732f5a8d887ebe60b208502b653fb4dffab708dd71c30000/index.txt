@@ -1,0 +1,4 @@
+sxs-overdriven_evolution_v262144.nfo	-	7463	1	0	0	0
+sxs-overdriven_evolution_v262144.r00	-	33877310	1	7463	0	1
+sxs-overdriven_evolution_v262144.rar	-	50000000	1	33884773	0	34
+sxs-overdriven_evolution_v262144.sfv	-	94	1	83884773	0	82

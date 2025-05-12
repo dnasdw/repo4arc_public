@@ -1,0 +1,15 @@
+v-quake_v458752.nfo	9cfc8f8c
+v-quake_v458752.r00	6b66657d
+v-quake_v458752.r01	4d7e7dd6
+v-quake_v458752.r02	d53b326a
+v-quake_v458752.r03	6d4e7640
+v-quake_v458752.r04	2de085e7
+v-quake_v458752.r05	b0a13ebd
+v-quake_v458752.r06	1f5cae39
+v-quake_v458752.r07	f41c6eed
+v-quake_v458752.r08	264e27ae
+v-quake_v458752.r09	0201bad6
+v-quake_v458752.r10	e07a22fc
+v-quake_v458752.r11	8c89db99
+v-quake_v458752.rar	0fcf502d
+v-quake_v458752.sfv	c2761b0b

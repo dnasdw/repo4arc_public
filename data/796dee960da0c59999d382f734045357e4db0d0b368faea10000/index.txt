@@ -1,0 +1,10 @@
+sxs-ubermosh_black.nfo	-	4106	1	0	0	0
+sxs-ubermosh_black.r00	-	50000000	1	4106	0	1
+sxs-ubermosh_black.r01	-	50000000	1	50004106	0	49
+sxs-ubermosh_black.r02	-	50000000	1	100004106	0	97
+sxs-ubermosh_black.r03	-	50000000	1	150004106	0	145
+sxs-ubermosh_black.r04	-	50000000	1	200004106	0	193
+sxs-ubermosh_black.r05	-	50000000	1	250004106	0	241
+sxs-ubermosh_black.r06	-	30738880	1	300004106	0	289
+sxs-ubermosh_black.rar	-	50000000	1	330742986	0	319
+sxs-ubermosh_black.sfv	-	264	1	380742986	0	367

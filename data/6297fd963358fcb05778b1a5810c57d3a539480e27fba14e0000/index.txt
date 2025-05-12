@@ -1,0 +1,4 @@
+brw-bcru.nfo	-	4919	1	0	0	0
+brw-bcru.r00	-	41869202	1	4919	0	1
+brw-bcru.rar	-	50000000	1	41874121	0	41
+brw-bcru.sfv	-	46	1	91874121	0	89

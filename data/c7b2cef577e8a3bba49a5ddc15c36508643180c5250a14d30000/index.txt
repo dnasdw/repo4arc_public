@@ -1,0 +1,6 @@
+bbb-n-afyta.nfo	-	5517	1	0	0	0
+bbb-n-afyta.part1.rar	-	250000000	1	5517	0	1
+bbb-n-afyta.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-afyta.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-afyta.part4.rar	-	155883471	1	212251264	1	203
+bbb-n-afyta.sfv	-	128	1	368134735	1	352

@@ -1,0 +1,4 @@
+lfc-gala.nfo	-	6293	1	0	0	0
+lfc-gala.r00	-	35036638	1	6293	0	1
+lfc-gala.rar	-	50000000	1	35042931	0	35
+lfc-gala.sfv	-	46	1	85042931	0	83

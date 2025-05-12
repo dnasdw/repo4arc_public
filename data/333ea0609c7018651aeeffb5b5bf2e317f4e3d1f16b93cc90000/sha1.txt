@@ -1,0 +1,3 @@
+v-doom_ii_base_ganymede_dlc.nfo	6ef55ba12881c11d7059f0dc3396e440c5694159
+v-doom_ii_base_ganymede_dlc.rar	4f560ce3d07eadaa799c601e2d91237aa9784525
+v-doom_ii_base_ganymede_dlc.sfv	ad46ce78065d0d558b813af21b09a1a0d35d42eb

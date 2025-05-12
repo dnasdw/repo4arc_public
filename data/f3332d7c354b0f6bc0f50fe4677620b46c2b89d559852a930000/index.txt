@@ -1,0 +1,11 @@
+v-sniper_elite_v2_remastered_v262144.nfo	-	4655	1	0	0	0
+v-sniper_elite_v2_remastered_v262144.r00	-	50000000	1	4655	0	1
+v-sniper_elite_v2_remastered_v262144.r01	-	50000000	1	50004655	0	49
+v-sniper_elite_v2_remastered_v262144.r02	-	50000000	1	100004655	0	97
+v-sniper_elite_v2_remastered_v262144.r03	-	50000000	1	150004655	0	145
+v-sniper_elite_v2_remastered_v262144.r04	-	50000000	1	200004655	0	193
+v-sniper_elite_v2_remastered_v262144.r05	-	50000000	1	250004655	0	241
+v-sniper_elite_v2_remastered_v262144.r06	-	50000000	1	300004655	0	289
+v-sniper_elite_v2_remastered_v262144.r07	-	44015097	1	350004655	0	337
+v-sniper_elite_v2_remastered_v262144.rar	-	50000000	1	394019752	0	379
+v-sniper_elite_v2_remastered_v262144.sfv	-	459	1	444019752	0	427

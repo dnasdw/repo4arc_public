@@ -1,0 +1,17 @@
+v-ssbu_v327680.nfo	10b26949
+v-ssbu_v327680.r00	db0ac047
+v-ssbu_v327680.r01	99a7de8f
+v-ssbu_v327680.r02	a8ece355
+v-ssbu_v327680.r03	7a1bc3f7
+v-ssbu_v327680.r04	798f38a9
+v-ssbu_v327680.r05	3249464f
+v-ssbu_v327680.r06	190b9392
+v-ssbu_v327680.r07	1df5f021
+v-ssbu_v327680.r08	d42ebb74
+v-ssbu_v327680.r09	0af1bec0
+v-ssbu_v327680.r10	e012b9f7
+v-ssbu_v327680.r11	11c36099
+v-ssbu_v327680.r12	7a909aad
+v-ssbu_v327680.r13	892f5aa1
+v-ssbu_v327680.rar	e8bbe73a
+v-ssbu_v327680.sfv	3c1b0fb2

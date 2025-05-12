@@ -1,0 +1,13 @@
+v-rglgc.nfo	12d83bd7
+v-rglgc.r00	64e51171
+v-rglgc.r01	67dd89b6
+v-rglgc.r02	849e1640
+v-rglgc.r03	c20f0860
+v-rglgc.r04	dd851aaa
+v-rglgc.r05	0fe78eea
+v-rglgc.r06	b84ca8cc
+v-rglgc.r07	9627c73d
+v-rglgc.r08	9b9decca
+v-rglgc.r09	9999a16f
+v-rglgc.rar	56460a3c
+v-rglgc.sfv	1e2036a9

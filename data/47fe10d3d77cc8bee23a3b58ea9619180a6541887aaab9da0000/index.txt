@@ -1,0 +1,7 @@
+sxs-farm_for_your_life_v262144.nfo	-	4106	1	0	0	0
+sxs-farm_for_your_life_v262144.r00	-	50000000	1	4106	0	1
+sxs-farm_for_your_life_v262144.r01	-	50000000	1	50004106	0	49
+sxs-farm_for_your_life_v262144.r02	-	50000000	1	100004106	0	97
+sxs-farm_for_your_life_v262144.r03	-	16369112	1	150004106	0	145
+sxs-farm_for_your_life_v262144.rar	-	50000000	1	166373218	0	161
+sxs-farm_for_your_life_v262144.sfv	-	225	1	216373218	0	209

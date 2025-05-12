@@ -1,0 +1,15 @@
+sxs-agent_a_a_puzzle_in_disguise_v65536.nfo	57ee22be
+sxs-agent_a_a_puzzle_in_disguise_v65536.r00	90b83753
+sxs-agent_a_a_puzzle_in_disguise_v65536.r01	a96bd71a
+sxs-agent_a_a_puzzle_in_disguise_v65536.r02	531b5794
+sxs-agent_a_a_puzzle_in_disguise_v65536.r03	d4cc5a0f
+sxs-agent_a_a_puzzle_in_disguise_v65536.r04	47a32195
+sxs-agent_a_a_puzzle_in_disguise_v65536.r05	63222db3
+sxs-agent_a_a_puzzle_in_disguise_v65536.r06	509673b4
+sxs-agent_a_a_puzzle_in_disguise_v65536.r07	f8ee33fe
+sxs-agent_a_a_puzzle_in_disguise_v65536.r08	aa96080f
+sxs-agent_a_a_puzzle_in_disguise_v65536.r09	6c6c9eb3
+sxs-agent_a_a_puzzle_in_disguise_v65536.r10	35a2c876
+sxs-agent_a_a_puzzle_in_disguise_v65536.r11	7db33dc1
+sxs-agent_a_a_puzzle_in_disguise_v65536.rar	4eb5883a
+sxs-agent_a_a_puzzle_in_disguise_v65536.sfv	619c3b31

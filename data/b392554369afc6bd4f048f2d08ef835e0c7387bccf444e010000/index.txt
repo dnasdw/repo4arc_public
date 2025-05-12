@@ -1,0 +1,6 @@
+sxs-the_legend_of_dark_witch_v458752.nfo	-	5120	1	0	0	0
+sxs-the_legend_of_dark_witch_v458752.r00	-	50000000	1	5120	0	1
+sxs-the_legend_of_dark_witch_v458752.r01	-	50000000	1	50005120	0	49
+sxs-the_legend_of_dark_witch_v458752.r02	-	21336712	1	100005120	0	97
+sxs-the_legend_of_dark_witch_v458752.rar	-	50000000	1	121341832	0	118
+sxs-the_legend_of_dark_witch_v458752.sfv	-	204	1	171341832	0	166

@@ -1,0 +1,6 @@
+delight.nfo	-	8826	1	0	0	0
+dl-countrytales.r00	-	50000000	1	8826	0	1
+dl-countrytales.r01	-	50000000	1	50008826	0	49
+dl-countrytales.r02	-	43251230	1	100008826	0	97
+dl-countrytales.rar	-	50000000	1	143260056	0	139
+dl-countrytales.sfv	-	120	1	193260056	0	187

@@ -1,0 +1,6 @@
+sxs-freshly_frosted_v262144.nfo	-	5432	1	0	0	0
+sxs-freshly_frosted_v262144.r00	-	50000000	1	5432	0	1
+sxs-freshly_frosted_v262144.r01	-	50000000	1	50005432	0	49
+sxs-freshly_frosted_v262144.r02	-	41603340	1	100005432	0	97
+sxs-freshly_frosted_v262144.rar	-	50000000	1	141608772	0	137
+sxs-freshly_frosted_v262144.sfv	-	168	1	191608772	0	185

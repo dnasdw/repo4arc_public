@@ -1,0 +1,7 @@
+sxs-negligee.nfo	-	5276	1	0	0	0
+sxs-negligee.r00	-	100000000	1	5276	0	1
+sxs-negligee.r01	-	100000000	1	100005276	0	97
+sxs-negligee.r02	-	100000000	1	200005276	0	193
+sxs-negligee.r03	-	51267981	1	300005276	0	289
+sxs-negligee.rar	-	100000000	1	351273257	0	338
+sxs-negligee.sfv	-	135	1	451273257	0	434

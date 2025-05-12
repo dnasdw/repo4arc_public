@@ -1,0 +1,4 @@
+sxs-sea_port_tycoon_2024.nfo	-	6056	1	0	0	0
+sxs-sea_port_tycoon_2024.r00	-	72940445	1	6056	0	1
+sxs-sea_port_tycoon_2024.rar	-	100000000	1	72946501	0	71
+sxs-sea_port_tycoon_2024.sfv	-	78	1	172946501	0	167

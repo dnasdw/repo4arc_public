@@ -1,0 +1,14 @@
+v-aoxxl2_v65536.nfo	f3df0893
+v-aoxxl2_v65536.r00	63271257
+v-aoxxl2_v65536.r01	843c3c97
+v-aoxxl2_v65536.r02	08a6a3ef
+v-aoxxl2_v65536.r03	1b75825b
+v-aoxxl2_v65536.r04	c65ce047
+v-aoxxl2_v65536.r05	58a1066c
+v-aoxxl2_v65536.r06	8243351c
+v-aoxxl2_v65536.r07	5310048a
+v-aoxxl2_v65536.r08	cfd0dcfa
+v-aoxxl2_v65536.r09	86158895
+v-aoxxl2_v65536.r10	9eadef0c
+v-aoxxl2_v65536.rar	e823407c
+v-aoxxl2_v65536.sfv	8d2dd7f5

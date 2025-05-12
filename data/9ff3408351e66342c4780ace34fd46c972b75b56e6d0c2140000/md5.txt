@@ -1,0 +1,7 @@
+v-days_of_doom_v131072.nfo	655f9ed17ea22df73770da30c94c643c
+v-days_of_doom_v131072.r00	f8cad7fa998366a2a8f31c9e0fc7ebe0
+v-days_of_doom_v131072.r01	4413f6f0a3d98dc83c817807ccb9ae01
+v-days_of_doom_v131072.r02	47b9132c82a9c2eb6ba72b60f7ef37eb
+v-days_of_doom_v131072.r03	f6dccf4121bdf44489339bf1418b4969
+v-days_of_doom_v131072.rar	df2029b983f20c32e34beb9c83b6de3c
+v-days_of_doom_v131072.sfv	d031fe41b9aad7599409af394f9d65fc

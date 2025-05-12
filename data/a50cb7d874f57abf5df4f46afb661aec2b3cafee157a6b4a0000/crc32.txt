@@ -1,0 +1,13 @@
+sxs-book_quest.nfo	a3e3a83b
+sxs-book_quest.r00	4869bbdf
+sxs-book_quest.r01	b9ae4d97
+sxs-book_quest.r02	0c02f2ff
+sxs-book_quest.r03	b91dba5c
+sxs-book_quest.r04	4ee03622
+sxs-book_quest.r05	5cebf11c
+sxs-book_quest.r06	bcf41f4f
+sxs-book_quest.r07	b5cc6cba
+sxs-book_quest.r08	dece2dff
+sxs-book_quest.r09	b02d2b6e
+sxs-book_quest.rar	e52170bc
+sxs-book_quest.sfv	97368365

@@ -1,0 +1,7 @@
+v-shapeshifting_detective_v65536.nfo	-	6136	1	0	0	0
+v-shapeshifting_detective_v65536.r00	-	50000000	1	6136	0	1
+v-shapeshifting_detective_v65536.r01	-	50000000	1	50006136	0	49
+v-shapeshifting_detective_v65536.r02	-	50000000	1	100006136	0	97
+v-shapeshifting_detective_v65536.r03	-	7592575	1	150006136	0	145
+v-shapeshifting_detective_v65536.rar	-	50000000	1	157598711	0	153
+v-shapeshifting_detective_v65536.sfv	-	235	1	207598711	0	201

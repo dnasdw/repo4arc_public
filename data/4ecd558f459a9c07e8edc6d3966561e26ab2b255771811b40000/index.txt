@@ -1,0 +1,5 @@
+sxs-coloring_book.nfo	-	5433	1	0	0	0
+sxs-coloring_book.r00	-	50000000	1	5433	0	1
+sxs-coloring_book.r01	-	28006784	1	50005433	0	49
+sxs-coloring_book.rar	-	50000000	1	78012217	0	76
+sxs-coloring_book.sfv	-	96	1	128012217	0	124

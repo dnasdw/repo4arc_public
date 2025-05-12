@@ -1,0 +1,6 @@
+sxs-fight_crab_v524288.nfo	1d9b7505308eb142bb83ec22137a470e
+sxs-fight_crab_v524288.r00	215d22f89124c814cf3ed584f29a29f2
+sxs-fight_crab_v524288.r01	0be7bdc474b68636cdaf5269b05536a9
+sxs-fight_crab_v524288.r02	fdbdefa329a8e0ec3be5abe52f583be0
+sxs-fight_crab_v524288.rar	d5a405d072c3236c5d44ef6b3287f74c
+sxs-fight_crab_v524288.sfv	ca7b95bf643ee5ec894ec9b27768a01c

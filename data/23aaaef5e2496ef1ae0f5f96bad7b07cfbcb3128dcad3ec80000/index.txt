@@ -1,0 +1,3 @@
+sxs-nickelodeon_kart_racers_3_slime_speedway_turbo_pack_dlc.nfo	-	7928	1	0	0	0
+sxs-nickelodeon_kart_racers_3_slime_speedway_turbo_pack_dlc.rar	-	104164	1	7928	0	1
+sxs-nickelodeon_kart_racers_3_slime_speedway_turbo_pack_dlc.sfv	-	74	1	112092	0	2

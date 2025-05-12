@@ -1,0 +1,7 @@
+sxs-elderand_v196608.nfo	18b8da6c80f0c16db96e30cb07dd546b
+sxs-elderand_v196608.r00	3a19b190b5dae7bd76a502afa2558baa
+sxs-elderand_v196608.r01	9d1b5790d13a38df84d0cf57b5e6208a
+sxs-elderand_v196608.r02	de3acf49df956385452912d6a6c2f0b1
+sxs-elderand_v196608.r03	e019ca27d65fc0013867837187bd9c73
+sxs-elderand_v196608.rar	0cf993473c958f7148b0350cb6af1ea7
+sxs-elderand_v196608.sfv	335e7f8408f2ffed1c532da93ed78164

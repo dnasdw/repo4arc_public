@@ -1,0 +1,13 @@
+sxs-tennis_world_tour_v65536.nfo	6733f6c0
+sxs-tennis_world_tour_v65536.r00	2f7e73b1
+sxs-tennis_world_tour_v65536.r01	719a16e1
+sxs-tennis_world_tour_v65536.r02	5aaa7f65
+sxs-tennis_world_tour_v65536.r03	35b2cced
+sxs-tennis_world_tour_v65536.r04	bdd702df
+sxs-tennis_world_tour_v65536.r05	9471caeb
+sxs-tennis_world_tour_v65536.r06	98d2cc4a
+sxs-tennis_world_tour_v65536.r07	547c242c
+sxs-tennis_world_tour_v65536.r08	151e612f
+sxs-tennis_world_tour_v65536.r09	0ad828d9
+sxs-tennis_world_tour_v65536.rar	eedd9a8b
+sxs-tennis_world_tour_v65536.sfv	fcbb306f

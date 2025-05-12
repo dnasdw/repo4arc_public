@@ -1,0 +1,11 @@
+i-niceslice.nfo	d4fde5b83c157856de778d4b32c7e966
+i-niceslice.r00	d78d7f2a80dace7e29e9f024fb27b948
+i-niceslice.r01	9195a26fc1dc41e59da4f18227779b01
+i-niceslice.r02	2eb06bed775441c3f7f692ddcf454f2a
+i-niceslice.r03	b1ff69c3d6a51a61dcf7412c04e7757a
+i-niceslice.r04	edfccf41f87c831205ac06524a095d3a
+i-niceslice.r05	a08c854dfcd7a193c98de30f2d4fad8c
+i-niceslice.r06	64785d8c6d4807f0acfec85fe5ea15ea
+i-niceslice.r07	a5137a55210385a96ac18f96c38e83d4
+i-niceslice.rar	b3fa360f3cd43d9d0372acd0e52202af
+i-niceslice.sfv	646bc936ee510b8fcc04e185e2c98d91

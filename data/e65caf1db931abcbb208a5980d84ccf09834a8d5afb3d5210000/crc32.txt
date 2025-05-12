@@ -1,0 +1,13 @@
+v-gnosia.nfo	b1eb7ac5
+v-gnosia.r00	24d650ff
+v-gnosia.r01	320cfc78
+v-gnosia.r02	2f8c1664
+v-gnosia.r03	456c5139
+v-gnosia.r04	207f6f8a
+v-gnosia.r05	89731880
+v-gnosia.r06	d0404ac7
+v-gnosia.r07	ebb52f8f
+v-gnosia.r08	cdf599bf
+v-gnosia.r09	7db16354
+v-gnosia.rar	3f4bfe81
+v-gnosia.sfv	b1dcb958

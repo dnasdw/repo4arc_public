@@ -1,0 +1,17 @@
+sxs-gekiyaba.nfo	a47d394e580a297eaf5b2a6ac814d9ae
+sxs-gekiyaba.r00	3cf3d6d2ba29140450684c08493a58a4
+sxs-gekiyaba.r01	e959fce9b7f8a7f7ce50883ca8c81929
+sxs-gekiyaba.r02	101034a9b9166b12997a9a4f90b6e168
+sxs-gekiyaba.r03	65e372d1a774b7cd8e6438fa3e1289a5
+sxs-gekiyaba.r04	220c76f3dcf0c2e3c2b1a94e074e4cd4
+sxs-gekiyaba.r05	7efc8c19522978bf989cc4769f69f060
+sxs-gekiyaba.r06	46a971b5f9f0ab271b74a9053bb37ce7
+sxs-gekiyaba.r07	a5ccf23634f740ddf96fd5eb3d76aef0
+sxs-gekiyaba.r08	da93137bd862cced0d37dfffc5c1fdf4
+sxs-gekiyaba.r09	de99376727d062b15d8ad40b1ba4a625
+sxs-gekiyaba.r10	0aea151f8bcd85aac91cd84295be23ca
+sxs-gekiyaba.r11	b38649a7ef6bbddb4ae58e3414c8ff04
+sxs-gekiyaba.r12	9f028c39de10e6fa67630f825b76c66e
+sxs-gekiyaba.r13	bce82e2b368d1942b54feced99bab903
+sxs-gekiyaba.rar	7f31ac4bd28b99798653318762335e9e
+sxs-gekiyaba.sfv	c9f085176b9e11e7fde8851760c879eb

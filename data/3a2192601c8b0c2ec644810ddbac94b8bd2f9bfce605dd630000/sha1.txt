@@ -1,0 +1,5 @@
+sxs-for_a_vast_future.nfo	1c23871a9c64f39fe944042b72c7341e4362a63a
+sxs-for_a_vast_future.r00	a00fdbdaa7aa0b42826af8fe425b7523fce9e961
+sxs-for_a_vast_future.r01	0486e1853cfbb3e0764a328149cdb7de428a1768
+sxs-for_a_vast_future.rar	8c42463678d4d94dbd760ee4d7b44def35dad74c
+sxs-for_a_vast_future.sfv	f7057364fe61db72616ccf431baf0bf190ee5e00

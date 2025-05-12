@@ -1,0 +1,5 @@
+sxs-loru.nfo	a352a8a1090ab30be1f60e86b85711debb489a19
+sxs-loru.r00	6db037defc46afe2be071a2999419d8b6d6a39ed
+sxs-loru.r01	8ba5d1c13784f01c484d95f9e6193ff18021ba78
+sxs-loru.rar	ef018386bc195efa09fe1a8ad14f86bbc7fcdfea
+sxs-loru.sfv	1678e810ddaf5397b245771cafae23e5a4090a7b

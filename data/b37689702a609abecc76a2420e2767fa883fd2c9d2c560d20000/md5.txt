@@ -1,0 +1,8 @@
+sxs-backworlds.nfo	4d107f3a0a216ab8a4b644fbd6e71a5b
+sxs-backworlds.r00	a9d71d3d2539dd85d1bd8aa938d2e094
+sxs-backworlds.r01	6a5e674b7f01daeca30dea21d03d20fc
+sxs-backworlds.r02	be396ba5fe9c864a34f06be08eaec0ec
+sxs-backworlds.r03	b0536ca6d3cb3c48a54c444982d398d5
+sxs-backworlds.r04	66440e70b10ab9f3cc3736897bd946a1
+sxs-backworlds.rar	a46f3569f36c59583759cb208a57bd52
+sxs-backworlds.sfv	85ba872c724b161bb73879aafa48181e

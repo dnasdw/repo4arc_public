@@ -1,0 +1,3 @@
+sxs-htad.nfo	-	4652	1	0	0	0
+sxs-htad.rar	-	102478	1	4652	0	1
+sxs-htad.sfv	-	23	1	107130	0	2

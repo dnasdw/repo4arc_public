@@ -1,0 +1,6 @@
+sxs-awesome_pea.nfo	43f2e2f3e1785573ceb844aa917c7428094fc429
+sxs-awesome_pea.r00	e454db7567700c949f33e7739a657ae4bdbed168
+sxs-awesome_pea.r01	7cd315501230b4445eba94c6df4b537a69523fc4
+sxs-awesome_pea.r02	6c72f8b609f84574d07afe93070640515bb1384a
+sxs-awesome_pea.rar	77be7cd3fce369e098003b71eb4bcd991581fad6
+sxs-awesome_pea.sfv	22209de90f728f8efab1a74e91a493ed1687b039

@@ -1,0 +1,11 @@
+sxs-lego_star_wars_the_skywalker_saga_v196608.nfo	-	6056	1	0	0	0
+sxs-lego_star_wars_the_skywalker_saga_v196608.r00	-	50000000	1	6056	0	1
+sxs-lego_star_wars_the_skywalker_saga_v196608.r01	-	50000000	1	50006056	0	49
+sxs-lego_star_wars_the_skywalker_saga_v196608.r02	-	50000000	1	100006056	0	97
+sxs-lego_star_wars_the_skywalker_saga_v196608.r03	-	50000000	1	150006056	0	145
+sxs-lego_star_wars_the_skywalker_saga_v196608.r04	-	50000000	1	200006056	0	193
+sxs-lego_star_wars_the_skywalker_saga_v196608.r05	-	50000000	1	250006056	0	241
+sxs-lego_star_wars_the_skywalker_saga_v196608.r06	-	50000000	1	300006056	0	289
+sxs-lego_star_wars_the_skywalker_saga_v196608.r07	-	4360339	1	350006056	0	337
+sxs-lego_star_wars_the_skywalker_saga_v196608.rar	-	50000000	1	354366395	0	342
+sxs-lego_star_wars_the_skywalker_saga_v196608.sfv	-	540	1	404366395	0	390

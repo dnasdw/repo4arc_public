@@ -1,0 +1,3 @@
+v-ssbu_costumes5_dlc.nfo	-	6058	1	0	0	0
+v-ssbu_costumes5_dlc.rar	-	727404	1	6058	0	1
+v-ssbu_costumes5_dlc.sfv	-	35	1	733462	0	2

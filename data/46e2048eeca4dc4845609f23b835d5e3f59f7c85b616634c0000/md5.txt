@@ -1,0 +1,7 @@
+sxs-nonograms_prophecy.nfo	8ba7b846b829771189f8f2db846f9eb0
+sxs-nonograms_prophecy.r00	34b82fc42ef18c50b71893e8e6ce122f
+sxs-nonograms_prophecy.r01	0277903be775d33b13ea7270778111c2
+sxs-nonograms_prophecy.r02	f9dcba1836c7584a70af75b4e095026e
+sxs-nonograms_prophecy.r03	8eedb4879dee6d75913c0031cfab5146
+sxs-nonograms_prophecy.rar	59c630afa6f1372af968cb60db2ae3ac
+sxs-nonograms_prophecy.sfv	9f234dc2a1171d2189abda6e96d52ee2

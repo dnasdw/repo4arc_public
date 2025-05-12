@@ -1,0 +1,10 @@
+jrp-h-adfva1-back.jpg	3c3ba06a9611456b6b241def4a0f0dab1926c365
+jrp-h-adfva1-front.jpg	6e24ab07153707b94c3eff96f044c7152c5cb481
+jrp-h-adfva1.nfo	b5081ba38a32e4a4e5a2686329b8c73b4006fa15
+jrp-h-adfva1.r00	7cb5e255cae197fdada9aad0f95c20e3fa26966f
+jrp-h-adfva1.r01	07d66e55f650360220e8f739dd92b1ada66e2ee4
+jrp-h-adfva1.r02	e12ff58b7f9835b1b8da7a3b1fc5a87bdcc89597
+jrp-h-adfva1.r03	ec31381f07a81600a0bc0c20cde50adabcd77f6a
+jrp-h-adfva1.r04	ff3f06bffccd8c0acdf5eef32c13353ad2471dce
+jrp-h-adfva1.rar	a1983c7cfa564c84014b5f227863e19a1245c35b
+jrp-h-adfva1.sfv	a608e7bb054c05f37b71496deaaa7df5f7c5176c

@@ -1,0 +1,4 @@
+v-succubus_with_guns_v65536.nfo	de637de9a3299ad333c11c3da62cd9d08c10a909
+v-succubus_with_guns_v65536.r00	49d2b56ab00464b6bf54b586c1132dd76179af40
+v-succubus_with_guns_v65536.rar	c43bb72d82a4f3d5bfef6c3667f2bddbc8b3a8fe
+v-succubus_with_guns_v65536.sfv	f2d94fa7cc9f34b54787a0cca6632380e230eda7

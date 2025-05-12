@@ -1,0 +1,8 @@
+sxs-sunset_racer.nfo	fa0da625
+sxs-sunset_racer.r00	03af78fd
+sxs-sunset_racer.r01	01499080
+sxs-sunset_racer.r02	4a4bf8cf
+sxs-sunset_racer.r03	25760d87
+sxs-sunset_racer.r04	fb841f25
+sxs-sunset_racer.rar	d40c2082
+sxs-sunset_racer.sfv	35532771

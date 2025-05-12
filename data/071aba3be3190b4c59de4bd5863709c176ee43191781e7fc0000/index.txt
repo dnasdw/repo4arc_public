@@ -1,0 +1,4 @@
+sxs-hammerwatch_v327680.nfo	-	6681	1	0	0	0
+sxs-hammerwatch_v327680.r00	-	27144772	1	6681	0	1
+sxs-hammerwatch_v327680.rar	-	50000192	1	27151453	0	27
+sxs-hammerwatch_v327680.sfv	-	76	1	77151645	0	75

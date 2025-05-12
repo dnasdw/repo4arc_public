@@ -1,0 +1,12 @@
+jrp-aswtsi.nfo	d4256a13
+jrp-aswtsi.r00	71fe83a6
+jrp-aswtsi.r01	7ca678dc
+jrp-aswtsi.r02	ae95d814
+jrp-aswtsi.r03	f4a6701b
+jrp-aswtsi.r04	e399fa74
+jrp-aswtsi.r05	1e8a90b1
+jrp-aswtsi.r06	9cc71cdd
+jrp-aswtsi.r07	8a447d8d
+jrp-aswtsi.r08	d2cd51f0
+jrp-aswtsi.rar	3747190a
+jrp-aswtsi.sfv	cca125b2

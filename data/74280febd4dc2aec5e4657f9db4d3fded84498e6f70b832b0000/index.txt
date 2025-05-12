@@ -1,0 +1,8 @@
+sxs-fly_punch_boom_v196608.nfo	-	6524	1	0	0	0
+sxs-fly_punch_boom_v196608.r00	-	50000000	1	6524	0	1
+sxs-fly_punch_boom_v196608.r01	-	50000000	1	50006524	0	49
+sxs-fly_punch_boom_v196608.r02	-	50000000	1	100006524	0	97
+sxs-fly_punch_boom_v196608.r03	-	50000000	1	150006524	0	145
+sxs-fly_punch_boom_v196608.r04	-	31068628	1	200006524	0	193
+sxs-fly_punch_boom_v196608.rar	-	50000000	1	231075152	0	223
+sxs-fly_punch_boom_v196608.sfv	-	246	1	281075152	0	271

@@ -1,0 +1,4 @@
+v-talisman_digital_edition_v1048576.nfo	-	6058	1	0	0	0
+v-talisman_digital_edition_v1048576.r00	-	51542261	1	6058	0	1
+v-talisman_digital_edition_v1048576.rar	-	100000000	1	51548319	0	51
+v-talisman_digital_edition_v1048576.sfv	-	100	1	151548319	0	147

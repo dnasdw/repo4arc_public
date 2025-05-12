@@ -1,0 +1,7 @@
+sxs-instant_sports_summer_games_v65536.nfo	3353629b
+sxs-instant_sports_summer_games_v65536.r00	dd97b353
+sxs-instant_sports_summer_games_v65536.r01	489d3da2
+sxs-instant_sports_summer_games_v65536.r02	19cc91c0
+sxs-instant_sports_summer_games_v65536.r03	02452f73
+sxs-instant_sports_summer_games_v65536.rar	40800402
+sxs-instant_sports_summer_games_v65536.sfv	ebeb2961

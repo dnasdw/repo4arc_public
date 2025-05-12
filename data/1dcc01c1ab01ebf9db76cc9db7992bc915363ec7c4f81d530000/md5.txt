@@ -1,0 +1,4 @@
+v-scrapnaut_v65536.nfo	5906ba426c0c58baf492c4e1f728c498
+v-scrapnaut_v65536.r00	228edf0e2c7751ece3ee56129db3a4e9
+v-scrapnaut_v65536.rar	8cfab0de31f9e9782ce6d730001ddce1
+v-scrapnaut_v65536.sfv	c91e7041022925f70796cab66a018e05

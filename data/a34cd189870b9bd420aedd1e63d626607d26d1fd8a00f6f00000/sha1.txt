@@ -1,0 +1,7 @@
+lfc-mbuildersrush.nfo	46b2615d3b8b2ca16944740dc0080c6065f21270
+lfc-mbuildersrush.r00	d8462bba86006e9db3b9ef03b75b6e8fc7da5c89
+lfc-mbuildersrush.r01	3d40fc219fe3df49aec0650ffee470f45e935d32
+lfc-mbuildersrush.r02	fb6b6a31ce6214f2029985225999d46732078e89
+lfc-mbuildersrush.r03	39bf2cfc32b0e6607d70bdb47861ca0648f8eba5
+lfc-mbuildersrush.rar	5d5adc95962effb99baa6b3431524188fcfa749d
+lfc-mbuildersrush.sfv	4cd233cd13ebd0ac56af4b6e3e958e20a203a778

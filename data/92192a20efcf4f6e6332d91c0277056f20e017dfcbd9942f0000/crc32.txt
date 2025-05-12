@@ -1,0 +1,8 @@
+sxs-super_hiking_league_dx.nfo	bc8c76de
+sxs-super_hiking_league_dx.r00	0918f62e
+sxs-super_hiking_league_dx.r01	82aee255
+sxs-super_hiking_league_dx.r02	5ca29f0e
+sxs-super_hiking_league_dx.r03	7d84c94e
+sxs-super_hiking_league_dx.r04	b1d4357b
+sxs-super_hiking_league_dx.rar	33642bc6
+sxs-super_hiking_league_dx.sfv	0014760c

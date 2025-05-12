@@ -1,0 +1,11 @@
+sxs-persephone.nfo	-	4730	1	0	0	0
+sxs-persephone.r00	-	50000000	1	4730	0	1
+sxs-persephone.r01	-	50000000	1	50004730	0	49
+sxs-persephone.r02	-	50000000	1	100004730	0	97
+sxs-persephone.r03	-	50000000	1	150004730	0	145
+sxs-persephone.r04	-	50000000	1	200004730	0	193
+sxs-persephone.r05	-	50000000	1	250004730	0	241
+sxs-persephone.r06	-	50000000	1	300004730	0	289
+sxs-persephone.r07	-	22590736	1	350004730	0	337
+sxs-persephone.rar	-	50000000	1	372595466	0	359
+sxs-persephone.sfv	-	261	1	422595466	0	407

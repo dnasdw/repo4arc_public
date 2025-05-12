@@ -1,0 +1,7 @@
+v-rune_factory_5_v131072.nfo	e6d322b0
+v-rune_factory_5_v131072.r00	584b0c08
+v-rune_factory_5_v131072.r01	7db3d616
+v-rune_factory_5_v131072.r02	0afd0c89
+v-rune_factory_5_v131072.r03	a6431540
+v-rune_factory_5_v131072.rar	604a5e40
+v-rune_factory_5_v131072.sfv	43207d8e

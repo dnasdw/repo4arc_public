@@ -1,0 +1,5 @@
+sxs-hammerwatch_v196608.nfo	1f112697
+sxs-hammerwatch_v196608.r00	c96295b4
+sxs-hammerwatch_v196608.r01	bb1c7206
+sxs-hammerwatch_v196608.rar	b24b4090
+sxs-hammerwatch_v196608.sfv	62376f36

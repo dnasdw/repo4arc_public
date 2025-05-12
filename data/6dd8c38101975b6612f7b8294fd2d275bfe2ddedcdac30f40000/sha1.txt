@@ -1,0 +1,13 @@
+lfc-mdvi.nfo	9135ddb1d595617f92493bfa5ce6fc89f4aa4ac9
+lfc-mdvi.r00	0da7ffca164de70a9533a4d8e78861153c438e55
+lfc-mdvi.r01	c5c15cedfd8d3363821dee8eee2485178dec7ad5
+lfc-mdvi.r02	09319885f2a3fa640a47715bc97672a8333ed5e3
+lfc-mdvi.r03	a8c6b2ecd32d15059a272fe411df5834a47287aa
+lfc-mdvi.r04	da459caaeceb34d34d22666f8cc3a596f20fc263
+lfc-mdvi.r05	976af9969f510c2db6baec506c9fb7d9e6b3cd4b
+lfc-mdvi.r06	7cb730a8f801e88c7afa833ef2ad9c65fa80fdbc
+lfc-mdvi.r07	9b296e40f06e894fbb1f4fbc3c89023fc61edbb5
+lfc-mdvi.r08	9bc6ee52c649d8f4cd3914095657aaefbb2b4bfe
+lfc-mdvi.r09	10c5cac6b54300b9d9f0d3f52f584f963c2e705c
+lfc-mdvi.rar	ac22315d8d0a5cd5362ec07c178fef12b361b3d4
+lfc-mdvi.sfv	94fe19f36d2d8e912afdae936d2631538c7b04ae

@@ -1,0 +1,4 @@
+lfc-drinkmoreglurpv1.3.0upd.nfo	-	8025	1	0	0	0
+lfc-drinkmoreglurpv1.3.0upd.r00	-	37376435	1	8025	0	1
+lfc-drinkmoreglurpv1.3.0upd.rar	-	50000000	1	37384460	0	37
+lfc-drinkmoreglurpv1.3.0upd.sfv	-	84	1	87384460	0	85

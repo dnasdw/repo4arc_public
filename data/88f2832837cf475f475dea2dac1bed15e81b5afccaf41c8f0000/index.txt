@@ -1,0 +1,13 @@
+w-perseverance_repack.nfo	-	8846	1	0	0	0
+w-perseverance_repack.r00	-	50000000	1	8846	0	1
+w-perseverance_repack.r01	-	50000000	1	50008846	0	49
+w-perseverance_repack.r02	-	50000000	1	100008846	0	97
+w-perseverance_repack.r03	-	50000000	1	150008846	0	145
+w-perseverance_repack.r04	-	50000000	1	200008846	0	193
+w-perseverance_repack.r05	-	50000000	1	250008846	0	241
+w-perseverance_repack.r06	-	50000000	1	300008846	0	289
+w-perseverance_repack.r07	-	50000000	1	350008846	0	337
+w-perseverance_repack.r08	-	50000000	1	400008846	0	385
+w-perseverance_repack.r09	-	31278197	1	450008846	0	433
+w-perseverance_repack.rar	-	50000000	1	481287043	0	463
+w-perseverance_repack.sfv	-	396	1	531287043	0	511

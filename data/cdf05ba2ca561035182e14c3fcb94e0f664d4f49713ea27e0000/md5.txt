@@ -1,0 +1,8 @@
+sxs-merge_your_room.nfo	2c83130f32385431f56e20a12966fd8a
+sxs-merge_your_room.r00	0a615a0ec70d21564ad479bf648d46e6
+sxs-merge_your_room.r01	0930e2bdc621834bce5c1b862d8c0639
+sxs-merge_your_room.r02	eddc29678b4ece15f7c1da91abe40494
+sxs-merge_your_room.r03	c409233c225dde3203ec88a47f6e2365
+sxs-merge_your_room.r04	385e6e2e9d5a311614186c1708129b76
+sxs-merge_your_room.rar	186aa129589df072ca62767ac5d40c7c
+sxs-merge_your_room.sfv	f8c7e52646199a91e4308457f9634440

@@ -1,0 +1,4 @@
+sxs-overrogue_v65536.nfo	9a564d02
+sxs-overrogue_v65536.r00	06e9e611
+sxs-overrogue_v65536.rar	72da61ab
+sxs-overrogue_v65536.sfv	ed023492

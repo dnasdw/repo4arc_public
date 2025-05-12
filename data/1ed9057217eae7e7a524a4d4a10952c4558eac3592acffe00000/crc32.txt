@@ -1,0 +1,3 @@
+sxs-shift_quantum_v65536.nfo	05757360
+sxs-shift_quantum_v65536.rar	4db348b3
+sxs-shift_quantum_v65536.sfv	fc40c33c

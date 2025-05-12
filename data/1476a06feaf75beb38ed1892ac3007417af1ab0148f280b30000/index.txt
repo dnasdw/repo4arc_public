@@ -1,0 +1,12 @@
+sxs-prison_architect_v524288.nfo	-	10892	1	0	0	0
+sxs-prison_architect_v524288.r00	-	50000000	1	10892	0	1
+sxs-prison_architect_v524288.r01	-	50000000	1	50010892	0	49
+sxs-prison_architect_v524288.r02	-	50000000	1	100010892	0	97
+sxs-prison_architect_v524288.r03	-	50000000	1	150010892	0	145
+sxs-prison_architect_v524288.r04	-	50000000	1	200010892	0	193
+sxs-prison_architect_v524288.r05	-	50000000	1	250010892	0	241
+sxs-prison_architect_v524288.r06	-	50000000	1	300010892	0	289
+sxs-prison_architect_v524288.r07	-	50000000	1	350010892	0	337
+sxs-prison_architect_v524288.r08	-	21969965	1	400010892	0	385
+sxs-prison_architect_v524288.rar	-	50000000	1	421980857	0	406
+sxs-prison_architect_v524288.sfv	-	430	1	471980857	0	454

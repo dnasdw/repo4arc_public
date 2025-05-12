@@ -1,0 +1,6 @@
+sxs-artb.nfo	ae83be1251f8f8142bfaeac7eab8b865
+sxs-artb.r00	42aecda1633ade98921d70146a720f45
+sxs-artb.r01	1c60dc6e15539aafccab89da67962553
+sxs-artb.r02	7c645ab06206b7eddf9822168d0889ff
+sxs-artb.rar	8bf43aa9228f49e06a1b62a9eb70bdd9
+sxs-artb.sfv	c35b819058d91d996810d1b83e088717

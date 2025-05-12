@@ -1,0 +1,9 @@
+sxs-overcooked_special_edition_v262144.nfo	78e8cb71
+sxs-overcooked_special_edition_v262144.r00	a261b6f2
+sxs-overcooked_special_edition_v262144.r01	43d96673
+sxs-overcooked_special_edition_v262144.r02	e3f2c342
+sxs-overcooked_special_edition_v262144.r03	eb864221
+sxs-overcooked_special_edition_v262144.r04	cd08e483
+sxs-overcooked_special_edition_v262144.r05	f9e0209c
+sxs-overcooked_special_edition_v262144.rar	778e498d
+sxs-overcooked_special_edition_v262144.sfv	1ef21411

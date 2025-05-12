@@ -1,0 +1,8 @@
+sxs-akihabara.nfo	-	4419	1	0	0	0
+sxs-akihabara.r00	-	50000000	1	4419	0	1
+sxs-akihabara.r01	-	50000000	1	50004419	0	49
+sxs-akihabara.r02	-	50000000	1	100004419	0	97
+sxs-akihabara.r03	-	50000000	1	150004419	0	145
+sxs-akihabara.r04	-	24179345	1	200004419	0	193
+sxs-akihabara.rar	-	50000000	1	224183764	0	217
+sxs-akihabara.sfv	-	168	1	274183764	0	265

@@ -1,0 +1,4 @@
+sxs-f19u.nfo	296b3ca4de660fe3fc04f6c2f0e68fb98c483b4b
+sxs-f19u.r00	7813565508c171e2e28413f099e9dd8adb519d12
+sxs-f19u.rar	cbcdd0fed3e84ac1b9a0d6b26eccf40dcadf616b
+sxs-f19u.sfv	9007cdb4dc811ad9e32c918d564e9a3182f859a4

@@ -1,0 +1,10 @@
+sxs-samshom_cham_cham_dlc.nfo	-	5510	1	0	0	0
+sxs-samshom_cham_cham_dlc.r00	-	50000000	1	5510	0	1
+sxs-samshom_cham_cham_dlc.r01	-	50000000	1	50005510	0	49
+sxs-samshom_cham_cham_dlc.r02	-	50000000	1	100005510	0	97
+sxs-samshom_cham_cham_dlc.r03	-	50000000	1	150005510	0	145
+sxs-samshom_cham_cham_dlc.r04	-	50000000	1	200005510	0	193
+sxs-samshom_cham_cham_dlc.r05	-	50000000	1	250005510	0	241
+sxs-samshom_cham_cham_dlc.r06	-	17689266	1	300005510	0	289
+sxs-samshom_cham_cham_dlc.rar	-	50000000	1	317694776	0	306
+sxs-samshom_cham_cham_dlc.sfv	-	320	1	367694776	0	354

@@ -1,0 +1,5 @@
+sxs-beesim_pl.nfo	d1052fca
+sxs-beesim_pl.r00	a16ede7f
+sxs-beesim_pl.r01	96739c68
+sxs-beesim_pl.rar	8a13c6e4
+sxs-beesim_pl.sfv	42764883

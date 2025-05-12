@@ -1,0 +1,5 @@
+v-stories_untold_v262144.nfo	-	6370	1	0	0	0
+v-stories_untold_v262144.r00	-	50000000	1	6370	0	1
+v-stories_untold_v262144.r01	-	5880141	1	50006370	0	49
+v-stories_untold_v262144.rar	-	50000000	1	55886511	0	55
+v-stories_untold_v262144.sfv	-	117	1	105886511	0	103

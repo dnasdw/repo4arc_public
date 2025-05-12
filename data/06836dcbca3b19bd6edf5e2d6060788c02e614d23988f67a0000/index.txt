@@ -1,0 +1,4 @@
+brw-pcol_rp.nfo	-	4295	1	0	0	0
+brw-pcol_rp.r00	-	71414488	1	4295	0	1
+brw-pcol_rp.rar	-	100000000	1	71418783	0	70
+brw-pcol_rp.sfv	-	52	1	171418783	0	166

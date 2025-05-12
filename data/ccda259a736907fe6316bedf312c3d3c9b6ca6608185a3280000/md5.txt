@@ -1,0 +1,10 @@
+sxs-megabyte_punch.nfo	93c4517aaebef3f8fa4f5e7577ab8f5b
+sxs-megabyte_punch.r00	f35313d31ae88144e7cc867acf572fc7
+sxs-megabyte_punch.r01	deec1b764883feeadb391d5157e8883a
+sxs-megabyte_punch.r02	27082be4819e85861aad44bcbd91d619
+sxs-megabyte_punch.r03	08034db8551a1696c5b2b61e2a851bcc
+sxs-megabyte_punch.r04	06d91da66c12a54cda914c986bd8bf27
+sxs-megabyte_punch.r05	040026ed52f639cbe267fa305bffd2b2
+sxs-megabyte_punch.r06	14c3ed9366242d0739982b58141f28f4
+sxs-megabyte_punch.rar	2020e5c754aa15888c96e3429b2dd89a
+sxs-megabyte_punch.sfv	eef81fe07a5b0bc2b07bb4db3392046e

@@ -1,0 +1,6 @@
+sxs-musou_orochi3_v103.nfo	1272c036
+sxs-musou_orochi3_v103.r00	13255543
+sxs-musou_orochi3_v103.r01	95ff33a9
+sxs-musou_orochi3_v103.r02	99e97783
+sxs-musou_orochi3_v103.rar	de2fd3b2
+sxs-musou_orochi3_v103.sfv	7b5a37e7

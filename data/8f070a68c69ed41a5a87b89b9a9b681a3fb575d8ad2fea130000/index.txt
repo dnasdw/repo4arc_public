@@ -1,0 +1,6 @@
+sxs-shakes_on_a_plane_v262144.nfo	-	5744	1	0	0	0
+sxs-shakes_on_a_plane_v262144.r00	-	50000000	1	5744	0	1
+sxs-shakes_on_a_plane_v262144.r01	-	50000000	1	50005744	0	49
+sxs-shakes_on_a_plane_v262144.r02	-	42723862	1	100005744	0	97
+sxs-shakes_on_a_plane_v262144.rar	-	50000000	1	142729606	0	138
+sxs-shakes_on_a_plane_v262144.sfv	-	176	1	192729606	0	186

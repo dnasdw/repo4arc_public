@@ -1,0 +1,4 @@
+hr-asgebv2.nfo	-	20150	1	0	0	0
+hr-asgebv2.r00	-	35148161	1	20150	0	1
+hr-asgebv2.rar	-	50000000	1	35168311	0	35
+hr-asgebv2.sfv	-	50	1	85168311	0	83

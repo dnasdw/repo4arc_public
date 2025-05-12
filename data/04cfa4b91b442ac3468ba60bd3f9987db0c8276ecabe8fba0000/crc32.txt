@@ -1,0 +1,10 @@
+sxs-farmer_simulator_evolution.nfo	033899a7
+sxs-farmer_simulator_evolution.r00	51d9fd20
+sxs-farmer_simulator_evolution.r01	aa3380c3
+sxs-farmer_simulator_evolution.r02	bbdcb4bd
+sxs-farmer_simulator_evolution.r03	fb6c5efd
+sxs-farmer_simulator_evolution.r04	517efe13
+sxs-farmer_simulator_evolution.r05	b3634186
+sxs-farmer_simulator_evolution.r06	39402181
+sxs-farmer_simulator_evolution.rar	2136aa3c
+sxs-farmer_simulator_evolution.sfv	e43d7d42

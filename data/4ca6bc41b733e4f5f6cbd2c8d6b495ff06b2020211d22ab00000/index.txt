@@ -1,0 +1,3 @@
+v-starlink_dlc_v262144.nfo	-	5980	1	0	0	0
+v-starlink_dlc_v262144.rar	-	104089	1	5980	0	1
+v-starlink_dlc_v262144.sfv	-	37	1	110069	0	2

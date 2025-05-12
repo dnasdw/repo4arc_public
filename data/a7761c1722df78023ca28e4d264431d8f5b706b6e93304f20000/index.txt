@@ -1,0 +1,7 @@
+sxs-josh_journey_darkness_totems_v327680.nfo	-	6212	1	0	0	0
+sxs-josh_journey_darkness_totems_v327680.r00	-	100000000	1	6212	0	1
+sxs-josh_journey_darkness_totems_v327680.r01	-	100000000	1	100006212	0	97
+sxs-josh_journey_darkness_totems_v327680.r02	-	100000000	1	200006212	0	193
+sxs-josh_journey_darkness_totems_v327680.r03	-	99520016	1	300006212	0	289
+sxs-josh_journey_darkness_totems_v327680.rar	-	100000000	1	399526228	0	384
+sxs-josh_journey_darkness_totems_v327680.sfv	-	275	1	499526228	0	480

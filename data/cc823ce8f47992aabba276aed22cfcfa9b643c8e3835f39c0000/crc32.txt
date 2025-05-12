@@ -1,0 +1,4 @@
+v-bluey_the_videogame_v65536.nfo	3127a4cc
+v-bluey_the_videogame_v65536.r00	69ac595a
+v-bluey_the_videogame_v65536.rar	9b9875e9
+v-bluey_the_videogame_v65536.sfv	f7d43994

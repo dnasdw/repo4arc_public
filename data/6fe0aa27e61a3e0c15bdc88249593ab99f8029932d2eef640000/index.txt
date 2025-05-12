@@ -1,0 +1,3 @@
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_dlc_costumes_dlc.nfo	-	7460	1	0	0	0
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_dlc_costumes_dlc.rar	-	104166	1	7460	0	1
+sxs-alice_gear_aegis_cs_concerto_of_simulatrix_dlc_costumes_dlc.sfv	-	78	1	111626	0	2

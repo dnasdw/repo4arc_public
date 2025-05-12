@@ -1,0 +1,6 @@
+i-hexon.nfo	9ba8b89ee0eb44ec26d08ae3ac1f4100618092a5
+i-hexon.r00	b94b70bad0e01ef2a00ac12d5288495affc0ddf4
+i-hexon.r01	e2a5649ee8934db558672c5a1caf23dfc0ff368f
+i-hexon.r02	728b4da3b53608efbf7f2bcdae39afe853a8ecf9
+i-hexon.rar	4b277c4815ae7717af5989914ae96614c380734f
+i-hexon.sfv	b83974174aa7ab941b7f4b559c28ccd82a70d337

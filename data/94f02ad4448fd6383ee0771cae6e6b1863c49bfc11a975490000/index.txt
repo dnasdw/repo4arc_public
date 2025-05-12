@@ -1,0 +1,3 @@
+v-doom_ii_syringe_dlc.nfo	-	8242	1	0	0	0
+v-doom_ii_syringe_dlc.rar	-	10644264	1	8242	0	1
+v-doom_ii_syringe_dlc.sfv	-	36	1	10652506	0	12

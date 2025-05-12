@@ -1,0 +1,3 @@
+v-hogwarts_legacy_astronomers_hat_dlc.nfo	98473625
+v-hogwarts_legacy_astronomers_hat_dlc.rar	33d4ded2
+v-hogwarts_legacy_astronomers_hat_dlc.sfv	086f488c

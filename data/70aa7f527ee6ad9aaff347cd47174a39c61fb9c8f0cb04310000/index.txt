@@ -1,0 +1,4 @@
+sxs-potato_flowers_in_full_bloom_v131072.nfo	-	6836	1	0	0	0
+sxs-potato_flowers_in_full_bloom_v131072.r00	-	18579594	1	6836	0	1
+sxs-potato_flowers_in_full_bloom_v131072.rar	-	50000000	1	18586430	0	19
+sxs-potato_flowers_in_full_bloom_v131072.sfv	-	110	1	68586430	0	67

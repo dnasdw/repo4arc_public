@@ -1,0 +1,10 @@
+v-katana_zero.nfo	8f9cc013
+v-katana_zero.r00	a28af48c
+v-katana_zero.r01	ea087a2e
+v-katana_zero.r02	1d2e64aa
+v-katana_zero.r03	95cb6b35
+v-katana_zero.r04	cb315aef
+v-katana_zero.r05	f3db9c29
+v-katana_zero.r06	592af065
+v-katana_zero.rar	ce5bfdce
+v-katana_zero.sfv	aea60845

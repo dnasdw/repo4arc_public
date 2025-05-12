@@ -1,0 +1,8 @@
+v-encodya_v196608.nfo	c41d849b
+v-encodya_v196608.r00	2f85b594
+v-encodya_v196608.r01	3665f6c8
+v-encodya_v196608.r02	401c49c3
+v-encodya_v196608.r03	2963c16f
+v-encodya_v196608.r04	b1577b9a
+v-encodya_v196608.rar	983ce897
+v-encodya_v196608.sfv	290a9a1b

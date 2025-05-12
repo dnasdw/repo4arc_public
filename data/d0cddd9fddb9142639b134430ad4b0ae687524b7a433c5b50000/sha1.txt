@@ -1,0 +1,8 @@
+i-soccerpinball.nfo	8538b30c41e918933ea63bc4f4d3614e3b42dbe8
+i-soccerpinball.r00	377babbe349c36bd176705d1993946db8bda5951
+i-soccerpinball.r01	3fa403d7bd81df38c4b416cc8b13e2d390dcb604
+i-soccerpinball.r02	81ff071322f08922e2e49e04970f0603bb11bf02
+i-soccerpinball.r03	c69d261f80fbd038f781b40595d9dc6cf42c8f10
+i-soccerpinball.r04	b7f3f1c73283df9e666a3a0357ed93faff03c42a
+i-soccerpinball.rar	643e301dab6d71874f1bf00da60a34ea70dc3a6d
+i-soccerpinball.sfv	6078f08d79ac45478492e1fafd1d229a959bd98f

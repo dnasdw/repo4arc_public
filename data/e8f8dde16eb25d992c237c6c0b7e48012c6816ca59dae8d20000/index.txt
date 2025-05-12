@@ -1,0 +1,4 @@
+v-dragon_quest_xi_s_echoes_of_an_elusive_age_definitive_edition_v65536.nfo	-	7384	1	0	0	0
+v-dragon_quest_xi_s_echoes_of_an_elusive_age_definitive_edition_v65536.r00	-	44026976	1	7384	0	1
+v-dragon_quest_xi_s_echoes_of_an_elusive_age_definitive_edition_v65536.rar	-	50000000	1	44034360	0	43
+v-dragon_quest_xi_s_echoes_of_an_elusive_age_definitive_edition_v65536.sfv	-	170	1	94034360	0	91

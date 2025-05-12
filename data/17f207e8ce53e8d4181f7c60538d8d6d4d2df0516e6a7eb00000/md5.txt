@@ -1,0 +1,8 @@
+sxs-star_hunter_dx.nfo	540adaadf96d40b2c22a9abaf52debe1
+sxs-star_hunter_dx.r00	bda822e146cb55f47b74f3d42023ead0
+sxs-star_hunter_dx.r01	568f63ff9715f607c98d3499c698dded
+sxs-star_hunter_dx.r02	1c311b0ef2ad85e5a641f4fe098be114
+sxs-star_hunter_dx.r03	c245a654ed8d798c5ee37b257f74c05c
+sxs-star_hunter_dx.r04	c44f27b8560bb1c37f5c2d9bda3f34d3
+sxs-star_hunter_dx.rar	ec225e5bcc4cc98a95913f1c069ddf4a
+sxs-star_hunter_dx.sfv	65688c71cee9f53c39064a2608299249

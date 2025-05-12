@@ -1,0 +1,9 @@
+delight.nfo	dea3e0d747fcb28054d5f8e832ba5689
+dl-lotwitch.r00	7d5fa22a74b6b206d495d996c875b4e2
+dl-lotwitch.r01	6f85b266a80d9f5a80f41431b899a20b
+dl-lotwitch.r02	f9e085f45e8da3224eba4de031bd76e2
+dl-lotwitch.r03	87ecab9523a11ec90c73c756ea89508f
+dl-lotwitch.r04	e38593dc2c3443042f84757d4de6e0a2
+dl-lotwitch.r05	b43a182c75e5ec2262f6d57d12e1366c
+dl-lotwitch.rar	6ef99ce0b9b24815cd4ff89de70b0b94
+dl-lotwitch.sfv	d204204d271d80af07ebdbc0afc23314

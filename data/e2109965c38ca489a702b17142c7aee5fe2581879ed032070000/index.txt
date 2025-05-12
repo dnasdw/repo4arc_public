@@ -1,0 +1,5 @@
+v-conduct_together_v458752.nfo	-	6605	1	0	0	0
+v-conduct_together_v458752.r00	-	100000000	1	6605	0	1
+v-conduct_together_v458752.r01	-	23334670	1	100006605	0	97
+v-conduct_together_v458752.rar	-	100000000	1	123341275	0	120
+v-conduct_together_v458752.sfv	-	123	1	223341275	0	216

@@ -1,0 +1,11 @@
+sxs-deleted.nfo	6f9a097c
+sxs-deleted.r00	c78a539c
+sxs-deleted.r01	981adb9b
+sxs-deleted.r02	5f9c44a2
+sxs-deleted.r03	925c1773
+sxs-deleted.r04	9d2e67f5
+sxs-deleted.r05	42933f94
+sxs-deleted.r06	b5906b17
+sxs-deleted.r07	4478bb8c
+sxs-deleted.rar	ebec2837
+sxs-deleted.sfv	ebc81aee

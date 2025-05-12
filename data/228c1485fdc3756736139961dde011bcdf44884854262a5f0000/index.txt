@@ -1,0 +1,7 @@
+sxs-powertris.nfo	-	5140	1	0	0	0
+sxs-powertris.r00	-	50000000	1	5140	0	1
+sxs-powertris.r01	-	50000000	1	50005140	0	49
+sxs-powertris.r02	-	50000000	1	100005140	0	97
+sxs-powertris.r03	-	21038880	1	150005140	0	145
+sxs-powertris.rar	-	50000000	1	171044020	0	166
+sxs-powertris.sfv	-	140	1	221044020	0	214

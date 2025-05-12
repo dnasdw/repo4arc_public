@@ -1,0 +1,11 @@
+sxs-trivial_pursuit_live_v131072.nfo	-	4263	1	0	0	0
+sxs-trivial_pursuit_live_v131072.r00	-	50000000	1	4263	0	1
+sxs-trivial_pursuit_live_v131072.r01	-	50000000	1	50004263	0	49
+sxs-trivial_pursuit_live_v131072.r02	-	50000000	1	100004263	0	97
+sxs-trivial_pursuit_live_v131072.r03	-	50000000	1	150004263	0	145
+sxs-trivial_pursuit_live_v131072.r04	-	50000000	1	200004263	0	193
+sxs-trivial_pursuit_live_v131072.r05	-	50000000	1	250004263	0	241
+sxs-trivial_pursuit_live_v131072.r06	-	50000000	1	300004263	0	289
+sxs-trivial_pursuit_live_v131072.r07	-	29324137	1	350004263	0	337
+sxs-trivial_pursuit_live_v131072.rar	-	50000192	1	379328400	0	365
+sxs-trivial_pursuit_live_v131072.sfv	-	423	1	429328592	0	413

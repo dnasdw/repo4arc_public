@@ -1,0 +1,11 @@
+lfc-ssks_v196608.nfo	4012bf6d
+lfc-ssks_v196608.r00	17f066cc
+lfc-ssks_v196608.r01	93214511
+lfc-ssks_v196608.r02	ab559d0d
+lfc-ssks_v196608.r03	30b9dcae
+lfc-ssks_v196608.r04	76a9752e
+lfc-ssks_v196608.r05	cd0e5c6b
+lfc-ssks_v196608.r06	242e417d
+lfc-ssks_v196608.r07	e979d6d8
+lfc-ssks_v196608.rar	b4779fed
+lfc-ssks_v196608.sfv	3374bebf

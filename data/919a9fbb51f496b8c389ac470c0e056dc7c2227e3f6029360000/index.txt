@@ -1,0 +1,8 @@
+sxs-west_of_loathing_v262144.nfo	-	5979	1	0	0	0
+sxs-west_of_loathing_v262144.r00	-	50000000	1	5979	0	1
+sxs-west_of_loathing_v262144.r01	-	50000000	1	50005979	0	49
+sxs-west_of_loathing_v262144.r02	-	50000000	1	100005979	0	97
+sxs-west_of_loathing_v262144.r03	-	50000000	1	150005979	0	145
+sxs-west_of_loathing_v262144.r04	-	34253132	1	200005979	0	193
+sxs-west_of_loathing_v262144.rar	-	50000000	1	234259111	0	226
+sxs-west_of_loathing_v262144.sfv	-	258	1	284259111	0	274

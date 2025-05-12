@@ -1,0 +1,6 @@
+bbb-n-alpka.nfo	-	5517	1	0	0	0
+bbb-n-alpka.part1.rar	-	250000000	1	5517	0	1
+bbb-n-alpka.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-alpka.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-alpka.part4.rar	-	212279197	1	212251264	1	203
+bbb-n-alpka.sfv	-	128	1	424530461	1	406

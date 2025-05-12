@@ -1,0 +1,14 @@
+sxs-alpha_particle.nfo	-	5276	1	0	0	0
+sxs-alpha_particle.r00	-	100000000	1	5276	0	1
+sxs-alpha_particle.r01	-	100000000	1	100005276	0	97
+sxs-alpha_particle.r02	-	100000000	1	200005276	0	193
+sxs-alpha_particle.r03	-	100000000	1	300005276	0	289
+sxs-alpha_particle.r04	-	100000000	1	400005276	0	385
+sxs-alpha_particle.r05	-	100000000	1	500005276	0	481
+sxs-alpha_particle.r06	-	100000000	1	62251264	1	60
+sxs-alpha_particle.r07	-	100000000	1	162251264	1	156
+sxs-alpha_particle.r08	-	100000000	1	262251264	1	252
+sxs-alpha_particle.r09	-	100000000	1	362251264	1	348
+sxs-alpha_particle.r10	-	80314680	1	462251264	1	444
+sxs-alpha_particle.rar	-	100000000	1	4817208	2	5
+sxs-alpha_particle.sfv	-	396	1	104817208	2	101

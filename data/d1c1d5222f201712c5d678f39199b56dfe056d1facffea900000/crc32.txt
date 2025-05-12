@@ -1,0 +1,8 @@
+sxs-afterimage_v262144.nfo	7d1c523c
+sxs-afterimage_v262144.r00	e76d424f
+sxs-afterimage_v262144.r01	e9657cc8
+sxs-afterimage_v262144.r02	c1a4d682
+sxs-afterimage_v262144.r03	8d3895ec
+sxs-afterimage_v262144.r04	28d7c321
+sxs-afterimage_v262144.rar	3fa2a491
+sxs-afterimage_v262144.sfv	96e2fda5

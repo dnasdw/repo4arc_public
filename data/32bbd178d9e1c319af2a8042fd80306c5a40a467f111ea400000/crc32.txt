@@ -1,0 +1,11 @@
+v-dordogne_v196608.nfo	538a53a1
+v-dordogne_v196608.r00	56a23e16
+v-dordogne_v196608.r01	550d2fea
+v-dordogne_v196608.r02	590af005
+v-dordogne_v196608.r03	11ccac48
+v-dordogne_v196608.r04	47274b3f
+v-dordogne_v196608.r05	f36356d5
+v-dordogne_v196608.r06	5d974c4a
+v-dordogne_v196608.r07	4eea27bb
+v-dordogne_v196608.rar	96274a21
+v-dordogne_v196608.sfv	fdc81010

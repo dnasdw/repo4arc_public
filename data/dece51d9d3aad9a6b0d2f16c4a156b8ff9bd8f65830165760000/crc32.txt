@@ -1,0 +1,15 @@
+Proof	00000000
+Proof/sxs-trraria.jpg	4a493b89
+sxs-trraria.nfo	ccccebbc
+sxs-trraria.r00	5c976b47
+sxs-trraria.r01	95dec80e
+sxs-trraria.r02	af4e1e84
+sxs-trraria.r03	c64c4489
+sxs-trraria.r04	e7c3d0c8
+sxs-trraria.r05	0cfc39ed
+sxs-trraria.r06	75133be9
+sxs-trraria.r07	c6b2da56
+sxs-trraria.r08	6c432644
+sxs-trraria.r09	ac4de820
+sxs-trraria.rar	f3a2d30a
+sxs-trraria.sfv	425c9a53

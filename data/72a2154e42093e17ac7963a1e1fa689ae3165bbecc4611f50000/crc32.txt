@@ -1,0 +1,16 @@
+sxs-osm.nfo	68c6519b
+sxs-osm.r00	58344137
+sxs-osm.r01	0c47c91b
+sxs-osm.r02	20657638
+sxs-osm.r03	7784a06c
+sxs-osm.r04	0dd2c958
+sxs-osm.r05	e5ebec99
+sxs-osm.r06	89d83b4a
+sxs-osm.r07	0fef451a
+sxs-osm.r08	1b07bb9f
+sxs-osm.r09	a69e7dba
+sxs-osm.r10	5fde66d4
+sxs-osm.r11	a9ff11a0
+sxs-osm.r12	28db96db
+sxs-osm.rar	c01eb155
+sxs-osm.sfv	bc6833c1

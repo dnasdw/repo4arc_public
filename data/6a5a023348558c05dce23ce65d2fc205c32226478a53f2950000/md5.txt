@@ -1,0 +1,3 @@
+sxs-mushroom_quest.nfo	9646a9df4fda7dcbbc2b03cd28967d10
+sxs-mushroom_quest.rar	93c418aa1f0617aba5bb477fe052bc92
+sxs-mushroom_quest.sfv	04e0c923f2dc940741327c0f6e7ef7aa

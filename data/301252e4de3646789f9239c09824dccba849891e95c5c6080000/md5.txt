@@ -1,0 +1,15 @@
+v-astral_ascent.nfo	695ec50333292a6815de7291f73c311f
+v-astral_ascent.r00	2386c4f5511682a279f3ed4f0441c57b
+v-astral_ascent.r01	7e7da999c6d03591dde0dc318882d4b8
+v-astral_ascent.r02	ca2e197c800c071ac59076f15ab6f744
+v-astral_ascent.r03	5d77fc4249d90585d38d774950dd8b60
+v-astral_ascent.r04	a986a36232e21e795a75c4c7eea49a18
+v-astral_ascent.r05	af29e6da02b4a4ab4ec8f8a71e01e0d7
+v-astral_ascent.r06	d199d109cc71e1700df18c44f1ffd01f
+v-astral_ascent.r07	72e71d9e68d8448d7c1ffecadd38db27
+v-astral_ascent.r08	8ac99629d52201e59b34046e88c82333
+v-astral_ascent.r09	d3a24ae10d32be60fb74044415d8ea22
+v-astral_ascent.r10	c94757fef2e33a9b42e9f7ae07d6e0fe
+v-astral_ascent.r11	d8539f4f8f8c3b74bfe1bd47266eda5b
+v-astral_ascent.rar	c6b781cd158a348eb75b11324f110fb1
+v-astral_ascent.sfv	787b69b06b8cc9058aaa3fb8399f6d86

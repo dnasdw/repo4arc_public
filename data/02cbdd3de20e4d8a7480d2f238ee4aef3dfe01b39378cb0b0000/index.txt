@@ -1,0 +1,4 @@
+sxs-full_metal_furies_v327680.nfo	-	4262	1	0	0	0
+sxs-full_metal_furies_v327680.r00	-	41726439	1	4262	0	1
+sxs-full_metal_furies_v327680.rar	-	50000000	1	41730701	0	41
+sxs-full_metal_furies_v327680.sfv	-	88	1	91730701	0	89

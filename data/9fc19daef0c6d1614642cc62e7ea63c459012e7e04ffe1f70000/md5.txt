@@ -1,0 +1,6 @@
+sxs-warborn_v458752.nfo	3edead011fb3193080d9a380101bfcbb
+sxs-warborn_v458752.r00	ea7426a1ea6e9eb6f4086ea037624adf
+sxs-warborn_v458752.r01	89085d7aa7b3a68bf2cdf68d098a11a6
+sxs-warborn_v458752.r02	f7d34cbc870c66f0b397aa33073ce168
+sxs-warborn_v458752.rar	8649f65bcfee067ee90cb427b8c0de30
+sxs-warborn_v458752.sfv	e7bdb81835ca51c1bdfbe2f02f534d2e

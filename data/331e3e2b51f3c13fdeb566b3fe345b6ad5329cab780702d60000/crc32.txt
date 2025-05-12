@@ -1,0 +1,14 @@
+v-freedom_finger_v262144.nfo	4b29fb12
+v-freedom_finger_v262144.r00	e60a68c1
+v-freedom_finger_v262144.r01	f78a383c
+v-freedom_finger_v262144.r02	30ec3f6e
+v-freedom_finger_v262144.r03	d54a9bb2
+v-freedom_finger_v262144.r04	4800d53c
+v-freedom_finger_v262144.r05	d93186ac
+v-freedom_finger_v262144.r06	1efb5ed3
+v-freedom_finger_v262144.r07	cb4ca407
+v-freedom_finger_v262144.r08	bf9369a9
+v-freedom_finger_v262144.r09	80cbf130
+v-freedom_finger_v262144.r10	54079ce7
+v-freedom_finger_v262144.rar	31150f1e
+v-freedom_finger_v262144.sfv	5b017426

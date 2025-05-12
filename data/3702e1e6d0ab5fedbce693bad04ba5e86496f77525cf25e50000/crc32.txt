@@ -1,0 +1,8 @@
+v-psyvariar_delta_v196608.nfo	295c4e0c
+v-psyvariar_delta_v196608.r00	a173ca5f
+v-psyvariar_delta_v196608.r01	8b11d7ab
+v-psyvariar_delta_v196608.r02	96d9a05f
+v-psyvariar_delta_v196608.r03	1698a008
+v-psyvariar_delta_v196608.r04	34daaece
+v-psyvariar_delta_v196608.rar	e8d969df
+v-psyvariar_delta_v196608.sfv	362f31d9

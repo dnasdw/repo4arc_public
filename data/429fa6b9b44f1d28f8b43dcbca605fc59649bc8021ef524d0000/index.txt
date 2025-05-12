@@ -1,0 +1,4 @@
+lfc-cosi.nfo	-	5081	1	0	0	0
+lfc-cosi.r00	-	21768169	1	5081	0	1
+lfc-cosi.rar	-	50000000	1	21773250	0	22
+lfc-cosi.sfv	-	46	1	71773250	0	70

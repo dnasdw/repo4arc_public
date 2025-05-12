@@ -1,0 +1,5 @@
+lfc-uncannyvalley.nfo	faaf18cdf79edb82f6fffcee07d5ab3ac18ceb7e
+lfc-uncannyvalley.r00	6417cdac78e9a6146a6fa33d64f227665aac6d8d
+lfc-uncannyvalley.r01	256e6844510d487baaba56f231f10e79c0e3765f
+lfc-uncannyvalley.rar	c0057f51a134944700b463a7ea67ad4031910669
+lfc-uncannyvalley.sfv	d63cc730e6d1c0c719896177d36cb4f61751c558

@@ -1,0 +1,10 @@
+sxs-sky_force_anniversary.nfo	6422d935
+sxs-sky_force_anniversary.r00	c34b335c
+sxs-sky_force_anniversary.r01	9db8f628
+sxs-sky_force_anniversary.r02	5f4dd238
+sxs-sky_force_anniversary.r03	fb61c081
+sxs-sky_force_anniversary.r04	4efd5491
+sxs-sky_force_anniversary.r05	2d6f09d6
+sxs-sky_force_anniversary.r06	312129ec
+sxs-sky_force_anniversary.rar	828b5756
+sxs-sky_force_anniversary.sfv	b40281ee

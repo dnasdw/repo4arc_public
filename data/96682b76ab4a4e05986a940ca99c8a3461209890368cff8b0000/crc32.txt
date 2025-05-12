@@ -1,0 +1,16 @@
+sxs-farm_together_v917504.nfo	8800eabe
+sxs-farm_together_v917504.r00	086aca48
+sxs-farm_together_v917504.r01	ca73d3d8
+sxs-farm_together_v917504.r02	2f8ed7d2
+sxs-farm_together_v917504.r03	652531c0
+sxs-farm_together_v917504.r04	c2ad54c6
+sxs-farm_together_v917504.r05	565c4666
+sxs-farm_together_v917504.r06	75563723
+sxs-farm_together_v917504.r07	e6773fd6
+sxs-farm_together_v917504.r08	54f99229
+sxs-farm_together_v917504.r09	2d8f8316
+sxs-farm_together_v917504.r10	3fbf95df
+sxs-farm_together_v917504.r11	b25118af
+sxs-farm_together_v917504.r12	8a097c4c
+sxs-farm_together_v917504.rar	96e81de3
+sxs-farm_together_v917504.sfv	1e73f192

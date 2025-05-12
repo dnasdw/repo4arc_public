@@ -1,0 +1,3 @@
+v-boomerang_fu_fresh_flavors_pack_dlc.nfo	-	10036	1	0	0	0
+v-boomerang_fu_fresh_flavors_pack_dlc.rar	-	104114	1	10036	0	1
+v-boomerang_fu_fresh_flavors_pack_dlc.sfv	-	52	1	114150	0	2

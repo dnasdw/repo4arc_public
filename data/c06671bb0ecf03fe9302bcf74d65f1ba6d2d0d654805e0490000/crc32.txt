@@ -1,0 +1,17 @@
+sxs-eyes_the_horror_game.nfo	33c3bcda
+sxs-eyes_the_horror_game.r00	c181238a
+sxs-eyes_the_horror_game.r01	f8b146ed
+sxs-eyes_the_horror_game.r02	648fbd0e
+sxs-eyes_the_horror_game.r03	358fa309
+sxs-eyes_the_horror_game.r04	bbe0cb41
+sxs-eyes_the_horror_game.r05	ede42ca8
+sxs-eyes_the_horror_game.r06	061a2fe7
+sxs-eyes_the_horror_game.r07	ed79ef7a
+sxs-eyes_the_horror_game.r08	217c774f
+sxs-eyes_the_horror_game.r09	b6ec78cb
+sxs-eyes_the_horror_game.r10	0a721e54
+sxs-eyes_the_horror_game.r11	92cde196
+sxs-eyes_the_horror_game.r12	532eb7aa
+sxs-eyes_the_horror_game.r13	9de109d9
+sxs-eyes_the_horror_game.rar	e75ac472
+sxs-eyes_the_horror_game.sfv	86ac8558

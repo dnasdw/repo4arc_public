@@ -1,0 +1,4 @@
+sxs-chico_and_the_magic_orchards_dx.nfo	521d3b0e1099eb545e87e0080ce4f46f
+sxs-chico_and_the_magic_orchards_dx.r00	c993fbdd5855fec05fef2ce48d3db388
+sxs-chico_and_the_magic_orchards_dx.rar	7bbf648ff1b2bcb24fe2785cd0c90bfa
+sxs-chico_and_the_magic_orchards_dx.sfv	cf321dcc1bbfc3022216509e35a0632a

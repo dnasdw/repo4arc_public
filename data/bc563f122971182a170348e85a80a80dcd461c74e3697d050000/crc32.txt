@@ -1,0 +1,10 @@
+v-astral_ascent_v262144.nfo	e1ef595d
+v-astral_ascent_v262144.r00	f06ae159
+v-astral_ascent_v262144.r01	fb4a203b
+v-astral_ascent_v262144.r02	2af26192
+v-astral_ascent_v262144.r03	13a4e0c5
+v-astral_ascent_v262144.r04	c8bc3a3f
+v-astral_ascent_v262144.r05	3058ae67
+v-astral_ascent_v262144.r06	3792f4c3
+v-astral_ascent_v262144.rar	32400636
+v-astral_ascent_v262144.sfv	e9e6f6a0

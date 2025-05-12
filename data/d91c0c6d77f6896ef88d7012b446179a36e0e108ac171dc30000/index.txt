@@ -1,0 +1,16 @@
+v-negative_the_way_of_shinobi.nfo	-	4888	1	0	0	0
+v-negative_the_way_of_shinobi.r00	-	50000000	1	4888	0	1
+v-negative_the_way_of_shinobi.r01	-	50000000	1	50004888	0	49
+v-negative_the_way_of_shinobi.r02	-	50000000	1	100004888	0	97
+v-negative_the_way_of_shinobi.r03	-	50000000	1	150004888	0	145
+v-negative_the_way_of_shinobi.r04	-	50000000	1	200004888	0	193
+v-negative_the_way_of_shinobi.r05	-	50000000	1	250004888	0	241
+v-negative_the_way_of_shinobi.r06	-	50000000	1	300004888	0	289
+v-negative_the_way_of_shinobi.r07	-	50000000	1	350004888	0	337
+v-negative_the_way_of_shinobi.r08	-	50000000	1	400004888	0	385
+v-negative_the_way_of_shinobi.r09	-	50000000	1	450004888	0	433
+v-negative_the_way_of_shinobi.r10	-	50000000	1	500004888	0	481
+v-negative_the_way_of_shinobi.r11	-	50000000	1	12251264	1	12
+v-negative_the_way_of_shinobi.r12	-	32495762	1	62251264	1	60
+v-negative_the_way_of_shinobi.rar	-	50000000	1	94747026	1	91
+v-negative_the_way_of_shinobi.sfv	-	616	1	144747026	1	139

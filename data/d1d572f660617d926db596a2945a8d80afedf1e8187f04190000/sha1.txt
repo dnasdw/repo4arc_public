@@ -1,0 +1,5 @@
+v-rain_world_v196608.nfo	1dcee1877d1faaac72ead83f7222c5ab04ebcbc3
+v-rain_world_v196608.r00	7c92aad32e5fe7679cd5887c635a64f91ef7a839
+v-rain_world_v196608.r01	b14e5cee4705d40f7c7ff7f4e349f8322ae6ff5c
+v-rain_world_v196608.rar	e4edd904263bbb22285d3e92533e361402e0177a
+v-rain_world_v196608.sfv	8ab3e531841b301b2b2b97cbb01bc2eca8255a75

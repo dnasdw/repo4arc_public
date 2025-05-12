@@ -1,0 +1,4 @@
+sxs-tasty_slot_machine.nfo	533ebc29
+sxs-tasty_slot_machine.r00	afdba16d
+sxs-tasty_slot_machine.rar	d7270584
+sxs-tasty_slot_machine.sfv	16711ccd

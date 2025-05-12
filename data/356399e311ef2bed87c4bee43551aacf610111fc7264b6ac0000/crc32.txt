@@ -1,0 +1,8 @@
+sxs-asscrr_ru_dlc.nfo	2194ffc1
+sxs-asscrr_ru_dlc.r00	fe15b79e
+sxs-asscrr_ru_dlc.r01	cfdbc093
+sxs-asscrr_ru_dlc.r02	53357eda
+sxs-asscrr_ru_dlc.r03	aeb19d8e
+sxs-asscrr_ru_dlc.r04	9179fd0e
+sxs-asscrr_ru_dlc.rar	aca14704
+sxs-asscrr_ru_dlc.sfv	f721f103

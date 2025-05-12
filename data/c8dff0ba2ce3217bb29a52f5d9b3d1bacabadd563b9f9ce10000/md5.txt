@@ -1,0 +1,11 @@
+hr-livestream.nfo	f6b6f89c530b69b50b50d75562483df3
+hr-livestream.r00	59728dcfa8804961f081047e6e736241
+hr-livestream.r01	b8d0ceb2f22e835eff563d9e942aadb9
+hr-livestream.r02	a9acb2017b098e22319878ae5568faad
+hr-livestream.r03	552b24c78e21bf67dc8d70bfc1aca1f1
+hr-livestream.r04	09997383f491a3daa8cfdb337c2627c2
+hr-livestream.r05	166e547917a900b5a87915a080e31754
+hr-livestream.r06	a53ebee1c7198adacb1bf0ff9a282fe5
+hr-livestream.r07	269f0f1bccf699bd0f8a7f231588a6b2
+hr-livestream.rar	af61cc3adcea8460bffe48d60b84180a
+hr-livestream.sfv	3ed20d12ddb51c12a30739f965402fa4

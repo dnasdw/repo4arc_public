@@ -1,0 +1,6 @@
+sxs-lone_ruin_v131072.nfo	dc8be923
+sxs-lone_ruin_v131072.r00	c94fb37c
+sxs-lone_ruin_v131072.r01	310c4b4f
+sxs-lone_ruin_v131072.r02	616fe4fb
+sxs-lone_ruin_v131072.rar	aa2218a8
+sxs-lone_ruin_v131072.sfv	4ff50f58

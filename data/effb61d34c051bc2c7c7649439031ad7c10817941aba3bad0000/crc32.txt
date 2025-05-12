@@ -1,0 +1,12 @@
+sxs-clea_2_v196608.nfo	2fe0a795
+sxs-clea_2_v196608.r00	f6a45683
+sxs-clea_2_v196608.r01	8dd7372e
+sxs-clea_2_v196608.r02	54262d70
+sxs-clea_2_v196608.r03	a42bb482
+sxs-clea_2_v196608.r04	8296322b
+sxs-clea_2_v196608.r05	e76c65c5
+sxs-clea_2_v196608.r06	eac6039b
+sxs-clea_2_v196608.r07	f431d9dc
+sxs-clea_2_v196608.r08	34721133
+sxs-clea_2_v196608.rar	edab2ebb
+sxs-clea_2_v196608.sfv	42ca491a

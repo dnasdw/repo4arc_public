@@ -1,0 +1,9 @@
+lfc-azombied.nfo	2a959a8adf3f347d430e1455bf3cebc6
+lfc-azombied.r00	23d434cec0eba572f55f3a15a2e073cb
+lfc-azombied.r01	e64312cc5f427c34d0a5e599f95ec5b6
+lfc-azombied.r02	6f897fb78ce5d28ce1cc2497cc9b3152
+lfc-azombied.r03	4c4f23ac223662e2a0974f338313d3e0
+lfc-azombied.r04	c5635fd7881b845ff4b4bf6b58204310
+lfc-azombied.r05	86427b33556553986c8af71e92250560
+lfc-azombied.rar	b05a8da4cc47d14e784e16dcbda04bb9
+lfc-azombied.sfv	fff811bf143bb2d820a0173939e9ae37

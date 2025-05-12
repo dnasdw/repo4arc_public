@@ -1,0 +1,5 @@
+v-momodora.nfo	82d7c68ec239cc8e7e17aec2274a1d35
+v-momodora.r00	25a60411d16dc5af99526b0971e3e05f
+v-momodora.r01	d084344fdfd23c31356f2a7ed8927cb0
+v-momodora.rar	8831d13621f82ea951fddde412d36820
+v-momodora.sfv	16d25682b28f650d218478ff4f116203

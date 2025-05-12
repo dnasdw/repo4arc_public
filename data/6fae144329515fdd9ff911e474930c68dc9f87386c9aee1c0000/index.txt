@@ -1,0 +1,4 @@
+v-dynasty_warriors_9_empires_dlc.nfo	-	6214	1	0	0	0
+v-dynasty_warriors_9_empires_dlc.r00	-	4923014	1	6214	0	1
+v-dynasty_warriors_9_empires_dlc.rar	-	50000000	1	4929228	0	6
+v-dynasty_warriors_9_empires_dlc.sfv	-	94	1	54929228	0	54

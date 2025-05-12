@@ -1,0 +1,4 @@
+hr-avlhav3.nfo	-	20150	1	0	0	0
+hr-avlhav3.r00	-	2896160	1	20150	0	1
+hr-avlhav3.rar	-	50000000	1	2916310	0	4
+hr-avlhav3.sfv	-	50	1	52916310	0	52

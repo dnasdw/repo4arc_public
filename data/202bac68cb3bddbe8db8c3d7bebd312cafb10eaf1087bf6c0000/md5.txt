@@ -1,0 +1,7 @@
+lfc-bogs.nfo	c9250eb338ecc1cd5a452def418b7357
+lfc-bogs.r00	0f8e3db81e304aee04330136ba5e5ec1
+lfc-bogs.r01	7ecc2bf7ccc9e7636ff921a45c14d518
+lfc-bogs.r02	9697fbcf01b82bfe032e3b9160e79b44
+lfc-bogs.r03	6a88a55bbf00efb109bebe4a147c7c33
+lfc-bogs.rar	372a79f4b303fe6b9354df088fc92d6e
+lfc-bogs.sfv	1cd5b2916b94abd95e164bb8477c81df

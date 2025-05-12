@@ -1,0 +1,9 @@
+v-my_singing_monsters_playground.nfo	-	5824	1	0	0	0
+v-my_singing_monsters_playground.r00	-	50000000	1	5824	0	1
+v-my_singing_monsters_playground.r01	-	50000000	1	50005824	0	49
+v-my_singing_monsters_playground.r02	-	50000000	1	100005824	0	97
+v-my_singing_monsters_playground.r03	-	50000000	1	150005824	0	145
+v-my_singing_monsters_playground.r04	-	50000000	1	200005824	0	193
+v-my_singing_monsters_playground.r05	-	6722444	1	250005824	0	241
+v-my_singing_monsters_playground.rar	-	50000000	1	256728268	0	248
+v-my_singing_monsters_playground.sfv	-	329	1	306728268	0	296

@@ -1,0 +1,14 @@
+sxs-whipseey_and_the_lost_atlas.nfo	3c347949
+sxs-whipseey_and_the_lost_atlas.r00	234dc6cf
+sxs-whipseey_and_the_lost_atlas.r01	446fc4a9
+sxs-whipseey_and_the_lost_atlas.r02	c3825eba
+sxs-whipseey_and_the_lost_atlas.r03	e1de0472
+sxs-whipseey_and_the_lost_atlas.r04	8f488f7b
+sxs-whipseey_and_the_lost_atlas.r05	c8a6650d
+sxs-whipseey_and_the_lost_atlas.r06	5777e14d
+sxs-whipseey_and_the_lost_atlas.r07	17243461
+sxs-whipseey_and_the_lost_atlas.r08	4a54e78b
+sxs-whipseey_and_the_lost_atlas.r09	f21542a7
+sxs-whipseey_and_the_lost_atlas.r10	47291cda
+sxs-whipseey_and_the_lost_atlas.rar	101c4dc3
+sxs-whipseey_and_the_lost_atlas.sfv	45b90ae6

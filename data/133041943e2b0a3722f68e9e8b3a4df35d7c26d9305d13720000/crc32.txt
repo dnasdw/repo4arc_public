@@ -1,0 +1,4 @@
+v-deadcraft_v65536.nfo	55f56583
+v-deadcraft_v65536.r00	718c0536
+v-deadcraft_v65536.rar	df6ecf77
+v-deadcraft_v65536.sfv	3b230d81

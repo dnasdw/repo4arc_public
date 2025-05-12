@@ -1,0 +1,4 @@
+hr-demtier.nfo	d3bdbb35af67b89ad44b8d135fbaeb73173f03cc
+hr-demtier.r00	944cafa321c2e4d0bb67bf36d5e5866940298762
+hr-demtier.rar	70b60771dcce005c6e84114ddc0104bba52950cf
+hr-demtier.sfv	ba562f32e119f8a001e428dfdbb6d935ffd8f9d0

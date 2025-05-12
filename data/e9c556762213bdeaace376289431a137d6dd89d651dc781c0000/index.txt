@@ -1,0 +1,9 @@
+lfc-monsterbugseatpeople.nfo	-	4428	1	0	0	0
+lfc-monsterbugseatpeople.r00	-	50000000	1	4428	0	1
+lfc-monsterbugseatpeople.r01	-	50000000	1	50004428	0	49
+lfc-monsterbugseatpeople.r02	-	50000000	1	100004428	0	97
+lfc-monsterbugseatpeople.r03	-	50000000	1	150004428	0	145
+lfc-monsterbugseatpeople.r04	-	50000000	1	200004428	0	193
+lfc-monsterbugseatpeople.r05	-	29705038	1	250004428	0	241
+lfc-monsterbugseatpeople.rar	-	50000000	1	279709466	0	270
+lfc-monsterbugseatpeople.sfv	-	273	1	329709466	0	318

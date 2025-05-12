@@ -1,0 +1,12 @@
+brw-fmrr.nfo	0a0fdbc2
+brw-fmrr.r00	2cb04661
+brw-fmrr.r01	fa9c6727
+brw-fmrr.r02	be98263b
+brw-fmrr.r03	98afa03f
+brw-fmrr.r04	56bab738
+brw-fmrr.r05	b9c9a95b
+brw-fmrr.r06	f756200d
+brw-fmrr.r07	677cd433
+brw-fmrr.r08	2182834b
+brw-fmrr.rar	0b063315
+brw-fmrr.sfv	e09180e1

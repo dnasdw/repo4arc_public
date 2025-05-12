@@ -1,0 +1,5 @@
+brw-bmta.nfo	25a7325abe92f6cc5cc11bbbf5ff4622
+brw-bmta.r00	148487372592511dc46c811bf164bc37
+brw-bmta.r01	4b3cf109b60f5f3df7155b477bc79086
+brw-bmta.rar	c2ea0c1d19874c8bccd78584d9c3ab45
+brw-bmta.sfv	f1801cf50222bcae6f6f6ccbf7f2de3d

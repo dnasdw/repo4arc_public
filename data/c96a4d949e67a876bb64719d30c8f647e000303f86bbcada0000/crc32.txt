@@ -1,0 +1,11 @@
+sxs-spitlings.nfo	063fdf6c
+sxs-spitlings.r00	0e8f4154
+sxs-spitlings.r01	fb0a0cda
+sxs-spitlings.r02	f9fd1afd
+sxs-spitlings.r03	15eeeac2
+sxs-spitlings.r04	24a2e82c
+sxs-spitlings.r05	af7a2df4
+sxs-spitlings.r06	df9032d8
+sxs-spitlings.r07	ccbb46a6
+sxs-spitlings.rar	31aafa00
+sxs-spitlings.sfv	e905bb66

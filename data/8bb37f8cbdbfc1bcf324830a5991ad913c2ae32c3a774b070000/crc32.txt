@@ -1,0 +1,9 @@
+v-big_pharma.nfo	b2545445
+v-big_pharma.r00	be361770
+v-big_pharma.r01	6a27abf5
+v-big_pharma.r02	55d1f319
+v-big_pharma.r03	979d8a04
+v-big_pharma.r04	3f812503
+v-big_pharma.r05	cef9d890
+v-big_pharma.rar	29cb07f0
+v-big_pharma.sfv	a2f58838

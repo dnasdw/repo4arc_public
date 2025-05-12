@@ -1,0 +1,15 @@
+v-diablo_ii_resurrected_v1376256.nfo	7217f90a
+v-diablo_ii_resurrected_v1376256.r00	8825d764
+v-diablo_ii_resurrected_v1376256.r01	875e3b35
+v-diablo_ii_resurrected_v1376256.r02	d93ff157
+v-diablo_ii_resurrected_v1376256.r03	5b449c49
+v-diablo_ii_resurrected_v1376256.r04	9c485aa0
+v-diablo_ii_resurrected_v1376256.r05	d578424a
+v-diablo_ii_resurrected_v1376256.r06	18095232
+v-diablo_ii_resurrected_v1376256.r07	889f8b24
+v-diablo_ii_resurrected_v1376256.r08	770c970d
+v-diablo_ii_resurrected_v1376256.r09	0df55ce4
+v-diablo_ii_resurrected_v1376256.r10	9e779ccd
+v-diablo_ii_resurrected_v1376256.r11	71a2d7ec
+v-diablo_ii_resurrected_v1376256.rar	7819cfc3
+v-diablo_ii_resurrected_v1376256.sfv	ee7142cd

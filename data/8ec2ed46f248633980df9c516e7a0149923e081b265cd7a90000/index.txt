@@ -1,0 +1,8 @@
+sxs-spacewing_war.nfo	-	5666	1	0	0	0
+sxs-spacewing_war.r00	-	50000000	1	5666	0	1
+sxs-spacewing_war.r01	-	50000000	1	50005666	0	49
+sxs-spacewing_war.r02	-	50000000	1	100005666	0	97
+sxs-spacewing_war.r03	-	50000000	1	150005666	0	145
+sxs-spacewing_war.r04	-	21063951	1	200005666	0	193
+sxs-spacewing_war.rar	-	50000000	1	221069617	0	214
+sxs-spacewing_war.sfv	-	192	1	271069617	0	262

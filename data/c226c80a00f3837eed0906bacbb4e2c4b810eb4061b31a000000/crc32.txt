@@ -1,0 +1,11 @@
+v-serious_sam_collection_v131072.nfo	c795680e
+v-serious_sam_collection_v131072.r00	ee8f5d92
+v-serious_sam_collection_v131072.r01	d60f9d35
+v-serious_sam_collection_v131072.r02	3fc66e33
+v-serious_sam_collection_v131072.r03	6a4718c3
+v-serious_sam_collection_v131072.r04	a274c510
+v-serious_sam_collection_v131072.r05	9e60d8be
+v-serious_sam_collection_v131072.r06	27d64b21
+v-serious_sam_collection_v131072.r07	b0c204f4
+v-serious_sam_collection_v131072.rar	f8f4eaf1
+v-serious_sam_collection_v131072.sfv	372f5d86

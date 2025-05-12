@@ -1,0 +1,14 @@
+brw-piaf.nfo	3fa03f64
+brw-piaf.r00	3a20a05f
+brw-piaf.r01	fb106923
+brw-piaf.r02	e8c2b1f2
+brw-piaf.r03	35402d37
+brw-piaf.r04	c46a8c30
+brw-piaf.r05	4dd3f73b
+brw-piaf.r06	15dba5e6
+brw-piaf.r07	63c87049
+brw-piaf.r08	146a28b0
+brw-piaf.r09	cd0eb51f
+brw-piaf.r10	37414bfc
+brw-piaf.rar	bfcf395a
+brw-piaf.sfv	6e72d1a0

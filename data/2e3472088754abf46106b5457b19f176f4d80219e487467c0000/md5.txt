@@ -1,0 +1,13 @@
+l-ksolitaire.nfo	b79b160246b050d3b017ed5468d0addc
+l-ksolitaire.r00	d04cbfad6665f7e6183e08a3759bc1c8
+l-ksolitaire.r01	92a52048c6ce3ae14b40f2efacd3bb21
+l-ksolitaire.r02	91a36afed4d5646f523a8ba88f3b32d0
+l-ksolitaire.r03	16663ba0ab320c6687df9c5ad4ef508a
+l-ksolitaire.r04	e4d5567d52ab9b50c4f20e6b0b607af8
+l-ksolitaire.r05	e81caaea63d71ee918176e0320ea8664
+l-ksolitaire.r06	726f1d5ddeb2106b4e66f6275f7c1c34
+l-ksolitaire.r07	987de3c0736ef49104d12f2aa1b23816
+l-ksolitaire.r08	9601f508647da81cf262de2ba7bcf5a1
+l-ksolitaire.r09	582fcce03fa73e033945dc9bd14c7a63
+l-ksolitaire.rar	db13c1ba4bc2ee32e85c85a1927683c6
+l-ksolitaire.sfv	65344b7149ef47223f0e5fa864361163

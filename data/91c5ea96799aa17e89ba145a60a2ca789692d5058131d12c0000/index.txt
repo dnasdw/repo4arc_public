@@ -1,0 +1,9 @@
+sxs-4x4_dirt_track.nfo	-	6376	1	0	0	0
+sxs-4x4_dirt_track.r00	-	100000000	1	6376	0	1
+sxs-4x4_dirt_track.r01	-	100000000	1	100006376	0	97
+sxs-4x4_dirt_track.r02	-	100000000	1	200006376	0	193
+sxs-4x4_dirt_track.r03	-	100000000	1	300006376	0	289
+sxs-4x4_dirt_track.r04	-	100000000	1	400006376	0	385
+sxs-4x4_dirt_track.r05	-	66872422	1	500006376	0	481
+sxs-4x4_dirt_track.rar	-	100000000	1	29123686	1	28
+sxs-4x4_dirt_track.sfv	-	231	1	129123686	1	124

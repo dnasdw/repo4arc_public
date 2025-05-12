@@ -1,0 +1,5 @@
+sxs-cities_skylines_v196608.nfo	-	7148	1	0	0	0
+sxs-cities_skylines_v196608.r00	-	50000000	1	7148	0	1
+sxs-cities_skylines_v196608.r01	-	578407	1	50007148	0	49
+sxs-cities_skylines_v196608.rar	-	50000000	1	50585555	0	50
+sxs-cities_skylines_v196608.sfv	-	126	1	100585555	0	98

@@ -1,0 +1,5 @@
+v-trombone_champ_v327680.nfo	-	4654	1	0	0	0
+v-trombone_champ_v327680.r00	-	100000000	1	4654	0	1
+v-trombone_champ_v327680.r01	-	48602165	1	100004654	0	97
+v-trombone_champ_v327680.rar	-	100000000	1	148606819	0	144
+v-trombone_champ_v327680.sfv	-	117	1	248606819	0	240

@@ -1,0 +1,3 @@
+bbb-n-appsa.nfo	-	5517	1	0	0	0
+bbb-n-appsa.rar	-	219801948	1	5517	0	1
+bbb-n-appsa.sfv	-	26	1	219807465	0	211

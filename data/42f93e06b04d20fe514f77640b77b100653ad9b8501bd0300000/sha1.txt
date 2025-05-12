@@ -1,0 +1,5 @@
+lfc-loch.nfo	9bc4ca168179e56d9ff44b437e2a9d1fa19b4f6c
+lfc-loch.r00	7d16aa20de9a33beb3db7a2e6daee3e075574c6a
+lfc-loch.r01	75de1539dd4272075fd5d2c914f908ac1fe52add
+lfc-loch.rar	929fa87f259510c07e42cad46131d9f3c52f3a96
+lfc-loch.sfv	fe58d88397cc36b4326d8805d3da54ce10c7e197

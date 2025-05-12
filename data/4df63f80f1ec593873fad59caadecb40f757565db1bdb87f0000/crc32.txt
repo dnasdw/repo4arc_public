@@ -1,0 +1,10 @@
+v-goatsim_goaty_v196608.nfo	2c4eb262
+v-goatsim_goaty_v196608.r00	fc100410
+v-goatsim_goaty_v196608.r01	b1177054
+v-goatsim_goaty_v196608.r02	2466d648
+v-goatsim_goaty_v196608.r03	a2e200fb
+v-goatsim_goaty_v196608.r04	6de1d5be
+v-goatsim_goaty_v196608.r05	83367a8a
+v-goatsim_goaty_v196608.r06	e68cbc88
+v-goatsim_goaty_v196608.rar	685ed8ec
+v-goatsim_goaty_v196608.sfv	fca8e546

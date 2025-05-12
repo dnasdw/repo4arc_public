@@ -1,0 +1,4 @@
+sxs-kubic.nfo	-	4808	1	0	0	0
+sxs-kubic.r00	-	15809919	1	4808	0	1
+sxs-kubic.rar	-	100000000	1	15814727	0	17
+sxs-kubic.sfv	-	48	1	115814727	0	113

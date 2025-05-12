@@ -1,0 +1,6 @@
+sxs-magical_drop_vi_v262144.nfo	-	5978	1	0	0	0
+sxs-magical_drop_vi_v262144.r00	-	100000000	1	5978	0	1
+sxs-magical_drop_vi_v262144.r01	-	100000000	1	100005978	0	97
+sxs-magical_drop_vi_v262144.r02	-	70720627	1	200005978	0	193
+sxs-magical_drop_vi_v262144.rar	-	100000000	1	270726605	0	261
+sxs-magical_drop_vi_v262144.sfv	-	168	1	370726605	0	357

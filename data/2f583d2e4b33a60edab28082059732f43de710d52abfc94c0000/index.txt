@@ -1,0 +1,4 @@
+v-aviary_attorney_definitive_edition_v131072.nfo	-	6605	1	0	0	0
+v-aviary_attorney_definitive_edition_v131072.r00	-	17212062	1	6605	0	1
+v-aviary_attorney_definitive_edition_v131072.rar	-	50000000	1	17218667	0	18
+v-aviary_attorney_definitive_edition_v131072.sfv	-	118	1	67218667	0	66

@@ -1,0 +1,8 @@
+bbb-n-amg9a.nfo	-	5517	1	0	0	0
+bbb-n-amg9a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-amg9a.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-amg9a.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-amg9a.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-amg9a.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-amg9a.part6.rar	-	246059928	1	174502528	2	167
+bbb-n-amg9a.sfv	-	192	1	420562456	2	402

@@ -1,0 +1,6 @@
+sxs-party_arcade_v65536.nfo	d7956d7d49e04c10ef8e514af859436e
+sxs-party_arcade_v65536.r00	065af20ba25048e740fd7edf789a6644
+sxs-party_arcade_v65536.r01	5ab4f3dcd4c8d3ea35b4a86304a2ebc4
+sxs-party_arcade_v65536.r02	f3bf1c78f2a755e9fd6e917ca4b7a932
+sxs-party_arcade_v65536.rar	389eca09306d390ea286b9182d3f1446
+sxs-party_arcade_v65536.sfv	f1c6db04fbd3e0cc8bff1566550f1372

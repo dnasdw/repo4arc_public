@@ -1,0 +1,5 @@
+v-grip_v65536.nfo	b4c55bed
+v-grip_v65536.r00	0b86dd0f
+v-grip_v65536.r01	57b69e07
+v-grip_v65536.rar	38bb63cb
+v-grip_v65536.sfv	10137562

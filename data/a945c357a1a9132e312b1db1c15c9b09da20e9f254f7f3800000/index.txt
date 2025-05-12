@@ -1,0 +1,16 @@
+sxs-taiko_no_tatsujin_v524288.nfo	-	3950	1	0	0	0
+sxs-taiko_no_tatsujin_v524288.r00	-	50000000	1	3950	0	1
+sxs-taiko_no_tatsujin_v524288.r01	-	50000000	1	50003950	0	49
+sxs-taiko_no_tatsujin_v524288.r02	-	50000000	1	100003950	0	97
+sxs-taiko_no_tatsujin_v524288.r03	-	50000000	1	150003950	0	145
+sxs-taiko_no_tatsujin_v524288.r04	-	50000000	1	200003950	0	193
+sxs-taiko_no_tatsujin_v524288.r05	-	50000000	1	250003950	0	241
+sxs-taiko_no_tatsujin_v524288.r06	-	50000000	1	300003950	0	289
+sxs-taiko_no_tatsujin_v524288.r07	-	50000000	1	350003950	0	337
+sxs-taiko_no_tatsujin_v524288.r08	-	50000000	1	400003950	0	385
+sxs-taiko_no_tatsujin_v524288.r09	-	50000000	1	450003950	0	433
+sxs-taiko_no_tatsujin_v524288.r10	-	50000000	1	500003950	0	481
+sxs-taiko_no_tatsujin_v524288.r11	-	50000000	1	12251264	1	12
+sxs-taiko_no_tatsujin_v524288.r12	-	18931740	1	62251264	1	60
+sxs-taiko_no_tatsujin_v524288.rar	-	50000192	1	81183004	1	79
+sxs-taiko_no_tatsujin_v524288.sfv	-	616	1	131183196	1	127

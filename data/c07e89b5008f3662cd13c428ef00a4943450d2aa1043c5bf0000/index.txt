@@ -1,0 +1,3 @@
+sxs-under_night_round_call_dlc.nfo	-	3950	1	0	0	0
+sxs-under_night_round_call_dlc.rar	-	104084	1	3950	0	1
+sxs-under_night_round_call_dlc.sfv	-	45	1	108034	0	2

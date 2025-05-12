@@ -1,0 +1,13 @@
+brw-stte.nfo	d1cfb2d2
+brw-stte.r00	25be0697
+brw-stte.r01	d48da0ed
+brw-stte.r02	c3d01df7
+brw-stte.r03	48056b3d
+brw-stte.r04	5262dda7
+brw-stte.r05	4b3d6163
+brw-stte.r06	6ef68313
+brw-stte.r07	362b60a1
+brw-stte.r08	d75e972f
+brw-stte.r09	5037f136
+brw-stte.rar	8ac72694
+brw-stte.sfv	0a0cb04b

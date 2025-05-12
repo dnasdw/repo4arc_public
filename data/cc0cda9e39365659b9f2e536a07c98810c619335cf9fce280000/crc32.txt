@@ -1,0 +1,10 @@
+v-astroneer_v589824.nfo	54982a49
+v-astroneer_v589824.r00	5f2f2da3
+v-astroneer_v589824.r01	ab13465d
+v-astroneer_v589824.r02	27d67471
+v-astroneer_v589824.r03	6de85067
+v-astroneer_v589824.r04	508dc183
+v-astroneer_v589824.r05	cc0f0bd5
+v-astroneer_v589824.r06	1ba790e5
+v-astroneer_v589824.rar	e2b2bbea
+v-astroneer_v589824.sfv	bfffc60d

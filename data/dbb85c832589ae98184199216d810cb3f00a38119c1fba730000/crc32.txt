@@ -1,0 +1,11 @@
+Proof	00000000
+Proof/sxs-loop_hero.jpg	dfc19331
+sxs-loop_hero.nfo	b4ed691f
+sxs-loop_hero.r00	197f913e
+sxs-loop_hero.r01	25b33f42
+sxs-loop_hero.r02	5ffe83ac
+sxs-loop_hero.r03	2150b019
+sxs-loop_hero.r04	1efffb10
+sxs-loop_hero.r05	c1b19035
+sxs-loop_hero.rar	da9c5291
+sxs-loop_hero.sfv	dfde3ee1

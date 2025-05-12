@@ -1,0 +1,4 @@
+sxs-save_your_nuts_v65536.nfo	d74be4523e1342b32e2dcfc728bcae014db361a2
+sxs-save_your_nuts_v65536.r00	2f75b2ccb58e9b53ff45c889c9761f135a40a181
+sxs-save_your_nuts_v65536.rar	d0cb13ae8fc0416f099d01ca6e119915ebb4eba2
+sxs-save_your_nuts_v65536.sfv	2efa66751df3a6c28918f3cec101ec24235630ff

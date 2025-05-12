@@ -1,0 +1,12 @@
+lfc-ppgb.nfo	81408472
+lfc-ppgb.r00	9650fc95
+lfc-ppgb.r01	15423d02
+lfc-ppgb.r02	a9cf45d8
+lfc-ppgb.r03	3eb4d5d3
+lfc-ppgb.r04	cea898c8
+lfc-ppgb.r05	3c59bd26
+lfc-ppgb.r06	7c03f60c
+lfc-ppgb.r07	badd2213
+lfc-ppgb.r08	c0d213c2
+lfc-ppgb.rar	b88540dc
+lfc-ppgb.sfv	252c757f

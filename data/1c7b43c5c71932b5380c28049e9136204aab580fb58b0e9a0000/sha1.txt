@@ -1,0 +1,4 @@
+sxs-wanba_warriors.nfo	5881fd760f64f30c102773006a1f52c561d01c85
+sxs-wanba_warriors.r00	1db4dd0a972c02e4257d4e796cc2f2662fd61055
+sxs-wanba_warriors.rar	20549aea6f534f78fc56f4cb54d286e6a83a2888
+sxs-wanba_warriors.sfv	cdc98807e244578cf90d2288740ac2dd5b890110

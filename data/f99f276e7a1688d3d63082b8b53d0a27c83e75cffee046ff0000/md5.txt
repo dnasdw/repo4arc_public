@@ -1,0 +1,11 @@
+sxs-disjunction.nfo	8844d847db9219861fe8e911b454f43b
+sxs-disjunction.r00	fd30c1de9942caccf6471e22a9146a69
+sxs-disjunction.r01	bcad556fa15787a47b06cdfbcb2e1ef4
+sxs-disjunction.r02	79bbfe6e4f8553d8fe9a5eb25011aed7
+sxs-disjunction.r03	5744ae632ca750889de79c4905461375
+sxs-disjunction.r04	e9d1f0b11d36fbc77225ae88c2364241
+sxs-disjunction.r05	23a6a9e47b65543be66d2bcc1a2e9f3a
+sxs-disjunction.r06	32bc1e87b0859ee6a3e63a77ef12772d
+sxs-disjunction.r07	a59a59ef5eb8428975cd3197d6feb3f2
+sxs-disjunction.rar	3eb3b83a5886d71fc32963905d1981ba
+sxs-disjunction.sfv	dbd48d1db1b83665781a26954381000c

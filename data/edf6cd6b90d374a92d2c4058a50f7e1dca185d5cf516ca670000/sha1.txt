@@ -1,0 +1,3 @@
+v-astlibra_revision_v196608.nfo	248bae78075e2dea0156389fead6ca06d73d2e96
+v-astlibra_revision_v196608.rar	6a69e916467e754f603be24d7c429b97f36550e9
+v-astlibra_revision_v196608.sfv	9ff9b8695075697b865b42a3c3063d5864906133

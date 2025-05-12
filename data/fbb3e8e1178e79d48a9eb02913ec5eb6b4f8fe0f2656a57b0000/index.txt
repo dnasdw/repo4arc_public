@@ -1,0 +1,3 @@
+sxs-endless_memories_v65536.nfo	-	5198	1	0	0	0
+sxs-endless_memories_v65536.rar	-	20888622	1	5198	0	1
+sxs-endless_memories_v65536.sfv	-	42	1	20893820	0	21

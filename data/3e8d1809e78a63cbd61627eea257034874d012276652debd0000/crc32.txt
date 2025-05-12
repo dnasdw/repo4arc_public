@@ -1,0 +1,10 @@
+hr-dunklordsv65536.nfo	e7d1ffad
+hr-dunklordsv65536.r00	f0b423ab
+hr-dunklordsv65536.r01	cd6a6de4
+hr-dunklordsv65536.r02	b5041797
+hr-dunklordsv65536.r03	fad11e22
+hr-dunklordsv65536.r04	8687033b
+hr-dunklordsv65536.r05	c87e25e1
+hr-dunklordsv65536.r06	539edf59
+hr-dunklordsv65536.rar	ccb2b2b3
+hr-dunklordsv65536.sfv	64c66a51

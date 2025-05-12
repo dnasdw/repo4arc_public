@@ -1,0 +1,8 @@
+v-fuze4_v65536.nfo	d4638204
+v-fuze4_v65536.r00	620989b7
+v-fuze4_v65536.r01	5f12b713
+v-fuze4_v65536.r02	d721c711
+v-fuze4_v65536.r03	c9b7021d
+v-fuze4_v65536.r04	801a5b08
+v-fuze4_v65536.rar	6de9fad2
+v-fuze4_v65536.sfv	bc5bde8a

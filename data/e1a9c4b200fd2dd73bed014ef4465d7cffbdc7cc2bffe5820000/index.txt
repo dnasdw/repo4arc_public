@@ -1,0 +1,5 @@
+bbb-n-af7ba.nfo	-	5517	1	0	0	0
+bbb-n-af7ba.part1.rar	-	250000000	1	5517	0	1
+bbb-n-af7ba.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-af7ba.part3.rar	-	211224585	1	500005517	0	479
+bbb-n-af7ba.sfv	-	96	1	173475849	1	166

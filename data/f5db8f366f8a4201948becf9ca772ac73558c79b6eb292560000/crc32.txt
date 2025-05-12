@@ -1,0 +1,13 @@
+sxs-military_combat_shooter_desert_war.nfo	417aa234
+sxs-military_combat_shooter_desert_war.r00	b1218c4c
+sxs-military_combat_shooter_desert_war.r01	5411f58f
+sxs-military_combat_shooter_desert_war.r02	24f6ded4
+sxs-military_combat_shooter_desert_war.r03	e334e12b
+sxs-military_combat_shooter_desert_war.r04	1463e9e4
+sxs-military_combat_shooter_desert_war.r05	d3e1019d
+sxs-military_combat_shooter_desert_war.r06	458cf7b7
+sxs-military_combat_shooter_desert_war.r07	23678158
+sxs-military_combat_shooter_desert_war.r08	2f92bae3
+sxs-military_combat_shooter_desert_war.r09	7920c3da
+sxs-military_combat_shooter_desert_war.rar	32b19d9f
+sxs-military_combat_shooter_desert_war.sfv	3978d472

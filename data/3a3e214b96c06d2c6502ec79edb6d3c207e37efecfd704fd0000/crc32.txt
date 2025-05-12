@@ -1,0 +1,7 @@
+sxs-haunted_house_v196608.nfo	f6e262fd
+sxs-haunted_house_v196608.r00	04e6d26e
+sxs-haunted_house_v196608.r01	17c75a59
+sxs-haunted_house_v196608.r02	c4a53b2b
+sxs-haunted_house_v196608.r03	203f86f3
+sxs-haunted_house_v196608.rar	b9082a9f
+sxs-haunted_house_v196608.sfv	eb04b20c

@@ -1,0 +1,11 @@
+sxs-contra_rogue_corps_v196608.nfo	6f66d34a
+sxs-contra_rogue_corps_v196608.r00	612a0eaa
+sxs-contra_rogue_corps_v196608.r01	8bb46a5c
+sxs-contra_rogue_corps_v196608.r02	ca941537
+sxs-contra_rogue_corps_v196608.r03	ee8e0dad
+sxs-contra_rogue_corps_v196608.r04	45d32c75
+sxs-contra_rogue_corps_v196608.r05	e4d9ce2c
+sxs-contra_rogue_corps_v196608.r06	204a8ef8
+sxs-contra_rogue_corps_v196608.r07	7d0dbf4a
+sxs-contra_rogue_corps_v196608.rar	dca029b3
+sxs-contra_rogue_corps_v196608.sfv	a18a5fed

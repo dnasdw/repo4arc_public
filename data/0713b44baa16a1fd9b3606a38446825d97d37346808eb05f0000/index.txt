@@ -1,0 +1,4 @@
+sxs-psikyo2_v65536.nfo	-	4341	1	0	0	0
+sxs-psikyo2_v65536.r00	-	30170429	1	4341	0	1
+sxs-psikyo2_v65536.rar	-	50000000	1	30174770	0	30
+sxs-psikyo2_v65536.sfv	-	66	1	80174770	0	78

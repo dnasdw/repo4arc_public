@@ -1,0 +1,3 @@
+collected-av67d-dlc.nfo	-	1155	1	0	0	0
+collected-av67d-dlc.rar	-	713114	1	1155	0	1
+collected-av67d-dlc.sfv	-	34	1	714269	0	2

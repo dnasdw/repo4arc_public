@@ -1,0 +1,17 @@
+sxs-spartan_v524288.nfo	51644ee3
+sxs-spartan_v524288.r00	eb0b92d3
+sxs-spartan_v524288.r01	fcd9f569
+sxs-spartan_v524288.r02	6805d096
+sxs-spartan_v524288.r03	c84b71b3
+sxs-spartan_v524288.r04	870b7633
+sxs-spartan_v524288.r05	3a87838a
+sxs-spartan_v524288.r06	71291da2
+sxs-spartan_v524288.r07	37e764ec
+sxs-spartan_v524288.r08	3a171571
+sxs-spartan_v524288.r09	ad71500b
+sxs-spartan_v524288.r10	992ab051
+sxs-spartan_v524288.r11	f522fb4f
+sxs-spartan_v524288.r12	a1a54176
+sxs-spartan_v524288.r13	41ee5c1d
+sxs-spartan_v524288.rar	36bb8cb1
+sxs-spartan_v524288.sfv	8195a55e

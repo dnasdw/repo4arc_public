@@ -1,0 +1,9 @@
+lfc-horrorpinballbundle.nfo	-	4070	1	0	0	0
+lfc-horrorpinballbundle.r00	-	50000000	1	4070	0	1
+lfc-horrorpinballbundle.r01	-	50000000	1	50004070	0	49
+lfc-horrorpinballbundle.r02	-	50000000	1	100004070	0	97
+lfc-horrorpinballbundle.r03	-	50000000	1	150004070	0	145
+lfc-horrorpinballbundle.r04	-	50000000	1	200004070	0	193
+lfc-horrorpinballbundle.r05	-	32998305	1	250004070	0	241
+lfc-horrorpinballbundle.rar	-	50000000	1	283002375	0	273
+lfc-horrorpinballbundle.sfv	-	266	1	333002375	0	321

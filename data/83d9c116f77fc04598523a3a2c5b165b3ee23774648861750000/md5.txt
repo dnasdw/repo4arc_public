@@ -1,0 +1,6 @@
+brw-drdw.nfo	96e3cde6fead092e0076ea8e51f3efa1
+brw-drdw.r00	ff3262cb9b8518bd3dd7140a5c80abe0
+brw-drdw.r01	31adc177a02c49650321df82322014cd
+brw-drdw.r02	a58f132df8d986cbe11724c1e5c7b087
+brw-drdw.rar	6d99302b880195a7de2a3486534806c2
+brw-drdw.sfv	7c794f5ad543cdcd2267df7b6e1bda57

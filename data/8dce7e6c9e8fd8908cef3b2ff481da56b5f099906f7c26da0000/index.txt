@@ -1,0 +1,11 @@
+v-super_kickers_league_v393216.nfo	-	5434	1	0	0	0
+v-super_kickers_league_v393216.r00	-	50000000	1	5434	0	1
+v-super_kickers_league_v393216.r01	-	50000000	1	50005434	0	49
+v-super_kickers_league_v393216.r02	-	50000000	1	100005434	0	97
+v-super_kickers_league_v393216.r03	-	50000000	1	150005434	0	145
+v-super_kickers_league_v393216.r04	-	50000000	1	200005434	0	193
+v-super_kickers_league_v393216.r05	-	50000000	1	250005434	0	241
+v-super_kickers_league_v393216.r06	-	50000000	1	300005434	0	289
+v-super_kickers_league_v393216.r07	-	27994764	1	350005434	0	337
+v-super_kickers_league_v393216.rar	-	50000000	1	378000198	0	364
+v-super_kickers_league_v393216.sfv	-	405	1	428000198	0	412

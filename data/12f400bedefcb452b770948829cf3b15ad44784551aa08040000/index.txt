@@ -1,0 +1,4 @@
+sxs-miniland_adventure.nfo	-	7460	1	0	0	0
+sxs-miniland_adventure.r00	-	98318745	1	7460	0	1
+sxs-miniland_adventure.rar	-	100000000	1	98326205	0	95
+sxs-miniland_adventure.sfv	-	74	1	198326205	0	191

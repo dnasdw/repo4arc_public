@@ -1,0 +1,11 @@
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/sxs-loop_hero.jpg	ff770593f73d428482f9cd4468e69ea6
+sxs-loop_hero.nfo	fd024aef2a4488cde3cdcb69d142ff45
+sxs-loop_hero.r00	5abf3042e27fd6428a3cd48841a9622a
+sxs-loop_hero.r01	b250fce19b15bf0f6101ed9c5289b4be
+sxs-loop_hero.r02	d856e32eb97d54dc99df0306b3c52f8d
+sxs-loop_hero.r03	0500b79e10c820be194c483bf92cf4aa
+sxs-loop_hero.r04	bee99b73adf2f99eb721b3494e582101
+sxs-loop_hero.r05	9c62e4434c0ab9d30d08a6011db80a49
+sxs-loop_hero.rar	5d69c522db6663dfc37690d91d314641
+sxs-loop_hero.sfv	f1a7c1475e7a4def81c8cb4d7e663121

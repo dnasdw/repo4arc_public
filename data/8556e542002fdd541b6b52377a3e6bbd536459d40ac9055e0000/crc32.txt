@@ -1,0 +1,4 @@
+v-aokana_v131072.nfo	81fa0ff7
+v-aokana_v131072.r00	70a31b36
+v-aokana_v131072.rar	90bfef67
+v-aokana_v131072.sfv	232105c8

@@ -1,0 +1,13 @@
+v-triangle_strategy_v65536.nfo	329a3ccd
+v-triangle_strategy_v65536.r00	15526d13
+v-triangle_strategy_v65536.r01	17a47468
+v-triangle_strategy_v65536.r02	d8c3319c
+v-triangle_strategy_v65536.r03	30296e5f
+v-triangle_strategy_v65536.r04	be3049ba
+v-triangle_strategy_v65536.r05	e0ae93e9
+v-triangle_strategy_v65536.r06	e7cd9455
+v-triangle_strategy_v65536.r07	d688c5f3
+v-triangle_strategy_v65536.r08	dbeb8427
+v-triangle_strategy_v65536.r09	115440b2
+v-triangle_strategy_v65536.rar	9b491a65
+v-triangle_strategy_v65536.sfv	1cf795f1

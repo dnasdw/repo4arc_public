@@ -1,0 +1,5 @@
+v-picross_s_plus.nfo	-	5200	1	0	0	0
+v-picross_s_plus.r00	-	100000000	1	5200	0	1
+v-picross_s_plus.r01	-	88423667	1	100005200	0	97
+v-picross_s_plus.rar	-	100000000	1	188428867	0	182
+v-picross_s_plus.sfv	-	93	1	288428867	0	278

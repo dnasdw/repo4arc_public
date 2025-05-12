@@ -1,0 +1,12 @@
+v-riotcu_v131072.nfo	6d498c0f
+v-riotcu_v131072.r00	a8502a9f
+v-riotcu_v131072.r01	f2caa096
+v-riotcu_v131072.r02	7d755410
+v-riotcu_v131072.r03	16e51c85
+v-riotcu_v131072.r04	41387054
+v-riotcu_v131072.r05	bb6e29fe
+v-riotcu_v131072.r06	f09b37f9
+v-riotcu_v131072.r07	fb446280
+v-riotcu_v131072.r08	5f4c9392
+v-riotcu_v131072.rar	a14cd680
+v-riotcu_v131072.sfv	dd66530a

@@ -1,0 +1,5 @@
+sxs-snes_v262144.nfo	a38b86e6
+sxs-snes_v262144.r00	90babb90
+sxs-snes_v262144.r01	9ba79f0a
+sxs-snes_v262144.rar	422f623c
+sxs-snes_v262144.sfv	5e5ef746

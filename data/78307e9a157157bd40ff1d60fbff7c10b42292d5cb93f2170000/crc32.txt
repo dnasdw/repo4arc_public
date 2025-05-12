@@ -1,0 +1,11 @@
+v-asteroids_recharged.nfo	41325581
+v-asteroids_recharged.r00	f18f8126
+v-asteroids_recharged.r01	3ca3c1ce
+v-asteroids_recharged.r02	ac6ccd6e
+v-asteroids_recharged.r03	c261d55b
+v-asteroids_recharged.r04	d747d906
+v-asteroids_recharged.r05	c4b0e47a
+v-asteroids_recharged.r06	6739f478
+v-asteroids_recharged.r07	bfe11a86
+v-asteroids_recharged.rar	10cc76dd
+v-asteroids_recharged.sfv	40f3e8aa

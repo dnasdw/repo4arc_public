@@ -1,0 +1,8 @@
+v-as_far_as_the_eye_v196608.nfo	-	6526	1	0	0	0
+v-as_far_as_the_eye_v196608.r00	-	50000000	1	6526	0	1
+v-as_far_as_the_eye_v196608.r01	-	50000000	1	50006526	0	49
+v-as_far_as_the_eye_v196608.r02	-	50000000	1	100006526	0	97
+v-as_far_as_the_eye_v196608.r03	-	50000000	1	150006526	0	145
+v-as_far_as_the_eye_v196608.r04	-	5855247	1	200006526	0	193
+v-as_far_as_the_eye_v196608.rar	-	50000000	1	205861773	0	199
+v-as_far_as_the_eye_v196608.sfv	-	252	1	255861773	0	247

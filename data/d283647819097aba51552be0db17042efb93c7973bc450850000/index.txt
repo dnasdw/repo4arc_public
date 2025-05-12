@@ -1,0 +1,5 @@
+sxs-mini_metro_v393216.nfo	-	5666	1	0	0	0
+sxs-mini_metro_v393216.r00	-	100000000	1	5666	0	1
+sxs-mini_metro_v393216.r01	-	4233808	1	100005666	0	97
+sxs-mini_metro_v393216.rar	-	100000000	1	104239474	0	102
+sxs-mini_metro_v393216.sfv	-	111	1	204239474	0	198

@@ -1,0 +1,5 @@
+sxs-process_of_elimination_v65536.nfo	-	3794	1	0	0	0
+sxs-process_of_elimination_v65536.r00	-	100000000	1	3794	0	1
+sxs-process_of_elimination_v65536.r01	-	10819348	1	100003794	0	97
+sxs-process_of_elimination_v65536.rar	-	100000000	1	110823142	0	108
+sxs-process_of_elimination_v65536.sfv	-	144	1	210823142	0	204

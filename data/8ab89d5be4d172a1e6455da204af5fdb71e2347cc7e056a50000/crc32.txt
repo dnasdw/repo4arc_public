@@ -1,0 +1,14 @@
+jrp-r2g.nfo	ea139e7b
+jrp-r2g.r00	bcf5a537
+jrp-r2g.r01	859ac15c
+jrp-r2g.r02	91b3437b
+jrp-r2g.r03	1ba1c430
+jrp-r2g.r04	9cf909e2
+jrp-r2g.r05	99ad38a8
+jrp-r2g.r06	c575da6c
+jrp-r2g.r07	2a0b1cd1
+jrp-r2g.r08	cde151d7
+jrp-r2g.r09	bb328aa5
+jrp-r2g.r10	cd1ecbbf
+jrp-r2g.rar	07550620
+jrp-r2g.sfv	4c47180f

@@ -1,0 +1,4 @@
+sxs-dyna_bomb_v196608.nfo	-	4028	1	0	0	0
+sxs-dyna_bomb_v196608.r00	-	5991105	1	4028	0	1
+sxs-dyna_bomb_v196608.rar	-	50000000	1	5995133	0	7
+sxs-dyna_bomb_v196608.sfv	-	72	1	55995133	0	55

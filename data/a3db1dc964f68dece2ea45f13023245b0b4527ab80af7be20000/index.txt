@@ -1,0 +1,4 @@
+sxs-dark_souls_remastered_v196608.nfo	-	5432	1	0	0	0
+sxs-dark_souls_remastered_v196608.r00	-	38139890	1	5432	0	1
+sxs-dark_souls_remastered_v196608.rar	-	50000000	1	38145322	0	38
+sxs-dark_souls_remastered_v196608.sfv	-	96	1	88145322	0	86

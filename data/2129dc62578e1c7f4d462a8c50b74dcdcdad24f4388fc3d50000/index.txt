@@ -1,0 +1,8 @@
+sxs-puzzletronics_digital_infinite.nfo	-	4886	1	0	0	0
+sxs-puzzletronics_digital_infinite.r00	-	50000000	1	4886	0	1
+sxs-puzzletronics_digital_infinite.r01	-	50000000	1	50004886	0	49
+sxs-puzzletronics_digital_infinite.r02	-	50000000	1	100004886	0	97
+sxs-puzzletronics_digital_infinite.r03	-	50000000	1	150004886	0	145
+sxs-puzzletronics_digital_infinite.r04	-	25010464	1	200004886	0	193
+sxs-puzzletronics_digital_infinite.rar	-	50000000	1	225015350	0	217
+sxs-puzzletronics_digital_infinite.sfv	-	294	1	275015350	0	265

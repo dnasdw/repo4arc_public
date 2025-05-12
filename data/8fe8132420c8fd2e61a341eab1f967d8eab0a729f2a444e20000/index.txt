@@ -1,0 +1,6 @@
+sxs-alpaca_wonders_why.nfo	-	5042	1	0	0	0
+sxs-alpaca_wonders_why.r00	-	100000000	1	5042	0	1
+sxs-alpaca_wonders_why.r01	-	100000000	1	100005042	0	97
+sxs-alpaca_wonders_why.r02	-	98658843	1	200005042	0	193
+sxs-alpaca_wonders_why.rar	-	100000000	1	298663885	0	288
+sxs-alpaca_wonders_why.sfv	-	148	1	398663885	0	384

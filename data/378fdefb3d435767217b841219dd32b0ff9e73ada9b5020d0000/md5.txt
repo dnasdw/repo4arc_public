@@ -1,0 +1,10 @@
+v-farm_tycoon_v262144.nfo	79d7309a50295812e376b877afa495da
+v-farm_tycoon_v262144.r00	7ea6c73a241256cbbfbdc8214ab94c59
+v-farm_tycoon_v262144.r01	14768decfae6ecf31ac4fac02ed54006
+v-farm_tycoon_v262144.r02	ebe66c59c24237f8e93cf226dbef947a
+v-farm_tycoon_v262144.r03	302b22f23dcf22bf39e58834821f7e6a
+v-farm_tycoon_v262144.r04	7517400b30fd19d3167261b7a47f720c
+v-farm_tycoon_v262144.r05	fae6429ebd474a4772b0d7e0ec8b7c3d
+v-farm_tycoon_v262144.r06	fbdecfd6493442687c797c2f8cb2964b
+v-farm_tycoon_v262144.rar	ff6ad1b1c68c5477ee07819cff23a6dd
+v-farm_tycoon_v262144.sfv	b54db8af740240e808a71bc980f91db1

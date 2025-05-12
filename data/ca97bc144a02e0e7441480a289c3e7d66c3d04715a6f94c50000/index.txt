@@ -1,0 +1,5 @@
+sxs-pilot_sports_v65536.nfo	-	4340	1	0	0	0
+sxs-pilot_sports_v65536.r00	-	50000000	1	4340	0	1
+sxs-pilot_sports_v65536.r01	-	1786602	1	50004340	0	49
+sxs-pilot_sports_v65536.rar	-	50000000	1	51790942	0	51
+sxs-pilot_sports_v65536.sfv	-	114	1	101790942	0	99

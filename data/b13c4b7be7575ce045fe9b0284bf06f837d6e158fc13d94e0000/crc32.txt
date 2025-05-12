@@ -1,0 +1,5 @@
+lfc-mord_v65536.nfo	36cfdf0b
+lfc-mord_v65536.r00	9980e6d0
+lfc-mord_v65536.r01	2b3037dd
+lfc-mord_v65536.rar	f52a90e2
+lfc-mord_v65536.sfv	7cd56818

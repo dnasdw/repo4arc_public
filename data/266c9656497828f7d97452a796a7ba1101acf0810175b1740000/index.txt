@@ -1,0 +1,6 @@
+sxs-catlateral_damage_remeowstered_v393216.nfo	-	5978	1	0	0	0
+sxs-catlateral_damage_remeowstered_v393216.r00	-	100000000	1	5978	0	1
+sxs-catlateral_damage_remeowstered_v393216.r01	-	100000000	1	100005978	0	97
+sxs-catlateral_damage_remeowstered_v393216.r02	-	18442447	1	200005978	0	193
+sxs-catlateral_damage_remeowstered_v393216.rar	-	100000000	1	218448425	0	211
+sxs-catlateral_damage_remeowstered_v393216.sfv	-	228	1	318448425	0	307

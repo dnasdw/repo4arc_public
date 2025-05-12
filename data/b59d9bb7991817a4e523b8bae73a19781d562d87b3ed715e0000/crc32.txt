@@ -1,0 +1,8 @@
+sxs-octopath_traveler_ii_v65536.nfo	58249e92
+sxs-octopath_traveler_ii_v65536.r00	b0992cbb
+sxs-octopath_traveler_ii_v65536.r01	a8170832
+sxs-octopath_traveler_ii_v65536.r02	d56671cf
+sxs-octopath_traveler_ii_v65536.r03	9874760f
+sxs-octopath_traveler_ii_v65536.r04	237fc6e5
+sxs-octopath_traveler_ii_v65536.rar	7aa7868c
+sxs-octopath_traveler_ii_v65536.sfv	1086771e

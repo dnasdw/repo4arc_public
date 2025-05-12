@@ -1,0 +1,13 @@
+sxs-dont_starve_v458752.nfo	687e08b8
+sxs-dont_starve_v458752.r00	a7eab48f
+sxs-dont_starve_v458752.r01	c8c1b316
+sxs-dont_starve_v458752.r02	6a5cf80a
+sxs-dont_starve_v458752.r03	15e08841
+sxs-dont_starve_v458752.r04	99e41247
+sxs-dont_starve_v458752.r05	4d2e0a71
+sxs-dont_starve_v458752.r06	214125a3
+sxs-dont_starve_v458752.r07	e8434b8a
+sxs-dont_starve_v458752.r08	04a6db34
+sxs-dont_starve_v458752.r09	309d1168
+sxs-dont_starve_v458752.rar	84845162
+sxs-dont_starve_v458752.sfv	e9007b38

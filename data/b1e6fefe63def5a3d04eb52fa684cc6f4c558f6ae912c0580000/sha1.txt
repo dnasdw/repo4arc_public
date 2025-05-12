@@ -1,0 +1,7 @@
+lfc-elhe.nfo	63f827e8aff3e9a2fa9d9bb16a3ef6f1dea5eca3
+lfc-elhe.r00	4bc2b5f0bbf6586f615756ed2a4de4404f5cc5bf
+lfc-elhe.r01	5171080ca503f8897174dfcda603ca1da68ba86c
+lfc-elhe.r02	888933ad8d086a06f2f918db28b7ea956d2482c9
+lfc-elhe.r03	22129e39b9fda89af67b0e8f6430d0862aaa4a42
+lfc-elhe.rar	814d7c07d929eb9c1b583b38a8e19d9e215698a1
+lfc-elhe.sfv	75e2ddf0872e2d90edf82a16dbeccb2a6018123e

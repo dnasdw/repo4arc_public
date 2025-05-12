@@ -1,0 +1,10 @@
+v-doom_ii_classic.nfo	a42f879d
+v-doom_ii_classic.r00	54cc9d86
+v-doom_ii_classic.r01	3cdf6583
+v-doom_ii_classic.r02	d4e12107
+v-doom_ii_classic.r03	4931aa7d
+v-doom_ii_classic.r04	917f1c61
+v-doom_ii_classic.r05	63ea202f
+v-doom_ii_classic.r06	5eca3912
+v-doom_ii_classic.rar	54957b23
+v-doom_ii_classic.sfv	d423c7b2

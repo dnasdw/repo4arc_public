@@ -1,0 +1,5 @@
+bbb-n-ak9xa.nfo	-	5517	1	0	0	0
+bbb-n-ak9xa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ak9xa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ak9xa.part3.rar	-	220262456	1	500005517	0	479
+bbb-n-ak9xa.sfv	-	96	1	182513720	1	175

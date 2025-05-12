@@ -1,0 +1,13 @@
+sxs-book_quest.nfo	42f00f64828ef99971a417bc5b02fbd1
+sxs-book_quest.r00	81ad3ecba10cb43579a873f48578c042
+sxs-book_quest.r01	028d85771c9ca2c2d78dc9f7bac2a7e7
+sxs-book_quest.r02	ac2437622773c6fa0a540386cb97629b
+sxs-book_quest.r03	b815efbde6d9d9baabc99293a9a614fd
+sxs-book_quest.r04	ee70d47ed8bc7459f9b34ce2e01854ed
+sxs-book_quest.r05	5b1e649245ea342c3b665d07a21d73bb
+sxs-book_quest.r06	9757a8506956ad42675bfea662d54ba3
+sxs-book_quest.r07	57b8c31b2510b0741c778611d89ca20f
+sxs-book_quest.r08	b0f0f0b381ba1ec48aae4d54d363b3bf
+sxs-book_quest.r09	805d38eca540593bacd0dc2177a8e406
+sxs-book_quest.rar	28e388b5cdb56bd7c4c0ac3220a01ec7
+sxs-book_quest.sfv	272f599887f1278a069211b8e1f9ccac

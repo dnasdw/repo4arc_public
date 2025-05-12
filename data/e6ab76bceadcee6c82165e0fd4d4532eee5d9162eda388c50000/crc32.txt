@@ -1,0 +1,6 @@
+sxs-inspector_gadget_mad_time_party_v65536.nfo	c3b34419
+sxs-inspector_gadget_mad_time_party_v65536.r00	08de5a3d
+sxs-inspector_gadget_mad_time_party_v65536.r01	41d0a479
+sxs-inspector_gadget_mad_time_party_v65536.r02	363894cb
+sxs-inspector_gadget_mad_time_party_v65536.rar	34224996
+sxs-inspector_gadget_mad_time_party_v65536.sfv	4e979a50

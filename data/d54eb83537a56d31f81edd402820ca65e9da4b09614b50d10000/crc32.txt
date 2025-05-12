@@ -1,0 +1,12 @@
+i-pt.nfo	eb3efc8e
+i-pt.r00	78e5c047
+i-pt.r01	61e86182
+i-pt.r02	b0b39ea5
+i-pt.r03	1ce82f6f
+i-pt.r04	f3600043
+i-pt.r05	c3f5e53e
+i-pt.r06	e4e08646
+i-pt.r07	044c9877
+i-pt.r08	3988fe31
+i-pt.rar	3d6892d8
+i-pt.sfv	a4bba109

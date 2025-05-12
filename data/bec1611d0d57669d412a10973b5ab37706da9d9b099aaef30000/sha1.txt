@@ -1,0 +1,4 @@
+sxs-sniper_elite_4_v196608.nfo	3c3da63bdcf2b61c5d90a559fe49d21b6f40d4d6
+sxs-sniper_elite_4_v196608.r00	16c902b391ac9988da1067c10d8dda4ea1ef65c9
+sxs-sniper_elite_4_v196608.rar	fc5e4069196c9eb34f05a6fab63e8be5eb6d7455
+sxs-sniper_elite_4_v196608.sfv	7bde1068c7bc82229056c89de57f67371ac607b0

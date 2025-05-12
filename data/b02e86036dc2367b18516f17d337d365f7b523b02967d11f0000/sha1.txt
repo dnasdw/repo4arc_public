@@ -1,0 +1,7 @@
+wmt-n-otttd.nfo	ab54772346dc7ae35df7298bde0ff832477f1eb7
+wmt-n-otttd.r00	4550ea1b0e7b64a8cdf78d3ce7a2004b2d48c2b5
+wmt-n-otttd.r01	068ed2ee4d122c717830da6d836e49677bd52f9d
+wmt-n-otttd.r02	120900ad9221ca4fc8139569b40bfda3c3831caf
+wmt-n-otttd.r03	3e1cc31c47da03749ef13236cc51cb60b00ef9d0
+wmt-n-otttd.rar	c0cdb7adb1fb6e1f45bc8d407b6ceaa41b9ccffa
+wmt-n-otttd.sfv	97fe64f5a1c7a4690ccc45e47c453d50fd4e2149

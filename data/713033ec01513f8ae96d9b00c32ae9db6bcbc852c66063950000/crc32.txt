@@ -1,0 +1,7 @@
+v-arkan_the_dog_adventurer.nfo	fc296f4c
+v-arkan_the_dog_adventurer.r00	818f6a9d
+v-arkan_the_dog_adventurer.r01	d7ce7e43
+v-arkan_the_dog_adventurer.r02	d479c108
+v-arkan_the_dog_adventurer.r03	f078e0ae
+v-arkan_the_dog_adventurer.rar	ad30f06c
+v-arkan_the_dog_adventurer.sfv	e765017e

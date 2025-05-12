@@ -1,0 +1,11 @@
+sxs-sonic_colors_ultimate_v327680.nfo	-	5120	1	0	0	0
+sxs-sonic_colors_ultimate_v327680.r00	-	50000000	1	5120	0	1
+sxs-sonic_colors_ultimate_v327680.r01	-	50000000	1	50005120	0	49
+sxs-sonic_colors_ultimate_v327680.r02	-	50000000	1	100005120	0	97
+sxs-sonic_colors_ultimate_v327680.r03	-	50000000	1	150005120	0	145
+sxs-sonic_colors_ultimate_v327680.r04	-	50000000	1	200005120	0	193
+sxs-sonic_colors_ultimate_v327680.r05	-	50000000	1	250005120	0	241
+sxs-sonic_colors_ultimate_v327680.r06	-	50000000	1	300005120	0	289
+sxs-sonic_colors_ultimate_v327680.r07	-	22663188	1	350005120	0	337
+sxs-sonic_colors_ultimate_v327680.rar	-	50000000	1	372668308	0	359
+sxs-sonic_colors_ultimate_v327680.sfv	-	432	1	422668308	0	407

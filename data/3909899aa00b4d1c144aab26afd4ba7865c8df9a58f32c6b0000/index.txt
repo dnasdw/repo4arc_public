@@ -1,0 +1,9 @@
+v-titanium_hound.nfo	-	7228	1	0	0	0
+v-titanium_hound.r00	-	100000000	1	7228	0	1
+v-titanium_hound.r01	-	100000000	1	100007228	0	97
+v-titanium_hound.r02	-	100000000	1	200007228	0	193
+v-titanium_hound.r03	-	100000000	1	300007228	0	289
+v-titanium_hound.r04	-	100000000	1	400007228	0	385
+v-titanium_hound.r05	-	22812069	1	500007228	0	481
+v-titanium_hound.rar	-	100000000	1	522819297	0	503
+v-titanium_hound.sfv	-	217	1	85319936	1	82

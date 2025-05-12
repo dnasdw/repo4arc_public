@@ -1,0 +1,5 @@
+sxs-hopes_farm.nfo	f36f7adf
+sxs-hopes_farm.r00	20c305d4
+sxs-hopes_farm.r01	83a66d09
+sxs-hopes_farm.rar	e8bbed00
+sxs-hopes_farm.sfv	6d8207de

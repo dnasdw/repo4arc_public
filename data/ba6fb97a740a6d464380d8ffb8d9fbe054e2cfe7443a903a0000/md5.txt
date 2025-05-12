@@ -1,0 +1,11 @@
+sxs-sausage_wars.nfo	fe43d14ed4da644938b2e614bf6e9689
+sxs-sausage_wars.r00	d4152e98c551bbf2ac9a9fa9f3eb7ceb
+sxs-sausage_wars.r01	26cb83e50273607561f42bf7583993af
+sxs-sausage_wars.r02	ef85dadb72f7002535491c9bde92fd37
+sxs-sausage_wars.r03	97e87a9813d2c3472d78605ee0b55fc4
+sxs-sausage_wars.r04	ed2e71bff5b7f882045c155517a172c4
+sxs-sausage_wars.r05	be5344e96f3b3c425c24028a43c360a0
+sxs-sausage_wars.r06	9b247051e104ddd80b64eb25bccdee29
+sxs-sausage_wars.r07	0bf2eadc582814359e589f016aae16c9
+sxs-sausage_wars.rar	c7edba0f02a6f5ceee2aca9dfa67ae24
+sxs-sausage_wars.sfv	3fd3e47cd8bdbda6dff655ce124c725c

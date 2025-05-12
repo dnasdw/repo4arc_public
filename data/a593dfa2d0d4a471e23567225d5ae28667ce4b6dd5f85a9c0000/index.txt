@@ -1,0 +1,7 @@
+sxs-blaster_master_zero_v589824.nfo	-	5588	1	0	0	0
+sxs-blaster_master_zero_v589824.r00	-	50000000	1	5588	0	1
+sxs-blaster_master_zero_v589824.r01	-	50000000	1	50005588	0	49
+sxs-blaster_master_zero_v589824.r02	-	50000000	1	100005588	0	97
+sxs-blaster_master_zero_v589824.r03	-	11967907	1	150005588	0	145
+sxs-blaster_master_zero_v589824.rar	-	50000000	1	161973495	0	157
+sxs-blaster_master_zero_v589824.sfv	-	230	1	211973495	0	205

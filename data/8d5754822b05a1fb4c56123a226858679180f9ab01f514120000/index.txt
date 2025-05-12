@@ -1,0 +1,9 @@
+sxs-party_party_time_2.nfo	-	6368	1	0	0	0
+sxs-party_party_time_2.r00	-	100000000	1	6368	0	1
+sxs-party_party_time_2.r01	-	100000000	1	100006368	0	97
+sxs-party_party_time_2.r02	-	100000000	1	200006368	0	193
+sxs-party_party_time_2.r03	-	100000000	1	300006368	0	289
+sxs-party_party_time_2.r04	-	100000000	1	400006368	0	385
+sxs-party_party_time_2.r05	-	49211886	1	500006368	0	481
+sxs-party_party_time_2.rar	-	100000000	1	11463150	1	11
+sxs-party_party_time_2.sfv	-	259	1	111463150	1	107

@@ -1,0 +1,13 @@
+sxs-arietta_of_spirits.nfo	dd858be7
+sxs-arietta_of_spirits.r00	d6e77ab6
+sxs-arietta_of_spirits.r01	f6ac98a3
+sxs-arietta_of_spirits.r02	cf160845
+sxs-arietta_of_spirits.r03	33965a2e
+sxs-arietta_of_spirits.r04	ff5e5c00
+sxs-arietta_of_spirits.r05	3090f568
+sxs-arietta_of_spirits.r06	f00e9df2
+sxs-arietta_of_spirits.r07	e4255e7c
+sxs-arietta_of_spirits.r08	8096c589
+sxs-arietta_of_spirits.r09	c6d1e9af
+sxs-arietta_of_spirits.rar	4237008d
+sxs-arietta_of_spirits.sfv	8f19ec76

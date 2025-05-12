@@ -1,0 +1,15 @@
+v-torchlight_ii_v262144.nfo	a178cb04
+v-torchlight_ii_v262144.r00	e96ffbc5
+v-torchlight_ii_v262144.r01	1ed495c3
+v-torchlight_ii_v262144.r02	1fc63c33
+v-torchlight_ii_v262144.r03	a781932d
+v-torchlight_ii_v262144.r04	0e5cc1cb
+v-torchlight_ii_v262144.r05	a867a541
+v-torchlight_ii_v262144.r06	b0cf8afe
+v-torchlight_ii_v262144.r07	b66ca4ab
+v-torchlight_ii_v262144.r08	ecc70b3f
+v-torchlight_ii_v262144.r09	7d6321a3
+v-torchlight_ii_v262144.r10	59092062
+v-torchlight_ii_v262144.r11	cf45b858
+v-torchlight_ii_v262144.rar	9802ba32
+v-torchlight_ii_v262144.sfv	114ea41c

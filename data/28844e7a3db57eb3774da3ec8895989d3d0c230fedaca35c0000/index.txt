@@ -1,0 +1,5 @@
+sxs-evasion_from_hell_v65536.nfo	-	5276	1	0	0	0
+sxs-evasion_from_hell_v65536.r00	-	50000000	1	5276	0	1
+sxs-evasion_from_hell_v65536.r01	-	18272870	1	50005276	0	49
+sxs-evasion_from_hell_v65536.rar	-	50000000	1	68278146	0	67
+sxs-evasion_from_hell_v65536.sfv	-	129	1	118278146	0	115

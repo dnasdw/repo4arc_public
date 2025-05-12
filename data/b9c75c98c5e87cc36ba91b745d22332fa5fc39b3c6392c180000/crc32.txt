@@ -1,0 +1,5 @@
+sxs-devastator_v65536.nfo	d768e3ae
+sxs-devastator_v65536.r00	9fd9433b
+sxs-devastator_v65536.r01	36f97548
+sxs-devastator_v65536.rar	1a593873
+sxs-devastator_v65536.sfv	eccc4ec0

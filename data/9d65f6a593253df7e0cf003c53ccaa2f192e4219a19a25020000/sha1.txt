@@ -1,0 +1,7 @@
+sxs-pocket_pool.nfo	051ce2b53a7da2b028ed88fdaea6fa2fc1ff8d77
+sxs-pocket_pool.r00	f00fb9041b29b0f63e0417db8f18da842e41ed93
+sxs-pocket_pool.r01	0f38976ddb04013b07f5028d5179f34b7ba45bde
+sxs-pocket_pool.r02	50b5caf3d37280bd5994cf5d2b61513b56f1872e
+sxs-pocket_pool.r03	90e72b3fcb6e1eb1cfacc93a58afc30b7bd86fde
+sxs-pocket_pool.rar	98b89929f3b555f7a94e4df77cd2cc665282f2c7
+sxs-pocket_pool.sfv	37a0a9d6b1df0b26cbb65e56ca2e809263320d7f

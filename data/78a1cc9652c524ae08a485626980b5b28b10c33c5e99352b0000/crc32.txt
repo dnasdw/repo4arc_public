@@ -1,0 +1,6 @@
+sxs-super_dino.nfo	53c6482a
+sxs-super_dino.r00	ab1549cb
+sxs-super_dino.r01	23c48a2f
+sxs-super_dino.r02	04ba9cb4
+sxs-super_dino.rar	4d7073ee
+sxs-super_dino.sfv	c564026d

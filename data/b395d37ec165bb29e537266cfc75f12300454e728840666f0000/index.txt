@@ -1,0 +1,5 @@
+brw-cfar_rp.nfo	-	3437	1	0	0	0
+brw-cfar_rp.r00	-	100000000	1	3437	0	1
+brw-cfar_rp.r01	-	54498910	1	100003437	0	97
+brw-cfar_rp.rar	-	100000000	1	154502347	0	149
+brw-cfar_rp.sfv	-	78	1	254502347	0	245

@@ -1,0 +1,6 @@
+sxs-timberman_vs_v327680.nfo	-	5822	1	0	0	0
+sxs-timberman_vs_v327680.r00	-	50000000	1	5822	0	1
+sxs-timberman_vs_v327680.r01	-	50000000	1	50005822	0	49
+sxs-timberman_vs_v327680.r02	-	18923364	1	100005822	0	97
+sxs-timberman_vs_v327680.rar	-	50000000	1	118929186	0	116
+sxs-timberman_vs_v327680.sfv	-	156	1	168929186	0	164

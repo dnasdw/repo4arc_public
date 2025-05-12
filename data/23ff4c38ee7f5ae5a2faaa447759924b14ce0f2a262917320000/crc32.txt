@@ -1,0 +1,5 @@
+sxs-monster_truck_freestyle.nfo	21639383
+sxs-monster_truck_freestyle.r00	45a678d7
+sxs-monster_truck_freestyle.r01	9df272f7
+sxs-monster_truck_freestyle.rar	668d1ba0
+sxs-monster_truck_freestyle.sfv	62258db8

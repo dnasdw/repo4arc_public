@@ -1,0 +1,10 @@
+lfc-papo.nfo	0e00483ad0daf17b64ecf54d36e4f335
+lfc-papo.r00	18020a03d739a833b44eacfbbecb6ee7
+lfc-papo.r01	121c565dcf348ed70c8fb59028bf85de
+lfc-papo.r02	3810785d2f80e4c5284fee5197edbbae
+lfc-papo.r03	5f8a17948846e1e579ec42de9c32b8a8
+lfc-papo.r04	15b2511e7371d050a362dd5a8c0ae461
+lfc-papo.r05	e863245af11b5a76dc75564b17fec6a2
+lfc-papo.r06	50f223d1592a1233330efd199fdccdc5
+lfc-papo.rar	962d544f6f27d57b481b3c8431c8e1a1
+lfc-papo.sfv	f7ad94da0c7b30d30c4bd56617e3e599

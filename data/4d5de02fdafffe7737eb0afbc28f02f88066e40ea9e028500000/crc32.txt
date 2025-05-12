@@ -1,0 +1,11 @@
+lfc-gunb_v196608.nfo	019f353f
+lfc-gunb_v196608.r00	878bef25
+lfc-gunb_v196608.r01	4f42ad1c
+lfc-gunb_v196608.r02	d038f3f6
+lfc-gunb_v196608.r03	95bcfee2
+lfc-gunb_v196608.r04	befe41c5
+lfc-gunb_v196608.r05	60ba6dcd
+lfc-gunb_v196608.r06	231443d9
+lfc-gunb_v196608.r07	983f65e3
+lfc-gunb_v196608.rar	f23aa82d
+lfc-gunb_v196608.sfv	14b28a1a

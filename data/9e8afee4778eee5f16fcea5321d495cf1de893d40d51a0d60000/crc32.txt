@@ -1,0 +1,11 @@
+v-taiko_v458752.nfo	4a13d5c4
+v-taiko_v458752.r00	3e7d93ca
+v-taiko_v458752.r01	4d99fef9
+v-taiko_v458752.r02	ece6c769
+v-taiko_v458752.r03	bc7e4453
+v-taiko_v458752.r04	67204702
+v-taiko_v458752.r05	3d332daa
+v-taiko_v458752.r06	1d85c7df
+v-taiko_v458752.r07	89128cea
+v-taiko_v458752.rar	ff2eba24
+v-taiko_v458752.sfv	80116605

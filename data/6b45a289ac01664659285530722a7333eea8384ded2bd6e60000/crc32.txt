@@ -1,0 +1,17 @@
+sxs-bcbu.nfo	5ed7b533
+sxs-bcbu.r00	2eb24d15
+sxs-bcbu.r01	2042b524
+sxs-bcbu.r02	4f065bf3
+sxs-bcbu.r03	c2af72c7
+sxs-bcbu.r04	3967ffc1
+sxs-bcbu.r05	18440542
+sxs-bcbu.r06	613cfd39
+sxs-bcbu.r07	51eff6c0
+sxs-bcbu.r08	3c2c1fd3
+sxs-bcbu.r09	b1dc93b8
+sxs-bcbu.r10	ccfc5e51
+sxs-bcbu.r11	84d3dcf1
+sxs-bcbu.r12	f6bd6f16
+sxs-bcbu.r13	23305565
+sxs-bcbu.rar	fdfcd607
+sxs-bcbu.sfv	fb4d455e

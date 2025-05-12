@@ -1,0 +1,4 @@
+brw-ffgt.nfo	-	3359	1	0	0	0
+brw-ffgt.r00	-	7874847	1	3359	0	1
+brw-ffgt.rar	-	50000000	1	7878206	0	9
+brw-ffgt.sfv	-	46	1	57878206	0	57

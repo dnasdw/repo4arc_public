@@ -1,0 +1,8 @@
+sxs-space_ribbon_v65536.nfo	-	5900	1	0	0	0
+sxs-space_ribbon_v65536.r00	-	50000000	1	5900	0	1
+sxs-space_ribbon_v65536.r01	-	50000000	1	50005900	0	49
+sxs-space_ribbon_v65536.r02	-	50000000	1	100005900	0	97
+sxs-space_ribbon_v65536.r03	-	50000000	1	150005900	0	145
+sxs-space_ribbon_v65536.r04	-	5585688	1	200005900	0	193
+sxs-space_ribbon_v65536.rar	-	50000000	1	205591588	0	199
+sxs-space_ribbon_v65536.sfv	-	228	1	255591588	0	247

@@ -1,0 +1,9 @@
+sxs-fit_my_cat.nfo	9f955056
+sxs-fit_my_cat.r00	b38a6c7b
+sxs-fit_my_cat.r01	0b09f2ea
+sxs-fit_my_cat.r02	9e50a6cc
+sxs-fit_my_cat.r03	5d692546
+sxs-fit_my_cat.r04	40ae8bd2
+sxs-fit_my_cat.r05	d52c01b3
+sxs-fit_my_cat.rar	8d081f97
+sxs-fit_my_cat.sfv	9759fefa

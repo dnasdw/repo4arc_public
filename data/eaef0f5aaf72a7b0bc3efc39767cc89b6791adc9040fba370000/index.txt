@@ -1,0 +1,11 @@
+v-wind_of_shuriken.nfo	-	6058	1	0	0	0
+v-wind_of_shuriken.r00	-	50000000	1	6058	0	1
+v-wind_of_shuriken.r01	-	50000000	1	50006058	0	49
+v-wind_of_shuriken.r02	-	50000000	1	100006058	0	97
+v-wind_of_shuriken.r03	-	50000000	1	150006058	0	145
+v-wind_of_shuriken.r04	-	50000000	1	200006058	0	193
+v-wind_of_shuriken.r05	-	50000000	1	250006058	0	241
+v-wind_of_shuriken.r06	-	50000000	1	300006058	0	289
+v-wind_of_shuriken.r07	-	34604254	1	350006058	0	337
+v-wind_of_shuriken.rar	-	50000000	1	384610312	0	371
+v-wind_of_shuriken.sfv	-	297	1	434610312	0	419

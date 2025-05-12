@@ -1,0 +1,5 @@
+sxs-rekt_v65536.nfo	2d722469
+sxs-rekt_v65536.r00	1fc3cad2
+sxs-rekt_v65536.r01	c57263c3
+sxs-rekt_v65536.rar	8eee020f
+sxs-rekt_v65536.sfv	ce8d250f

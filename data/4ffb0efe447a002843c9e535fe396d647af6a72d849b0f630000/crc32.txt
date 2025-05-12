@@ -1,0 +1,12 @@
+lfc-mave.nfo	cb15d095
+lfc-mave.r00	d2cff26c
+lfc-mave.r01	43ff8675
+lfc-mave.r02	e9dcb834
+lfc-mave.r03	aed3e9f5
+lfc-mave.r04	4af1ccbb
+lfc-mave.r05	3b4cde2c
+lfc-mave.r06	e3961629
+lfc-mave.r07	847e1bd3
+lfc-mave.r08	dd8a70e1
+lfc-mave.rar	7014c205
+lfc-mave.sfv	fd9aa6ae

@@ -1,0 +1,7 @@
+v-arkan_the_dog_adventurer.nfo	-	4576	1	0	0	0
+v-arkan_the_dog_adventurer.r00	-	50000000	1	4576	0	1
+v-arkan_the_dog_adventurer.r01	-	50000000	1	50004576	0	49
+v-arkan_the_dog_adventurer.r02	-	50000000	1	100004576	0	97
+v-arkan_the_dog_adventurer.r03	-	19461284	1	150004576	0	145
+v-arkan_the_dog_adventurer.rar	-	50000000	1	169465860	0	164
+v-arkan_the_dog_adventurer.sfv	-	205	1	219465860	0	212

@@ -1,0 +1,4 @@
+sxs-the_adventures_of_panzer_legacy_collection.nfo	99c2973c
+sxs-the_adventures_of_panzer_legacy_collection.r00	ef73f65e
+sxs-the_adventures_of_panzer_legacy_collection.rar	dcdf0458
+sxs-the_adventures_of_panzer_legacy_collection.sfv	826ed382

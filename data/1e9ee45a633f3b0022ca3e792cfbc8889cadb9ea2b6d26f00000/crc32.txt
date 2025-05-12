@@ -1,0 +1,7 @@
+sxs-farming_simulator_20_v458752.nfo	51e3e87f
+sxs-farming_simulator_20_v458752.r00	18bcdd6d
+sxs-farming_simulator_20_v458752.r01	d1e24de3
+sxs-farming_simulator_20_v458752.r02	b5b821cd
+sxs-farming_simulator_20_v458752.r03	a0193353
+sxs-farming_simulator_20_v458752.rar	f36bd85f
+sxs-farming_simulator_20_v458752.sfv	94d8d186

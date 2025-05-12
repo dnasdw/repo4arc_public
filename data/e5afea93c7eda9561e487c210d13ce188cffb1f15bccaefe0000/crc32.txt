@@ -1,0 +1,14 @@
+Proof	00000000
+Proof/sxs-anwo.jpg	1e4b7c92
+sxs-anwo.nfo	9da9f138
+sxs-anwo.r00	9f65fcf6
+sxs-anwo.r01	9d4429d9
+sxs-anwo.r02	cba6bdae
+sxs-anwo.r03	eb3e574f
+sxs-anwo.r04	e1ed882b
+sxs-anwo.r05	4d88f1d5
+sxs-anwo.r06	1e61d346
+sxs-anwo.r07	caa1a433
+sxs-anwo.r08	6f3f557b
+sxs-anwo.rar	285177e7
+sxs-anwo.sfv	6c678a2a

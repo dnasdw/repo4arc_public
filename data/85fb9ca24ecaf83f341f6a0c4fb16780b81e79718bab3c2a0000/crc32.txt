@@ -1,0 +1,6 @@
+sxs-moonshades_a_classic_dungeon_crawler_rpg_v65536.nfo	8b6dc9cf
+sxs-moonshades_a_classic_dungeon_crawler_rpg_v65536.r00	7dd4f7ba
+sxs-moonshades_a_classic_dungeon_crawler_rpg_v65536.r01	255adc4d
+sxs-moonshades_a_classic_dungeon_crawler_rpg_v65536.r02	67a6c66f
+sxs-moonshades_a_classic_dungeon_crawler_rpg_v65536.rar	270abfe1
+sxs-moonshades_a_classic_dungeon_crawler_rpg_v65536.sfv	4bb54230

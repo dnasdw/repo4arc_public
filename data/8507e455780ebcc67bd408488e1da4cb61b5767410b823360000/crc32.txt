@@ -1,0 +1,9 @@
+sxs-sokocat_combo.nfo	f1b4bef9
+sxs-sokocat_combo.r00	244af63b
+sxs-sokocat_combo.r01	57241f89
+sxs-sokocat_combo.r02	9bfe336c
+sxs-sokocat_combo.r03	e4928ed2
+sxs-sokocat_combo.r04	2746a133
+sxs-sokocat_combo.r05	58286332
+sxs-sokocat_combo.rar	431a7057
+sxs-sokocat_combo.sfv	6d1a9224

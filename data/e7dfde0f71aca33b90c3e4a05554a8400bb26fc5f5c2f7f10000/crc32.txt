@@ -1,0 +1,9 @@
+sxs-hopiko.nfo	8c46f76d
+sxs-hopiko.r00	3a1e3c89
+sxs-hopiko.r01	0c60cfb8
+sxs-hopiko.r02	018bbe16
+sxs-hopiko.r03	34d8f867
+sxs-hopiko.r04	080df9a9
+sxs-hopiko.r05	a6f8275a
+sxs-hopiko.rar	4f6e6c62
+sxs-hopiko.sfv	4ecd0169

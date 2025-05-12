@@ -1,0 +1,8 @@
+sxs-teacup_v196608.nfo	2c65a4bc
+sxs-teacup_v196608.r00	799d15fd
+sxs-teacup_v196608.r01	209cea64
+sxs-teacup_v196608.r02	a14b6287
+sxs-teacup_v196608.r03	3faa95cd
+sxs-teacup_v196608.r04	a288233e
+sxs-teacup_v196608.rar	b25fccb9
+sxs-teacup_v196608.sfv	a47a886a

@@ -1,0 +1,10 @@
+sxs-escape_first_2_v131072.nfo	26de3dac
+sxs-escape_first_2_v131072.r00	ba3de613
+sxs-escape_first_2_v131072.r01	2b8f969f
+sxs-escape_first_2_v131072.r02	68e6c0c1
+sxs-escape_first_2_v131072.r03	cb5fe56a
+sxs-escape_first_2_v131072.r04	4b3818cc
+sxs-escape_first_2_v131072.r05	e4048d8d
+sxs-escape_first_2_v131072.r06	6005750e
+sxs-escape_first_2_v131072.rar	8284eebb
+sxs-escape_first_2_v131072.sfv	447e19d6

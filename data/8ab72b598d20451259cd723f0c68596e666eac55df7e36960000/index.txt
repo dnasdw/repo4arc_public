@@ -1,0 +1,17 @@
+v-teslagrad_remastered.nfo	-	8398	1	0	0	0
+v-teslagrad_remastered.r00	-	100000000	1	8398	0	1
+v-teslagrad_remastered.r01	-	100000000	1	100008398	0	97
+v-teslagrad_remastered.r02	-	100000000	1	200008398	0	193
+v-teslagrad_remastered.r03	-	100000000	1	300008398	0	289
+v-teslagrad_remastered.r04	-	100000000	1	400008398	0	385
+v-teslagrad_remastered.r05	-	100000000	1	500008398	0	481
+v-teslagrad_remastered.r06	-	100000000	1	62251264	1	60
+v-teslagrad_remastered.r07	-	100000000	1	162251264	1	156
+v-teslagrad_remastered.r08	-	100000000	1	262251264	1	252
+v-teslagrad_remastered.r09	-	100000000	1	362251264	1	348
+v-teslagrad_remastered.r10	-	100000000	1	462251264	1	444
+v-teslagrad_remastered.r11	-	100000000	1	24502528	2	24
+v-teslagrad_remastered.r12	-	100000000	1	124502528	2	120
+v-teslagrad_remastered.r13	-	91383013	1	224502528	2	216
+v-teslagrad_remastered.rar	-	100000000	1	315885541	2	304
+v-teslagrad_remastered.sfv	-	555	1	415885541	2	400

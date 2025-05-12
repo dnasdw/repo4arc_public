@@ -1,0 +1,5 @@
+sxs-gigapocalypse_v65536.nfo	-	7149	1	0	0	0
+sxs-gigapocalypse_v65536.r00	-	50000000	1	7149	0	1
+sxs-gigapocalypse_v65536.r01	-	7297107	1	50007149	0	49
+sxs-gigapocalypse_v65536.rar	-	50000000	1	57304256	0	56
+sxs-gigapocalypse_v65536.sfv	-	117	1	107304256	0	104

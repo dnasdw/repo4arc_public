@@ -1,0 +1,16 @@
+sxs-ultimate_chicken_horse_v1048576.nfo	-	6290	1	0	0	0
+sxs-ultimate_chicken_horse_v1048576.r00	-	100000000	1	6290	0	1
+sxs-ultimate_chicken_horse_v1048576.r01	-	100000000	1	100006290	0	97
+sxs-ultimate_chicken_horse_v1048576.r02	-	100000000	1	200006290	0	193
+sxs-ultimate_chicken_horse_v1048576.r03	-	100000000	1	300006290	0	289
+sxs-ultimate_chicken_horse_v1048576.r04	-	100000000	1	400006290	0	385
+sxs-ultimate_chicken_horse_v1048576.r05	-	100000000	1	500006290	0	481
+sxs-ultimate_chicken_horse_v1048576.r06	-	100000000	1	62251264	1	60
+sxs-ultimate_chicken_horse_v1048576.r07	-	100000000	1	162251264	1	156
+sxs-ultimate_chicken_horse_v1048576.r08	-	100000000	1	262251264	1	252
+sxs-ultimate_chicken_horse_v1048576.r09	-	100000000	1	362251264	1	348
+sxs-ultimate_chicken_horse_v1048576.r10	-	100000000	1	462251264	1	444
+sxs-ultimate_chicken_horse_v1048576.r11	-	100000000	1	24502528	2	24
+sxs-ultimate_chicken_horse_v1048576.r12	-	18552507	1	124502528	2	120
+sxs-ultimate_chicken_horse_v1048576.rar	-	100000000	1	143055035	2	138
+sxs-ultimate_chicken_horse_v1048576.sfv	-	700	1	243055035	2	234

@@ -1,0 +1,3 @@
+v-outer_wilds_echoes_of_the_eye_dlc.nfo	df35f51727692ebec5fd50bf0807f5443359a131
+v-outer_wilds_echoes_of_the_eye_dlc.rar	44f2a36f3d03bfef9b23eebe5039b2c0166d770b
+v-outer_wilds_echoes_of_the_eye_dlc.sfv	e6a6dfb835d2501334b4da1c21065cabdc2b32f0

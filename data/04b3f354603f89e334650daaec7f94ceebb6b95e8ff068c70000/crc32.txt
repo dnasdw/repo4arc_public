@@ -1,0 +1,5 @@
+sxs-snesjp_v131072.nfo	16239108
+sxs-snesjp_v262144.r00	10e046d8
+sxs-snesjp_v262144.r01	18da1eda
+sxs-snesjp_v262144.rar	39a19688
+sxs-snesjp_v262144.sfv	872637c7

@@ -1,0 +1,10 @@
+hr-avvlav65536.nfo	2b97e5c6
+hr-avvlav65536.r00	fe85e137
+hr-avvlav65536.r01	83cbf9d9
+hr-avvlav65536.r02	08c0c858
+hr-avvlav65536.r03	3b1b47d8
+hr-avvlav65536.r04	a43ab1de
+hr-avvlav65536.r05	ae22d5fc
+hr-avvlav65536.r06	69dbc708
+hr-avvlav65536.rar	0b959f40
+hr-avvlav65536.sfv	91281e48

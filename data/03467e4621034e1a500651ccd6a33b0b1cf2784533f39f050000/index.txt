@@ -1,0 +1,2 @@
+sxs-bridge_portal_dlc.rar	-	104112	1	0	0	0
+sxs-bridge_portal_dlc.sfv	-	36	1	104112	0	1

@@ -1,0 +1,7 @@
+sxs-arcana_of_paradise_the_tower_v262144.nfo	-	4574	1	0	0	0
+sxs-arcana_of_paradise_the_tower_v262144.r00	-	100000000	1	4574	0	1
+sxs-arcana_of_paradise_the_tower_v262144.r01	-	100000000	1	100004574	0	97
+sxs-arcana_of_paradise_the_tower_v262144.r02	-	100000000	1	200004574	0	193
+sxs-arcana_of_paradise_the_tower_v262144.r03	-	96717335	1	300004574	0	289
+sxs-arcana_of_paradise_the_tower_v262144.rar	-	100000000	1	396721909	0	382
+sxs-arcana_of_paradise_the_tower_v262144.sfv	-	275	1	496721909	0	478

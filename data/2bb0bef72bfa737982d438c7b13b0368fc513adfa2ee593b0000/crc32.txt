@@ -1,0 +1,7 @@
+sxs-headspun_v131072.nfo	fa7778c3
+sxs-headspun_v131072.r00	2c1faf5d
+sxs-headspun_v131072.r01	8410b1d3
+sxs-headspun_v131072.r02	6fd8cd81
+sxs-headspun_v131072.r03	2eb45141
+sxs-headspun_v131072.rar	d948a97d
+sxs-headspun_v131072.sfv	81d2c850

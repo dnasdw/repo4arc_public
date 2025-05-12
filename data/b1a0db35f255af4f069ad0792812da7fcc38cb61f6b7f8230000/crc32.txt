@@ -1,0 +1,12 @@
+v-dragon_quest_builders_2_v327680.nfo	4645a404
+v-dragon_quest_builders_2_v327680.r00	e43632ea
+v-dragon_quest_builders_2_v327680.r01	cbc1209f
+v-dragon_quest_builders_2_v327680.r02	83f3676c
+v-dragon_quest_builders_2_v327680.r03	5ac45346
+v-dragon_quest_builders_2_v327680.r04	acc1c103
+v-dragon_quest_builders_2_v327680.r05	ca756df1
+v-dragon_quest_builders_2_v327680.r06	29e9c151
+v-dragon_quest_builders_2_v327680.r07	37949253
+v-dragon_quest_builders_2_v327680.r08	ff8fcd15
+v-dragon_quest_builders_2_v327680.rar	b513f033
+v-dragon_quest_builders_2_v327680.sfv	7602322c

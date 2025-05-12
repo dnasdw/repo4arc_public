@@ -1,0 +1,5 @@
+brw-salr_v196608.nfo	17a329bfdbd261f9c3160a771af497b4
+brw-salr_v196608.r00	826cab23a4013fea1a29fae237e3fc49
+brw-salr_v196608.r01	9bbdf81ac3546de144a51f7eab5023c5
+brw-salr_v196608.rar	deee00a3e3ee590a699fcace192ec750
+brw-salr_v196608.sfv	d3bbe2c3bb2c1d7e5640fbd8a806baf1

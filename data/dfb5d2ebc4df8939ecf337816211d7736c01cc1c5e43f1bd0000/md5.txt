@@ -1,0 +1,3 @@
+sxs-dead_cells_fatal_falls_dlc.nfo	18534880716707f3ba6171496eeed824
+sxs-dead_cells_fatal_falls_dlc.rar	cd7461ff173a2692782604e8d6c8ce18
+sxs-dead_cells_fatal_falls_dlc.sfv	6fe639de1111d371f6967f432bb48386

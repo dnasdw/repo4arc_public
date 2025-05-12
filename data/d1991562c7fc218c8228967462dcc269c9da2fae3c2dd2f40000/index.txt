@@ -1,0 +1,4 @@
+sxs-rtltrlastansr_v65536.nfo	-	3872	1	0	0	0
+sxs-rtltrlastansr_v65536.r00	-	29321735	1	3872	0	1
+sxs-rtltrlastansr_v65536.rar	-	50000000	1	29325607	0	29
+sxs-rtltrlastansr_v65536.sfv	-	78	1	79325607	0	77

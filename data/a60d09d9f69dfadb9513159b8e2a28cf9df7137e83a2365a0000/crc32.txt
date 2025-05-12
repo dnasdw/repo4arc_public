@@ -1,0 +1,4 @@
+v-duck_game_v196608.nfo	00a05390
+v-duck_game_v196608.r00	58de381c
+v-duck_game_v196608.rar	c878f5de
+v-duck_game_v196608.sfv	a156fdb6

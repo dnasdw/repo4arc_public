@@ -1,0 +1,6 @@
+sxs-horse_racing.nfo	76ca0656
+sxs-horse_racing.r00	69a1d32d
+sxs-horse_racing.r01	c01aa69f
+sxs-horse_racing.r02	f617810c
+sxs-horse_racing.rar	bea1c173
+sxs-horse_racing.sfv	2df0e82c

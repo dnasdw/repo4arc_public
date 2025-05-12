@@ -1,0 +1,12 @@
+sxs-the_legend_of_heroes_trails_to_azure_v196608.nfo	-	3872	1	0	0	0
+sxs-the_legend_of_heroes_trails_to_azure_v196608.r00	-	100000000	1	3872	0	1
+sxs-the_legend_of_heroes_trails_to_azure_v196608.r01	-	100000000	1	100003872	0	97
+sxs-the_legend_of_heroes_trails_to_azure_v196608.r02	-	100000000	1	200003872	0	193
+sxs-the_legend_of_heroes_trails_to_azure_v196608.r03	-	100000000	1	300003872	0	289
+sxs-the_legend_of_heroes_trails_to_azure_v196608.r04	-	100000000	1	400003872	0	385
+sxs-the_legend_of_heroes_trails_to_azure_v196608.r05	-	100000000	1	500003872	0	481
+sxs-the_legend_of_heroes_trails_to_azure_v196608.r06	-	100000000	1	62251264	1	60
+sxs-the_legend_of_heroes_trails_to_azure_v196608.r07	-	100000000	1	162251264	1	156
+sxs-the_legend_of_heroes_trails_to_azure_v196608.r08	-	8322233	1	262251264	1	252
+sxs-the_legend_of_heroes_trails_to_azure_v196608.rar	-	100000000	1	270573497	1	260
+sxs-the_legend_of_heroes_trails_to_azure_v196608.sfv	-	630	1	370573497	1	356

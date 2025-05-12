@@ -1,0 +1,6 @@
+sxs-nightmare_boy_v196608.nfo	-	3639	1	0	0	0
+sxs-nightmare_boy_v196608.r00	-	50000000	1	3639	0	1
+sxs-nightmare_boy_v196608.r01	-	50000000	1	50003639	0	49
+sxs-nightmare_boy_v196608.r02	-	33603343	1	100003639	0	97
+sxs-nightmare_boy_v196608.rar	-	50000000	1	133606982	0	130
+sxs-nightmare_boy_v196608.sfv	-	160	1	183606982	0	178

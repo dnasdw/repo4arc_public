@@ -1,0 +1,6 @@
+bbb-n-anb9a.nfo	-	5517	1	0	0	0
+bbb-n-anb9a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-anb9a.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-anb9a.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-anb9a.part4.rar	-	10135120	1	212251264	1	203
+bbb-n-anb9a.sfv	-	128	1	222386384	1	213

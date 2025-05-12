@@ -1,0 +1,12 @@
+sxs-puyo_puyo_esports_v262144.nfo	-	5199	1	0	0	0
+sxs-puyo_puyo_esports_v262144.r00	-	50000000	1	5199	0	1
+sxs-puyo_puyo_esports_v262144.r01	-	50000000	1	50005199	0	49
+sxs-puyo_puyo_esports_v262144.r02	-	50000000	1	100005199	0	97
+sxs-puyo_puyo_esports_v262144.r03	-	50000000	1	150005199	0	145
+sxs-puyo_puyo_esports_v262144.r04	-	50000000	1	200005199	0	193
+sxs-puyo_puyo_esports_v262144.r05	-	50000000	1	250005199	0	241
+sxs-puyo_puyo_esports_v262144.r06	-	50000000	1	300005199	0	289
+sxs-puyo_puyo_esports_v262144.r07	-	50000000	1	350005199	0	337
+sxs-puyo_puyo_esports_v262144.r08	-	11645066	1	400005199	0	385
+sxs-puyo_puyo_esports_v262144.rar	-	50000000	1	411650265	0	397
+sxs-puyo_puyo_esports_v262144.sfv	-	440	1	461650265	0	445

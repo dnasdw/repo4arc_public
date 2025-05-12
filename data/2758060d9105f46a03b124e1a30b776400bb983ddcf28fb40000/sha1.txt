@@ -1,0 +1,6 @@
+lfc-lxxl.nfo	8037fdaae7e4fd2bb08733c861c2b9601604ee4c
+lfc-lxxl.r00	e483d26d31a9645f4410fbdf9106a6cdfbb4db35
+lfc-lxxl.r01	bad0ecfd136a7966c4b247469aa71c3e0b0c7da8
+lfc-lxxl.r02	41e4d3eae66e91d4218b83c7309caac2ea9b3bda
+lfc-lxxl.rar	135323a3b641d82ce995909520c0eae4c0e96eb0
+lfc-lxxl.sfv	bdfaaea08c6ec46a93ccea080ac2ae4f19733045

@@ -1,0 +1,3 @@
+sxs-portal_knights_dlc.nfo	-	14014	1	0	0	0
+sxs-portal_knights_dlc.rar	-	1039169	1	14014	0	1
+sxs-portal_knights_dlc.sfv	-	37	1	1053183	0	2

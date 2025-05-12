@@ -1,0 +1,8 @@
+v-pinballfx3_williams_vol3_dlc.nfo	-	6449	1	0	0	0
+v-pinballfx3_williams_vol3_dlc.r00	-	50000000	1	6449	0	1
+v-pinballfx3_williams_vol3_dlc.r01	-	50000000	1	50006449	0	49
+v-pinballfx3_williams_vol3_dlc.r02	-	50000000	1	100006449	0	97
+v-pinballfx3_williams_vol3_dlc.r03	-	50000000	1	150006449	0	145
+v-pinballfx3_williams_vol3_dlc.r04	-	29604983	1	200006449	0	193
+v-pinballfx3_williams_vol3_dlc.rar	-	50000000	1	229611432	0	222
+v-pinballfx3_williams_vol3_dlc.sfv	-	270	1	279611432	0	270

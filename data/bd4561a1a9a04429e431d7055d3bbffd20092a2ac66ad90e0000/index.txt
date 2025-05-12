@@ -1,0 +1,3 @@
+bbb-n-amnba.nfo	-	5517	1	0	0	0
+bbb-n-amnba.rar	-	105034572	1	5517	0	1
+bbb-n-amnba.sfv	-	26	1	105040089	0	102

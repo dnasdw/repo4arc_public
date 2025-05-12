@@ -1,0 +1,4 @@
+bbb-n-aecxb.nfo	-	5517	1	0	0	0
+bbb-n-aecxb.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aecxb.part2.rar	-	16489415	1	250005517	0	240
+bbb-n-aecxb.sfv	-	64	1	266494932	0	256

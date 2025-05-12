@@ -1,0 +1,4 @@
+sxs-pixelbot_extreme.nfo	2e898cae
+sxs-pixelbot_extreme.r00	b4f8567f
+sxs-pixelbot_extreme.rar	0251519b
+sxs-pixelbot_extreme.sfv	f208c100

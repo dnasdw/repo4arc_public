@@ -1,0 +1,16 @@
+v-atarifc.nfo	fa6429f7d064812780e1c8565bc7b196dfa3a4bf
+v-atarifc.r00	47e6751aa344bedf1a9d6705184cb1041c73dec1
+v-atarifc.r01	bece50a635ae7543096fe1592c6ec8aea3fd69f3
+v-atarifc.r02	2d73d63d2a252db979ed0ffce5dad41a39d561f1
+v-atarifc.r03	bbb696f9f31eda0faa5b406fcd4998377ee0f822
+v-atarifc.r04	720606ea23f4aa5d937c38bd80fb43605adef7d7
+v-atarifc.r05	efe674ae0c02f311bdbd9738893231936f9dcdc8
+v-atarifc.r06	0300a75ce29ddd2e97e67e09da2fa593df3904c4
+v-atarifc.r07	f35aca26d06d94604d3f8588d1ad30e92af84e90
+v-atarifc.r08	5acd9f5cf3f8abd9b9896bd168709f75840ae6ee
+v-atarifc.r09	8f61823bfcfbc48d39357da1b2be08db4cc55718
+v-atarifc.r10	ea34fc842513be58835f0d050b00ffe43ad3b2ca
+v-atarifc.r11	636f4a0b9ca9d4e75913a1a4e7fcb8ac1f9da7d9
+v-atarifc.r12	2788ad2582575e882faa45461affcd15e2b6dc8f
+v-atarifc.rar	0e4e2e3fa4ca41767adde0c79f97a47aff7f7cd1
+v-atarifc.sfv	211f369acc975dc0369cb6ae5fb031fd9d2906d0

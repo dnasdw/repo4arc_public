@@ -1,0 +1,10 @@
+lfc-henu.nfo	e1101e58
+lfc-henu.r00	f2d9bafc
+lfc-henu.r01	db43518d
+lfc-henu.r02	b537782e
+lfc-henu.r03	a6ca8a39
+lfc-henu.r04	18cdb00d
+lfc-henu.r05	334e1cc3
+lfc-henu.r06	020b6ce5
+lfc-henu.rar	2a8ddc7b
+lfc-henu.sfv	f5363b52

@@ -1,0 +1,8 @@
+v-spirit_of_the_north_v65536.nfo	b72232d9
+v-spirit_of_the_north_v65536.r00	32fc3db1
+v-spirit_of_the_north_v65536.r01	c7e1d930
+v-spirit_of_the_north_v65536.r02	a29a3c2e
+v-spirit_of_the_north_v65536.r03	41cbe908
+v-spirit_of_the_north_v65536.r04	c5a03d53
+v-spirit_of_the_north_v65536.rar	e0030e04
+v-spirit_of_the_north_v65536.sfv	385ac10c

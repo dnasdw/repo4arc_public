@@ -1,0 +1,7 @@
+sxs-freezer_pops.nfo	2aea28ba0738f793577d25ca688976bc65970d26
+sxs-freezer_pops.r00	052db68dc8a8fb22db7f2b9ec1339df1c96dac8b
+sxs-freezer_pops.r01	51cfd8af86d41ffb22bef375b7324a5843228585
+sxs-freezer_pops.r02	497b54a07f8038f565c709b9d48f1396ef42bbdc
+sxs-freezer_pops.r03	4c9cf5b7df9206e9f519355332933bb28cb1b668
+sxs-freezer_pops.rar	9740eb1eced89615590f93f18ec593fbe20758d2
+sxs-freezer_pops.sfv	fa62d410fe5295b12e0691551285e3810fe6ba3b

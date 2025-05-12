@@ -1,0 +1,5 @@
+v-snipelite3_v65536.nfo	4c87fca7f5c75f67802f317739cb155b
+v-snipelite3_v65536.r00	2fa7ac8fbeec111f983b51d94c90deaf
+v-snipelite3_v65536.r01	1e00bedce7825bf9def775cfca508dd5
+v-snipelite3_v65536.rar	fadfeccafba44fc40dd1198ea6459bca
+v-snipelite3_v65536.sfv	1a2bd849c390930e821799e0b5fa9882

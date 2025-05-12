@@ -1,0 +1,3 @@
+v-pokemon_lets_go_eevee_v65536.nfo	dfa49cf4c3fbf1fe11365dfff5582b1a8faa718c
+v-pokemon_lets_go_eevee_v65536.rar	35febe5c91ff8cbe1a289330366f235786aed1b2
+v-pokemon_lets_go_eevee_v65536.sfv	ff39b7eaf5314b04cb3e2bed6e748923b90eadf3

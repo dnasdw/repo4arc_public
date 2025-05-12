@@ -1,0 +1,13 @@
+l-deployment.nfo	6d72a05afecd0df748a6878a49ce9ee1
+l-deployment.r00	50b3c935a1d08b5f4fdbbc3786093385
+l-deployment.r01	c3c3f239f553133c534cae81859df9fc
+l-deployment.r02	accc3b5c5478be43b04beab6de2bba14
+l-deployment.r03	96cd817ecf1a33b4b79631d27c40a84b
+l-deployment.r04	97d5ae83b2abcf9cbc5e5c7a289067a2
+l-deployment.r05	1541e28e2842b625d0d300ab0be3905a
+l-deployment.r06	66ce469d45ba8bb3fa2ca49968d7ac1d
+l-deployment.r07	e92076ad2c682c403706735a1b204645
+l-deployment.r08	a0f8e3b4e5799d4ab93d2e25d3bca58e
+l-deployment.r09	969d42c29ca0a50719387d55aef8f675
+l-deployment.rar	2d888a4e1582ac4709b08ffd3ede0b26
+l-deployment.sfv	1d4c8969f65ea021a7c10eb131689a55

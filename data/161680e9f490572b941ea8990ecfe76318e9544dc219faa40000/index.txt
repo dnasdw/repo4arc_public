@@ -1,0 +1,15 @@
+brw-soht_proper.nfo	-	3281	1	0	0	0
+brw-soht_proper.r00	-	50000000	1	3281	0	1
+brw-soht_proper.r01	-	50000000	1	50003281	0	49
+brw-soht_proper.r02	-	50000000	1	100003281	0	97
+brw-soht_proper.r03	-	50000000	1	150003281	0	145
+brw-soht_proper.r04	-	50000000	1	200003281	0	193
+brw-soht_proper.r05	-	50000000	1	250003281	0	241
+brw-soht_proper.r06	-	50000000	1	300003281	0	289
+brw-soht_proper.r07	-	50000000	1	350003281	0	337
+brw-soht_proper.r08	-	50000000	1	400003281	0	385
+brw-soht_proper.r09	-	50000000	1	450003281	0	433
+brw-soht_proper.r10	-	50000000	1	500003281	0	481
+brw-soht_proper.r11	-	19839969	1	12251264	1	12
+brw-soht_proper.rar	-	50000000	1	32091233	1	31
+brw-soht_proper.sfv	-	390	1	82091233	1	79

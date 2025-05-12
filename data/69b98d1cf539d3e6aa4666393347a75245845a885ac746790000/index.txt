@@ -1,0 +1,5 @@
+v-atelier_ryza_3_alchemist_of_the_end_and_the_secret_key_v524288.nfo	-	6526	1	0	0	0
+v-atelier_ryza_3_alchemist_of_the_end_and_the_secret_key_v524288.r00	-	100000000	1	6526	0	1
+v-atelier_ryza_3_alchemist_of_the_end_and_the_secret_key_v524288.r01	-	64721660	1	100006526	0	97
+v-atelier_ryza_3_alchemist_of_the_end_and_the_secret_key_v524288.rar	-	100000000	1	164728186	0	159
+v-atelier_ryza_3_alchemist_of_the_end_and_the_secret_key_v524288.sfv	-	237	1	264728186	0	255

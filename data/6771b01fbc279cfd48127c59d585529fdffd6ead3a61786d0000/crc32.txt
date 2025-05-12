@@ -1,0 +1,8 @@
+brw-bpuz.nfo	4419d7dc
+brw-bpuz.r00	1f2e9bc5
+brw-bpuz.r01	da3c31bc
+brw-bpuz.r02	10d81e47
+brw-bpuz.r03	c3f0511a
+brw-bpuz.r04	8630a1e8
+brw-bpuz.rar	4d051029
+brw-bpuz.sfv	7de3a36c

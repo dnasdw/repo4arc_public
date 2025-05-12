@@ -1,0 +1,17 @@
+sxs-truck_simulator_usa_revolution.nfo	a82850a6
+sxs-truck_simulator_usa_revolution.r00	4754fbd9
+sxs-truck_simulator_usa_revolution.r01	1a05f2ff
+sxs-truck_simulator_usa_revolution.r02	b8b207d7
+sxs-truck_simulator_usa_revolution.r03	e35c76d0
+sxs-truck_simulator_usa_revolution.r04	10ba3798
+sxs-truck_simulator_usa_revolution.r05	453e58b4
+sxs-truck_simulator_usa_revolution.r06	0637b925
+sxs-truck_simulator_usa_revolution.r07	8ef74d7b
+sxs-truck_simulator_usa_revolution.r08	4f5e95d8
+sxs-truck_simulator_usa_revolution.r09	723a24e8
+sxs-truck_simulator_usa_revolution.r10	9599da87
+sxs-truck_simulator_usa_revolution.r11	faa7d178
+sxs-truck_simulator_usa_revolution.r12	bb0258fb
+sxs-truck_simulator_usa_revolution.r13	f0e4575f
+sxs-truck_simulator_usa_revolution.rar	4dbfb901
+sxs-truck_simulator_usa_revolution.sfv	be42ae6a

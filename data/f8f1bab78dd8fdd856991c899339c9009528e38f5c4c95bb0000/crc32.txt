@@ -1,0 +1,16 @@
+sxs-evolution_board_game_v393216.nfo	c9199d47
+sxs-evolution_board_game_v393216.r00	a3fe4085
+sxs-evolution_board_game_v393216.r01	f507317b
+sxs-evolution_board_game_v393216.r02	065ac5fb
+sxs-evolution_board_game_v393216.r03	913ee4ed
+sxs-evolution_board_game_v393216.r04	a907b7ac
+sxs-evolution_board_game_v393216.r05	2270902a
+sxs-evolution_board_game_v393216.r06	452f27d4
+sxs-evolution_board_game_v393216.r07	1514c98b
+sxs-evolution_board_game_v393216.r08	2421e4ae
+sxs-evolution_board_game_v393216.r09	ac3d42f6
+sxs-evolution_board_game_v393216.r10	c67a1bf3
+sxs-evolution_board_game_v393216.r11	e5cf92de
+sxs-evolution_board_game_v393216.r12	181e3ec0
+sxs-evolution_board_game_v393216.rar	0cb0b4fd
+sxs-evolution_board_game_v393216.sfv	ee3b4034

@@ -1,0 +1,10 @@
+i-polandball.nfo	743b75c5
+i-polandball.r00	2b84d40b
+i-polandball.r01	d56f22ac
+i-polandball.r02	729f9ece
+i-polandball.r03	72b5167b
+i-polandball.r04	b7394ddd
+i-polandball.r05	f57c8626
+i-polandball.r06	14242923
+i-polandball.rar	3a231a0a
+i-polandball.sfv	5a0d2cda

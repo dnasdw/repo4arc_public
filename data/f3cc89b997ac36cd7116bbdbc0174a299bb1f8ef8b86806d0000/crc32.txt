@@ -1,0 +1,16 @@
+sxs-stories_in_glass_winter.nfo	12c60ccb
+sxs-stories_in_glass_winter.r00	32e22b14
+sxs-stories_in_glass_winter.r01	2695aa67
+sxs-stories_in_glass_winter.r02	acd61483
+sxs-stories_in_glass_winter.r03	bd0f7b2a
+sxs-stories_in_glass_winter.r04	dcfa9e56
+sxs-stories_in_glass_winter.r05	ab539e6f
+sxs-stories_in_glass_winter.r06	e3662200
+sxs-stories_in_glass_winter.r07	2e5c2450
+sxs-stories_in_glass_winter.r08	b1da0d9e
+sxs-stories_in_glass_winter.r09	94dbb599
+sxs-stories_in_glass_winter.r10	0aa2eeeb
+sxs-stories_in_glass_winter.r11	aa0edf55
+sxs-stories_in_glass_winter.r12	eafaf41a
+sxs-stories_in_glass_winter.rar	db5ff5c5
+sxs-stories_in_glass_winter.sfv	f127d5ce

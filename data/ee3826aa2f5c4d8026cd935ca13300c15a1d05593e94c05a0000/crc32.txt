@@ -1,0 +1,9 @@
+brw-mstx.nfo	d234026e
+brw-mstx.r00	25e731f2
+brw-mstx.r01	ca2959c6
+brw-mstx.r02	4142a0de
+brw-mstx.r03	9a9cf1e7
+brw-mstx.r04	cc2e6a20
+brw-mstx.r05	b0f69018
+brw-mstx.rar	2ec6ca71
+brw-mstx.sfv	8dfb2ca6

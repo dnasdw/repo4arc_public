@@ -1,0 +1,3 @@
+hr-a3f7a-dlc-clbvol1.nfo	-	11258	1	0	0	0
+hr-a3f7a-dlc-clbvol1.rar	-	118411	1	11258	0	1
+hr-a3f7a-dlc-clbvol1.sfv	-	35	1	129669	0	2

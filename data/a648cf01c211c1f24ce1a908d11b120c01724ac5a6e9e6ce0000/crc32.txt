@@ -1,0 +1,12 @@
+sxs-digimon_survive_multi_v131072.nfo	b5b20564
+sxs-digimon_survive_multi_v131072.r00	d9da1e02
+sxs-digimon_survive_multi_v131072.r01	a97974cf
+sxs-digimon_survive_multi_v131072.r02	b75d5760
+sxs-digimon_survive_multi_v131072.r03	dc1e397d
+sxs-digimon_survive_multi_v131072.r04	bab1cfa7
+sxs-digimon_survive_multi_v131072.r05	0450dd93
+sxs-digimon_survive_multi_v131072.r06	dcb3ba17
+sxs-digimon_survive_multi_v131072.r07	7d3ca460
+sxs-digimon_survive_multi_v131072.r08	7ea4b1db
+sxs-digimon_survive_multi_v131072.rar	37316cd7
+sxs-digimon_survive_multi_v131072.sfv	8b2daf7c

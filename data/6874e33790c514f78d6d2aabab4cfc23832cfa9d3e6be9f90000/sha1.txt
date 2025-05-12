@@ -1,0 +1,3 @@
+v-catan_console_edition_dlc.nfo	56d5d2a1701213e53b56500a2a9e8e3f5387932a
+v-catan_console_edition_dlc.rar	efd09cc9dda5826b1bff4fb821da28a1b469e921
+v-catan_console_edition_dlc.sfv	2cfd06747b47b7a6b34afc3a5f5f2781d3b0d1ed

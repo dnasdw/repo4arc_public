@@ -1,0 +1,4 @@
+brw-farp.nfo	-	3983	1	0	0	0
+brw-farp.r00	-	5177234	1	3983	0	1
+brw-farp.rar	-	50000000	1	5181217	0	6
+brw-farp.sfv	-	46	1	55181217	0	54

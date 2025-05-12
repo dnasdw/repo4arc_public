@@ -1,0 +1,6 @@
+i-troubleshooter_v65536.nfo	ec6e3cb6
+i-troubleshooter_v65536.r00	606c7c96
+i-troubleshooter_v65536.r01	c5fc572f
+i-troubleshooter_v65536.r02	7f9eb29c
+i-troubleshooter_v65536.rar	ea98e2d9
+i-troubleshooter_v65536.sfv	5110b2e1

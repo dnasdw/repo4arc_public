@@ -1,0 +1,15 @@
+bbb-h-amsga.nfo	-	5517	1	0	0	0
+bbb-h-amsga.part01.rar	-	250000000	1	5517	0	1
+bbb-h-amsga.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-amsga.part03.rar	-	250000000	1	500005517	0	479
+bbb-h-amsga.part04.rar	-	250000000	1	212251264	1	203
+bbb-h-amsga.part05.rar	-	250000000	1	462251264	1	442
+bbb-h-amsga.part06.rar	-	250000000	1	174502528	2	167
+bbb-h-amsga.part07.rar	-	250000000	1	424502528	2	406
+bbb-h-amsga.part08.rar	-	250000000	1	136753792	3	131
+bbb-h-amsga.part09.rar	-	250000000	1	386753792	3	370
+bbb-h-amsga.part10.rar	-	250000000	1	99005056	4	95
+bbb-h-amsga.part11.rar	-	250000000	1	349005056	4	334
+bbb-h-amsga.part12.rar	-	250000000	1	61256320	5	59
+bbb-h-amsga.part13.rar	-	203868849	1	311256320	5	298
+bbb-h-amsga.sfv	-	429	1	515125169	5	493

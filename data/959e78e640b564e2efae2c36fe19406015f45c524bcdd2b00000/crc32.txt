@@ -1,0 +1,5 @@
+brw-mafi.nfo	47d9199b
+brw-mafi.r00	90cc4992
+brw-mafi.r01	2bc85f9e
+brw-mafi.rar	c63a1b2c
+brw-mafi.sfv	f5a37b51

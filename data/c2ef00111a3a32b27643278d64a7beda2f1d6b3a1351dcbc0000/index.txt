@@ -1,0 +1,6 @@
+sxs-galaxy_squad_v65536.nfo	-	4964	1	0	0	0
+sxs-galaxy_squad_v65536.r00	-	50000000	1	4964	0	1
+sxs-galaxy_squad_v65536.r01	-	50000000	1	50004964	0	49
+sxs-galaxy_squad_v65536.r02	-	39415271	1	100004964	0	97
+sxs-galaxy_squad_v65536.rar	-	50000000	1	139420235	0	135
+sxs-galaxy_squad_v65536.sfv	-	152	1	189420235	0	183

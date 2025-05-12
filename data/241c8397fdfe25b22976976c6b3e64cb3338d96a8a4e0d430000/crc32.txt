@@ -1,0 +1,6 @@
+sxs-darts_club.nfo	72fbdeca
+sxs-darts_club.r00	d8bf75ac
+sxs-darts_club.r01	3363128e
+sxs-darts_club.r02	30ce0618
+sxs-darts_club.rar	ad99403b
+sxs-darts_club.sfv	8082e70a

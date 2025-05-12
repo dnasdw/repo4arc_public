@@ -1,0 +1,17 @@
+brw-loep.nfo	f1b6224e
+brw-loep.r00	6a1d2bed
+brw-loep.r01	eea8adad
+brw-loep.r02	2b3f96d4
+brw-loep.r03	bf3f9050
+brw-loep.r04	1e7410d3
+brw-loep.r05	83e42f26
+brw-loep.r06	327cd883
+brw-loep.r07	be461aee
+brw-loep.r08	7f7c2675
+brw-loep.r09	d2eb3990
+brw-loep.r10	5db6af37
+brw-loep.r11	2d5eb1d1
+brw-loep.r12	524238f2
+brw-loep.r13	26d33ee2
+brw-loep.rar	8473ffc8
+brw-loep.sfv	53be9840

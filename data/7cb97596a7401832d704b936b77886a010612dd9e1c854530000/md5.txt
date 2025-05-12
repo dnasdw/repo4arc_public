@@ -1,0 +1,4 @@
+delight.nfo	76c80dd01f6d925311c291c94c69e6e5
+dl-travelm3.r00	20a4812a054354748057e42ff0fc143f
+dl-travelm3.rar	fedd1c5f9dbc7ab904d658a09f3d4265
+dl-travelm3.sfv	aa1e454ad1cc3e2ebab674b1dce7d85f

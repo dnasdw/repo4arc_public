@@ -1,0 +1,17 @@
+v-ssbu_v393216.nfo	f3f206a3
+v-ssbu_v393216.r00	6a223802
+v-ssbu_v393216.r01	50c5a650
+v-ssbu_v393216.r02	a40e5fa2
+v-ssbu_v393216.r03	5e79cc14
+v-ssbu_v393216.r04	cedc98f0
+v-ssbu_v393216.r05	f8741c05
+v-ssbu_v393216.r06	792c1032
+v-ssbu_v393216.r07	2da86cef
+v-ssbu_v393216.r08	a35a44bc
+v-ssbu_v393216.r09	ce34afba
+v-ssbu_v393216.r10	f9a9c955
+v-ssbu_v393216.r11	b4a59b27
+v-ssbu_v393216.r12	738eea1c
+v-ssbu_v393216.r13	51cc12bd
+v-ssbu_v393216.rar	c26352e2
+v-ssbu_v393216.sfv	069da730

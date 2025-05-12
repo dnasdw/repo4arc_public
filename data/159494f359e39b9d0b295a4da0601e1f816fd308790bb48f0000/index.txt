@@ -1,0 +1,7 @@
+v-star_wars_episode_i_racer.nfo	-	5044	1	0	0	0
+v-star_wars_episode_i_racer.r00	-	50000000	1	5044	0	1
+v-star_wars_episode_i_racer.r01	-	50000000	1	50005044	0	49
+v-star_wars_episode_i_racer.r02	-	50000000	1	100005044	0	97
+v-star_wars_episode_i_racer.r03	-	30813886	1	150005044	0	145
+v-star_wars_episode_i_racer.rar	-	50000000	1	180818930	0	175
+v-star_wars_episode_i_racer.sfv	-	210	1	230818930	0	223

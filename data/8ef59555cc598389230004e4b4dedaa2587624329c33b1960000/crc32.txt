@@ -1,0 +1,7 @@
+sxs-enter_the_gungeon_v1048576.nfo	e8a3f588
+sxs-enter_the_gungeon_v1048576.r00	e633d37f
+sxs-enter_the_gungeon_v1048576.r01	cb69a394
+sxs-enter_the_gungeon_v1048576.r02	a0fbf80d
+sxs-enter_the_gungeon_v1048576.r03	5188adea
+sxs-enter_the_gungeon_v1048576.rar	a35fa4ea
+sxs-enter_the_gungeon_v1048576.sfv	0b6f5762

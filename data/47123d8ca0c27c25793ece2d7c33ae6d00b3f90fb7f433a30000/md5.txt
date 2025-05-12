@@ -1,0 +1,17 @@
+hr-aplpb.nfo	6339b3e16e8fab8a92916ee7f20b2025
+hr-aplpb.r00	1c260923b76f7ead9d8a4254a02efc19
+hr-aplpb.r01	e6ad6f6325509abf099be80ce00a2e7f
+hr-aplpb.r02	24b7ed8be8222f8b0fde74c5f5acdbf8
+hr-aplpb.r03	7c2c5fd3df5dc919615a243b5cf03b23
+hr-aplpb.r04	67a9371de6318e0357de340bc2160830
+hr-aplpb.r05	6892addff0d539902d89eb0d28592767
+hr-aplpb.r06	74ceaf27dd3ebf7e13e092c23d29420b
+hr-aplpb.r07	568e74c6b40805444bfd30e2eede2e27
+hr-aplpb.r08	31f324550f810a47a28623a033acd962
+hr-aplpb.r09	182cabb34eb7aa2a666d7ec0cc8aa573
+hr-aplpb.r10	0210c7dd2197c3b442e604095a28d31d
+hr-aplpb.r11	3eaac52a07c34de60a5718a3e998e5f8
+hr-aplpb.rar	fdbfeadb9c74191cd5815e04baa63256
+hr-aplpb.sfv	a264a9cad1bff0e4abca56ce45c3c3ce
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/hr-aplpb.jpg	8694b28f19ecafb415e5215dc0e781e0

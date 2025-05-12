@@ -1,0 +1,5 @@
+lfc-wgma_v65536.nfo	91ca377e
+lfc-wgma_v65536.r00	a95a7760
+lfc-wgma_v65536.r01	7c785595
+lfc-wgma_v65536.rar	17c36986
+lfc-wgma_v65536.sfv	ac0569bc

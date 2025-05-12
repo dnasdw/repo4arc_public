@@ -1,0 +1,5 @@
+sxs-planet_rix-13.nfo	698f2c0d
+sxs-planet_rix-13.r00	a167fe1d
+sxs-planet_rix-13.r01	cb28f520
+sxs-planet_rix-13.rar	4ac37742
+sxs-planet_rix-13.sfv	3bf3c559

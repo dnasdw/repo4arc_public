@@ -1,0 +1,5 @@
+v-samurai_shodown_sogetsu_dlc.nfo	5a20567d
+v-samurai_shodown_sogetsu_dlc.r00	0de4ce74
+v-samurai_shodown_sogetsu_dlc.r01	9f474249
+v-samurai_shodown_sogetsu_dlc.rar	09589bd7
+v-samurai_shodown_sogetsu_dlc.sfv	da009ae9

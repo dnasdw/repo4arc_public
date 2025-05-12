@@ -1,0 +1,12 @@
+jrp-n-nrlh.nfo	7b0963a640ad3dce07066438abb0826195bc8039
+jrp-n-nrlh.r00	ddfc9db574c8f11d3d3fe9e451902c20e0e6eb2a
+jrp-n-nrlh.r01	4413300364650af3973eabe33ca43d672a6ab123
+jrp-n-nrlh.r02	69a7add275bb7e9e3640d3281a040edcfb604a6e
+jrp-n-nrlh.r03	8c1ab94405d87f0cdd33c5d179c0a0634376deb6
+jrp-n-nrlh.r04	4dc95a5e234ef4dd67cef4495b58a30108538d48
+jrp-n-nrlh.r05	3b8b79db3c35886c9b793e28c182b8f08b864d67
+jrp-n-nrlh.r06	abd0df970be2891ae5e0269f2eb0ebce1158e28b
+jrp-n-nrlh.r07	3254f527614caf0d46530359c9dcaab4da10f50e
+jrp-n-nrlh.r08	d23810b7d6f6edfbbdcd3c8056834bb1d038b8c5
+jrp-n-nrlh.rar	a656e218548c88e4d0cf1be1ef3fee312aa27e6a
+jrp-n-nrlh.sfv	827dd41199dfde0d2a9980c40f0cf39bd2d518c8

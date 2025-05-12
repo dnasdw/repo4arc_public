@@ -1,0 +1,15 @@
+lfc-gardenpawsupd1.4.8.nfo	df684be5
+lfc-gardenpawsupd1.4.8.r00	0237c488
+lfc-gardenpawsupd1.4.8.r01	db4152fd
+lfc-gardenpawsupd1.4.8.r02	22d5d2ce
+lfc-gardenpawsupd1.4.8.r03	027bbfbb
+lfc-gardenpawsupd1.4.8.r04	864828e5
+lfc-gardenpawsupd1.4.8.r05	7b546e13
+lfc-gardenpawsupd1.4.8.r06	b239b467
+lfc-gardenpawsupd1.4.8.r07	cd175a1e
+lfc-gardenpawsupd1.4.8.r08	39aa2092
+lfc-gardenpawsupd1.4.8.r09	ca8b89fc
+lfc-gardenpawsupd1.4.8.r10	e37bcabc
+lfc-gardenpawsupd1.4.8.r11	9cf7f348
+lfc-gardenpawsupd1.4.8.rar	d7965e18
+lfc-gardenpawsupd1.4.8.sfv	7d1a0a4c

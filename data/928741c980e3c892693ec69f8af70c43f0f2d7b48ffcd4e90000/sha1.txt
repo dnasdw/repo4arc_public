@@ -1,0 +1,7 @@
+sxs-negligee.nfo	1dc98a8c03b4880b0a9f2bc9ea73a8ada53cdeab
+sxs-negligee.r00	2813f3e52c57ad6a5a053875e08b35709896465e
+sxs-negligee.r01	c09f6f7b2bdb2cf89780f9f771dd39ce7400d5ba
+sxs-negligee.r02	f56b3b00eff9b94c2eac844e04441bfca7c57382
+sxs-negligee.r03	64afa30fcec90e4ba99285bb6b55154f546bb577
+sxs-negligee.rar	75eff4068562bbce7458de056da9b2a3c1b7463c
+sxs-negligee.sfv	59b01149760f4fd3a0e77c069d35ad2b2d531b42

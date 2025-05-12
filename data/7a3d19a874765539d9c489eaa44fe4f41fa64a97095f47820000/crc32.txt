@@ -1,0 +1,13 @@
+v-tetris99.nfo	53b4c934
+v-tetris99.r00	29ee1722
+v-tetris99.r01	a30d4791
+v-tetris99.r02	a625f1f1
+v-tetris99.r03	5da0965c
+v-tetris99.r04	2f1e8889
+v-tetris99.r05	939cfbe4
+v-tetris99.r06	1d37e72a
+v-tetris99.r07	9e8f07ad
+v-tetris99.r08	b2bee256
+v-tetris99.r09	633f0214
+v-tetris99.rar	fce405f8
+v-tetris99.sfv	27121252

@@ -1,0 +1,6 @@
+sxs-terrorbane_v65536.nfo	f7d417c1b3f80953d5a8a0fd08b6fb28
+sxs-terrorbane_v65536.r00	1526fbbf7b02259aac5b94c37cbb7bee
+sxs-terrorbane_v65536.r01	9399145013b6b8c379df12939481e6ee
+sxs-terrorbane_v65536.r02	d847a68a9a7db8f2e111118ff89b1e72
+sxs-terrorbane_v65536.rar	86c52574765bfba3379333e15bec3f08
+sxs-terrorbane_v65536.sfv	e0af0ff969cf69ba0cf3b7b2faa104a5

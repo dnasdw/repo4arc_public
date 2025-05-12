@@ -1,0 +1,3 @@
+sxs-gb_v65536.nfo	270e0dc9ddb426d32aecedee498bea18
+sxs-gb_v65536.rar	5097611ee458a794f37d0af9978248f0
+sxs-gb_v65536.sfv	2ffefd885dc999f66bae8f4a4db45798

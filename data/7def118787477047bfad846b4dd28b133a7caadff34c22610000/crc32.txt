@@ -1,0 +1,8 @@
+hr-bbbhav65536.nfo	5f9139f4
+hr-bbbhav65536.r00	55f00c4b
+hr-bbbhav65536.r01	0cd230b1
+hr-bbbhav65536.r02	5ca84d4b
+hr-bbbhav65536.r03	13224793
+hr-bbbhav65536.r04	a32c862c
+hr-bbbhav65536.rar	e61c7e86
+hr-bbbhav65536.sfv	e5c98fde

@@ -1,0 +1,3 @@
+sxs-megaton_rainfall_v65536.nfo	-	4652	1	0	0	0
+sxs-megaton_rainfall_v65536.rar	-	29910569	1	4652	0	1
+sxs-megaton_rainfall_v65536.sfv	-	42	1	29915221	0	30

@@ -1,0 +1,4 @@
+v-super_mario_rpg_v65536.nfo	9b1d9b34be0bafa046e92045b191c2a2
+v-super_mario_rpg_v65536.r00	9085c51b266a604ab62ebbbd4e9cf7aa
+v-super_mario_rpg_v65536.rar	1e431e66d2021c2ef40b38cf6aeca21b
+v-super_mario_rpg_v65536.sfv	d106b68f173e8fe5b0b0f37e221d9201

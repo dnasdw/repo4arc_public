@@ -1,0 +1,14 @@
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.nfo	-	7306	1	0	0	0
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.r00	-	100000000	1	7306	0	1
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.r01	-	100000000	1	100007306	0	97
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.r02	-	100000000	1	200007306	0	193
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.r03	-	100000000	1	300007306	0	289
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.r04	-	100000000	1	400007306	0	385
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.r05	-	100000000	1	500007306	0	481
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.r06	-	100000000	1	62251264	1	60
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.r07	-	100000000	1	162251264	1	156
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.r08	-	100000000	1	262251264	1	252
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.r09	-	100000000	1	362251264	1	348
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.r10	-	11608720	1	462251264	1	444
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.rar	-	100000000	1	473859984	1	456
+v-teenage_mutant_ninja_turtles_shredders_revenge_v458752.sfv	-	852	1	36036864	2	35

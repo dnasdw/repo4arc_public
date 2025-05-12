@@ -1,0 +1,9 @@
+lfc-slip.nfo	fda7e7d3
+lfc-slip.r00	a1147deb
+lfc-slip.r01	2b19eccd
+lfc-slip.r02	e486a8db
+lfc-slip.r03	b47f360b
+lfc-slip.r04	934e3c19
+lfc-slip.r05	8e1d8705
+lfc-slip.rar	628341b3
+lfc-slip.sfv	b9a3e50c

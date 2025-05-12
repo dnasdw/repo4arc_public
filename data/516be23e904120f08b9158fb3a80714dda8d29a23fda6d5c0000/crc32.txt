@@ -1,0 +1,14 @@
+v-arcade_tycoon.nfo	d1a81ce2
+v-arcade_tycoon.r00	db1e8a28
+v-arcade_tycoon.r01	c2b7c9ca
+v-arcade_tycoon.r02	142abd1d
+v-arcade_tycoon.r03	61372435
+v-arcade_tycoon.r04	e8139e0a
+v-arcade_tycoon.r05	e6fc7434
+v-arcade_tycoon.r06	9cea4832
+v-arcade_tycoon.r07	aef5c7bb
+v-arcade_tycoon.r08	2d95b75f
+v-arcade_tycoon.r09	40256766
+v-arcade_tycoon.r10	be785af8
+v-arcade_tycoon.rar	cfd1e999
+v-arcade_tycoon.sfv	233a7446

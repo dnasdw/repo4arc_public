@@ -1,0 +1,14 @@
+sxs-kitaria_fables_v65536.nfo	4fe031c4
+sxs-kitaria_fables_v65536.r00	aee2b41f
+sxs-kitaria_fables_v65536.r01	853645fa
+sxs-kitaria_fables_v65536.r02	6a91ebf4
+sxs-kitaria_fables_v65536.r03	2dcddc66
+sxs-kitaria_fables_v65536.r04	1c5b13e0
+sxs-kitaria_fables_v65536.r05	46bf88c7
+sxs-kitaria_fables_v65536.r06	00495a45
+sxs-kitaria_fables_v65536.r07	f0bd4372
+sxs-kitaria_fables_v65536.r08	66104266
+sxs-kitaria_fables_v65536.r09	adc6ec93
+sxs-kitaria_fables_v65536.r10	06eaf529
+sxs-kitaria_fables_v65536.rar	29c2dd3c
+sxs-kitaria_fables_v65536.sfv	20ff6e81

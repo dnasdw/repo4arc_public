@@ -1,0 +1,17 @@
+hr-amppb.jpg	e7adf2a6
+hr-amppb.nfo	f4d080d7
+hr-amppb.r00	bda9bb1d
+hr-amppb.r01	431cb260
+hr-amppb.r02	712e3773
+hr-amppb.r03	0caf9e77
+hr-amppb.r04	e038902b
+hr-amppb.r05	ee607034
+hr-amppb.r06	b8dbcd21
+hr-amppb.r07	3ebd7c45
+hr-amppb.r08	c310b5f8
+hr-amppb.r09	ed8f6be4
+hr-amppb.r10	af1239ff
+hr-amppb.r11	bc96c643
+hr-amppb.r12	9527f08c
+hr-amppb.rar	45235739
+hr-amppb.sfv	aaf78aef

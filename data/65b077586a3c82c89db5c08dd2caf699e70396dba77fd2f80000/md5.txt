@@ -1,0 +1,9 @@
+v-collection_of_mana.nfo	c3898d6c3875f301267f024e75e76c86
+v-collection_of_mana.r00	4dfd226e9862e644d87824ab5dceeeef
+v-collection_of_mana.r01	f00246b4de4fa3d9426f70abd5bb0d9b
+v-collection_of_mana.r02	ab1d49a0edb5840e9d427c4a4baf15f1
+v-collection_of_mana.r03	4c6d49abb5be2736a9c3cca7725aef2d
+v-collection_of_mana.r04	948e4cc432478eb12ca1aa443d7dc131
+v-collection_of_mana.r05	fe8daeb9c7da61137042ae01982e5dc4
+v-collection_of_mana.rar	7bb5e6b76d5a8fc0e2675ecc7a3bf93a
+v-collection_of_mana.sfv	e343125b4951286ee855e389d44ef1dd

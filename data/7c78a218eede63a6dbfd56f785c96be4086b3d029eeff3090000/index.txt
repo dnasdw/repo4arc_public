@@ -1,0 +1,5 @@
+v-ultimate_racing_2d_v262144.nfo	-	6370	1	0	0	0
+v-ultimate_racing_2d_v262144.r00	-	50000000	1	6370	0	1
+v-ultimate_racing_2d_v262144.r01	-	36671911	1	50006370	0	49
+v-ultimate_racing_2d_v262144.rar	-	50000000	1	86678281	0	84
+v-ultimate_racing_2d_v262144.sfv	-	129	1	136678281	0	132

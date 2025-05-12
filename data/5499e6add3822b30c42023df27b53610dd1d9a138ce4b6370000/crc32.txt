@@ -1,0 +1,7 @@
+sxs-c14_dating.nfo	5670c72c
+sxs-c14_dating.r00	7310069a
+sxs-c14_dating.r01	fd370a6d
+sxs-c14_dating.r02	eb860a79
+sxs-c14_dating.r03	2c9d5504
+sxs-c14_dating.rar	1e1cf801
+sxs-c14_dating.sfv	cb33b3a1

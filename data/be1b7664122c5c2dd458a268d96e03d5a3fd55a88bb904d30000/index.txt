@@ -1,0 +1,15 @@
+sxs-samba_de_amigo_party_central_v262144.nfo	-	5276	1	0	0	0
+sxs-samba_de_amigo_party_central_v262144.r00	-	100000000	1	5276	0	1
+sxs-samba_de_amigo_party_central_v262144.r01	-	100000000	1	100005276	0	97
+sxs-samba_de_amigo_party_central_v262144.r02	-	100000000	1	200005276	0	193
+sxs-samba_de_amigo_party_central_v262144.r03	-	100000000	1	300005276	0	289
+sxs-samba_de_amigo_party_central_v262144.r04	-	100000000	1	400005276	0	385
+sxs-samba_de_amigo_party_central_v262144.r05	-	100000000	1	500005276	0	481
+sxs-samba_de_amigo_party_central_v262144.r06	-	100000000	1	62251264	1	60
+sxs-samba_de_amigo_party_central_v262144.r07	-	100000000	1	162251264	1	156
+sxs-samba_de_amigo_party_central_v262144.r08	-	100000000	1	262251264	1	252
+sxs-samba_de_amigo_party_central_v262144.r09	-	100000000	1	362251264	1	348
+sxs-samba_de_amigo_party_central_v262144.r10	-	100000000	1	462251264	1	444
+sxs-samba_de_amigo_party_central_v262144.r11	-	2452515	1	24502528	2	24
+sxs-samba_de_amigo_party_central_v262144.rar	-	100000000	1	26955043	2	27
+sxs-samba_de_amigo_party_central_v262144.sfv	-	715	1	126955043	2	123

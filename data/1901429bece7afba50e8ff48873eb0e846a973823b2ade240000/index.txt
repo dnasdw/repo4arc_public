@@ -1,0 +1,4 @@
+sxs-food_truck_tycoon_v524288.nfo	-	5432	1	0	0	0
+sxs-food_truck_tycoon_v524288.r00	-	79141289	1	5432	0	1
+sxs-food_truck_tycoon_v524288.rar	-	100000000	1	79146721	0	77
+sxs-food_truck_tycoon_v524288.sfv	-	88	1	179146721	0	173

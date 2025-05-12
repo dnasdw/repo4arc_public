@@ -1,0 +1,7 @@
+sxs-moorhuhn_remake_v262144.nfo	-	8006	1	0	0	0
+sxs-moorhuhn_remake_v262144.r00	-	50000000	1	8006	0	1
+sxs-moorhuhn_remake_v262144.r01	-	50000000	1	50008006	0	49
+sxs-moorhuhn_remake_v262144.r02	-	50000000	1	100008006	0	97
+sxs-moorhuhn_remake_v262144.r03	-	5942429	1	150008006	0	145
+sxs-moorhuhn_remake_v262144.rar	-	50000000	1	155950435	0	151
+sxs-moorhuhn_remake_v262144.sfv	-	210	1	205950435	0	199

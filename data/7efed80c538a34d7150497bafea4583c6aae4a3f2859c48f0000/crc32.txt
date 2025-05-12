@@ -1,0 +1,12 @@
+v-cocoon_v196608.nfo	3d83fbfa
+v-cocoon_v196608.r00	a0c553e7
+v-cocoon_v196608.r01	8199e272
+v-cocoon_v196608.r02	e5a4ccf9
+v-cocoon_v196608.r03	4fc4ecb8
+v-cocoon_v196608.r04	eba5b04f
+v-cocoon_v196608.r05	d180c4a0
+v-cocoon_v196608.r06	054c3b0b
+v-cocoon_v196608.r07	dcf6403c
+v-cocoon_v196608.r08	0ba64d23
+v-cocoon_v196608.rar	9fac6fc7
+v-cocoon_v196608.sfv	17c6eeda

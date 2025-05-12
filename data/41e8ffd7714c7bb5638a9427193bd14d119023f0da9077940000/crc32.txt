@@ -1,0 +1,16 @@
+v-orochi_v524288.nfo	259756dc
+v-orochi_v524288.r00	42f1d5e3
+v-orochi_v524288.r01	e91d2767
+v-orochi_v524288.r02	2acb2083
+v-orochi_v524288.r03	7569098a
+v-orochi_v524288.r04	58619780
+v-orochi_v524288.r05	4dbe6a98
+v-orochi_v524288.r06	62548fd0
+v-orochi_v524288.r07	6fad5024
+v-orochi_v524288.r08	4bdba2e1
+v-orochi_v524288.r09	9b6c8439
+v-orochi_v524288.r10	faed86eb
+v-orochi_v524288.r11	9bfbed5b
+v-orochi_v524288.r12	c6d6d79d
+v-orochi_v524288.rar	fef3d3a8
+v-orochi_v524288.sfv	e6b4c380

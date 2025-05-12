@@ -1,0 +1,8 @@
+sxs-pantsu_hunter_back_to_the_90s.nfo	-	6056	1	0	0	0
+sxs-pantsu_hunter_back_to_the_90s.r00	-	50000000	1	6056	0	1
+sxs-pantsu_hunter_back_to_the_90s.r01	-	50000000	1	50006056	0	49
+sxs-pantsu_hunter_back_to_the_90s.r02	-	50000000	1	100006056	0	97
+sxs-pantsu_hunter_back_to_the_90s.r03	-	50000000	1	150006056	0	145
+sxs-pantsu_hunter_back_to_the_90s.r04	-	8086661	1	200006056	0	193
+sxs-pantsu_hunter_back_to_the_90s.rar	-	50000000	1	208092717	0	201
+sxs-pantsu_hunter_back_to_the_90s.sfv	-	288	1	258092717	0	249

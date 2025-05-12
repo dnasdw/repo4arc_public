@@ -1,0 +1,7 @@
+sxs-the_binding_of_isaac_afterbirth_plus_v262144.nfo	-	5588	1	0	0	0
+sxs-the_binding_of_isaac_afterbirth_plus_v262144.r00	-	50000000	1	5588	0	1
+sxs-the_binding_of_isaac_afterbirth_plus_v262144.r01	-	50000000	1	50005588	0	49
+sxs-the_binding_of_isaac_afterbirth_plus_v262144.r02	-	50000000	1	100005588	0	97
+sxs-the_binding_of_isaac_afterbirth_plus_v262144.r03	-	36658453	1	150005588	0	145
+sxs-the_binding_of_isaac_afterbirth_plus_v262144.rar	-	50000000	1	186664041	0	180
+sxs-the_binding_of_isaac_afterbirth_plus_v262144.sfv	-	315	1	236664041	0	228

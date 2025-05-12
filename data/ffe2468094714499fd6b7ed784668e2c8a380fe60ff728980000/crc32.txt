@@ -1,0 +1,11 @@
+sxs-fairy_tail_v65536.nfo	53cd8d01
+sxs-fairy_tail_v65536.r00	d4788378
+sxs-fairy_tail_v65536.r01	6bd46e73
+sxs-fairy_tail_v65536.r02	9003bc54
+sxs-fairy_tail_v65536.r03	d14da552
+sxs-fairy_tail_v65536.r04	ef3d0f08
+sxs-fairy_tail_v65536.r05	30b5e45c
+sxs-fairy_tail_v65536.r06	702ebd25
+sxs-fairy_tail_v65536.r07	26a5d211
+sxs-fairy_tail_v65536.rar	31c80dcd
+sxs-fairy_tail_v65536.sfv	cd0d76ca

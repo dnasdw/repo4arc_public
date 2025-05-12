@@ -1,0 +1,9 @@
+v-haiku_the_robot_v327680.nfo	1cdd7ab5
+v-haiku_the_robot_v327680.r00	a5f8cc3c
+v-haiku_the_robot_v327680.r01	18eec5e9
+v-haiku_the_robot_v327680.r02	a0853aa0
+v-haiku_the_robot_v327680.r03	a219c197
+v-haiku_the_robot_v327680.r04	93bdedfb
+v-haiku_the_robot_v327680.r05	dab95427
+v-haiku_the_robot_v327680.rar	d065b4a3
+v-haiku_the_robot_v327680.sfv	da5fd269

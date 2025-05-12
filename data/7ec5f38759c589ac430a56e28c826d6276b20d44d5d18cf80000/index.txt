@@ -1,0 +1,4 @@
+sxs-ziksquare_v131072.nfo	-	4886	1	0	0	0
+sxs-ziksquare_v131072.r00	-	38560918	1	4886	0	1
+sxs-ziksquare_v131072.rar	-	50000000	1	38565804	0	38
+sxs-ziksquare_v131072.sfv	-	72	1	88565804	0	86

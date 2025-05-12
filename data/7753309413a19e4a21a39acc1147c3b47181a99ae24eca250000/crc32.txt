@@ -1,0 +1,16 @@
+i-juicyrealm.nfo	30bced04
+i-juicyrealm.r00	64580c36
+i-juicyrealm.r01	6af5eaf4
+i-juicyrealm.r02	c71b3fb8
+i-juicyrealm.r03	ce632d78
+i-juicyrealm.r04	b9f579d1
+i-juicyrealm.r05	9cb246b0
+i-juicyrealm.r06	626763ad
+i-juicyrealm.r07	96ea2a00
+i-juicyrealm.r08	aa2fa680
+i-juicyrealm.r09	bc7db1fb
+i-juicyrealm.r10	22cc34b2
+i-juicyrealm.r11	8c9b2344
+i-juicyrealm.r12	4e2a341b
+i-juicyrealm.rar	0ec2d990
+i-juicyrealm.sfv	1a4227e4

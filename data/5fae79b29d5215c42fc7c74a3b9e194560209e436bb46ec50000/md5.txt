@@ -1,0 +1,13 @@
+lfc-wahpupdv101.nfo	0c9bfcf19611d7fb576016e4669877e8
+lfc-wahpupdv101.r00	6aa59a4642f37c9943d90387af51af73
+lfc-wahpupdv101.r01	59c2d0624f099dfca29967cc4438333e
+lfc-wahpupdv101.r02	fe05020cb88e886fd5dd475bd5c20fbd
+lfc-wahpupdv101.r03	a27cadba8203e70ae3c415e0f43bff9d
+lfc-wahpupdv101.r04	c8a47b3963864d9d993d2509cb137d53
+lfc-wahpupdv101.r05	4c3f0e8fcfea7566a5b832782b47c8ab
+lfc-wahpupdv101.r06	39ce77aa2ba604c9f956c33acb891327
+lfc-wahpupdv101.r07	19ed6d4016098484161f8d34dd24e7d6
+lfc-wahpupdv101.r08	86c1d0ba4e9dd9d4b8f28227fa5b1bdd
+lfc-wahpupdv101.r09	e6f959ed299c97136506ab08572d4021
+lfc-wahpupdv101.rar	41dd8de4015f846dd0aaad1967476f3b
+lfc-wahpupdv101.sfv	83de03f8baf8e4ee6362a350e1c775fc

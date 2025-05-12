@@ -1,0 +1,5 @@
+lfc-mrdv1.0.1.update.nfo	-	5037	1	0	0	0
+lfc-mrdv1.0.1.update.r00	-	50000000	1	5037	0	1
+lfc-mrdv1.0.1.update.r01	-	31347382	1	50005037	0	49
+lfc-mrdv1.0.1.update.rar	-	50000000	1	81352419	0	79
+lfc-mrdv1.0.1.update.sfv	-	105	1	131352419	0	127

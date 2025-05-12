@@ -1,0 +1,3 @@
+sxs-arcade_paradise_v720896_dlc.nfo	-	5510	1	0	0	0
+sxs-arcade_paradise_v720896_dlc.rar	-	831343	1	5510	0	1
+sxs-arcade_paradise_v720896_dlc.sfv	-	46	1	836853	0	2

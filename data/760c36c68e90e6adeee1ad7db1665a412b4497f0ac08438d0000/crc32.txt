@@ -1,0 +1,11 @@
+sxs-nekomin.nfo	479ff2a8
+sxs-nekomin.r00	c5c684cb
+sxs-nekomin.r01	73c3d346
+sxs-nekomin.r02	d57d165e
+sxs-nekomin.r03	537342f2
+sxs-nekomin.r04	688de9ba
+sxs-nekomin.r05	3dcd8a83
+sxs-nekomin.r06	47837695
+sxs-nekomin.r07	3313a553
+sxs-nekomin.rar	c97b36f7
+sxs-nekomin.sfv	2a159933

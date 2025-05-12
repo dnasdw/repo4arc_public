@@ -1,0 +1,4 @@
+lfc-fnafsl_v1.0.1_upd.nfo	-	5360	1	0	0	0
+lfc-fnafsl_v1.0.1_upd.r00	-	23534332	1	5360	0	1
+lfc-fnafsl_v1.0.1_upd.rar	-	50000000	1	23539692	0	24
+lfc-fnafsl_v1.0.1_upd.sfv	-	72	1	73539692	0	72

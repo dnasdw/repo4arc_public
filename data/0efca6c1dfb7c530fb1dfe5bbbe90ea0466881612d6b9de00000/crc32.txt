@@ -1,0 +1,17 @@
+v-blackmoor_2_v458752.nfo	1cd1bab0
+v-blackmoor_2_v458752.r00	c4e27aeb
+v-blackmoor_2_v458752.r01	2c4c347b
+v-blackmoor_2_v458752.r02	0d34c25c
+v-blackmoor_2_v458752.r03	41e22261
+v-blackmoor_2_v458752.r04	f2115133
+v-blackmoor_2_v458752.r05	ed5d7027
+v-blackmoor_2_v458752.r06	7ddadfe9
+v-blackmoor_2_v458752.r07	1792959b
+v-blackmoor_2_v458752.r08	1207820e
+v-blackmoor_2_v458752.r09	52ca507d
+v-blackmoor_2_v458752.r10	6bda1296
+v-blackmoor_2_v458752.r11	9e8ff8e9
+v-blackmoor_2_v458752.r12	9a03e8bb
+v-blackmoor_2_v458752.r13	b2cec1e5
+v-blackmoor_2_v458752.rar	a00194cc
+v-blackmoor_2_v458752.sfv	04702fdc

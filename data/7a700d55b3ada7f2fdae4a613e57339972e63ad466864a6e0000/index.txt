@@ -1,0 +1,5 @@
+sxs-aldred_knight_of_honor.nfo	-	5510	1	0	0	0
+sxs-aldred_knight_of_honor.r00	-	50000000	1	5510	0	1
+sxs-aldred_knight_of_honor.r01	-	27888200	1	50005510	0	49
+sxs-aldred_knight_of_honor.rar	-	50000000	1	77893710	0	76
+sxs-aldred_knight_of_honor.sfv	-	123	1	127893710	0	124

@@ -1,0 +1,8 @@
+sxs-fly_punch_boom_v262144.nfo	-	6524	1	0	0	0
+sxs-fly_punch_boom_v262144.r00	-	50000000	1	6524	0	1
+sxs-fly_punch_boom_v262144.r01	-	50000000	1	50006524	0	49
+sxs-fly_punch_boom_v262144.r02	-	50000000	1	100006524	0	97
+sxs-fly_punch_boom_v262144.r03	-	50000000	1	150006524	0	145
+sxs-fly_punch_boom_v262144.r04	-	36560578	1	200006524	0	193
+sxs-fly_punch_boom_v262144.rar	-	50000000	1	236567102	0	228
+sxs-fly_punch_boom_v262144.sfv	-	246	1	286567102	0	276

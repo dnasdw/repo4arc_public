@@ -1,0 +1,5 @@
+sxs-skybolt_zack_v196608.nfo	77bd0e9e6c91dd9dd4f52761faefb1f9
+sxs-skybolt_zack_v196608.r00	55fb9a7211934d9bc5f08e78e157f58d
+sxs-skybolt_zack_v196608.r01	a6a05edfbf8402dfe4b1dba959c67c44
+sxs-skybolt_zack_v196608.rar	9c180645be26bf40655e88854e1dcc52
+sxs-skybolt_zack_v196608.sfv	a2c0e2a39b817e9f0626c7c00bfa8f78

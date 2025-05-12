@@ -1,0 +1,5 @@
+v-trialm_v65536.nfo	cd0bf300
+v-trialm_v65536.r00	a3b5389e
+v-trialm_v65536.r01	a15efb4c
+v-trialm_v65536.rar	e09dc939
+v-trialm_v65536.sfv	29707492

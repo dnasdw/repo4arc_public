@@ -1,0 +1,6 @@
+sxs-radical_rabbit_stew_v196608.nfo	-	6212	1	0	0	0
+sxs-radical_rabbit_stew_v196608.r00	-	50000000	1	6212	0	1
+sxs-radical_rabbit_stew_v196608.r01	-	50000000	1	50006212	0	49
+sxs-radical_rabbit_stew_v196608.r02	-	35039989	1	100006212	0	97
+sxs-radical_rabbit_stew_v196608.rar	-	50000000	1	135046201	0	131
+sxs-radical_rabbit_stew_v196608.sfv	-	184	1	185046201	0	179

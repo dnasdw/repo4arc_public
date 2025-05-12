@@ -1,0 +1,3 @@
+v-doom_ii_the_troopers_playground_dlc.nfo	2dad7aa8aefc56295c097d308f92dcc2e1d5b31f
+v-doom_ii_the_troopers_playground_dlc.rar	9c7eddb7e7f6cd641e1a5b995fbdcf320c112fc1
+v-doom_ii_the_troopers_playground_dlc.sfv	87d13f5f38ce581df73bf5e2ad465c38e5354ff3

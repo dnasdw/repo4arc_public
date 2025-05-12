@@ -1,0 +1,17 @@
+sxs-action_arcade_wrestling.nfo	-	5042	1	0	0	0
+sxs-action_arcade_wrestling.r00	-	50000000	1	5042	0	1
+sxs-action_arcade_wrestling.r01	-	50000000	1	50005042	0	49
+sxs-action_arcade_wrestling.r02	-	50000000	1	100005042	0	97
+sxs-action_arcade_wrestling.r03	-	50000000	1	150005042	0	145
+sxs-action_arcade_wrestling.r04	-	50000000	1	200005042	0	193
+sxs-action_arcade_wrestling.r05	-	50000000	1	250005042	0	241
+sxs-action_arcade_wrestling.r06	-	50000000	1	300005042	0	289
+sxs-action_arcade_wrestling.r07	-	50000000	1	350005042	0	337
+sxs-action_arcade_wrestling.r08	-	50000000	1	400005042	0	385
+sxs-action_arcade_wrestling.r09	-	50000000	1	450005042	0	433
+sxs-action_arcade_wrestling.r10	-	50000000	1	500005042	0	481
+sxs-action_arcade_wrestling.r11	-	50000000	1	12251264	1	12
+sxs-action_arcade_wrestling.r12	-	50000000	1	62251264	1	60
+sxs-action_arcade_wrestling.r13	-	11534144	1	112251264	1	108
+sxs-action_arcade_wrestling.rar	-	50000000	1	123785408	1	119
+sxs-action_arcade_wrestling.sfv	-	630	1	173785408	1	167

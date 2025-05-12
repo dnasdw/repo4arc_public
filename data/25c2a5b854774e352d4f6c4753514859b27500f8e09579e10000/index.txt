@@ -1,0 +1,5 @@
+sxs-dont_starve_together_v131072.nfo	-	4496	1	0	0	0
+sxs-dont_starve_together_v131072.r00	-	50000000	1	4496	0	1
+sxs-dont_starve_together_v131072.r01	-	16478234	1	50004496	0	49
+sxs-dont_starve_together_v131072.rar	-	50000000	1	66482730	0	65
+sxs-dont_starve_together_v131072.sfv	-	141	1	116482730	0	113

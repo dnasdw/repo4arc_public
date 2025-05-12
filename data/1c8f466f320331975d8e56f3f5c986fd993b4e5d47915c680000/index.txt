@@ -1,0 +1,3 @@
+sxs-earth_defense_force_world_brothers_dlc.nfo	-	11204	1	0	0	0
+sxs-earth_defense_force_world_brothers_dlc.rar	-	2495150	1	11204	0	1
+sxs-earth_defense_force_world_brothers_dlc.sfv	-	57	1	2506354	0	4

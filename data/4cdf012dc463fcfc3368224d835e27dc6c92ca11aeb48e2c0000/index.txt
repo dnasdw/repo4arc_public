@@ -1,0 +1,8 @@
+sxs-party_party_time_v1048576.nfo	-	4886	1	0	0	0
+sxs-party_party_time_v1048576.r00	-	100000000	1	4886	0	1
+sxs-party_party_time_v1048576.r01	-	100000000	1	100004886	0	97
+sxs-party_party_time_v1048576.r02	-	100000000	1	200004886	0	193
+sxs-party_party_time_v1048576.r03	-	100000000	1	300004886	0	289
+sxs-party_party_time_v1048576.r04	-	4790606	1	400004886	0	385
+sxs-party_party_time_v1048576.rar	-	100000000	1	404795492	0	390
+sxs-party_party_time_v1048576.sfv	-	264	1	504795492	0	486

@@ -1,0 +1,9 @@
+sxs-kingdoms_of_amalur_re_reckoning_v393216.nfo	-	4496	1	0	0	0
+sxs-kingdoms_of_amalur_re_reckoning_v393216.r00	-	100000000	1	4496	0	1
+sxs-kingdoms_of_amalur_re_reckoning_v393216.r01	-	100000000	1	100004496	0	97
+sxs-kingdoms_of_amalur_re_reckoning_v393216.r02	-	100000000	1	200004496	0	193
+sxs-kingdoms_of_amalur_re_reckoning_v393216.r03	-	100000000	1	300004496	0	289
+sxs-kingdoms_of_amalur_re_reckoning_v393216.r04	-	100000000	1	400004496	0	385
+sxs-kingdoms_of_amalur_re_reckoning_v393216.r05	-	95511665	1	500004496	0	481
+sxs-kingdoms_of_amalur_re_reckoning_v393216.rar	-	100000000	1	57762929	1	56
+sxs-kingdoms_of_amalur_re_reckoning_v393216.sfv	-	406	1	157762929	1	152

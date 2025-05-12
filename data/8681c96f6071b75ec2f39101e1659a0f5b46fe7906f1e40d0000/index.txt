@@ -1,0 +1,10 @@
+sxs-explosive_jake.nfo	-	5198	1	0	0	0
+sxs-explosive_jake.r00	-	50000000	1	5198	0	1
+sxs-explosive_jake.r01	-	50000000	1	50005198	0	49
+sxs-explosive_jake.r02	-	50000000	1	100005198	0	97
+sxs-explosive_jake.r03	-	50000000	1	150005198	0	145
+sxs-explosive_jake.r04	-	50000000	1	200005198	0	193
+sxs-explosive_jake.r05	-	50000000	1	250005198	0	241
+sxs-explosive_jake.r06	-	1952390	1	300005198	0	289
+sxs-explosive_jake.rar	-	50000000	1	301957588	0	291
+sxs-explosive_jake.sfv	-	264	1	351957588	0	339

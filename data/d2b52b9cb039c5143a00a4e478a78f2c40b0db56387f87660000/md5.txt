@@ -1,0 +1,4 @@
+sxs-super_mutant_alien_assault.nfo	9a2b3a33e8d6301ec4416796af917b96
+sxs-super_mutant_alien_assault.r00	6f0da6a958e21d307502745f073e6f8a
+sxs-super_mutant_alien_assault.rar	7daf92e1c40b22e0b778db842ff4004c
+sxs-super_mutant_alien_assault.sfv	405a42dd1467a5a3f3a43b7532884f27

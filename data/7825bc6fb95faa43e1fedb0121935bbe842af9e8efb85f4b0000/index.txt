@@ -1,0 +1,4 @@
+v-ultimate_racing_2d_v65536.nfo	-	6214	1	0	0	0
+v-ultimate_racing_2d_v65536.r00	-	4545520	1	6214	0	1
+v-ultimate_racing_2d_v65536.rar	-	50000000	1	4551734	0	6
+v-ultimate_racing_2d_v65536.sfv	-	84	1	54551734	0	54

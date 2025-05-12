@@ -1,0 +1,4 @@
+sxs-the_captain_v65536.nfo	-	8084	1	0	0	0
+sxs-the_captain_v65536.r00	-	57862501	1	8084	0	1
+sxs-the_captain_v65536.rar	-	100000000	1	57870585	0	57
+sxs-the_captain_v65536.sfv	-	74	1	157870585	0	153

@@ -1,0 +1,4 @@
+sxs-cubic_figures_v65536.nfo	8b200be3
+sxs-cubic_figures_v65536.r00	c6dec598
+sxs-cubic_figures_v65536.rar	1e348474
+sxs-cubic_figures_v65536.sfv	bd5efe7f

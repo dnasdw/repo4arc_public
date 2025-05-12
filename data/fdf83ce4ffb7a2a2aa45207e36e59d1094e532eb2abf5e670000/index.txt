@@ -1,0 +1,4 @@
+v-blossom_tales_ii_the_minotaur_prince_v131072.nfo	-	5590	1	0	0	0
+v-blossom_tales_ii_the_minotaur_prince_v131072.r00	-	45358423	1	5590	0	1
+v-blossom_tales_ii_the_minotaur_prince_v131072.rar	-	50000000	1	45364013	0	45
+v-blossom_tales_ii_the_minotaur_prince_v131072.sfv	-	122	1	95364013	0	93

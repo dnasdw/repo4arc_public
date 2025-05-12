@@ -1,0 +1,8 @@
+bbb-n-amwda.nfo	-	5517	1	0	0	0
+bbb-n-amwda.part1.rar	-	250000000	1	5517	0	1
+bbb-n-amwda.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-amwda.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-amwda.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-amwda.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-amwda.part6.rar	-	223374495	1	174502528	2	167
+bbb-n-amwda.sfv	-	192	1	397877023	2	381

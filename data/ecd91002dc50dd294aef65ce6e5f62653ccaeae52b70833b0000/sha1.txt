@@ -1,0 +1,3 @@
+v-doom_ii_doom_zero_dlc.nfo	f1e898ba901a012c86ef71ce5e6b6bfb170c1376
+v-doom_ii_doom_zero_dlc.rar	448f5b4c2efd45d3023327f7598249bc6d2b115c
+v-doom_ii_doom_zero_dlc.sfv	b816ef67b06b981948026f484bfa9b2bb09288f1

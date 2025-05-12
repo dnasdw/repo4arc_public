@@ -1,0 +1,5 @@
+sxs-melty_blood_type_lumina_v262144.nfo	754f76a5
+sxs-melty_blood_type_lumina_v262144.r00	efa1f1df
+sxs-melty_blood_type_lumina_v262144.r01	a8738f64
+sxs-melty_blood_type_lumina_v262144.rar	4455a80d
+sxs-melty_blood_type_lumina_v262144.sfv	8bc18098

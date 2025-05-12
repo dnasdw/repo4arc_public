@@ -1,0 +1,12 @@
+sxs-lil_guardsman.nfo	d57550160545f1c194811f853f9d6c5b
+sxs-lil_guardsman.r00	51f3f75109d54b68b527a623fc74d082
+sxs-lil_guardsman.r01	1f6f043cc70e0af89a14dd8f05c1e025
+sxs-lil_guardsman.r02	b70de2c73c7e80c0c03a2d9d150f66a5
+sxs-lil_guardsman.r03	ebd11c70dc2c2dc48067afb34614beb0
+sxs-lil_guardsman.r04	534534ccee9076aa328f8d1dc7d820cb
+sxs-lil_guardsman.r05	f920f99a34dc16b0fdc0e114651328ea
+sxs-lil_guardsman.r06	8815fefb0fe531f0a0902f5ddfef0c34
+sxs-lil_guardsman.r07	4b6a3e251c7e5e9de382cf452551876a
+sxs-lil_guardsman.r08	220ac7cb3dc9e314c6a90bf68af9cbb4
+sxs-lil_guardsman.rar	4fd69049d741ae1200828e1b34683370
+sxs-lil_guardsman.sfv	341c44e2419ba640483c0a58f8785a05

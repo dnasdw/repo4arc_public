@@ -1,0 +1,5 @@
+sxs-game_dev_story_v327680.nfo	-	4730	1	0	0	0
+sxs-game_dev_story_v327680.r00	-	50000000	1	4730	0	1
+sxs-game_dev_story_v327680.r01	-	34123228	1	50004730	0	49
+sxs-game_dev_story_v327680.rar	-	50000000	1	84127958	0	82
+sxs-game_dev_story_v327680.sfv	-	123	1	134127958	0	130

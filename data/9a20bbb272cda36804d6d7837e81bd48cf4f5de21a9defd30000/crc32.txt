@@ -1,0 +1,14 @@
+i-mrblaster.nfo	a6bb08a9
+i-mrblaster.r00	54e0a453
+i-mrblaster.r01	17463bff
+i-mrblaster.r02	c24cb518
+i-mrblaster.r03	1a639d1d
+i-mrblaster.r04	b7a05a76
+i-mrblaster.r05	832cf82e
+i-mrblaster.r06	55385ce8
+i-mrblaster.r07	03bec9e3
+i-mrblaster.r08	f0952107
+i-mrblaster.r09	29970b85
+i-mrblaster.r10	df6b17b7
+i-mrblaster.rar	77dabd31
+i-mrblaster.sfv	94587939

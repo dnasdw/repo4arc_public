@@ -1,0 +1,5 @@
+w-forager.nfo	-	8766	1	0	0	0
+w-forager.r00	-	50000000	1	8766	0	1
+w-forager.r01	-	34399077	1	50008766	0	49
+w-forager.rar	-	50000000	1	84407843	0	82
+w-forager.sfv	-	72	1	134407843	0	130

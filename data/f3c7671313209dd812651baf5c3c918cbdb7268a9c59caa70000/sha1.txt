@@ -1,0 +1,8 @@
+hr-cybershadow.nfo	1fab43affa417bd07f39ec4fc032af86da7f03a4
+hr-cybershadow.r00	df177b194496648d229c34e2589820ef5ae7e758
+hr-cybershadow.r01	db0459df56c53165a7d27a48fec63b00816ed88a
+hr-cybershadow.r02	d87b902c29600d4f58d099ddde258c09728252d3
+hr-cybershadow.r03	7f00958a587ac79315e501f1c946bc6496107cc9
+hr-cybershadow.r04	3289112dc3ccf69ddbdbc5ebd7071e04fb521c59
+hr-cybershadow.rar	4a7b865243bf749ace2509711d0bf68a6dc67222
+hr-cybershadow.sfv	d86f5d85710d0f058db094fca2bedbf31e14259a

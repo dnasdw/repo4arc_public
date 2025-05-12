@@ -1,0 +1,9 @@
+sxs-klondike_solitaire_v196608.nfo	6fa8c097
+sxs-klondike_solitaire_v196608.r00	0ab05bd0
+sxs-klondike_solitaire_v196608.r01	896ceebc
+sxs-klondike_solitaire_v196608.r02	aa3fcbbc
+sxs-klondike_solitaire_v196608.r03	722b29fa
+sxs-klondike_solitaire_v196608.r04	61e09cf9
+sxs-klondike_solitaire_v196608.r05	df949fa2
+sxs-klondike_solitaire_v196608.rar	6258ce80
+sxs-klondike_solitaire_v196608.sfv	e6020834

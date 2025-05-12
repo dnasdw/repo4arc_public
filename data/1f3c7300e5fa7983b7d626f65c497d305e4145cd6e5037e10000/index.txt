@@ -1,0 +1,4 @@
+sxs-dqxi_demo_v65536.nfo	-	8396	1	0	0	0
+sxs-dqxi_demo_v65536.r00	-	14045540	1	8396	0	1
+sxs-dqxi_demo_v65536.rar	-	50000000	1	14053936	0	15
+sxs-dqxi_demo_v65536.sfv	-	70	1	64053936	0	63

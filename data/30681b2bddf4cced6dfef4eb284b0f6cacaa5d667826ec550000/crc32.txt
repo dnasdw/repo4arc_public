@@ -1,0 +1,10 @@
+v-samurai_shodown_warden_dlc.nfo	8e2a2976
+v-samurai_shodown_warden_dlc.r00	1e25a941
+v-samurai_shodown_warden_dlc.r01	589ea998
+v-samurai_shodown_warden_dlc.r02	ff3cef5c
+v-samurai_shodown_warden_dlc.r03	b074aae5
+v-samurai_shodown_warden_dlc.r04	dff2f8a2
+v-samurai_shodown_warden_dlc.r05	1f24035e
+v-samurai_shodown_warden_dlc.r06	e4b5c44b
+v-samurai_shodown_warden_dlc.rar	0a462790
+v-samurai_shodown_warden_dlc.sfv	e604b3e6

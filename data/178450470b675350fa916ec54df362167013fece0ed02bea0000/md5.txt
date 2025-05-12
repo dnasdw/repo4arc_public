@@ -1,0 +1,6 @@
+lfc-gugg.nfo	8ecdf73e8826c867751e6ec64027dafa
+lfc-gugg.r00	74fd88e3df14773e00e56274fabe3903
+lfc-gugg.r01	3a7b33eadae983a4cec875154a84c440
+lfc-gugg.r02	f9a128dda4cd47f8a31fada2c6e23f91
+lfc-gugg.rar	1ded04eaacee48b0dccbb31681c853ba
+lfc-gugg.sfv	699b0c9d3b3f9096d8661830b5767a1c

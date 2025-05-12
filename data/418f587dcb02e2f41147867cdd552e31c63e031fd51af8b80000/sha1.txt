@@ -1,0 +1,5 @@
+sxs-phantasy_star.nfo	c695efc3b9cc17cdd213a75277fc666560839923
+sxs-phantasy_star.r00	2ad1aef6220d5f8dc15327eee057040dc0c0ebdc
+sxs-phantasy_star.r01	ace5fae3dfcdd89cbd2d1e29ccecf164521a41ab
+sxs-phantasy_star.rar	688c7d764674b6689ae80a065dd33008dc57785c
+sxs-phantasy_star.sfv	d2b13f764d9fe98a687b7c504c2e40ed4a0af6fe

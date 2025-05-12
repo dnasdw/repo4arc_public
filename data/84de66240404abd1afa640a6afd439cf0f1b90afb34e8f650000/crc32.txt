@@ -1,0 +1,13 @@
+brw-pout.nfo	ca92c427
+brw-pout.r00	066c1563
+brw-pout.r01	9e1bd232
+brw-pout.r02	0faabfef
+brw-pout.r03	274c28df
+brw-pout.r04	c114c087
+brw-pout.r05	a40ecde7
+brw-pout.r06	75f7a51a
+brw-pout.r07	241f9174
+brw-pout.r08	0faed874
+brw-pout.r09	2b7ef28a
+brw-pout.rar	3bc5d4b3
+brw-pout.sfv	6b206417

@@ -1,0 +1,6 @@
+sxs-spitlings_v65536.nfo	-	4262	1	0	0	0
+sxs-spitlings_v65536.r00	-	50000000	1	4262	0	1
+sxs-spitlings_v65536.r01	-	50000000	1	50004262	0	49
+sxs-spitlings_v65536.r02	-	48553393	1	100004262	0	97
+sxs-spitlings_v65536.rar	-	50000000	1	148557655	0	144
+sxs-spitlings_v65536.sfv	-	140	1	198557655	0	192

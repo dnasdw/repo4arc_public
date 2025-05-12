@@ -1,0 +1,14 @@
+sxs-blue_reflection_second_light_v458752.nfo	b958ea2d
+sxs-blue_reflection_second_light_v458752.r00	ea7a6689
+sxs-blue_reflection_second_light_v458752.r01	87467bb0
+sxs-blue_reflection_second_light_v458752.r02	647d5f5d
+sxs-blue_reflection_second_light_v458752.r03	a59595e0
+sxs-blue_reflection_second_light_v458752.r04	5252d546
+sxs-blue_reflection_second_light_v458752.r05	9a86fdd0
+sxs-blue_reflection_second_light_v458752.r06	f055be77
+sxs-blue_reflection_second_light_v458752.r07	cf2aea36
+sxs-blue_reflection_second_light_v458752.r08	d41c317f
+sxs-blue_reflection_second_light_v458752.r09	ef1e49b3
+sxs-blue_reflection_second_light_v458752.r10	2a382672
+sxs-blue_reflection_second_light_v458752.rar	a14571f1
+sxs-blue_reflection_second_light_v458752.sfv	7aa0d0cb

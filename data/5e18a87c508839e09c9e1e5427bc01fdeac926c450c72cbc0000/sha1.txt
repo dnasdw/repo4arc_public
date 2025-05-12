@@ -1,0 +1,4 @@
+brw-farp.nfo	d1b8ad0b5ec066f52d6e96f12670147207f4b19b
+brw-farp.r00	cd1f6d1b34bd2bb4c2cf2f01cfd8c5d6317d068d
+brw-farp.rar	099a250d4c01e44b6aae4eb651ca5e6410479d68
+brw-farp.sfv	d7cbc3e7e69f536865d744cfbb716f22bbd1086b

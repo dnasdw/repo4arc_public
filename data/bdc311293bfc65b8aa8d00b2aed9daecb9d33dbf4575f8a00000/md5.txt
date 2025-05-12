@@ -1,0 +1,4 @@
+lfc-aiki_v65536.nfo	495fe6a951e493ee33815db6042eb04a
+lfc-aiki_v65536.r00	596aaa330e2b5486a79f689f26d6bd2c
+lfc-aiki_v65536.rar	5a12f46dfa610ef7afd2a800a68fc4db
+lfc-aiki_v65536.sfv	7e4707522bcbf94f1e5a0c5487e3cccf

@@ -1,0 +1,4 @@
+v-as_far_as_the_eye_v65536.nfo	-	6526	1	0	0	0
+v-as_far_as_the_eye_v65536.r00	-	48320874	1	6526	0	1
+v-as_far_as_the_eye_v65536.rar	-	50000000	1	48327400	0	48
+v-as_far_as_the_eye_v65536.sfv	-	82	1	98327400	0	96

@@ -1,0 +1,4 @@
+sxs-fate_extella_link_v65536.nfo	-	6758	1	0	0	0
+sxs-fate_extella_link_v65536.r00	-	20675375	1	6758	0	1
+sxs-fate_extella_link_v65536.rar	-	50000000	1	20682133	0	21
+sxs-fate_extella_link_v65536.sfv	-	86	1	70682133	0	69

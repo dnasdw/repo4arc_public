@@ -1,0 +1,6 @@
+v-cruisn_blast_v131072.nfo	da6ba711848ad5da9a543176bf636b2d
+v-cruisn_blast_v131072.r00	32c29b7ad187052533bcd3bf8c16b01e
+v-cruisn_blast_v131072.r01	cb20c887320b0f65e3dcbf1f1ec9908f
+v-cruisn_blast_v131072.r02	8bfac00f543671c1f6b440dee06f7911
+v-cruisn_blast_v131072.rar	e5d2bbe89feca94a94cc1ac07f383c37
+v-cruisn_blast_v131072.sfv	80cab8430a3698d56f69937681b81a5a

@@ -1,0 +1,14 @@
+sxs-edge_of_reality.nfo	02636b2f
+sxs-edge_of_reality.r00	b25dc8cf
+sxs-edge_of_reality.r01	1817f924
+sxs-edge_of_reality.r02	006165f8
+sxs-edge_of_reality.r03	98ceb1d9
+sxs-edge_of_reality.r04	608eac1a
+sxs-edge_of_reality.r05	9438806f
+sxs-edge_of_reality.r06	1a3bf701
+sxs-edge_of_reality.r07	a6cb3ed9
+sxs-edge_of_reality.r08	fec505bd
+sxs-edge_of_reality.r09	9a29f79b
+sxs-edge_of_reality.r10	7626976d
+sxs-edge_of_reality.rar	75180db5
+sxs-edge_of_reality.sfv	8e8cac5e

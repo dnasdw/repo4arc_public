@@ -1,0 +1,13 @@
+w-perseverance_repack.nfo	66e13668
+w-perseverance_repack.r00	4cbf4fa0
+w-perseverance_repack.r01	d0f63337
+w-perseverance_repack.r02	f14c1aff
+w-perseverance_repack.r03	2a8d1341
+w-perseverance_repack.r04	cfe4d502
+w-perseverance_repack.r05	2e32a763
+w-perseverance_repack.r06	7cbe1feb
+w-perseverance_repack.r07	b20adead
+w-perseverance_repack.r08	2d854ef7
+w-perseverance_repack.r09	a678124f
+w-perseverance_repack.rar	1118dfe1
+w-perseverance_repack.sfv	d8d37a55

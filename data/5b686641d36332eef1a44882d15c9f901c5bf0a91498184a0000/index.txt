@@ -1,0 +1,3 @@
+lfc-bawr.nfo	-	5423	1	0	0	0
+lfc-bawr.rar	-	32143243	1	5423	0	1
+lfc-bawr.sfv	-	23	1	32148666	0	32

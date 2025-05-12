@@ -1,0 +1,8 @@
+sxs-mana_spark_v196608.nfo	8a58f01e
+sxs-mana_spark_v196608.r00	f84c1356
+sxs-mana_spark_v196608.r01	9dbf9a89
+sxs-mana_spark_v196608.r02	00654dca
+sxs-mana_spark_v196608.r03	27074d2b
+sxs-mana_spark_v196608.r04	b0a0b70c
+sxs-mana_spark_v196608.rar	c8b8fa82
+sxs-mana_spark_v196608.sfv	14c83e12

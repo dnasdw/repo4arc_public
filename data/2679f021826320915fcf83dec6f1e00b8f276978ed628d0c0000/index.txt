@@ -1,0 +1,9 @@
+v-crystal_project.nfo	-	7774	1	0	0	0
+v-crystal_project.r00	-	100000000	1	7774	0	1
+v-crystal_project.r01	-	100000000	1	100007774	0	97
+v-crystal_project.r02	-	100000000	1	200007774	0	193
+v-crystal_project.r03	-	100000000	1	300007774	0	289
+v-crystal_project.r04	-	100000000	1	400007774	0	385
+v-crystal_project.r05	-	60488634	1	500007774	0	481
+v-crystal_project.rar	-	100000000	1	22739898	1	22
+v-crystal_project.sfv	-	224	1	122739898	1	118

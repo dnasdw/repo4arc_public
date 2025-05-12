@@ -1,0 +1,5 @@
+sxs-jett_rider.nfo	4e4baab7
+sxs-jett_rider.r00	c0165bf3
+sxs-jett_rider.r01	6dbbe6db
+sxs-jett_rider.rar	9bdd491a
+sxs-jett_rider.sfv	67bd9672

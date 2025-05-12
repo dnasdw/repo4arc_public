@@ -1,0 +1,3 @@
+sxs-hextech_mayhem_a_league_of_legends_story_ruined_ziggs_skin_dlc.nfo	-	5042	1	0	0	0
+sxs-hextech_mayhem_a_league_of_legends_story_ruined_ziggs_skin_dlc.rar	-	104115	1	5042	0	1
+sxs-hextech_mayhem_a_league_of_legends_story_ruined_ziggs_skin_dlc.sfv	-	81	1	109157	0	2

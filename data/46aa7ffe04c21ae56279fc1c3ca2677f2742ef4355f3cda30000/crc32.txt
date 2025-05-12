@@ -1,0 +1,11 @@
+sxs-fifa_20_arabic_dlc.nfo	491446ab
+sxs-fifa_20_arabic_dlc.r00	c1db643a
+sxs-fifa_20_arabic_dlc.r01	3f745a1e
+sxs-fifa_20_arabic_dlc.r02	5bf3faca
+sxs-fifa_20_arabic_dlc.r03	8fc7b4f4
+sxs-fifa_20_arabic_dlc.r04	ec26bba2
+sxs-fifa_20_arabic_dlc.r05	c0e56743
+sxs-fifa_20_arabic_dlc.r06	4fe0517c
+sxs-fifa_20_arabic_dlc.r07	9b75da30
+sxs-fifa_20_arabic_dlc.rar	f1e190bd
+sxs-fifa_20_arabic_dlc.sfv	62c4cf92

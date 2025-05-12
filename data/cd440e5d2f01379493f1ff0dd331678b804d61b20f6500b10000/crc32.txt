@@ -1,0 +1,4 @@
+sxs-this_is_the_police_v65536.nfo	e2abf818
+sxs-this_is_the_police_v65536.r00	388b316f
+sxs-this_is_the_police_v65536.rar	e2db8732
+sxs-this_is_the_police_v65536.sfv	bd227a1a

@@ -1,0 +1,3 @@
+sxs-puzzle_book_adventure_pack_dlc.nfo	d4a4a3ffe3987f50525a20b5f37a28ed4f784ab3
+sxs-puzzle_book_adventure_pack_dlc.rar	2ba1f822788318e8dd243f389cab65b9476487f0
+sxs-puzzle_book_adventure_pack_dlc.sfv	c706b8713c5f1b13fbe4ad2ddd73a073c8e186e2

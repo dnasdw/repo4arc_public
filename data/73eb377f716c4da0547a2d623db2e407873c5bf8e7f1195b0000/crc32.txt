@@ -1,0 +1,10 @@
+sxs-retimed_v131072.nfo	f43fdaba
+sxs-retimed_v131072.r00	570bbb61
+sxs-retimed_v131072.r01	da01408a
+sxs-retimed_v131072.r02	1ab42f3d
+sxs-retimed_v131072.r03	30306fe6
+sxs-retimed_v131072.r04	53247535
+sxs-retimed_v131072.r05	78a821fe
+sxs-retimed_v131072.r06	6cc079fa
+sxs-retimed_v131072.rar	26702453
+sxs-retimed_v131072.sfv	85d18417

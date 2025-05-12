@@ -1,0 +1,7 @@
+sxs-town_adventures.nfo	594e4283
+sxs-town_adventures.r00	ca4d4c8c
+sxs-town_adventures.r01	2f267151
+sxs-town_adventures.r02	23014afa
+sxs-town_adventures.r03	6bf06637
+sxs-town_adventures.rar	221fa073
+sxs-town_adventures.sfv	275a748a

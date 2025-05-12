@@ -1,0 +1,3 @@
+sxs-golf_with_your_friends_v524288_dlc.nfo	-	5744	1	0	0	0
+sxs-golf_with_your_friends_v524288_dlc.rar	-	831304	1	5744	0	1
+sxs-golf_with_your_friends_v524288_dlc.sfv	-	53	1	837048	0	2

@@ -1,0 +1,10 @@
+sxs-unhatched.nfo	b088e267
+sxs-unhatched.r00	8e85c3c0
+sxs-unhatched.r01	6667684b
+sxs-unhatched.r02	6b268fea
+sxs-unhatched.r03	47486b19
+sxs-unhatched.r04	bc84d4a7
+sxs-unhatched.r05	a4c7a411
+sxs-unhatched.r06	95906517
+sxs-unhatched.rar	d32f50ff
+sxs-unhatched.sfv	a52bf722

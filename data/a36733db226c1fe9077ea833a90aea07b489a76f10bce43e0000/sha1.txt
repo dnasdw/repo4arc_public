@@ -1,0 +1,4 @@
+lfc-vogo.nfo	3ef60dfa3cec05385852bbaed31ca44f39bd0475
+lfc-vogo.r00	5aff8e7366a45a5da05c5639d33f2fbc3dd8c7f4
+lfc-vogo.rar	6ab061d1bccd84559a01f7cabb90900557188ced
+lfc-vogo.sfv	c3a661ef4d4dc9e9635a84b0e2eafc6038480be6

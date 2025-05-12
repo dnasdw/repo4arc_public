@@ -1,0 +1,12 @@
+sxs-pronty_v196608.nfo	c070f231
+sxs-pronty_v196608.r00	37c8d29e
+sxs-pronty_v196608.r01	ce17f4df
+sxs-pronty_v196608.r02	3549c3c4
+sxs-pronty_v196608.r03	1145b808
+sxs-pronty_v196608.r04	c29de3f8
+sxs-pronty_v196608.r05	c2b43f74
+sxs-pronty_v196608.r06	2417db88
+sxs-pronty_v196608.r07	4ca09de8
+sxs-pronty_v196608.r08	09936c6f
+sxs-pronty_v196608.rar	315ab0c6
+sxs-pronty_v196608.sfv	2cfa33d3

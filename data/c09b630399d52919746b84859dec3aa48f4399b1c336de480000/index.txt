@@ -1,0 +1,3 @@
+sxs-charrua_soccer_pro_edition_v65536.nfo	-	8708	1	0	0	0
+sxs-charrua_soccer_pro_edition_v65536.rar	-	80668216	1	8708	0	1
+sxs-charrua_soccer_pro_edition_v65536.sfv	-	52	1	80676924	0	78

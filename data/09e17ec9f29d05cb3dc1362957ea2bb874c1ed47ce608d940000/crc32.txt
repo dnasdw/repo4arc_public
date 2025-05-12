@@ -1,0 +1,14 @@
+sxs-ship_of_fools_v327680.nfo	9bfbab79
+sxs-ship_of_fools_v327680.r00	56ded062
+sxs-ship_of_fools_v327680.r01	6a373200
+sxs-ship_of_fools_v327680.r02	69e29a83
+sxs-ship_of_fools_v327680.r03	1763ab46
+sxs-ship_of_fools_v327680.r04	6b4c0de5
+sxs-ship_of_fools_v327680.r05	5ed679f3
+sxs-ship_of_fools_v327680.r06	01ee2a33
+sxs-ship_of_fools_v327680.r07	c20931cf
+sxs-ship_of_fools_v327680.r08	b0e29a73
+sxs-ship_of_fools_v327680.r09	110e3c87
+sxs-ship_of_fools_v327680.r10	bae074a3
+sxs-ship_of_fools_v327680.rar	db364eb4
+sxs-ship_of_fools_v327680.sfv	3a538845

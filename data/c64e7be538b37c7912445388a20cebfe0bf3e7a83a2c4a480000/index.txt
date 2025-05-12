@@ -1,0 +1,13 @@
+nnssww_hex_quest_hd.r00	-	100000000	1	0	0	0
+nnssww_hex_quest_hd.r01	-	100000000	1	100000000	0	96
+nnssww_hex_quest_hd.r02	-	100000000	1	200000000	0	192
+nnssww_hex_quest_hd.r03	-	100000000	1	300000000	0	288
+nnssww_hex_quest_hd.r04	-	100000000	1	400000000	0	384
+nnssww_hex_quest_hd.r05	-	100000000	1	500000000	0	480
+nnssww_hex_quest_hd.r06	-	100000000	1	62251264	1	60
+nnssww_hex_quest_hd.r07	-	100000000	1	162251264	1	156
+nnssww_hex_quest_hd.r08	-	100000000	1	262251264	1	252
+nnssww_hex_quest_hd.r09	-	100000000	1	362251264	1	348
+nnssww_hex_quest_hd.r10	-	100000000	1	462251264	1	444
+nnssww_hex_quest_hd.r11	-	100000000	1	24502528	2	24
+nnssww_hex_quest_hd.sfv	-	918	1	124502528	2	120

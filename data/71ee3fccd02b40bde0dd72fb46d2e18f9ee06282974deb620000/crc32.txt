@@ -1,0 +1,11 @@
+brw-wpst_v131072.nfo	4d42dbfd
+brw-wpst_v131072.r00	595d3e03
+brw-wpst_v131072.r01	26a17b7d
+brw-wpst_v131072.r02	e440bf1c
+brw-wpst_v131072.r03	3a05f47f
+brw-wpst_v131072.r04	6e312ede
+brw-wpst_v131072.r05	046ee029
+brw-wpst_v131072.r06	0a25c473
+brw-wpst_v131072.r07	6a68f536
+brw-wpst_v131072.rar	562f0d4e
+brw-wpst_v131072.sfv	42c1480b

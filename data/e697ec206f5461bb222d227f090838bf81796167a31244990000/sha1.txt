@@ -1,0 +1,5 @@
+sxs-splashy_cube.nfo	cbd908be2d623a6c07e168f21bb37824b489eaba
+sxs-splashy_cube.r00	4830b98d9d1cd58f00415ca18098f7c0b4ad7be5
+sxs-splashy_cube.r01	bd0650a56e39244ac80124afba6a9a24d09845bc
+sxs-splashy_cube.rar	2ab49535a35f21991cdd6209b49ecdc8644f6c9a
+sxs-splashy_cube.sfv	ddcccb7fc356a63961057755e15592027b4471ac

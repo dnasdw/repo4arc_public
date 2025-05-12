@@ -1,0 +1,5 @@
+sxs-beholder_3_v65536.nfo	8475c1196ee2bf00ce383a3b6f9a1842
+sxs-beholder_3_v65536.r00	729ca8eb6f398ab1efa87fa58c262b46
+sxs-beholder_3_v65536.r01	fc6acf0fe0d1d0fb98279e6421c1a797
+sxs-beholder_3_v65536.rar	3474fed1e680e6e6866e70ea4d4ed90a
+sxs-beholder_3_v65536.sfv	5f3c968a44980f03072075226e113b76

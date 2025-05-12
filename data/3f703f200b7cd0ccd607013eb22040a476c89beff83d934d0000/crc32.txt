@@ -1,0 +1,16 @@
+sxs-neon_abyss_v262144.nfo	27219add
+sxs-neon_abyss_v262144.r00	957ac25e
+sxs-neon_abyss_v262144.r01	d55add9c
+sxs-neon_abyss_v262144.r02	c5530897
+sxs-neon_abyss_v262144.r03	47ad6003
+sxs-neon_abyss_v262144.r04	f2890d26
+sxs-neon_abyss_v262144.r05	077165f0
+sxs-neon_abyss_v262144.r06	92202df7
+sxs-neon_abyss_v262144.r07	535a9493
+sxs-neon_abyss_v262144.r08	34c4e4c0
+sxs-neon_abyss_v262144.r09	3f6c3599
+sxs-neon_abyss_v262144.r10	9c2e2bfe
+sxs-neon_abyss_v262144.r11	cb61813a
+sxs-neon_abyss_v262144.r12	4740b912
+sxs-neon_abyss_v262144.rar	0a7ad994
+sxs-neon_abyss_v262144.sfv	e8f6b17a

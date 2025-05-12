@@ -1,0 +1,3 @@
+sxs-steins_gate_elite_v65536.nfo	-	4809	1	0	0	0
+sxs-steins_gate_elite_v65536.rar	-	41050090	1	4809	0	1
+sxs-steins_gate_elite_v65536.sfv	-	43	1	41054899	0	41

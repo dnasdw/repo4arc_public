@@ -1,0 +1,7 @@
+sxs-umihara_kawase_fresh_v458752.nfo	-	6291	1	0	0	0
+sxs-umihara_kawase_fresh_v458752.r00	-	50000000	1	6291	0	1
+sxs-umihara_kawase_fresh_v458752.r01	-	50000000	1	50006291	0	49
+sxs-umihara_kawase_fresh_v458752.r02	-	50000000	1	100006291	0	97
+sxs-umihara_kawase_fresh_v458752.r03	-	451249	1	150006291	0	145
+sxs-umihara_kawase_fresh_v458752.rar	-	50000000	1	150457540	0	146
+sxs-umihara_kawase_fresh_v458752.sfv	-	235	1	200457540	0	194

@@ -1,0 +1,5 @@
+l-arcanoid.nfo	e0a4317b
+l-arcanoid.r00	15f98081
+l-arcanoid.r01	f92673f3
+l-arcanoid.rar	3f5906c6
+l-arcanoid.sfv	c2c09cf8

@@ -1,0 +1,15 @@
+lfc-couchcov2.nfo	83d09a62
+lfc-couchcov2.r00	6de21ce7
+lfc-couchcov2.r01	bba3a9ff
+lfc-couchcov2.r02	1fa161f0
+lfc-couchcov2.r03	f88d7daf
+lfc-couchcov2.r04	510c00cf
+lfc-couchcov2.r05	7a86b1d3
+lfc-couchcov2.r06	c26e99f6
+lfc-couchcov2.r07	a4db3123
+lfc-couchcov2.r08	ce3b9ee0
+lfc-couchcov2.r09	511e7878
+lfc-couchcov2.r10	887ae0d7
+lfc-couchcov2.r11	5dfe0d5a
+lfc-couchcov2.rar	48f53c6a
+lfc-couchcov2.sfv	15b94012

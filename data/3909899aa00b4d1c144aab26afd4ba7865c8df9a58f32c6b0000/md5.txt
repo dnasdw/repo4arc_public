@@ -1,0 +1,9 @@
+v-titanium_hound.nfo	dcfa9732bcd16cfbad4b6bdec1c4477f
+v-titanium_hound.r00	a00e719c5bb5e36f4160a7fedfd4d4b3
+v-titanium_hound.r01	988b7309c0e389cdb8a476e1bea8651b
+v-titanium_hound.r02	89ce0cf8b1b4cb3397abd1e8840aa9c4
+v-titanium_hound.r03	a3b138e1fca662a0a408cd8513f848c5
+v-titanium_hound.r04	4daffcc7c4f38eaa22a8762b3cbd9660
+v-titanium_hound.r05	c0b5cf25a1c0006ea2a2c9a56b1efbbf
+v-titanium_hound.rar	f37a5f0f3d2bdea302b0423f16f01f5f
+v-titanium_hound.sfv	77c211e1d16191225d716f123ac701a1

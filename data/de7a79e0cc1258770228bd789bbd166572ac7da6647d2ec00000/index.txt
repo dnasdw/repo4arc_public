@@ -1,0 +1,4 @@
+sxs-underland_the_climb.nfo	-	5120	1	0	0	0
+sxs-underland_the_climb.r00	-	48306868	1	5120	0	1
+sxs-underland_the_climb.rar	-	50000000	1	48311988	0	48
+sxs-underland_the_climb.sfv	-	76	1	98311988	0	96

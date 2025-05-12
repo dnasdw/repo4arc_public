@@ -1,0 +1,5 @@
+sxs-exiled.nfo	-	4496	1	0	0	0
+sxs-exiled.r00	-	100000000	1	4496	0	1
+sxs-exiled.r01	-	55146199	1	100004496	0	97
+sxs-exiled.rar	-	100000000	1	155150695	0	150
+sxs-exiled.sfv	-	75	1	255150695	0	246

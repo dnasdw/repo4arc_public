@@ -1,0 +1,16 @@
+v-the_falconeer_warrior_edition_v196608.nfo	-	8866	1	0	0	0
+v-the_falconeer_warrior_edition_v196608.r00	-	50000000	1	8866	0	1
+v-the_falconeer_warrior_edition_v196608.r01	-	50000000	1	50008866	0	49
+v-the_falconeer_warrior_edition_v196608.r02	-	50000000	1	100008866	0	97
+v-the_falconeer_warrior_edition_v196608.r03	-	50000000	1	150008866	0	145
+v-the_falconeer_warrior_edition_v196608.r04	-	50000000	1	200008866	0	193
+v-the_falconeer_warrior_edition_v196608.r05	-	50000000	1	250008866	0	241
+v-the_falconeer_warrior_edition_v196608.r06	-	50000000	1	300008866	0	289
+v-the_falconeer_warrior_edition_v196608.r07	-	50000000	1	350008866	0	337
+v-the_falconeer_warrior_edition_v196608.r08	-	50000000	1	400008866	0	385
+v-the_falconeer_warrior_edition_v196608.r09	-	50000000	1	450008866	0	433
+v-the_falconeer_warrior_edition_v196608.r10	-	50000000	1	500008866	0	481
+v-the_falconeer_warrior_edition_v196608.r11	-	50000000	1	12251264	1	12
+v-the_falconeer_warrior_edition_v196608.r12	-	11624352	1	62251264	1	60
+v-the_falconeer_warrior_edition_v196608.rar	-	50000000	1	73875616	1	72
+v-the_falconeer_warrior_edition_v196608.sfv	-	756	1	123875616	1	120

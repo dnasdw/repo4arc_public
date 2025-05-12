@@ -1,0 +1,11 @@
+sxs-soul_searching.nfo	232910eb
+sxs-soul_searching.r00	5cf9e2bf
+sxs-soul_searching.r01	a523cf3a
+sxs-soul_searching.r02	1c9a0b5b
+sxs-soul_searching.r03	0910bf2d
+sxs-soul_searching.r04	612cfeb2
+sxs-soul_searching.r05	3d42f205
+sxs-soul_searching.r06	04530bbf
+sxs-soul_searching.r07	078ac082
+sxs-soul_searching.rar	05f18355
+sxs-soul_searching.sfv	92bfd69b

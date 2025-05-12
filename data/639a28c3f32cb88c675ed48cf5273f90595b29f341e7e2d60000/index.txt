@@ -1,0 +1,11 @@
+sxs-my_hero_ones_justice_v65536.nfo	-	4964	1	0	0	0
+sxs-my_hero_ones_justice_v65536.r00	-	50000000	1	4964	0	1
+sxs-my_hero_ones_justice_v65536.r01	-	50000000	1	50004964	0	49
+sxs-my_hero_ones_justice_v65536.r02	-	50000000	1	100004964	0	97
+sxs-my_hero_ones_justice_v65536.r03	-	50000000	1	150004964	0	145
+sxs-my_hero_ones_justice_v65536.r04	-	50000000	1	200004964	0	193
+sxs-my_hero_ones_justice_v65536.r05	-	50000000	1	250004964	0	241
+sxs-my_hero_ones_justice_v65536.r06	-	50000000	1	300004964	0	289
+sxs-my_hero_ones_justice_v65536.r07	-	10257694	1	350004964	0	337
+sxs-my_hero_ones_justice_v65536.rar	-	50000000	1	360262658	0	347
+sxs-my_hero_ones_justice_v65536.sfv	-	414	1	410262658	0	395

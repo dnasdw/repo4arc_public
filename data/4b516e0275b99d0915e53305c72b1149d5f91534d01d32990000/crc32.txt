@@ -1,0 +1,12 @@
+sxs-lflu.nfo	67e3a6ab
+sxs-lflu.r00	b619cfbc
+sxs-lflu.r01	b703eace
+sxs-lflu.r02	149a1d45
+sxs-lflu.r03	6ecdd8f0
+sxs-lflu.r04	980be6d3
+sxs-lflu.r05	8b555a78
+sxs-lflu.r06	a11c68fd
+sxs-lflu.r07	a7e664fb
+sxs-lflu.r08	b7f4f3af
+sxs-lflu.rar	6bdd0e12
+sxs-lflu.sfv	42c0be8e

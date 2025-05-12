@@ -1,0 +1,3 @@
+sxs-sail_forth_maelstrom_dlc.nfo	-	10814	1	0	0	0
+sxs-sail_forth_maelstrom_dlc.rar	-	122298	1	10814	0	1
+sxs-sail_forth_maelstrom_dlc.sfv	-	43	1	133112	0	2

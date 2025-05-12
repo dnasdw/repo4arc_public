@@ -1,0 +1,6 @@
+brw-obta.nfo	3e764380b89bbe2b924e5f3278dcbb49
+brw-obta.r00	5c6ab57748c11a3acb14af06c54bd828
+brw-obta.r01	fc1bc80269ce7a9ba388ddf31bccaa7d
+brw-obta.r02	829824cc37f3dd1032edc266e66a74a4
+brw-obta.rar	fd53b96384f7f230f37b7d3ead3f3144
+brw-obta.sfv	642a2e889cacc811e778005ac7ebceaa

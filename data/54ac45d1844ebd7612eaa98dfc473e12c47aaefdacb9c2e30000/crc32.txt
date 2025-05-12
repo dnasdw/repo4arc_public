@@ -1,0 +1,12 @@
+brw-drdg_v196608.nfo	19b1dc67
+brw-drdg_v196608.r00	d09a079c
+brw-drdg_v196608.r01	209dde7d
+brw-drdg_v196608.r02	f633d934
+brw-drdg_v196608.r03	e77055c9
+brw-drdg_v196608.r04	4c1b400f
+brw-drdg_v196608.r05	fe487ca7
+brw-drdg_v196608.r06	0063fd3b
+brw-drdg_v196608.r07	f3854e6a
+brw-drdg_v196608.r08	f0c73c27
+brw-drdg_v196608.rar	92a669e0
+brw-drdg_v196608.sfv	77c130dd

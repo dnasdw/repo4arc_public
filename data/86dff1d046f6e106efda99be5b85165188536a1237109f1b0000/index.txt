@@ -1,0 +1,7 @@
+v-super_kickers_league_v262144.nfo	-	5434	1	0	0	0
+v-super_kickers_league_v262144.r00	-	50000000	1	5434	0	1
+v-super_kickers_league_v262144.r01	-	50000000	1	50005434	0	49
+v-super_kickers_league_v262144.r02	-	50000000	1	100005434	0	97
+v-super_kickers_league_v262144.r03	-	42031374	1	150005434	0	145
+v-super_kickers_league_v262144.rar	-	50000000	1	192036808	0	186
+v-super_kickers_league_v262144.sfv	-	225	1	242036808	0	234

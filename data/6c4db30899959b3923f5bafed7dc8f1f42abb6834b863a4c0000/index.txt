@@ -1,0 +1,4 @@
+v-fate_samurai_remnant_v196608.nfo	-	7618	1	0	0	0
+v-fate_samurai_remnant_v196608.r00	-	87777717	1	7618	0	1
+v-fate_samurai_remnant_v196608.rar	-	100000000	1	87785335	0	85
+v-fate_samurai_remnant_v196608.sfv	-	90	1	187785335	0	181

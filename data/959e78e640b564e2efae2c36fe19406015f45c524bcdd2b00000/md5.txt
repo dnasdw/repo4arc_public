@@ -1,0 +1,5 @@
+brw-mafi.nfo	b9cf1b115a86fa59bf5c9e2315ecb198
+brw-mafi.r00	3b30fe5ebe6104744061cd19e79fe34e
+brw-mafi.r01	7dfda1744c156f6d4c09b6c14b10795a
+brw-mafi.rar	5cf36c5eb692a4809fc7673ca7787e44
+brw-mafi.sfv	d98dae520ee01248b7f4ae515f84711c

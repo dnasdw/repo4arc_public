@@ -1,0 +1,6 @@
+sxs-brightstone_mysteries_the_others_v196608.nfo	-	6914	1	0	0	0
+sxs-brightstone_mysteries_the_others_v196608.r00	-	100000000	1	6914	0	1
+sxs-brightstone_mysteries_the_others_v196608.r01	-	100000000	1	100006914	0	97
+sxs-brightstone_mysteries_the_others_v196608.r02	-	67368852	1	200006914	0	193
+sxs-brightstone_mysteries_the_others_v196608.rar	-	100000000	1	267375766	0	258
+sxs-brightstone_mysteries_the_others_v196608.sfv	-	236	1	367375766	0	354

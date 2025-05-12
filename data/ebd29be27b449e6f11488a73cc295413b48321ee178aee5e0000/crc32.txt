@@ -1,0 +1,13 @@
+sxs-the_way_remastered_v196608.nfo	dc314ff1
+sxs-the_way_remastered_v196608.r00	e1cd8bf2
+sxs-the_way_remastered_v196608.r01	ef89551a
+sxs-the_way_remastered_v196608.r02	7f2d1d13
+sxs-the_way_remastered_v196608.r03	41a92f40
+sxs-the_way_remastered_v196608.r04	1f00eb5b
+sxs-the_way_remastered_v196608.r05	8bafa03b
+sxs-the_way_remastered_v196608.r06	8c7e41fe
+sxs-the_way_remastered_v196608.r07	28acd296
+sxs-the_way_remastered_v196608.r08	cfc394cf
+sxs-the_way_remastered_v196608.r09	52fd9e10
+sxs-the_way_remastered_v196608.rar	79f4f076
+sxs-the_way_remastered_v196608.sfv	bdb2fb79

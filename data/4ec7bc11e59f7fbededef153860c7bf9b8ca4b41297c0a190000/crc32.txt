@@ -1,0 +1,13 @@
+sxs-crazy_zen_mini_golf_v131072.nfo	bf2f8378
+sxs-crazy_zen_mini_golf_v131072.r00	70750aa0
+sxs-crazy_zen_mini_golf_v131072.r01	81720602
+sxs-crazy_zen_mini_golf_v131072.r02	314a58af
+sxs-crazy_zen_mini_golf_v131072.r03	1a39ed6c
+sxs-crazy_zen_mini_golf_v131072.r04	e4df0540
+sxs-crazy_zen_mini_golf_v131072.r05	e90341bb
+sxs-crazy_zen_mini_golf_v131072.r06	fc2da1fb
+sxs-crazy_zen_mini_golf_v131072.r07	a2797df9
+sxs-crazy_zen_mini_golf_v131072.r08	896b7be1
+sxs-crazy_zen_mini_golf_v131072.r09	8c1ef9ac
+sxs-crazy_zen_mini_golf_v131072.rar	58f17a5f
+sxs-crazy_zen_mini_golf_v131072.sfv	6a415e55

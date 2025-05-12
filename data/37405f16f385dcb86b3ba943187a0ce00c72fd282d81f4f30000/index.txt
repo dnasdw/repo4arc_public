@@ -1,0 +1,4 @@
+bbb-n-agk7a.nfo	-	5517	1	0	0	0
+bbb-n-agk7a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-agk7a.part2.rar	-	151583744	1	250005517	0	240
+bbb-n-agk7a.sfv	-	64	1	401589261	0	385

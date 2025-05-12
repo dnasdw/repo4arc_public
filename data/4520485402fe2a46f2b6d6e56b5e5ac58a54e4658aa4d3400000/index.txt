@@ -1,0 +1,4 @@
+v-the_rumble_fish_plus.nfo	-	8320	1	0	0	0
+v-the_rumble_fish_plus.r00	-	41939191	1	8320	0	1
+v-the_rumble_fish_plus.rar	-	100000000	1	41947511	0	41
+v-the_rumble_fish_plus.sfv	-	74	1	141947511	0	137

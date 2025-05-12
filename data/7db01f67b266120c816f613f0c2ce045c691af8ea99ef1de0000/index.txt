@@ -1,0 +1,5 @@
+v-the_kids_we_were_v196608.nfo	-	6760	1	0	0	0
+v-the_kids_we_were_v196608.r00	-	50000000	1	6760	0	1
+v-the_kids_we_were_v196608.r01	-	32965017	1	50006760	0	49
+v-the_kids_we_were_v196608.rar	-	50000000	1	82971777	0	81
+v-the_kids_we_were_v196608.sfv	-	123	1	132971777	0	129

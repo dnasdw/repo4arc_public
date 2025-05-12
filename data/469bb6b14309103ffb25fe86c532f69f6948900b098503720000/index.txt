@@ -1,0 +1,7 @@
+v-sonic_origins_classic_music_pack_dlc.nfo	-	5980	1	0	0	0
+v-sonic_origins_classic_music_pack_dlc.r00	-	50000000	1	5980	0	1
+v-sonic_origins_classic_music_pack_dlc.r01	-	50000000	1	50005980	0	49
+v-sonic_origins_classic_music_pack_dlc.r02	-	50000000	1	100005980	0	97
+v-sonic_origins_classic_music_pack_dlc.r03	-	45892336	1	150005980	0	145
+v-sonic_origins_classic_music_pack_dlc.rar	-	50000000	1	195898316	0	189
+v-sonic_origins_classic_music_pack_dlc.sfv	-	265	1	245898316	0	237

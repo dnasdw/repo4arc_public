@@ -1,0 +1,16 @@
+brw-bcer.nfo	457e2518
+brw-bcer.r00	4f5add53
+brw-bcer.r01	ad3b881e
+brw-bcer.r02	f0faf68f
+brw-bcer.r03	fba5bc03
+brw-bcer.r04	8bab3f46
+brw-bcer.r05	aa3f7dfb
+brw-bcer.r06	64de5b19
+brw-bcer.r07	e5b62f9c
+brw-bcer.r08	46d2d7d7
+brw-bcer.r09	a23fe44f
+brw-bcer.r10	9b732170
+brw-bcer.r11	668a1c55
+brw-bcer.r12	8843ae76
+brw-bcer.rar	dbd88ab3
+brw-bcer.sfv	76c37e93

@@ -1,0 +1,11 @@
+sxs-airborne_kingdom_v458752.nfo	2921f2e2
+sxs-airborne_kingdom_v458752.r00	502fd5f6
+sxs-airborne_kingdom_v458752.r01	e58bd476
+sxs-airborne_kingdom_v458752.r02	8d1841c3
+sxs-airborne_kingdom_v458752.r03	d4892f59
+sxs-airborne_kingdom_v458752.r04	1ed6cd9a
+sxs-airborne_kingdom_v458752.r05	03dd4429
+sxs-airborne_kingdom_v458752.r06	f4ae30e9
+sxs-airborne_kingdom_v458752.r07	51dca097
+sxs-airborne_kingdom_v458752.rar	b767145c
+sxs-airborne_kingdom_v458752.sfv	0a7d98ad

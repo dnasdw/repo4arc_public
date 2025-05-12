@@ -1,0 +1,8 @@
+w-bblade_v131072.nfo	a1a94255
+w-bblade_v131072.r00	e299e170
+w-bblade_v131072.r01	bf93eaa4
+w-bblade_v131072.r02	045b04fe
+w-bblade_v131072.r03	59ed9456
+w-bblade_v131072.r04	6424d6bc
+w-bblade_v131072.rar	23a30dda
+w-bblade_v131072.sfv	0c46776f

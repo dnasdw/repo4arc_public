@@ -1,0 +1,16 @@
+lfc-ogre.nfo	cd013e1a
+lfc-ogre.r00	592a1235
+lfc-ogre.r01	cb037070
+lfc-ogre.r02	b48b3e8c
+lfc-ogre.r03	3084580d
+lfc-ogre.r04	0e5f0910
+lfc-ogre.r05	33b09912
+lfc-ogre.r06	5d6b128a
+lfc-ogre.r07	41cc942f
+lfc-ogre.r08	d0e9450b
+lfc-ogre.r09	16e97004
+lfc-ogre.r10	5d5e0cbc
+lfc-ogre.r11	e3af8aa5
+lfc-ogre.r12	3776484f
+lfc-ogre.rar	e0a4b90c
+lfc-ogre.sfv	eff826d8

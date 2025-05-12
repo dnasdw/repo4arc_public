@@ -1,0 +1,8 @@
+sxs-hillbilly_doomsday.nfo	1d399f31
+sxs-hillbilly_doomsday.r00	c7f11f35
+sxs-hillbilly_doomsday.r01	740b4ad3
+sxs-hillbilly_doomsday.r02	a879d512
+sxs-hillbilly_doomsday.r03	64d9c27d
+sxs-hillbilly_doomsday.r04	d422c8ea
+sxs-hillbilly_doomsday.rar	cffe61bc
+sxs-hillbilly_doomsday.sfv	cbacf86d

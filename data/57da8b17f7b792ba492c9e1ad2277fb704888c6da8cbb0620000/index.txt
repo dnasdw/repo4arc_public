@@ -1,0 +1,5 @@
+sxs-the_longing_v1048576.nfo	-	7694	1	0	0	0
+sxs-the_longing_v1048576.r00	-	100000000	1	7694	0	1
+sxs-the_longing_v1048576.r01	-	51083849	1	100007694	0	97
+sxs-the_longing_v1048576.rar	-	100000000	1	151091543	0	146
+sxs-the_longing_v1048576.sfv	-	117	1	251091543	0	242

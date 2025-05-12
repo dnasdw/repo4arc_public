@@ -1,0 +1,8 @@
+v-shapeshifting_detective_v131072.nfo	c7f7b354
+v-shapeshifting_detective_v131072.r00	50ab1c5d
+v-shapeshifting_detective_v131072.r01	33399106
+v-shapeshifting_detective_v131072.r02	dab3cc7d
+v-shapeshifting_detective_v131072.r03	f935e2a0
+v-shapeshifting_detective_v131072.r04	7a496023
+v-shapeshifting_detective_v131072.rar	d9d2e2c4
+v-shapeshifting_detective_v131072.sfv	5431a43d

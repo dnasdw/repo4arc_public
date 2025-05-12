@@ -1,0 +1,14 @@
+v-absolute_tactics_daughters_of_mercy_v131072.nfo	-	6682	1	0	0	0
+v-absolute_tactics_daughters_of_mercy_v131072.r00	-	100000000	1	6682	0	1
+v-absolute_tactics_daughters_of_mercy_v131072.r01	-	100000000	1	100006682	0	97
+v-absolute_tactics_daughters_of_mercy_v131072.r02	-	100000000	1	200006682	0	193
+v-absolute_tactics_daughters_of_mercy_v131072.r03	-	100000000	1	300006682	0	289
+v-absolute_tactics_daughters_of_mercy_v131072.r04	-	100000000	1	400006682	0	385
+v-absolute_tactics_daughters_of_mercy_v131072.r05	-	100000000	1	500006682	0	481
+v-absolute_tactics_daughters_of_mercy_v131072.r06	-	100000000	1	62251264	1	60
+v-absolute_tactics_daughters_of_mercy_v131072.r07	-	100000000	1	162251264	1	156
+v-absolute_tactics_daughters_of_mercy_v131072.r08	-	100000000	1	262251264	1	252
+v-absolute_tactics_daughters_of_mercy_v131072.r09	-	100000000	1	362251264	1	348
+v-absolute_tactics_daughters_of_mercy_v131072.r10	-	93160509	1	462251264	1	444
+v-absolute_tactics_daughters_of_mercy_v131072.rar	-	100000000	1	17663037	2	17
+v-absolute_tactics_daughters_of_mercy_v131072.sfv	-	720	1	117663037	2	113

@@ -1,0 +1,9 @@
+sxs-el_gancho.nfo	b69b7eac
+sxs-el_gancho.r00	1611c528
+sxs-el_gancho.r01	a34352f5
+sxs-el_gancho.r02	d708b7c2
+sxs-el_gancho.r03	a09f8d5f
+sxs-el_gancho.r04	240a82e0
+sxs-el_gancho.r05	b8754d70
+sxs-el_gancho.rar	60aec00a
+sxs-el_gancho.sfv	b1758f1b

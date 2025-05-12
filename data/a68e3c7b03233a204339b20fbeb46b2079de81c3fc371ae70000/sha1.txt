@@ -1,0 +1,5 @@
+lfc-safetyfirst.nfo	65fe0abfdd45b2be18575cecf400ad421d6772c9
+lfc-safetyfirst.r00	11edd529d6d0af07f7a1a161ce0c0a43cd358633
+lfc-safetyfirst.r01	ad7301358ecc61da4339e1f7d782c815e0170a5d
+lfc-safetyfirst.rar	101b57075415f040ca9ce673a5adabb3811aedea
+lfc-safetyfirst.sfv	06c5699b5f694eb1e578f4da388b519dd301085a

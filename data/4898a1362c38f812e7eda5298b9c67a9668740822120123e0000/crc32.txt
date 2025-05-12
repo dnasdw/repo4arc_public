@@ -1,0 +1,6 @@
+v-virtuaracing.nfo	080eb3a8
+v-virtuaracing.r00	cee80e10
+v-virtuaracing.r01	8e40a193
+v-virtuaracing.r02	aed78e0b
+v-virtuaracing.rar	6ff22116
+v-virtuaracing.sfv	ee851e54

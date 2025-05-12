@@ -1,0 +1,13 @@
+sxs-pokemon_violet_v131072.nfo	390075e0
+sxs-pokemon_violet_v131072.r00	9984e020
+sxs-pokemon_violet_v131072.r01	5d9e61c3
+sxs-pokemon_violet_v131072.r02	f6d90df1
+sxs-pokemon_violet_v131072.r03	0554d13d
+sxs-pokemon_violet_v131072.r04	445b10f8
+sxs-pokemon_violet_v131072.r05	4de8ebc8
+sxs-pokemon_violet_v131072.r06	28759e83
+sxs-pokemon_violet_v131072.r07	a8b1983f
+sxs-pokemon_violet_v131072.r08	5d4e0fa8
+sxs-pokemon_violet_v131072.r09	6aef7328
+sxs-pokemon_violet_v131072.rar	d1d9f2f0
+sxs-pokemon_violet_v131072.sfv	78612f5d

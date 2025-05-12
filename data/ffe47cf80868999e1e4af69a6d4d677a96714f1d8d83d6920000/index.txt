@@ -1,0 +1,9 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-goodbye_world.jpg	-	147080	1	0	0	0
+sxs-goodbye_world.nfo	-	4808	1	147080	0	1
+sxs-goodbye_world.r00	-	100000000	1	151888	0	2
+sxs-goodbye_world.r01	-	100000000	1	100151888	0	98
+sxs-goodbye_world.r02	-	100000000	1	200151888	0	194
+sxs-goodbye_world.r03	-	44931187	1	300151888	0	290
+sxs-goodbye_world.rar	-	100000000	1	345083075	0	333
+sxs-goodbye_world.sfv	-	160	1	445083075	0	429

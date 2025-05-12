@@ -1,0 +1,9 @@
+sxs-pokemon_scarlet_v393216.nfo	61921158
+sxs-pokemon_scarlet_v393216.r00	59deed2f
+sxs-pokemon_scarlet_v393216.r01	8d8a90a8
+sxs-pokemon_scarlet_v393216.r02	cc0b9637
+sxs-pokemon_scarlet_v393216.r03	5eb51ea3
+sxs-pokemon_scarlet_v393216.r04	67dc87f3
+sxs-pokemon_scarlet_v393216.r05	30106f14
+sxs-pokemon_scarlet_v393216.rar	74158df3
+sxs-pokemon_scarlet_v393216.sfv	b206fbe1

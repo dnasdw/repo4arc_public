@@ -1,0 +1,13 @@
+hr-arupb.nfo	47521491
+hr-arupb.r00	4e6d1115
+hr-arupb.r01	df92ee6f
+hr-arupb.r02	190ff02b
+hr-arupb.r03	fea33ebd
+hr-arupb.r04	44d9b31e
+hr-arupb.r05	0e5b6d34
+hr-arupb.r06	69218fa2
+hr-arupb.r07	64af85a1
+hr-arupb.rar	caefdb25
+hr-arupb.sfv	93cc80a1
+Proof	00000000
+Proof/hr-arupb.jpg	5cc06c91

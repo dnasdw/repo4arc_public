@@ -1,0 +1,5 @@
+sxs-bayonetta_2_v65536.nfo	-	4652	1	0	0	0
+sxs-bayonetta_2_v65536.r00	-	50000000	1	4652	0	1
+sxs-bayonetta_2_v65536.r01	-	26277005	1	50004652	0	49
+sxs-bayonetta_2_v65536.rar	-	50000000	1	76281657	0	75
+sxs-bayonetta_2_v65536.sfv	-	111	1	126281657	0	123

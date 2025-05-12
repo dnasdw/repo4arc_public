@@ -1,0 +1,3 @@
+sxs-theft_ride_legacy_dlc.nfo	6781dc26854b763f2572ede9bce9100a
+sxs-theft_ride_legacy_dlc.rar	dd694dee00010b4f59214a9e22fddd87
+sxs-theft_ride_legacy_dlc.sfv	0debf22a20d5dca8c98db1b18410806a

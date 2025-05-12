@@ -1,0 +1,5 @@
+sxs-cavern_of_dreams.nfo	-	6992	1	0	0	0
+sxs-cavern_of_dreams.r00	-	100000000	1	6992	0	1
+sxs-cavern_of_dreams.r01	-	46878965	1	100006992	0	97
+sxs-cavern_of_dreams.rar	-	100000000	1	146885957	0	142
+sxs-cavern_of_dreams.sfv	-	105	1	246885957	0	238

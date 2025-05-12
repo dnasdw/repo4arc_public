@@ -1,0 +1,4 @@
+sxs-under_leaves_v65536.nfo	-	6992	1	0	0	0
+sxs-under_leaves_v65536.r00	-	49901203	1	6992	0	1
+sxs-under_leaves_v65536.rar	-	50000000	1	49908195	0	49
+sxs-under_leaves_v65536.sfv	-	76	1	99908195	0	97

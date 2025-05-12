@@ -1,0 +1,3 @@
+sxs-bowling_fever_expansion_pack_dlc.nfo	-	5822	1	0	0	0
+sxs-bowling_fever_expansion_pack_dlc.rar	-	124403	1	5822	0	1
+sxs-bowling_fever_expansion_pack_dlc.sfv	-	51	1	130225	0	2

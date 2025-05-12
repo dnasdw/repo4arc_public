@@ -1,0 +1,9 @@
+sxs-xiii_v131072.nfo	71f2055e
+sxs-xiii_v131072.r00	75630c24
+sxs-xiii_v131072.r01	967d663c
+sxs-xiii_v131072.r02	3250bf04
+sxs-xiii_v131072.r03	24ce47dc
+sxs-xiii_v131072.r04	68e7a47a
+sxs-xiii_v131072.r05	0dfc5e97
+sxs-xiii_v131072.rar	822058ae
+sxs-xiii_v131072.sfv	99ce48d7

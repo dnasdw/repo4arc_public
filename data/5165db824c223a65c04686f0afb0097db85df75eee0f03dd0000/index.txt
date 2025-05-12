@@ -1,0 +1,6 @@
+sxs-scribblenauts_showdown_v65536.nfo	-	4652	1	0	0	0
+sxs-scribblenauts_showdown_v65536.r00	-	100000000	1	4652	0	1
+sxs-scribblenauts_showdown_v65536.r01	-	100000000	1	100004652	0	97
+sxs-scribblenauts_showdown_v65536.r02	-	20170797	1	200004652	0	193
+sxs-scribblenauts_showdown_v65536.rar	-	100000000	1	220175449	0	213
+sxs-scribblenauts_showdown_v65536.sfv	-	192	1	320175449	0	309

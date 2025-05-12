@@ -1,0 +1,13 @@
+sxs-rpg_maker_mv_v720896.nfo	f2552ac7
+sxs-rpg_maker_mv_v720896.r00	b8ad3e52
+sxs-rpg_maker_mv_v720896.r01	40e850bd
+sxs-rpg_maker_mv_v720896.r02	831893a4
+sxs-rpg_maker_mv_v720896.r03	7af27ce8
+sxs-rpg_maker_mv_v720896.r04	ce04f9c1
+sxs-rpg_maker_mv_v720896.r05	e259cc8d
+sxs-rpg_maker_mv_v720896.r06	bd3a218f
+sxs-rpg_maker_mv_v720896.r07	70668969
+sxs-rpg_maker_mv_v720896.r08	7b9790b3
+sxs-rpg_maker_mv_v720896.r09	5a57ca0d
+sxs-rpg_maker_mv_v720896.rar	56dc7741
+sxs-rpg_maker_mv_v720896.sfv	b5a86238

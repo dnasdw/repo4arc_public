@@ -1,0 +1,3 @@
+v-ssbu_costumes8_dlc.nfo	45d0875ba5fab9f79d6f31350b43057a
+v-ssbu_costumes8_dlc.rar	24a3f29181857813e9904a5ea6ed6522
+v-ssbu_costumes8_dlc.sfv	e255d298544a56fb1ea0d02881f445b6

@@ -1,0 +1,17 @@
+v-astroneer_v327680.nfo	740ab31f
+v-astroneer_v327680.r00	3351a2ff
+v-astroneer_v327680.r01	d479b24b
+v-astroneer_v327680.r02	486d290c
+v-astroneer_v327680.r03	f22e299e
+v-astroneer_v327680.r04	474c70ed
+v-astroneer_v327680.r05	8f2c89e3
+v-astroneer_v327680.r06	ff033827
+v-astroneer_v327680.r07	1246b15b
+v-astroneer_v327680.r08	a84114f5
+v-astroneer_v327680.r09	1ec2e002
+v-astroneer_v327680.r10	1525a891
+v-astroneer_v327680.r11	f024f7a6
+v-astroneer_v327680.r12	96ac8df8
+v-astroneer_v327680.r13	88f3da10
+v-astroneer_v327680.rar	d1fd35e5
+v-astroneer_v327680.sfv	41f13a45

@@ -1,0 +1,12 @@
+sxs-kaze_and_the_wild_masks_v393216.nfo	-	4964	1	0	0	0
+sxs-kaze_and_the_wild_masks_v393216.r00	-	50000000	1	4964	0	1
+sxs-kaze_and_the_wild_masks_v393216.r01	-	50000000	1	50004964	0	49
+sxs-kaze_and_the_wild_masks_v393216.r02	-	50000000	1	100004964	0	97
+sxs-kaze_and_the_wild_masks_v393216.r03	-	50000000	1	150004964	0	145
+sxs-kaze_and_the_wild_masks_v393216.r04	-	50000000	1	200004964	0	193
+sxs-kaze_and_the_wild_masks_v393216.r05	-	50000000	1	250004964	0	241
+sxs-kaze_and_the_wild_masks_v393216.r06	-	50000000	1	300004964	0	289
+sxs-kaze_and_the_wild_masks_v393216.r07	-	50000000	1	350004964	0	337
+sxs-kaze_and_the_wild_masks_v393216.r08	-	22991491	1	400004964	0	385
+sxs-kaze_and_the_wild_masks_v393216.rar	-	50000000	1	422996455	0	407
+sxs-kaze_and_the_wild_masks_v393216.sfv	-	500	1	472996455	0	455

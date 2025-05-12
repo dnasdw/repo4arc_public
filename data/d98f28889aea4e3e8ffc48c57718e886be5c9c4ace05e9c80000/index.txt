@@ -1,0 +1,9 @@
+sxs-escape_string.nfo	-	6056	1	0	0	0
+sxs-escape_string.r00	-	50000000	1	6056	0	1
+sxs-escape_string.r01	-	50000000	1	50006056	0	49
+sxs-escape_string.r02	-	50000000	1	100006056	0	97
+sxs-escape_string.r03	-	50000000	1	150006056	0	145
+sxs-escape_string.r04	-	50000000	1	200006056	0	193
+sxs-escape_string.r05	-	28871510	1	250006056	0	241
+sxs-escape_string.rar	-	50000000	1	278877566	0	269
+sxs-escape_string.sfv	-	224	1	328877566	0	317

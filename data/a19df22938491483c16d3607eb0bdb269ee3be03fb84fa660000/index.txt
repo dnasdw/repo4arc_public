@@ -1,0 +1,6 @@
+sxs-tenement.nfo	-	4184	1	0	0	0
+sxs-tenement.r00	-	100000000	1	4184	0	1
+sxs-tenement.r01	-	100000000	1	100004184	0	97
+sxs-tenement.r02	-	46680938	1	200004184	0	193
+sxs-tenement.rar	-	100000000	1	246685122	0	238
+sxs-tenement.sfv	-	108	1	346685122	0	334

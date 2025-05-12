@@ -1,0 +1,10 @@
+v-truck_simulator_2024_usa_driver_zone.nfo	404689dc
+v-truck_simulator_2024_usa_driver_zone.r00	61ca1ce2
+v-truck_simulator_2024_usa_driver_zone.r01	91c70a61
+v-truck_simulator_2024_usa_driver_zone.r02	42d9afd5
+v-truck_simulator_2024_usa_driver_zone.r03	00013f26
+v-truck_simulator_2024_usa_driver_zone.r04	cf57abf6
+v-truck_simulator_2024_usa_driver_zone.r05	53214703
+v-truck_simulator_2024_usa_driver_zone.r06	ee2da961
+v-truck_simulator_2024_usa_driver_zone.rar	3d34668e
+v-truck_simulator_2024_usa_driver_zone.sfv	40e7def9

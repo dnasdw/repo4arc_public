@@ -1,0 +1,4 @@
+v-chrono_cross_the_radical_dreamers_edition_v131072.nfo	-	7543	1	0	0	0
+v-chrono_cross_the_radical_dreamers_edition_v131072.r00	-	11898116	1	7543	0	1
+v-chrono_cross_the_radical_dreamers_edition_v131072.rar	-	100000000	1	11905659	0	13
+v-chrono_cross_the_radical_dreamers_edition_v131072.sfv	-	132	1	111905659	0	109

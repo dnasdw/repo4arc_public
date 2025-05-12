@@ -1,0 +1,5 @@
+bbb-n-andha.nfo	-	5517	1	0	0	0
+bbb-n-andha.part1.rar	-	250000000	1	5517	0	1
+bbb-n-andha.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-andha.part3.rar	-	230743586	1	500005517	0	479
+bbb-n-andha.sfv	-	96	1	192994850	1	185

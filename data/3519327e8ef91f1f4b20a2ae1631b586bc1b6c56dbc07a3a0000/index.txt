@@ -1,0 +1,4 @@
+sxs-valthirian_arc_hero_school_story_2_v65536.nfo	-	5978	1	0	0	0
+sxs-valthirian_arc_hero_school_story_2_v65536.r00	-	81087734	1	5978	0	1
+sxs-valthirian_arc_hero_school_story_2_v65536.rar	-	100000000	1	81093712	0	79
+sxs-valthirian_arc_hero_school_story_2_v65536.sfv	-	120	1	181093712	0	175

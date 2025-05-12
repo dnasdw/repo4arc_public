@@ -1,0 +1,5 @@
+sxs-steam_tactics.nfo	0ee764955855ce2ca14f9ca9e7cdbd00
+sxs-steam_tactics.r00	9749cc540d6cbc8095dbd1bd4b17c0d0
+sxs-steam_tactics.r01	331af65d47c0aa967dc0547c5540e2a0
+sxs-steam_tactics.rar	d6659bd006e97e46034113bd1ccbb72a
+sxs-steam_tactics.sfv	5372c0f1c3416c9da83565d03fa667d6

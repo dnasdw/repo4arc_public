@@ -1,0 +1,15 @@
+sxs-voez_v589824.nfo	e4161ce4
+sxs-voez_v589824.r00	54dc0e23
+sxs-voez_v589824.r01	fb606b07
+sxs-voez_v589824.r02	cf2385cc
+sxs-voez_v589824.r03	c7c7e9f6
+sxs-voez_v589824.r04	cd11709e
+sxs-voez_v589824.r05	c8a535d9
+sxs-voez_v589824.r06	4fb63c57
+sxs-voez_v589824.r07	5cc5a388
+sxs-voez_v589824.r08	39a3e4e1
+sxs-voez_v589824.r09	3a892146
+sxs-voez_v589824.r10	84836cb4
+sxs-voez_v589824.r11	3c3a24b7
+sxs-voez_v589824.rar	44b1a31a
+sxs-voez_v589824.sfv	4c33ad4d

@@ -1,0 +1,3 @@
+sxs-fairy_tail_v131072_dlc.nfo	-	7617	1	0	0	0
+sxs-fairy_tail_v393216_dlc.rar	-	311725	1	7617	0	1
+sxs-fairy_tail_v393216_dlc.sfv	-	41	1	319342	0	2

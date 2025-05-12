@@ -1,0 +1,11 @@
+sxs-fly_punch_boom.nfo	3e42fa92
+sxs-fly_punch_boom.r00	0b32b29e
+sxs-fly_punch_boom.r01	44040be1
+sxs-fly_punch_boom.r02	5089f261
+sxs-fly_punch_boom.r03	b84e4646
+sxs-fly_punch_boom.r04	c8379818
+sxs-fly_punch_boom.r05	7e172142
+sxs-fly_punch_boom.r06	70abad1d
+sxs-fly_punch_boom.r07	d2a10163
+sxs-fly_punch_boom.rar	170d934e
+sxs-fly_punch_boom.sfv	71b85eb8

@@ -1,0 +1,3 @@
+v-atelier_ryza_v65536_dlc.nfo	-	22204	1	0	0	0
+v-atelier_ryza_v65536_dlc.rar	-	2804938	1	22204	0	1
+v-atelier_ryza_v65536_dlc.sfv	-	40	1	2827142	0	4

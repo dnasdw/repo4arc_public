@@ -1,0 +1,11 @@
+sxs-tbtwt_ptbr_dlc.nfo	6e6fd476f00949be6433bdfae486e06b
+sxs-tbtwt_ptbr_dlc.r00	446485f3e0ec458bea7a40ed8a1d5751
+sxs-tbtwt_ptbr_dlc.r01	e8906e8f427da44b8e0a01ad869b7ccd
+sxs-tbtwt_ptbr_dlc.r02	616ef9f65a155ce467882efcc9bf9c2a
+sxs-tbtwt_ptbr_dlc.r03	8b7565f1fbf713780b77a885f429f301
+sxs-tbtwt_ptbr_dlc.r04	7b6acfa83ce8fa8349399f51ac2f16c9
+sxs-tbtwt_ptbr_dlc.r05	d37476737d48e1288c5ed470c2fcf363
+sxs-tbtwt_ptbr_dlc.r06	3bb8357227ba8a2d4daa40f5543e28b3
+sxs-tbtwt_ptbr_dlc.r07	cb0654ff8af7a1d78811653f3a0e5454
+sxs-tbtwt_ptbr_dlc.rar	d5e5abd2bc180465175f3eb1cb3b4e34
+sxs-tbtwt_ptbr_dlc.sfv	4e5df74ba76d5d9ce43734ad9bde46d6

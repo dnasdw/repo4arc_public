@@ -1,0 +1,11 @@
+delight.nfo	ebd3f69a2d71e899209dca90cabc7275
+dl-survivalists.r00	fc54c9f652288e4ae6715074ed61dfed
+dl-survivalists.r01	c0fd28d70c0e06eaa867b9181ead28e0
+dl-survivalists.r02	28d0886104a2bff53492b98cd5963e3f
+dl-survivalists.r03	74d3e70080add644ee011864462779cf
+dl-survivalists.r04	2094db60e0663fae5d336ed73319db2b
+dl-survivalists.r05	a1bb8c8948227565d5d55d76b425639a
+dl-survivalists.r06	8b26fdf0116e3424c8f7a645c7feb8af
+dl-survivalists.r07	d55e4101ffc2f76291436b15a976fef3
+dl-survivalists.rar	76ef8938f123a8c1f7655b1993495508
+dl-survivalists.sfv	30a11657937f1522bc035f61d85eca28

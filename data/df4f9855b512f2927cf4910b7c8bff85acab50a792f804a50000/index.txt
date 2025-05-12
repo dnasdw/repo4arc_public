@@ -1,0 +1,5 @@
+v-teenage_mutant_ninja_turtles_shredders_revenge_v393216.nfo	-	7384	1	0	0	0
+v-teenage_mutant_ninja_turtles_shredders_revenge_v393216.r00	-	100000000	1	7384	0	1
+v-teenage_mutant_ninja_turtles_shredders_revenge_v393216.r01	-	34131046	1	100007384	0	97
+v-teenage_mutant_ninja_turtles_shredders_revenge_v393216.rar	-	100000000	1	134138430	0	130
+v-teenage_mutant_ninja_turtles_shredders_revenge_v393216.sfv	-	213	1	234138430	0	226

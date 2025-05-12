@@ -1,0 +1,11 @@
+sxs-ghost_song_v262144.nfo	7e36c9f2
+sxs-ghost_song_v262144.r00	7425c373
+sxs-ghost_song_v262144.r01	696fdd2c
+sxs-ghost_song_v262144.r02	5aa2b2d7
+sxs-ghost_song_v262144.r03	0f454f8c
+sxs-ghost_song_v262144.r04	60f0952b
+sxs-ghost_song_v262144.r05	16ab0762
+sxs-ghost_song_v262144.r06	fc52825f
+sxs-ghost_song_v262144.r07	0ee22791
+sxs-ghost_song_v262144.rar	03a78ce6
+sxs-ghost_song_v262144.sfv	9c741085

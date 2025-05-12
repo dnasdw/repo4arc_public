@@ -1,0 +1,4 @@
+sxs-goblin_sword_v131072.nfo	841081195e373214bf666dc6042e82dc
+sxs-goblin_sword_v131072.r00	ce4af54643d0fdf6e8d5243a62457e34
+sxs-goblin_sword_v131072.rar	d3fec53d78df50f17d259c45fa400f86
+sxs-goblin_sword_v131072.sfv	133a14378d4b9236588fd1ffd717356c

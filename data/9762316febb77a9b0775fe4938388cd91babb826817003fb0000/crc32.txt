@@ -1,0 +1,12 @@
+v-finding_paradise_v65536.nfo	9398df67
+v-finding_paradise_v65536.r00	5fbc7ad8
+v-finding_paradise_v65536.r01	f989346a
+v-finding_paradise_v65536.r02	4dbd83f9
+v-finding_paradise_v65536.r03	c7fa1e32
+v-finding_paradise_v65536.r04	b5ef4987
+v-finding_paradise_v65536.r05	2d493caa
+v-finding_paradise_v65536.r06	b1e48f7c
+v-finding_paradise_v65536.r07	b019353e
+v-finding_paradise_v65536.r08	08204e94
+v-finding_paradise_v65536.rar	a4a966fd
+v-finding_paradise_v65536.sfv	83049aff

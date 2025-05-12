@@ -1,0 +1,11 @@
+v-silk.nfo	8a796ff9
+v-silk.r00	a1fcf824
+v-silk.r01	4e7a0a39
+v-silk.r02	df73e89a
+v-silk.r03	9fd4fefc
+v-silk.r04	3dbc5a77
+v-silk.r05	29b31745
+v-silk.r06	ba357b61
+v-silk.r07	3ae78681
+v-silk.rar	fab6050f
+v-silk.sfv	e1bcd598

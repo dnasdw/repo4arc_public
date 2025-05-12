@@ -1,0 +1,4 @@
+v-blaster_master_zero_2_v327680.nfo	-	7930	1	0	0	0
+v-blaster_master_zero_2_v327680.r00	-	4859653	1	7930	0	1
+v-blaster_master_zero_2_v327680.rar	-	50000000	1	4867583	0	6
+v-blaster_master_zero_2_v327680.sfv	-	92	1	54867583	0	54

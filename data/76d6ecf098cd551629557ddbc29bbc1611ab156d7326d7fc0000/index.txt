@@ -1,0 +1,6 @@
+sxs-horse_racing.nfo	-	4028	1	0	0	0
+sxs-horse_racing.r00	-	100000000	1	4028	0	1
+sxs-horse_racing.r01	-	100000000	1	100004028	0	97
+sxs-horse_racing.r02	-	15367749	1	200004028	0	193
+sxs-horse_racing.rar	-	100000000	1	215371777	0	208
+sxs-horse_racing.sfv	-	124	1	315371777	0	304

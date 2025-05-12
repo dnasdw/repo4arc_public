@@ -1,0 +1,6 @@
+sxs-supermarket_shriek_v65536.nfo	ea1de980
+sxs-supermarket_shriek_v65536.r00	b297b52c
+sxs-supermarket_shriek_v65536.r01	1362d353
+sxs-supermarket_shriek_v65536.r02	f520d59e
+sxs-supermarket_shriek_v65536.rar	d7346737
+sxs-supermarket_shriek_v65536.sfv	bed8d26d

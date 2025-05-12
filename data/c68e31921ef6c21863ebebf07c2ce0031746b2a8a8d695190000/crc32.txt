@@ -1,0 +1,5 @@
+sxs-snes_v589824.nfo	37f17437
+sxs-snes_v589824.r00	0daa61fc
+sxs-snes_v589824.r01	7a231a2e
+sxs-snes_v589824.rar	9d46f3c2
+sxs-snes_v589824.sfv	e3a8bc81

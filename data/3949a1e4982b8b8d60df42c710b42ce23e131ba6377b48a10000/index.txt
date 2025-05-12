@@ -1,0 +1,4 @@
+bbb-n-ahxba.nfo	-	5517	1	0	0	0
+bbb-n-ahxba.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ahxba.part2.rar	-	42970430	1	250005517	0	240
+bbb-n-ahxba.sfv	-	64	1	292975947	0	281

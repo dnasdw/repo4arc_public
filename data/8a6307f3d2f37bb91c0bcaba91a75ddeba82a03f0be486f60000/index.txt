@@ -1,0 +1,12 @@
+sxs-lil_guardsman.nfo	-	5588	1	0	0	0
+sxs-lil_guardsman.r00	-	100000000	1	5588	0	1
+sxs-lil_guardsman.r01	-	100000000	1	100005588	0	97
+sxs-lil_guardsman.r02	-	100000000	1	200005588	0	193
+sxs-lil_guardsman.r03	-	100000000	1	300005588	0	289
+sxs-lil_guardsman.r04	-	100000000	1	400005588	0	385
+sxs-lil_guardsman.r05	-	100000000	1	500005588	0	481
+sxs-lil_guardsman.r06	-	100000000	1	62251264	1	60
+sxs-lil_guardsman.r07	-	100000000	1	162251264	1	156
+sxs-lil_guardsman.r08	-	92059767	1	262251264	1	252
+sxs-lil_guardsman.rar	-	100000000	1	354311031	1	340
+sxs-lil_guardsman.sfv	-	320	1	454311031	1	436

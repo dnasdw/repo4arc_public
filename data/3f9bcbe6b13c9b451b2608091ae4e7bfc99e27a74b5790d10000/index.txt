@@ -1,0 +1,5 @@
+sxs-a_space_for_the_unbound_v262144.nfo	-	5666	1	0	0	0
+sxs-a_space_for_the_unbound_v262144.r00	-	100000000	1	5666	0	1
+sxs-a_space_for_the_unbound_v262144.r01	-	12361941	1	100005666	0	97
+sxs-a_space_for_the_unbound_v262144.rar	-	100000000	1	112367607	0	109
+sxs-a_space_for_the_unbound_v262144.sfv	-	150	1	212367607	0	205

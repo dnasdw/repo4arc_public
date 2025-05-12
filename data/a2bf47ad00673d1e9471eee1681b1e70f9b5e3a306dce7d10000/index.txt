@@ -1,0 +1,9 @@
+sxs-fifa_20_legacy_edition_v196608.nfo	-	3950	1	0	0	0
+sxs-fifa_20_legacy_edition_v196608.r00	-	50000000	1	3950	0	1
+sxs-fifa_20_legacy_edition_v196608.r01	-	50000000	1	50003950	0	49
+sxs-fifa_20_legacy_edition_v196608.r02	-	50000000	1	100003950	0	97
+sxs-fifa_20_legacy_edition_v196608.r03	-	50000000	1	150003950	0	145
+sxs-fifa_20_legacy_edition_v196608.r04	-	50000000	1	200003950	0	193
+sxs-fifa_20_legacy_edition_v196608.r05	-	28860855	1	250003950	0	241
+sxs-fifa_20_legacy_edition_v196608.rar	-	50000000	1	278864805	0	269
+sxs-fifa_20_legacy_edition_v196608.sfv	-	343	1	328864805	0	317

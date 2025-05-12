@@ -1,0 +1,6 @@
+sxs-golfinite.nfo	-	6524	1	0	0	0
+sxs-golfinite.r00	-	100000000	1	6524	0	1
+sxs-golfinite.r01	-	100000000	1	100006524	0	97
+sxs-golfinite.r02	-	53962809	1	200006524	0	193
+sxs-golfinite.rar	-	100000000	1	253969333	0	245
+sxs-golfinite.sfv	-	112	1	353969333	0	341

@@ -1,0 +1,6 @@
+jrp-roguecube.nfo	954633b98d7f553fadb78cb72b54c032b3c817e5
+jrp-roguecube.r00	12e78228fba32a35bedf3ed5a8a2f9c6aa35a6be
+jrp-roguecube.r01	baf3744ec49c79291adc1f869694a52799190b89
+jrp-roguecube.r02	d6c1acf38c52ccde8ff63636e651b9b1df7f1c40
+jrp-roguecube.rar	bf464dee77b3bb07e2d261239d656cb6aa3e5a15
+jrp-roguecube.sfv	0398089f6306225aceedaf9f4a7d0fbb1238d85a

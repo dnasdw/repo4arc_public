@@ -1,0 +1,4 @@
+v-crymachina_v131072.nfo	-	4498	1	0	0	0
+v-crymachina_v131072.r00	-	73739477	1	4498	0	1
+v-crymachina_v131072.rar	-	100000000	1	73743975	0	72
+v-crymachina_v131072.sfv	-	70	1	173743975	0	168

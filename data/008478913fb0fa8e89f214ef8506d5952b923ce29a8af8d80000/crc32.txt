@@ -1,0 +1,5 @@
+sxs-nesjp_v983040.nfo	db642e8e
+sxs-nesjp_v983040.r00	8b89d740
+sxs-nesjp_v983040.r01	7f4fab65
+sxs-nesjp_v983040.rar	b0ba7ffc
+sxs-nesjp_v983040.sfv	f100f43d

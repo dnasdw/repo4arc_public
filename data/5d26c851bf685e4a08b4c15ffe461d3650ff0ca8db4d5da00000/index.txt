@@ -1,0 +1,3 @@
+v-headbangers_rhythm_royale_headbangers_ex_coo_sive_pigeon_hat_dlc.nfo	-	8242	1	0	0	0
+v-headbangers_rhythm_royale_headbangers_ex_coo_sive_pigeon_hat_dlc.rar	-	122344	1	8242	0	1
+v-headbangers_rhythm_royale_headbangers_ex_coo_sive_pigeon_hat_dlc.sfv	-	81	1	130586	0	2

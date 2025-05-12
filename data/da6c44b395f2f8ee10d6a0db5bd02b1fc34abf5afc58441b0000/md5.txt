@@ -1,0 +1,5 @@
+v-way_of_the_passive_fist.nfo	050733f58440079b279ff35f4b2084e9
+v-way_of_the_passive_fist.r00	06bc619247b7156427288ab76b1a4e81
+v-way_of_the_passive_fist.r01	a550693519180f4b1720e8a0eabe1ba7
+v-way_of_the_passive_fist.rar	78c6d161790840f2404a3d52c3f174e2
+v-way_of_the_passive_fist.sfv	fb68af7e7c2842e804d9fdc84466d4a7

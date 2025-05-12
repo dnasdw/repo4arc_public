@@ -1,0 +1,3 @@
+sxs-dogurai_v65536.nfo	-	5744	1	0	0	0
+sxs-dogurai_v65536.rar	-	29513351	1	5744	0	1
+sxs-dogurai_v65536.sfv	-	33	1	29519095	0	30

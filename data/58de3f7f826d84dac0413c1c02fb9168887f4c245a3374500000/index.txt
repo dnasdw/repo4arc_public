@@ -1,0 +1,10 @@
+sxs-mind_maze.nfo	-	4340	1	0	0	0
+sxs-mind_maze.r00	-	50000000	1	4340	0	1
+sxs-mind_maze.r01	-	50000000	1	50004340	0	49
+sxs-mind_maze.r02	-	50000000	1	100004340	0	97
+sxs-mind_maze.r03	-	50000000	1	150004340	0	145
+sxs-mind_maze.r04	-	50000000	1	200004340	0	193
+sxs-mind_maze.r05	-	50000000	1	250004340	0	241
+sxs-mind_maze.r06	-	2423901	1	300004340	0	289
+sxs-mind_maze.rar	-	50000000	1	302428241	0	292
+sxs-mind_maze.sfv	-	224	1	352428241	0	340

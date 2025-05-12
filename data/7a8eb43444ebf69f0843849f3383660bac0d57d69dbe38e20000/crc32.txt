@@ -1,0 +1,8 @@
+sxs-dongo_adventure.nfo	08d24def
+sxs-dongo_adventure.r00	97026522
+sxs-dongo_adventure.r01	46be932a
+sxs-dongo_adventure.r02	cb381928
+sxs-dongo_adventure.r03	0afe6ae0
+sxs-dongo_adventure.r04	ff9be24a
+sxs-dongo_adventure.rar	89702731
+sxs-dongo_adventure.sfv	3b30a780

@@ -1,0 +1,14 @@
+lfc-amongthesleepee.nfo	f906609a
+lfc-amongthesleepee.r00	389baf5a
+lfc-amongthesleepee.r01	1347dc7c
+lfc-amongthesleepee.r02	be863695
+lfc-amongthesleepee.r03	e1020361
+lfc-amongthesleepee.r04	477e401f
+lfc-amongthesleepee.r05	b8478527
+lfc-amongthesleepee.r06	e758c521
+lfc-amongthesleepee.r07	e69e2671
+lfc-amongthesleepee.r08	9f9cb693
+lfc-amongthesleepee.r09	1ea38249
+lfc-amongthesleepee.r10	973e94d4
+lfc-amongthesleepee.rar	24640ee9
+lfc-amongthesleepee.sfv	a9a9015f

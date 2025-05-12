@@ -1,0 +1,11 @@
+v-witchcrafty.nfo	01db02e04ac55270298a14e125a40ce4
+v-witchcrafty.r00	8a11ceec9a1bbc5b49387a305daf742c
+v-witchcrafty.r01	dbeefc92ccd69888e325c4f588446f78
+v-witchcrafty.r02	7a933573fed0593c63ef4756bcbcd2f0
+v-witchcrafty.r03	5f58d509355b35477f9e485be5209642
+v-witchcrafty.r04	636864213b64220dfac36ac2503f198a
+v-witchcrafty.r05	cef3b9a16a90dcdbd3cb3125f947239e
+v-witchcrafty.r06	1e4243f95f63313d28cc5c96a863a33b
+v-witchcrafty.r07	564e753e5608b92bd3272a1f35e17c7b
+v-witchcrafty.rar	fef74c99c94689c65d5f947c6d44fc7d
+v-witchcrafty.sfv	8294243d8fc95c2302bad42a2246ff71

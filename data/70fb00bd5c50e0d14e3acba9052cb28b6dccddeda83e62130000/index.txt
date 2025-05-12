@@ -1,0 +1,4 @@
+v-baba_is_you_v262144.nfo	-	4108	1	0	0	0
+v-baba_is_you_v262144.r00	-	45284056	1	4108	0	1
+v-baba_is_you_v262144.rar	-	50000000	1	45288164	0	45
+v-baba_is_you_v262144.sfv	-	72	1	95288164	0	93

@@ -1,0 +1,11 @@
+sxs-amazing_breaker.nfo	3bc470c6afc260129f0a2b6b6f68fed6
+sxs-amazing_breaker.r00	85d07200dbfae3f2bdf63fdbc5a367e8
+sxs-amazing_breaker.r01	5b833ac0627cfef97520f98dcc5f7cd4
+sxs-amazing_breaker.r02	da190680f51911967308718958c99272
+sxs-amazing_breaker.r03	197c4b29c7c657ebda484c71d7662b01
+sxs-amazing_breaker.r04	30c552a1e457b765ceceaf5de76dcf6a
+sxs-amazing_breaker.r05	3bb73b5a4cf586b2ede195d11b8c9564
+sxs-amazing_breaker.r06	f4b2183658717a2e8946a2bae64b7424
+sxs-amazing_breaker.r07	7d5a2a8c9ac5c099a38d3670df8fe717
+sxs-amazing_breaker.rar	dd12abf6e17b0d8a3a8dfaa3d92ed4ff
+sxs-amazing_breaker.sfv	62934088fd7d677cf37ade726f8523b9

@@ -1,0 +1,17 @@
+hr-dodgeball.nfo	2d1739c2
+hr-dodgeball.r00	0ae0b797
+hr-dodgeball.r01	9c813deb
+hr-dodgeball.r02	c2e796cb
+hr-dodgeball.r03	88750596
+hr-dodgeball.r04	d438cf69
+hr-dodgeball.r05	958bbb55
+hr-dodgeball.r06	f56fde26
+hr-dodgeball.r07	7c58e06f
+hr-dodgeball.r08	15545485
+hr-dodgeball.r09	6bcb5747
+hr-dodgeball.r10	492e7739
+hr-dodgeball.r11	4775aabf
+hr-dodgeball.r12	044c0ba6
+hr-dodgeball.r13	c6c134a3
+hr-dodgeball.rar	a0e1110a
+hr-dodgeball.sfv	ad78dd83

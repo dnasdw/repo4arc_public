@@ -1,0 +1,5 @@
+brw-sqnu.nfo	22bd409459c5d551b4eddad9c5d4390f
+brw-sqnu.r00	3aee226d62bb0ceddc4ad990b6af905a
+brw-sqnu.r01	bf7a3c1290d8b9df074466c9ab4576da
+brw-sqnu.rar	6a9d20e012de01ef27c8e5831e20effd
+brw-sqnu.sfv	6e72206eb1dc006e50e9c33de40660f5

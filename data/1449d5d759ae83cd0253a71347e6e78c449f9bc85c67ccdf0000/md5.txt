@@ -1,0 +1,5 @@
+v-resident_evil_5_v131072.nfo	db8e0a58e35978544fafccc864ceaadc
+v-resident_evil_5_v131072.r00	ef0909b7c0aa0695e83e18f472feed21
+v-resident_evil_5_v131072.r01	1fe6563ac339701eac288596b2e4dc18
+v-resident_evil_5_v131072.rar	fabb569512065b0374cc523be5b3579c
+v-resident_evil_5_v131072.sfv	bf9bf325bb3b6dc449f3864344939c5e

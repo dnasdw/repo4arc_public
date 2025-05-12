@@ -1,0 +1,4 @@
+lfc-drcr.nfo	3bd06f77d0df59bdbfbdef0146f6944c
+lfc-drcr.r00	6032bdfcaab337388a943109dcc312f0
+lfc-drcr.rar	4bace0438a66cc728605fa4716bffccd
+lfc-drcr.sfv	bd3dd8c6f47c3a359e6b2cf4f9918e11

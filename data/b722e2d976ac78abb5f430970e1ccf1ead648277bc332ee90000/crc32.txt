@@ -1,0 +1,12 @@
+sxs-strike_force_kitty.nfo	b38a62f2
+sxs-strike_force_kitty.r00	d1190ceb
+sxs-strike_force_kitty.r01	44d9b7e3
+sxs-strike_force_kitty.r02	160be07c
+sxs-strike_force_kitty.r03	4e91561d
+sxs-strike_force_kitty.r04	1c5396d1
+sxs-strike_force_kitty.r05	e2069d62
+sxs-strike_force_kitty.r06	7a3fe670
+sxs-strike_force_kitty.r07	4278c2a0
+sxs-strike_force_kitty.r08	ddffb052
+sxs-strike_force_kitty.rar	995ca2ac
+sxs-strike_force_kitty.sfv	f5883964

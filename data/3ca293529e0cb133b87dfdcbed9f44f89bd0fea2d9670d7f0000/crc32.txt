@@ -1,0 +1,13 @@
+v-no_more_heroes_v196608.nfo	73c47dc4
+v-no_more_heroes_v196608.r00	670ea651
+v-no_more_heroes_v196608.r01	cf284bd0
+v-no_more_heroes_v196608.r02	dd067ecf
+v-no_more_heroes_v196608.r03	4b708516
+v-no_more_heroes_v196608.r04	c21f966a
+v-no_more_heroes_v196608.r05	575b23e3
+v-no_more_heroes_v196608.r06	86987890
+v-no_more_heroes_v196608.r07	a83fdf57
+v-no_more_heroes_v196608.r08	23eb779b
+v-no_more_heroes_v196608.r09	73abde7a
+v-no_more_heroes_v196608.rar	2e04d803
+v-no_more_heroes_v196608.sfv	793a30e2

@@ -1,0 +1,12 @@
+sxs-golf_story_v65536.nfo	dad21c5a
+sxs-golf_story_v65536.r00	e61aad5f
+sxs-golf_story_v65536.r01	324c6fd4
+sxs-golf_story_v65536.r02	9fd2921a
+sxs-golf_story_v65536.r03	8f191847
+sxs-golf_story_v65536.r04	50820d77
+sxs-golf_story_v65536.r05	12e9a525
+sxs-golf_story_v65536.r06	8e183bc7
+sxs-golf_story_v65536.r07	d57008cc
+sxs-golf_story_v65536.r08	f98b23f9
+sxs-golf_story_v65536.rar	2712ecc8
+sxs-golf_story_v65536.sfv	2ba80aab

@@ -1,0 +1,11 @@
+sxs-virus_rush.nfo	0e19490877e3b68e851c5520469d34da
+sxs-virus_rush.r00	bc0b8d68f767268d327fccfbc381cd1e
+sxs-virus_rush.r01	0072db1428e4c62e3d6e0cee2981f786
+sxs-virus_rush.r02	7aea9132a8d989826b9ac923a6eee612
+sxs-virus_rush.r03	ac686ea2c98f8949e3ffa1784dafa0c8
+sxs-virus_rush.r04	b513890d89effef897717602cb67a702
+sxs-virus_rush.r05	58b62cfaa4584e390922ed4a954847f5
+sxs-virus_rush.r06	2b53ddcff6777fdec6f3e7f0c7aa20b0
+sxs-virus_rush.r07	c3d3419d41846b1673dc55db3e4404c3
+sxs-virus_rush.rar	46dcecbe325a5ddc2c10c0504af00708
+sxs-virus_rush.sfv	1afd6916eecd2f50b6a68a6e2c0620e5

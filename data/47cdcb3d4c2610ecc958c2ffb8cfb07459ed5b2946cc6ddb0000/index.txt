@@ -1,0 +1,13 @@
+Compiled Builds	d	0	1	0	0	0
+Compiled Builds/effecteditor.srl	-	134217728	1	0	0	0
+Compiled Builds/HGSS -20241013T203308Z-001.zip	-	56658843	1	134217728	0	128
+Compiled Builds/main_22706.7z	-	34271856	1	190876571	0	183
+Compiled Builds/main_9792.7z	-	16362253	1	225148427	0	216
+Compiled Builds/main_hg_dbg_20080131.7z	-	13029876	1	241510680	0	232
+Compiled Builds/main_hg_dbg_20081031.7z	-	21846278	1	254540556	0	245
+Compiled Builds/main_r2037-2008-11-28.srl	-	134217728	1	276386834	0	266
+Compiled Builds/main_r2319-2008-12-26.7z	-	12257555	1	410604562	0	394
+Compiled Builds/main_trunk_44706.7z	-	64547226	1	422862117	0	406
+lol_admin_switch_accountinfo.png	-	1053414	1	487409343	0	468
+lol_admin_switch_allproducts.png	-	1756159	1	488462757	0	470
+Manifest.nfo	-	6875	1	490218916	0	472

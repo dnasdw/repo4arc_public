@@ -1,0 +1,6 @@
+v-radiant_silvergun_v262144.nfo	cc78811ba5b55fea2eae2309fa00f095
+v-radiant_silvergun_v262144.r00	0b2688f4bce9364eef23a6b74f4ace94
+v-radiant_silvergun_v262144.r01	0531f868a5f2cbc7b466d88b7c33fa30
+v-radiant_silvergun_v262144.r02	899beacb6ea21ca44d10e3adbb94611b
+v-radiant_silvergun_v262144.rar	8be9b0ed3a9fa4d8916199e92ad7ef25
+v-radiant_silvergun_v262144.sfv	81ad6889d500ef10553ace4e07d1a153

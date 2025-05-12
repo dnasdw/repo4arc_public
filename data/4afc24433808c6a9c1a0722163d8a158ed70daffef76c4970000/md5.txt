@@ -1,0 +1,11 @@
+brw-moth.nfo	11dcd17d319e1fe1aa8e09ae0711ac81
+brw-moth.r00	0a54e70ead0a220a9d6d3ec18015f377
+brw-moth.r01	b0cf93d6572d53fdc40af14ed9ddf37d
+brw-moth.r02	01d1b1118df570852c7e9a5c8f3015b3
+brw-moth.r03	8ccaf88216ea4b987d8da21ea31a8525
+brw-moth.r04	df99c3917fb86243a63d68c1db6db068
+brw-moth.r05	456ad75fba34bdd2c51ccba2df108217
+brw-moth.r06	34a19e94b052455a0821252d7a9fa65e
+brw-moth.r07	54e26c5dc300cb1ff3d2870be81ba8e4
+brw-moth.rar	6362d3df3ec9242115beac11a57d326a
+brw-moth.sfv	5713a5a05a5a44d65f841f4e95d60e90

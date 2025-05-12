@@ -1,0 +1,4 @@
+sxs-slipstream_v262144.nfo	ecdfaa47fb11d253d3d462efded8c01b
+sxs-slipstream_v262144.r00	172b8772928a936f32680d369065c277
+sxs-slipstream_v262144.rar	2cb775aaa1db2a30201690ff0b817376
+sxs-slipstream_v262144.sfv	43093aec7ec19440033ace571e4f161b

@@ -1,0 +1,4 @@
+lfc-gafo.nfo	-	5847	1	0	0	0
+lfc-gafo.r00	-	8968889	1	5847	0	1
+lfc-gafo.rar	-	50000000	1	8974736	0	10
+lfc-gafo.sfv	-	46	1	58974736	0	58

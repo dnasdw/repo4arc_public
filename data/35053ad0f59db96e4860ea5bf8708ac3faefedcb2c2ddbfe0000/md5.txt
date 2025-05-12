@@ -1,0 +1,16 @@
+lfc-undu.nfo	2a30612a1d18f6e9dec5b3f7543169e9
+lfc-undu.r00	0da7fe33eeced90a4c4bcdc1678aaa19
+lfc-undu.r01	0f0d8b694e4da012b9dc509294a6b30c
+lfc-undu.r02	938e8299e9cbb1bfdfe37706b1be212a
+lfc-undu.r03	e66051c4d4ba1fbda3eb77e0878656c0
+lfc-undu.r04	291a56e6b7750c35ac5123372bec95ea
+lfc-undu.r05	a230672dbfc5bb65286f62a0522b0962
+lfc-undu.r06	6aea8e852f9a1ffe3cc98c3a2cea6f16
+lfc-undu.r07	47b9c3ce1376b453fee0986e275e275d
+lfc-undu.r08	b90e7a371bfa2a1e7efd42267ee69a2c
+lfc-undu.r09	a81b1d20edfa9dd9b43001add7afec7d
+lfc-undu.r10	9b82345cf4635656b7bb27518596f1a2
+lfc-undu.r11	9094f3931a40568052ec39d2a4667f95
+lfc-undu.r12	3f75855d2a769c649f7cbd3d735e8bfa
+lfc-undu.rar	b47b9b56cb6d5835a2fe835fecf16eb2
+lfc-undu.sfv	26b2a741baa401c46e5e2d15c99aef43

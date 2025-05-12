@@ -1,0 +1,3 @@
+v-furi_onnamusha_dlc.nfo	-	5434	1	0	0	0
+v-furi_onnamusha_dlc.rar	-	118529	1	5434	0	1
+v-furi_onnamusha_dlc.sfv	-	35	1	123963	0	2

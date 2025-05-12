@@ -1,0 +1,16 @@
+v-gigant_v65536.nfo	2c4a6284
+v-gigant_v65536.r00	3502cf6f
+v-gigant_v65536.r01	ee21b0e8
+v-gigant_v65536.r02	babeec96
+v-gigant_v65536.r03	34e7eaa3
+v-gigant_v65536.r04	32e885c3
+v-gigant_v65536.r05	0bc09bca
+v-gigant_v65536.r06	abb49bee
+v-gigant_v65536.r07	2ca9e1dc
+v-gigant_v65536.r08	01b8944c
+v-gigant_v65536.r09	5d386a63
+v-gigant_v65536.r10	6365e868
+v-gigant_v65536.r11	f7c1e4bb
+v-gigant_v65536.r12	16be340b
+v-gigant_v65536.rar	23b72283
+v-gigant_v65536.sfv	05e035de

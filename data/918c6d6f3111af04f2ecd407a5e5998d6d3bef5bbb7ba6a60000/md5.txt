@@ -1,0 +1,9 @@
+v-duck_game.nfo	afba363f0b826fbe8298cc460d841155
+v-duck_game.r00	522a324f59394423446e159a38b2edc3
+v-duck_game.r01	71c57c5bc6b0f5f40a665cd70c1960c1
+v-duck_game.r02	ceb1b3249c348c26a05dcea419e10778
+v-duck_game.r03	0d018fd138d926add87f1597f107904e
+v-duck_game.r04	0f4e0bd1188716abc179998ffd8ec1de
+v-duck_game.r05	946ad879205901d21e01972b5044d9d4
+v-duck_game.rar	45b69f4773de68e462a36202059ec569
+v-duck_game.sfv	de264e0114e494c2eadb7ac929dd4631

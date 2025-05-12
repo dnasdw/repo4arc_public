@@ -1,0 +1,12 @@
+sxs-broforce_v196608.nfo	e3c7a09f
+sxs-broforce_v196608.r00	00200e85
+sxs-broforce_v196608.r01	62247691
+sxs-broforce_v196608.r02	c3ee2618
+sxs-broforce_v196608.r03	112aece0
+sxs-broforce_v196608.r04	91bc5358
+sxs-broforce_v196608.r05	df35975a
+sxs-broforce_v196608.r06	96f30dc4
+sxs-broforce_v196608.r07	ec89f9ad
+sxs-broforce_v196608.r08	f3356cc2
+sxs-broforce_v196608.rar	08f7334c
+sxs-broforce_v196608.sfv	8d2bc6cd

@@ -1,0 +1,6 @@
+sxs-worm_jazz.nfo	7597e7189cb99ec88e2bcca37b0c1e11
+sxs-worm_jazz.r00	7325e079f82ae1aeb926e022f1aa1e02
+sxs-worm_jazz.r01	756183cbeef6b21563e690841ca00761
+sxs-worm_jazz.r02	3888b4e72f8f8006e36c105a630370dc
+sxs-worm_jazz.rar	0f2c34b2d749cb7f083f510834dcf0f7
+sxs-worm_jazz.sfv	50cdbe7a711541394de7cf20b274c3bd

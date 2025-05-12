@@ -1,0 +1,9 @@
+l-spacepioneer.nfo	e03367ab334c911bedeee4ef245c34dc
+l-spacepioneer.r00	26241ebc6c0ce4af59465f8a6a21706d
+l-spacepioneer.r01	517c3b9c1694dbb6fc3e113cc020affb
+l-spacepioneer.r02	eb6f48c2e9ee8cfa8baea80ad1ddb68b
+l-spacepioneer.r03	d4ae6ce3318f02db7f18380a5bf07fc8
+l-spacepioneer.r04	f01b28572706c93498ee848b4eb59420
+l-spacepioneer.r05	01835f42ae7e594c2486b904f5deaf20
+l-spacepioneer.rar	eecde580bc99e49733337aead40e9e08
+l-spacepioneer.sfv	7cf0275f0640ccab1095324e724bff96

@@ -1,0 +1,7 @@
+sxs-cooking_tycoons_3_in_1_bundle_v196608.nfo	-	5822	1	0	0	0
+sxs-cooking_tycoons_3_in_1_bundle_v196608.r00	-	100000000	1	5822	0	1
+sxs-cooking_tycoons_3_in_1_bundle_v196608.r01	-	100000000	1	100005822	0	97
+sxs-cooking_tycoons_3_in_1_bundle_v196608.r02	-	100000000	1	200005822	0	193
+sxs-cooking_tycoons_3_in_1_bundle_v196608.r03	-	88044194	1	300005822	0	289
+sxs-cooking_tycoons_3_in_1_bundle_v196608.rar	-	100000000	1	388050016	0	373
+sxs-cooking_tycoons_3_in_1_bundle_v196608.sfv	-	280	1	488050016	0	469

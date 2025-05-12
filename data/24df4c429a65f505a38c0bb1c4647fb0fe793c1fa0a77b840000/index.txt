@@ -1,0 +1,5 @@
+sxs-gimmick_special_edition.nfo	-	7460	1	0	0	0
+sxs-gimmick_special_edition.r00	-	100000000	1	7460	0	1
+sxs-gimmick_special_edition.r01	-	56416355	1	100007460	0	97
+sxs-gimmick_special_edition.rar	-	100000000	1	156423815	0	151
+sxs-gimmick_special_edition.sfv	-	126	1	256423815	0	247

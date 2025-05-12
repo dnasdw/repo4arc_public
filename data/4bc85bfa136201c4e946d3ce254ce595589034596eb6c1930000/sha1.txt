@@ -1,0 +1,4 @@
+lfc-picapixpieces.nfo	57282a288f31fff2145c715f5355f72fae84cc1a
+lfc-picapixpieces.r00	f6ee23f0f5acec24f19a4763dcf277dd807c5176
+lfc-picapixpieces.rar	fec991359d877064ec23360ccf66130adbcbcf35
+lfc-picapixpieces.sfv	8156f949999c8dba9fa7d1f477673eab21c4ee39

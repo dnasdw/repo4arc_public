@@ -1,0 +1,8 @@
+brw-seph.nfo	cbad571a1a0c4d8d4f3c7199e237374b
+brw-seph.r00	d0da69f2823773f0bedf9160f0d64acd
+brw-seph.r01	28f54bd03bb6591be932f7cdeaa3e976
+brw-seph.r02	bd1d40833fd3aef3315d20e4f4060de3
+brw-seph.r03	03d3b4ad0c118905bf729ac37631b979
+brw-seph.r04	b40ce28004b6c12a1d62dfdf87f2f76c
+brw-seph.rar	78f62162e2fa90c10dd2d8570254d15f
+brw-seph.sfv	6a775a563b284653016739ea2768277f

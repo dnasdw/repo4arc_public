@@ -1,0 +1,5 @@
+sxs-avenger_bird.nfo	006d5349
+sxs-avenger_bird.r00	00c4fcaf
+sxs-avenger_bird.r01	731326ad
+sxs-avenger_bird.rar	663e350e
+sxs-avenger_bird.sfv	b4624f1d

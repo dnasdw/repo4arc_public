@@ -1,0 +1,10 @@
+v-steamworld_build.nfo	0e740c6aabdd4272763585e040284662
+v-steamworld_build.r00	41c09d0222a97252e47eaa2ace9183f7
+v-steamworld_build.r01	e34e776bcad43e525158ef34e1ed84d8
+v-steamworld_build.r02	34f14bdd2d50e5c085c65a1f8ded4b3b
+v-steamworld_build.r03	6f1ef7bb2e633dad4a883f07573a4486
+v-steamworld_build.r04	dc3332d0b6ce7bff9cb22c7b71215208
+v-steamworld_build.r05	522f4ea4a2ad131ef3e2c4cdb71812fa
+v-steamworld_build.r06	edc16743e4cce85c1d8d82b36d4961ef
+v-steamworld_build.rar	82837061039372a45f96ae26b5c5ba65
+v-steamworld_build.sfv	d78de4637c74a363980a6f945598e875

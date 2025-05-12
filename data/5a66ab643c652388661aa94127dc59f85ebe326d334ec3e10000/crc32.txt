@@ -1,0 +1,13 @@
+sxs-onlyup.nfo	fc205c9f
+sxs-onlyup.r00	aad6fb0d
+sxs-onlyup.r01	b9d667b7
+sxs-onlyup.r02	dd66569a
+sxs-onlyup.r03	ddeb4014
+sxs-onlyup.r04	55d57689
+sxs-onlyup.r05	6299e421
+sxs-onlyup.r06	6b184d0e
+sxs-onlyup.r07	f8560c77
+sxs-onlyup.r08	de906096
+sxs-onlyup.r09	febab5b0
+sxs-onlyup.rar	be7bb084
+sxs-onlyup.sfv	ca939af8

@@ -1,0 +1,4 @@
+sxs-hero_u_rogue_to_redemption_v65536.nfo	-	6602	1	0	0	0
+sxs-hero_u_rogue_to_redemption_v65536.r00	-	12837688	1	6602	0	1
+sxs-hero_u_rogue_to_redemption_v65536.rar	-	50000000	1	12844290	0	14
+sxs-hero_u_rogue_to_redemption_v65536.sfv	-	104	1	62844290	0	62

@@ -1,0 +1,13 @@
+v-asterix_and_obelix_slap_them_all_2_v196608.nfo	-	7855	1	0	0	0
+v-asterix_and_obelix_slap_them_all_2_v196608.r00	-	100000000	1	7855	0	1
+v-asterix_and_obelix_slap_them_all_2_v196608.r01	-	100000000	1	100007855	0	97
+v-asterix_and_obelix_slap_them_all_2_v196608.r02	-	100000000	1	200007855	0	193
+v-asterix_and_obelix_slap_them_all_2_v196608.r03	-	100000000	1	300007855	0	289
+v-asterix_and_obelix_slap_them_all_2_v196608.r04	-	100000000	1	400007855	0	385
+v-asterix_and_obelix_slap_them_all_2_v196608.r05	-	100000000	1	500007855	0	481
+v-asterix_and_obelix_slap_them_all_2_v196608.r06	-	100000000	1	62251264	1	60
+v-asterix_and_obelix_slap_them_all_2_v196608.r07	-	100000000	1	162251264	1	156
+v-asterix_and_obelix_slap_them_all_2_v196608.r08	-	100000000	1	262251264	1	252
+v-asterix_and_obelix_slap_them_all_2_v196608.r09	-	10246411	1	362251264	1	348
+v-asterix_and_obelix_slap_them_all_2_v196608.rar	-	100000000	1	372497675	1	358
+v-asterix_and_obelix_slap_them_all_2_v196608.sfv	-	649	1	472497675	1	454

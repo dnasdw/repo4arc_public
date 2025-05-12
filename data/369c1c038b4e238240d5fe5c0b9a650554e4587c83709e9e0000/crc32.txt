@@ -1,0 +1,11 @@
+v-kunai_v131072.nfo	0f6e6077
+v-kunai_v131072.r00	ce04184c
+v-kunai_v131072.r01	f51da2b1
+v-kunai_v131072.r02	a29313ef
+v-kunai_v131072.r03	338ad386
+v-kunai_v131072.r04	3f95e5a4
+v-kunai_v131072.r05	9896f6c5
+v-kunai_v131072.r06	32cb20a3
+v-kunai_v131072.r07	0c749e43
+v-kunai_v131072.rar	50d13d09
+v-kunai_v131072.sfv	85f7b3ae

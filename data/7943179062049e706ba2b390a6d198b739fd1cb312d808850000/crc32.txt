@@ -1,0 +1,7 @@
+v-megaquarium_v262144.nfo	b8bb6581
+v-megaquarium_v262144.r00	dd698edd
+v-megaquarium_v262144.r01	5bfd0aaf
+v-megaquarium_v262144.r02	e7168b28
+v-megaquarium_v262144.r03	14a2fa53
+v-megaquarium_v262144.rar	0cc8c4a4
+v-megaquarium_v262144.sfv	9f19e3e4

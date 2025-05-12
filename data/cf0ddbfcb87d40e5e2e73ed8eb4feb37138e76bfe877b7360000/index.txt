@@ -1,0 +1,5 @@
+sxs-sky_force_anniversary_v65536.nfo	-	4730	1	0	0	0
+sxs-sky_force_anniversary_v65536.r00	-	50000000	1	4730	0	1
+sxs-sky_force_anniversary_v65536.r01	-	36493775	1	50004730	0	49
+sxs-sky_force_anniversary_v65536.rar	-	50000000	1	86498505	0	84
+sxs-sky_force_anniversary_v65536.sfv	-	141	1	136498505	0	132

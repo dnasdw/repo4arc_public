@@ -1,0 +1,8 @@
+v-zombies_ate_my_neighbors_and_ghoul_patrol.nfo	7f6210ff
+v-zombies_ate_my_neighbors_and_ghoul_patrol.r00	3bfddbc9
+v-zombies_ate_my_neighbors_and_ghoul_patrol.r01	6ccc9c4b
+v-zombies_ate_my_neighbors_and_ghoul_patrol.r02	ce156ee2
+v-zombies_ate_my_neighbors_and_ghoul_patrol.r03	046b9be6
+v-zombies_ate_my_neighbors_and_ghoul_patrol.r04	f053a65c
+v-zombies_ate_my_neighbors_and_ghoul_patrol.rar	df2c0f8d
+v-zombies_ate_my_neighbors_and_ghoul_patrol.sfv	8e25c444

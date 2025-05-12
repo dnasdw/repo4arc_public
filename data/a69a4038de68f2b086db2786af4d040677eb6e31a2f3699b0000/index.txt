@@ -1,0 +1,6 @@
+sxs-evolution_board_game_v131072.nfo	-	6368	1	0	0	0
+sxs-evolution_board_game_v131072.r00	-	50000000	1	6368	0	1
+sxs-evolution_board_game_v131072.r01	-	50000000	1	50006368	0	49
+sxs-evolution_board_game_v131072.r02	-	12705823	1	100006368	0	97
+sxs-evolution_board_game_v131072.rar	-	50000000	1	112712191	0	110
+sxs-evolution_board_game_v131072.sfv	-	188	1	162712191	0	158

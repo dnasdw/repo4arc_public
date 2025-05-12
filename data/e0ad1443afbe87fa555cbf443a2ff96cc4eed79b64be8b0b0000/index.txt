@@ -1,0 +1,4 @@
+sxs-capitals_quizzer_incl_dlc_unlocker.nfo	-	5588	1	0	0	0
+sxs-capitals_quizzer_incl_dlc_unlocker.r00	-	48071245	1	5588	0	1
+sxs-capitals_quizzer_incl_dlc_unlocker.rar	-	100000000	1	48076833	0	47
+sxs-capitals_quizzer_incl_dlc_unlocker.sfv	-	106	1	148076833	0	143

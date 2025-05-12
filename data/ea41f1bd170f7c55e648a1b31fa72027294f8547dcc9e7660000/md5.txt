@@ -1,0 +1,4 @@
+lfc-misb.nfo	8665897f5db6d3bf9f8465b679a763c9
+lfc-misb.r00	855eec62781e2ddd9e45bd4d0253c31b
+lfc-misb.rar	068c2773e76d3f4b1d367fbbedf81c95
+lfc-misb.sfv	ace8e896460d5ab0c08311ce7dc2d753

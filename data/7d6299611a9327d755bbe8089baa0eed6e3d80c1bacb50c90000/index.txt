@@ -1,0 +1,5 @@
+sxs-cronostase_electric_collection.nfo	-	6368	1	0	0	0
+sxs-cronostase_electric_collection.r00	-	50000000	1	6368	0	1
+sxs-cronostase_electric_collection.r01	-	5461885	1	50006368	0	49
+sxs-cronostase_electric_collection.rar	-	50000000	1	55468253	0	55
+sxs-cronostase_electric_collection.sfv	-	147	1	105468253	0	103

@@ -1,0 +1,12 @@
+sxs-rebel_cops_v65536.nfo	0feffabc
+sxs-rebel_cops_v65536.r00	f66571cd
+sxs-rebel_cops_v65536.r01	fca77bc3
+sxs-rebel_cops_v65536.r02	ea819e7e
+sxs-rebel_cops_v65536.r03	0d594ad6
+sxs-rebel_cops_v65536.r04	a82e5c84
+sxs-rebel_cops_v65536.r05	fa46d455
+sxs-rebel_cops_v65536.r06	431dad1f
+sxs-rebel_cops_v65536.r07	62a80e5a
+sxs-rebel_cops_v65536.r08	b979fbfe
+sxs-rebel_cops_v65536.rar	a2b190d4
+sxs-rebel_cops_v65536.sfv	ea273374

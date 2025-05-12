@@ -1,0 +1,7 @@
+v-orbitindustries_v327680.nfo	-	8554	1	0	0	0
+v-orbitindustries_v327680.r00	-	100000000	1	8554	0	1
+v-orbitindustries_v327680.r01	-	100000000	1	100008554	0	97
+v-orbitindustries_v327680.r02	-	100000000	1	200008554	0	193
+v-orbitindustries_v327680.r03	-	82089212	1	300008554	0	289
+v-orbitindustries_v327680.rar	-	100000000	1	382097766	0	368
+v-orbitindustries_v327680.sfv	-	200	1	482097766	0	464

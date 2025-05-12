@@ -1,0 +1,3 @@
+sxs-go_fish_go_dlc.nfo	-	4964	1	0	0	0
+sxs-go_fish_go_dlc.rar	-	104112	1	4964	0	1
+sxs-go_fish_go_dlc.sfv	-	33	1	109076	0	2

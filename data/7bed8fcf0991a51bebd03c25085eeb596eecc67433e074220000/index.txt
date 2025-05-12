@@ -1,0 +1,17 @@
+sxs-seduction_a_monks_fate.nfo	-	5432	1	0	0	0
+sxs-seduction_a_monks_fate.r00	-	50000000	1	5432	0	1
+sxs-seduction_a_monks_fate.r01	-	50000000	1	50005432	0	49
+sxs-seduction_a_monks_fate.r02	-	50000000	1	100005432	0	97
+sxs-seduction_a_monks_fate.r03	-	50000000	1	150005432	0	145
+sxs-seduction_a_monks_fate.r04	-	50000000	1	200005432	0	193
+sxs-seduction_a_monks_fate.r05	-	50000000	1	250005432	0	241
+sxs-seduction_a_monks_fate.r06	-	50000000	1	300005432	0	289
+sxs-seduction_a_monks_fate.r07	-	50000000	1	350005432	0	337
+sxs-seduction_a_monks_fate.r08	-	50000000	1	400005432	0	385
+sxs-seduction_a_monks_fate.r09	-	50000000	1	450005432	0	433
+sxs-seduction_a_monks_fate.r10	-	50000000	1	500005432	0	481
+sxs-seduction_a_monks_fate.r11	-	50000000	1	12251264	1	12
+sxs-seduction_a_monks_fate.r12	-	50000000	1	62251264	1	60
+sxs-seduction_a_monks_fate.r13	-	31545324	1	112251264	1	108
+sxs-seduction_a_monks_fate.rar	-	50000000	1	143796588	1	139
+sxs-seduction_a_monks_fate.sfv	-	615	1	193796588	1	187

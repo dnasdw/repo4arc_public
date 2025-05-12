@@ -1,0 +1,6 @@
+bbb-n-aewxa.nfo	-	5517	1	0	0	0
+bbb-n-aewxa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aewxa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aewxa.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-aewxa.part4.rar	-	78472367	1	212251264	1	203
+bbb-n-aewxa.sfv	-	128	1	290723631	1	278

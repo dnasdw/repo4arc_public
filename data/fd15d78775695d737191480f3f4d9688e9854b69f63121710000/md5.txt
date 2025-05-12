@@ -1,0 +1,5 @@
+v-digimonscs_v131072.nfo	3e1811d6972fbdf3f55391c5e0acaf00
+v-digimonscs_v131072.r00	eda530f1d72a1d20caeedbed4ffa23fc
+v-digimonscs_v131072.r01	9f678031a98cfbf229973b7c5dad7eff
+v-digimonscs_v131072.rar	50f2b66a7720aa25875b048efc790e04
+v-digimonscs_v131072.sfv	544e7acb6b2009204b67925da81709d8

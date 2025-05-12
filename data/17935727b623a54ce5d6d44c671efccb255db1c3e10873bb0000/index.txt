@@ -1,0 +1,4 @@
+lfc-repr.nfo	-	5426	1	0	0	0
+lfc-repr.r00	-	24121733	1	5426	0	1
+lfc-repr.rar	-	50000000	1	24127159	0	25
+lfc-repr.sfv	-	46	1	74127159	0	73

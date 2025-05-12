@@ -1,0 +1,5 @@
+sxs-cosmonauta.nfo	27dcc692481004002c893185cda54f48
+sxs-cosmonauta.r00	9f33626bfbce9e2b8ca15a421a31e885
+sxs-cosmonauta.r01	0bd2ee8e57083ed10ed81e8d29bebac3
+sxs-cosmonauta.rar	7f20b29f30b93d1a6d67d1733a5b930a
+sxs-cosmonauta.sfv	4a89c71626fc9083ec1f54db9974e239

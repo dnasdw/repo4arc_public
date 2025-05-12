@@ -1,0 +1,9 @@
+sxs-dysmantle_v327680.nfo	f2afea60
+sxs-dysmantle_v327680.r00	ba2a507c
+sxs-dysmantle_v327680.r01	518455d7
+sxs-dysmantle_v327680.r02	7c94daf6
+sxs-dysmantle_v327680.r03	7c79362e
+sxs-dysmantle_v327680.r04	27bd55a8
+sxs-dysmantle_v327680.r05	c63a903b
+sxs-dysmantle_v327680.rar	8d4d960d
+sxs-dysmantle_v327680.sfv	099cb521

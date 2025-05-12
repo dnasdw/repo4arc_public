@@ -1,0 +1,5 @@
+v-creature_in_the_well_v131072.nfo	-	5356	1	0	0	0
+v-creature_in_the_well_v131072.r00	-	50000000	1	5356	0	1
+v-creature_in_the_well_v131072.r01	-	5468424	1	50005356	0	49
+v-creature_in_the_well_v131072.rar	-	50000000	1	55473780	0	55
+v-creature_in_the_well_v131072.sfv	-	135	1	105473780	0	103

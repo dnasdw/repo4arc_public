@@ -1,0 +1,13 @@
+v-rift_keeper.nfo	54e9f5dcfdff809cb1514fc03663c67c
+v-rift_keeper.r00	6a848e3c366bb4c2473cd6fca3c1c55c
+v-rift_keeper.r01	01ecb9bdaa6960916bf7989812188a1b
+v-rift_keeper.r02	204b7ee076047cac526181cd010fa0fa
+v-rift_keeper.r03	40f6444254be56eab6911604516be219
+v-rift_keeper.r04	a367fff457e6f12b1b9b9f65b8bf3556
+v-rift_keeper.r05	b7e3665d80522a5fcd6d2d7e4061796d
+v-rift_keeper.r06	28e0343604acbf0084653d2e376e9c18
+v-rift_keeper.r07	6c3b8843b26689473a78ebd8c4c90847
+v-rift_keeper.r08	f5c99f06fbbaad43ad1ad5c50a2e778a
+v-rift_keeper.r09	9acdef3ebcdb0d9ccfebe147745b9a34
+v-rift_keeper.rar	8d924fbb4b9ea5d59c00e505fc0c1ce5
+v-rift_keeper.sfv	fc210a33f6edbe9f661875b124fdc3fc

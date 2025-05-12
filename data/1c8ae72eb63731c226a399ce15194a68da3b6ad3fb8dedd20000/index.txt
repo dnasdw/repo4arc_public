@@ -1,0 +1,9 @@
+sxs-flatland_prologue.nfo	-	4886	1	0	0	0
+sxs-flatland_prologue.r00	-	50000000	1	4886	0	1
+sxs-flatland_prologue.r01	-	50000000	1	50004886	0	49
+sxs-flatland_prologue.r02	-	50000000	1	100004886	0	97
+sxs-flatland_prologue.r03	-	50000000	1	150004886	0	145
+sxs-flatland_prologue.r04	-	50000000	1	200004886	0	193
+sxs-flatland_prologue.r05	-	9266376	1	250004886	0	241
+sxs-flatland_prologue.rar	-	50000000	1	259271262	0	250
+sxs-flatland_prologue.sfv	-	252	1	309271262	0	298

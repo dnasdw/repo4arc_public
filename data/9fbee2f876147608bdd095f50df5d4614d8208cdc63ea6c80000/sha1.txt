@@ -1,0 +1,4 @@
+sxs-grand_prix_story_v131072.nfo	4a2c38754316bd47cce16037e0ee3d3c5194abd5
+sxs-grand_prix_story_v131072.r00	640ebc11e904dec609b4478cd058f74515f8edd9
+sxs-grand_prix_story_v131072.rar	6925674e0066e35c90d0f114bc1453772b6cc5dc
+sxs-grand_prix_story_v131072.sfv	d97e664a60c0647ccde945dbae3800f40dad10cd

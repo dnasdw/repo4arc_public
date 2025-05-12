@@ -1,0 +1,5 @@
+sxs-mortal_shell_complete_edition_v65536.nfo	-	4730	1	0	0	0
+sxs-mortal_shell_complete_edition_v65536.r00	-	100000000	1	4730	0	1
+sxs-mortal_shell_complete_edition_v65536.r01	-	505792	1	100004730	0	97
+sxs-mortal_shell_complete_edition_v65536.rar	-	100000000	1	100510522	0	98
+sxs-mortal_shell_complete_edition_v65536.sfv	-	165	1	200510522	0	194

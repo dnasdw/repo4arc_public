@@ -1,0 +1,6 @@
+v-haiku_the_robot_v196608.nfo	e9987923d2cd721c9e04391212624cd7
+v-haiku_the_robot_v196608.r00	62e8ec38a2a2fb5a70d00aa13c7e86f9
+v-haiku_the_robot_v196608.r01	8b8a3570f422bbb4e50514033d666d3e
+v-haiku_the_robot_v196608.r02	28dcae9faa933f34d84c27928c864031
+v-haiku_the_robot_v196608.rar	0f156f62793bfeeb2ffe1dd7c6dd1c91
+v-haiku_the_robot_v196608.sfv	fe246dc8f43cec9cb9a16b64923f0684

@@ -1,0 +1,4 @@
+lfc-ritual.nfo	-	3892	1	0	0	0
+lfc-ritual.r00	-	32725724	1	3892	0	1
+lfc-ritual.rar	-	50000000	1	32729616	0	33
+lfc-ritual.sfv	-	50	1	82729616	0	81

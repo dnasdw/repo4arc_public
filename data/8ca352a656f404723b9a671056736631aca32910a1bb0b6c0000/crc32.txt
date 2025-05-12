@@ -1,0 +1,8 @@
+v-arcade_classics_anniversary_collection.nfo	fc9a0053
+v-arcade_classics_anniversary_collection.r00	7f3a211f
+v-arcade_classics_anniversary_collection.r01	c5932558
+v-arcade_classics_anniversary_collection.r02	fe9b325a
+v-arcade_classics_anniversary_collection.r03	1e7d7aee
+v-arcade_classics_anniversary_collection.r04	69fbef83
+v-arcade_classics_anniversary_collection.rar	a8641a25
+v-arcade_classics_anniversary_collection.sfv	d10f3a4f

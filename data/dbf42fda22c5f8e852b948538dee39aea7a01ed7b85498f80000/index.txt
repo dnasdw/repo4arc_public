@@ -1,0 +1,4 @@
+sxs-gerrrms_v65536.nfo	-	6524	1	0	0	0
+sxs-gerrrms_v65536.r00	-	28877359	1	6524	0	1
+sxs-gerrrms_v65536.rar	-	50000000	1	28883883	0	29
+sxs-gerrrms_v65536.sfv	-	66	1	78883883	0	77

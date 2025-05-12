@@ -1,0 +1,5 @@
+v-taiko_v65536.nfo	029f0c8e
+v-taiko_v65536.r00	4398692c
+v-taiko_v65536.r01	2476bc76
+v-taiko_v65536.rar	037d6d54
+v-taiko_v65536.sfv	bee703f2

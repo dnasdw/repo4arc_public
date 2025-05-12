@@ -1,0 +1,4 @@
+sxs-wargroove_v393216.nfo	1d8c574ece75ddd85e2a20467d7f83afe4036d4a
+sxs-wargroove_v393216.r00	ecf0d79c16ebbf8025eae526bd587fccc19ce6df
+sxs-wargroove_v393216.rar	be5592868aaa30f2aa9f53f2a9e1797cb1e031fe
+sxs-wargroove_v393216.sfv	dc331def4e0c2b858f5fd391e9d564e30bf4fd3c

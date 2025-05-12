@@ -1,0 +1,15 @@
+v-diablo_ii_resurrected_v1507328.nfo	-	6526	1	0	0	0
+v-diablo_ii_resurrected_v1507328.r00	-	100000000	1	6526	0	1
+v-diablo_ii_resurrected_v1507328.r01	-	100000000	1	100006526	0	97
+v-diablo_ii_resurrected_v1507328.r02	-	100000000	1	200006526	0	193
+v-diablo_ii_resurrected_v1507328.r03	-	100000000	1	300006526	0	289
+v-diablo_ii_resurrected_v1507328.r04	-	100000000	1	400006526	0	385
+v-diablo_ii_resurrected_v1507328.r05	-	100000000	1	500006526	0	481
+v-diablo_ii_resurrected_v1507328.r06	-	100000000	1	62251264	1	60
+v-diablo_ii_resurrected_v1507328.r07	-	100000000	1	162251264	1	156
+v-diablo_ii_resurrected_v1507328.r08	-	100000000	1	262251264	1	252
+v-diablo_ii_resurrected_v1507328.r09	-	100000000	1	362251264	1	348
+v-diablo_ii_resurrected_v1507328.r10	-	100000000	1	462251264	1	444
+v-diablo_ii_resurrected_v1507328.r11	-	54160001	1	24502528	2	24
+v-diablo_ii_resurrected_v1507328.rar	-	100000000	1	78662529	2	76
+v-diablo_ii_resurrected_v1507328.sfv	-	611	1	178662529	2	172

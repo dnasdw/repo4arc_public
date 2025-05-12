@@ -1,0 +1,13 @@
+sxs-blade_arcus_rebellion_from_shining_v65536.nfo	-	4496	1	0	0	0
+sxs-blade_arcus_rebellion_from_shining_v65536.r00	-	50000000	1	4496	0	1
+sxs-blade_arcus_rebellion_from_shining_v65536.r01	-	50000000	1	50004496	0	49
+sxs-blade_arcus_rebellion_from_shining_v65536.r02	-	50000000	1	100004496	0	97
+sxs-blade_arcus_rebellion_from_shining_v65536.r03	-	50000000	1	150004496	0	145
+sxs-blade_arcus_rebellion_from_shining_v65536.r04	-	50000000	1	200004496	0	193
+sxs-blade_arcus_rebellion_from_shining_v65536.r05	-	50000000	1	250004496	0	241
+sxs-blade_arcus_rebellion_from_shining_v65536.r06	-	50000000	1	300004496	0	289
+sxs-blade_arcus_rebellion_from_shining_v65536.r07	-	50000000	1	350004496	0	337
+sxs-blade_arcus_rebellion_from_shining_v65536.r08	-	50000000	1	400004496	0	385
+sxs-blade_arcus_rebellion_from_shining_v65536.r09	-	25080780	1	450004496	0	433
+sxs-blade_arcus_rebellion_from_shining_v65536.rar	-	50000000	1	475085276	0	457
+sxs-blade_arcus_rebellion_from_shining_v65536.sfv	-	660	1	525085276	0	505

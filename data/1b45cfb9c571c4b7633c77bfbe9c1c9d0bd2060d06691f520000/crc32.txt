@@ -1,0 +1,11 @@
+sxs-real_farm_premium_edition_v131072.nfo	2b97c1db
+sxs-real_farm_premium_edition_v131072.r00	be272bb6
+sxs-real_farm_premium_edition_v131072.r01	376e3f57
+sxs-real_farm_premium_edition_v131072.r02	5c58fee7
+sxs-real_farm_premium_edition_v131072.r03	c520a6d5
+sxs-real_farm_premium_edition_v131072.r04	deee6cf0
+sxs-real_farm_premium_edition_v131072.r05	45a13d39
+sxs-real_farm_premium_edition_v131072.r06	6be40795
+sxs-real_farm_premium_edition_v131072.r07	95e9bc01
+sxs-real_farm_premium_edition_v131072.rar	ddbfe830
+sxs-real_farm_premium_edition_v131072.sfv	d9cfb352

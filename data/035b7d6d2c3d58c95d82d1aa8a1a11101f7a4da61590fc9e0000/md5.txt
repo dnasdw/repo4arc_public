@@ -1,0 +1,12 @@
+v-fight_n_rage.nfo	8c0b9273cdf752b7414089177bb9bebb
+v-fight_n_rage.r00	c507d86a5605d9e45192157508aa00b0
+v-fight_n_rage.r01	66f4cddd82a04fa6820bf9be99c01216
+v-fight_n_rage.r02	2c91e199ea1914acfefacb2a0c9ddcc1
+v-fight_n_rage.r03	8c54256850a977b89d55a354b6bf91f2
+v-fight_n_rage.r04	d1f2d8ff9232b429911895b59f5d8493
+v-fight_n_rage.r05	4b91c8eb74ded9044cdea9a71004503a
+v-fight_n_rage.r06	012a5bfe0c321c6461e0d854f6cbc24c
+v-fight_n_rage.r07	473db8f3ac036be4f8ba521a95ffa64a
+v-fight_n_rage.r08	969c4e54772090f8da91d4537ddecdd3
+v-fight_n_rage.rar	401c4de73d26371e8223e67f342ef111
+v-fight_n_rage.sfv	84a47a3bd079d064a755028b1b67e12f

@@ -1,0 +1,6 @@
+sxs-silver_falls_guardians_and_metal_exterminators_s.nfo	341612d8
+sxs-silver_falls_guardians_and_metal_exterminators_s.r00	cc88f4de
+sxs-silver_falls_guardians_and_metal_exterminators_s.r01	d278d8c5
+sxs-silver_falls_guardians_and_metal_exterminators_s.r02	c7d17bde
+sxs-silver_falls_guardians_and_metal_exterminators_s.rar	f9e18ffc
+sxs-silver_falls_guardians_and_metal_exterminators_s.sfv	17f77b15

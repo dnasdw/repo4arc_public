@@ -1,0 +1,4 @@
+sxs-one_escape.nfo	-	4886	1	0	0	0
+sxs-one_escape.r00	-	8427252	1	4886	0	1
+sxs-one_escape.rar	-	50000000	1	8432138	0	10
+sxs-one_escape.sfv	-	58	1	58432138	0	58

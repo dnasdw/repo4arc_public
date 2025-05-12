@@ -1,0 +1,6 @@
+v-fight_of_animals_v65536.nfo	-	4342	1	0	0	0
+v-fight_of_animals_v65536.r00	-	50000000	1	4342	0	1
+v-fight_of_animals_v65536.r01	-	50000000	1	50004342	0	49
+v-fight_of_animals_v65536.r02	-	49008855	1	100004342	0	97
+v-fight_of_animals_v65536.rar	-	50000000	1	149013197	0	144
+v-fight_of_animals_v65536.sfv	-	160	1	199013197	0	192

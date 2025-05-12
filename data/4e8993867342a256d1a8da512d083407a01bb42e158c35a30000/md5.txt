@@ -1,0 +1,5 @@
+sxs-agatha_knife_v262144.nfo	5440b2e5b1a66c940d40ed2fce7860a0
+sxs-agatha_knife_v262144.r00	efc307d139b05d3632bdc367b3038758
+sxs-agatha_knife_v262144.r01	011b59ea037f607a2649236cb97b851c
+sxs-agatha_knife_v262144.rar	48727685f7f0d36908fefadf0f4e7a96
+sxs-agatha_knife_v262144.sfv	df0b66198067c589fefad16b9d86d8d4

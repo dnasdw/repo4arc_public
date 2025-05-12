@@ -1,0 +1,6 @@
+lfc-grandprixstory.nfo	79aa0225
+lfc-grandprixstory.r00	7eb2b83c
+lfc-grandprixstory.r01	e2503c24
+lfc-grandprixstory.r02	af2172a6
+lfc-grandprixstory.rar	7a669e29
+lfc-grandprixstory.sfv	45300533

@@ -1,0 +1,5 @@
+sxs-ghost_sweeper_v196608.nfo	-	7070	1	0	0	0
+sxs-ghost_sweeper_v196608.r00	-	50000000	1	7070	0	1
+sxs-ghost_sweeper_v196608.r01	-	7937967	1	50007070	0	49
+sxs-ghost_sweeper_v196608.rar	-	50000000	1	57945037	0	57
+sxs-ghost_sweeper_v196608.sfv	-	120	1	107945037	0	105

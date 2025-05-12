@@ -1,0 +1,5 @@
+lfc-carmechanicmanager.nfo	d1ddf1d753614dba8b4fb45c88c8fdc7bcea0945
+lfc-carmechanicmanager.r00	ea807e520fc40470218c82acc341ba96be778adb
+lfc-carmechanicmanager.r01	d4fcd3e4e524b23bf2e885afeb26994a0b84a420
+lfc-carmechanicmanager.rar	bfcb4eafe38ddf26a7c213c5d29ff230aca3ba0a
+lfc-carmechanicmanager.sfv	6dfa1fcee8bd8412292165e27bc91eea95f98e26

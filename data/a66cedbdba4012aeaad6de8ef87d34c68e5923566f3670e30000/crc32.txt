@@ -1,0 +1,7 @@
+sxs-zombie_football_simulator.nfo	37957513
+sxs-zombie_football_simulator.r00	775a6345
+sxs-zombie_football_simulator.r01	e52edff9
+sxs-zombie_football_simulator.r02	95cf91dc
+sxs-zombie_football_simulator.r03	0e199c0f
+sxs-zombie_football_simulator.rar	e656ffef
+sxs-zombie_football_simulator.sfv	24bb035d

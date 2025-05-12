@@ -1,0 +1,9 @@
+darkmoon-disease.hidden.object.eshop.nsw.nfo	6b73d14ff7fef4f979a4f74659908091
+darkmoon-disease.hidden.object.eshop.nsw.r00	c136f87bc4cfeecdeb4a6230a25c06c5
+darkmoon-disease.hidden.object.eshop.nsw.r01	65b169118cc14094558c6b8265680284
+darkmoon-disease.hidden.object.eshop.nsw.r02	330755b44751d4b10590c0a73edcd836
+darkmoon-disease.hidden.object.eshop.nsw.r03	252c732df40dad171cefc212190b2eab
+darkmoon-disease.hidden.object.eshop.nsw.r04	90ca6d09f666677bd47abba7d42f056e
+darkmoon-disease.hidden.object.eshop.nsw.r05	7e9b9e59baae391e87def1ab21592b9c
+darkmoon-disease.hidden.object.eshop.nsw.rar	6089e5333215c4c7e66579a8a4fce854
+darkmoon-disease.hidden.object.eshop.nsw.sfv	72797a677e57e4126cbd3f0f31e5ed01

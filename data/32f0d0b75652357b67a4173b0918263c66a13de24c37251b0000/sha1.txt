@@ -1,0 +1,8 @@
+lfc-viwo.nfo	cddc0bb832fe582022bf74e992eaa4e34b0fe4f8
+lfc-viwo.r00	d9bad05e9e2c8c82fc623f953b7aaca237acfbbd
+lfc-viwo.r01	5e9f2e62def63fbcbf67d3dc227af1a6e2df25c5
+lfc-viwo.r02	114885070ab75ebff96290e3e0ff058fea90a1c5
+lfc-viwo.r03	6933235439f5cc5ae0b8a7ea992277b735adc5dd
+lfc-viwo.r04	d15e17d72e69312734ad38b0df68eff64f23ec4d
+lfc-viwo.rar	132fff11a14fdd84e0a2831df47216a2f95d0e2a
+lfc-viwo.sfv	d47a64511eed17c55f0965d299608efcd4085937

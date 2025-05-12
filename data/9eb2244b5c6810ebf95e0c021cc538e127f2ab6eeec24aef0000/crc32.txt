@@ -1,0 +1,9 @@
+sxs-ding_dong_xl_v262144.nfo	94fd79ab
+sxs-ding_dong_xl_v262144.r00	9f13eba0
+sxs-ding_dong_xl_v262144.r01	45c0bc28
+sxs-ding_dong_xl_v262144.r02	463a97a8
+sxs-ding_dong_xl_v262144.r03	9c048d26
+sxs-ding_dong_xl_v262144.r04	2e9eb66f
+sxs-ding_dong_xl_v262144.r05	f24bc1c4
+sxs-ding_dong_xl_v262144.rar	2ca7e9dd
+sxs-ding_dong_xl_v262144.sfv	b725c52a

@@ -1,0 +1,5 @@
+sxs-hidden_through_time_2_myths_and_magic_v131072.nfo	-	6758	1	0	0	0
+sxs-hidden_through_time_2_myths_and_magic_v131072.r00	-	100000000	1	6758	0	1
+sxs-hidden_through_time_2_myths_and_magic_v131072.r01	-	89023106	1	100006758	0	97
+sxs-hidden_through_time_2_myths_and_magic_v131072.rar	-	100000000	1	189029864	0	182
+sxs-hidden_through_time_2_myths_and_magic_v131072.sfv	-	192	1	289029864	0	278

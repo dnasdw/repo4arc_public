@@ -1,0 +1,4 @@
+sxs-lil_guardsman_v65536.nfo	4e0c7d16
+sxs-lil_guardsman_v65536.r00	5d9b143e
+sxs-lil_guardsman_v65536.rar	be012365
+sxs-lil_guardsman_v65536.sfv	ae545334

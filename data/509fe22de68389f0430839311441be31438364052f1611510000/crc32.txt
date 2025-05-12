@@ -1,0 +1,15 @@
+v-spopar_v131072.nfo	7af3178e
+v-spopar_v131072.r00	84ebf033
+v-spopar_v131072.r01	5a0e721f
+v-spopar_v131072.r02	75f5a39c
+v-spopar_v131072.r03	23e10073
+v-spopar_v131072.r04	3bf9726a
+v-spopar_v131072.r05	2f4d6c69
+v-spopar_v131072.r06	c3b3aa38
+v-spopar_v131072.r07	a5f5a5da
+v-spopar_v131072.r08	6d64654c
+v-spopar_v131072.r09	a0557e62
+v-spopar_v131072.r10	8a0ffa8d
+v-spopar_v131072.r11	9acf9d66
+v-spopar_v131072.rar	466ec297
+v-spopar_v131072.sfv	99d7445e

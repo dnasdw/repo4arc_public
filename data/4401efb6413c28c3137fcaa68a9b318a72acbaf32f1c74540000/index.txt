@@ -1,0 +1,3 @@
+v-outer_wilds_echoes_of_the_eye_dlc.nfo	-	6460	1	0	0	0
+v-outer_wilds_echoes_of_the_eye_dlc.rar	-	124412	1	6460	0	1
+v-outer_wilds_echoes_of_the_eye_dlc.sfv	-	50	1	130872	0	2

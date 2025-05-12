@@ -1,0 +1,9 @@
+sxs-gordian_quest_v65536.nfo	-	7944	1	0	0	0
+sxs-gordian_quest_v65536.r00	-	100000000	1	7944	0	1
+sxs-gordian_quest_v65536.r01	-	100000000	1	100007944	0	97
+sxs-gordian_quest_v65536.r02	-	100000000	1	200007944	0	193
+sxs-gordian_quest_v65536.r03	-	100000000	1	300007944	0	289
+sxs-gordian_quest_v65536.r04	-	100000000	1	400007944	0	385
+sxs-gordian_quest_v65536.r05	-	89989266	1	500007944	0	481
+sxs-gordian_quest_v65536.rar	-	100000000	1	52240530	1	50
+sxs-gordian_quest_v65536.sfv	-	273	1	152240530	1	146

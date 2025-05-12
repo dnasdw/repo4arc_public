@@ -1,0 +1,4 @@
+sxs-blaster_master_zero_3_v196608.nfo	3fd5ed85df42f07d09a2546ca76942c0
+sxs-blaster_master_zero_3_v196608.r00	1d76d417435a5bd51508d3b6b8d958ea
+sxs-blaster_master_zero_3_v196608.rar	142a6de4ebd45f1d82b35a88bd066545
+sxs-blaster_master_zero_3_v196608.sfv	bd61975f1c697aeeecf7a93f754ae4ff

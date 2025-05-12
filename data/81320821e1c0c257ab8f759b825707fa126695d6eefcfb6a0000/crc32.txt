@@ -1,0 +1,15 @@
+v-rad_v131072.nfo	540dc485
+v-rad_v131072.r00	b607ac84
+v-rad_v131072.r01	03ade2cb
+v-rad_v131072.r02	71c937ac
+v-rad_v131072.r03	a33aac92
+v-rad_v131072.r04	163be36b
+v-rad_v131072.r05	3567657e
+v-rad_v131072.r06	f6c988bb
+v-rad_v131072.r07	9d1b67bd
+v-rad_v131072.r08	f87d38ec
+v-rad_v131072.r09	f7e60b50
+v-rad_v131072.r10	bd254c6b
+v-rad_v131072.r11	d6a02963
+v-rad_v131072.rar	baa6ad36
+v-rad_v131072.sfv	4bdd322e

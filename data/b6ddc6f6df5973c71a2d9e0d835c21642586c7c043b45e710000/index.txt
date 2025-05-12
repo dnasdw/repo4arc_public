@@ -1,0 +1,3 @@
+lfc-sgne.nfo	-	5620	1	0	0	0
+lfc-sgne.rar	-	38827415	1	5620	0	1
+lfc-sgne.sfv	-	23	1	38833035	0	39

@@ -1,0 +1,10 @@
+hr-arc4a.nfo	9a3f9614
+hr-arc4a.r00	957c0bd0
+hr-arc4a.r01	ef68f832
+hr-arc4a.r02	dfed2e66
+hr-arc4a.r03	08e962d4
+hr-arc4a.r04	24d1a14f
+hr-arc4a.r05	ffb51868
+hr-arc4a.r06	ef985e26
+hr-arc4a.rar	c97a3628
+hr-arc4a.sfv	236a29e2

@@ -1,0 +1,5 @@
+sxs-super_adventure_hand.nfo	-	4886	1	0	0	0
+sxs-super_adventure_hand.r00	-	100000000	1	4886	0	1
+sxs-super_adventure_hand.r01	-	36825553	1	100004886	0	97
+sxs-super_adventure_hand.rar	-	100000000	1	136830439	0	133
+sxs-super_adventure_hand.sfv	-	117	1	236830439	0	229

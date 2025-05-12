@@ -1,0 +1,3 @@
+sxs-smdjp_v196608.nfo	-	4731	1	0	0	0
+sxs-smdjp_v196608.rar	-	44336877	1	4731	0	1
+sxs-smdjp_v196608.sfv	-	32	1	44341608	0	44

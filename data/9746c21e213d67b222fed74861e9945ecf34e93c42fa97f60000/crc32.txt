@@ -1,0 +1,9 @@
+v-ninja_or_die_shadow_of_the_sun.nfo	9957d984
+v-ninja_or_die_shadow_of_the_sun.r00	c3df2619
+v-ninja_or_die_shadow_of_the_sun.r01	d5f90084
+v-ninja_or_die_shadow_of_the_sun.r02	7a370c81
+v-ninja_or_die_shadow_of_the_sun.r03	ab2a65c8
+v-ninja_or_die_shadow_of_the_sun.r04	69dd439b
+v-ninja_or_die_shadow_of_the_sun.r05	1855505e
+v-ninja_or_die_shadow_of_the_sun.rar	03d94267
+v-ninja_or_die_shadow_of_the_sun.sfv	2317f51c

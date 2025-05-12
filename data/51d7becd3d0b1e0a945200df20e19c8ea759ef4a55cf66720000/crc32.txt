@@ -1,0 +1,16 @@
+sxs-action_arcade_wrestling_v131072.nfo	bbbed18f
+sxs-action_arcade_wrestling_v131072.r00	6526ec3b
+sxs-action_arcade_wrestling_v131072.r01	e4833960
+sxs-action_arcade_wrestling_v131072.r02	b0a241ab
+sxs-action_arcade_wrestling_v131072.r03	7c00e0b2
+sxs-action_arcade_wrestling_v131072.r04	27c3fe69
+sxs-action_arcade_wrestling_v131072.r05	ee18d880
+sxs-action_arcade_wrestling_v131072.r06	0f4e80cd
+sxs-action_arcade_wrestling_v131072.r07	12f08c53
+sxs-action_arcade_wrestling_v131072.r08	207ce908
+sxs-action_arcade_wrestling_v131072.r09	35667d76
+sxs-action_arcade_wrestling_v131072.r10	155cc6d6
+sxs-action_arcade_wrestling_v131072.r11	03e885eb
+sxs-action_arcade_wrestling_v131072.r12	fea8a96d
+sxs-action_arcade_wrestling_v131072.rar	66ea3640
+sxs-action_arcade_wrestling_v131072.sfv	4eb04b2e

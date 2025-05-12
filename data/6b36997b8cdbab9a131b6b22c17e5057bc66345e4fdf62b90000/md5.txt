@@ -1,0 +1,4 @@
+sxs-hatup.nfo	07f1593bd007497be42db5c45013f29a
+sxs-hatup.r00	3d284d57c627024b262d10c7de2b6871
+sxs-hatup.rar	bc056faebc917076888ba4330bf30df1
+sxs-hatup.sfv	c19bc8d4fc8e8b430123a274e56662e1

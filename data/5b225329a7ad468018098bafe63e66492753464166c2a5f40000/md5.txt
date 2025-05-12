@@ -1,0 +1,4 @@
+sxs-aldred_knight_of_honor_v131072.nfo	70f37cb13dfbb0452191cc8780d8c29a
+sxs-aldred_knight_of_honor_v131072.r00	a719674e7e407dd2c5121626888c023d
+sxs-aldred_knight_of_honor_v131072.rar	3e1ccd6bad7da624d462ae889c99e195
+sxs-aldred_knight_of_honor_v131072.sfv	30119a516d5890216c795765dda73a79

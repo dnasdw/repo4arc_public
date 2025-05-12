@@ -1,0 +1,9 @@
+sxs-korg_gadget_v524288.nfo	e912ec95
+sxs-korg_gadget_v524288.r00	ae372aa2
+sxs-korg_gadget_v524288.r01	6e3e7ba5
+sxs-korg_gadget_v524288.r02	34a4b36f
+sxs-korg_gadget_v524288.r03	a203cce9
+sxs-korg_gadget_v524288.r04	a51eda98
+sxs-korg_gadget_v524288.r05	fff77b0c
+sxs-korg_gadget_v524288.rar	2ff3d431
+sxs-korg_gadget_v524288.sfv	ec2f4084

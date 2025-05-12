@@ -1,0 +1,6 @@
+v-80s_overdrive.nfo	-	4810	1	0	0	0
+v-80s_overdrive.r00	-	50000000	1	4810	0	1
+v-80s_overdrive.r01	-	50000000	1	50004810	0	49
+v-80s_overdrive.r02	-	33128870	1	100004810	0	97
+v-80s_overdrive.rar	-	50000000	1	133133680	0	129
+v-80s_overdrive.sfv	-	120	1	183133680	0	177

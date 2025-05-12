@@ -1,0 +1,4 @@
+sxs-graze_counter_gm_v262144.nfo	20f91880
+sxs-graze_counter_gm_v262144.r00	54274829
+sxs-graze_counter_gm_v262144.rar	d6a56ced
+sxs-graze_counter_gm_v262144.sfv	aece6470

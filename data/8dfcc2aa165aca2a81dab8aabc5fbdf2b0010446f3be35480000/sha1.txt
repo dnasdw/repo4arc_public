@@ -1,0 +1,3 @@
+sxs-monster_truck_championship_dlc.nfo	b913f091bf809e528a467fc8a1599e562279851a
+sxs-monster_truck_championship_dlc.rar	121c2adb1670f08ea4b64d4789c05bca26b1df39
+sxs-monster_truck_championship_dlc.sfv	68ebbd3ed50df86b6f1152eda0050d7b8531dd4b

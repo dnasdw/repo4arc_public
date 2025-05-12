@@ -1,0 +1,3 @@
+sxs-digimon_survive_dlc.nfo	-	4886	1	0	0	0
+sxs-digimon_survive_dlc.rar	-	623487	1	4886	0	1
+sxs-digimon_survive_dlc.sfv	-	38	1	628373	0	2

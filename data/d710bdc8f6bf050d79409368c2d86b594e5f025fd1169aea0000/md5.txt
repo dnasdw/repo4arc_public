@@ -1,0 +1,5 @@
+sxs-kingdom_new_lands_v196608.nfo	d9c2e12eb046b55206a84df296b2d436
+sxs-kingdom_new_lands_v196608.r00	eef9468bcc18453eec4fce949bdf4f86
+sxs-kingdom_new_lands_v196608.r01	7f0168457070feeb2c58103ffb761439
+sxs-kingdom_new_lands_v196608.rar	893010e1fb2a0bf5bdd7d3be03aa0395
+sxs-kingdom_new_lands_v196608.sfv	66e34da580a4299deac11a68673b299b

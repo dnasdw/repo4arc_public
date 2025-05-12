@@ -1,0 +1,12 @@
+sxs-azure_striker_gunvolt_striker_pack_v393216.nfo	-	5199	1	0	0	0
+sxs-azure_striker_gunvolt_striker_pack_v393216.r00	-	50000000	1	5199	0	1
+sxs-azure_striker_gunvolt_striker_pack_v393216.r01	-	50000000	1	50005199	0	49
+sxs-azure_striker_gunvolt_striker_pack_v393216.r02	-	50000000	1	100005199	0	97
+sxs-azure_striker_gunvolt_striker_pack_v393216.r03	-	50000000	1	150005199	0	145
+sxs-azure_striker_gunvolt_striker_pack_v393216.r04	-	50000000	1	200005199	0	193
+sxs-azure_striker_gunvolt_striker_pack_v393216.r05	-	50000000	1	250005199	0	241
+sxs-azure_striker_gunvolt_striker_pack_v393216.r06	-	50000000	1	300005199	0	289
+sxs-azure_striker_gunvolt_striker_pack_v393216.r07	-	50000000	1	350005199	0	337
+sxs-azure_striker_gunvolt_striker_pack_v393216.r08	-	48572892	1	400005199	0	385
+sxs-azure_striker_gunvolt_striker_pack_v393216.rar	-	50000000	1	448578091	0	432
+sxs-azure_striker_gunvolt_striker_pack_v393216.sfv	-	610	1	498578091	0	480

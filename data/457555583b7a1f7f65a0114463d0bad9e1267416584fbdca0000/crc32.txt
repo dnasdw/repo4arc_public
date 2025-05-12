@@ -1,0 +1,15 @@
+hr-atc5a.nfo	4998b4eb
+hr-atc5a.r00	84a39b7a
+hr-atc5a.r01	a10b752f
+hr-atc5a.r02	80ac09b6
+hr-atc5a.r03	fa422352
+hr-atc5a.r04	25e1531b
+hr-atc5a.r05	56a93f2b
+hr-atc5a.r06	0859e937
+hr-atc5a.r07	f01b5586
+hr-atc5a.r08	8d91fa25
+hr-atc5a.r09	fe2c198e
+hr-atc5a.r10	f6a5584a
+hr-atc5a.r11	d1ed18d1
+hr-atc5a.rar	4ac49ced
+hr-atc5a.sfv	becb11fb

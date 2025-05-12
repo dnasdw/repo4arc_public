@@ -1,0 +1,4 @@
+sxs-this_is_the_police_v65536.nfo	-	3716	1	0	0	0
+sxs-this_is_the_police_v65536.r00	-	7074411	1	3716	0	1
+sxs-this_is_the_police_v65536.rar	-	100000000	1	7078127	0	8
+sxs-this_is_the_police_v65536.sfv	-	88	1	107078127	0	104

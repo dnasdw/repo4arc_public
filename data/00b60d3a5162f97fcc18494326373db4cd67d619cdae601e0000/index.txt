@@ -1,0 +1,3 @@
+sxs-spiral_splatter_v65536.nfo	-	5042	1	0	0	0
+sxs-spiral_splatter_v65536.rar	-	45517863	1	5042	0	1
+sxs-spiral_splatter_v65536.sfv	-	41	1	45522905	0	45

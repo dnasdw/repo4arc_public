@@ -1,0 +1,4 @@
+bbb-n-al5ca.nfo	-	5517	1	0	0	0
+bbb-n-al5ca.part1.rar	-	250000000	1	5517	0	1
+bbb-n-al5ca.part2.rar	-	96844791	1	250005517	0	240
+bbb-n-al5ca.sfv	-	64	1	346850308	0	333

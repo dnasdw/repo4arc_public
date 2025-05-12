@@ -1,0 +1,7 @@
+jrp-n-fs.nfo	9bf64453a4a47ec79362fcc2c7ee2877
+jrp-n-fs.r00	4e117c4fa6c893e5615963255154c2fd
+jrp-n-fs.r01	3d993d0e58cff4b4d920d5e418c902b1
+jrp-n-fs.r02	f3772197d537496688e1216dc6040362
+jrp-n-fs.r03	b40dd939a499ed47feb6a73d20c574f7
+jrp-n-fs.rar	c96e72a42c1c1efca49bf0b3322ab824
+jrp-n-fs.sfv	aee57cd30015b7d936acddec89dce03d

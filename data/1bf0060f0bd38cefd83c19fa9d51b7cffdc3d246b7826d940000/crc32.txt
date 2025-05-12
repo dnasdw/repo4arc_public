@@ -1,0 +1,12 @@
+hr-axgnav65536.nfo	7a9b5a3f
+hr-axgnav65536.r00	9eec27b7
+hr-axgnav65536.r01	5c7f0de4
+hr-axgnav65536.r02	cd22c0fb
+hr-axgnav65536.r03	360b41fe
+hr-axgnav65536.r04	a43417a8
+hr-axgnav65536.r05	754b768e
+hr-axgnav65536.r06	cae832a9
+hr-axgnav65536.r07	b2c1da49
+hr-axgnav65536.r08	c0aea06b
+hr-axgnav65536.rar	125c91f9
+hr-axgnav65536.sfv	b1c4a7f0

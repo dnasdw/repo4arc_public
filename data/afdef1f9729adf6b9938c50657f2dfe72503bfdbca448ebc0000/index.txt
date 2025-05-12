@@ -1,0 +1,5 @@
+sxs-defentron_v131072.nfo	-	4652	1	0	0	0
+sxs-defentron_v131072.r00	-	50000000	1	4652	0	1
+sxs-defentron_v131072.r01	-	7251348	1	50004652	0	49
+sxs-defentron_v131072.rar	-	50000000	1	57256000	0	56
+sxs-defentron_v131072.sfv	-	108	1	107256000	0	104

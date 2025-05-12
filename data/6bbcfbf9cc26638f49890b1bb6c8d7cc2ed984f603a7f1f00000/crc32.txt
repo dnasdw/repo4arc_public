@@ -1,0 +1,5 @@
+sxs-pixel_puzzle_makeout_league_v196608.nfo	6d5b64eb
+sxs-pixel_puzzle_makeout_league_v196608.r00	bb8ecce7
+sxs-pixel_puzzle_makeout_league_v196608.r01	f653f058
+sxs-pixel_puzzle_makeout_league_v196608.rar	670c8edd
+sxs-pixel_puzzle_makeout_league_v196608.sfv	c4f18c3f

@@ -1,0 +1,10 @@
+sxs-datejournal_demo.nfo	-	5276	1	0	0	0
+sxs-datejournal_demo.r00	-	100000000	1	5276	0	1
+sxs-datejournal_demo.r01	-	100000000	1	100005276	0	97
+sxs-datejournal_demo.r02	-	100000000	1	200005276	0	193
+sxs-datejournal_demo.r03	-	100000000	1	300005276	0	289
+sxs-datejournal_demo.r04	-	100000000	1	400005276	0	385
+sxs-datejournal_demo.r05	-	100000000	1	500005276	0	481
+sxs-datejournal_demo.r06	-	11145685	1	62251264	1	60
+sxs-datejournal_demo.rar	-	100000000	1	73396949	1	71
+sxs-datejournal_demo.sfv	-	280	1	173396949	1	167

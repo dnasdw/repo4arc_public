@@ -1,0 +1,8 @@
+sxs-beholder_v65536.nfo	1c09a644
+sxs-beholder_v65536.r00	d543d0b7
+sxs-beholder_v65536.r01	be749dbf
+sxs-beholder_v65536.r02	5b1be030
+sxs-beholder_v65536.r03	80bdc730
+sxs-beholder_v65536.r04	0c7a5600
+sxs-beholder_v65536.rar	d2a3cf08
+sxs-beholder_v65536.sfv	258cb5ed

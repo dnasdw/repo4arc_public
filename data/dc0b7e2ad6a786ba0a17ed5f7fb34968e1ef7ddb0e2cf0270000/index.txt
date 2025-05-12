@@ -1,0 +1,13 @@
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.nfo	-	5978	1	0	0	0
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.r00	-	100000000	1	5978	0	1
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.r01	-	100000000	1	100005978	0	97
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.r02	-	100000000	1	200005978	0	193
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.r03	-	100000000	1	300005978	0	289
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.r04	-	100000000	1	400005978	0	385
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.r05	-	100000000	1	500005978	0	481
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.r06	-	100000000	1	62251264	1	60
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.r07	-	100000000	1	162251264	1	156
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.r08	-	100000000	1	262251264	1	252
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.r09	-	37591038	1	362251264	1	348
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.rar	-	100000000	1	399842302	1	384
+sxs-naruto_x_boruto_ultimate_ninja_storm_connections_multi4_v196608.sfv	-	902	1	499842302	1	480

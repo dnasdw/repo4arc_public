@@ -1,0 +1,9 @@
+sxs-enoh_v131072.nfo	bec6049e
+sxs-enoh_v131072.r00	e462619e
+sxs-enoh_v131072.r01	663b81dd
+sxs-enoh_v131072.r02	2286d281
+sxs-enoh_v131072.r03	8f329324
+sxs-enoh_v131072.r04	e5d108d4
+sxs-enoh_v131072.r05	305f73c4
+sxs-enoh_v131072.rar	b13e663b
+sxs-enoh_v131072.sfv	b4ada184

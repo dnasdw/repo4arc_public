@@ -1,0 +1,5 @@
+bbb-n-acgna.nfo	633e3604d7c700dac86d137bd3b4bf89f14f34c5c1ab16fba60e7a79d1874334
+bbb-n-acgna.part1.rar	9310b62eeae52b7b7ba7988f5ba78f42ca5f45a2658bdd89be0764c1d9d84ffd
+bbb-n-acgna.part2.rar	24c5ab7fde1f6dac3a868124daf3799e0c8a0357b502c27e9d073c494e899944
+bbb-n-acgna.part3.rar	a44ce5e60a4c37cae652e098ab36c26c6d4076d695f7becf5a33202c80ade0b1
+bbb-n-acgna.sfv	c81f210d5bd42ae2315dcd8738f83ec2af6e60a677b5c082a7c9e883e33e66ec

@@ -1,0 +1,4 @@
+sxs-behold_the_kickmen_v65536.nfo	e8910948
+sxs-behold_the_kickmen_v65536.r00	ebca1924
+sxs-behold_the_kickmen_v65536.rar	5b6d1294
+sxs-behold_the_kickmen_v65536.sfv	e92b3389

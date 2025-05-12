@@ -1,0 +1,11 @@
+sxs-dungeon_munchies_v196608.nfo	c3df2fc1
+sxs-dungeon_munchies_v196608.r00	a9ecf7b0
+sxs-dungeon_munchies_v196608.r01	67b5ae33
+sxs-dungeon_munchies_v196608.r02	024ff9b0
+sxs-dungeon_munchies_v196608.r03	4513f9c6
+sxs-dungeon_munchies_v196608.r04	fa2a2f49
+sxs-dungeon_munchies_v196608.r05	5c8128ba
+sxs-dungeon_munchies_v196608.r06	0065ce31
+sxs-dungeon_munchies_v196608.r07	cbf98a60
+sxs-dungeon_munchies_v196608.rar	b866142b
+sxs-dungeon_munchies_v196608.sfv	ccb49baf

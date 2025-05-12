@@ -1,0 +1,5 @@
+bbb-n-amlma.nfo	-	5517	1	0	0	0
+bbb-n-amlma.part1.rar	-	250000000	1	5517	0	1
+bbb-n-amlma.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-amlma.part3.rar	-	128794285	1	500005517	0	479
+bbb-n-amlma.sfv	-	96	1	91045549	1	87

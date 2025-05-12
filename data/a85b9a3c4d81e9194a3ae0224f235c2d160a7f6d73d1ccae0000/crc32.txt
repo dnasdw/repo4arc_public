@@ -1,0 +1,5 @@
+v-moto_rush_gt_v65536.nfo	0116eb80
+v-moto_rush_gt_v65536.r00	42f92a0a
+v-moto_rush_gt_v65536.r01	733fb336
+v-moto_rush_gt_v65536.rar	0a40873a
+v-moto_rush_gt_v65536.sfv	bff1e58e

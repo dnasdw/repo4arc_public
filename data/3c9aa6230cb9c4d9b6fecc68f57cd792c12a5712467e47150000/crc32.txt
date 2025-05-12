@@ -1,0 +1,16 @@
+lfc-ggac2.nfo	c5d52bc8
+lfc-ggac2.r00	f413483c
+lfc-ggac2.r01	bf0d574e
+lfc-ggac2.r02	08483f17
+lfc-ggac2.r03	de0b5e04
+lfc-ggac2.r04	759d74e4
+lfc-ggac2.r05	5bcb0f22
+lfc-ggac2.r06	b86076e6
+lfc-ggac2.r07	49c3eae3
+lfc-ggac2.r08	f323da43
+lfc-ggac2.r09	4387ef0c
+lfc-ggac2.r10	29339bef
+lfc-ggac2.r11	329abf23
+lfc-ggac2.r12	98e7578c
+lfc-ggac2.rar	a0b0dbb9
+lfc-ggac2.sfv	b4187bf5

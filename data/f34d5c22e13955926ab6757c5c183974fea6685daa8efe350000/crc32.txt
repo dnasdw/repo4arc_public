@@ -1,0 +1,6 @@
+v-double_dragon_neon_v131072.nfo	f6238631
+v-double_dragon_neon_v131072.r00	1cac74a6
+v-double_dragon_neon_v131072.r01	5f210a5f
+v-double_dragon_neon_v131072.r02	755c129e
+v-double_dragon_neon_v131072.rar	3f484056
+v-double_dragon_neon_v131072.sfv	d621b2aa

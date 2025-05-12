@@ -1,0 +1,7 @@
+sxs-dreamland_solitaire.nfo	e1bc13f3431b26c734ce4f65dc16c30e
+sxs-dreamland_solitaire.r00	becbb7dc4d3e051b0ea06f6d1dca025d
+sxs-dreamland_solitaire.r01	a7cc352f10aba11adf2dbe8d72101545
+sxs-dreamland_solitaire.r02	373ebfb4563369e7c17c01b625ed3f31
+sxs-dreamland_solitaire.r03	2c7b6d38f5b25293ac86fb6ca67e0051
+sxs-dreamland_solitaire.rar	b168138221b4439fd492c3f9162a66e0
+sxs-dreamland_solitaire.sfv	f37f8b1b0b29adff7924cb08b6314654

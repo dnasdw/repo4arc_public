@@ -1,0 +1,5 @@
+sxs-sokolor.nfo	f87d8c75547aa968cbe23694a6dbcecd
+sxs-sokolor.r00	7a2781dd814a25195ef1d3f3a20f544e
+sxs-sokolor.r01	ad9ed563caff0f71f53f8336f9a53946
+sxs-sokolor.rar	bb142cc3e76832add763c0064313710d
+sxs-sokolor.sfv	eec1709c1f9d8c46cecf10fe94988860

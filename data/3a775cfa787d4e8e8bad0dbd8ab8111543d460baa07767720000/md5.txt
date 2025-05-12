@@ -1,0 +1,7 @@
+sxs-titans_pinball.nfo	7f01fc9bbb032ef5bb81e9e404770a50
+sxs-titans_pinball.r00	f97fd46b4594261cbe273298876b6c5b
+sxs-titans_pinball.r01	a89940198befd52f61116dc39b676737
+sxs-titans_pinball.r02	6055d73f353dde90376019f11eb580da
+sxs-titans_pinball.r03	e8f4a0b84f2c03e61e0056bfe3b04988
+sxs-titans_pinball.rar	0872fb2e8ec77be11a78f60346e6b30c
+sxs-titans_pinball.sfv	ed8a393d57fe44241a2ed382f2cdef50

@@ -1,0 +1,9 @@
+bbb-h-afjwa.nfo	-	5517	1	0	0	0
+bbb-h-afjwa.part01.rar	-	250000000	1	5517	0	1
+bbb-h-afjwa.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-afjwa.part03.rar	-	250000000	1	500005517	0	479
+bbb-h-afjwa.part04.rar	-	250000000	1	212251264	1	203
+bbb-h-afjwa.part05.rar	-	250000000	1	462251264	1	442
+bbb-h-afjwa.part06.rar	-	250000000	1	174502528	2	167
+bbb-h-afjwa.part07.rar	-	157824698	1	424502528	2	406
+bbb-h-afjwa.sfv	-	231	1	44578490	3	43

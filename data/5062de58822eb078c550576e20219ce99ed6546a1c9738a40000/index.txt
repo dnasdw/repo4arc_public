@@ -1,0 +1,7 @@
+bbb-n-amhza.nfo	-	5517	1	0	0	0
+bbb-n-amhza.part1.rar	-	250000000	1	5517	0	1
+bbb-n-amhza.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-amhza.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-amhza.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-amhza.part5.rar	-	55990742	1	462251264	1	442
+bbb-n-amhza.sfv	-	160	1	518242006	1	496

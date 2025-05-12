@@ -1,0 +1,5 @@
+lfc-boxalign.nfo	5521b4c2ca89d23eee4864d582c2ab428c8cc5c6
+lfc-boxalign.r00	33e78a4f1c79ea9c6cbb90ce8a0a667719b12418
+lfc-boxalign.r01	0a9385cdd9abf5b6c8785e869268cf1abe74d798
+lfc-boxalign.rar	c229e21c894e1dfaeae66d1b60aba2e46392e020
+lfc-boxalign.sfv	ae980023a2e795265e7be2a00073580d6c024795

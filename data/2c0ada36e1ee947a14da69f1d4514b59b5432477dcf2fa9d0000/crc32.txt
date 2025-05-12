@@ -1,0 +1,7 @@
+sxs-grid_autosport_v327680.nfo	9764e6f8
+sxs-grid_autosport_v327680.r00	095e3221
+sxs-grid_autosport_v327680.r01	7db66864
+sxs-grid_autosport_v327680.r02	ce6bec8c
+sxs-grid_autosport_v327680.r03	66a17a2f
+sxs-grid_autosport_v327680.rar	a3f6a9e4
+sxs-grid_autosport_v327680.sfv	96ca3bf8

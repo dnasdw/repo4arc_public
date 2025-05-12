@@ -1,0 +1,7 @@
+sxs-wizard_hunter_the_end_of_the_magic_world.nfo	-	4730	1	0	0	0
+sxs-wizard_hunter_the_end_of_the_magic_world.r00	-	100000000	1	4730	0	1
+sxs-wizard_hunter_the_end_of_the_magic_world.r01	-	100000000	1	100004730	0	97
+sxs-wizard_hunter_the_end_of_the_magic_world.r02	-	100000000	1	200004730	0	193
+sxs-wizard_hunter_the_end_of_the_magic_world.r03	-	14377005	1	300004730	0	289
+sxs-wizard_hunter_the_end_of_the_magic_world.rar	-	100000000	1	314381735	0	303
+sxs-wizard_hunter_the_end_of_the_magic_world.sfv	-	295	1	414381735	0	399

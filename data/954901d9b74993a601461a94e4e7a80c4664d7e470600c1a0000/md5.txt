@@ -1,0 +1,10 @@
+sxs-theft_ride_legacy.nfo	a65886639b9579292ac67c9b4527d92e
+sxs-theft_ride_legacy.r00	6a272dcc1d30c8af7f49ad5f47ba7053
+sxs-theft_ride_legacy.r01	8f919437522072194dffce79d101ed7d
+sxs-theft_ride_legacy.r02	30adf62e2d3ad8629364c406c361f75e
+sxs-theft_ride_legacy.r03	11f211abd2f18428fdbfee92ca055562
+sxs-theft_ride_legacy.r04	baaf152e7afffc737385ff6c410f0f05
+sxs-theft_ride_legacy.r05	d78e41846e7aad75f44dc1987a5546e6
+sxs-theft_ride_legacy.r06	a90f457dec5bcfea20efe42feca4aeb9
+sxs-theft_ride_legacy.rar	b3f2d01eda730154f5e0c3c356973797
+sxs-theft_ride_legacy.sfv	82a06dc75168d34331ef10a378e9f1a8

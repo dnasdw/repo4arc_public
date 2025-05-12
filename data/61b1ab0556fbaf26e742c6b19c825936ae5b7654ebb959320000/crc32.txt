@@ -1,0 +1,9 @@
+sxs-pictoquest_v65536.nfo	e66b91bf
+sxs-pictoquest_v65536.r00	343b0c95
+sxs-pictoquest_v65536.r01	78cb900d
+sxs-pictoquest_v65536.r02	f731eb53
+sxs-pictoquest_v65536.r03	7fcaa197
+sxs-pictoquest_v65536.r04	4d55c33f
+sxs-pictoquest_v65536.r05	6e5f07cf
+sxs-pictoquest_v65536.rar	e671993b
+sxs-pictoquest_v65536.sfv	551730d8

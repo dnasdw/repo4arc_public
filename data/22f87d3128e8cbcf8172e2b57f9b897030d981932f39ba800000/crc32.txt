@@ -1,0 +1,6 @@
+nnssww_arcade_archives_assault.nfo	e6059230
+nnssww_arcade_archives_assault.r00	48bc527b
+nnssww_arcade_archives_assault.r01	3e6780a4
+nnssww_arcade_archives_assault.r02	db55df7e
+nnssww_arcade_archives_assault.rar	79856857
+nnssww_arcade_archives_assault.sfv	0dade7c2

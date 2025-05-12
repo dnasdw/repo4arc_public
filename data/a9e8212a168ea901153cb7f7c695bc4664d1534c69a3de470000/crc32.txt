@@ -1,0 +1,17 @@
+sxs-worms_wmd_v262144.nfo	70a326ae
+sxs-worms_wmd_v262144.r00	216d8b48
+sxs-worms_wmd_v262144.r01	242ef4d0
+sxs-worms_wmd_v262144.r02	29877050
+sxs-worms_wmd_v262144.r03	3ed6f48e
+sxs-worms_wmd_v262144.r04	a2983fc7
+sxs-worms_wmd_v262144.r05	f4d6d640
+sxs-worms_wmd_v262144.r06	6bc00c26
+sxs-worms_wmd_v262144.r07	7e34d2c9
+sxs-worms_wmd_v262144.r08	b967a2f8
+sxs-worms_wmd_v262144.r09	623a726f
+sxs-worms_wmd_v262144.r10	a9351d47
+sxs-worms_wmd_v262144.r11	1093f765
+sxs-worms_wmd_v262144.r12	9801ce07
+sxs-worms_wmd_v262144.r13	461156ae
+sxs-worms_wmd_v262144.rar	3fd011ba
+sxs-worms_wmd_v262144.sfv	aadce437

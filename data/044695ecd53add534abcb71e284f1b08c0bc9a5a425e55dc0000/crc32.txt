@@ -1,0 +1,11 @@
+v-cursed_to_golf_v131072.nfo	d9a7edcf
+v-cursed_to_golf_v131072.r00	d227d588
+v-cursed_to_golf_v131072.r01	603b9054
+v-cursed_to_golf_v131072.r02	b6ffb1b0
+v-cursed_to_golf_v131072.r03	b29b7f8d
+v-cursed_to_golf_v131072.r04	949df87d
+v-cursed_to_golf_v131072.r05	48f1a82c
+v-cursed_to_golf_v131072.r06	928b1b59
+v-cursed_to_golf_v131072.r07	7a73ff4d
+v-cursed_to_golf_v131072.rar	c47e0bf3
+v-cursed_to_golf_v131072.sfv	f421ed0d

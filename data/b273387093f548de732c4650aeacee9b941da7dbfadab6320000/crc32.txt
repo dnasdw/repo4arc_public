@@ -1,0 +1,12 @@
+sxs-treasure_stack_v262144.nfo	ab15c0cb
+sxs-treasure_stack_v262144.r00	a32544c1
+sxs-treasure_stack_v262144.r01	8501eae9
+sxs-treasure_stack_v262144.r02	81e2e1f6
+sxs-treasure_stack_v262144.r03	d2c7a232
+sxs-treasure_stack_v262144.r04	6333e59b
+sxs-treasure_stack_v262144.r05	fb55049b
+sxs-treasure_stack_v262144.r06	9b7ea35d
+sxs-treasure_stack_v262144.r07	6d4243e3
+sxs-treasure_stack_v262144.r08	59c42434
+sxs-treasure_stack_v262144.rar	ecaf0e6a
+sxs-treasure_stack_v262144.sfv	dfdbcaa8

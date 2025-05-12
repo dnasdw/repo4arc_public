@@ -1,0 +1,10 @@
+lfc-socr_v65536.nfo	2177b126
+lfc-socr_v65536.r00	3ed71b69
+lfc-socr_v65536.r01	4382dbb3
+lfc-socr_v65536.r02	b2f3ae59
+lfc-socr_v65536.r03	c13f03bb
+lfc-socr_v65536.r04	b33916cd
+lfc-socr_v65536.r05	e2f57a18
+lfc-socr_v65536.r06	b793fa73
+lfc-socr_v65536.rar	3350bd8c
+lfc-socr_v65536.sfv	b076ee6c

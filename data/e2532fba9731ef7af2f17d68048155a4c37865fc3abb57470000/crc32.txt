@@ -1,0 +1,13 @@
+sxs-horizon_chase_turbo_v327680.nfo	7ac01500
+sxs-horizon_chase_turbo_v327680.r00	f228b9ee
+sxs-horizon_chase_turbo_v327680.r01	3369d73b
+sxs-horizon_chase_turbo_v327680.r02	d8201795
+sxs-horizon_chase_turbo_v327680.r03	dabbc8d2
+sxs-horizon_chase_turbo_v327680.r04	4377d461
+sxs-horizon_chase_turbo_v327680.r05	be8757ac
+sxs-horizon_chase_turbo_v327680.r06	edd33be9
+sxs-horizon_chase_turbo_v327680.r07	360f7543
+sxs-horizon_chase_turbo_v327680.r08	e3d98b4f
+sxs-horizon_chase_turbo_v327680.r09	eb7e1b5c
+sxs-horizon_chase_turbo_v327680.rar	c1cbeaaa
+sxs-horizon_chase_turbo_v327680.sfv	37589e7f

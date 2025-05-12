@@ -1,0 +1,5 @@
+sxs-depixtion.nfo	488b197ac1a66717c626fdf2025f990c4571d673
+sxs-depixtion.r00	8b952ad80e7a4bd78830e0f5dbcb53d8e94c529f
+sxs-depixtion.r01	de3bbff2693702e92f1429c887d8df930ef5b586
+sxs-depixtion.rar	6098782404aa7888d0995c355e5558254d91afe4
+sxs-depixtion.sfv	2e51713c2175bf6a6540adc9acf2b23505b988f4

@@ -1,0 +1,5 @@
+lfc-popp.nfo	0f80840e77b7c7262961ebd4be0ff98dea2b86f2
+lfc-popp.r00	e1b5170f89ea6a9e85eddd1fa9422dfdfb549597
+lfc-popp.r01	2ecd2da6310812a8c99c99c7b95f7bb51c3d7335
+lfc-popp.rar	f6ee8a4fc8fa1da50b00b52868f3973d43207434
+lfc-popp.sfv	07338bc7efecb472e11b2c60844de06ed40dc330

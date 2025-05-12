@@ -1,0 +1,4 @@
+sxs-gibbous_a_cthulhu_adventure_v65536.nfo	-	3950	1	0	0	0
+sxs-gibbous_a_cthulhu_adventure_v65536.r00	-	49718712	1	3950	0	1
+sxs-gibbous_a_cthulhu_adventure_v65536.rar	-	50000000	1	49722662	0	49
+sxs-gibbous_a_cthulhu_adventure_v65536.sfv	-	106	1	99722662	0	97

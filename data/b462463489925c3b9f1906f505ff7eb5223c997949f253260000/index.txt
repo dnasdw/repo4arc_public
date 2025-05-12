@@ -1,0 +1,3 @@
+sxs-sonic_superstars_shadow_costume_for_sonic_dlc.nfo	-	6212	1	0	0	0
+sxs-sonic_superstars_shadow_costume_for_sonic_dlc.rar	-	27499989	1	6212	0	1
+sxs-sonic_superstars_shadow_costume_for_sonic_dlc.sfv	-	64	1	27506201	0	28

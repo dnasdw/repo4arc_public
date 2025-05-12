@@ -1,0 +1,4 @@
+sxs-bass_pro_shops_the_strike_ce_v262144.nfo	-	4496	1	0	0	0
+sxs-bass_pro_shops_the_strike_ce_v262144.r00	-	39814881	1	4496	0	1
+sxs-bass_pro_shops_the_strike_ce_v262144.rar	-	50000000	1	39819377	0	39
+sxs-bass_pro_shops_the_strike_ce_v262144.sfv	-	110	1	89819377	0	87

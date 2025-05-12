@@ -1,0 +1,12 @@
+delight.nfo	5901c2dbffc5e9520f828097fbf2f32c
+dl-mechrage.r00	50b60ba3c43deddc7d72225791b74a25
+dl-mechrage.r01	c199010b72008782bacf9e8f073d6860
+dl-mechrage.r02	2f714dfa85ecd13c878527c9f2bc9470
+dl-mechrage.r03	0654a7c48b769115c6fe92220774d17b
+dl-mechrage.r04	4f5cf95409b95eaa867421d8468706ed
+dl-mechrage.r05	b3bf9f5498189867ce16ca0fe238d147
+dl-mechrage.r06	6b47331c92423a750f06574b9f75b2ba
+dl-mechrage.r07	3f4efa265dd06e800941bb0c8b1a6d33
+dl-mechrage.r08	bcddc551b51a3cdfddd58b8bb6acda9c
+dl-mechrage.rar	b0a9a7c5b51aa8d6a76fe0ecc1a207d6
+dl-mechrage.sfv	abb7f065281cc287b89f5388ad4fc258

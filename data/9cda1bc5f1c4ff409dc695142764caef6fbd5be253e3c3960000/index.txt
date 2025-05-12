@@ -1,0 +1,4 @@
+lfc-bck6a_updates.nfo	-	9117	1	0	0	0
+lfc-bck6a_updates.r00	-	34374607	1	9117	0	1
+lfc-bck6a_updates.rar	-	50000000	1	34383724	0	34
+lfc-bck6a_updates.sfv	-	64	1	84383724	0	82

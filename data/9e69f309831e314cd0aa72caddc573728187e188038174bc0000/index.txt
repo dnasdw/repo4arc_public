@@ -1,0 +1,5 @@
+v-shantae_and_the_seven_sirens_v196608.nfo	-	5278	1	0	0	0
+v-shantae_and_the_seven_sirens_v196608.r00	-	50000000	1	5278	0	1
+v-shantae_and_the_seven_sirens_v196608.r01	-	15088405	1	50005278	0	49
+v-shantae_and_the_seven_sirens_v196608.rar	-	50000000	1	65093683	0	64
+v-shantae_and_the_seven_sirens_v196608.sfv	-	159	1	115093683	0	112

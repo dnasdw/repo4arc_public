@@ -1,0 +1,10 @@
+v-clue.nfo	5805459f
+v-clue.r00	23432516
+v-clue.r01	f9a26d23
+v-clue.r02	04f27c89
+v-clue.r03	41095a2d
+v-clue.r04	b84e812a
+v-clue.r05	302af121
+v-clue.r06	435f2da0
+v-clue.rar	7642b923
+v-clue.sfv	c54ccc80

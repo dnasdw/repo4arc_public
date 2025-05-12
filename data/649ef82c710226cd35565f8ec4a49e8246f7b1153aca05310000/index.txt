@@ -1,0 +1,3 @@
+collected-a45yb-dlc.nfo	-	1124	1	0	0	0
+collected-a45yb-dlc.rar	-	475426	1	1124	0	1
+collected-a45yb-dlc.sfv	-	34	1	476550	0	2

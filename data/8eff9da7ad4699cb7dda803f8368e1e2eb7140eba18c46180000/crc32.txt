@@ -1,0 +1,5 @@
+w-forager.nfo	7b15bfee
+w-forager.r00	dc6a3088
+w-forager.r01	b383dec9
+w-forager.rar	dfb4c7e7
+w-forager.sfv	e3487c6c

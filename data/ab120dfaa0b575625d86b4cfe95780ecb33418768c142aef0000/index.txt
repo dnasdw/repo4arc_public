@@ -1,0 +1,4 @@
+sxs-sector_781.nfo	-	3716	1	0	0	0
+sxs-sector_781.r00	-	13396831	1	3716	0	1
+sxs-sector_781.rar	-	50000000	1	13400547	0	14
+sxs-sector_781.sfv	-	58	1	63400547	0	62

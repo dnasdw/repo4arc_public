@@ -1,0 +1,15 @@
+sxs-farm_mystery.nfo	c708e98ada287c6a3abbdc35a4dee343
+sxs-farm_mystery.r00	5ef0ea98d8f2b3c76e8134474e548c6c
+sxs-farm_mystery.r01	9efd0c8b6491c73df6c66254d2007994
+sxs-farm_mystery.r02	0767e136b7c4de1b46b67ea7e4be5983
+sxs-farm_mystery.r03	fc3f5bd7d18c5145a75b1666e4e9d113
+sxs-farm_mystery.r04	79cde76ef0693843d7edc301d26c4059
+sxs-farm_mystery.r05	c9f7dd5d1b57a1a6b76f169f3fbd0417
+sxs-farm_mystery.r06	2d49017cf9cfd871a4f38bcc11acf4b3
+sxs-farm_mystery.r07	eb825150d6b82d6472e3f8591d5b9b55
+sxs-farm_mystery.r08	5ade569c800ea06d25b04923d26aeb8a
+sxs-farm_mystery.r09	8d24862954b18aa7fa6a49ea70f70e07
+sxs-farm_mystery.r10	506d50080347f530981b9338f2fdc7fc
+sxs-farm_mystery.r11	639ad9468ca7c3423c958f48198a44d6
+sxs-farm_mystery.rar	223a9fce33bb4c102813a8d8874eba6f
+sxs-farm_mystery.sfv	36b7b59d62a5e019f812103326681a22

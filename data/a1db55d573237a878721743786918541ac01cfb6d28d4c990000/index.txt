@@ -1,0 +1,8 @@
+lfc-drowning.nfo	-	3767	1	0	0	0
+lfc-drowning.r00	-	100000000	1	3767	0	1
+lfc-drowning.r01	-	100000000	1	100003767	0	97
+lfc-drowning.r02	-	100000000	1	200003767	0	193
+lfc-drowning.r03	-	100000000	1	300003767	0	289
+lfc-drowning.r04	-	43341867	1	400003767	0	385
+lfc-drowning.rar	-	100000000	1	443345634	0	427
+lfc-drowning.sfv	-	162	1	5628160	1	6

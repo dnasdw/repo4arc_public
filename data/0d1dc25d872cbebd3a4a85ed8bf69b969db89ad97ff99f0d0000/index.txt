@@ -1,0 +1,12 @@
+sxs-fifa_22_russian_dlc.nfo	-	8552	1	0	0	0
+sxs-fifa_22_russian_dlc.r00	-	50000000	1	8552	0	1
+sxs-fifa_22_russian_dlc.r01	-	50000000	1	50008552	0	49
+sxs-fifa_22_russian_dlc.r02	-	50000000	1	100008552	0	97
+sxs-fifa_22_russian_dlc.r03	-	50000000	1	150008552	0	145
+sxs-fifa_22_russian_dlc.r04	-	50000000	1	200008552	0	193
+sxs-fifa_22_russian_dlc.r05	-	50000000	1	250008552	0	241
+sxs-fifa_22_russian_dlc.r06	-	50000000	1	300008552	0	289
+sxs-fifa_22_russian_dlc.r07	-	50000000	1	350008552	0	337
+sxs-fifa_22_russian_dlc.r08	-	292404	1	400008552	0	385
+sxs-fifa_22_russian_dlc.rar	-	50000000	1	400300956	0	386
+sxs-fifa_22_russian_dlc.sfv	-	380	1	450300956	0	434

@@ -1,0 +1,9 @@
+sxs-pinball_fx_v131072.nfo	ece8d08b3ea6c85ff3d1a6ef5ab5dd16
+sxs-pinball_fx_v131072.r00	e895a744faa245077042bb76d5f6cc98
+sxs-pinball_fx_v131072.r01	35bf9fccb9c624601ee3cf1eff267629
+sxs-pinball_fx_v131072.r02	2cf7798a2ea8195a3edaeaffd672a381
+sxs-pinball_fx_v131072.r03	9f811635b742b33d2fe829fd7e21b63d
+sxs-pinball_fx_v131072.r04	fb04e8ab046f239886895839a29f0db1
+sxs-pinball_fx_v131072.r05	78f6ea7f6f011735f739c3601516738a
+sxs-pinball_fx_v131072.rar	88cc75b42c3134ac2882c10b548e0368
+sxs-pinball_fx_v131072.sfv	306c34dd1524cc818deea0f293104cb5

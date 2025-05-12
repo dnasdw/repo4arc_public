@@ -1,0 +1,5 @@
+v-vasara_collection_v131072.nfo	adfba5c23b613d987a441320e93b4b07
+v-vasara_collection_v131072.r00	2b7335890dc0e9ffac8136628376feea
+v-vasara_collection_v131072.r01	1e4b81b3bdc0485f779f619759ec961e
+v-vasara_collection_v131072.rar	ff814b58fae0e9bbf8cf7f108573b27c
+v-vasara_collection_v131072.sfv	675941d81c106e49395438afb1d5bcbb

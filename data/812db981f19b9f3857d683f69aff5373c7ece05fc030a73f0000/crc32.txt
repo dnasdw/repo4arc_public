@@ -1,0 +1,11 @@
+sxs-alders_blood_v262144.nfo	153c1d7e
+sxs-alders_blood_v262144.r00	571015e0
+sxs-alders_blood_v262144.r01	d0edc695
+sxs-alders_blood_v262144.r02	78b142de
+sxs-alders_blood_v262144.r03	c8bd0d8f
+sxs-alders_blood_v262144.r04	87779ff2
+sxs-alders_blood_v262144.r05	76dc1638
+sxs-alders_blood_v262144.r06	aee159e9
+sxs-alders_blood_v262144.r07	22416581
+sxs-alders_blood_v262144.rar	a8b5aaad
+sxs-alders_blood_v262144.sfv	2a2b350c

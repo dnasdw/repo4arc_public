@@ -1,0 +1,6 @@
+jrp-jtfchd.nfo	-	6183	1	0	0	0
+jrp-jtfchd.r00	-	50000000	1	6183	0	1
+jrp-jtfchd.r01	-	50000000	1	50006183	0	49
+jrp-jtfchd.r02	-	7273786	1	100006183	0	97
+jrp-jtfchd.rar	-	50000000	1	107279969	0	104
+jrp-jtfchd.sfv	-	100	1	157279969	0	152

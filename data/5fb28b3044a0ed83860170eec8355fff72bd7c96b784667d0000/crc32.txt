@@ -1,0 +1,9 @@
+sxs-grass_cutter_mutated_lawns.nfo	b208ed4a
+sxs-grass_cutter_mutated_lawns.r00	797e9bf3
+sxs-grass_cutter_mutated_lawns.r01	2f3be7fa
+sxs-grass_cutter_mutated_lawns.r02	97f8ed00
+sxs-grass_cutter_mutated_lawns.r03	9c64b2dd
+sxs-grass_cutter_mutated_lawns.r04	6aa45797
+sxs-grass_cutter_mutated_lawns.r05	abcc0138
+sxs-grass_cutter_mutated_lawns.rar	d3f0b25f
+sxs-grass_cutter_mutated_lawns.sfv	7050631d

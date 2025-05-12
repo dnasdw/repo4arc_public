@@ -1,0 +1,5 @@
+lfc-spli.nfo	0a6041662f8ce813ed8481c5b436fb61
+lfc-spli.r00	4e3866fad0a87a75087de99da0d63bb4
+lfc-spli.r01	c52000b8721fea4e7114c8e41d7a444c
+lfc-spli.rar	c75bb03d09c82dffe64d9df63c11c747
+lfc-spli.sfv	a3844dfdc3726724ceb8fee92d71a5ef

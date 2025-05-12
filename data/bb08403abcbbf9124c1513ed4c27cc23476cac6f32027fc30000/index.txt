@@ -1,0 +1,8 @@
+v-world_war_d_day_part_one_v65536.nfo	-	8714	1	0	0	0
+v-world_war_d_day_part_one_v65536.r00	-	100000000	1	8714	0	1
+v-world_war_d_day_part_one_v65536.r01	-	100000000	1	100008714	0	97
+v-world_war_d_day_part_one_v65536.r02	-	100000000	1	200008714	0	193
+v-world_war_d_day_part_one_v65536.r03	-	100000000	1	300008714	0	289
+v-world_war_d_day_part_one_v65536.r04	-	86220142	1	400008714	0	385
+v-world_war_d_day_part_one_v65536.rar	-	100000000	1	486228856	0	468
+v-world_war_d_day_part_one_v65536.sfv	-	288	1	48619776	1	47

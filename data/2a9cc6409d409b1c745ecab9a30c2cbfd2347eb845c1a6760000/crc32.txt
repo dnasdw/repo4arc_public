@@ -1,0 +1,3 @@
+v-hyperbrawl_tournament_dlc.nfo	fc82f4dc
+v-hyperbrawl_tournament_dlc.rar	d622f194
+v-hyperbrawl_tournament_dlc.sfv	c5385f4b

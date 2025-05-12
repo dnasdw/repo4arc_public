@@ -1,0 +1,6 @@
+sxs-samurai_maiden_v524288.nfo	-	5434	1	0	0	0
+sxs-samurai_maiden_v524288.r00	-	100000000	1	5434	0	1
+sxs-samurai_maiden_v524288.r01	-	100000000	1	100005434	0	97
+sxs-samurai_maiden_v524288.r02	-	96819311	1	200005434	0	193
+sxs-samurai_maiden_v524288.rar	-	100000000	1	296824745	0	286
+sxs-samurai_maiden_v524288.sfv	-	164	1	396824745	0	382

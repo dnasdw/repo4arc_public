@@ -1,0 +1,4 @@
+sxs-snes_v65536.nfo	38df76e2
+sxs-snes_v65536.r00	e23e976e
+sxs-snes_v65536.rar	a676700c
+sxs-snes_v65536.sfv	eda1dce3

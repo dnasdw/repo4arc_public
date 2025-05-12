@@ -1,0 +1,13 @@
+sxs-lol_surprise_movie_night_v65536.nfo	485c4f45
+sxs-lol_surprise_movie_night_v65536.r00	cb646ec4
+sxs-lol_surprise_movie_night_v65536.r01	0982c6fc
+sxs-lol_surprise_movie_night_v65536.r02	6d6fa130
+sxs-lol_surprise_movie_night_v65536.r03	497d56e2
+sxs-lol_surprise_movie_night_v65536.r04	128ae5a4
+sxs-lol_surprise_movie_night_v65536.r05	4e1817d6
+sxs-lol_surprise_movie_night_v65536.r06	dd506688
+sxs-lol_surprise_movie_night_v65536.r07	e7c9de2c
+sxs-lol_surprise_movie_night_v65536.r08	1fb0b963
+sxs-lol_surprise_movie_night_v65536.r09	e7d8c6d2
+sxs-lol_surprise_movie_night_v65536.rar	c01a9dc8
+sxs-lol_surprise_movie_night_v65536.sfv	d88f0502

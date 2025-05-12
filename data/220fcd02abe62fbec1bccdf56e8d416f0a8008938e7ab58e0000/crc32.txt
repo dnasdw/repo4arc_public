@@ -1,0 +1,8 @@
+v-freedom_finger_v131072.nfo	8b519575
+v-freedom_finger_v131072.r00	e029c1bd
+v-freedom_finger_v131072.r01	9b5bce4e
+v-freedom_finger_v131072.r02	6894a5b8
+v-freedom_finger_v131072.r03	8a40ca0c
+v-freedom_finger_v131072.r04	47ed85ed
+v-freedom_finger_v131072.rar	d686f0f6
+v-freedom_finger_v131072.sfv	e0f6c4f2

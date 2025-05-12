@@ -1,0 +1,14 @@
+v-spectrolite.nfo	4a437f4c807ed7977f958f60cd9ffff9
+v-spectrolite.r00	10e0ea7da1119867a60dc3112a2ca36a
+v-spectrolite.r01	90d11eb617233aadb627ae0440ad1356
+v-spectrolite.r02	1bbf9c90bebdc28004087232f4ba29fb
+v-spectrolite.r03	a13fb022c5bd17f3986f969e68944dec
+v-spectrolite.r04	917fe4fac71c871d2a65a776a8c110c5
+v-spectrolite.r05	67d006bba759438e3fc119169d794fd5
+v-spectrolite.r06	af5c2fac7b181664fa61b184c8862c32
+v-spectrolite.r07	fb7003944f1af1b8c4ab8ac1443f998b
+v-spectrolite.r08	78952f0625a9ee561df91264f063e781
+v-spectrolite.r09	3cade01baaf61dc23153d649ce130dd7
+v-spectrolite.r10	83e142473490cd2c923e2851c98b1c75
+v-spectrolite.rar	deba5dbe274dbf8ec5dac1fcdee4a3e5
+v-spectrolite.sfv	ceca56ccd76e52b22a62ff7b0fa592d5

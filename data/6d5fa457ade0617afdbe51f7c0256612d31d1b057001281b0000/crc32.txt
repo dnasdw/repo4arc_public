@@ -1,0 +1,12 @@
+lfc-muid_v65536.nfo	282ed73e
+lfc-muid_v65536.r00	0521fe4f
+lfc-muid_v65536.r01	f2124b42
+lfc-muid_v65536.r02	506f83cd
+lfc-muid_v65536.r03	2e839213
+lfc-muid_v65536.r04	840f6f40
+lfc-muid_v65536.r05	21dda4e1
+lfc-muid_v65536.r06	500601c7
+lfc-muid_v65536.r07	bebc9248
+lfc-muid_v65536.r08	dfd11bf8
+lfc-muid_v65536.rar	efbf22eb
+lfc-muid_v65536.sfv	7c1a5fa9

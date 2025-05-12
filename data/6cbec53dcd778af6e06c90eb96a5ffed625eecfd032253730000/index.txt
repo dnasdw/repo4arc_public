@@ -1,0 +1,3 @@
+v-risk_of_rain_2_survivors_of_the_void_dlc.nfo	-	7306	1	0	0	0
+v-risk_of_rain_2_survivors_of_the_void_dlc.rar	-	124419	1	7306	0	1
+v-risk_of_rain_2_survivors_of_the_void_dlc.sfv	-	57	1	131725	0	2

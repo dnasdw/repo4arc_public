@@ -1,0 +1,4 @@
+sxs-arcanoid_breakout_v131072.nfo	-	4418	1	0	0	0
+sxs-arcanoid_breakout_v131072.r00	-	9401774	1	4418	0	1
+sxs-arcanoid_breakout_v131072.rar	-	50000000	1	9406192	0	10
+sxs-arcanoid_breakout_v131072.sfv	-	88	1	59406192	0	58

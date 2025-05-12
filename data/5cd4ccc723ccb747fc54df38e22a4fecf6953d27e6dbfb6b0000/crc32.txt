@@ -1,0 +1,14 @@
+sxs-castaway_paradise.nfo	ab3ac4c7
+sxs-castaway_paradise.r00	2ddf9de0
+sxs-castaway_paradise.r01	83e8bf42
+sxs-castaway_paradise.r02	9fea38f6
+sxs-castaway_paradise.r03	371e576f
+sxs-castaway_paradise.r04	6a9f017a
+sxs-castaway_paradise.r05	728bebac
+sxs-castaway_paradise.r06	a1d0e114
+sxs-castaway_paradise.r07	a6023f54
+sxs-castaway_paradise.r08	54accf81
+sxs-castaway_paradise.r09	99d0969b
+sxs-castaway_paradise.r10	41a1b49d
+sxs-castaway_paradise.rar	e3fa70c9
+sxs-castaway_paradise.sfv	5e4e10d0

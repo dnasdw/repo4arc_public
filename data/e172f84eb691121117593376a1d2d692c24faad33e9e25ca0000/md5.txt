@@ -1,0 +1,4 @@
+v-northgard_v327680.nfo	19613d991aee0e917b6a44fa2ce0b9e5
+v-northgard_v327680.r00	c86ffa364b471d927fed0ff428e19c3e
+v-northgard_v327680.rar	494541fb129e05ffe8794907f3420f6d
+v-northgard_v327680.sfv	1561ab9cb4a8b09fb6687a7eac564e02

@@ -1,0 +1,6 @@
+lfc-eceg_v65536.nfo	b2560fbc7ecee9baaee2c488d19fbcbb
+lfc-eceg_v65536.r00	0db4690b10778bf7b32f6c1db57cc5fb
+lfc-eceg_v65536.r01	4d3216824add4da0b8752cc45c95d990
+lfc-eceg_v65536.r02	466b90e8afd0dcbf437c665a5acff28c
+lfc-eceg_v65536.rar	8bdd3c5e51f7f76276d4fe1992c427de
+lfc-eceg_v65536.sfv	a5990de8d0f0eee77a0148e3a8164dc5

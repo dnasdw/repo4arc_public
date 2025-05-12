@@ -1,0 +1,11 @@
+sxs-ultra_space_battle_brawl_v196608.nfo	-	5510	1	0	0	0
+sxs-ultra_space_battle_brawl_v196608.r00	-	50000000	1	5510	0	1
+sxs-ultra_space_battle_brawl_v196608.r01	-	50000000	1	50005510	0	49
+sxs-ultra_space_battle_brawl_v196608.r02	-	50000000	1	100005510	0	97
+sxs-ultra_space_battle_brawl_v196608.r03	-	50000000	1	150005510	0	145
+sxs-ultra_space_battle_brawl_v196608.r04	-	50000000	1	200005510	0	193
+sxs-ultra_space_battle_brawl_v196608.r05	-	50000000	1	250005510	0	241
+sxs-ultra_space_battle_brawl_v196608.r06	-	50000000	1	300005510	0	289
+sxs-ultra_space_battle_brawl_v196608.r07	-	16091136	1	350005510	0	337
+sxs-ultra_space_battle_brawl_v196608.rar	-	50000000	1	366096646	0	353
+sxs-ultra_space_battle_brawl_v196608.sfv	-	459	1	416096646	0	401

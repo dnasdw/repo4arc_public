@@ -1,0 +1,13 @@
+v-fuze4_v196608.nfo	0c6bf41e
+v-fuze4_v196608.r00	a3ea7314
+v-fuze4_v196608.r01	a5d13b34
+v-fuze4_v196608.r02	68dfee6e
+v-fuze4_v196608.r03	fa9f527f
+v-fuze4_v196608.r04	b0752968
+v-fuze4_v196608.r05	228942fb
+v-fuze4_v196608.r06	a2ed6958
+v-fuze4_v196608.r07	7bf5898f
+v-fuze4_v196608.r08	81c73a93
+v-fuze4_v196608.r09	756a0dad
+v-fuze4_v196608.rar	40dca07f
+v-fuze4_v196608.sfv	d6919952

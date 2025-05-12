@@ -1,0 +1,7 @@
+sxs-arcaea_v196608.nfo	2d3e3b1000abc1a5f745ec5a7aedf8ca
+sxs-arcaea_v196608.r00	5dddc13339a163eda4109d04a53f4f16
+sxs-arcaea_v196608.r01	99f6db12c98d37998f2bb666d8300c6c
+sxs-arcaea_v196608.r02	f38cf72a805934ba74a75b809bfbef2e
+sxs-arcaea_v196608.r03	ddf32ba2699d8dedfd8d9093f0b8174b
+sxs-arcaea_v196608.rar	fdf48c10eebefb6b862dbeeeb23bdef5
+sxs-arcaea_v196608.sfv	8539a3ae496455aba6ab98e6b7aed839

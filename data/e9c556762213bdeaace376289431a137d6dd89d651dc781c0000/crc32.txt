@@ -1,0 +1,9 @@
+lfc-monsterbugseatpeople.nfo	4628effe
+lfc-monsterbugseatpeople.r00	c2e35e7b
+lfc-monsterbugseatpeople.r01	d356fd5c
+lfc-monsterbugseatpeople.r02	4061f7ab
+lfc-monsterbugseatpeople.r03	0ae8af1b
+lfc-monsterbugseatpeople.r04	4de644e2
+lfc-monsterbugseatpeople.r05	983d58ab
+lfc-monsterbugseatpeople.rar	273cd61b
+lfc-monsterbugseatpeople.sfv	d329935e

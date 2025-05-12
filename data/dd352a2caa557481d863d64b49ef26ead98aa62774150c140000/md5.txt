@@ -1,0 +1,12 @@
+sxs-rule_no1.nfo	c6e8479f0e1b76373c4f36b80ab2b8ab
+sxs-rule_no1.r00	b6360534d9e8daeee2ec12a28a903e65
+sxs-rule_no1.r01	50e286d31aa34e6457f35c072499e99b
+sxs-rule_no1.r02	b4fe90919314d5048cc3a2f6b118e910
+sxs-rule_no1.r03	1e1653ae84023fb2e590da643eff2fb1
+sxs-rule_no1.r04	9314d3b61cc6379fa05f629dd0c7d39a
+sxs-rule_no1.r05	d1c8902f1a778323137b334505e5e8d3
+sxs-rule_no1.r06	1c321b4621da0dc92470ac5c3cb5fa9d
+sxs-rule_no1.r07	ade085c0b5fb9ff56a25679fa8aabe5d
+sxs-rule_no1.r08	7b408829a7f48b21b0116b815412fe0a
+sxs-rule_no1.rar	4f1f4cf9444346f2b626ab10b0d2a6c4
+sxs-rule_no1.sfv	6cdeef8c5f1693b499e5fd49c256ce51

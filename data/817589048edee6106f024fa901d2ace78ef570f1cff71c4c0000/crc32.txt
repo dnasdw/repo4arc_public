@@ -1,0 +1,6 @@
+brw-kanq_v65536.nfo	c6e0d2c1
+brw-kanq_v65536.r00	fae960a7
+brw-kanq_v65536.r01	db235b0a
+brw-kanq_v65536.r02	a04e111a
+brw-kanq_v65536.rar	558a1beb
+brw-kanq_v65536.sfv	88d77093

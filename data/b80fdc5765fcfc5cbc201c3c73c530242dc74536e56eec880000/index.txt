@@ -1,0 +1,5 @@
+sxs-slimeboo.nfo	-	3794	1	0	0	0
+sxs-slimeboo.r00	-	100000000	1	3794	0	1
+sxs-slimeboo.r01	-	23970525	1	100003794	0	97
+sxs-slimeboo.rar	-	100000000	1	123974319	0	120
+sxs-slimeboo.sfv	-	81	1	223974319	0	216

@@ -1,0 +1,10 @@
+sxs-retrograde_arena.nfo	e3dbb15c
+sxs-retrograde_arena.r00	a211bb50
+sxs-retrograde_arena.r01	b1dbb3cd
+sxs-retrograde_arena.r02	036a80ed
+sxs-retrograde_arena.r03	2eec8c3f
+sxs-retrograde_arena.r04	c58c61d5
+sxs-retrograde_arena.r05	1c97f0b8
+sxs-retrograde_arena.r06	471de30d
+sxs-retrograde_arena.rar	99b998ab
+sxs-retrograde_arena.sfv	67fc9b68

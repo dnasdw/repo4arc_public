@@ -1,0 +1,8 @@
+sxs-guacamelee2_v262144.nfo	27914505
+sxs-guacamelee2_v262144.r00	dfdbcffe
+sxs-guacamelee2_v262144.r01	6e8f4d9e
+sxs-guacamelee2_v262144.r02	e193db3b
+sxs-guacamelee2_v262144.r03	39108db0
+sxs-guacamelee2_v262144.r04	507c7871
+sxs-guacamelee2_v262144.rar	b65a516e
+sxs-guacamelee2_v262144.sfv	e7f3ef76

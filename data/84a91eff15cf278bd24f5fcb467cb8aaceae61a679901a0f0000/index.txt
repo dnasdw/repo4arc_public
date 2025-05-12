@@ -1,0 +1,16 @@
+sxs-brigandine_the_legend_of_runersia_v393216.nfo	-	8942	1	0	0	0
+sxs-brigandine_the_legend_of_runersia_v393216.r00	-	50000000	1	8942	0	1
+sxs-brigandine_the_legend_of_runersia_v393216.r01	-	50000000	1	50008942	0	49
+sxs-brigandine_the_legend_of_runersia_v393216.r02	-	50000000	1	100008942	0	97
+sxs-brigandine_the_legend_of_runersia_v393216.r03	-	50000000	1	150008942	0	145
+sxs-brigandine_the_legend_of_runersia_v393216.r04	-	50000000	1	200008942	0	193
+sxs-brigandine_the_legend_of_runersia_v393216.r05	-	50000000	1	250008942	0	241
+sxs-brigandine_the_legend_of_runersia_v393216.r06	-	50000000	1	300008942	0	289
+sxs-brigandine_the_legend_of_runersia_v393216.r07	-	50000000	1	350008942	0	337
+sxs-brigandine_the_legend_of_runersia_v393216.r08	-	50000000	1	400008942	0	385
+sxs-brigandine_the_legend_of_runersia_v393216.r09	-	50000000	1	450008942	0	433
+sxs-brigandine_the_legend_of_runersia_v393216.r10	-	50000000	1	500008942	0	481
+sxs-brigandine_the_legend_of_runersia_v393216.r11	-	50000000	1	12251264	1	12
+sxs-brigandine_the_legend_of_runersia_v393216.r12	-	5854378	1	62251264	1	60
+sxs-brigandine_the_legend_of_runersia_v393216.rar	-	50000000	1	68105642	1	66
+sxs-brigandine_the_legend_of_runersia_v393216.sfv	-	840	1	118105642	1	114

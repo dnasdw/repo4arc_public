@@ -1,0 +1,5 @@
+sxs-gba_v327680.nfo	90d491e3
+sxs-gba_v327680.r00	1ba7653d
+sxs-gba_v327680.r01	bc3e3b55
+sxs-gba_v327680.rar	62ddf4be
+sxs-gba_v327680.sfv	2c6b9ba2

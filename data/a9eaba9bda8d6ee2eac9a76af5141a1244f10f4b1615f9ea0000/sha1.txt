@@ -1,0 +1,4 @@
+lfc-lyricaupd.nfo	d1d9ac317e44f0e837ef31c55fed174611baf993
+lfc-lyricaupd.r00	875234fd3f506bddacee8424b88ffc3e22b9f600
+lfc-lyricaupd.rar	63a50c120a94b968207cfa55f7792a097da93cce
+lfc-lyricaupd.sfv	8a95b9217806af7f01cc413608d2652f019d08d2

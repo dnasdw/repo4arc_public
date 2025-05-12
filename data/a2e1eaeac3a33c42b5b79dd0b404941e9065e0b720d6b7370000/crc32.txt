@@ -1,0 +1,9 @@
+sxs-varion.nfo	9a413a13
+sxs-varion.r00	84e6aed2
+sxs-varion.r01	43276596
+sxs-varion.r02	72ca6db9
+sxs-varion.r03	e309f250
+sxs-varion.r04	e60f8a29
+sxs-varion.r05	08478d6d
+sxs-varion.rar	08c19b4f
+sxs-varion.sfv	b6974bec

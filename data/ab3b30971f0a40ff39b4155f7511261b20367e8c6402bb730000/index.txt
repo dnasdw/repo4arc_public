@@ -1,0 +1,4 @@
+sxs-celebrity_slot_machine.nfo	-	4886	1	0	0	0
+sxs-celebrity_slot_machine.r00	-	12863855	1	4886	0	1
+sxs-celebrity_slot_machine.rar	-	100000000	1	12868741	0	14
+sxs-celebrity_slot_machine.sfv	-	82	1	112868741	0	110

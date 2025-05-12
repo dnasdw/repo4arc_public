@@ -1,0 +1,13 @@
+l-squabble.nfo	54301ce66cf4bcf5de23ab7711ab5d60524da7f8
+l-squabble.r00	2ff543b306494a1c463d9d6327ad6bcc00ef1072
+l-squabble.r01	fe6c6da7052bd3c11ccd86062a504d376b80b30d
+l-squabble.r02	8af25b03e744fe095b60284562d5d329b2685f4d
+l-squabble.r03	c67c3260f8165242a78eb62a909022e75a616dea
+l-squabble.r04	c7a3ddbf0b4f938baf73f4db28bb71cdac5e65f5
+l-squabble.r05	efde35f068c7638bd2b0ba6cfebdd5c2602df6c4
+l-squabble.r06	167c93ce8aae1ebee383fd8c812ec2efd05d22ee
+l-squabble.r07	11a5694f3d25e065b129ddcdaaa89494c4329dab
+l-squabble.r08	1f3c7d2f5a94ca8778d97e41e137454522119f4a
+l-squabble.r09	c6f2378862a0a92f785894120ef24a8579ab6482
+l-squabble.rar	c36f07b537fc4dc4c8694dc627864aa8cb9f0705
+l-squabble.sfv	ba06b800a09542171dbf2fd42070fb7a56c4cfaa

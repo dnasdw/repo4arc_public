@@ -1,0 +1,4 @@
+sxs-anthill.nfo	9da95b88889eb530f8d261f38d0b9cda
+sxs-anthill.r00	a0c74348a9bfbe86f264659c4eb088c0
+sxs-anthill.rar	d7d3bd61d8af010014758222d89b4a0d
+sxs-anthill.sfv	842edf59d6ecf531bbac05b5fcd56f76

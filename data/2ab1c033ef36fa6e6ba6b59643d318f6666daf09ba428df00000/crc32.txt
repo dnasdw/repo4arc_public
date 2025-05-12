@@ -1,0 +1,7 @@
+sxs-japan_train_models_jr_west_edition.nfo	a3947c86
+sxs-japan_train_models_jr_west_edition.r00	ea4179af
+sxs-japan_train_models_jr_west_edition.r01	949a3899
+sxs-japan_train_models_jr_west_edition.r02	cf2af54f
+sxs-japan_train_models_jr_west_edition.r03	5dc99a09
+sxs-japan_train_models_jr_west_edition.rar	d7ecf9ce
+sxs-japan_train_models_jr_west_edition.sfv	bba3053d

@@ -1,0 +1,7 @@
+bbb-n-agfza.nfo	-	5517	1	0	0	0
+bbb-n-agfza.part1.rar	-	250000000	1	5517	0	1
+bbb-n-agfza.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-agfza.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-agfza.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-agfza.part5.rar	-	156609689	1	462251264	1	442
+bbb-n-agfza.sfv	-	160	1	81112217	2	78

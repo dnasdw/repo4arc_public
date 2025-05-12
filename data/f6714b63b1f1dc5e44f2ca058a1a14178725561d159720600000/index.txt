@@ -1,0 +1,7 @@
+sxs-risk_global_domination_v65536.nfo	-	4809	1	0	0	0
+sxs-risk_global_domination_v65536.r00	-	50000000	1	4809	0	1
+sxs-risk_global_domination_v65536.r01	-	50000000	1	50004809	0	49
+sxs-risk_global_domination_v65536.r02	-	50000000	1	100004809	0	97
+sxs-risk_global_domination_v65536.r03	-	227922	1	150004809	0	145
+sxs-risk_global_domination_v65536.rar	-	50000000	1	150232731	0	146
+sxs-risk_global_domination_v65536.sfv	-	240	1	200232731	0	194

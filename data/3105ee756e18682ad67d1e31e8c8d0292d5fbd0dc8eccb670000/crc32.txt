@@ -1,0 +1,10 @@
+v-astroneer_v851968.nfo	b20e9f98
+v-astroneer_v851968.r00	3dbba184
+v-astroneer_v851968.r01	c35bc594
+v-astroneer_v851968.r02	12c44fd1
+v-astroneer_v851968.r03	77a79b8e
+v-astroneer_v851968.r04	b39ec37d
+v-astroneer_v851968.r05	3b910cb1
+v-astroneer_v851968.r06	ac76a471
+v-astroneer_v851968.rar	6e1a65ef
+v-astroneer_v851968.sfv	84489a5b

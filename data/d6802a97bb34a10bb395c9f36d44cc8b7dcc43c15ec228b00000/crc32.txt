@@ -1,0 +1,8 @@
+sxs-animal_super_squad_v262144.nfo	bb253723
+sxs-animal_super_squad_v262144.r00	e0e9d9b9
+sxs-animal_super_squad_v262144.r01	94f8f31f
+sxs-animal_super_squad_v262144.r02	de83c4df
+sxs-animal_super_squad_v262144.r03	03c62bba
+sxs-animal_super_squad_v262144.r04	1fa2fdf3
+sxs-animal_super_squad_v262144.rar	5aa3ba16
+sxs-animal_super_squad_v262144.sfv	e2126377

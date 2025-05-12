@@ -1,0 +1,3 @@
+sxs-ultra_age_rebirth_project_dlc.nfo	-	10190	1	0	0	0
+sxs-ultra_age_rebirth_project_dlc.rar	-	104070	1	10190	0	1
+sxs-ultra_age_rebirth_project_dlc.sfv	-	48	1	114260	0	2

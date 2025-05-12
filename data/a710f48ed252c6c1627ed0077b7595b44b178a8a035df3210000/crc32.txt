@@ -1,0 +1,14 @@
+v-devilengine_v262144.nfo	d2b5a266
+v-devilengine_v262144.r00	ed9d0422
+v-devilengine_v262144.r01	18f56c4f
+v-devilengine_v262144.r02	7207af35
+v-devilengine_v262144.r03	724b905c
+v-devilengine_v262144.r04	ed247aa4
+v-devilengine_v262144.r05	fb24eaf1
+v-devilengine_v262144.r06	2ce97840
+v-devilengine_v262144.r07	2bdf48b7
+v-devilengine_v262144.r08	bba9b19c
+v-devilengine_v262144.r09	a362adbc
+v-devilengine_v262144.r10	40bf173f
+v-devilengine_v262144.rar	92275142
+v-devilengine_v262144.sfv	e7f7128c

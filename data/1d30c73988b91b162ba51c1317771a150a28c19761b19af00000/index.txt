@@ -1,0 +1,6 @@
+sxs-get_a_grip_chip_and_the_body_bugs_v131072.nfo	-	7694	1	0	0	0
+sxs-get_a_grip_chip_and_the_body_bugs_v131072.r00	-	50000000	1	7694	0	1
+sxs-get_a_grip_chip_and_the_body_bugs_v131072.r01	-	50000000	1	50007694	0	49
+sxs-get_a_grip_chip_and_the_body_bugs_v131072.r02	-	44143499	1	100007694	0	97
+sxs-get_a_grip_chip_and_the_body_bugs_v131072.rar	-	50000000	1	144151193	0	140
+sxs-get_a_grip_chip_and_the_body_bugs_v131072.sfv	-	240	1	194151193	0	188

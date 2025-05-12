@@ -1,0 +1,4 @@
+sxs-lets_play_curling_v65536.nfo	092ffe34fe1050b084b5346b5c8f188d
+sxs-lets_play_curling_v65536.r00	18f6cc6f92a0031fa37498613a365bd8
+sxs-lets_play_curling_v65536.rar	845ce249a2d36575d472df6bac5dd1cc
+sxs-lets_play_curling_v65536.sfv	4c785081bb4f458af6e23c9de77b77f1

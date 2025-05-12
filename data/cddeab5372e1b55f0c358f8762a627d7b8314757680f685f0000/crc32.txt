@@ -1,0 +1,11 @@
+cat-arcya.nfo	3e5d6700
+cat-arcya.r00	83f4ecc0
+cat-arcya.r01	07435c33
+cat-arcya.r02	fd8aee14
+cat-arcya.r03	3e70f072
+cat-arcya.r04	6419cba9
+cat-arcya.r05	bdec37e8
+cat-arcya.r06	554b29b8
+cat-arcya.r07	33a93262
+cat-arcya.rar	abccc2cb
+cat-arcya.sfv	8e04ac1f

@@ -1,0 +1,5 @@
+brw-raty_v65536.nfo	e36c6ba2b89774e44afc7907b5ebeb02
+brw-raty_v65536.r00	48931baf2e3dd8dcddfdf87cd2649da4
+brw-raty_v65536.r01	14612c2cce871d6d7d5e11193a2ea817
+brw-raty_v65536.rar	5f151d7a6d18eb953915692334315cda
+brw-raty_v65536.sfv	9eac4cf3eb8f2171dd06368a7a94dd9c

@@ -1,0 +1,7 @@
+lfc-sccf.nfo	9d35fe5f
+lfc-sccf.r00	8dc1d833
+lfc-sccf.r01	f25882ef
+lfc-sccf.r02	35ded0e0
+lfc-sccf.r03	82e32bbd
+lfc-sccf.rar	9cb88cd4
+lfc-sccf.sfv	7170c947

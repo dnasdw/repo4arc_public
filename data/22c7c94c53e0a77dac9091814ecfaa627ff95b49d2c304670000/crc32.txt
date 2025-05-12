@@ -1,0 +1,9 @@
+sxs-rpg_time_the_legend_of_wright_v196608.nfo	dbb82e42
+sxs-rpg_time_the_legend_of_wright_v196608.r00	fa17d17b
+sxs-rpg_time_the_legend_of_wright_v196608.r01	f78bd31d
+sxs-rpg_time_the_legend_of_wright_v196608.r02	a5af3c4f
+sxs-rpg_time_the_legend_of_wright_v196608.r03	77cce06f
+sxs-rpg_time_the_legend_of_wright_v196608.r04	c35bf5ac
+sxs-rpg_time_the_legend_of_wright_v196608.r05	4ad6e399
+sxs-rpg_time_the_legend_of_wright_v196608.rar	9d35804c
+sxs-rpg_time_the_legend_of_wright_v196608.sfv	9ae00eb1

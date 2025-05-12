@@ -1,0 +1,9 @@
+sxs-taco_tom_2.nfo	1af01fc628c07cec3c227df66cfc0bd99285c6d4
+sxs-taco_tom_2.r00	e89df567b433510fc5cf597a650216e43d90b7ff
+sxs-taco_tom_2.r01	8b791913b162a35c14ee2bad5469c86b5a099296
+sxs-taco_tom_2.r02	b4e3fc9200a1930e9c1409a4b8de0a5f699c451f
+sxs-taco_tom_2.r03	8539cc15444c9893b77caa58570281ab2b050b58
+sxs-taco_tom_2.r04	c243b320e0483abe288af622d1d7c18106daf68d
+sxs-taco_tom_2.r05	2e245f0d0594bbcbc632b8f25dda9d2f8f0f03da
+sxs-taco_tom_2.rar	7abf6a16675213c215646f02d9568ff82663dfcc
+sxs-taco_tom_2.sfv	1ccce7e242f59bdbfd2ac3043f9f0ab07152a751

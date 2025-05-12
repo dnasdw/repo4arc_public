@@ -1,0 +1,3 @@
+sxs-neon_abyss_the_lovable_rogues_pack_dlc.nfo	-	6134	1	0	0	0
+sxs-neon_abyss_the_lovable_rogues_pack_dlc.rar	-	103914	1	6134	0	1
+sxs-neon_abyss_the_lovable_rogues_pack_dlc.sfv	-	57	1	110048	0	2

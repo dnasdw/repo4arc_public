@@ -1,0 +1,13 @@
+sxs-neverwinter_nights_enhanced_edition_v65536.nfo	-	3716	1	0	0	0
+sxs-neverwinter_nights_enhanced_edition_v65536.r00	-	50000000	1	3716	0	1
+sxs-neverwinter_nights_enhanced_edition_v65536.r01	-	50000000	1	50003716	0	49
+sxs-neverwinter_nights_enhanced_edition_v65536.r02	-	50000000	1	100003716	0	97
+sxs-neverwinter_nights_enhanced_edition_v65536.r03	-	50000000	1	150003716	0	145
+sxs-neverwinter_nights_enhanced_edition_v65536.r04	-	50000000	1	200003716	0	193
+sxs-neverwinter_nights_enhanced_edition_v65536.r05	-	50000000	1	250003716	0	241
+sxs-neverwinter_nights_enhanced_edition_v65536.r06	-	50000000	1	300003716	0	289
+sxs-neverwinter_nights_enhanced_edition_v65536.r07	-	50000000	1	350003716	0	337
+sxs-neverwinter_nights_enhanced_edition_v65536.r08	-	50000000	1	400003716	0	385
+sxs-neverwinter_nights_enhanced_edition_v65536.r09	-	14480414	1	450003716	0	433
+sxs-neverwinter_nights_enhanced_edition_v65536.rar	-	50000000	1	464484130	0	447
+sxs-neverwinter_nights_enhanced_edition_v65536.sfv	-	671	1	514484130	0	495

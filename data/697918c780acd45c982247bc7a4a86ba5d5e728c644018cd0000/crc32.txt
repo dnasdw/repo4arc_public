@@ -1,0 +1,11 @@
+sxs-driving_world_aspen.nfo	69d72578
+sxs-driving_world_aspen.r00	65ff3953
+sxs-driving_world_aspen.r01	f9e341e1
+sxs-driving_world_aspen.r02	8e1561b5
+sxs-driving_world_aspen.r03	5840c20e
+sxs-driving_world_aspen.r04	761ac211
+sxs-driving_world_aspen.r05	a9a76988
+sxs-driving_world_aspen.r06	085c3d26
+sxs-driving_world_aspen.r07	46a6acba
+sxs-driving_world_aspen.rar	d945d82e
+sxs-driving_world_aspen.sfv	7b5c3f1f

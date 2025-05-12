@@ -1,0 +1,3 @@
+v-gravity_circuit_v327680.nfo	-	6760	1	0	0	0
+v-gravity_circuit_v327680.rar	-	89357569	1	6760	0	1
+v-gravity_circuit_v327680.sfv	-	40	1	89364329	0	87

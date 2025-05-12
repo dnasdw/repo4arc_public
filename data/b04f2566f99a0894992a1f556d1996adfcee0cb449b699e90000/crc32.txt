@@ -1,0 +1,4 @@
+brw-kiis.nfo	cdfa34ac
+brw-kiis.r00	a8d83985
+brw-kiis.rar	2c36069d
+brw-kiis.sfv	dbd2e48b

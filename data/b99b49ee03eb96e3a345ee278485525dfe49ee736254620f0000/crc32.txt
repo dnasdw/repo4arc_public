@@ -1,0 +1,12 @@
+hr-a2wlav65536.nfo	fafc7250
+hr-a2wlav65536.r00	33efb31a
+hr-a2wlav65536.r01	4828112d
+hr-a2wlav65536.r02	f7db8939
+hr-a2wlav65536.r03	18945eac
+hr-a2wlav65536.r04	9dfdc989
+hr-a2wlav65536.r05	a076784e
+hr-a2wlav65536.r06	56a6c0c5
+hr-a2wlav65536.r07	dc386768
+hr-a2wlav65536.r08	288a23c2
+hr-a2wlav65536.rar	b4c3a496
+hr-a2wlav65536.sfv	06ad263f

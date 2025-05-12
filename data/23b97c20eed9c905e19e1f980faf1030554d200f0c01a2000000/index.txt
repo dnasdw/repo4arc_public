@@ -1,0 +1,5 @@
+sxs-chef_life_a_restaurant_simulator_multi12_v196608r.nfo	-	6607	1	0	0	0
+sxs-chef_life_a_restaurant_simulator_multi12_v196608r.r00	-	100000000	1	6607	0	1
+sxs-chef_life_a_restaurant_simulator_multi12_v196608r.r01	-	16769349	1	100006607	0	97
+sxs-chef_life_a_restaurant_simulator_multi12_v196608r.rar	-	100000000	1	116775956	0	113
+sxs-chef_life_a_restaurant_simulator_multi12_v196608r.sfv	-	204	1	216775956	0	209

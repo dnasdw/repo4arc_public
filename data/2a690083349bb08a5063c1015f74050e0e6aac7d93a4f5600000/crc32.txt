@@ -1,0 +1,15 @@
+n-doctorwho_v65536.nfo	271bc8da
+n-doctorwho_v65536.r00	e24ecc3c
+n-doctorwho_v65536.r01	69b8cc99
+n-doctorwho_v65536.r02	dcfc67d4
+n-doctorwho_v65536.r03	3b941830
+n-doctorwho_v65536.r04	6df3a7e6
+n-doctorwho_v65536.r05	4cba9a9c
+n-doctorwho_v65536.r06	f8f0244b
+n-doctorwho_v65536.r07	9718e8db
+n-doctorwho_v65536.r08	a8b5e791
+n-doctorwho_v65536.r09	21f8303d
+n-doctorwho_v65536.r10	dc715eb7
+n-doctorwho_v65536.r11	b1f08bd3
+n-doctorwho_v65536.rar	b8b62c82
+n-doctorwho_v65536.sfv	32c7cc65

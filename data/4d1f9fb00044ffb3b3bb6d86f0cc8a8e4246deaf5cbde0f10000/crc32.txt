@@ -1,0 +1,9 @@
+v-arcade_game_zone.nfo	39f2f5dd
+v-arcade_game_zone.r00	c755950a
+v-arcade_game_zone.r01	fc4d41a1
+v-arcade_game_zone.r02	8961ba30
+v-arcade_game_zone.r03	aafff250
+v-arcade_game_zone.r04	d4b2f981
+v-arcade_game_zone.r05	9135513b
+v-arcade_game_zone.rar	d3f3107b
+v-arcade_game_zone.sfv	3941504d

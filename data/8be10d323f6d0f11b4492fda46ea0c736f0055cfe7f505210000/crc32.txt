@@ -1,0 +1,4 @@
+sxs-treasure_stack_v65536.nfo	4da2d287
+sxs-treasure_stack_v65536.r00	ae1c2b1d
+sxs-treasure_stack_v65536.rar	8cd532a1
+sxs-treasure_stack_v65536.sfv	b1d1c072

@@ -1,0 +1,5 @@
+sxs-lode_runner_legacy_v196608.nfo	70bc2f39dbeaed2047982e2791cf51d2
+sxs-lode_runner_legacy_v196608.r00	e6e85e29b69c38a30d33ba4d281cb795
+sxs-lode_runner_legacy_v196608.r01	30bd9ff5983606abee0db1e839fba120
+sxs-lode_runner_legacy_v196608.rar	7225e789a8f1a11ce93f694c9e3bf95b
+sxs-lode_runner_legacy_v196608.sfv	d2a4ca08acb8a595b9a1ebc80a606d89

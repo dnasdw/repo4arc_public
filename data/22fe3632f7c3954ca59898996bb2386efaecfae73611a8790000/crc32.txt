@@ -1,0 +1,12 @@
+dzm-z.nfo	4f451e10
+dzm-z.r00	f6856192
+dzm-z.r01	b84095ae
+dzm-z.r02	81e72021
+dzm-z.r03	0686b0ae
+dzm-z.r04	e61a75b4
+dzm-z.r05	6336e962
+dzm-z.r06	30a8fe89
+dzm-z.r07	419ee093
+dzm-z.r08	5a5e5211
+dzm-z.rar	0bb82f28
+dzm-z.sfv	a0f106d6

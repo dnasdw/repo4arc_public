@@ -1,0 +1,7 @@
+v-pinball_m_v65536.nfo	b8f23b02
+v-pinball_m_v65536.r00	7de1dde5
+v-pinball_m_v65536.r01	f2c514a1
+v-pinball_m_v65536.r02	aa2ed2d1
+v-pinball_m_v65536.r03	8cbe17d9
+v-pinball_m_v65536.rar	dc0916d4
+v-pinball_m_v65536.sfv	013dffa4

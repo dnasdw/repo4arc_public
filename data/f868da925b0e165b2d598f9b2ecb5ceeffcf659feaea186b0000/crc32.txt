@@ -1,0 +1,7 @@
+sxs-advent_calendar_v262144.nfo	de9532f2
+sxs-advent_calendar_v262144.r00	3eb7b53b
+sxs-advent_calendar_v262144.r01	4142f0ea
+sxs-advent_calendar_v262144.r02	f4c7af09
+sxs-advent_calendar_v262144.r03	47b69fff
+sxs-advent_calendar_v262144.rar	ef23eec9
+sxs-advent_calendar_v262144.sfv	b55ac125

@@ -1,0 +1,6 @@
+sxs-them_bombs_v65536.nfo	894158c7d333b19763c406561acddc0f
+sxs-them_bombs_v65536.r00	a72db79d30abb48d56268e0971f5bbbe
+sxs-them_bombs_v65536.r01	0f28e33d3e9f2e3c26acf0384958051e
+sxs-them_bombs_v65536.r02	42d187837a5aeab51c19460c41b6ebdd
+sxs-them_bombs_v65536.rar	4b633eabd0c09ddabc71e36a208d88c1
+sxs-them_bombs_v65536.sfv	d9cfcfc704ca9b3385a52e930c7a1e5c

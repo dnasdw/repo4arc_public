@@ -1,0 +1,10 @@
+i-preventivestrike.nfo	b9fac805
+i-preventivestrike.r00	e3896fcf
+i-preventivestrike.r01	689f0207
+i-preventivestrike.r02	04edb7be
+i-preventivestrike.r03	f7878490
+i-preventivestrike.r04	81882fb6
+i-preventivestrike.r05	cbbd79c2
+i-preventivestrike.r06	f27d9d60
+i-preventivestrike.rar	0ee31863
+i-preventivestrike.sfv	08331024

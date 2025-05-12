@@ -1,0 +1,7 @@
+sxs-n64jp_v786432.nfo	d3246a78
+sxs-n64jp_v786432.r00	7f66c286
+sxs-n64jp_v786432.r01	eaf0914d
+sxs-n64jp_v786432.r02	893796a0
+sxs-n64jp_v786432.r03	ed3cbf3d
+sxs-n64jp_v786432.rar	5dcb6e40
+sxs-n64jp_v786432.sfv	98aabdd6

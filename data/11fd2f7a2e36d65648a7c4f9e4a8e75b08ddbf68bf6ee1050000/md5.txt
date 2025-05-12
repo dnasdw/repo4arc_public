@@ -1,0 +1,5 @@
+sxs-game_dev_story_v327680.nfo	977a3cb0d9253db078d1c08f881ca188
+sxs-game_dev_story_v327680.r00	c0e942a39854364202ab0422b742b40e
+sxs-game_dev_story_v327680.r01	24ceefc062e8d459f94ce256be99a4a2
+sxs-game_dev_story_v327680.rar	814de7802da30410e369f793583d0dc7
+sxs-game_dev_story_v327680.sfv	5035de51b584c643a284a148f4f114d3

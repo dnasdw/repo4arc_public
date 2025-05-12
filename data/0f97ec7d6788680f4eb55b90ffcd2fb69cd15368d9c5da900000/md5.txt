@@ -1,0 +1,8 @@
+sxs-need_a_packet.nfo	c1b78e41c2a089ecd26ca5877a681fd5
+sxs-need_a_packet.r00	750a50931c1d4a0892f4fd8481638a3a
+sxs-need_a_packet.r01	d76fabfe2152e98d4c60859b053a08b3
+sxs-need_a_packet.r02	145dac49825e736c6168c4f893d3664d
+sxs-need_a_packet.r03	cfdfaaf6dfae4250b550f98b9fc6a0ab
+sxs-need_a_packet.r04	e91bdc895c46d392a5abaffdfa6b6f04
+sxs-need_a_packet.rar	35e1368c47d41316522c3fa9a01737a4
+sxs-need_a_packet.sfv	4784c6647bae31a0ef51ea8cf6b2effa

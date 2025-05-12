@@ -1,0 +1,11 @@
+i-sparklite_v131072.nfo	464b44b8
+i-sparklite_v131072.r00	77084f30
+i-sparklite_v131072.r01	318f9625
+i-sparklite_v131072.r02	1f2df3c0
+i-sparklite_v131072.r03	7e206453
+i-sparklite_v131072.r04	a177fe3e
+i-sparklite_v131072.r05	172737f7
+i-sparklite_v131072.r06	5f7f8858
+i-sparklite_v131072.r07	01b2137f
+i-sparklite_v131072.rar	e80bb5bf
+i-sparklite_v131072.sfv	5a3f07fe

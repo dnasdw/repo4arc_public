@@ -1,0 +1,14 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-alchemic_cutie.jpg	-	169761	1	0	0	0
+sxs-alchemic_cutie.nfo	-	6368	1	169761	0	1
+sxs-alchemic_cutie.r00	-	100000000	1	176129	0	2
+sxs-alchemic_cutie.r01	-	100000000	1	100176129	0	98
+sxs-alchemic_cutie.r02	-	100000000	1	200176129	0	194
+sxs-alchemic_cutie.r03	-	100000000	1	300176129	0	290
+sxs-alchemic_cutie.r04	-	100000000	1	400176129	0	386
+sxs-alchemic_cutie.r05	-	100000000	1	500176129	0	482
+sxs-alchemic_cutie.r06	-	100000000	1	63299840	1	61
+sxs-alchemic_cutie.r07	-	100000000	1	163299840	1	157
+sxs-alchemic_cutie.r08	-	45408308	1	263299840	1	253
+sxs-alchemic_cutie.rar	-	100000000	1	308708148	1	297
+sxs-alchemic_cutie.sfv	-	330	1	408708148	1	393

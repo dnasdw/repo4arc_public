@@ -1,0 +1,6 @@
+lfc-rofr.nfo	afa2cba1
+lfc-rofr.r00	0029e898
+lfc-rofr.r01	f25c5c31
+lfc-rofr.r02	bc9bc9a4
+lfc-rofr.rar	5ad43502
+lfc-rofr.sfv	c440b629

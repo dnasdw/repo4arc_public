@@ -1,0 +1,5 @@
+lfc-uncannyvalley.nfo	-	4645	1	0	0	0
+lfc-uncannyvalley.r00	-	100000000	1	4645	0	1
+lfc-uncannyvalley.r01	-	12691345	1	100004645	0	97
+lfc-uncannyvalley.rar	-	100000000	1	112695990	0	110
+lfc-uncannyvalley.sfv	-	96	1	212695990	0	206

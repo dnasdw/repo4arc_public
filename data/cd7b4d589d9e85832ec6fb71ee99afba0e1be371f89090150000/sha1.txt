@@ -1,0 +1,4 @@
+sxs-smd_v393216.nfo	f7877cbc5c5456cc26afe8e98f6ff418ed4f3aac
+sxs-smd_v393216.r00	f42ebee4f6fae23bca55f92b990d3ba1b625739e
+sxs-smd_v393216.rar	d11ba5be5e08c778372facc68472d0187b6a7e4f
+sxs-smd_v393216.sfv	7a69628cc06d5aeedf88726adcfc1b48c3b71006

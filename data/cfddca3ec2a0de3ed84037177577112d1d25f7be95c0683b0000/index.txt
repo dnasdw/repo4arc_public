@@ -1,0 +1,10 @@
+sxs-hatsune_miku_project_diva_mega_mix_v327680.nfo	-	4730	1	0	0	0
+sxs-hatsune_miku_project_diva_mega_mix_v327680.r00	-	50000000	1	4730	0	1
+sxs-hatsune_miku_project_diva_mega_mix_v327680.r01	-	50000000	1	50004730	0	49
+sxs-hatsune_miku_project_diva_mega_mix_v327680.r02	-	50000000	1	100004730	0	97
+sxs-hatsune_miku_project_diva_mega_mix_v327680.r03	-	50000000	1	150004730	0	145
+sxs-hatsune_miku_project_diva_mega_mix_v327680.r04	-	50000000	1	200004730	0	193
+sxs-hatsune_miku_project_diva_mega_mix_v327680.r05	-	50000000	1	250004730	0	241
+sxs-hatsune_miku_project_diva_mega_mix_v327680.r06	-	8767467	1	300004730	0	289
+sxs-hatsune_miku_project_diva_mega_mix_v327680.rar	-	50000000	1	308772197	0	298
+sxs-hatsune_miku_project_diva_mega_mix_v327680.sfv	-	488	1	358772197	0	346

@@ -1,0 +1,4 @@
+sxs-redo.nfo	8545b3d62f7dccf786bbbe774b28b2dd
+sxs-redo.r00	9115b95a0e802880375bfc24f4275b51
+sxs-redo.rar	7266b02e5f9ccc149fda7b89a132a1a1
+sxs-redo.sfv	051cbabc4a2fb1d29feab6a8c5f0b25b

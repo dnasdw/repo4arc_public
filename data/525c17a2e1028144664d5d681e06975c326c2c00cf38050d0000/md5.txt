@@ -1,0 +1,8 @@
+sxs-hillbilly_doomsday.nfo	af492f35c7bf37a7350220c500651b5b
+sxs-hillbilly_doomsday.r00	edc1bc00dd763e36a885335f0e35a824
+sxs-hillbilly_doomsday.r01	f034ddd70752e79d6cd0b998164a40d1
+sxs-hillbilly_doomsday.r02	872cc1652b970c54754d9037e4ca63cd
+sxs-hillbilly_doomsday.r03	df099ede21159630f2c16e81c8be7963
+sxs-hillbilly_doomsday.r04	6f3ac545188f3898d50b3b083b61f884
+sxs-hillbilly_doomsday.rar	8b42af1b3c8d34ce0d371c787e5f12d1
+sxs-hillbilly_doomsday.sfv	5445fee8f99e448637692a9cc913f3ac

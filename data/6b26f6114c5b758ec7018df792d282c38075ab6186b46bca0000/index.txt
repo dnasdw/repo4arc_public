@@ -1,0 +1,7 @@
+sxs-sports_car_driver.nfo	-	7156	1	0	0	0
+sxs-sports_car_driver.r00	-	100000000	1	7156	0	1
+sxs-sports_car_driver.r01	-	100000000	1	100007156	0	97
+sxs-sports_car_driver.r02	-	100000000	1	200007156	0	193
+sxs-sports_car_driver.r03	-	34223545	1	300007156	0	289
+sxs-sports_car_driver.rar	-	100000000	1	334230701	0	322
+sxs-sports_car_driver.sfv	-	180	1	434230701	0	418

@@ -1,0 +1,4 @@
+sxs-breathedge_v65536.nfo	-	7148	1	0	0	0
+sxs-breathedge_v65536.r00	-	833455	1	7148	0	1
+sxs-breathedge_v65536.rar	-	50000000	1	840603	0	2
+sxs-breathedge_v65536.sfv	-	72	1	50840603	0	50

@@ -1,0 +1,8 @@
+v-quake_v131072.nfo	318f499f
+v-quake_v131072.r00	80b0bf78
+v-quake_v131072.r01	1a89d437
+v-quake_v131072.r02	f72cc639
+v-quake_v131072.r03	9e2ca049
+v-quake_v131072.r04	3a2f32b8
+v-quake_v131072.rar	a4ed21f8
+v-quake_v131072.sfv	3476db55

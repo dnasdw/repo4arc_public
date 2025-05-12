@@ -1,0 +1,11 @@
+sxs-art_sqool.nfo	689b6bd45f01445e117e1b05aced2150
+sxs-art_sqool.r00	e1e2032a098d5af5d7cc0fd9e7ff3b60
+sxs-art_sqool.r01	603e5b076ecd826dc5887de157cb3089
+sxs-art_sqool.r02	453252141f5d76c63142ee6136523a98
+sxs-art_sqool.r03	eccee04d75384e59ba22240eb99100e1
+sxs-art_sqool.r04	1623350e1d44558a80c144cc088714c4
+sxs-art_sqool.r05	f7ee61f7be48ddedca8f8c22edc175bb
+sxs-art_sqool.r06	0001612638ed334d24078a6631f13143
+sxs-art_sqool.r07	8cb941b4a1674067dbe16c88dc6d663c
+sxs-art_sqool.rar	1c1670939c2c5bd171a3baad4e572860
+sxs-art_sqool.sfv	6edd797136b864e7c818fe81b5ab442d

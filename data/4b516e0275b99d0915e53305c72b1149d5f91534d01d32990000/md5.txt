@@ -1,0 +1,12 @@
+sxs-lflu.nfo	22d46d4ff37fb0b495940e280ed125b4
+sxs-lflu.r00	efa40eb7726666677aeac08cf0e5c4cf
+sxs-lflu.r01	26c8ba5656c2f1e8f1415b1d73d560d3
+sxs-lflu.r02	79d9676df99d4ec4781e4615dad3b089
+sxs-lflu.r03	e7a7e038ea80a34e1a5120eaef0e4b09
+sxs-lflu.r04	ee3929b15d27f1e7bb918f9a865e3dfc
+sxs-lflu.r05	d1b2c8cc8ac99bc2bda03272a614e7f4
+sxs-lflu.r06	88595366d742e62de9eb9637059e6417
+sxs-lflu.r07	eedefcc5022b8ace5597d6dcf740d12b
+sxs-lflu.r08	7326f53581dd5c4cb72697750ca35978
+sxs-lflu.rar	90c3d02209f9c0ba5498f98e3e36deac
+sxs-lflu.sfv	f257dacc0963f553182afd44eb0b1926

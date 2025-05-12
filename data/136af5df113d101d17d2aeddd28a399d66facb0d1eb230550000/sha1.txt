@@ -1,0 +1,5 @@
+v-gunlord_x.nfo	e9d98240dac36d7e83ac5c69374b95ed56a32542
+v-gunlord_x.r00	879ccd2ed0d7bcd60f98488e03c05e1483221b80
+v-gunlord_x.r01	e0545c89c3a9080f45d8bc8ea27ee92c63450f5c
+v-gunlord_x.rar	65417b3f74502655aebefe1a910f5b4ba8ebcf8a
+v-gunlord_x.sfv	133541dddd5860aff7301e8563f7dc614bc8cd6a

@@ -1,0 +1,14 @@
+v-gunvolt_records_cychronicle.nfo	-	8632	1	0	0	0
+v-gunvolt_records_cychronicle.r00	-	100000000	1	8632	0	1
+v-gunvolt_records_cychronicle.r01	-	100000000	1	100008632	0	97
+v-gunvolt_records_cychronicle.r02	-	100000000	1	200008632	0	193
+v-gunvolt_records_cychronicle.r03	-	100000000	1	300008632	0	289
+v-gunvolt_records_cychronicle.r04	-	100000000	1	400008632	0	385
+v-gunvolt_records_cychronicle.r05	-	100000000	1	500008632	0	481
+v-gunvolt_records_cychronicle.r06	-	100000000	1	62251264	1	60
+v-gunvolt_records_cychronicle.r07	-	100000000	1	162251264	1	156
+v-gunvolt_records_cychronicle.r08	-	100000000	1	262251264	1	252
+v-gunvolt_records_cychronicle.r09	-	100000000	1	362251264	1	348
+v-gunvolt_records_cychronicle.r10	-	86828344	1	462251264	1	444
+v-gunvolt_records_cychronicle.rar	-	100000000	1	11330872	2	11
+v-gunvolt_records_cychronicle.sfv	-	528	1	111330872	2	107

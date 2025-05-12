@@ -1,0 +1,9 @@
+sxs-octopath_traveler_v196608.nfo	bdca3faa
+sxs-octopath_traveler_v196608.r00	79a8d680
+sxs-octopath_traveler_v196608.r01	1451b33b
+sxs-octopath_traveler_v196608.r02	65d401a8
+sxs-octopath_traveler_v196608.r03	4a817b45
+sxs-octopath_traveler_v196608.r04	33d91678
+sxs-octopath_traveler_v196608.r05	3b073a5b
+sxs-octopath_traveler_v196608.rar	18ad96fd
+sxs-octopath_traveler_v196608.sfv	21db923c

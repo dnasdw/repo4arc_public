@@ -1,0 +1,4 @@
+sxs-the_grisaia_trilogy_v131072.nfo	-	10268	1	0	0	0
+sxs-the_grisaia_trilogy_v131072.r00	-	13833413	1	10268	0	1
+sxs-the_grisaia_trilogy_v131072.rar	-	50000000	1	13843681	0	15
+sxs-the_grisaia_trilogy_v131072.sfv	-	92	1	63843681	0	63

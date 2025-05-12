@@ -1,0 +1,4 @@
+sxs-genseisuikoden_plus_v65536.nfo	f7fffd61
+sxs-genseisuikoden_plus_v65536.r00	ed83725f
+sxs-genseisuikoden_plus_v65536.rar	59f49784
+sxs-genseisuikoden_plus_v65536.sfv	d9fcd655

@@ -1,0 +1,3 @@
+sxs-o2_campfire_dlc.nfo	1cf96dc8404d4e60987cd76a0bc75d4c
+sxs-o2_campfire_dlc.rar	95ff04116607a139229c4987fe838c00
+sxs-o2_campfire_dlc.sfv	3555dbe5277a88ea5d3ff1a95a788685

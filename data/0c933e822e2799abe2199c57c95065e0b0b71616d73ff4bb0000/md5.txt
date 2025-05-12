@@ -1,0 +1,8 @@
+sxs-beholder_v65536.nfo	ee5cbe12f894c65634e1b7d5c86c492d
+sxs-beholder_v65536.r00	1c9f8d1f21ae10cb3f3e62f2b0dea4d7
+sxs-beholder_v65536.r01	aa17f05a1d800cc8e1ecf3a53bd6b429
+sxs-beholder_v65536.r02	91bc2f59df4fa402450a5f917d378926
+sxs-beholder_v65536.r03	c3f2786a381d50995709ee891bd2fee5
+sxs-beholder_v65536.r04	b9f50f8ce54798c911d2858ee2716a7b
+sxs-beholder_v65536.rar	7efd2c1b6ca383d45d23703b06062c77
+sxs-beholder_v65536.sfv	8d8110441d892ebc3b3ced95fcadca52

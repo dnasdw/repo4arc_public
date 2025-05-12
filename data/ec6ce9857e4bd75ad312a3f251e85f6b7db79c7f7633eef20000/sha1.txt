@@ -1,0 +1,7 @@
+delight.nfo	efabc879bc4d411ec4222b7d3a712808bb198d19
+dl-liegedragon.r00	306311c6628d6cb4b17d272c2b19fd7e5bafdb6e
+dl-liegedragon.r01	d0f69ae2e36ec2d966103b3c7f584d9b31dc8d9d
+dl-liegedragon.r02	bf3e8f4baa2864a20246500d6009f47d6064eb20
+dl-liegedragon.r03	97fa552db1947a4760342d64880363232eab300d
+dl-liegedragon.rar	ff0f81ffb5f21f49c39c97e74cc8feddf69ed26c
+dl-liegedragon.sfv	81f76315087c8bf406d4d58c354eb2a810bed0e2

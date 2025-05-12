@@ -1,0 +1,7 @@
+lfc-virt_v262144.nfo	fa3b9315
+lfc-virt_v262144.r00	bf1e530a
+lfc-virt_v262144.r01	2ae05a35
+lfc-virt_v262144.r02	3a4e03c4
+lfc-virt_v262144.r03	dd812645
+lfc-virt_v262144.rar	eecc560b
+lfc-virt_v262144.sfv	106e7868

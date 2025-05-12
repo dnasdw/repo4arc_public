@@ -1,0 +1,8 @@
+sxs-smoots_golf_v131072.nfo	0ebfb469
+sxs-smoots_golf_v131072.r00	e7d81407
+sxs-smoots_golf_v131072.r01	30058265
+sxs-smoots_golf_v131072.r02	e6a5cdc1
+sxs-smoots_golf_v131072.r03	da5cbe9b
+sxs-smoots_golf_v131072.r04	6064c199
+sxs-smoots_golf_v131072.rar	618bf58f
+sxs-smoots_golf_v131072.sfv	1f391ee9

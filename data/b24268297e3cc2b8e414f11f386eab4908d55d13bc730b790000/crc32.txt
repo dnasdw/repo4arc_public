@@ -1,0 +1,12 @@
+n-pokemonviolet_v65536.nfo	49c46342
+n-pokemonviolet_v65536.r00	a53546e4
+n-pokemonviolet_v65536.r01	a0f08b89
+n-pokemonviolet_v65536.r02	dc615c19
+n-pokemonviolet_v65536.r03	64d6ca82
+n-pokemonviolet_v65536.r04	6ce4772d
+n-pokemonviolet_v65536.r05	6afffbf7
+n-pokemonviolet_v65536.r06	3ef33ead
+n-pokemonviolet_v65536.r07	80d849d0
+n-pokemonviolet_v65536.r08	86d50ab7
+n-pokemonviolet_v65536.rar	7d2f4d96
+n-pokemonviolet_v65536.sfv	85112260

@@ -1,0 +1,5 @@
+lfc-oldschoolracer2.nfo	ea073f905e8e05239d72ecb326c3346d
+lfc-oldschoolracer2.r00	438433f11dcf19335f6c505a6fc763bc
+lfc-oldschoolracer2.r01	05cd55c17b5a7ace36914e3cc9c2ec50
+lfc-oldschoolracer2.rar	f166b0ac9c19caf0ded886c777a24e01
+lfc-oldschoolracer2.sfv	ca88bc99bc47b56f8504366042d29538

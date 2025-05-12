@@ -1,0 +1,9 @@
+sxs-chasm_v262144.nfo	36e2de59
+sxs-chasm_v262144.r00	56c4affb
+sxs-chasm_v262144.r01	98f2ea3c
+sxs-chasm_v262144.r02	c5573433
+sxs-chasm_v262144.r03	5bdfec76
+sxs-chasm_v262144.r04	7f13047a
+sxs-chasm_v262144.r05	277bc03f
+sxs-chasm_v262144.rar	913da724
+sxs-chasm_v262144.sfv	9c566aff

@@ -1,0 +1,3 @@
+sxs-dredge_dlc.nfo	21d2b8ca301aea60b939f7a5d690437b
+sxs-dredge_dlc.rar	0c935ab3c3c8375d28e25e8711afb386
+sxs-dredge_dlc.sfv	81c3b912dba2d0261bea0564181bc27d

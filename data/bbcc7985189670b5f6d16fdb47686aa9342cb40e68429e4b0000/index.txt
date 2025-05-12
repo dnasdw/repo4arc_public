@@ -1,0 +1,6 @@
+sxs-squidlit.nfo	-	5276	1	0	0	0
+sxs-squidlit.r00	-	50000000	1	5276	0	1
+sxs-squidlit.r01	-	50000000	1	50005276	0	49
+sxs-squidlit.r02	-	27667647	1	100005276	0	97
+sxs-squidlit.rar	-	50000000	1	127672923	0	124
+sxs-squidlit.sfv	-	108	1	177672923	0	172

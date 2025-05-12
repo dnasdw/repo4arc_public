@@ -1,0 +1,5 @@
+bbb-n-ad6la.nfo	-	5517	1	0	0	0
+bbb-n-ad6la.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ad6la.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ad6la.part3.rar	-	103201908	1	500005517	0	479
+bbb-n-ad6la.sfv	-	96	1	65453172	1	63

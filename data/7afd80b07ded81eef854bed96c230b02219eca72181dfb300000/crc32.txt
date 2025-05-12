@@ -1,0 +1,16 @@
+lfc-grth.nfo	4c4f3cfb
+lfc-grth.r00	3194dc8f
+lfc-grth.r01	8eca2c5a
+lfc-grth.r02	f43a7e24
+lfc-grth.r03	af5aff2d
+lfc-grth.r04	8b8baa18
+lfc-grth.r05	97780437
+lfc-grth.r06	df18f2b1
+lfc-grth.r07	5c141049
+lfc-grth.r08	a2d9fe6c
+lfc-grth.r09	461dc015
+lfc-grth.r10	c2201bfd
+lfc-grth.r11	795ee512
+lfc-grth.r12	5b3fa731
+lfc-grth.rar	ce129a55
+lfc-grth.sfv	1bee0a12

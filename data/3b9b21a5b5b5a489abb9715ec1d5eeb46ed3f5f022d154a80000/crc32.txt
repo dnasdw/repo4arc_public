@@ -1,0 +1,6 @@
+sxs-trine_2_v65536.nfo	dd1e9054
+sxs-trine_2_v65536.r00	74cd64ce
+sxs-trine_2_v65536.r01	45aba1c9
+sxs-trine_2_v65536.r02	a93dd71f
+sxs-trine_2_v65536.rar	bc70e7b3
+sxs-trine_2_v65536.sfv	6a4d9738

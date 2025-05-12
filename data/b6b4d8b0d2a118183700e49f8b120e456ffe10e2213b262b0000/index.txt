@@ -1,0 +1,4 @@
+sxs-mahluk_dark_demon_v65536.nfo	-	6446	1	0	0	0
+sxs-mahluk_dark_demon_v65536.r00	-	6721140	1	6446	0	1
+sxs-mahluk_dark_demon_v65536.rar	-	50000000	1	6727586	0	8
+sxs-mahluk_dark_demon_v65536.sfv	-	86	1	56727586	0	56

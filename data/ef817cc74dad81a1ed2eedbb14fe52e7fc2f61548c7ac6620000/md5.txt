@@ -1,0 +1,14 @@
+lfc-bravematch.nfo	5c12fed70f15e1fa0a2c43b8ddf8603e
+lfc-bravematch.r00	40b733c31cbf77dd891bccf0885a3a4a
+lfc-bravematch.r01	07b4689bf906ad25b22ede6874d829cd
+lfc-bravematch.r02	42ae85a459a63abb610b7e2a25608b27
+lfc-bravematch.r03	524fdba98532f5cf5c1e1aa0b9f94233
+lfc-bravematch.r04	540ef55ff18246ba55a75456fa736922
+lfc-bravematch.r05	3b1780b5e3a0a3b7d1b946ed2e7a1d2d
+lfc-bravematch.r06	59d856ddfe6550125e4a1a3da752a02e
+lfc-bravematch.r07	c94e00c391d9e3f6852df9e5225ddd71
+lfc-bravematch.r08	132f6ef2b306fbb40292582f2ef3b52f
+lfc-bravematch.r09	e90b99ba82192d71be9c2624c1934f18
+lfc-bravematch.r10	62a8993d22c6242e893b080fa6200d29
+lfc-bravematch.rar	bb4f38bec0f00ac83087f3c1b2238ade
+lfc-bravematch.sfv	fc493b1b9dc0b34690b4b64867770a94

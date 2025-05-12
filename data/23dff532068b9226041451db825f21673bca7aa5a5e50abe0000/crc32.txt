@@ -1,0 +1,11 @@
+lfc-urbanstreetfighting.nfo	005d5765
+lfc-urbanstreetfighting.r00	8b4e40be
+lfc-urbanstreetfighting.r01	f578c367
+lfc-urbanstreetfighting.r02	67cf6653
+lfc-urbanstreetfighting.r03	cc8c137b
+lfc-urbanstreetfighting.r04	0de90b19
+lfc-urbanstreetfighting.r05	021dcfa3
+lfc-urbanstreetfighting.r06	53236045
+lfc-urbanstreetfighting.r07	68a89f74
+lfc-urbanstreetfighting.rar	451bcea2
+lfc-urbanstreetfighting.sfv	0050eb0a

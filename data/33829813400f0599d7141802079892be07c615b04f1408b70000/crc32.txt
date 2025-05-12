@@ -1,0 +1,13 @@
+v-rift_keeper.nfo	031f2e1b
+v-rift_keeper.r00	ce444dcc
+v-rift_keeper.r01	1fafac7f
+v-rift_keeper.r02	13b081d0
+v-rift_keeper.r03	fe1dafd0
+v-rift_keeper.r04	6c6b5c62
+v-rift_keeper.r05	63be7d01
+v-rift_keeper.r06	733d2ff3
+v-rift_keeper.r07	7e859e1c
+v-rift_keeper.r08	48f5d448
+v-rift_keeper.r09	684ba291
+v-rift_keeper.rar	95426b7d
+v-rift_keeper.sfv	d3790bcf

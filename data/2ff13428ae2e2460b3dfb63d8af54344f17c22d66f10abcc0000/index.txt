@@ -1,0 +1,4 @@
+bbb-n-ad8ya.nfo	-	5517	1	0	0	0
+bbb-n-ad8ya.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ad8ya.part2.rar	-	79790554	1	250005517	0	240
+bbb-n-ad8ya.sfv	-	64	1	329796071	0	317

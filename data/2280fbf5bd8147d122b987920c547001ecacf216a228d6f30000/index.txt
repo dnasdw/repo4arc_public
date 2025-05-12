@@ -1,0 +1,4 @@
+sxs-eclipse_edge_of_light_v65536.nfo	-	4964	1	0	0	0
+sxs-eclipse_edge_of_light_v65536.r00	-	45472363	1	4964	0	1
+sxs-eclipse_edge_of_light_v65536.rar	-	50000000	1	45477327	0	45
+sxs-eclipse_edge_of_light_v65536.sfv	-	94	1	95477327	0	93

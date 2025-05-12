@@ -1,0 +1,9 @@
+sxs-melbits_world_v131072.nfo	d0920ef9
+sxs-melbits_world_v131072.r00	74d5dd4d
+sxs-melbits_world_v131072.r01	f0868685
+sxs-melbits_world_v131072.r02	efc516dd
+sxs-melbits_world_v131072.r03	7f188335
+sxs-melbits_world_v131072.r04	61ab19e5
+sxs-melbits_world_v131072.r05	ff2176d1
+sxs-melbits_world_v131072.rar	ff97452a
+sxs-melbits_world_v131072.sfv	d08db703

@@ -1,0 +1,6 @@
+lfc-gnonesgarden2.nfo	-	3949	1	0	0	0
+lfc-gnonesgarden2.r00	-	100000000	1	3949	0	1
+lfc-gnonesgarden2.r01	-	100000000	1	100003949	0	97
+lfc-gnonesgarden2.r02	-	33174236	1	200003949	0	193
+lfc-gnonesgarden2.rar	-	100000000	1	233178185	0	225
+lfc-gnonesgarden2.sfv	-	128	1	333178185	0	321

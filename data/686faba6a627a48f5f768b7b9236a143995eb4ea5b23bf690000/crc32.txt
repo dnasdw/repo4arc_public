@@ -1,0 +1,14 @@
+sxs-torchlight_iii_v327680.nfo	fdd04938
+sxs-torchlight_iii_v327680.r00	40c162a6
+sxs-torchlight_iii_v327680.r01	91e08a1f
+sxs-torchlight_iii_v327680.r02	ac32297c
+sxs-torchlight_iii_v327680.r03	826fe20d
+sxs-torchlight_iii_v327680.r04	cdb4969b
+sxs-torchlight_iii_v327680.r05	bb158b0a
+sxs-torchlight_iii_v327680.r06	4f833479
+sxs-torchlight_iii_v327680.r07	34851eea
+sxs-torchlight_iii_v327680.r08	00813a8b
+sxs-torchlight_iii_v327680.r09	067df959
+sxs-torchlight_iii_v327680.r10	d51c5acd
+sxs-torchlight_iii_v327680.rar	364741d8
+sxs-torchlight_iii_v327680.sfv	a72faa01

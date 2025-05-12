@@ -1,0 +1,3 @@
+sxs-go_fish_go_dlc.nfo	5994b51aa6ab6beafa8310cedf65540eaa37ee0d
+sxs-go_fish_go_dlc.rar	0c9e573db3b7a1f388179754dc37ae332c372e67
+sxs-go_fish_go_dlc.sfv	eb1b7d1af671a4d03c8ea533903d2c5a26c99b1e

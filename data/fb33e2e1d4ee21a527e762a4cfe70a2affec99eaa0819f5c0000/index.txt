@@ -1,0 +1,3 @@
+v-doom_eternal_ancient_gods_part_one_dlc.nfo	-	6532	1	0	0	0
+v-doom_eternal_ancient_gods_part_one_dlc.rar	-	103966	1	6532	0	1
+v-doom_eternal_ancient_gods_part_one_dlc.sfv	-	55	1	110498	0	2

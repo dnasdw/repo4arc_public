@@ -1,0 +1,4 @@
+brw-aatk.nfo	1a61938fa6d3bea7f7d55df96a87f54f20cb63f8
+brw-aatk.r00	ebb8e848c686f4bd2502b922da76ad811f3af9ca
+brw-aatk.rar	eaf30343c0e0cbd8f19d4d54e49215d3594de9c0
+brw-aatk.sfv	ad6fbd18fc2ae37de873089a4316c910eb5019fe

@@ -1,0 +1,4 @@
+v-mainlining.nfo	-	3952	1	0	0	0
+v-mainlining.r00	-	12061616	1	3952	0	1
+v-mainlining.rar	-	50000000	1	12065568	0	13
+v-mainlining.sfv	-	54	1	62065568	0	61

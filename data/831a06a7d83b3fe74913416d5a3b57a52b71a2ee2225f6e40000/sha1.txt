@@ -1,0 +1,3 @@
+sxs-dysmantle_doomsday_dlc.nfo	3677eca815258ccd5d6fbdc911011c8789f14c3f
+sxs-dysmantle_doomsday_dlc.rar	880beedb71efe93f092235a6013b0f79e3327944
+sxs-dysmantle_doomsday_dlc.sfv	ed0465a3c494688a790378bd8c842eb4b67bf378

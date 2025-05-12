@@ -1,0 +1,6 @@
+lfc-bpmi_v65536.nfo	a850f7bc
+lfc-bpmi_v65536.r00	6837e5e1
+lfc-bpmi_v65536.r01	c7ed8a60
+lfc-bpmi_v65536.r02	0d40369b
+lfc-bpmi_v65536.rar	ba5142cb
+lfc-bpmi_v65536.sfv	ab921504

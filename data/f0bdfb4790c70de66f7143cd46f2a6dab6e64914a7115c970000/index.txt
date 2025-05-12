@@ -1,0 +1,4 @@
+v-aborigenus.nfo	-	4576	1	0	0	0
+v-aborigenus.r00	-	30672199	1	4576	0	1
+v-aborigenus.rar	-	50000000	1	30676775	0	31
+v-aborigenus.sfv	-	54	1	80676775	0	79

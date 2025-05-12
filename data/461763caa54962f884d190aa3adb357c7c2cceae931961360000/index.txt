@@ -1,0 +1,10 @@
+sxs-morphies_law_v103.nfo	-	7148	1	0	0	0
+sxs-morphies_law_v103.r00	-	50000000	1	7148	0	1
+sxs-morphies_law_v103.r01	-	50000000	1	50007148	0	49
+sxs-morphies_law_v103.r02	-	50000000	1	100007148	0	97
+sxs-morphies_law_v103.r03	-	50000000	1	150007148	0	145
+sxs-morphies_law_v103.r04	-	50000000	1	200007148	0	193
+sxs-morphies_law_v103.r05	-	50000000	1	250007148	0	241
+sxs-morphies_law_v103.r06	-	8070016	1	300007148	0	289
+sxs-morphies_law_v103.rar	-	50000000	1	308077164	0	297
+sxs-morphies_law_v103.sfv	-	288	1	358077164	0	345

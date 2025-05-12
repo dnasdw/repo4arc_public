@@ -1,0 +1,11 @@
+sxs-tbtwt_esmx_dlc.nfo	06740781
+sxs-tbtwt_esmx_dlc.r00	831105c6
+sxs-tbtwt_esmx_dlc.r01	c9b04f88
+sxs-tbtwt_esmx_dlc.r02	4c316d08
+sxs-tbtwt_esmx_dlc.r03	a0a3d22c
+sxs-tbtwt_esmx_dlc.r04	ad56ee1b
+sxs-tbtwt_esmx_dlc.r05	81d413ff
+sxs-tbtwt_esmx_dlc.r06	0416e994
+sxs-tbtwt_esmx_dlc.r07	0b69846c
+sxs-tbtwt_esmx_dlc.rar	21b0009e
+sxs-tbtwt_esmx_dlc.sfv	05801a59

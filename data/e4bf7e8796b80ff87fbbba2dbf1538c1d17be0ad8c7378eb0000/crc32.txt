@@ -1,0 +1,6 @@
+sxs-quadroids.nfo	addbfbe7
+sxs-quadroids.r00	641f66a9
+sxs-quadroids.r01	554157c6
+sxs-quadroids.r02	60ff3dce
+sxs-quadroids.rar	2570513a
+sxs-quadroids.sfv	ff313223

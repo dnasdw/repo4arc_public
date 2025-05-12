@@ -1,0 +1,3 @@
+sxs-goo_fighter.nfo	37b6a0e06bdb2be8b72560047e3d5a756caaf7ab
+sxs-goo_fighter.rar	70cbdc63d2da98840d76777dd820ada20a34e454
+sxs-goo_fighter.sfv	ae4d823d8988a5129d8b5a8615aa9168781c2d72

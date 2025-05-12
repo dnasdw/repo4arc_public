@@ -1,0 +1,5 @@
+sxs-one_person_story.nfo	87d5e62d07ed4b7821a8c6b280c5fb8916bd9ec8
+sxs-one_person_story.r00	8347644556cbab61e07b4cdd9a7a42d05e55c71e
+sxs-one_person_story.r01	a626bbcdc19e5e316462f8241651422d3a814500
+sxs-one_person_story.rar	b3756bc74300495b70998b53ea5e76c8792f6e3f
+sxs-one_person_story.sfv	8261599fa60df70e688bfbdf516d8bc9efbf91ee

@@ -1,0 +1,17 @@
+sxs-gunborg_dark_matters_v262144.nfo	-	5588	1	0	0	0
+sxs-gunborg_dark_matters_v262144.r00	-	50000000	1	5588	0	1
+sxs-gunborg_dark_matters_v262144.r01	-	50000000	1	50005588	0	49
+sxs-gunborg_dark_matters_v262144.r02	-	50000000	1	100005588	0	97
+sxs-gunborg_dark_matters_v262144.r03	-	50000000	1	150005588	0	145
+sxs-gunborg_dark_matters_v262144.r04	-	50000000	1	200005588	0	193
+sxs-gunborg_dark_matters_v262144.r05	-	50000000	1	250005588	0	241
+sxs-gunborg_dark_matters_v262144.r06	-	50000000	1	300005588	0	289
+sxs-gunborg_dark_matters_v262144.r07	-	50000000	1	350005588	0	337
+sxs-gunborg_dark_matters_v262144.r08	-	50000000	1	400005588	0	385
+sxs-gunborg_dark_matters_v262144.r09	-	50000000	1	450005588	0	433
+sxs-gunborg_dark_matters_v262144.r10	-	50000000	1	500005588	0	481
+sxs-gunborg_dark_matters_v262144.r11	-	50000000	1	12251264	1	12
+sxs-gunborg_dark_matters_v262144.r12	-	50000000	1	62251264	1	60
+sxs-gunborg_dark_matters_v262144.r13	-	30204522	1	112251264	1	108
+sxs-gunborg_dark_matters_v262144.rar	-	50000000	1	142455786	1	137
+sxs-gunborg_dark_matters_v262144.sfv	-	705	1	192455786	1	185

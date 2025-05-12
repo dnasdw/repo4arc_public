@@ -1,0 +1,4 @@
+sxs-crosscode_v327680.nfo	da857fbe0448bd3e245007dcea1aaa78
+sxs-crosscode_v327680.r00	4d32b90cb2a59de12f246076a7f87bef
+sxs-crosscode_v327680.rar	ac2d1f33cb25135fa378e51091b6294b
+sxs-crosscode_v327680.sfv	25e8754be94bae2451df47c61932d825

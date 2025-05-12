@@ -1,0 +1,5 @@
+sxs-rocket_wars.nfo	e73d3eeaf7d74c19948e97a6474a6bd5
+sxs-rocket_wars.r00	1bf8f4aba390f5bcf6435b7d65d355f3
+sxs-rocket_wars.r01	749aa68738893cbf87f655a041584c84
+sxs-rocket_wars.rar	76e57fbef68ba483fc8e49d6b5293cc6
+sxs-rocket_wars.sfv	1ea2f93b9ecdd3dcf6fe31c17fdff4c6

@@ -1,0 +1,7 @@
+v-arcade_tycoon_v131072.nfo	a09ad37f7efa7b92c9335deb205b6554
+v-arcade_tycoon_v131072.r00	a93e50198585d6952efb69873a9e8292
+v-arcade_tycoon_v131072.r01	3e5f981ee9f2316417cae363f5834642
+v-arcade_tycoon_v131072.r02	f10d0e412a9ce9007c80e9e5fae16201
+v-arcade_tycoon_v131072.r03	542c7cecb9d8e9afd9518c30e60458bf
+v-arcade_tycoon_v131072.rar	d56fd8a73459f57fe5aa22408391635e
+v-arcade_tycoon_v131072.sfv	abfc4ed58074e7ef557a6b1162c164b5

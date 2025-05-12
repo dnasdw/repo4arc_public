@@ -1,0 +1,7 @@
+lfc-supertennisblastupd.nfo	-	3430	1	0	0	0
+lfc-supertennisblastupd.r00	-	50000000	1	3430	0	1
+lfc-supertennisblastupd.r01	-	50000000	1	50003430	0	49
+lfc-supertennisblastupd.r02	-	50000000	1	100003430	0	97
+lfc-supertennisblastupd.r03	-	11621395	1	150003430	0	145
+lfc-supertennisblastupd.rar	-	50000000	1	161624825	0	157
+lfc-supertennisblastupd.sfv	-	190	1	211624825	0	205

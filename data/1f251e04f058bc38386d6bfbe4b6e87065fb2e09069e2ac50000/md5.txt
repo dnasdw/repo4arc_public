@@ -1,0 +1,6 @@
+v-ffvii_v196608.nfo	0fab5889990f63cf06ea0de5bc62a8e8
+v-ffvii_v196608.r00	062ea708a8e2924d55a3bf9b7a335ca8
+v-ffvii_v196608.r01	d8a0a6df2e6b8fbb08ebcc50030d6bc8
+v-ffvii_v196608.r02	eeeadebff620e0f553cb1bea8c8e25ff
+v-ffvii_v196608.rar	d0f297d2c881ac3bef0557b6742491f8
+v-ffvii_v196608.sfv	8137f383ac449d56be9bb1a86d62a46b

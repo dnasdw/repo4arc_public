@@ -1,0 +1,6 @@
+sxs-udo_unidentified_drilling_object.nfo	128d991d
+sxs-udo_unidentified_drilling_object.r00	b7e47fde
+sxs-udo_unidentified_drilling_object.r01	a821d920
+sxs-udo_unidentified_drilling_object.r02	c9844dd1
+sxs-udo_unidentified_drilling_object.rar	4e9f759f
+sxs-udo_unidentified_drilling_object.sfv	cfec9c18

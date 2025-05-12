@@ -1,0 +1,4 @@
+v-gates_of_the_mind_v65536.nfo	-	4966	1	0	0	0
+v-gates_of_the_mind_v65536.r00	-	43857324	1	4966	0	1
+v-gates_of_the_mind_v65536.rar	-	100000000	1	43862290	0	43
+v-gates_of_the_mind_v65536.sfv	-	82	1	143862290	0	139

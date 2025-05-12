@@ -1,0 +1,10 @@
+sxs-shovel_knight_dig_v262144.nfo	-	6836	1	0	0	0
+sxs-shovel_knight_dig_v262144.r00	-	100000000	1	6836	0	1
+sxs-shovel_knight_dig_v262144.r01	-	100000000	1	100006836	0	97
+sxs-shovel_knight_dig_v262144.r02	-	100000000	1	200006836	0	193
+sxs-shovel_knight_dig_v262144.r03	-	100000000	1	300006836	0	289
+sxs-shovel_knight_dig_v262144.r04	-	100000000	1	400006836	0	385
+sxs-shovel_knight_dig_v262144.r05	-	100000000	1	500006836	0	481
+sxs-shovel_knight_dig_v262144.r06	-	80921622	1	62251264	1	60
+sxs-shovel_knight_dig_v262144.rar	-	100000000	1	143172886	1	138
+sxs-shovel_knight_dig_v262144.sfv	-	352	1	243172886	1	234

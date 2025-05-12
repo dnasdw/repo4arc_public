@@ -1,0 +1,9 @@
+sxs-mana_spark.nfo	-	4497	1	0	0	0
+sxs-mana_spark.r00	-	50000000	1	4497	0	1
+sxs-mana_spark.r01	-	50000000	1	50004497	0	49
+sxs-mana_spark.r02	-	50000000	1	100004497	0	97
+sxs-mana_spark.r03	-	50000000	1	150004497	0	145
+sxs-mana_spark.r04	-	50000000	1	200004497	0	193
+sxs-mana_spark.r05	-	31854575	1	250004497	0	241
+sxs-mana_spark.rar	-	50000000	1	281859072	0	272
+sxs-mana_spark.sfv	-	203	1	331859072	0	320

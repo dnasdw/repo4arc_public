@@ -1,0 +1,4 @@
+sxs-nes_v196608.nfo	da431a2d
+sxs-nes_v196608.r00	e5d9299e
+sxs-nes_v196608.rar	a6543c0a
+sxs-nes_v196608.sfv	8e1a49e9

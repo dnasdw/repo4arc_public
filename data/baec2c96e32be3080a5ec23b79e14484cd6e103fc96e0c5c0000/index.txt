@@ -1,0 +1,7 @@
+sxs-klondike_solitaire_v262144.nfo	-	6524	1	0	0	0
+sxs-klondike_solitaire_v262144.r00	-	50000000	1	6524	0	1
+sxs-klondike_solitaire_v262144.r01	-	50000000	1	50006524	0	49
+sxs-klondike_solitaire_v262144.r02	-	50000000	1	100006524	0	97
+sxs-klondike_solitaire_v262144.r03	-	18100997	1	150006524	0	145
+sxs-klondike_solitaire_v262144.rar	-	50000000	1	168107521	0	163
+sxs-klondike_solitaire_v262144.sfv	-	225	1	218107521	0	211

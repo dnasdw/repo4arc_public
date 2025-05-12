@@ -1,0 +1,7 @@
+v-luigi3_mp_pack_2_dlc.nfo	b0cca2ec
+v-luigi3_mp_pack_2_dlc.r00	75043ffc
+v-luigi3_mp_pack_2_dlc.r01	6a1e336e
+v-luigi3_mp_pack_2_dlc.r02	9d62c85e
+v-luigi3_mp_pack_2_dlc.r03	bf7c54e6
+v-luigi3_mp_pack_2_dlc.rar	d036cd22
+v-luigi3_mp_pack_2_dlc.sfv	d7a51694

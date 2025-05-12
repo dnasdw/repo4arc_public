@@ -1,0 +1,7 @@
+sxs-guts_n_goals.nfo	-	5120	1	0	0	0
+sxs-guts_n_goals.r00	-	50000000	1	5120	0	1
+sxs-guts_n_goals.r01	-	50000000	1	50005120	0	49
+sxs-guts_n_goals.r02	-	50000000	1	100005120	0	97
+sxs-guts_n_goals.r03	-	16075154	1	150005120	0	145
+sxs-guts_n_goals.rar	-	50000000	1	166080274	0	161
+sxs-guts_n_goals.sfv	-	155	1	216080274	0	209

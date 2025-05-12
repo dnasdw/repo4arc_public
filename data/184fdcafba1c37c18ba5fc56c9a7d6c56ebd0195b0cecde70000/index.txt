@@ -1,0 +1,3 @@
+sxs-box_align_v65536.nfo	-	4496	1	0	0	0
+sxs-box_align_v65536.rar	-	40798611	1	4496	0	1
+sxs-box_align_v65536.sfv	-	35	1	40803107	0	40

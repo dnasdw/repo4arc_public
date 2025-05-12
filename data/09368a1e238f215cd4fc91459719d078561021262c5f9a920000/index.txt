@@ -1,0 +1,6 @@
+sxs-the_travelers_path.nfo	-	5510	1	0	0	0
+sxs-the_travelers_path.r00	-	100000000	1	5510	0	1
+sxs-the_travelers_path.r01	-	100000000	1	100005510	0	97
+sxs-the_travelers_path.r02	-	46421085	1	200005510	0	193
+sxs-the_travelers_path.rar	-	100000000	1	246426595	0	238
+sxs-the_travelers_path.sfv	-	148	1	346426595	0	334

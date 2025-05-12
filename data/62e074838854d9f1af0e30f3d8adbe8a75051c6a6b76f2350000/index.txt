@@ -1,0 +1,6 @@
+lfc-ghostgrab.nfo	-	7168	1	0	0	0
+lfc-ghostgrab.r00	-	50000000	1	7168	0	1
+lfc-ghostgrab.r01	-	50000000	1	50007168	0	49
+lfc-ghostgrab.r02	-	3762485	1	100007168	0	97
+lfc-ghostgrab.rar	-	50000000	1	103769653	0	101
+lfc-ghostgrab.sfv	-	112	1	153769653	0	149

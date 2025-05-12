@@ -1,0 +1,6 @@
+bbb-n-ptdkiosk.nfo	1bdc3ed8249a33d588cbf90db30959b6
+bbb-n-ptdkiosk.part1.rar	8fcb24c794134f822f950d2d1823032d
+bbb-n-ptdkiosk.part2.rar	ac1129b1c78822d4ad3179538f43a9aa
+bbb-n-ptdkiosk.part3.rar	da81168933c8c286440dabf1df3953f0
+bbb-n-ptdkiosk.part4.rar	743f69f3bc9ed559d719dd9d465723b1
+bbb-n-ptdkiosk.sfv	0e42e3eaf9d0eb355a9db3b5dcb69c45

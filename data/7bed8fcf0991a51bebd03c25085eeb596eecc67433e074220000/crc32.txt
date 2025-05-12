@@ -1,0 +1,17 @@
+sxs-seduction_a_monks_fate.nfo	757859c3
+sxs-seduction_a_monks_fate.r00	0a19e026
+sxs-seduction_a_monks_fate.r01	01a01796
+sxs-seduction_a_monks_fate.r02	0cf310f8
+sxs-seduction_a_monks_fate.r03	2972440a
+sxs-seduction_a_monks_fate.r04	7f0f2394
+sxs-seduction_a_monks_fate.r05	fbfd41ae
+sxs-seduction_a_monks_fate.r06	e0f6d53e
+sxs-seduction_a_monks_fate.r07	c1c1c2a4
+sxs-seduction_a_monks_fate.r08	8b1ea01b
+sxs-seduction_a_monks_fate.r09	94f54add
+sxs-seduction_a_monks_fate.r10	1766f244
+sxs-seduction_a_monks_fate.r11	f341b44f
+sxs-seduction_a_monks_fate.r12	21fe4b66
+sxs-seduction_a_monks_fate.r13	be494ec5
+sxs-seduction_a_monks_fate.rar	336a6488
+sxs-seduction_a_monks_fate.sfv	b13bd011

@@ -1,0 +1,4 @@
+sxs-korg_gadget_v196608.nfo	-	4965	1	0	0	0
+sxs-korg_gadget_v196608.r00	-	26537864	1	4965	0	1
+sxs-korg_gadget_v196608.rar	-	50000000	1	26542829	0	27
+sxs-korg_gadget_v196608.sfv	-	76	1	76542829	0	75

@@ -1,0 +1,6 @@
+v-red_dead_redemption_v196608.nfo	-	5434	1	0	0	0
+v-red_dead_redemption_v196608.r00	-	100000000	1	5434	0	1
+v-red_dead_redemption_v196608.r01	-	100000000	1	100005434	0	97
+v-red_dead_redemption_v196608.r02	-	75549374	1	200005434	0	193
+v-red_dead_redemption_v196608.rar	-	100000000	1	275554808	0	266
+v-red_dead_redemption_v196608.sfv	-	176	1	375554808	0	362

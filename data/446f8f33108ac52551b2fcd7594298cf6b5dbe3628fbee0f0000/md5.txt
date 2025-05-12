@@ -1,0 +1,6 @@
+v-katana_zero_v131072.nfo	dd638f881d30dc5e08cdd75bdc2e42b5
+v-katana_zero_v131072.r00	e37db6b219c8b71f9dcb5091775edd98
+v-katana_zero_v131072.r01	62e381fd4d0bfd27a17ef2aacc40b62d
+v-katana_zero_v131072.r02	9b8181dbcd73b5973903df15d1812687
+v-katana_zero_v131072.rar	92bea1f8a09c12ab77c47619282d03e3
+v-katana_zero_v131072.sfv	17f8553d6cb48e021fb305b139f790b7

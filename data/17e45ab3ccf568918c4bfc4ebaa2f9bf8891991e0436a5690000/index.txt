@@ -1,0 +1,10 @@
+sxs-magic_city_detective_secret_desire_collectors_edition.nfo	-	5510	1	0	0	0
+sxs-magic_city_detective_secret_desire_collectors_edition.r00	-	100000000	1	5510	0	1
+sxs-magic_city_detective_secret_desire_collectors_edition.r01	-	100000000	1	100005510	0	97
+sxs-magic_city_detective_secret_desire_collectors_edition.r02	-	100000000	1	200005510	0	193
+sxs-magic_city_detective_secret_desire_collectors_edition.r03	-	100000000	1	300005510	0	289
+sxs-magic_city_detective_secret_desire_collectors_edition.r04	-	100000000	1	400005510	0	385
+sxs-magic_city_detective_secret_desire_collectors_edition.r05	-	100000000	1	500005510	0	481
+sxs-magic_city_detective_secret_desire_collectors_edition.r06	-	91536125	1	62251264	1	60
+sxs-magic_city_detective_secret_desire_collectors_edition.rar	-	100000000	1	153787389	1	148
+sxs-magic_city_detective_secret_desire_collectors_edition.sfv	-	576	1	253787389	1	244

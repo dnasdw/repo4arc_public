@@ -1,0 +1,6 @@
+lfc-qure.nfo	9ad0e145f3101f1b9e99b6e9866a2be9
+lfc-qure.r00	80edd78842b286a5e085f8886f9ee9ec
+lfc-qure.r01	8985afdd52a60d82a997fd62afd772fa
+lfc-qure.r02	ac14046df56bda7faa0890b06e70cddc
+lfc-qure.rar	7e47b8c9d91e46fa98ffb4631fab775c
+lfc-qure.sfv	6832ecd2266127ba10675190cacb8fd9

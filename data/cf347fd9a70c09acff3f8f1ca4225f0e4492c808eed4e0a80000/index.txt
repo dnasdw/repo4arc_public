@@ -1,0 +1,3 @@
+v-the_smurfs_2_the_prisoner_of_the_green_stone_outfit_pack_dlc.nfo	-	7462	1	0	0	0
+v-the_smurfs_2_the_prisoner_of_the_green_stone_outfit_pack_dlc.rar	-	124439	1	7462	0	1
+v-the_smurfs_2_the_prisoner_of_the_green_stone_outfit_pack_dlc.sfv	-	77	1	131901	0	2

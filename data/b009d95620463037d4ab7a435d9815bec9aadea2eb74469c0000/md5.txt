@@ -1,0 +1,8 @@
+sxs-mana_spark_v196608.nfo	d4e6af862636f1cc07e5e47d5b8b6f6b
+sxs-mana_spark_v196608.r00	b16deffdd11e83738c15e551956c0202
+sxs-mana_spark_v196608.r01	13d362d51e0fb1e3607cef427cf6e13e
+sxs-mana_spark_v196608.r02	e91c9393196f118d568bcf493644db43
+sxs-mana_spark_v196608.r03	74ba5e0c3325b60a5a3555f36e9be1e5
+sxs-mana_spark_v196608.r04	7504b9672a8013160070bfdc846b6952
+sxs-mana_spark_v196608.rar	8c5d6b743e2186531372e7017de04ce7
+sxs-mana_spark_v196608.sfv	a64f94d39f8c505eaea0c82c1bdcdcbc

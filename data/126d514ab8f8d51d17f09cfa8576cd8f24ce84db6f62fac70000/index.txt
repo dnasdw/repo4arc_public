@@ -1,0 +1,11 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-bats_bloodsucker_anti_terror_squad.jpg	-	155214	1	0	0	0
+sxs-bats_bloodsucker_anti_terror_squad.nfo	-	3482	1	155214	0	1
+sxs-bats_bloodsucker_anti_terror_squad.r00	-	100000000	1	158696	0	2
+sxs-bats_bloodsucker_anti_terror_squad.r01	-	100000000	1	100158696	0	98
+sxs-bats_bloodsucker_anti_terror_squad.r02	-	100000000	1	200158696	0	194
+sxs-bats_bloodsucker_anti_terror_squad.r03	-	100000000	1	300158696	0	290
+sxs-bats_bloodsucker_anti_terror_squad.r04	-	100000000	1	400158696	0	386
+sxs-bats_bloodsucker_anti_terror_squad.r05	-	69035887	1	500158696	0	482
+sxs-bats_bloodsucker_anti_terror_squad.rar	-	100000000	1	31287151	1	30
+sxs-bats_bloodsucker_anti_terror_squad.sfv	-	371	1	131287151	1	126

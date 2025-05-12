@@ -1,0 +1,9 @@
+sxs-checkers_for_kids.nfo	-	6056	1	0	0	0
+sxs-checkers_for_kids.r00	-	50000000	1	6056	0	1
+sxs-checkers_for_kids.r01	-	50000000	1	50006056	0	49
+sxs-checkers_for_kids.r02	-	50000000	1	100006056	0	97
+sxs-checkers_for_kids.r03	-	50000000	1	150006056	0	145
+sxs-checkers_for_kids.r04	-	50000000	1	200006056	0	193
+sxs-checkers_for_kids.r05	-	31178656	1	250006056	0	241
+sxs-checkers_for_kids.rar	-	50000000	1	281184712	0	271
+sxs-checkers_for_kids.sfv	-	252	1	331184712	0	319

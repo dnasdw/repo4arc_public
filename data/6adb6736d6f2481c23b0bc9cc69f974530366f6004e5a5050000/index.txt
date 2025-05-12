@@ -1,0 +1,5 @@
+sxs-concordia_digital_edition_v720896.nfo	-	8474	1	0	0	0
+sxs-concordia_digital_edition_v720896.r00	-	100000000	1	8474	0	1
+sxs-concordia_digital_edition_v720896.r01	-	86445740	1	100008474	0	97
+sxs-concordia_digital_edition_v720896.rar	-	100000000	1	186454214	0	180
+sxs-concordia_digital_edition_v720896.sfv	-	156	1	286454214	0	276

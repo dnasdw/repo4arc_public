@@ -1,0 +1,3 @@
+sxs-tesla_vs_lovecraft_science_dlc.nfo	-	7148	1	0	0	0
+sxs-tesla_vs_lovecraft_science_dlc.rar	-	104087	1	7148	0	1
+sxs-tesla_vs_lovecraft_science_dlc.sfv	-	49	1	111235	0	2

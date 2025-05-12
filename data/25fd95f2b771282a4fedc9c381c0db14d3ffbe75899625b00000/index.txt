@@ -1,0 +1,9 @@
+v-detective_agency_gray_tie_2_collectors_edition.nfo	-	4888	1	0	0	0
+v-detective_agency_gray_tie_2_collectors_edition.r00	-	100000000	1	4888	0	1
+v-detective_agency_gray_tie_2_collectors_edition.r01	-	100000000	1	100004888	0	97
+v-detective_agency_gray_tie_2_collectors_edition.r02	-	100000000	1	200004888	0	193
+v-detective_agency_gray_tie_2_collectors_edition.r03	-	100000000	1	300004888	0	289
+v-detective_agency_gray_tie_2_collectors_edition.r04	-	100000000	1	400004888	0	385
+v-detective_agency_gray_tie_2_collectors_edition.r05	-	33766098	1	500004888	0	481
+v-detective_agency_gray_tie_2_collectors_edition.rar	-	100000000	1	533770986	0	514
+v-detective_agency_gray_tie_2_collectors_edition.sfv	-	441	1	96854272	1	93

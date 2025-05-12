@@ -1,0 +1,12 @@
+sxs-tiny_metal_v262144.nfo	7244df83
+sxs-tiny_metal_v262144.r00	6907a58f
+sxs-tiny_metal_v262144.r01	13f6f679
+sxs-tiny_metal_v262144.r02	fc8f06d3
+sxs-tiny_metal_v262144.r03	4afa25e3
+sxs-tiny_metal_v262144.r04	26923c76
+sxs-tiny_metal_v262144.r05	0068ff77
+sxs-tiny_metal_v262144.r06	142009c4
+sxs-tiny_metal_v262144.r07	f7915971
+sxs-tiny_metal_v262144.r08	8d2e6bf8
+sxs-tiny_metal_v262144.rar	29afa845
+sxs-tiny_metal_v262144.sfv	3db36fee

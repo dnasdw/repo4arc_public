@@ -1,0 +1,6 @@
+sxs-mario_vs_donkey_kong_demo.nfo	cb3a0f18
+sxs-mario_vs_donkey_kong_demo.r00	d5152ce9
+sxs-mario_vs_donkey_kong_demo.r01	b65c2494
+sxs-mario_vs_donkey_kong_demo.r02	1130f004
+sxs-mario_vs_donkey_kong_demo.rar	56d95fc2
+sxs-mario_vs_donkey_kong_demo.sfv	2b3bf4a2

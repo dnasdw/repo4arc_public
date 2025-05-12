@@ -1,0 +1,4 @@
+sxs-nes_v327680.nfo	6c7a47ee
+sxs-nes_v327680.r00	37733def
+sxs-nes_v327680.rar	9d143141
+sxs-nes_v327680.sfv	3bb61872

@@ -1,0 +1,3 @@
+sxs-nes_v131072.nfo	6ffd0cc000b005f0b0bc2ba20093feb9eb07d089
+sxs-nes_v131072.rar	0a3d1e1bbc9859228e358e35e5c4a2999b0709df
+sxs-nes_v131072.sfv	fba35ab48a25ec6e7c7f786a239987f24fdff0de

@@ -1,0 +1,3 @@
+v-quake_v65536.nfo	059d0fc6af1daff5643ce0cf893cf9dc
+v-quake_v65536.rar	7cf8e495351cb82cf2048b1606c5e7a8
+v-quake_v65536.sfv	8e345cc187404ea76d76d5b71ab94b5f

@@ -1,0 +1,4 @@
+gyrogunner_nsw-monev.nfo	77da9eefbc44d93263375bb3e8d83437079755d4
+gyrogunner_nsw-monev.r00	3c7b50c40d3a00e851a7be787321936e3c27d8aa
+gyrogunner_nsw-monev.rar	49a47e3159400a0f42c99d81a242ed00d3d6eb10
+gyrogunner_nsw-monev.sfv	b8821d5c45bee856d368ca3a5c4342e88772e4de

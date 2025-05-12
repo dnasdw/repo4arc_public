@@ -1,0 +1,5 @@
+v-doom_1993_v131072.nfo	75d27305
+v-doom_1993_v131072.r00	7734f11b
+v-doom_1993_v131072.r01	dda4f093
+v-doom_1993_v131072.rar	7ed4acc7
+v-doom_1993_v131072.sfv	aa4d4bf4

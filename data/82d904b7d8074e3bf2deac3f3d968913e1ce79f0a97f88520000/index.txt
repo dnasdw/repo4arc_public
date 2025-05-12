@@ -1,0 +1,7 @@
+sxs-puzzletronics.nfo	-	4808	1	0	0	0
+sxs-puzzletronics.r00	-	50000000	1	4808	0	1
+sxs-puzzletronics.r01	-	50000000	1	50004808	0	49
+sxs-puzzletronics.r02	-	50000000	1	100004808	0	97
+sxs-puzzletronics.r03	-	11976519	1	150004808	0	145
+sxs-puzzletronics.rar	-	50000000	1	161981327	0	157
+sxs-puzzletronics.sfv	-	160	1	211981327	0	205

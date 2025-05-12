@@ -1,0 +1,3 @@
+sxs-arcaea_ephemeral_page_pack_dlc.nfo	f7b0c1ef11f8e9d2fa4b50e3e90155c36a2f7eb4
+sxs-arcaea_ephemeral_page_pack_dlc.rar	25764643f8a0fd3d310fae382a45b7a9922e2b5f
+sxs-arcaea_ephemeral_page_pack_dlc.sfv	9df01f44932a3af360b17d07a71411804019fa40

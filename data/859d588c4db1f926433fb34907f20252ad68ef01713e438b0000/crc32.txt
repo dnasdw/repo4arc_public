@@ -1,0 +1,14 @@
+lfc-silentworld.nfo	0e2da0ab
+lfc-silentworld.r00	88cd446f
+lfc-silentworld.r01	86e01cb0
+lfc-silentworld.r02	8ffb6e36
+lfc-silentworld.r03	69a9c8a8
+lfc-silentworld.r04	edba265e
+lfc-silentworld.r05	5535ad49
+lfc-silentworld.r06	c8616763
+lfc-silentworld.r07	68c7cae7
+lfc-silentworld.r08	4cba6b3d
+lfc-silentworld.r09	40f701b3
+lfc-silentworld.r10	53d43525
+lfc-silentworld.rar	dee0482a
+lfc-silentworld.sfv	f13ffbec

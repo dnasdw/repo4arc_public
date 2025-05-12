@@ -1,0 +1,9 @@
+i-rfb.nfo	aa64f64c
+i-rfb.r00	cebef265
+i-rfb.r01	bd2e601b
+i-rfb.r02	1197794d
+i-rfb.r03	68752324
+i-rfb.r04	b7209b8b
+i-rfb.r05	5dd5a468
+i-rfb.rar	71ae88ea
+i-rfb.sfv	a8e018a6

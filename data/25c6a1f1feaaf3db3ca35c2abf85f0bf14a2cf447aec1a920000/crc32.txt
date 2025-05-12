@@ -1,0 +1,10 @@
+v-disgaea_6_defiance_of_destiny_v327680.nfo	322b6018
+v-disgaea_6_defiance_of_destiny_v327680.r00	0fe716a0
+v-disgaea_6_defiance_of_destiny_v327680.r01	75d23ebb
+v-disgaea_6_defiance_of_destiny_v327680.r02	aad21bdb
+v-disgaea_6_defiance_of_destiny_v327680.r03	9e664c4b
+v-disgaea_6_defiance_of_destiny_v327680.r04	ed2f5b5c
+v-disgaea_6_defiance_of_destiny_v327680.r05	8d803f3d
+v-disgaea_6_defiance_of_destiny_v327680.r06	f6a2817c
+v-disgaea_6_defiance_of_destiny_v327680.rar	ee26c534
+v-disgaea_6_defiance_of_destiny_v327680.sfv	034168f0

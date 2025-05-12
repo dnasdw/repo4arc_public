@@ -1,0 +1,5 @@
+sxs-live_a_live_v65536.nfo	216b9e89
+sxs-live_a_live_v65536.r00	58b8d76a
+sxs-live_a_live_v65536.r01	1ae72043
+sxs-live_a_live_v65536.rar	7609eab1
+sxs-live_a_live_v65536.sfv	b3145612

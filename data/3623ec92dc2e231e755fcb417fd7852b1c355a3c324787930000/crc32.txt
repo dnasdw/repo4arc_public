@@ -1,0 +1,10 @@
+v-feudal_alloy_v131072.nfo	570fb1d8
+v-feudal_alloy_v131072.r00	5cf39106
+v-feudal_alloy_v131072.r01	b27d0a37
+v-feudal_alloy_v131072.r02	5ac61e8e
+v-feudal_alloy_v131072.r03	018449c1
+v-feudal_alloy_v131072.r04	fa7dc6b7
+v-feudal_alloy_v131072.r05	d810b191
+v-feudal_alloy_v131072.r06	0a1717b0
+v-feudal_alloy_v131072.rar	e48debe8
+v-feudal_alloy_v131072.sfv	0229f531

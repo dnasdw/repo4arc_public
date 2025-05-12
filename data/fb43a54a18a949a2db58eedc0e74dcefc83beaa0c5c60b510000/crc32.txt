@@ -1,0 +1,8 @@
+sxs-rivals_of_aether_v262144.nfo	1e10ecff
+sxs-rivals_of_aether_v262144.r00	3ce4c78f
+sxs-rivals_of_aether_v262144.r01	10c06bfa
+sxs-rivals_of_aether_v262144.r02	6010244b
+sxs-rivals_of_aether_v262144.r03	e818f6e1
+sxs-rivals_of_aether_v262144.r04	57e3d811
+sxs-rivals_of_aether_v262144.rar	4445cb0c
+sxs-rivals_of_aether_v262144.sfv	ad21aaba

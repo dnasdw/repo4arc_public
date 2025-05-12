@@ -1,0 +1,6 @@
+lfc-megamallstory.nfo	41258259
+lfc-megamallstory.r00	f844bf88
+lfc-megamallstory.r01	a97ccd90
+lfc-megamallstory.r02	35420d1c
+lfc-megamallstory.rar	ea945cbe
+lfc-megamallstory.sfv	a560abd9

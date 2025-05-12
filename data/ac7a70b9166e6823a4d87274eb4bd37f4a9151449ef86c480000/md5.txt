@@ -1,0 +1,8 @@
+sxs-octo_curse.nfo	9dab11abfc7bcbc3f43c544d8d4073a4
+sxs-octo_curse.r00	15ed7e7e14bcc9c9f319877c569724db
+sxs-octo_curse.r01	c7f21e5a3feda67de229df13a5719a27
+sxs-octo_curse.r02	bd73833ca69a42b0fe357908d0c91412
+sxs-octo_curse.r03	803b3eb488b9c9acb4d83457b473ea3b
+sxs-octo_curse.r04	157e69f2f4b87fafde10de4308e3df79
+sxs-octo_curse.rar	65df41e65e16311f6655f0b29e5cc09c
+sxs-octo_curse.sfv	daa59c2f0dbf1b3b56809d03d4cbc504

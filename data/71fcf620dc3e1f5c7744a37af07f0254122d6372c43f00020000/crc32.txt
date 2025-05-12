@@ -1,0 +1,5 @@
+sxs-process_of_elimination_v65536.nfo	c1e914b2
+sxs-process_of_elimination_v65536.r00	d6c0b497
+sxs-process_of_elimination_v65536.r01	103f2388
+sxs-process_of_elimination_v65536.rar	95471c87
+sxs-process_of_elimination_v65536.sfv	b1d0a015

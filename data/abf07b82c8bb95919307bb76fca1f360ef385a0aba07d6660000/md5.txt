@@ -1,0 +1,8 @@
+sxs-aztec_tiki_talisman.nfo	5c35512ae7c897265f86935bf81a6c1f
+sxs-aztec_tiki_talisman.r00	272008ad3c0aff090c468ec01ab4a1fa
+sxs-aztec_tiki_talisman.r01	291e6855aa6c73bfe19082b75324f2bd
+sxs-aztec_tiki_talisman.r02	721536c240ef525cacb9905d38a3bdfc
+sxs-aztec_tiki_talisman.r03	bec1f2b18f40ca017c10bdb3c13ebfa2
+sxs-aztec_tiki_talisman.r04	3317ab3eb2b82d9d5bd520451b700e5d
+sxs-aztec_tiki_talisman.rar	6fcd3dc44900bd65e2ec08a022bbcff4
+sxs-aztec_tiki_talisman.sfv	182d1749b34330d120d58ced4c108ac6

@@ -1,0 +1,5 @@
+sxs-distraint_deluxe_edition.nfo	e0049c82e985493dd2cc0b17a4e5112d
+sxs-distraint_deluxe_edition.r00	f789ea56ec3cf6c9f2f6ba4d86ca1a07
+sxs-distraint_deluxe_edition.r01	6d97dea1d2ebc1c6d2807c95fc9c062a
+sxs-distraint_deluxe_edition.rar	01585bdd0be5ca463c9cfc52c8e2641f
+sxs-distraint_deluxe_edition.sfv	3d12c09d0cbbf7252589ace8c42601d2

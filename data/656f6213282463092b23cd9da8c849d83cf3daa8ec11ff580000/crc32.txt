@@ -1,0 +1,8 @@
+sxs-ogre_console_edition_v131072.nfo	8dd9bf6d
+sxs-ogre_console_edition_v131072.r00	44f8701b
+sxs-ogre_console_edition_v131072.r01	e4af04fa
+sxs-ogre_console_edition_v131072.r02	ef86e916
+sxs-ogre_console_edition_v131072.r03	b776af1f
+sxs-ogre_console_edition_v131072.r04	e393e4cb
+sxs-ogre_console_edition_v131072.rar	355d2925
+sxs-ogre_console_edition_v131072.sfv	f4a8f049

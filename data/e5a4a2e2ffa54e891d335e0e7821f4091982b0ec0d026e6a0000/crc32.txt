@@ -1,0 +1,11 @@
+sxs-tbtwt_jp_dlc.nfo	0996e48e
+sxs-tbtwt_jp_dlc.r00	00f231fd
+sxs-tbtwt_jp_dlc.r01	a7b610c6
+sxs-tbtwt_jp_dlc.r02	164b0cbd
+sxs-tbtwt_jp_dlc.r03	a4181190
+sxs-tbtwt_jp_dlc.r04	6d7dc60b
+sxs-tbtwt_jp_dlc.r05	8d23092c
+sxs-tbtwt_jp_dlc.r06	79aba1bd
+sxs-tbtwt_jp_dlc.r07	d08ea545
+sxs-tbtwt_jp_dlc.rar	e397863c
+sxs-tbtwt_jp_dlc.sfv	f2a0dbb1

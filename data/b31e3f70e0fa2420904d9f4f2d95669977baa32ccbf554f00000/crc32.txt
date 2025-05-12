@@ -1,0 +1,14 @@
+sxs-super_mario_odyssey_v262144.nfo	981b974c
+sxs-super_mario_odyssey_v262144.r00	7e01f882
+sxs-super_mario_odyssey_v262144.r01	913ba1b1
+sxs-super_mario_odyssey_v262144.r02	d0c4c91f
+sxs-super_mario_odyssey_v262144.r03	4cadc1cd
+sxs-super_mario_odyssey_v262144.r04	dcdef4fd
+sxs-super_mario_odyssey_v262144.r05	b87155e7
+sxs-super_mario_odyssey_v262144.r06	2218429e
+sxs-super_mario_odyssey_v262144.r07	73bd7980
+sxs-super_mario_odyssey_v262144.r08	5c0a91f5
+sxs-super_mario_odyssey_v262144.r09	2dfc838d
+sxs-super_mario_odyssey_v262144.r10	3b5d9786
+sxs-super_mario_odyssey_v262144.rar	e0f11cf6
+sxs-super_mario_odyssey_v262144.sfv	dca3e889

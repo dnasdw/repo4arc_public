@@ -1,0 +1,4 @@
+sxs-balatro.nfo	-	4418	1	0	0	0
+sxs-balatro.r00	-	49098454	1	4418	0	1
+sxs-balatro.rar	-	100000000	1	49102872	0	48
+sxs-balatro.sfv	-	52	1	149102872	0	144

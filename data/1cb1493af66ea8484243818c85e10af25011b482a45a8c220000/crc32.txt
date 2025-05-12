@@ -1,0 +1,8 @@
+sxs-pokemon_scarlet_v327680.nfo	2c8beff0
+sxs-pokemon_scarlet_v327680.r00	d558ec1b
+sxs-pokemon_scarlet_v327680.r01	a3f429e5
+sxs-pokemon_scarlet_v327680.r02	42afefc0
+sxs-pokemon_scarlet_v327680.r03	747dfeea
+sxs-pokemon_scarlet_v327680.r04	81f593ad
+sxs-pokemon_scarlet_v327680.rar	b4102d58
+sxs-pokemon_scarlet_v327680.sfv	1b46ef2b

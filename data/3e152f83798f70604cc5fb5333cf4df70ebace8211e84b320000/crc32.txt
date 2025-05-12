@@ -1,0 +1,8 @@
+sxs-disgaea_5_complete_v262144.nfo	39ebc4c5
+sxs-disgaea_5_complete_v262144.r00	e4468a5a
+sxs-disgaea_5_complete_v262144.r01	49063a94
+sxs-disgaea_5_complete_v262144.r02	65d2d9a6
+sxs-disgaea_5_complete_v262144.r03	ed22fab2
+sxs-disgaea_5_complete_v262144.r04	9a6ff437
+sxs-disgaea_5_complete_v262144.rar	e700e75e
+sxs-disgaea_5_complete_v262144.sfv	45aba4ec

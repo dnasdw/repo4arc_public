@@ -1,0 +1,11 @@
+sxs-bridge_constructor_the_walking_dead.nfo	-	6056	1	0	0	0
+sxs-bridge_constructor_the_walking_dead.r00	-	50000000	1	6056	0	1
+sxs-bridge_constructor_the_walking_dead.r01	-	50000000	1	50006056	0	49
+sxs-bridge_constructor_the_walking_dead.r02	-	50000000	1	100006056	0	97
+sxs-bridge_constructor_the_walking_dead.r03	-	50000000	1	150006056	0	145
+sxs-bridge_constructor_the_walking_dead.r04	-	50000000	1	200006056	0	193
+sxs-bridge_constructor_the_walking_dead.r05	-	50000000	1	250006056	0	241
+sxs-bridge_constructor_the_walking_dead.r06	-	50000000	1	300006056	0	289
+sxs-bridge_constructor_the_walking_dead.r07	-	2558280	1	350006056	0	337
+sxs-bridge_constructor_the_walking_dead.rar	-	50000000	1	352564336	0	340
+sxs-bridge_constructor_the_walking_dead.sfv	-	486	1	402564336	0	388

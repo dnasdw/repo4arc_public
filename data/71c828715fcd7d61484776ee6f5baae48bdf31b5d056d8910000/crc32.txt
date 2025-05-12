@@ -1,0 +1,3 @@
+sxs-chicken_range_v65536.nfo	1ff12bdb
+sxs-chicken_range_v65536.rar	31258505
+sxs-chicken_range_v65536.sfv	953b7156

@@ -1,0 +1,3 @@
+lfc-cdos.nfo	-	5675	1	0	0	0
+lfc-cdos.rar	-	36390283	1	5675	0	1
+lfc-cdos.sfv	-	23	1	36395958	0	36

@@ -1,0 +1,3 @@
+sxs-vigour.nfo	-	3560	1	0	0	0
+sxs-vigour.rar	-	33865757	1	3560	0	1
+sxs-vigour.sfv	-	25	1	33869317	0	34

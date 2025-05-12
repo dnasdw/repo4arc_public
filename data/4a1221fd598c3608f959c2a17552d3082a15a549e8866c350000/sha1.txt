@@ -1,0 +1,6 @@
+sxs-mk8u.nfo	b0af779cbd980f6fb800cdd6ccd19f26f1fd137e
+sxs-mk8u.r00	951faa588d7989616145a1e009adc150669c51da
+sxs-mk8u.r01	4ae9ea25cbbd6d55c3daadd63b9803617c816cdb
+sxs-mk8u.r02	035da08953bbb527e08ada4040cd2ab9fea9583c
+sxs-mk8u.rar	1b321bf853cc3f0afa0ac3deb8643d616c290300
+sxs-mk8u.sfv	57761e58244d736db7f5e30df338abaeeea2759e

@@ -1,0 +1,8 @@
+sxs-spacewing_war.nfo	425b6077
+sxs-spacewing_war.r00	7d11741b
+sxs-spacewing_war.r01	713dd553
+sxs-spacewing_war.r02	fe46f1a0
+sxs-spacewing_war.r03	6c9b0748
+sxs-spacewing_war.r04	8fe3d563
+sxs-spacewing_war.rar	92939e1e
+sxs-spacewing_war.sfv	5fea6de3

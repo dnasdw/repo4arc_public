@@ -1,0 +1,4 @@
+v-deadcraft_v65536.nfo	be58819ee8ccd06bc4c2dac0f336d4313beb4819
+v-deadcraft_v65536.r00	143cd49dde592f081261d5ffce537cbcec40df27
+v-deadcraft_v65536.rar	d551f263c7ba176ebc189da640270710efb1b0b2
+v-deadcraft_v65536.sfv	14978eaf656ed52a39f2f8141bf02f89560b234a

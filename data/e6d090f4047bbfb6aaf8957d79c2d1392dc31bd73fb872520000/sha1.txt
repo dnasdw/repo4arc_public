@@ -1,0 +1,6 @@
+hr-magamo.nfo	6990c9117cb0bdbf5e6b34a7cbc40167d079d0f4
+hr-magamo.r00	8ea31b00dd9f334e03d934744f614a70137083da
+hr-magamo.r01	183af55f0325ef98dc5097a9ef33e4da4dd67054
+hr-magamo.r02	ea5b092bed70bbcc251e39ee886da46bba3028ca
+hr-magamo.rar	95045e9504b9b90f4cb88d2fe6db4701d5389511
+hr-magamo.sfv	a12d0d584f5eb6c9eff3bd5b01d3df3eacf50ed8

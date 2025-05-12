@@ -1,0 +1,17 @@
+sxs-detective_gallo_v262144.nfo	fb1d65cb
+sxs-detective_gallo_v262144.r00	d4a2c454
+sxs-detective_gallo_v262144.r01	4506bd95
+sxs-detective_gallo_v262144.r02	951f7eca
+sxs-detective_gallo_v262144.r03	52d7ba6b
+sxs-detective_gallo_v262144.r04	895c6685
+sxs-detective_gallo_v262144.r05	ccd3e724
+sxs-detective_gallo_v262144.r06	1caaa887
+sxs-detective_gallo_v262144.r07	eaf9959e
+sxs-detective_gallo_v262144.r08	16630324
+sxs-detective_gallo_v262144.r09	6229f3ba
+sxs-detective_gallo_v262144.r10	9db92f57
+sxs-detective_gallo_v262144.r11	d6043933
+sxs-detective_gallo_v262144.r12	b4c58b2a
+sxs-detective_gallo_v262144.r13	de7a1fd0
+sxs-detective_gallo_v262144.rar	464f76ad
+sxs-detective_gallo_v262144.sfv	f8ea5173

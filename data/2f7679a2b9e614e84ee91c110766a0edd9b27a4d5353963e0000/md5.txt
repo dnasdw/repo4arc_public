@@ -1,0 +1,11 @@
+sxs-awesome_pea_2.nfo	df85e523bed2e8068d87497101591da7
+sxs-awesome_pea_2.r00	b7feae39619b710ae4b9cd5fa58383a7
+sxs-awesome_pea_2.r01	89e5b6661f0bc0484741a9e67d6dc9a6
+sxs-awesome_pea_2.r02	a28eece70d87b6555acaa78a41b6bb0c
+sxs-awesome_pea_2.r03	aa713eafb84c665125938953d583f16f
+sxs-awesome_pea_2.r04	16738b5ced6f7eac180e369926b0e52b
+sxs-awesome_pea_2.r05	f4647ae21db2190d2040bb99587dc748
+sxs-awesome_pea_2.r06	86f36154b2f25f45a16c5254d485f583
+sxs-awesome_pea_2.r07	d52d32c1dcfecf243a725785cce5d149
+sxs-awesome_pea_2.rar	28d6da1da4d400fe82d0b5f594fc1cd5
+sxs-awesome_pea_2.sfv	d7bc44942409cb39e5a299ff75a8f89b

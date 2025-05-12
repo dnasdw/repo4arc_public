@@ -1,0 +1,16 @@
+lfc-3darcadefishing.nfo	-	5136	1	0	0	0
+lfc-3darcadefishing.r00	-	100000000	1	5136	0	1
+lfc-3darcadefishing.r01	-	100000000	1	100005136	0	97
+lfc-3darcadefishing.r02	-	100000000	1	200005136	0	193
+lfc-3darcadefishing.r03	-	100000000	1	300005136	0	289
+lfc-3darcadefishing.r04	-	100000000	1	400005136	0	385
+lfc-3darcadefishing.r05	-	100000000	1	500005136	0	481
+lfc-3darcadefishing.r06	-	100000000	1	62251264	1	60
+lfc-3darcadefishing.r07	-	100000000	1	162251264	1	156
+lfc-3darcadefishing.r08	-	100000000	1	262251264	1	252
+lfc-3darcadefishing.r09	-	100000000	1	362251264	1	348
+lfc-3darcadefishing.r10	-	100000000	1	462251264	1	444
+lfc-3darcadefishing.r11	-	100000000	1	24502528	2	24
+lfc-3darcadefishing.r12	-	43824113	1	124502528	2	120
+lfc-3darcadefishing.rar	-	100000000	1	168326641	2	162
+lfc-3darcadefishing.sfv	-	476	1	268326641	2	258

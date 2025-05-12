@@ -1,0 +1,10 @@
+sxs-tails_of_iron_v262144.nfo	cf47cd21
+sxs-tails_of_iron_v262144.r00	b89dcdf0
+sxs-tails_of_iron_v262144.r01	952ee177
+sxs-tails_of_iron_v262144.r02	9143af3b
+sxs-tails_of_iron_v262144.r03	80bd22f5
+sxs-tails_of_iron_v262144.r04	74cfd0ad
+sxs-tails_of_iron_v262144.r05	14d3736b
+sxs-tails_of_iron_v262144.r06	2d6efda5
+sxs-tails_of_iron_v262144.rar	8e14d21d
+sxs-tails_of_iron_v262144.sfv	779ef689

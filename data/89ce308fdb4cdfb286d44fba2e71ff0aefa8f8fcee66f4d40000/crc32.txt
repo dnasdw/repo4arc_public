@@ -1,0 +1,7 @@
+v-catqst_v101.nfo	92a551a3
+v-catqst_v101.r00	50ce4c96
+v-catqst_v101.r01	b1ea25cd
+v-catqst_v101.r02	aec2debb
+v-catqst_v101.r03	0ac7a439
+v-catqst_v101.rar	03e613b8
+v-catqst_v101.sfv	c70a7048

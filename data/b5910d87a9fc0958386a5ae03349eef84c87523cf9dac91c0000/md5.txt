@@ -1,0 +1,12 @@
+v-final_vendetta.nfo	a1b43515410e537bd33cd9c2295a37b0
+v-final_vendetta.r00	7645dbd907ee529f3b93e4974602067a
+v-final_vendetta.r01	fd5eef55fa61168bcbcb671da2e8acd5
+v-final_vendetta.r02	ab2ad209a8cac398e33cbb363aae9854
+v-final_vendetta.r03	342528542a12624e2e094c9de497ba25
+v-final_vendetta.r04	83f2f93e59c3f27ed23a32e91db334ed
+v-final_vendetta.r05	4d636c7011f7f233b9f8a9982852da7e
+v-final_vendetta.r06	d0d3be828fc17406d2725c8f3844476c
+v-final_vendetta.r07	c5c22a6332a9e409a7442e6ad56b4516
+v-final_vendetta.r08	3a2ce807d94ef974b34c3b0ba36d0ea6
+v-final_vendetta.rar	eae331f1318d6a48990b1d75920e73b5
+v-final_vendetta.sfv	9265d15e158eba94513961a7dbf74427

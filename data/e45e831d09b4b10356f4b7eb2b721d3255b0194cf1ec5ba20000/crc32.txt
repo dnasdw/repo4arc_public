@@ -1,0 +1,10 @@
+v-jet_kave_adventure_v131072.nfo	b471bac0
+v-jet_kave_adventure_v131072.r00	fbf8f71e
+v-jet_kave_adventure_v131072.r01	73753bc8
+v-jet_kave_adventure_v131072.r02	596d45f4
+v-jet_kave_adventure_v131072.r03	9a655d8c
+v-jet_kave_adventure_v131072.r04	12e2a0a4
+v-jet_kave_adventure_v131072.r05	d7f98152
+v-jet_kave_adventure_v131072.r06	7168d992
+v-jet_kave_adventure_v131072.rar	ea62ede1
+v-jet_kave_adventure_v131072.sfv	73db99dc

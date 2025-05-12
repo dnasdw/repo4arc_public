@@ -1,0 +1,3 @@
+sxs-spider_solitaire_f_v65536.nfo	-	4730	1	0	0	0
+sxs-spider_solitaire_f_v65536.rar	-	23073327	1	4730	0	1
+sxs-spider_solitaire_f_v65536.sfv	-	44	1	23078057	0	24

@@ -1,0 +1,5 @@
+sxs-destrobots_v65536.nfo	-	5510	1	0	0	0
+sxs-destrobots_v65536.r00	-	50000000	1	5510	0	1
+sxs-destrobots_v65536.r01	-	42384915	1	50005510	0	49
+sxs-destrobots_v65536.rar	-	50000000	1	92390425	0	90
+sxs-destrobots_v65536.sfv	-	108	1	142390425	0	138

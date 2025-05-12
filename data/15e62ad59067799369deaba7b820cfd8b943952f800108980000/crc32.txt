@@ -1,0 +1,11 @@
+sxs-flan_v65536.nfo	d5dd33cb
+sxs-flan_v65536.r00	20818e41
+sxs-flan_v65536.r01	002c4552
+sxs-flan_v65536.r02	5a2de615
+sxs-flan_v65536.r03	d0007814
+sxs-flan_v65536.r04	305cea7a
+sxs-flan_v65536.r05	dc664ee8
+sxs-flan_v65536.r06	52672546
+sxs-flan_v65536.r07	c9f9ab34
+sxs-flan_v65536.rar	8a23be5f
+sxs-flan_v65536.sfv	f4ec7c0f

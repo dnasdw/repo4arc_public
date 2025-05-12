@@ -1,0 +1,3 @@
+v-override_2_super_mech_league_dlc.nfo	0b431843
+v-override_2_super_mech_league_dlc.rar	428563ea
+v-override_2_super_mech_league_dlc.sfv	95aa6d02

@@ -1,0 +1,16 @@
+hr-bdkea.nfo	1e252493a9417664ac5f8d189640c02d
+hr-bdkea.r00	c4deb817d1b6a4f4e5f3b77db323e26f
+hr-bdkea.r01	3b028f883088af8b1bc2ada7ee65d083
+hr-bdkea.r02	5d373671d17e91088fcf744d9a6d9650
+hr-bdkea.r03	92db7437558a8b96ce2872e5dfdabe6c
+hr-bdkea.r04	1a79cb5d9cc9a2bdf26e03f6be800903
+hr-bdkea.r05	bbc5b45441e67f400672f2dfdf83affa
+hr-bdkea.r06	50f92508a4fecc8e7418fcffdcba3c0c
+hr-bdkea.r07	1380bf8f8ab873dd0c7362993fe5a58b
+hr-bdkea.r08	45eefff5a3178780682eda9ba5bb6830
+hr-bdkea.r09	215641a630fec1f2dcd12081e8e65bc1
+hr-bdkea.r10	e35a9647328dbfbb38d2d92773ba8000
+hr-bdkea.rar	491123faa835a48f0ce7e7cccae2bb85
+hr-bdkea.sfv	281627310e01f1a4dbf5e3fb13c53e1f
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/hr-bdkea.jpg	0f6b747372eea6b81bace63c0dc342a1

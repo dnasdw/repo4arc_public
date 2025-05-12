@@ -1,0 +1,9 @@
+sxs-erogods_asgard.nfo	9817a2e04ba8e00d823bd4b7d6a10195
+sxs-erogods_asgard.r00	30852fe571f6b46a23349a85e13bce11
+sxs-erogods_asgard.r01	06fd1b2d342d56d60695374254fb9ea6
+sxs-erogods_asgard.r02	9a109369bfe5dba72c1003b8057a7671
+sxs-erogods_asgard.r03	b5c9b7892d15f96fd91341d64d42cbfc
+sxs-erogods_asgard.r04	9f539c8757d6b6dc369778bc87e14731
+sxs-erogods_asgard.r05	46bbbb2e9739b92aeb26d0d206b3351b
+sxs-erogods_asgard.rar	05ac8445b1caea745185e17c43a3503a
+sxs-erogods_asgard.sfv	6be0917bb9edecbe95b8a31b9f4e98b5

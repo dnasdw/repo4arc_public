@@ -1,0 +1,6 @@
+v-lifrdc_v65536.nfo	a1b87fcf
+v-lifrdc_v65536.r00	98993910
+v-lifrdc_v65536.r01	d9f5b598
+v-lifrdc_v65536.r02	f148f801
+v-lifrdc_v65536.rar	1b510b1b
+v-lifrdc_v65536.sfv	c89ec90e

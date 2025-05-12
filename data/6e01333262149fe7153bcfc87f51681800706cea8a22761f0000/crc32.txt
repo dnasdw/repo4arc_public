@@ -1,0 +1,14 @@
+v-crcr_v196608.nfo	7a1cf6b8
+v-crcr_v196608.r00	41a7568d
+v-crcr_v196608.r01	842c75ba
+v-crcr_v196608.r02	f0f95b8c
+v-crcr_v196608.r03	f69bd4f8
+v-crcr_v196608.r04	8980e846
+v-crcr_v196608.r05	4b3f92b6
+v-crcr_v196608.r06	18f32b9c
+v-crcr_v196608.r07	162abae3
+v-crcr_v196608.r08	063811ac
+v-crcr_v196608.r09	e735b416
+v-crcr_v196608.r10	16e0d989
+v-crcr_v196608.rar	6bf32420
+v-crcr_v196608.sfv	8e6905da

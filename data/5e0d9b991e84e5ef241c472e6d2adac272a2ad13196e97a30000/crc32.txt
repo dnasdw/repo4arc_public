@@ -1,0 +1,5 @@
+brw-sqnu.nfo	a9687869
+brw-sqnu.r00	00da910c
+brw-sqnu.r01	2b94e4af
+brw-sqnu.rar	8f67adfc
+brw-sqnu.sfv	2b53bc52

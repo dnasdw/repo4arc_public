@@ -1,0 +1,13 @@
+sxs-broforce_v131072.nfo	9873d8bc
+sxs-broforce_v131072.r00	25b054cb
+sxs-broforce_v131072.r01	84d5e7e0
+sxs-broforce_v131072.r02	805aca5d
+sxs-broforce_v131072.r03	5c3a57a6
+sxs-broforce_v131072.r04	c77feb43
+sxs-broforce_v131072.r05	5baf43c6
+sxs-broforce_v131072.r06	25c7f948
+sxs-broforce_v131072.r07	929d8bf4
+sxs-broforce_v131072.r08	2e870a8e
+sxs-broforce_v131072.r09	1295e57a
+sxs-broforce_v131072.rar	e878a727
+sxs-broforce_v131072.sfv	92cf8c86

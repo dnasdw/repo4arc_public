@@ -1,0 +1,3 @@
+sxs-hot_wheels_unleashed_v327680_dlc_pack_2.nfo	-	8318	1	0	0	0
+sxs-hot_wheels_unleashed_v327680_dlc_pack_2.rar	-	2390549	1	8318	0	1
+sxs-hot_wheels_unleashed_v327680_dlc_pack_2.sfv	-	58	1	2398867	0	4

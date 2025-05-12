@@ -1,0 +1,15 @@
+n-dysmantle.nfo	d41c5d4e
+n-dysmantle.r00	65a48f0a
+n-dysmantle.r01	bcca3ee8
+n-dysmantle.r02	63b2d1f2
+n-dysmantle.r03	4e67f0b3
+n-dysmantle.r04	6e9cc24d
+n-dysmantle.r05	9f79d4d2
+n-dysmantle.r06	8cdc5c4b
+n-dysmantle.r07	cb52d7b9
+n-dysmantle.r08	273127f8
+n-dysmantle.r09	83d1b11b
+n-dysmantle.r10	07b27ed0
+n-dysmantle.r11	df02628f
+n-dysmantle.rar	2029b2da
+n-dysmantle.sfv	864d9fee

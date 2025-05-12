@@ -1,0 +1,7 @@
+sxs-samurai_maiden_v393216.nfo	-	5434	1	0	0	0
+sxs-samurai_maiden_v393216.r00	-	100000000	1	5434	0	1
+sxs-samurai_maiden_v393216.r01	-	100000000	1	100005434	0	97
+sxs-samurai_maiden_v393216.r02	-	100000000	1	200005434	0	193
+sxs-samurai_maiden_v393216.r03	-	95874573	1	300005434	0	289
+sxs-samurai_maiden_v393216.rar	-	100000000	1	395880007	0	381
+sxs-samurai_maiden_v393216.sfv	-	205	1	495880007	0	477

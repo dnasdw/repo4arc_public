@@ -1,0 +1,10 @@
+sxs-bird_game_plus.nfo	69f42296c140bbf4cd8dae47f8fcd311
+sxs-bird_game_plus.r00	a02148c36f914997eaabfcb9a467f103
+sxs-bird_game_plus.r01	4f05e8933ff3c08e2c9ae884986fec94
+sxs-bird_game_plus.r02	ae3366214a30e9606471c8900f750143
+sxs-bird_game_plus.r03	09103e4675157b86374d3521990d6439
+sxs-bird_game_plus.r04	641cae33bc5ef6abca19178ef0d2cdc6
+sxs-bird_game_plus.r05	d289d76312fca16341a87dc3a1236379
+sxs-bird_game_plus.r06	b489acd47a7d9c6decb2d1da79238d61
+sxs-bird_game_plus.rar	12034d3a16a2dffd0116c3064b28fecd
+sxs-bird_game_plus.sfv	a80c326311e0a1558b45ef5b61943758

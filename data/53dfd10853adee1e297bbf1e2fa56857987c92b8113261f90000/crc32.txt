@@ -1,0 +1,9 @@
+sxs-pokemon_violet_v262144.nfo	c3ee2d10
+sxs-pokemon_violet_v262144.r00	8e8c77d8
+sxs-pokemon_violet_v262144.r01	b61691a9
+sxs-pokemon_violet_v262144.r02	f8bbda7c
+sxs-pokemon_violet_v262144.r03	d50d22ec
+sxs-pokemon_violet_v262144.r04	da267d11
+sxs-pokemon_violet_v262144.r05	6c08f4b9
+sxs-pokemon_violet_v262144.rar	d74df8f5
+sxs-pokemon_violet_v262144.sfv	81a98da2

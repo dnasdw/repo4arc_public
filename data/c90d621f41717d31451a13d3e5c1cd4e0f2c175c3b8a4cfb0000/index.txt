@@ -1,0 +1,3 @@
+sxs-jewel_match_solitaire_winterscapes_v65536.nfo	-	5198	1	0	0	0
+sxs-jewel_match_solitaire_winterscapes_v65536.rar	-	35822656	1	5198	0	1
+sxs-jewel_match_solitaire_winterscapes_v65536.sfv	-	60	1	35827854	0	36

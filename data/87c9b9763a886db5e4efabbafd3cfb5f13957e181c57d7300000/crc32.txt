@@ -1,0 +1,12 @@
+sxs-off_and_on_again.nfo	3eb53398
+sxs-off_and_on_again.r00	5bd06574
+sxs-off_and_on_again.r01	609df51c
+sxs-off_and_on_again.r02	38a942a9
+sxs-off_and_on_again.r03	4425b9aa
+sxs-off_and_on_again.r04	0e020a22
+sxs-off_and_on_again.r05	5c19007d
+sxs-off_and_on_again.r06	ba785e0b
+sxs-off_and_on_again.r07	c072e417
+sxs-off_and_on_again.r08	73049e5c
+sxs-off_and_on_again.rar	b8038358
+sxs-off_and_on_again.sfv	fb544406

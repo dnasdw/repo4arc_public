@@ -1,0 +1,7 @@
+sxs-fifa_22_polish_dlc.nfo	-	8552	1	0	0	0
+sxs-fifa_22_polish_dlc.r00	-	50000000	1	8552	0	1
+sxs-fifa_22_polish_dlc.r01	-	50000000	1	50008552	0	49
+sxs-fifa_22_polish_dlc.r02	-	50000000	1	100008552	0	97
+sxs-fifa_22_polish_dlc.r03	-	31155942	1	150008552	0	145
+sxs-fifa_22_polish_dlc.rar	-	50000000	1	181164494	0	175
+sxs-fifa_22_polish_dlc.sfv	-	185	1	231164494	0	223

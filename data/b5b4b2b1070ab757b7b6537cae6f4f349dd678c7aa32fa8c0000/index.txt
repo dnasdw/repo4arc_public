@@ -1,0 +1,4 @@
+lfc-aabb.nfo	-	5800	1	0	0	0
+lfc-aabb.r00	-	15462832	1	5800	0	1
+lfc-aabb.rar	-	50000000	1	15468632	0	16
+lfc-aabb.sfv	-	46	1	65468632	0	64

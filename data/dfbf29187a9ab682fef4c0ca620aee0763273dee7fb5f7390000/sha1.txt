@@ -1,0 +1,3 @@
+v-segamdc_v65536.nfo	1a9982716c597abe293d1628c86d86f2b057c8b0
+v-segamdc_v65536.rar	60cfa2347844e63fdda36d9ca9afe53dafeef930
+v-segamdc_v65536.sfv	956e7742515dc19db60c52dcdef150eaf77c0e47

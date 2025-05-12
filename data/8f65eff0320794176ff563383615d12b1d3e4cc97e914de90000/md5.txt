@@ -1,0 +1,7 @@
+hr-korohar.nfo	79415e70c5d51a44cd726964e2aaf1f4
+hr-korohar.r00	3ae34bcc7a8504f373303d00e2a8b2cf
+hr-korohar.r01	cb8ffba1fd197d49ed964991da450da5
+hr-korohar.r02	8cc0cfd75166febfbe3476501ece3460
+hr-korohar.r03	4d029139baffa4b5df702449a9a89bbf
+hr-korohar.rar	26bf650f0fce5934b68f96a548f03236
+hr-korohar.sfv	ef301dc781c0cbeb22a15077c3cf7d95

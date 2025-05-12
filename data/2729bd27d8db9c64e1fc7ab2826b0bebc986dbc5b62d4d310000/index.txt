@@ -1,0 +1,3 @@
+lfc-htsh.nfo	-	5655	1	0	0	0
+lfc-htsh.rar	-	41398279	1	5655	0	1
+lfc-htsh.sfv	-	23	1	41403934	0	41

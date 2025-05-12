@@ -1,0 +1,3 @@
+sxs-go_all_out_v65536.nfo	-	4964	1	0	0	0
+sxs-go_all_out_v65536.rar	-	32410980	1	4964	0	1
+sxs-go_all_out_v65536.sfv	-	36	1	32415944	0	32

@@ -1,0 +1,4 @@
+sxs-aca_neogeo_fatal_fury_v65536.nfo	-	5198	1	0	0	0
+sxs-aca_neogeo_fatal_fury_v65536.r00	-	20024751	1	5198	0	1
+sxs-aca_neogeo_fatal_fury_v65536.rar	-	50000000	1	20029949	0	21
+sxs-aca_neogeo_fatal_fury_v65536.sfv	-	94	1	70029949	0	69

@@ -1,0 +1,8 @@
+sxs-shipped.nfo	1a4c1808
+sxs-shipped.r00	fa33b83b
+sxs-shipped.r01	f531c9ff
+sxs-shipped.r02	31baa282
+sxs-shipped.r03	8ad43640
+sxs-shipped.r04	e3820741
+sxs-shipped.rar	0139a1a3
+sxs-shipped.sfv	efec61bf

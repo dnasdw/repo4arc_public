@@ -1,0 +1,9 @@
+sxs-grass_cutter_mutated_lawns.nfo	-	4652	1	0	0	0
+sxs-grass_cutter_mutated_lawns.r00	-	50000000	1	4652	0	1
+sxs-grass_cutter_mutated_lawns.r01	-	50000000	1	50004652	0	49
+sxs-grass_cutter_mutated_lawns.r02	-	50000000	1	100004652	0	97
+sxs-grass_cutter_mutated_lawns.r03	-	50000000	1	150004652	0	145
+sxs-grass_cutter_mutated_lawns.r04	-	50000000	1	200004652	0	193
+sxs-grass_cutter_mutated_lawns.r05	-	38145435	1	250004652	0	241
+sxs-grass_cutter_mutated_lawns.rar	-	50000000	1	288150087	0	278
+sxs-grass_cutter_mutated_lawns.sfv	-	315	1	338150087	0	326

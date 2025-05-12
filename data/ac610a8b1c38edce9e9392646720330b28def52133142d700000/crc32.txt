@@ -1,0 +1,17 @@
+sxs-10_second_ninja_x.nfo	bd279548
+sxs-10_second_ninja_x.r00	4ca16f25
+sxs-10_second_ninja_x.r01	97ac4aec
+sxs-10_second_ninja_x.r02	36921205
+sxs-10_second_ninja_x.r03	a37b0b12
+sxs-10_second_ninja_x.r04	4022214f
+sxs-10_second_ninja_x.r05	723f2b94
+sxs-10_second_ninja_x.r06	ee576a60
+sxs-10_second_ninja_x.r07	e7cde8cb
+sxs-10_second_ninja_x.r08	d13ef341
+sxs-10_second_ninja_x.r09	69d8d851
+sxs-10_second_ninja_x.r10	ea15d66c
+sxs-10_second_ninja_x.r11	ed0dc087
+sxs-10_second_ninja_x.r12	23e1a835
+sxs-10_second_ninja_x.r13	dd394c55
+sxs-10_second_ninja_x.rar	e1da446a
+sxs-10_second_ninja_x.sfv	8e629065

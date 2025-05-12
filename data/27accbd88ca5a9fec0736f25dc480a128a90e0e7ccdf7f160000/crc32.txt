@@ -1,0 +1,11 @@
+v-taiko_v393216.nfo	ca651213
+v-taiko_v393216.r00	9210b94f
+v-taiko_v393216.r01	7f52e435
+v-taiko_v393216.r02	7c15afeb
+v-taiko_v393216.r03	ce0877aa
+v-taiko_v393216.r04	d7057d62
+v-taiko_v393216.r05	129a75de
+v-taiko_v393216.r06	6717c91a
+v-taiko_v393216.r07	ab0db3ea
+v-taiko_v393216.rar	8eb5ccbe
+v-taiko_v393216.sfv	dfabb70f

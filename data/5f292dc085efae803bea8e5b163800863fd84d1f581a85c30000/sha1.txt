@@ -1,0 +1,4 @@
+sxs-stickmans_arena.nfo	0875247cc174392f1184cfa2f826db44fc29f9b4
+sxs-stickmans_arena.r00	a32bc2e97b319e00b49a77bb93d7646be5a85dd0
+sxs-stickmans_arena.rar	6b82c6c9e62e8331d064b39bdc42acc57165ded3
+sxs-stickmans_arena.sfv	74aa950edc7261aff072965c55c745556bb63ea1

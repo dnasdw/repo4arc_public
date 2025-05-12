@@ -1,0 +1,7 @@
+lfc-srad.nfo	2f8f429f
+lfc-srad.r00	22bf74fb
+lfc-srad.r01	16892b92
+lfc-srad.r02	2153e861
+lfc-srad.r03	b7d2afd5
+lfc-srad.rar	e63cba2b
+lfc-srad.sfv	2bb14934

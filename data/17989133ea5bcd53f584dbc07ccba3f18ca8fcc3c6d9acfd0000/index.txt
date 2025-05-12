@@ -1,0 +1,6 @@
+sxs-musou_orochi3_v103.nfo	-	5744	1	0	0	0
+sxs-musou_orochi3_v103.r00	-	50000000	1	5744	0	1
+sxs-musou_orochi3_v103.r01	-	50000000	1	50005744	0	49
+sxs-musou_orochi3_v103.r02	-	2542308	1	100005744	0	97
+sxs-musou_orochi3_v103.rar	-	50000000	1	102548052	0	100
+sxs-musou_orochi3_v103.sfv	-	148	1	152548052	0	148

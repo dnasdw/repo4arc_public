@@ -1,0 +1,10 @@
+sxs-anno_mutationem_v65536.nfo	1bca85a9
+sxs-anno_mutationem_v65536.r00	e8eb0bfa
+sxs-anno_mutationem_v65536.r01	da230845
+sxs-anno_mutationem_v65536.r02	73037862
+sxs-anno_mutationem_v65536.r03	2457ef44
+sxs-anno_mutationem_v65536.r04	1acba0cd
+sxs-anno_mutationem_v65536.r05	83062cb7
+sxs-anno_mutationem_v65536.r06	2302e197
+sxs-anno_mutationem_v65536.rar	35013beb
+sxs-anno_mutationem_v65536.sfv	775b1b32

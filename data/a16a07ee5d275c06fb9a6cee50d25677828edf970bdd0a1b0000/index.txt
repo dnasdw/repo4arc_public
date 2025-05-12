@@ -1,0 +1,11 @@
+sxs-amazing_breaker.nfo	-	5364	1	0	0	0
+sxs-amazing_breaker.r00	-	50000000	1	5364	0	1
+sxs-amazing_breaker.r01	-	50000000	1	50005364	0	49
+sxs-amazing_breaker.r02	-	50000000	1	100005364	0	97
+sxs-amazing_breaker.r03	-	50000000	1	150005364	0	145
+sxs-amazing_breaker.r04	-	50000000	1	200005364	0	193
+sxs-amazing_breaker.r05	-	50000000	1	250005364	0	241
+sxs-amazing_breaker.r06	-	50000000	1	300005364	0	289
+sxs-amazing_breaker.r07	-	48958813	1	350005364	0	337
+sxs-amazing_breaker.rar	-	50000000	1	398964177	0	384
+sxs-amazing_breaker.sfv	-	306	1	448964177	0	432

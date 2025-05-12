@@ -1,0 +1,4 @@
+v-pokemon_legends_arceus_v65536.nfo	0f920334
+v-pokemon_legends_arceus_v65536.r00	3974232a
+v-pokemon_legends_arceus_v65536.rar	9b0c7c94
+v-pokemon_legends_arceus_v65536.sfv	231d5a81

@@ -1,0 +1,4 @@
+v-talisman_digital_edition_v1048576.nfo	364eccbf4096da718ef288debc6ebcd7
+v-talisman_digital_edition_v1048576.r00	24d830b6b2fc4a1d3c02ffe547008656
+v-talisman_digital_edition_v1048576.rar	720bac4e1ed9bf8414a24a85ddf40281
+v-talisman_digital_edition_v1048576.sfv	ecd7d35447dee52d7b027b8081b50aaf

@@ -1,0 +1,6 @@
+sxs-darksiders_genesis_v131072.nfo	a16a3604
+sxs-darksiders_genesis_v131072.r00	40165dda
+sxs-darksiders_genesis_v131072.r01	d5f3092d
+sxs-darksiders_genesis_v131072.r02	f6796542
+sxs-darksiders_genesis_v131072.rar	d7a489df
+sxs-darksiders_genesis_v131072.sfv	fcb343f9

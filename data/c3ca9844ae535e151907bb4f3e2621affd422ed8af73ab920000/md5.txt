@@ -1,0 +1,10 @@
+v-psychic_storm.nfo	9e29cd611eea442e8286da9ab3e6ee52
+v-psychic_storm.r00	06eb09aea7c41cc88aa381cc57524338
+v-psychic_storm.r01	586f2c6799f9050060f2d4b6a1dd5ab8
+v-psychic_storm.r02	cf140b58b2b52a9819a2590c4b0967ac
+v-psychic_storm.r03	b3bbcf99cb6a8f01079c87455b63e46c
+v-psychic_storm.r04	d85cb00e1188bd7533356848c255cfd3
+v-psychic_storm.r05	6ab9e7fc61f6d82dcae00fc97aaefb19
+v-psychic_storm.r06	9bc30000f7b4556f08405c0b0cff0df2
+v-psychic_storm.rar	e4a94f2049f67de500b03b167520e734
+v-psychic_storm.sfv	223259c998f447c03960dfe71e40bf08

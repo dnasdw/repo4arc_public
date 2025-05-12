@@ -1,0 +1,5 @@
+sxs-get_10_quest.nfo	-	3648	1	0	0	0
+sxs-get_10_quest.r00	-	50000000	1	3648	0	1
+sxs-get_10_quest.r01	-	29948053	1	50003648	0	49
+sxs-get_10_quest.rar	-	50000000	1	79951701	0	78
+sxs-get_10_quest.sfv	-	93	1	129951701	0	126

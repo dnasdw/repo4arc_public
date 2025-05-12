@@ -1,0 +1,14 @@
+lfc-isfa.nfo	bafbeaf1
+lfc-isfa.r00	e5e182f3
+lfc-isfa.r01	1d1553ac
+lfc-isfa.r02	4fa4d73d
+lfc-isfa.r03	ee1bcba9
+lfc-isfa.r04	70aead29
+lfc-isfa.r05	5bebb8a8
+lfc-isfa.r06	54aeeefa
+lfc-isfa.r07	161c9c8d
+lfc-isfa.r08	24074ca0
+lfc-isfa.r09	19b9e1bb
+lfc-isfa.r10	97802d4d
+lfc-isfa.rar	3ee86d35
+lfc-isfa.sfv	ac236689

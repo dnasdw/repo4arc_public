@@ -1,0 +1,9 @@
+sxs-xenoblade_chronicles_3_v589824.nfo	-	4886	1	0	0	0
+sxs-xenoblade_chronicles_3_v589824.r00	-	100000000	1	4886	0	1
+sxs-xenoblade_chronicles_3_v589824.r01	-	100000000	1	100004886	0	97
+sxs-xenoblade_chronicles_3_v589824.r02	-	100000000	1	200004886	0	193
+sxs-xenoblade_chronicles_3_v589824.r03	-	100000000	1	300004886	0	289
+sxs-xenoblade_chronicles_3_v589824.r04	-	100000000	1	400004886	0	385
+sxs-xenoblade_chronicles_3_v589824.r05	-	34307569	1	500004886	0	481
+sxs-xenoblade_chronicles_3_v589824.rar	-	100000000	1	534312455	0	514
+sxs-xenoblade_chronicles_3_v589824.sfv	-	343	1	96854272	1	93

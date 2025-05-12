@@ -1,0 +1,8 @@
+v-metroid_dread_v327680.nfo	ceaf91fb918aa9d7bdcda54294eba2f7
+v-metroid_dread_v327680.r00	96b48cb23222fb6e8694f402905758b0
+v-metroid_dread_v327680.r01	cce1ab003a1aa0d26f36c2e6a0c30d4b
+v-metroid_dread_v327680.r02	880d1a97fa3045b3d1107cd359bca157
+v-metroid_dread_v327680.r03	ac2134e93db1a292089e85014aac3df6
+v-metroid_dread_v327680.r04	86855813bf59ab444facd3e1e4ce3f89
+v-metroid_dread_v327680.rar	71db85e45f7e56988020ade444abb799
+v-metroid_dread_v327680.sfv	4367cf58d692cef6056c149bad2f8b26

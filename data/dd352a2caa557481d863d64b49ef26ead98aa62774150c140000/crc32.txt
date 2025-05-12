@@ -1,0 +1,12 @@
+sxs-rule_no1.nfo	a51da1fd
+sxs-rule_no1.r00	d8fec9d1
+sxs-rule_no1.r01	c40fbcff
+sxs-rule_no1.r02	f9e2c9c1
+sxs-rule_no1.r03	bd28886d
+sxs-rule_no1.r04	c0c36c5b
+sxs-rule_no1.r05	641f34e0
+sxs-rule_no1.r06	de5ee9b2
+sxs-rule_no1.r07	5030d429
+sxs-rule_no1.r08	aac5848d
+sxs-rule_no1.rar	aa9f3804
+sxs-rule_no1.sfv	d831f284

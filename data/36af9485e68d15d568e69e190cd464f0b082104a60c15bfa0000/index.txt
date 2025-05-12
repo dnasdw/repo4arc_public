@@ -1,0 +1,4 @@
+sxs-panda_hero_v196608.nfo	-	4654	1	0	0	0
+sxs-panda_hero_v196608.r00	-	13392026	1	4654	0	1
+sxs-panda_hero_v196608.rar	-	50000000	1	13396680	0	14
+sxs-panda_hero_v196608.sfv	-	74	1	63396680	0	62

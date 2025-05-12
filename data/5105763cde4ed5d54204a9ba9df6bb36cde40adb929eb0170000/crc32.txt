@@ -1,0 +1,17 @@
+sxs-fire_emblem_engage_v196608.nfo	a777dcef
+sxs-fire_emblem_engage_v196608.r00	2d586515
+sxs-fire_emblem_engage_v196608.r01	723dba81
+sxs-fire_emblem_engage_v196608.r02	b462b647
+sxs-fire_emblem_engage_v196608.r03	76bd65a2
+sxs-fire_emblem_engage_v196608.r04	aa57a4b8
+sxs-fire_emblem_engage_v196608.r05	d1711888
+sxs-fire_emblem_engage_v196608.r06	faa7f8fa
+sxs-fire_emblem_engage_v196608.r07	3bd0d27c
+sxs-fire_emblem_engage_v196608.r08	be000271
+sxs-fire_emblem_engage_v196608.r09	625d79b8
+sxs-fire_emblem_engage_v196608.r10	8c55af91
+sxs-fire_emblem_engage_v196608.r11	0a6da513
+sxs-fire_emblem_engage_v196608.r12	70faf163
+sxs-fire_emblem_engage_v196608.r13	94d5bba6
+sxs-fire_emblem_engage_v196608.rar	fc26105d
+sxs-fire_emblem_engage_v196608.sfv	79719ffe

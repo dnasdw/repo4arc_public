@@ -1,0 +1,4 @@
+lfc-aswf.nfo	1397268b2f5b36255351dd9045a59769
+lfc-aswf.r00	a8b9bbf4c9c198286a90a505addc7d4d
+lfc-aswf.rar	fd56bcc5bd42c5c53d0d83f47d09856f
+lfc-aswf.sfv	3acda4bb900dfb7e69228cd407cf37a5

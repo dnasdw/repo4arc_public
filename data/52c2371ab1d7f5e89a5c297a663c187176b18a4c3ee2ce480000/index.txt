@@ -1,0 +1,3 @@
+v-dq11_champions_dlc.nfo	-	6839	1	0	0	0
+v-dq11_champions_dlc.rar	-	1330782	1	6839	0	1
+v-dq11_champions_dlc.sfv	-	35	1	1337621	0	3

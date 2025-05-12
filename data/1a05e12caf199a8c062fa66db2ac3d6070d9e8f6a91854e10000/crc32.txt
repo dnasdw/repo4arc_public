@@ -1,0 +1,10 @@
+lfc-s117.nfo	afc672c7
+lfc-s117.r00	234bba1b
+lfc-s117.r01	6243efbe
+lfc-s117.r02	51400773
+lfc-s117.r03	8cb00326
+lfc-s117.r04	133ad41d
+lfc-s117.r05	f72543c9
+lfc-s117.r06	9f1b6511
+lfc-s117.rar	11bf7fca
+lfc-s117.sfv	a582dd34

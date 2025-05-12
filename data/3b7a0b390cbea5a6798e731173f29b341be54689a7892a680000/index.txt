@@ -1,0 +1,10 @@
+sxs-bitmaster.nfo	-	4886	1	0	0	0
+sxs-bitmaster.r00	-	50000000	1	4886	0	1
+sxs-bitmaster.r01	-	50000000	1	50004886	0	49
+sxs-bitmaster.r02	-	50000000	1	100004886	0	97
+sxs-bitmaster.r03	-	50000000	1	150004886	0	145
+sxs-bitmaster.r04	-	50000000	1	200004886	0	193
+sxs-bitmaster.r05	-	50000000	1	250004886	0	241
+sxs-bitmaster.r06	-	15933335	1	300004886	0	289
+sxs-bitmaster.rar	-	50000000	1	315938221	0	305
+sxs-bitmaster.sfv	-	224	1	365938221	0	353

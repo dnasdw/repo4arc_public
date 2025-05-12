@@ -1,0 +1,8 @@
+sxs-blazing_beaks_v327680.nfo	-	9254	1	0	0	0
+sxs-blazing_beaks_v327680.r00	-	50000000	1	9254	0	1
+sxs-blazing_beaks_v327680.r01	-	50000000	1	50009254	0	49
+sxs-blazing_beaks_v327680.r02	-	50000000	1	100009254	0	97
+sxs-blazing_beaks_v327680.r03	-	50000000	1	150009254	0	145
+sxs-blazing_beaks_v327680.r04	-	33792574	1	200009254	0	193
+sxs-blazing_beaks_v327680.rar	-	50000000	1	233801828	0	226
+sxs-blazing_beaks_v327680.sfv	-	240	1	283801828	0	274

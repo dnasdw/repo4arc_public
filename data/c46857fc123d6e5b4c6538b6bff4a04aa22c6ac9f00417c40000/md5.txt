@@ -1,0 +1,5 @@
+sxs-exiled.nfo	8532382908036ea367a5a784a554ebcc
+sxs-exiled.r00	48a3f3e910de3b9a35a845314014cc30
+sxs-exiled.r01	2a5dff5bfed7fd4b6097ebb6311de7e2
+sxs-exiled.rar	a2078f8ae81d50a2fca22c1aad8b465d
+sxs-exiled.sfv	ac55e307da44563469cceab42547b963

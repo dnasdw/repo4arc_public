@@ -1,0 +1,4 @@
+sxs-toki_tori_2_plus_nintendo_switch_edition_v393216.nfo	-	6368	1	0	0	0
+sxs-toki_tori_2_plus_nintendo_switch_edition_v393216.r00	-	13886656	1	6368	0	1
+sxs-toki_tori_2_plus_nintendo_switch_edition_v393216.rar	-	50000000	1	13893024	0	15
+sxs-toki_tori_2_plus_nintendo_switch_edition_v393216.sfv	-	134	1	63893024	0	63

@@ -1,0 +1,9 @@
+lfc-shng.nfo	d23d74256e87de4345476385fd015b32
+lfc-shng.r00	8e3fcec73c43a793a40d09aa04fba73b
+lfc-shng.r01	7cce0138dd4805fdd8274adc6b0e4505
+lfc-shng.r02	1ca011154d86471618ed8f1e9454e505
+lfc-shng.r03	dede1b431e726439eaa6ebd2341a224e
+lfc-shng.r04	5bd7f9257f2c00f0aa7c04a10e4938e9
+lfc-shng.r05	9086d3b29fabaec840ce8dcdfcc1c1f0
+lfc-shng.rar	55d26ea60d84dabd0b143745f04747d5
+lfc-shng.sfv	3776be0e5da339055c26690449492f59

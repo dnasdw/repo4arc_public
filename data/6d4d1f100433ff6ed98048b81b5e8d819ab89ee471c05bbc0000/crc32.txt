@@ -1,0 +1,15 @@
+l-blacksea.nfo	633c2e72
+l-blacksea.r00	ddd1d18b
+l-blacksea.r01	097b7fe1
+l-blacksea.r02	30dde35b
+l-blacksea.r03	4d97cda0
+l-blacksea.r04	0d9c9eb8
+l-blacksea.r05	1c4e439a
+l-blacksea.r06	d36b235e
+l-blacksea.r07	199afbf7
+l-blacksea.r08	59b36698
+l-blacksea.r09	63ec691d
+l-blacksea.r10	8a09a20b
+l-blacksea.r11	019c5304
+l-blacksea.rar	b1dc5d63
+l-blacksea.sfv	b92ddd16

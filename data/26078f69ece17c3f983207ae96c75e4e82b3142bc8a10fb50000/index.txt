@@ -1,0 +1,7 @@
+bbb-n-apg5a.nfo	-	5517	1	0	0	0
+bbb-n-apg5a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-apg5a.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-apg5a.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-apg5a.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-apg5a.part5.rar	-	122923032	1	462251264	1	442
+bbb-n-apg5a.sfv	-	160	1	47425560	2	46

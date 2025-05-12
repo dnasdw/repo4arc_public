@@ -1,0 +1,4 @@
+brw-ffgt.nfo	a29466bb
+brw-ffgt.r00	75dabeb8
+brw-ffgt.rar	b613fafe
+brw-ffgt.sfv	55df8d1e

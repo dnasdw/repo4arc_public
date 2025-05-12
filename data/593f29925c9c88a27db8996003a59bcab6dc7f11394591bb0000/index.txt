@@ -1,0 +1,7 @@
+sxs-earthfall_alien_horde_v65536.nfo	-	4106	1	0	0	0
+sxs-earthfall_alien_horde_v65536.r00	-	50000000	1	4106	0	1
+sxs-earthfall_alien_horde_v65536.r01	-	50000000	1	50004106	0	49
+sxs-earthfall_alien_horde_v65536.r02	-	50000000	1	100004106	0	97
+sxs-earthfall_alien_horde_v65536.r03	-	1092309	1	150004106	0	145
+sxs-earthfall_alien_horde_v65536.rar	-	50000000	1	151096415	0	147
+sxs-earthfall_alien_horde_v65536.sfv	-	235	1	201096415	0	195

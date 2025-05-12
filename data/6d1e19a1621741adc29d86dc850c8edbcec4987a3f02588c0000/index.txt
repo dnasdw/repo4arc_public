@@ -1,0 +1,7 @@
+v-conduct_together_v196608.nfo	-	6451	1	0	0	0
+v-conduct_together_v196608.r00	-	50000000	1	6451	0	1
+v-conduct_together_v196608.r01	-	50000000	1	50006451	0	49
+v-conduct_together_v196608.r02	-	50000000	1	100006451	0	97
+v-conduct_together_v196608.r03	-	17563768	1	150006451	0	145
+v-conduct_together_v196608.rar	-	50000000	1	167570219	0	162
+v-conduct_together_v196608.sfv	-	205	1	217570219	0	210

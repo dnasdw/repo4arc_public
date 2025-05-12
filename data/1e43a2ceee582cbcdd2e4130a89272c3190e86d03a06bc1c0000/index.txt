@@ -1,0 +1,7 @@
+sxs-the_town_of_light_deluxe_edition_v65536.nfo	-	4186	1	0	0	0
+sxs-the_town_of_light_deluxe_edition_v65536.r00	-	50000000	1	4186	0	1
+sxs-the_town_of_light_deluxe_edition_v65536.r01	-	50000000	1	50004186	0	49
+sxs-the_town_of_light_deluxe_edition_v65536.r02	-	50000000	1	100004186	0	97
+sxs-the_town_of_light_deluxe_edition_v65536.r03	-	13577895	1	150004186	0	145
+sxs-the_town_of_light_deluxe_edition_v65536.rar	-	50000000	1	163582081	0	158
+sxs-the_town_of_light_deluxe_edition_v65536.sfv	-	290	1	213582081	0	206

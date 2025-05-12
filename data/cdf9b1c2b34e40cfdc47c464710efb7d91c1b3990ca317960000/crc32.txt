@@ -1,0 +1,12 @@
+sxs-sally_face_v327680.nfo	5f79acae
+sxs-sally_face_v327680.r00	4f8dda28
+sxs-sally_face_v327680.r01	649140e3
+sxs-sally_face_v327680.r02	c7f5a220
+sxs-sally_face_v327680.r03	d714ecbb
+sxs-sally_face_v327680.r04	a4054c49
+sxs-sally_face_v327680.r05	091706c0
+sxs-sally_face_v327680.r06	67b9d895
+sxs-sally_face_v327680.r07	6a2314bf
+sxs-sally_face_v327680.r08	8174a092
+sxs-sally_face_v327680.rar	cb44b4ed
+sxs-sally_face_v327680.sfv	295ceca8

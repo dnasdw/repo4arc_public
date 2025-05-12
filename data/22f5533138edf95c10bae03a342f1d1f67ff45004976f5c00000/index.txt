@@ -1,0 +1,3 @@
+sxs-fatal_frame_mask_of_the_lunar_eclipse_v65536.nfo	-	6758	1	0	0	0
+sxs-fatal_frame_mask_of_the_lunar_eclipse_v65536.rar	-	52660291	1	6758	0	1
+sxs-fatal_frame_mask_of_the_lunar_eclipse_v65536.sfv	-	63	1	52667049	0	52

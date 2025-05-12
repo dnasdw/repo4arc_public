@@ -1,0 +1,3 @@
+sxs-hashihime_of_the_old_book_town_append_v65536.nfo	-	6680	1	0	0	0
+sxs-hashihime_of_the_old_book_town_append_v65536.rar	-	20125762	1	6680	0	1
+sxs-hashihime_of_the_old_book_town_append_v65536.sfv	-	63	1	20132442	0	21

@@ -1,0 +1,3 @@
+sxs-go_rally_v65536.nfo	fae8e72774819ce09bace09935a34416af887262
+sxs-go_rally_v65536.rar	35ab024ced58742e79557b7b85e0f0265a1ca8ef
+sxs-go_rally_v65536.sfv	1c255d01e21f5bfa340eb0a67c204cbff56e9d40

@@ -1,0 +1,11 @@
+sxs-crazy_goose_simulator.nfo	3a6cfc5f
+sxs-crazy_goose_simulator.r00	b662a679
+sxs-crazy_goose_simulator.r01	99e2f8db
+sxs-crazy_goose_simulator.r02	5dcc12bc
+sxs-crazy_goose_simulator.r03	a281081b
+sxs-crazy_goose_simulator.r04	bc53476b
+sxs-crazy_goose_simulator.r05	a0c112cf
+sxs-crazy_goose_simulator.r06	ead4ca9f
+sxs-crazy_goose_simulator.r07	df9ed502
+sxs-crazy_goose_simulator.rar	38932b5d
+sxs-crazy_goose_simulator.sfv	17818c43

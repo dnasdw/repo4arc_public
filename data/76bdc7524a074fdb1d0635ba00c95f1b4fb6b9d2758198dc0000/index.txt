@@ -1,0 +1,7 @@
+sxs-dr_fetus_mean_meat_machine.nfo	-	8084	1	0	0	0
+sxs-dr_fetus_mean_meat_machine.r00	-	100000000	1	8084	0	1
+sxs-dr_fetus_mean_meat_machine.r01	-	100000000	1	100008084	0	97
+sxs-dr_fetus_mean_meat_machine.r02	-	100000000	1	200008084	0	193
+sxs-dr_fetus_mean_meat_machine.r03	-	41051266	1	300008084	0	289
+sxs-dr_fetus_mean_meat_machine.rar	-	100000000	1	341059350	0	329
+sxs-dr_fetus_mean_meat_machine.sfv	-	225	1	441059350	0	425

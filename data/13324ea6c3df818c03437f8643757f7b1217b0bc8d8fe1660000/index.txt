@@ -1,0 +1,3 @@
+sxs-dark_witch_music_episode_rudymical_v65536.nfo	-	5354	1	0	0	0
+sxs-dark_witch_music_episode_rudymical_v65536.rar	-	20725311	1	5354	0	1
+sxs-dark_witch_music_episode_rudymical_v65536.sfv	-	60	1	20730665	0	21

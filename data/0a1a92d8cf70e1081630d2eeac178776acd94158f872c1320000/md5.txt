@@ -1,0 +1,13 @@
+jrp-n-mngk.nfo	516c265cf067894ee30926429ccdae5d
+jrp-n-mngk.r00	e2261dcd289fff8963e58f4f89387168
+jrp-n-mngk.r01	e86c98502ac6d4a1c2dbb787902cf823
+jrp-n-mngk.r02	9610526fbdc88718d0337b13ea83e444
+jrp-n-mngk.r03	380a83c5944a2a957cf179ae09825bd5
+jrp-n-mngk.r04	2413256f900ecb34ce8f363795a2516c
+jrp-n-mngk.r05	6f3826274fe32cc50de07822b4e614f1
+jrp-n-mngk.r06	d916a553eac5a3fadc8ae2b9e7839d5c
+jrp-n-mngk.r07	d62dda9807e8f633911dcad687b60545
+jrp-n-mngk.r08	967f49b8fb70b61ea132b92cafcf8495
+jrp-n-mngk.r09	fca4c373378be15abc9fb29d0569673d
+jrp-n-mngk.rar	a936c31060a384cfb591f6419ca33550
+jrp-n-mngk.sfv	9da1e84fca780366b38ca5afed2ead5a

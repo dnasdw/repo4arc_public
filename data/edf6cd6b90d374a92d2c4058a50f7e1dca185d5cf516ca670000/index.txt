@@ -1,0 +1,3 @@
+v-astlibra_revision_v196608.nfo	-	7696	1	0	0	0
+v-astlibra_revision_v196608.rar	-	61735994	1	7696	0	1
+v-astlibra_revision_v196608.sfv	-	42	1	61743690	0	60

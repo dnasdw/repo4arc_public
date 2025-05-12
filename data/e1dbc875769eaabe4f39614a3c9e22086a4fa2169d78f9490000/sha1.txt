@@ -1,0 +1,3 @@
+v-taiko_v983040_dlc.nfo	0c3ea0aa1f3e7e8e21316e193e794c4af612b723
+v-taiko_v983040_dlc.rar	d7c9325cddcc466e7cc2faac1e09ce0427afe7a4
+v-taiko_v983040_dlc.sfv	a740e0e1b6fb65d2077af2f8aa170342461906ea

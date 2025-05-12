@@ -1,0 +1,9 @@
+sxs-fldu.nfo	9e2f4cf5
+sxs-fldu.r00	0872db10
+sxs-fldu.r01	9e437660
+sxs-fldu.r02	c35071f7
+sxs-fldu.r03	0ee2f253
+sxs-fldu.r04	d56925d4
+sxs-fldu.r05	b30173e1
+sxs-fldu.rar	da7590bb
+sxs-fldu.sfv	69935d59

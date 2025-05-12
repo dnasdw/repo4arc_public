@@ -1,0 +1,15 @@
+delight.nfo	12c40329
+dl-agathaabc.r00	33a10dad
+dl-agathaabc.r01	4c72a13f
+dl-agathaabc.r02	1eb24f84
+dl-agathaabc.r03	a4a3a6ba
+dl-agathaabc.r04	40a5edd4
+dl-agathaabc.r05	d718b022
+dl-agathaabc.r06	75d7f73f
+dl-agathaabc.r07	a0172769
+dl-agathaabc.r08	d9187c47
+dl-agathaabc.r09	91f4327c
+dl-agathaabc.r10	8d64887c
+dl-agathaabc.r11	7d2f6e4a
+dl-agathaabc.rar	4cf3d5a5
+dl-agathaabc.sfv	ca9aac35

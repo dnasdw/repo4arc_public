@@ -1,0 +1,4 @@
+sxs-smdjp_v524288.nfo	6b2c21dd2210ceb1fc859f84f08e8e4a
+sxs-smdjp_v524288.r00	ba461bbce92868854c58e4822c0f70a2
+sxs-smdjp_v524288.rar	6ec4c57ffd6e79aeb9f9b7abf9f8ef74
+sxs-smdjp_v524288.sfv	28c8b567218ecc6c076a8aeb165f5799

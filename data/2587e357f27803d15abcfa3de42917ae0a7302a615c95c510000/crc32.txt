@@ -1,0 +1,16 @@
+sxs-crown_trick_v131072.nfo	4db93e0c
+sxs-crown_trick_v131072.r00	7db7f77c
+sxs-crown_trick_v131072.r01	957a4c2c
+sxs-crown_trick_v131072.r02	16421d5b
+sxs-crown_trick_v131072.r03	9abb389e
+sxs-crown_trick_v131072.r04	5ae27d01
+sxs-crown_trick_v131072.r05	cd59525e
+sxs-crown_trick_v131072.r06	2d5f5b6b
+sxs-crown_trick_v131072.r07	bb28ef4d
+sxs-crown_trick_v131072.r08	feb5519b
+sxs-crown_trick_v131072.r09	225ad214
+sxs-crown_trick_v131072.r10	71f82290
+sxs-crown_trick_v131072.r11	e9cdb916
+sxs-crown_trick_v131072.r12	d0383ba9
+sxs-crown_trick_v131072.rar	31489e5d
+sxs-crown_trick_v131072.sfv	34eb00a0

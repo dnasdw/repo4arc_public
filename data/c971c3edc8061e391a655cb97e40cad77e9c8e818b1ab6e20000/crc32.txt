@@ -1,0 +1,10 @@
+sxs-dusk_diver_v196608.nfo	1247bfa6
+sxs-dusk_diver_v196608.r00	31243109
+sxs-dusk_diver_v196608.r01	f79af0b0
+sxs-dusk_diver_v196608.r02	e2a98735
+sxs-dusk_diver_v196608.r03	fcdc87e4
+sxs-dusk_diver_v196608.r04	d472be8a
+sxs-dusk_diver_v196608.r05	763fcffd
+sxs-dusk_diver_v196608.r06	2f60c97c
+sxs-dusk_diver_v196608.rar	34b77698
+sxs-dusk_diver_v196608.sfv	c8e957e4

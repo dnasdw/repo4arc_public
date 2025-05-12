@@ -1,0 +1,15 @@
+sxs-osm_v327680.nfo	967d9216
+sxs-osm_v327680.r00	f443a341
+sxs-osm_v327680.r01	7e769184
+sxs-osm_v327680.r02	1122de7f
+sxs-osm_v327680.r03	3c95685b
+sxs-osm_v327680.r04	ab0d1840
+sxs-osm_v327680.r05	6450dd4c
+sxs-osm_v327680.r06	e58cadf0
+sxs-osm_v327680.r07	aabb43ef
+sxs-osm_v327680.r08	ebd003d6
+sxs-osm_v327680.r09	e0bf163b
+sxs-osm_v327680.r10	0a7cd2ac
+sxs-osm_v327680.r11	e4db32c3
+sxs-osm_v327680.rar	91030d89
+sxs-osm_v327680.sfv	198b7805

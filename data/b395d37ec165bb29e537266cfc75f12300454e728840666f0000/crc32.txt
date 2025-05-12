@@ -1,0 +1,5 @@
+brw-cfar_rp.nfo	f69af7d2
+brw-cfar_rp.r00	60b8b1e0
+brw-cfar_rp.r01	e7633439
+brw-cfar_rp.rar	462baab5
+brw-cfar_rp.sfv	4cb8ed2f

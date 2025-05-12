@@ -1,0 +1,9 @@
+sxs-japan_train_models_jr_kyushu_edition.nfo	-	9020	1	0	0	0
+sxs-japan_train_models_jr_kyushu_edition.r00	-	100000000	1	9020	0	1
+sxs-japan_train_models_jr_kyushu_edition.r01	-	100000000	1	100009020	0	97
+sxs-japan_train_models_jr_kyushu_edition.r02	-	100000000	1	200009020	0	193
+sxs-japan_train_models_jr_kyushu_edition.r03	-	100000000	1	300009020	0	289
+sxs-japan_train_models_jr_kyushu_edition.r04	-	100000000	1	400009020	0	385
+sxs-japan_train_models_jr_kyushu_edition.r05	-	90920705	1	500009020	0	481
+sxs-japan_train_models_jr_kyushu_edition.rar	-	100000000	1	53171969	1	51
+sxs-japan_train_models_jr_kyushu_edition.sfv	-	385	1	153171969	1	147

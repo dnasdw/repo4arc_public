@@ -1,0 +1,3 @@
+w-bioshock_remastered_dlc.nfo	3bed40e3a611776870ff4db4f51e6df27cda4857
+w-bioshock_remastered_dlc.rar	ba3bdebbb9709a91cd9c858477c8367dc55ddfaa
+w-bioshock_remastered_dlc.sfv	c15bf4223962751bbc98192b4004524fc2cb5949

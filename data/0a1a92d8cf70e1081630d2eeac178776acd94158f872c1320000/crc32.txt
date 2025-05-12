@@ -1,0 +1,13 @@
+jrp-n-mngk.nfo	4f290fbe
+jrp-n-mngk.r00	d8f05ea4
+jrp-n-mngk.r01	be45e47e
+jrp-n-mngk.r02	6f1fe4db
+jrp-n-mngk.r03	81ca58cc
+jrp-n-mngk.r04	83d5a8ff
+jrp-n-mngk.r05	58827a21
+jrp-n-mngk.r06	cc64ea8b
+jrp-n-mngk.r07	8d616c55
+jrp-n-mngk.r08	c4f905ef
+jrp-n-mngk.r09	9dfe691a
+jrp-n-mngk.rar	4822284e
+jrp-n-mngk.sfv	a7669f71

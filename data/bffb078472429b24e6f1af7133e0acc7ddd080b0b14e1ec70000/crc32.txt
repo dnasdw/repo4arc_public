@@ -1,0 +1,10 @@
+sxs-samshom_warden_dlc.nfo	b3d5d582
+sxs-samshom_warden_dlc.r00	da486fb1
+sxs-samshom_warden_dlc.r01	eb1f711b
+sxs-samshom_warden_dlc.r02	b6334cfa
+sxs-samshom_warden_dlc.r03	e0688f29
+sxs-samshom_warden_dlc.r04	bfe316de
+sxs-samshom_warden_dlc.r05	02e0ef20
+sxs-samshom_warden_dlc.r06	ea3428a8
+sxs-samshom_warden_dlc.rar	42fc71f2
+sxs-samshom_warden_dlc.sfv	0f8fa56b

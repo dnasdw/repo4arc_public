@@ -1,0 +1,10 @@
+v-what_the_duck_v65536.nfo	9221a977
+v-what_the_duck_v65536.r00	f10663ce
+v-what_the_duck_v65536.r01	54f5ea25
+v-what_the_duck_v65536.r02	4cba3192
+v-what_the_duck_v65536.r03	0a2f1975
+v-what_the_duck_v65536.r04	9a508dc1
+v-what_the_duck_v65536.r05	3275ce44
+v-what_the_duck_v65536.r06	cdf44bb2
+v-what_the_duck_v65536.rar	dfe91da7
+v-what_the_duck_v65536.sfv	13ca8dec

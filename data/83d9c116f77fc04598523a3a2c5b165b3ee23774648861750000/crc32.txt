@@ -1,0 +1,6 @@
+brw-drdw.nfo	bf8cb230
+brw-drdw.r00	fd946aba
+brw-drdw.r01	7b251916
+brw-drdw.r02	b3976ae2
+brw-drdw.rar	fe549ba6
+brw-drdw.sfv	f352026e

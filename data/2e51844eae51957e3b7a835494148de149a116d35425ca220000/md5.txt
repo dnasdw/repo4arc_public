@@ -1,0 +1,4 @@
+sxs-aa_ninja_gaiden.r00	c628d59704da7dbb0c086b757cc49c82
+sxs-aa_ninja_gaiden.r01	f6c5195c11d82181da9b6a8f1313977f
+sxs-aa_ninja_gaiden.rar	7193cf694673e719ed31f2a2e21388bc
+sxs-aa_ninja_gaiden.sfv	542629492572bcb61e9b7a03e9d12859

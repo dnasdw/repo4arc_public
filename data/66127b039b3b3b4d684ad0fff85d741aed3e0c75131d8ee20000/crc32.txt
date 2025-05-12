@@ -1,0 +1,5 @@
+sxs-gal_gun_2_v262144.nfo	45475f08
+sxs-gal_gun_2_v262144.r00	fa9a9355
+sxs-gal_gun_2_v262144.r01	b559a624
+sxs-gal_gun_2_v262144.rar	971ea33f
+sxs-gal_gun_2_v262144.sfv	dcc3c17f

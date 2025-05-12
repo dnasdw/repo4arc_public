@@ -1,0 +1,3 @@
+v-doom_1993_doom_zero_dlc.nfo	ddf2e247d335aa7c9e627aa2229b46732770b165
+v-doom_1993_doom_zero_dlc.rar	da6111c8731cce390ee79dd71604d4c8bf0b0221
+v-doom_1993_doom_zero_dlc.sfv	210331363eb83efd32b600e01c08d5d606aa0949

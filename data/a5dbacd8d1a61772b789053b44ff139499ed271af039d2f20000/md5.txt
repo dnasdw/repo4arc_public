@@ -1,0 +1,15 @@
+v-black_paradox.nfo	9ee110a7f4595932a1275b692c8821d1
+v-black_paradox.r00	e79458e9a85ded851b202dcc8a690606
+v-black_paradox.r01	92715529ff71830d8f299c59f338e80c
+v-black_paradox.r02	5b614eaa58a8c9499510fa8a50a2adcb
+v-black_paradox.r03	2c1c560ff3d686c1f36ab23a8b6a04bf
+v-black_paradox.r04	8088016bbdfb331b29dad28fb3007830
+v-black_paradox.r05	8015ea594aa6b546a0213b9d9416d813
+v-black_paradox.r06	b7ac921c599bd6c6f33b50462b4f74d8
+v-black_paradox.r07	d014b18be601c774cdbf5e96ac2fdc59
+v-black_paradox.r08	7f68962f27351e0db3922aa53819a59a
+v-black_paradox.r09	ace073fd0042101071b4ba8405a9c494
+v-black_paradox.r10	00fe6a95997641ccd29d63be300020ff
+v-black_paradox.r11	ab811de91db70176be4e5fc6fd573b7e
+v-black_paradox.rar	671c8eee09acaafd927f7be7ed189bee
+v-black_paradox.sfv	9abe952defceb780295eb88cbe11b438

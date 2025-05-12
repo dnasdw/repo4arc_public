@@ -1,0 +1,7 @@
+sxs-super_dungeon_maker.nfo	247ea75a
+sxs-super_dungeon_maker.r00	9024018d
+sxs-super_dungeon_maker.r01	dc8a9a3b
+sxs-super_dungeon_maker.r02	8653a22b
+sxs-super_dungeon_maker.r03	4c86bc89
+sxs-super_dungeon_maker.rar	adcf02cf
+sxs-super_dungeon_maker.sfv	1496dab6

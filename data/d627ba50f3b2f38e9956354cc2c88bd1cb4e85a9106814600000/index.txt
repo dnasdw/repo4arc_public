@@ -1,0 +1,10 @@
+bbb-n-aqfsa.nfo	-	5517	1	0	0	0
+bbb-n-aqfsa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aqfsa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aqfsa.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-aqfsa.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-aqfsa.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-aqfsa.part6.rar	-	250000000	1	174502528	2	167
+bbb-n-aqfsa.part7.rar	-	250000000	1	424502528	2	406
+bbb-n-aqfsa.part8.rar	-	216057496	1	136753792	3	131
+bbb-n-aqfsa.sfv	-	256	1	352811288	3	338

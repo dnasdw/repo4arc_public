@@ -1,0 +1,5 @@
+sxs-montezumas_revenge_8_bit_edition_v196608.nfo	-	4496	1	0	0	0
+sxs-montezumas_revenge_8_bit_edition_v196608.r00	-	100000000	1	4496	0	1
+sxs-montezumas_revenge_8_bit_edition_v196608.r01	-	22184680	1	100004496	0	97
+sxs-montezumas_revenge_8_bit_edition_v196608.rar	-	100000000	1	122189176	0	119
+sxs-montezumas_revenge_8_bit_edition_v196608.sfv	-	177	1	222189176	0	215

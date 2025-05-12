@@ -1,0 +1,10 @@
+lfc-bcgla_v65536.nfo	1e1ce1ee
+lfc-bcgla_v65536.r00	e44616ad
+lfc-bcgla_v65536.r01	1182477a
+lfc-bcgla_v65536.r02	a3d3302b
+lfc-bcgla_v65536.r03	23247626
+lfc-bcgla_v65536.r04	240effa2
+lfc-bcgla_v65536.r05	d7a460bf
+lfc-bcgla_v65536.r06	cd126353
+lfc-bcgla_v65536.rar	45281e6b
+lfc-bcgla_v65536.sfv	7eb4f642

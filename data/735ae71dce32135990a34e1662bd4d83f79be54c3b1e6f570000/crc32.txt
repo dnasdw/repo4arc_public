@@ -1,0 +1,8 @@
+lfc-bbxna_v131072.nfo	10f1eb52
+lfc-bbxna_v131072.r00	9cc46423
+lfc-bbxna_v131072.r01	a4a1aba8
+lfc-bbxna_v131072.r02	e10cef34
+lfc-bbxna_v131072.r03	34fe765b
+lfc-bbxna_v131072.r04	cf8055f7
+lfc-bbxna_v131072.rar	cbee19e3
+lfc-bbxna_v131072.sfv	f547b2d5

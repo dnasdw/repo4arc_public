@@ -1,0 +1,8 @@
+sxs-zomborg.nfo	488f8d865bacd67e66112d2db97a82e5
+sxs-zomborg.r00	5c13b3552d11b4cb905ec5844b13fdf2
+sxs-zomborg.r01	0f895b03c1d92ad11e734a2dc0bd87f3
+sxs-zomborg.r02	37cd7a51b011566844bc8157c1801d95
+sxs-zomborg.r03	a3f53d3be76e58866f79ab84f3f05346
+sxs-zomborg.r04	4484dddc279be7187daee246130fd6ff
+sxs-zomborg.rar	734147d2ac7284b085ac663e120abaf1
+sxs-zomborg.sfv	d32e19662f42ef4bc2195dde57e7199f

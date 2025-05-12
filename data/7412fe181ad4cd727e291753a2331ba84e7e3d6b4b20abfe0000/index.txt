@@ -1,0 +1,10 @@
+sxs-yohane_the_parhelion_numazu_in_the_mirage_demo.nfo	-	9496	1	0	0	0
+sxs-yohane_the_parhelion_numazu_in_the_mirage_demo.r00	-	100000000	1	9496	0	1
+sxs-yohane_the_parhelion_numazu_in_the_mirage_demo.r01	-	100000000	1	100009496	0	97
+sxs-yohane_the_parhelion_numazu_in_the_mirage_demo.r02	-	100000000	1	200009496	0	193
+sxs-yohane_the_parhelion_numazu_in_the_mirage_demo.r03	-	100000000	1	300009496	0	289
+sxs-yohane_the_parhelion_numazu_in_the_mirage_demo.r04	-	100000000	1	400009496	0	385
+sxs-yohane_the_parhelion_numazu_in_the_mirage_demo.r05	-	100000000	1	500009496	0	481
+sxs-yohane_the_parhelion_numazu_in_the_mirage_demo.r06	-	28191429	1	62251264	1	60
+sxs-yohane_the_parhelion_numazu_in_the_mirage_demo.rar	-	100000000	1	90442693	1	87
+sxs-yohane_the_parhelion_numazu_in_the_mirage_demo.sfv	-	520	1	190442693	1	183

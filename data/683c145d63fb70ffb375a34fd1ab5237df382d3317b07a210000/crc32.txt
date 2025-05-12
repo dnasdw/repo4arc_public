@@ -1,0 +1,3 @@
+v-type_rider_v65536.nfo	3234a547
+v-type_rider_v65536.rar	b160db1e
+v-type_rider_v65536.sfv	86c19eaf

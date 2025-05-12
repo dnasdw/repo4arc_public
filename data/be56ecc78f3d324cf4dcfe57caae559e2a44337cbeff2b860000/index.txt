@@ -1,0 +1,4 @@
+sxs-adventures_of_bertram_fiddle_episode_2_a_bleaker_predicklement_v65536.nfo	-	5666	1	0	0	0
+sxs-adventures_of_bertram_fiddle_episode_2_a_bleaker_predicklement_v65536.r00	-	581831	1	5666	0	1
+sxs-adventures_of_bertram_fiddle_episode_2_a_bleaker_predicklement_v65536.rar	-	50000000	1	587497	0	2
+sxs-adventures_of_bertram_fiddle_episode_2_a_bleaker_predicklement_v65536.sfv	-	176	1	50587497	0	50

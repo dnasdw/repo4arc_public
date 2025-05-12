@@ -1,0 +1,11 @@
+v-gothic_ii_complete_classic_v131072.nfo	ee0afde2
+v-gothic_ii_complete_classic_v131072.r00	97ad08c5
+v-gothic_ii_complete_classic_v131072.r01	9bd6b5da
+v-gothic_ii_complete_classic_v131072.r02	1205e7c7
+v-gothic_ii_complete_classic_v131072.r03	7f35aaf5
+v-gothic_ii_complete_classic_v131072.r04	ae08e90b
+v-gothic_ii_complete_classic_v131072.r05	2ee87d1e
+v-gothic_ii_complete_classic_v131072.r06	5f56b8c1
+v-gothic_ii_complete_classic_v131072.r07	44314ec3
+v-gothic_ii_complete_classic_v131072.rar	306f5f88
+v-gothic_ii_complete_classic_v131072.sfv	57214e7c

@@ -1,0 +1,11 @@
+v-music_racer.nfo	c150fbd83d96cb1c400090e6acbd733e
+v-music_racer.r00	b4b7a422026e17df7e7e0de476198612
+v-music_racer.r01	39b7207a86ad9a7f61d85e9e35e2cf72
+v-music_racer.r02	87e80c07e6166633a49f8879057419df
+v-music_racer.r03	958a2251c503c8b168030353602cc93a
+v-music_racer.r04	873451f7f66b3b8f99b9c98503056a04
+v-music_racer.r05	9f2c929af9ff0e84fffaca886e9d0758
+v-music_racer.r06	5290697c032d148f088e28b546c11e27
+v-music_racer.r07	e0ebcf46617c4c83394d96c7ac4155c4
+v-music_racer.rar	2820b47fa9c00e4b93fda24b3d8c382a
+v-music_racer.sfv	68f86c30a2706fc04e70f9870815c1e4

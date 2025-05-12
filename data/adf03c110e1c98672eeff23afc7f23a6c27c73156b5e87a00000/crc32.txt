@@ -1,0 +1,15 @@
+lfc-or104upd101.nfo	72d66609
+lfc-or104upd101.r00	b9daa303
+lfc-or104upd101.r01	1b28d30e
+lfc-or104upd101.r02	9aa9ef67
+lfc-or104upd101.r03	34f0e0dc
+lfc-or104upd101.r04	f9c35dd5
+lfc-or104upd101.r05	1ea1dee1
+lfc-or104upd101.r06	3ec3cd99
+lfc-or104upd101.r07	7fd8cd99
+lfc-or104upd101.r08	0d590c17
+lfc-or104upd101.r09	a766e698
+lfc-or104upd101.r10	4f216683
+lfc-or104upd101.r11	91640c48
+lfc-or104upd101.rar	62dba66a
+lfc-or104upd101.sfv	0cf7af2a

@@ -1,0 +1,4 @@
+sxs-fitness_boxing_v196608.nfo	0c9da4e71da9820538b81e26da3f4bd772dbce30
+sxs-fitness_boxing_v196608.r00	eabff967c6443c0bc38cc14b9db3dd428fdd0be4
+sxs-fitness_boxing_v196608.rar	cf7e875c2b05a31ddc9ede44b8e5f3af10487892
+sxs-fitness_boxing_v196608.sfv	b0078880ed39ed7cf694805f16b7807e65ebdce3

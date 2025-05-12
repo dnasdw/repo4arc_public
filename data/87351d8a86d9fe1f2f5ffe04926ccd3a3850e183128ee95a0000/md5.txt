@@ -1,0 +1,6 @@
+v-rtypex.nfo	da753d9905966feed562daf23f82c0ca
+v-rtypex.r00	53b864b4ce758f9de85f43fef7afbc5b
+v-rtypex.r01	b8beb8c953beb16ba954ace643417e18
+v-rtypex.r02	8ef3e02ba7041f6ceeed515f92718fe5
+v-rtypex.rar	01412dbfd5b9684b5609294d1e8262ff
+v-rtypex.sfv	f87a326793c4c9284ee4b8043fabfc82

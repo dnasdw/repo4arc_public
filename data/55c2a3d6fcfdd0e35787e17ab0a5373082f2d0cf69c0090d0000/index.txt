@@ -1,0 +1,9 @@
+sxs-fuga_melodies_of_steel_2_v458752.nfo	-	5822	1	0	0	0
+sxs-fuga_melodies_of_steel_2_v458752.r00	-	100000000	1	5822	0	1
+sxs-fuga_melodies_of_steel_2_v458752.r01	-	100000000	1	100005822	0	97
+sxs-fuga_melodies_of_steel_2_v458752.r02	-	100000000	1	200005822	0	193
+sxs-fuga_melodies_of_steel_2_v458752.r03	-	100000000	1	300005822	0	289
+sxs-fuga_melodies_of_steel_2_v458752.r04	-	100000000	1	400005822	0	385
+sxs-fuga_melodies_of_steel_2_v458752.r05	-	41136302	1	500005822	0	481
+sxs-fuga_melodies_of_steel_2_v458752.rar	-	100000000	1	3387566	1	4
+sxs-fuga_melodies_of_steel_2_v458752.sfv	-	357	1	103387566	1	100

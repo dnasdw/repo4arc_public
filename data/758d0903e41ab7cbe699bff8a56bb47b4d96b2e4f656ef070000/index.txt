@@ -1,0 +1,3 @@
+sxs-super_destronaut_dx_v65536.nfo	-	5744	1	0	0	0
+sxs-super_destronaut_dx_v65536.rar	-	46436396	1	5744	0	1
+sxs-super_destronaut_dx_v65536.sfv	-	45	1	46442140	0	46

@@ -1,0 +1,15 @@
+sxs-minecraft_dungeons_v131072.nfo	2f58c7d0
+sxs-minecraft_dungeons_v131072.r00	78288a22
+sxs-minecraft_dungeons_v131072.r01	dade7730
+sxs-minecraft_dungeons_v131072.r02	00e26997
+sxs-minecraft_dungeons_v131072.r03	42e890ff
+sxs-minecraft_dungeons_v131072.r04	c1cb6d24
+sxs-minecraft_dungeons_v131072.r05	77d49800
+sxs-minecraft_dungeons_v131072.r06	cb935b30
+sxs-minecraft_dungeons_v131072.r07	ea1f527a
+sxs-minecraft_dungeons_v131072.r08	9c86a3dd
+sxs-minecraft_dungeons_v131072.r09	8fff83a8
+sxs-minecraft_dungeons_v131072.r10	cfe03f88
+sxs-minecraft_dungeons_v131072.r11	dbfc8bf2
+sxs-minecraft_dungeons_v131072.rar	4cb4c90e
+sxs-minecraft_dungeons_v131072.sfv	91152166

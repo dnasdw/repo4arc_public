@@ -1,0 +1,9 @@
+sxs-mediterranea_inferno.nfo	-	6212	1	0	0	0
+sxs-mediterranea_inferno.r00	-	100000000	1	6212	0	1
+sxs-mediterranea_inferno.r01	-	100000000	1	100006212	0	97
+sxs-mediterranea_inferno.r02	-	100000000	1	200006212	0	193
+sxs-mediterranea_inferno.r03	-	100000000	1	300006212	0	289
+sxs-mediterranea_inferno.r04	-	100000000	1	400006212	0	385
+sxs-mediterranea_inferno.r05	-	30030322	1	500006212	0	481
+sxs-mediterranea_inferno.rar	-	100000000	1	530036534	0	510
+sxs-mediterranea_inferno.sfv	-	273	1	92659968	1	89

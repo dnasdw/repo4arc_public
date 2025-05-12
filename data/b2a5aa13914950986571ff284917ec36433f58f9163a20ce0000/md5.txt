@@ -1,0 +1,13 @@
+brw-chag.nfo	ae47e1d761f8bd91d1925b18a0b35eec
+brw-chag.r00	e65a4cc0dc9559a22a5e3317d824ef9d
+brw-chag.r01	a171d32e9f80ca02b77da40bc3233e15
+brw-chag.r02	2c0c6c3a9b038005daf7b1ad48adc086
+brw-chag.r03	afaaecea86a36f5d9ab97e50dcec8414
+brw-chag.r04	52f2a400941e79e8872823257cb4acff
+brw-chag.r05	5d7832a0ee86b44029c16994a2232f1d
+brw-chag.r06	8c5a80b95915ab98e0b119a6fc6ead46
+brw-chag.r07	b1a1c3314779b19604db2d3c998dcd2f
+brw-chag.r08	500cb9cfd6973c6ee8fef666f94e929b
+brw-chag.r09	e3fd1ebfc716d1839ff135e2a72bc9ae
+brw-chag.rar	ab141d84201758a9e53e518c3ada7278
+brw-chag.sfv	5a6960ac3ef1724dcf311efefb35feb9

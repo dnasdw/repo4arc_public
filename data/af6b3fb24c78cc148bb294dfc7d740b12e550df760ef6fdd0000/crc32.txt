@@ -1,0 +1,17 @@
+i-mtsp.nfo	dfe1516e
+i-mtsp.r00	c176039b
+i-mtsp.r01	dbac10c8
+i-mtsp.r02	160d952c
+i-mtsp.r03	72f0af3b
+i-mtsp.r04	7858fc9e
+i-mtsp.r05	93a39d07
+i-mtsp.r06	19ab5485
+i-mtsp.r07	d54a2f54
+i-mtsp.r08	dc1eefaa
+i-mtsp.r09	046ac8fa
+i-mtsp.r10	516c35d5
+i-mtsp.r11	3d411e19
+i-mtsp.r12	4aa94c46
+i-mtsp.r13	d62eb97a
+i-mtsp.rar	bec793fb
+i-mtsp.sfv	052af053

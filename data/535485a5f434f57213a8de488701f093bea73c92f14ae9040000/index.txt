@@ -1,0 +1,5 @@
+sxs-rising_dusk.nfo	-	5124	1	0	0	0
+sxs-rising_dusk.r00	-	100000000	1	5124	0	1
+sxs-rising_dusk.r01	-	64724710	1	100005124	0	97
+sxs-rising_dusk.rar	-	100000000	1	164729834	0	159
+sxs-rising_dusk.sfv	-	90	1	264729834	0	255

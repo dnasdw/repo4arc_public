@@ -1,0 +1,4 @@
+v-transistor_v65536.nfo	-	5669	1	0	0	0
+v-transistor_v65536.r00	-	12707600	1	5669	0	1
+v-transistor_v65536.rar	-	50000000	1	12713269	0	14
+v-transistor_v65536.sfv	-	68	1	62713269	0	62

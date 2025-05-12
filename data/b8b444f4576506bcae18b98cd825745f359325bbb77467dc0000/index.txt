@@ -1,0 +1,4 @@
+sxs-lovers_in_a_dangerous_spacetime_v262144.nfo	-	6056	1	0	0	0
+sxs-lovers_in_a_dangerous_spacetime_v262144.r00	-	44293078	1	6056	0	1
+sxs-lovers_in_a_dangerous_spacetime_v262144.rar	-	50000000	1	44299134	0	44
+sxs-lovers_in_a_dangerous_spacetime_v262144.sfv	-	116	1	94299134	0	92

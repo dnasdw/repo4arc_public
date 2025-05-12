@@ -1,0 +1,11 @@
+sxs-crazy_goose_simulator.nfo	-	6134	1	0	0	0
+sxs-crazy_goose_simulator.r00	-	100000000	1	6134	0	1
+sxs-crazy_goose_simulator.r01	-	100000000	1	100006134	0	97
+sxs-crazy_goose_simulator.r02	-	100000000	1	200006134	0	193
+sxs-crazy_goose_simulator.r03	-	100000000	1	300006134	0	289
+sxs-crazy_goose_simulator.r04	-	100000000	1	400006134	0	385
+sxs-crazy_goose_simulator.r05	-	100000000	1	500006134	0	481
+sxs-crazy_goose_simulator.r06	-	100000000	1	62251264	1	60
+sxs-crazy_goose_simulator.r07	-	44111202	1	162251264	1	156
+sxs-crazy_goose_simulator.rar	-	100000000	1	206362466	1	199
+sxs-crazy_goose_simulator.sfv	-	360	1	306362466	1	295

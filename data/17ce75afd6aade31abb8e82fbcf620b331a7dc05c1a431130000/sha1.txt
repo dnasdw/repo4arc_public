@@ -1,0 +1,7 @@
+sxs-502s_arcade.nfo	73c453f687c7d7525ecc02974f023f8499c67e84
+sxs-502s_arcade.r00	09004daabd390a5fea9f7dbe683a4438f2183d2f
+sxs-502s_arcade.r01	fe30cb6fd4c9e786b3a0fe6cd86d103e9a920b2c
+sxs-502s_arcade.r02	697bfecd3002bc748c3d7c98fb1c033a9643f9bd
+sxs-502s_arcade.r03	6b44aed763d1802617536a53a2bc76b0005e2d2e
+sxs-502s_arcade.rar	d37fdb8c5809ff6b05d1e8dde20e9fcb2c365d41
+sxs-502s_arcade.sfv	99c27ed7b8adc9b6510d1aae7fe095a5755bc64b

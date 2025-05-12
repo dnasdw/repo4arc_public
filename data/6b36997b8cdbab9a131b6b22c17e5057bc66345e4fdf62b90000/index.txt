@@ -1,0 +1,4 @@
+sxs-hatup.nfo	-	5120	1	0	0	0
+sxs-hatup.r00	-	4453086	1	5120	0	1
+sxs-hatup.rar	-	50000000	1	4458206	0	6
+sxs-hatup.sfv	-	48	1	54458206	0	54

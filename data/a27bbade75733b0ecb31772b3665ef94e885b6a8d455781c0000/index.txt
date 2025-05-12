@@ -1,0 +1,5 @@
+sxs-quick_race.nfo	-	5744	1	0	0	0
+sxs-quick_race.r00	-	100000000	1	5744	0	1
+sxs-quick_race.r01	-	79523050	1	100005744	0	97
+sxs-quick_race.rar	-	100000000	1	179528794	0	173
+sxs-quick_race.sfv	-	87	1	279528794	0	269

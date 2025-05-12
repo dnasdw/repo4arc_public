@@ -1,0 +1,4 @@
+lfc-aloo.nfo	2ccedab8b576b00007ac29b7ab2539c7ee5acf9f
+lfc-aloo.r00	dee090a08997f29810d3770571f38333b9655eaf
+lfc-aloo.rar	7a2e44205bf7ff811fe98b9991a9e5d273947b20
+lfc-aloo.sfv	e75ed9e2a6d6df217cd3a4fc728253e0474367ad

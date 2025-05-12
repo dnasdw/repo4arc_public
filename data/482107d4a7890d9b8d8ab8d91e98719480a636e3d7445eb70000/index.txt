@@ -1,0 +1,3 @@
+v-picross_s5_v65536.nfo	-	5668	1	0	0	0
+v-picross_s5_v65536.rar	-	45606959	1	5668	0	1
+v-picross_s5_v65536.sfv	-	34	1	45612627	0	45

@@ -1,0 +1,12 @@
+cat-arcwa.jpg	f50dc68ee05adb73f8ac0b87ac96f32d9908b020
+cat-arcwa.nfo	160f4c74af57560a87a50056c146b0938a3c713d
+cat-arcwa.r00	b04b7d1de788c54beedac4fd9f8fb052d6beb713
+cat-arcwa.r01	8303c4ec7fa9b6fd93f536ea1eee61cc37a0a2d2
+cat-arcwa.r02	c5a81292088c44a700da5cf7e321075b65e3fed1
+cat-arcwa.r03	3d081c0ff9c018ec7c7b2da83708b9fdbb1a179c
+cat-arcwa.r04	510dce73e8ede6675f927785ab11074982d5d692
+cat-arcwa.r05	bb60395c63fbd384c58958107a75a172f86610c5
+cat-arcwa.r06	0b5946cb2ce7d2739e0d84aa9acfa2e57567e6c4
+cat-arcwa.r07	77f00b9c40bcceffb9b27f935983418543aab492
+cat-arcwa.rar	cad83c0e487ff5f839ece7b639e2a3b990264e6c
+cat-arcwa.sfv	add8895ad00c1a0c1e20f6a5db4b0a5d003b88be

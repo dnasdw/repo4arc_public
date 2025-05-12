@@ -1,0 +1,11 @@
+sxs-tbtwt_ptbr_dlc.nfo	52ba0781
+sxs-tbtwt_ptbr_dlc.r00	b0c6dca9
+sxs-tbtwt_ptbr_dlc.r01	cde5f7e3
+sxs-tbtwt_ptbr_dlc.r02	18125218
+sxs-tbtwt_ptbr_dlc.r03	c4ff95e8
+sxs-tbtwt_ptbr_dlc.r04	26d5b2c0
+sxs-tbtwt_ptbr_dlc.r05	029d94e6
+sxs-tbtwt_ptbr_dlc.r06	8f3845eb
+sxs-tbtwt_ptbr_dlc.r07	865d528a
+sxs-tbtwt_ptbr_dlc.rar	4d1962be
+sxs-tbtwt_ptbr_dlc.sfv	f77e0b23

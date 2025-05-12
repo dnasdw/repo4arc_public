@@ -1,0 +1,10 @@
+sxs-paleo_pines_v262144.nfo	4fdd55c5
+sxs-paleo_pines_v262144.r00	ea6a6038
+sxs-paleo_pines_v262144.r01	2a45dd4d
+sxs-paleo_pines_v262144.r02	9cc1f81d
+sxs-paleo_pines_v262144.r03	3b1a3ade
+sxs-paleo_pines_v262144.r04	5a04ba47
+sxs-paleo_pines_v262144.r05	c0ab3dda
+sxs-paleo_pines_v262144.r06	c8dfdac8
+sxs-paleo_pines_v262144.rar	6c77bf1d
+sxs-paleo_pines_v262144.sfv	01ecf054

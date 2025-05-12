@@ -1,0 +1,15 @@
+sxs-dnf_duel_whos_next_v196608.nfo	-	8482	1	0	0	0
+sxs-dnf_duel_whos_next_v196608.r00	-	100000000	1	8482	0	1
+sxs-dnf_duel_whos_next_v196608.r01	-	100000000	1	100008482	0	97
+sxs-dnf_duel_whos_next_v196608.r02	-	100000000	1	200008482	0	193
+sxs-dnf_duel_whos_next_v196608.r03	-	100000000	1	300008482	0	289
+sxs-dnf_duel_whos_next_v196608.r04	-	100000000	1	400008482	0	385
+sxs-dnf_duel_whos_next_v196608.r05	-	100000000	1	500008482	0	481
+sxs-dnf_duel_whos_next_v196608.r06	-	100000000	1	62251264	1	60
+sxs-dnf_duel_whos_next_v196608.r07	-	100000000	1	162251264	1	156
+sxs-dnf_duel_whos_next_v196608.r08	-	100000000	1	262251264	1	252
+sxs-dnf_duel_whos_next_v196608.r09	-	100000000	1	362251264	1	348
+sxs-dnf_duel_whos_next_v196608.r10	-	100000000	1	462251264	1	444
+sxs-dnf_duel_whos_next_v196608.r11	-	94874113	1	24502528	2	24
+sxs-dnf_duel_whos_next_v196608.rar	-	100000000	1	119376641	2	115
+sxs-dnf_duel_whos_next_v196608.sfv	-	585	1	219376641	2	211

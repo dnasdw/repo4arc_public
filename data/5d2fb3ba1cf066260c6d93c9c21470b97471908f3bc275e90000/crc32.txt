@@ -1,0 +1,11 @@
+lfc-slaythespire.nfo	956afe4f
+lfc-slaythespire.r00	20e7b5d9
+lfc-slaythespire.r01	dc2c42d5
+lfc-slaythespire.r02	451ee23b
+lfc-slaythespire.r03	230d3175
+lfc-slaythespire.r04	30b27c88
+lfc-slaythespire.r05	d515534e
+lfc-slaythespire.r06	a0812370
+lfc-slaythespire.r07	27e8834d
+lfc-slaythespire.rar	94116d00
+lfc-slaythespire.sfv	72bada43

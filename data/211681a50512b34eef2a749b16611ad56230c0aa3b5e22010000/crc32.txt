@@ -1,0 +1,8 @@
+v-shadowgate_v262144.nfo	f20e5492
+v-shadowgate_v262144.r00	032cf32f
+v-shadowgate_v262144.r01	13a274e3
+v-shadowgate_v262144.r02	9d64fa17
+v-shadowgate_v262144.r03	2f2d9f06
+v-shadowgate_v262144.r04	71af566c
+v-shadowgate_v262144.rar	1029a5ef
+v-shadowgate_v262144.sfv	8f74a72f

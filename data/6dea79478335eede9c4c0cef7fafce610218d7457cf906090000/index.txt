@@ -1,0 +1,8 @@
+sxs-bear_and_breakfast_v524288.nfo	-	6914	1	0	0	0
+sxs-bear_and_breakfast_v524288.r00	-	100000000	1	6914	0	1
+sxs-bear_and_breakfast_v524288.r01	-	100000000	1	100006914	0	97
+sxs-bear_and_breakfast_v524288.r02	-	100000000	1	200006914	0	193
+sxs-bear_and_breakfast_v524288.r03	-	100000000	1	300006914	0	289
+sxs-bear_and_breakfast_v524288.r04	-	37867347	1	400006914	0	385
+sxs-bear_and_breakfast_v524288.rar	-	100000000	1	437874261	0	422
+sxs-bear_and_breakfast_v524288.sfv	-	270	1	385280	1	1

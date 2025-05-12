@@ -1,0 +1,8 @@
+sxs-magicolors.nfo	04f30505
+sxs-magicolors.r00	f3a14ae9
+sxs-magicolors.r01	aaa2d666
+sxs-magicolors.r02	3cfc0484
+sxs-magicolors.r03	72fed5c1
+sxs-magicolors.r04	30ebd70a
+sxs-magicolors.rar	8e9d4ade
+sxs-magicolors.sfv	c9b3586c

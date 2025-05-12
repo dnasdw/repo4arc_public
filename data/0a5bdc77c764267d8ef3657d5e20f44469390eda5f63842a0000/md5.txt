@@ -1,0 +1,6 @@
+v-picross_s6_v393216.nfo	76fcb5153b5dab246ba7824e9bb89b5f
+v-picross_s6_v393216.r00	d2ba40c58f293378dc0fd70cb8691ebe
+v-picross_s6_v393216.r01	d0cdd10befab1d6eca17c0cb0a13ba47
+v-picross_s6_v393216.r02	bbf595b0e14072f5dac0559f1ba0473b
+v-picross_s6_v393216.rar	a49a88958533bc4130deefe67c3cf4a2
+v-picross_s6_v393216.sfv	9414f33ed9bf3321a4db6c17d1e4c9d1

@@ -1,0 +1,4 @@
+sxs-the_swindle_v131072.nfo	000b04e9
+sxs-the_swindle_v131072.r00	61f98530
+sxs-the_swindle_v131072.rar	b25194e0
+sxs-the_swindle_v131072.sfv	84257d3e

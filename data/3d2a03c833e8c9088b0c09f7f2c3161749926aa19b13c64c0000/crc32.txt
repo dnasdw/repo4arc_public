@@ -1,0 +1,10 @@
+sxs-wildbus_v327680.nfo	6c963c77
+sxs-wildbus_v327680.r00	f65906cb
+sxs-wildbus_v327680.r01	b7dfb501
+sxs-wildbus_v327680.r02	3accc47d
+sxs-wildbus_v327680.r03	81e9af5b
+sxs-wildbus_v327680.r04	6895d62b
+sxs-wildbus_v327680.r05	ae7a7756
+sxs-wildbus_v327680.r06	a6110e28
+sxs-wildbus_v327680.rar	17a2fd03
+sxs-wildbus_v327680.sfv	abbdac5d

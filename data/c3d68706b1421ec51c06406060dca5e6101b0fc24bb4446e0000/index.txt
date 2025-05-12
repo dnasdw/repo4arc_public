@@ -1,0 +1,3 @@
+sxs-touhou_spell_bubble_v2162688_dlc.nfo	-	17288	1	0	0	0
+sxs-touhou_spell_bubble_v2162688_dlc.rar	-	5837051	1	17288	0	1
+sxs-touhou_spell_bubble_v2162688_dlc.sfv	-	51	1	5854339	0	7

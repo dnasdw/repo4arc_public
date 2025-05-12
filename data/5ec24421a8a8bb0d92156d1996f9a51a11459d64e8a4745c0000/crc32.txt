@@ -1,0 +1,12 @@
+v-inertial_drift_v393216.nfo	79cfa457
+v-inertial_drift_v393216.r00	b5fb8fe7
+v-inertial_drift_v393216.r01	b207427f
+v-inertial_drift_v393216.r02	23a8468a
+v-inertial_drift_v393216.r03	35aaf53a
+v-inertial_drift_v393216.r04	0053dfed
+v-inertial_drift_v393216.r05	f48350f8
+v-inertial_drift_v393216.r06	d8de3543
+v-inertial_drift_v393216.r07	1d5250e5
+v-inertial_drift_v393216.r08	04ea1933
+v-inertial_drift_v393216.rar	e0c15915
+v-inertial_drift_v393216.sfv	a0acf469

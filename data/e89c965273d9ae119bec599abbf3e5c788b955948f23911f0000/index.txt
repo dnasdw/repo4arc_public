@@ -1,0 +1,13 @@
+v-the_wonderful_101_remastered_v655360.nfo	-	7306	1	0	0	0
+v-the_wonderful_101_remastered_v655360.r00	-	100000000	1	7306	0	1
+v-the_wonderful_101_remastered_v655360.r01	-	100000000	1	100007306	0	97
+v-the_wonderful_101_remastered_v655360.r02	-	100000000	1	200007306	0	193
+v-the_wonderful_101_remastered_v655360.r03	-	100000000	1	300007306	0	289
+v-the_wonderful_101_remastered_v655360.r04	-	100000000	1	400007306	0	385
+v-the_wonderful_101_remastered_v655360.r05	-	100000000	1	500007306	0	481
+v-the_wonderful_101_remastered_v655360.r06	-	100000000	1	62251264	1	60
+v-the_wonderful_101_remastered_v655360.r07	-	100000000	1	162251264	1	156
+v-the_wonderful_101_remastered_v655360.r08	-	100000000	1	262251264	1	252
+v-the_wonderful_101_remastered_v655360.r09	-	14374244	1	362251264	1	348
+v-the_wonderful_101_remastered_v655360.rar	-	100000000	1	376625508	1	362
+v-the_wonderful_101_remastered_v655360.sfv	-	583	1	476625508	1	458

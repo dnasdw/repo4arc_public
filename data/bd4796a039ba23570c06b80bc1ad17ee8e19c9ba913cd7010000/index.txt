@@ -1,0 +1,4 @@
+sxs-zencc.nfo	-	4496	1	0	0	0
+sxs-zencc.r00	-	18216358	1	4496	0	1
+sxs-zencc.rar	-	50000000	1	18220854	0	19
+sxs-zencc.sfv	-	48	1	68220854	0	67

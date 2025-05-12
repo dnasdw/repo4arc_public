@@ -1,0 +1,6 @@
+sxs-puzzle_battler_mirai.nfo	b45cf2f1
+sxs-puzzle_battler_mirai.r00	e5e85f33
+sxs-puzzle_battler_mirai.r01	f229ae6a
+sxs-puzzle_battler_mirai.r02	e6a8126a
+sxs-puzzle_battler_mirai.rar	c962f68a
+sxs-puzzle_battler_mirai.sfv	515edbd9

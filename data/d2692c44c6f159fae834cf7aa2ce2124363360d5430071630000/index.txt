@@ -1,0 +1,10 @@
+sxs-full_speed_animals_the_rta.nfo	-	5199	1	0	0	0
+sxs-full_speed_animals_the_rta.r00	-	100000000	1	5199	0	1
+sxs-full_speed_animals_the_rta.r01	-	100000000	1	100005199	0	97
+sxs-full_speed_animals_the_rta.r02	-	100000000	1	200005199	0	193
+sxs-full_speed_animals_the_rta.r03	-	100000000	1	300005199	0	289
+sxs-full_speed_animals_the_rta.r04	-	100000000	1	400005199	0	385
+sxs-full_speed_animals_the_rta.r05	-	100000000	1	500005199	0	481
+sxs-full_speed_animals_the_rta.r06	-	17009189	1	62251264	1	60
+sxs-full_speed_animals_the_rta.rar	-	100000000	1	79260453	1	77
+sxs-full_speed_animals_the_rta.sfv	-	360	1	179260453	1	173

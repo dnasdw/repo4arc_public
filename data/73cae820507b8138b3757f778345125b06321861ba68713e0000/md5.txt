@@ -1,0 +1,10 @@
+lfc-huntdown.nfo	836ce8d3d53c9a52514392a6925668e9
+lfc-huntdown.r00	e48f694a95d6fd126755c19379eec72f
+lfc-huntdown.r01	f3bc0f4ee3a09edf9bdce6c7b221d507
+lfc-huntdown.r02	ed797fdd86378e156fb31bc68d4f0a7b
+lfc-huntdown.r03	b661abdd96aa9490dfaa2a83c1438b2b
+lfc-huntdown.r04	3abaf871453f055debcdc8ac70edbb3f
+lfc-huntdown.r05	9a04c73fa0e054521432975b41b4d9d5
+lfc-huntdown.r06	a2ae771016b4ab203a57cf261e1e98ab
+lfc-huntdown.rar	d65f119dab2ea108545b37112b7801c3
+lfc-huntdown.sfv	443c533954380ad232bf61a757e80c34

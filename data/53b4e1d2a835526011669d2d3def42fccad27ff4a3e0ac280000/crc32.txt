@@ -1,0 +1,17 @@
+sxs-holy_potatoes_a_weapon_shop_v262144.nfo	f6a86025
+sxs-holy_potatoes_a_weapon_shop_v262144.r00	c472e8c8
+sxs-holy_potatoes_a_weapon_shop_v262144.r01	0c4fa3fc
+sxs-holy_potatoes_a_weapon_shop_v262144.r02	5510d1d2
+sxs-holy_potatoes_a_weapon_shop_v262144.r03	9351d7b1
+sxs-holy_potatoes_a_weapon_shop_v262144.r04	f15494ba
+sxs-holy_potatoes_a_weapon_shop_v262144.r05	d7b960ae
+sxs-holy_potatoes_a_weapon_shop_v262144.r06	2865e4b6
+sxs-holy_potatoes_a_weapon_shop_v262144.r07	f3a3b0ed
+sxs-holy_potatoes_a_weapon_shop_v262144.r08	3e9a9624
+sxs-holy_potatoes_a_weapon_shop_v262144.r09	7e092a8e
+sxs-holy_potatoes_a_weapon_shop_v262144.r10	7497adfe
+sxs-holy_potatoes_a_weapon_shop_v262144.r11	c36c40de
+sxs-holy_potatoes_a_weapon_shop_v262144.r12	af22b029
+sxs-holy_potatoes_a_weapon_shop_v262144.r13	bdecb6a1
+sxs-holy_potatoes_a_weapon_shop_v262144.rar	17cc74be
+sxs-holy_potatoes_a_weapon_shop_v262144.sfv	8408729b

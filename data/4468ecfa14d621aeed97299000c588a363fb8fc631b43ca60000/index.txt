@@ -1,0 +1,14 @@
+sxs-running_fable.nfo	-	5042	1	0	0	0
+sxs-running_fable.r00	-	100000000	1	5042	0	1
+sxs-running_fable.r01	-	100000000	1	100005042	0	97
+sxs-running_fable.r02	-	100000000	1	200005042	0	193
+sxs-running_fable.r03	-	100000000	1	300005042	0	289
+sxs-running_fable.r04	-	100000000	1	400005042	0	385
+sxs-running_fable.r05	-	100000000	1	500005042	0	481
+sxs-running_fable.r06	-	100000000	1	62251264	1	60
+sxs-running_fable.r07	-	100000000	1	162251264	1	156
+sxs-running_fable.r08	-	100000000	1	262251264	1	252
+sxs-running_fable.r09	-	100000000	1	362251264	1	348
+sxs-running_fable.r10	-	67597446	1	462251264	1	444
+sxs-running_fable.rar	-	100000000	1	529848710	1	509
+sxs-running_fable.sfv	-	384	1	92659968	2	89

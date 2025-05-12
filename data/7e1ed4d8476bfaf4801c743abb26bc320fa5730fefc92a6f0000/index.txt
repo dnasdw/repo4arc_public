@@ -1,0 +1,4 @@
+v-mega_man_zero_zx_legacy_collection_v262144.nfo	-	4420	1	0	0	0
+v-mega_man_zero_zx_legacy_collection_v262144.r00	-	36811512	1	4420	0	1
+v-mega_man_zero_zx_legacy_collection_v262144.rar	-	50000000	1	36815932	0	37
+v-mega_man_zero_zx_legacy_collection_v262144.sfv	-	118	1	86815932	0	85

@@ -1,0 +1,8 @@
+sxs-truck_sim_2024.nfo	1ce98ceb
+sxs-truck_sim_2024.r00	bc41eaa8
+sxs-truck_sim_2024.r01	1ee9da52
+sxs-truck_sim_2024.r02	1dcd580f
+sxs-truck_sim_2024.r03	4dc534a7
+sxs-truck_sim_2024.r04	a8e1340c
+sxs-truck_sim_2024.rar	df60dd39
+sxs-truck_sim_2024.sfv	af548e0b

@@ -1,0 +1,3 @@
+sxs-crosscode_dlc.nfo	8c39f196f4c7fe14b125bb6ff5879304
+sxs-crosscode_dlc.rar	489244c62108d4044803e32dee22c6df
+sxs-crosscode_dlc.sfv	633aa15ce13bd0b3ba0924566e6bd7fb

@@ -1,0 +1,4 @@
+sxs-bomb_chicken_v196608.r00	2d87f05945fcaaafd1d603bdd0b2aad3
+sxs-bomb_chicken_v196608.r01	33b658d297633a50177c06b9b590aced
+sxs-bomb_chicken_v196608.rar	1b6b9129d432bae8301f0d681cb3b071
+sxs-bomb_chicken_v196608.sfv	9736f00306b136656e23a6fe2d4b2016

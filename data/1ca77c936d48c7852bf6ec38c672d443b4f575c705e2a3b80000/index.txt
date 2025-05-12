@@ -1,0 +1,3 @@
+lfc-hegu.nfo	-	5324	1	0	0	0
+lfc-hegu.rar	-	28945815	1	5324	0	1
+lfc-hegu.sfv	-	23	1	28951139	0	29

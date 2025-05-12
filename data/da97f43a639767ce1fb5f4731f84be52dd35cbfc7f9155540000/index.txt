@@ -1,0 +1,4 @@
+sxs-mary_skelter_2_v196608.nfo	-	3872	1	0	0	0
+sxs-mary_skelter_2_v196608.r00	-	18862276	1	3872	0	1
+sxs-mary_skelter_2_v196608.rar	-	50000000	1	18866148	0	19
+sxs-mary_skelter_2_v196608.sfv	-	82	1	68866148	0	67

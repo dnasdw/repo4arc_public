@@ -1,0 +1,4 @@
+ycn-dolmenjord_viking_islands.nfo	-	1892	1	0	0	0
+ycn-dolmenjord_viking_islands.r00	-	49037487	1	1892	0	1
+ycn-dolmenjord_viking_islands.rar	-	50000000	1	49039379	0	48
+ycn-dolmenjord_viking_islands.sfv	-	88	1	99039379	0	96

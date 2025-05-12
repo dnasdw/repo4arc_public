@@ -1,0 +1,5 @@
+sxs-vernal_edge_v196608.nfo	2e5edc189fbc59219b75ed18c257603a
+sxs-vernal_edge_v196608.r00	0abec8c7016c3a9b0b352c3768eb44b4
+sxs-vernal_edge_v196608.r01	ce04db166241d4e0b1bca1d3724b894e
+sxs-vernal_edge_v196608.rar	4e528f83949905296e6fdea550e49055
+sxs-vernal_edge_v196608.sfv	861acb68165b55747677c459723200af

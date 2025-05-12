@@ -1,0 +1,3 @@
+sxs-infinity_strash_dragon_quest_the_adventure_of_dai_dlc.nfo	-	7538	1	0	0	0
+sxs-infinity_strash_dragon_quest_the_adventure_of_dai_dlc.rar	-	727792	1	7538	0	1
+sxs-infinity_strash_dragon_quest_the_adventure_of_dai_dlc.sfv	-	72	1	735330	0	2

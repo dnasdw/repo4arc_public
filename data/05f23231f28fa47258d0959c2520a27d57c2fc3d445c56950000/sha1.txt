@@ -1,0 +1,3 @@
+sxs-cabelas_the_hunt_ce_v65536.nfo	0240ca192b6da51a5d5800277d5e1e5cf50f0416
+sxs-cabelas_the_hunt_ce_v65536.rar	5a5f2972f678dacb3754d310507c38a85a4403f2
+sxs-cabelas_the_hunt_ce_v65536.sfv	8a35a0008a50da1febc436cd3e9d05eac7438edf

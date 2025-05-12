@@ -1,0 +1,15 @@
+sxs-wizard_of_legend_v458752.nfo	-	4340	1	0	0	0
+sxs-wizard_of_legend_v458752.r00	-	50000000	1	4340	0	1
+sxs-wizard_of_legend_v458752.r01	-	50000000	1	50004340	0	49
+sxs-wizard_of_legend_v458752.r02	-	50000000	1	100004340	0	97
+sxs-wizard_of_legend_v458752.r03	-	50000000	1	150004340	0	145
+sxs-wizard_of_legend_v458752.r04	-	50000000	1	200004340	0	193
+sxs-wizard_of_legend_v458752.r05	-	50000000	1	250004340	0	241
+sxs-wizard_of_legend_v458752.r06	-	50000000	1	300004340	0	289
+sxs-wizard_of_legend_v458752.r07	-	50000000	1	350004340	0	337
+sxs-wizard_of_legend_v458752.r08	-	50000000	1	400004340	0	385
+sxs-wizard_of_legend_v458752.r09	-	50000000	1	450004340	0	433
+sxs-wizard_of_legend_v458752.r10	-	50000000	1	500004340	0	481
+sxs-wizard_of_legend_v458752.r11	-	35249564	1	12251264	1	12
+sxs-wizard_of_legend_v458752.rar	-	50000000	1	47500828	1	46
+sxs-wizard_of_legend_v458752.sfv	-	559	1	97500828	1	94

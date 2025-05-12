@@ -1,0 +1,6 @@
+sxs-the_persistence_v131072.nfo	3d5dce70031b6af2986a5c2d18ae153a
+sxs-the_persistence_v131072.r00	9d993788bcf3b635ae7c8331375adbd5
+sxs-the_persistence_v131072.r01	5c05a0167a2c2ed1e867764bf4c1cc4a
+sxs-the_persistence_v131072.r02	2c89ad96f2d69ee32ae0a09afde7730f
+sxs-the_persistence_v131072.rar	ae418d3702ff831e403eeb8e01a95438
+sxs-the_persistence_v131072.sfv	4d962aee09b4bafe71e88b58f5886e77

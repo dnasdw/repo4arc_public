@@ -1,0 +1,4 @@
+bbb-h-acatc.nfo	-	5517	1	0	0	0
+bbb-h-acatc.part01.rar	-	250000000	1	5517	0	1
+bbb-h-acatc.part02.rar	-	186655198	1	250005517	0	240
+bbb-h-acatc.sfv	-	66	1	436660715	0	419

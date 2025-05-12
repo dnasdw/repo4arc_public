@@ -1,0 +1,13 @@
+sxs-run_sausage_run.nfo	eba05df6
+sxs-run_sausage_run.r00	5ad0df58
+sxs-run_sausage_run.r01	3696508d
+sxs-run_sausage_run.r02	7ec8d58d
+sxs-run_sausage_run.r03	c0fa80ea
+sxs-run_sausage_run.r04	490213c0
+sxs-run_sausage_run.r05	26e7087f
+sxs-run_sausage_run.r06	9314852c
+sxs-run_sausage_run.r07	843c7f1c
+sxs-run_sausage_run.r08	34ff0e59
+sxs-run_sausage_run.r09	73c179b5
+sxs-run_sausage_run.rar	83b23f1d
+sxs-run_sausage_run.sfv	b2ebd806

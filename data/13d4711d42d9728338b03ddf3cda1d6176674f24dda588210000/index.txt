@@ -1,0 +1,7 @@
+v-ganryu_2_hakuma_kojiro_v196608.nfo	-	7387	1	0	0	0
+v-ganryu_2_hakuma_kojiro_v196608.r00	-	50000000	1	7387	0	1
+v-ganryu_2_hakuma_kojiro_v196608.r01	-	50000000	1	50007387	0	49
+v-ganryu_2_hakuma_kojiro_v196608.r02	-	50000000	1	100007387	0	97
+v-ganryu_2_hakuma_kojiro_v196608.r03	-	35228244	1	150007387	0	145
+v-ganryu_2_hakuma_kojiro_v196608.rar	-	50000000	1	185235631	0	179
+v-ganryu_2_hakuma_kojiro_v196608.sfv	-	235	1	235235631	0	227

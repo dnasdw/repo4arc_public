@@ -1,0 +1,11 @@
+sxs-star_ocean_the_second_story_r_v65536.nfo	ce9ee769
+sxs-star_ocean_the_second_story_r_v65536.r00	147f9a0f
+sxs-star_ocean_the_second_story_r_v65536.r01	86d0f3e3
+sxs-star_ocean_the_second_story_r_v65536.r02	2c68fe1c
+sxs-star_ocean_the_second_story_r_v65536.r03	99aa313d
+sxs-star_ocean_the_second_story_r_v65536.r04	7e34cbf2
+sxs-star_ocean_the_second_story_r_v65536.r05	fc7ab028
+sxs-star_ocean_the_second_story_r_v65536.r06	c9ef5406
+sxs-star_ocean_the_second_story_r_v65536.r07	e1d59157
+sxs-star_ocean_the_second_story_r_v65536.rar	b231f8de
+sxs-star_ocean_the_second_story_r_v65536.sfv	f98ecdeb

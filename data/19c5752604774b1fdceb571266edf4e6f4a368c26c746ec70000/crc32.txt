@@ -1,0 +1,5 @@
+sxs-dusk_diver_2_v65536.nfo	3aa784a9
+sxs-dusk_diver_2_v65536.r00	bdab9b33
+sxs-dusk_diver_2_v65536.r01	22833ec3
+sxs-dusk_diver_2_v65536.rar	56d15e0c
+sxs-dusk_diver_2_v65536.sfv	03031d66

@@ -1,0 +1,3 @@
+nrz-tlozbotw.nfo	-	107	1	0	0	0
+nrz-tlozbotw.rar	-	675359	1	107	0	1
+nrz-tlozbotw.sfv	-	27	1	675466	0	2

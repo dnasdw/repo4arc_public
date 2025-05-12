@@ -1,0 +1,10 @@
+sxs-tracks_toybox_edition_v262144.nfo	-	5354	1	0	0	0
+sxs-tracks_toybox_edition_v262144.r00	-	50000000	1	5354	0	1
+sxs-tracks_toybox_edition_v262144.r01	-	50000000	1	50005354	0	49
+sxs-tracks_toybox_edition_v262144.r02	-	50000000	1	100005354	0	97
+sxs-tracks_toybox_edition_v262144.r03	-	50000000	1	150005354	0	145
+sxs-tracks_toybox_edition_v262144.r04	-	50000000	1	200005354	0	193
+sxs-tracks_toybox_edition_v262144.r05	-	50000000	1	250005354	0	241
+sxs-tracks_toybox_edition_v262144.r06	-	37116101	1	300005354	0	289
+sxs-tracks_toybox_edition_v262144.rar	-	50000000	1	337121455	0	325
+sxs-tracks_toybox_edition_v262144.sfv	-	384	1	387121455	0	373

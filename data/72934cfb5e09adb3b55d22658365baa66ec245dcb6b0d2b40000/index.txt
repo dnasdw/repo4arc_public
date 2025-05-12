@@ -1,0 +1,7 @@
+lfc-runthefan.nfo	-	4422	1	0	0	0
+lfc-runthefan.r00	-	50000000	1	4422	0	1
+lfc-runthefan.r01	-	50000000	1	50004422	0	49
+lfc-runthefan.r02	-	50000000	1	100004422	0	97
+lfc-runthefan.r03	-	277281	1	150004422	0	145
+lfc-runthefan.rar	-	50000000	1	150281703	0	146
+lfc-runthefan.sfv	-	140	1	200281703	0	194

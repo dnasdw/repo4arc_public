@@ -1,0 +1,17 @@
+v-muse_dash_v983040.nfo	0111eeb0
+v-muse_dash_v983040.r00	0a929f87
+v-muse_dash_v983040.r01	e60943b6
+v-muse_dash_v983040.r02	547c0dc6
+v-muse_dash_v983040.r03	3c3f362c
+v-muse_dash_v983040.r04	d7f138f5
+v-muse_dash_v983040.r05	80e80391
+v-muse_dash_v983040.r06	5f5d65e5
+v-muse_dash_v983040.r07	17c8ad00
+v-muse_dash_v983040.r08	8d44abbe
+v-muse_dash_v983040.r09	df85f508
+v-muse_dash_v983040.r10	83cd6802
+v-muse_dash_v983040.r11	a0ff9c1a
+v-muse_dash_v983040.r12	f3029ab3
+v-muse_dash_v983040.r13	c92649e2
+v-muse_dash_v983040.rar	339a0332
+v-muse_dash_v983040.sfv	e5039e9c

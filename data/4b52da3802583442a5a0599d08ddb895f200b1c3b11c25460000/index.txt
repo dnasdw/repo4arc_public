@@ -1,0 +1,4 @@
+v-hyrule_warriors_age_of_calamity_expansion_pass_purchase_bonus_dlc.nfo	-	5590	1	0	0	0
+v-hyrule_warriors_age_of_calamity_expansion_pass_purchase_bonus_dlc.r00	-	42111626	1	5590	0	1
+v-hyrule_warriors_age_of_calamity_expansion_pass_purchase_bonus_dlc.rar	-	50000000	1	42117216	0	42
+v-hyrule_warriors_age_of_calamity_expansion_pass_purchase_bonus_dlc.sfv	-	164	1	92117216	0	90

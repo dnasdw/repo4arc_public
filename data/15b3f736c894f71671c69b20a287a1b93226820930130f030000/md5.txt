@@ -1,0 +1,5 @@
+sxs-qubyte_classics_radical_rex.nfo	10e99687a4a801e2f9f6ef8dbfb82980
+sxs-qubyte_classics_radical_rex.r00	e9bcf7ef4831c7a80387a50b87ce1ba7
+sxs-qubyte_classics_radical_rex.r01	71df303c9c4082bb895a14b8c1e6c0b9
+sxs-qubyte_classics_radical_rex.rar	e6ca3059b8c33b53f30482111f193963
+sxs-qubyte_classics_radical_rex.sfv	888fbb7c46e136291e9c2c418adaac5b

@@ -1,0 +1,9 @@
+brw-totk_v131072.nfo	2860f00c
+brw-totk_v131072.r00	018d22ce
+brw-totk_v131072.r01	ac1c38ab
+brw-totk_v131072.r02	92c61f42
+brw-totk_v131072.r03	3195bc1f
+brw-totk_v131072.r04	063b68b8
+brw-totk_v131072.r05	37eb6359
+brw-totk_v131072.rar	c5505455
+brw-totk_v131072.sfv	2bd43196

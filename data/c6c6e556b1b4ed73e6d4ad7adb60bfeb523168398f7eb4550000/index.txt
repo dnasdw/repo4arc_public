@@ -1,0 +1,7 @@
+sxs-yeah_yeah_beebiss_ii.nfo	-	5510	1	0	0	0
+sxs-yeah_yeah_beebiss_ii.r00	-	50000000	1	5510	0	1
+sxs-yeah_yeah_beebiss_ii.r01	-	50000000	1	50005510	0	49
+sxs-yeah_yeah_beebiss_ii.r02	-	50000000	1	100005510	0	97
+sxs-yeah_yeah_beebiss_ii.r03	-	6321881	1	150005510	0	145
+sxs-yeah_yeah_beebiss_ii.rar	-	50000000	1	156327391	0	152
+sxs-yeah_yeah_beebiss_ii.sfv	-	195	1	206327391	0	200

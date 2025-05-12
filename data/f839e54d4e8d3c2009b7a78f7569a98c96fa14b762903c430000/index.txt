@@ -1,0 +1,6 @@
+sxs-farming_simulator_23_nintendo_switch_edition_v262144.nfo	-	6368	1	0	0	0
+sxs-farming_simulator_23_nintendo_switch_edition_v262144.r00	-	100000000	1	6368	0	1
+sxs-farming_simulator_23_nintendo_switch_edition_v262144.r01	-	100000000	1	100006368	0	97
+sxs-farming_simulator_23_nintendo_switch_edition_v262144.r02	-	87545576	1	200006368	0	193
+sxs-farming_simulator_23_nintendo_switch_edition_v262144.rar	-	100000000	1	287551944	0	277
+sxs-farming_simulator_23_nintendo_switch_edition_v262144.sfv	-	284	1	387551944	0	373

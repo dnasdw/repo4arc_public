@@ -1,0 +1,4 @@
+sxs-portal_dogs.nfo	7bf00009
+sxs-portal_dogs.r00	438d97e3
+sxs-portal_dogs.rar	84fb78f9
+sxs-portal_dogs.sfv	ecc1784d

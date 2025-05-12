@@ -1,0 +1,4 @@
+sxs-mini_metro_v458752.nfo	b7775235e7f82ebd078166e54e65807042bd8dd3
+sxs-mini_metro_v458752.r00	76d31ebbe47e63bc6c91bffe94586cce236149b8
+sxs-mini_metro_v458752.rar	db62a988f3a44074473af054b7b23f59c155e221
+sxs-mini_metro_v458752.sfv	17ac7bd8fe84ebac60ad0a2de851a13e5e33e74c

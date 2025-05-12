@@ -1,0 +1,17 @@
+sxs-hyper_5.nfo	8df2c33ccfa17df3bba89bdc1b510db1
+sxs-hyper_5.r00	cccd0068f33053191b0dfa56985c3521
+sxs-hyper_5.r01	3b106bd7f160e87ebcae9a13e9393915
+sxs-hyper_5.r02	73bb2440a3b460dbff4c1bde6ddf4450
+sxs-hyper_5.r03	7c1a98f9d5df347110c786e8416ebbf7
+sxs-hyper_5.r04	952f2203d858e5afead605850342f960
+sxs-hyper_5.r05	3184c29d5ff988bd08985b6894d165a9
+sxs-hyper_5.r06	c731b69adc748cd73ca1397edd0fa72c
+sxs-hyper_5.r07	2313587ca7574c5da0a52e05c9f9cccf
+sxs-hyper_5.r08	f6dfc6b60fc6f7fac98253f062b5bc89
+sxs-hyper_5.r09	d296570ced52d546ab3572fc61c5afe4
+sxs-hyper_5.r10	7a7b7ca27972da05cb59abd80cca3a97
+sxs-hyper_5.r11	53e311e2cc15e3e7ab94c03e174e3101
+sxs-hyper_5.r12	e6d1dc51d4092aa93ddb268bba67b295
+sxs-hyper_5.r13	5a37e4f0dc1d6365b7261496c73ec82e
+sxs-hyper_5.rar	f5e8fad455e71f4ebacc48a6a49072bc
+sxs-hyper_5.sfv	df81e3dabc8020897e221df941db323d

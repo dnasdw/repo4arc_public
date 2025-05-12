@@ -1,0 +1,4 @@
+sxs-magicolors_v131072.nfo	0a6aa51b
+sxs-magicolors_v131072.r00	fe658992
+sxs-magicolors_v131072.rar	ede1a72e
+sxs-magicolors_v131072.sfv	ab9b7770

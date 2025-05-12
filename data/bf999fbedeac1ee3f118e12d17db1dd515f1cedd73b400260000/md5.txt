@@ -1,0 +1,6 @@
+v-metroid_dread_v65536.nfo	4de50279c20f1dbc9ba1f6ad88e890d8
+v-metroid_dread_v65536.r00	280a7356328e25fbf046a6bbff0a6af5
+v-metroid_dread_v65536.r01	e151eec733145f90dbd37a989f033b70
+v-metroid_dread_v65536.r02	66a4cce76d2b4bc8cdf535b47dd45557
+v-metroid_dread_v65536.rar	b32db968194f38d538cdfd2cb2b72eb3
+v-metroid_dread_v65536.sfv	3df8f3abb27e54e39102c60f6d9c0f5a

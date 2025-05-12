@@ -1,0 +1,16 @@
+v-teslagrad_2_v131072.nfo	36661a17
+v-teslagrad_2_v131072.r00	0d85884e
+v-teslagrad_2_v131072.r01	52454bce
+v-teslagrad_2_v131072.r02	3b170d1f
+v-teslagrad_2_v131072.r03	d5642f21
+v-teslagrad_2_v131072.r04	54ab9f27
+v-teslagrad_2_v131072.r05	92309442
+v-teslagrad_2_v131072.r06	967df13b
+v-teslagrad_2_v131072.r07	a0f6ebf6
+v-teslagrad_2_v131072.r08	f7bafac0
+v-teslagrad_2_v131072.r09	b563fb36
+v-teslagrad_2_v131072.r10	bd0ba512
+v-teslagrad_2_v131072.r11	0d123ff5
+v-teslagrad_2_v131072.r12	e7f3288a
+v-teslagrad_2_v131072.rar	8d59cf3e
+v-teslagrad_2_v131072.sfv	06ab9953

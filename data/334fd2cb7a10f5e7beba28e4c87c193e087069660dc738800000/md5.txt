@@ -1,0 +1,8 @@
+v-legend_of_the_skyfish.nfo	1301328031acf563abb72bd25295e53e
+v-legend_of_the_skyfish.r00	24d595c38f908fd62892a3e451d4f354
+v-legend_of_the_skyfish.r01	1bdea830625326d471cf7dcce4612608
+v-legend_of_the_skyfish.r02	d84a612d64f799f3110c7b306aafa3cb
+v-legend_of_the_skyfish.r03	50286d99b2469d11afe02d2d7986f083
+v-legend_of_the_skyfish.r04	226166c8751b9287668a8904194ed34c
+v-legend_of_the_skyfish.rar	5eaba29bbf9acaa07986ef5472e06922
+v-legend_of_the_skyfish.sfv	13f16d95e425f499825b0bce33d68741

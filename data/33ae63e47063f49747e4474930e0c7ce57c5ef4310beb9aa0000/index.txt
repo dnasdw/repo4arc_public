@@ -1,0 +1,10 @@
+sxs-so_much_stuff_collectors_edition_v65536.nfo	-	5276	1	0	0	0
+sxs-so_much_stuff_collectors_edition_v65536.r00	-	100000000	1	5276	0	1
+sxs-so_much_stuff_collectors_edition_v65536.r01	-	100000000	1	100005276	0	97
+sxs-so_much_stuff_collectors_edition_v65536.r02	-	100000000	1	200005276	0	193
+sxs-so_much_stuff_collectors_edition_v65536.r03	-	100000000	1	300005276	0	289
+sxs-so_much_stuff_collectors_edition_v65536.r04	-	100000000	1	400005276	0	385
+sxs-so_much_stuff_collectors_edition_v65536.r05	-	100000000	1	500005276	0	481
+sxs-so_much_stuff_collectors_edition_v65536.r06	-	40299743	1	62251264	1	60
+sxs-so_much_stuff_collectors_edition_v65536.rar	-	100000000	1	102551007	1	99
+sxs-so_much_stuff_collectors_edition_v65536.sfv	-	464	1	202551007	1	195

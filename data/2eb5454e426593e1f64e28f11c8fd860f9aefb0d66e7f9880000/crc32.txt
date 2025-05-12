@@ -1,0 +1,8 @@
+sxs-stellar_interface_v327680.nfo	78231ce7
+sxs-stellar_interface_v327680.r00	ab75e08e
+sxs-stellar_interface_v327680.r01	cb987fad
+sxs-stellar_interface_v327680.r02	de9808d2
+sxs-stellar_interface_v327680.r03	11082099
+sxs-stellar_interface_v327680.r04	5597292f
+sxs-stellar_interface_v327680.rar	a481e91e
+sxs-stellar_interface_v327680.sfv	6ebbfbed

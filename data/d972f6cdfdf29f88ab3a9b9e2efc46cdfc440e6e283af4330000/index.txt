@@ -1,0 +1,3 @@
+v-fight_n_rage_v589824.nfo	-	5512	1	0	0	0
+v-fight_n_rage_v589824.rar	-	70463733	1	5512	0	1
+v-fight_n_rage_v589824.sfv	-	37	1	70469245	0	69

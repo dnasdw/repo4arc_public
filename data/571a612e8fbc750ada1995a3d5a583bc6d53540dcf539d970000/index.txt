@@ -1,0 +1,4 @@
+v-blaster_master_zero_2_v589824.nfo	-	8164	1	0	0	0
+v-blaster_master_zero_2_v589824.r00	-	11795456	1	8164	0	1
+v-blaster_master_zero_2_v589824.rar	-	50000000	1	11803620	0	13
+v-blaster_master_zero_2_v589824.sfv	-	92	1	61803620	0	61

@@ -1,0 +1,13 @@
+sxs-bratz_flaunt_your_fashion_v196608.nfo	-	5042	1	0	0	0
+sxs-bratz_flaunt_your_fashion_v196608.r00	-	100000000	1	5042	0	1
+sxs-bratz_flaunt_your_fashion_v196608.r01	-	100000000	1	100005042	0	97
+sxs-bratz_flaunt_your_fashion_v196608.r02	-	100000000	1	200005042	0	193
+sxs-bratz_flaunt_your_fashion_v196608.r03	-	100000000	1	300005042	0	289
+sxs-bratz_flaunt_your_fashion_v196608.r04	-	100000000	1	400005042	0	385
+sxs-bratz_flaunt_your_fashion_v196608.r05	-	100000000	1	500005042	0	481
+sxs-bratz_flaunt_your_fashion_v196608.r06	-	100000000	1	62251264	1	60
+sxs-bratz_flaunt_your_fashion_v196608.r07	-	100000000	1	162251264	1	156
+sxs-bratz_flaunt_your_fashion_v196608.r08	-	100000000	1	262251264	1	252
+sxs-bratz_flaunt_your_fashion_v196608.r09	-	66256826	1	362251264	1	348
+sxs-bratz_flaunt_your_fashion_v196608.rar	-	100000000	1	428508090	1	412
+sxs-bratz_flaunt_your_fashion_v196608.sfv	-	572	1	528508090	1	508

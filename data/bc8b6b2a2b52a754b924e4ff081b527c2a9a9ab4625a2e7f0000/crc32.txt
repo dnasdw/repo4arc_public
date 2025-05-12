@@ -1,0 +1,8 @@
+v-constructor_plus_v65536.nfo	191ab83c
+v-constructor_plus_v65536.r00	1be6d72d
+v-constructor_plus_v65536.r01	3f813936
+v-constructor_plus_v65536.r02	d74ca27c
+v-constructor_plus_v65536.r03	1aea130b
+v-constructor_plus_v65536.r04	7c07ce70
+v-constructor_plus_v65536.rar	005ddd64
+v-constructor_plus_v65536.sfv	c7bd452b

@@ -1,0 +1,4 @@
+sxs-aa_double_dragon_ii_the_revenge.nfo	-	4730	1	0	0	0
+sxs-aa_double_dragon_ii_the_revenge.r00	-	16448862	1	4730	0	1
+sxs-aa_double_dragon_ii_the_revenge.rar	-	50000000	1	16453592	0	17
+sxs-aa_double_dragon_ii_the_revenge.sfv	-	100	1	66453592	0	65

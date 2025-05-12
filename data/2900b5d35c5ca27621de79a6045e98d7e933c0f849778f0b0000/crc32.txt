@@ -1,0 +1,7 @@
+sxs-dont_be_afraid_v131072.nfo	cd10b663
+sxs-dont_be_afraid_v131072.r00	2a7f4a7e
+sxs-dont_be_afraid_v131072.r01	3439ae02
+sxs-dont_be_afraid_v131072.r02	8544e2fe
+sxs-dont_be_afraid_v131072.r03	d4c0fad2
+sxs-dont_be_afraid_v131072.rar	59c7f192
+sxs-dont_be_afraid_v131072.sfv	f923f25b

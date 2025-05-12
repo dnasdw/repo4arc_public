@@ -1,0 +1,12 @@
+v-final_vendetta.nfo	a8b4c4a3
+v-final_vendetta.r00	50a4a94c
+v-final_vendetta.r01	d7a69a5b
+v-final_vendetta.r02	0b5a4d1e
+v-final_vendetta.r03	d21cd0b3
+v-final_vendetta.r04	ac845521
+v-final_vendetta.r05	a38c0a2d
+v-final_vendetta.r06	20b0a20e
+v-final_vendetta.r07	280b44ac
+v-final_vendetta.r08	a73c0745
+v-final_vendetta.rar	689ec90a
+v-final_vendetta.sfv	b66830f7

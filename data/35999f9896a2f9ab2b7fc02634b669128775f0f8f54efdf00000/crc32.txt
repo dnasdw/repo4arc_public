@@ -1,0 +1,10 @@
+v-classic_racers_elite.nfo	0c31644d
+v-classic_racers_elite.r00	228ca351
+v-classic_racers_elite.r01	539ae5b0
+v-classic_racers_elite.r02	a5b8f01e
+v-classic_racers_elite.r03	45c0efd1
+v-classic_racers_elite.r04	d399dfa4
+v-classic_racers_elite.r05	161754dd
+v-classic_racers_elite.r06	65e7e016
+v-classic_racers_elite.rar	d42e33f3
+v-classic_racers_elite.sfv	f07c59f2

@@ -1,0 +1,9 @@
+sxs-jewel_match_solitaire_winterscapes.nfo	-	5120	1	0	0	0
+sxs-jewel_match_solitaire_winterscapes.r00	-	50000000	1	5120	0	1
+sxs-jewel_match_solitaire_winterscapes.r01	-	50000000	1	50005120	0	49
+sxs-jewel_match_solitaire_winterscapes.r02	-	50000000	1	100005120	0	97
+sxs-jewel_match_solitaire_winterscapes.r03	-	50000000	1	150005120	0	145
+sxs-jewel_match_solitaire_winterscapes.r04	-	50000000	1	200005120	0	193
+sxs-jewel_match_solitaire_winterscapes.r05	-	34884654	1	250005120	0	241
+sxs-jewel_match_solitaire_winterscapes.rar	-	50000000	1	284889774	0	275
+sxs-jewel_match_solitaire_winterscapes.sfv	-	371	1	334889774	0	323

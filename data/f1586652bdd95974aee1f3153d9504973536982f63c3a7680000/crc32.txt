@@ -1,0 +1,11 @@
+sxs-mokoko_x_v131072.nfo	9f6d0b66
+sxs-mokoko_x_v131072.r00	691d475b
+sxs-mokoko_x_v131072.r01	4aa4d054
+sxs-mokoko_x_v131072.r02	9fc8b97d
+sxs-mokoko_x_v131072.r03	ee85adbb
+sxs-mokoko_x_v131072.r04	0a4a881a
+sxs-mokoko_x_v131072.r05	c0a00a77
+sxs-mokoko_x_v131072.r06	7b546425
+sxs-mokoko_x_v131072.r07	98c15859
+sxs-mokoko_x_v131072.rar	6d95820e
+sxs-mokoko_x_v131072.sfv	1a00822e

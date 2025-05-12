@@ -1,0 +1,8 @@
+sxs-twilight_survivors_v196608.nfo	-	4028	1	0	0	0
+sxs-twilight_survivors_v196608.r00	-	100000000	1	4028	0	1
+sxs-twilight_survivors_v196608.r01	-	100000000	1	100004028	0	97
+sxs-twilight_survivors_v196608.r02	-	100000000	1	200004028	0	193
+sxs-twilight_survivors_v196608.r03	-	100000000	1	300004028	0	289
+sxs-twilight_survivors_v196608.r04	-	3420807	1	400004028	0	385
+sxs-twilight_survivors_v196608.rar	-	100000000	1	403424835	0	389
+sxs-twilight_survivors_v196608.sfv	-	270	1	503424835	0	485

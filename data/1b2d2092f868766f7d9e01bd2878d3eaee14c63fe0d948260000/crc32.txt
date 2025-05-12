@@ -1,0 +1,4 @@
+sxs-smdjp_v196608.nfo	241ceba8
+sxs-smdjp_v262144.r00	81dd1e37
+sxs-smdjp_v262144.rar	8f2b9940
+sxs-smdjp_v262144.sfv	a96ece5a

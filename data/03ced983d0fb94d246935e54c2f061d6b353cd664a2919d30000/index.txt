@@ -1,0 +1,4 @@
+lfc-vipi.nfo	-	6148	1	0	0	0
+lfc-vipi.r00	-	5245104	1	6148	0	1
+lfc-vipi.rar	-	50000000	1	5251252	0	7
+lfc-vipi.sfv	-	46	1	55251252	0	55

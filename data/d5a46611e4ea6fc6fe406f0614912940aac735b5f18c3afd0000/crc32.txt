@@ -1,0 +1,3 @@
+v-capcom_fighting_collection_v65536.nfo	c32fdea0
+v-capcom_fighting_collection_v65536.rar	2ec360d6
+v-capcom_fighting_collection_v65536.sfv	e57ccfe4

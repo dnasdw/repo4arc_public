@@ -1,0 +1,4 @@
+v-metaloid_origin.nfo	-	6214	1	0	0	0
+v-metaloid_origin.r00	-	45691629	1	6214	0	1
+v-metaloid_origin.rar	-	50000000	1	45697843	0	45
+v-metaloid_origin.sfv	-	64	1	95697843	0	93

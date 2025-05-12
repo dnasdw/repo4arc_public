@@ -1,0 +1,6 @@
+sxs-thunderflash.nfo	7c2d9651
+sxs-thunderflash.r00	25430d6e
+sxs-thunderflash.r01	c8f854da
+sxs-thunderflash.r02	ac8822e1
+sxs-thunderflash.rar	4ccc52d0
+sxs-thunderflash.sfv	cb6c9926

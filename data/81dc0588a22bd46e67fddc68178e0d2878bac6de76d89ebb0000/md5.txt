@@ -1,0 +1,11 @@
+sxs-flbu.nfo	bc0cc7b2ad656c7b261dff048abe0d79
+sxs-flbu.r00	7e888c8d00da8ad416d5d7b6703eefee
+sxs-flbu.r01	70a61066b3e2254d6409f1012ff2a017
+sxs-flbu.r02	eba450b75f54dc18e1132d78badd29da
+sxs-flbu.r03	1c331a6230c7d5e2a9b70f52ae319ca6
+sxs-flbu.r04	a32ebc7e81298728f04929c701087290
+sxs-flbu.r05	2861e4f7e76de8c795aadf3c5d66f697
+sxs-flbu.r06	0409aaa8fad7831402254bb32b55bf8b
+sxs-flbu.r07	aa2c4992d318069b72f30202517dbdd9
+sxs-flbu.rar	9b6a0aa2cec583db02130d3d1150c4f4
+sxs-flbu.sfv	06a80c002bbd1f8387cdcb8ba5c50a0c

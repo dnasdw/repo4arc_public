@@ -1,0 +1,10 @@
+i-ttv.nfo	fdc8e239
+i-ttv.r00	95dc738c
+i-ttv.r01	8fd94b02
+i-ttv.r02	d1f78513
+i-ttv.r03	d91520be
+i-ttv.r04	6d58327d
+i-ttv.r05	ecca6435
+i-ttv.r06	e56fb904
+i-ttv.rar	288e06d1
+i-ttv.sfv	ea087ad0

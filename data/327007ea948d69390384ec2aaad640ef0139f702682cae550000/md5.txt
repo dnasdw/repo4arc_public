@@ -1,0 +1,12 @@
+lfc-aedr.nfo	58a9791d9ca3e7fa12e99bcdcb3f764f
+lfc-aedr.r00	1a897ff4002b0b92d11d8c039f509eda
+lfc-aedr.r01	faec594bee0fb844f91c774001ab73a6
+lfc-aedr.r02	ac1e8b1c69538b27d1791f697a454b29
+lfc-aedr.r03	f5c58d38c00cf77573d22c59ddd9c8b4
+lfc-aedr.r04	915cee4e32f42a37c0b2ff70284ad0eb
+lfc-aedr.r05	b664b3b27b6b0d8aef0e6cd61d711670
+lfc-aedr.r06	86dd17115dddbbdd044fed2bfe722cb1
+lfc-aedr.r07	8628212cd117ef6c54f8f1c2dec1988c
+lfc-aedr.r08	92a3d24ea848a1a02e91f97a0e360b03
+lfc-aedr.rar	eb2a3aedce04bebb1b0eecf71dd1b556
+lfc-aedr.sfv	9349a91734bab79a7a40b8b89d983b36

@@ -1,0 +1,14 @@
+v-pikmin_2.nfo	ca346500
+v-pikmin_2.r00	c850536d
+v-pikmin_2.r01	521f451d
+v-pikmin_2.r02	75f7f751
+v-pikmin_2.r03	d150b673
+v-pikmin_2.r04	f270fea4
+v-pikmin_2.r05	15b7a8e8
+v-pikmin_2.r06	2c27140a
+v-pikmin_2.r07	23d44333
+v-pikmin_2.r08	3df0101c
+v-pikmin_2.r09	0c5bf0e0
+v-pikmin_2.r10	df42e982
+v-pikmin_2.rar	0894120e
+v-pikmin_2.sfv	1d25af95

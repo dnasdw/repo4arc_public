@@ -1,0 +1,7 @@
+sxs-grid_autosport_v393216.nfo	-	7850	1	0	0	0
+sxs-grid_autosport_v393216.r00	-	50000000	1	7850	0	1
+sxs-grid_autosport_v393216.r01	-	50000000	1	50007850	0	49
+sxs-grid_autosport_v393216.r02	-	50000000	1	100007850	0	97
+sxs-grid_autosport_v393216.r03	-	14883091	1	150007850	0	145
+sxs-grid_autosport_v393216.rar	-	50000000	1	164890941	0	160
+sxs-grid_autosport_v393216.sfv	-	205	1	214890941	0	208

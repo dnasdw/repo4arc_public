@@ -1,0 +1,15 @@
+v-deadly_premonition_origins_v262144.nfo	0ee7ed35
+v-deadly_premonition_origins_v262144.r00	7c5926ff
+v-deadly_premonition_origins_v262144.r01	ebdba4d1
+v-deadly_premonition_origins_v262144.r02	81f93819
+v-deadly_premonition_origins_v262144.r03	a5417efd
+v-deadly_premonition_origins_v262144.r04	9881f900
+v-deadly_premonition_origins_v262144.r05	fe228abd
+v-deadly_premonition_origins_v262144.r06	bd55c47d
+v-deadly_premonition_origins_v262144.r07	fe60840a
+v-deadly_premonition_origins_v262144.r08	417b1f05
+v-deadly_premonition_origins_v262144.r09	deb08f4a
+v-deadly_premonition_origins_v262144.r10	9bf1d454
+v-deadly_premonition_origins_v262144.r11	061efb13
+v-deadly_premonition_origins_v262144.rar	c1e691d5
+v-deadly_premonition_origins_v262144.sfv	1cf80912

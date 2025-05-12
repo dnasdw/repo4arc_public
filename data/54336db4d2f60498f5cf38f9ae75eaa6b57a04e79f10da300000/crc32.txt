@@ -1,0 +1,8 @@
+sxs-n64jp_v1114112.nfo	2caee4de
+sxs-n64jp_v1114112.r00	7879d3cf
+sxs-n64jp_v1114112.r01	cafb1f6e
+sxs-n64jp_v1114112.r02	3dc4a47b
+sxs-n64jp_v1114112.r03	7604ef44
+sxs-n64jp_v1114112.r04	f04dfa67
+sxs-n64jp_v1114112.rar	4331a076
+sxs-n64jp_v1114112.sfv	755ea519

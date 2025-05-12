@@ -1,0 +1,8 @@
+sxs-everdream_valley_v393216.nfo	-	7148	1	0	0	0
+sxs-everdream_valley_v393216.r00	-	100000000	1	7148	0	1
+sxs-everdream_valley_v393216.r01	-	100000000	1	100007148	0	97
+sxs-everdream_valley_v393216.r02	-	100000000	1	200007148	0	193
+sxs-everdream_valley_v393216.r03	-	100000000	1	300007148	0	289
+sxs-everdream_valley_v393216.r04	-	2791751	1	400007148	0	385
+sxs-everdream_valley_v393216.rar	-	100000000	1	402798899	0	388
+sxs-everdream_valley_v393216.sfv	-	258	1	502798899	0	484

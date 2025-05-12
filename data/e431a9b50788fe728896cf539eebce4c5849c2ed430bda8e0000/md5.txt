@@ -1,0 +1,3 @@
+sxs-arkanoid_eternal_battle_dlc.nfo	2f0637afec130717b34a3e2f2aed4bef
+sxs-arkanoid_eternal_battle_dlc.rar	ba61e93e704edfeeb4f53d38945116d1
+sxs-arkanoid_eternal_battle_dlc.sfv	bd222c2c821a26825032d9b03ab50b46

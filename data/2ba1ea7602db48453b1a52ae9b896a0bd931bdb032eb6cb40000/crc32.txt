@@ -1,0 +1,12 @@
+lfc-brokenblades.nfo	02071c22
+lfc-brokenblades.r00	41521048
+lfc-brokenblades.r01	2520c075
+lfc-brokenblades.r02	f5542edd
+lfc-brokenblades.r03	a0cb5920
+lfc-brokenblades.r04	a4ed4d1f
+lfc-brokenblades.r05	ec5c4308
+lfc-brokenblades.r06	18ce3344
+lfc-brokenblades.r07	138b85cb
+lfc-brokenblades.r08	97933671
+lfc-brokenblades.rar	381b5ac5
+lfc-brokenblades.sfv	88d82ef8

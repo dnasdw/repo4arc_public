@@ -1,0 +1,3 @@
+sxs-rdd4.nfo	-	4730	1	0	0	0
+sxs-rdd4.rar	-	121857	1	4730	0	1
+sxs-rdd4.sfv	-	23	1	126587	0	2

@@ -1,0 +1,8 @@
+v-transformers_earthspark_expedition_v262144.nfo	c7e4954d
+v-transformers_earthspark_expedition_v262144.r00	8d7ea551
+v-transformers_earthspark_expedition_v262144.r01	76273481
+v-transformers_earthspark_expedition_v262144.r02	1c99cf01
+v-transformers_earthspark_expedition_v262144.r03	5aeda9e2
+v-transformers_earthspark_expedition_v262144.r04	0ba8510b
+v-transformers_earthspark_expedition_v262144.rar	971e01cc
+v-transformers_earthspark_expedition_v262144.sfv	e24b0f71

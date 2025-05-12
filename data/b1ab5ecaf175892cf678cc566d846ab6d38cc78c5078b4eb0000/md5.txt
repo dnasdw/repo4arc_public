@@ -1,0 +1,5 @@
+sxs-pocket_pool_v131072.nfo	38543e81608d55eef32983698aece269
+sxs-pocket_pool_v131072.r00	116a3a0ed9782f5ff423bd4425a939ed
+sxs-pocket_pool_v131072.r01	f7a74318473cd621b2f7595df717654e
+sxs-pocket_pool_v131072.rar	b7ca6aec4b32c65e0529e0833ddd6df7
+sxs-pocket_pool_v131072.sfv	25016c54348d756a96a39bf3ca4bd1ed

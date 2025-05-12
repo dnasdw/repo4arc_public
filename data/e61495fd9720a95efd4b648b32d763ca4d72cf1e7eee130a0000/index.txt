@@ -1,0 +1,5 @@
+sxs-jessika_v65536.nfo	-	4808	1	0	0	0
+sxs-jessika_v65536.r00	-	50000000	1	4808	0	1
+sxs-jessika_v65536.r01	-	10919433	1	50004808	0	49
+sxs-jessika_v65536.rar	-	50000000	1	60924241	0	60
+sxs-jessika_v65536.sfv	-	99	1	110924241	0	108

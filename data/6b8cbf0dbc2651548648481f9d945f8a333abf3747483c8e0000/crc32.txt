@@ -1,0 +1,14 @@
+i-squidgiestakeover.nfo	a2feca42
+i-squidgiestakeover.r00	61829223
+i-squidgiestakeover.r01	d43cdc00
+i-squidgiestakeover.r02	6dbcacb2
+i-squidgiestakeover.r03	3abefb6a
+i-squidgiestakeover.r04	52f641ea
+i-squidgiestakeover.r05	5b56234f
+i-squidgiestakeover.r06	38c2448b
+i-squidgiestakeover.r07	168adb6c
+i-squidgiestakeover.r08	9871af30
+i-squidgiestakeover.r09	aaf706d5
+i-squidgiestakeover.r10	179c3821
+i-squidgiestakeover.rar	cfa5d572
+i-squidgiestakeover.sfv	b9cfa640

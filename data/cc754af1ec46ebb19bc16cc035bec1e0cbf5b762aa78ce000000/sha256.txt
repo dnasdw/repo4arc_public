@@ -1,0 +1,7 @@
+darkmoon-eat.beat.deadspike.san.eshop.nsw.nfo	49d91f0e206f303d0b6b6293dd4b80f3b76b08cefc78aa1773b6b541b7eea625
+darkmoon-eat.beat.deadspike.san.eshop.nsw.r00	fe849692fceb934bc1e0d168ce0dcae2f1679ef39e56edf6065e92141b056d5b
+darkmoon-eat.beat.deadspike.san.eshop.nsw.r01	b34da003fe88c93bc2f233ede7cd9c331b54b57197b9d199c06ac9d7a7213ad2
+darkmoon-eat.beat.deadspike.san.eshop.nsw.r02	2eb604e4d7f36cada0ed46031f89a34d0ca4f93440753c9c58b63bc32b67d68e
+darkmoon-eat.beat.deadspike.san.eshop.nsw.r03	ed765351c0c278e97a256883628c51fd72b8aec4f36c8be9f84b1561887661df
+darkmoon-eat.beat.deadspike.san.eshop.nsw.rar	59d6ba98f75dbbffb92522723f9439354cb4b444c2e8a5cc49bce99af73b9eeb
+darkmoon-eat.beat.deadspike.san.eshop.nsw.sfv	fea512897e0f75f352db30a452da219cba4c6f4882e3ec0ffaef5e91554f3289

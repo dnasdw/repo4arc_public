@@ -1,0 +1,13 @@
+hr-kcs1.nfo	604eecc7
+hr-kcs1.r00	d149b05c
+hr-kcs1.r01	02edab54
+hr-kcs1.r02	87149528
+hr-kcs1.r03	bb3e4e3b
+hr-kcs1.r04	1b129c05
+hr-kcs1.r05	67b8dce8
+hr-kcs1.r06	a8c58bf1
+hr-kcs1.r07	43ba97ad
+hr-kcs1.r08	6e84c178
+hr-kcs1.r09	6073e222
+hr-kcs1.rar	409fc12c
+hr-kcs1.sfv	e3ab7ff6

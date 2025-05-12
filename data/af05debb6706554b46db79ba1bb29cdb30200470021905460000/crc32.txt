@@ -1,0 +1,11 @@
+l-stellarinterface.nfo	cc6f0baf
+l-stellarinterface.r00	6f192d7e
+l-stellarinterface.r01	3ca5e174
+l-stellarinterface.r02	cecf5bfd
+l-stellarinterface.r03	12843f1b
+l-stellarinterface.r04	17db9452
+l-stellarinterface.r05	e7d535b6
+l-stellarinterface.r06	1403ab2b
+l-stellarinterface.r07	101f0f7e
+l-stellarinterface.rar	a210ca90
+l-stellarinterface.sfv	c9f5096c

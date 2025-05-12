@@ -1,0 +1,8 @@
+sxs-head_over_heels.nfo	-	4496	1	0	0	0
+sxs-head_over_heels.r00	-	50000000	1	4496	0	1
+sxs-head_over_heels.r01	-	50000000	1	50004496	0	49
+sxs-head_over_heels.r02	-	50000000	1	100004496	0	97
+sxs-head_over_heels.r03	-	50000000	1	150004496	0	145
+sxs-head_over_heels.r04	-	8964818	1	200004496	0	193
+sxs-head_over_heels.rar	-	50000000	1	208969314	0	202
+sxs-head_over_heels.sfv	-	204	1	258969314	0	250

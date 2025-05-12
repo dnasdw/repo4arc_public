@@ -1,0 +1,3 @@
+v-oneshot_world_machine_edition_v65536.nfo	316fd00a3ab3a628f6215d1f866aafab
+v-oneshot_world_machine_edition_v65536.rar	d612847c6e500497092f3e796a32ac0b
+v-oneshot_world_machine_edition_v65536.sfv	761b974676c19fcce1ba3a0879434a2f

@@ -1,0 +1,10 @@
+sxs-master_detective_archives_rain_code_v327680.nfo	-	8474	1	0	0	0
+sxs-master_detective_archives_rain_code_v327680.r00	-	100000000	1	8474	0	1
+sxs-master_detective_archives_rain_code_v327680.r01	-	100000000	1	100008474	0	97
+sxs-master_detective_archives_rain_code_v327680.r02	-	100000000	1	200008474	0	193
+sxs-master_detective_archives_rain_code_v327680.r03	-	100000000	1	300008474	0	289
+sxs-master_detective_archives_rain_code_v327680.r04	-	100000000	1	400008474	0	385
+sxs-master_detective_archives_rain_code_v327680.r05	-	100000000	1	500008474	0	481
+sxs-master_detective_archives_rain_code_v327680.r06	-	17548822	1	62251264	1	60
+sxs-master_detective_archives_rain_code_v327680.rar	-	100000000	1	79800086	1	77
+sxs-master_detective_archives_rain_code_v327680.sfv	-	496	1	179800086	1	173

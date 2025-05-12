@@ -1,0 +1,3 @@
+supermario3dallstars_v65536.r00	-	27803801	1	0	0	0
+supermario3dallstars_v65536.rar	-	100000000	1	27803801	0	27
+supermario3dallstars_v65536.sfv	-	84	1	127803801	0	123

@@ -1,0 +1,6 @@
+v-quake_udob_dlc.nfo	14236e350b221dda0a04995e58abbed4
+v-quake_udob_dlc.r00	eb64f7c955a6736de935c286270ad2fa
+v-quake_udob_dlc.r01	2d36c6c454ddf6782583e9874e818a87
+v-quake_udob_dlc.r02	0ccd955ef19915b496a7fdd58a015782
+v-quake_udob_dlc.rar	c8999c0ad20a6c6ccdb6d0ab8eacbf07
+v-quake_udob_dlc.sfv	c4b7cff0092cbc3e9660367acd843379

@@ -1,0 +1,3 @@
+sxs-tempest_4000_v131072.nfo	2491c2dd935b78f9cf67779bdd7dede8
+sxs-tempest_4000_v131072.rar	aa4adfe2e2a4a0fa4859e5f4a9bbce7a
+sxs-tempest_4000_v131072.sfv	99924c656830a52f14605a9c15ef0b21

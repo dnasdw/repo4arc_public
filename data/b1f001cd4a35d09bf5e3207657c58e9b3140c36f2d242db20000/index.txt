@@ -1,0 +1,6 @@
+sxs-alveole.nfo	-	3794	1	0	0	0
+sxs-alveole.r00	-	50000000	1	3794	0	1
+sxs-alveole.r01	-	50000000	1	50003794	0	49
+sxs-alveole.r02	-	12044409	1	100003794	0	97
+sxs-alveole.rar	-	50000000	1	112048203	0	109
+sxs-alveole.sfv	-	104	1	162048203	0	157

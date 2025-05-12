@@ -1,0 +1,5 @@
+sxs-maggie_the_magnet.nfo	-	5744	1	0	0	0
+sxs-maggie_the_magnet.r00	-	50000000	1	5744	0	1
+sxs-maggie_the_magnet.r01	-	46087114	1	50005744	0	49
+sxs-maggie_the_magnet.rar	-	50000000	1	96092858	0	93
+sxs-maggie_the_magnet.sfv	-	108	1	146092858	0	141

@@ -1,0 +1,11 @@
+sxs-hazel_sky_v458752.nfo	82d0c89e
+sxs-hazel_sky_v458752.r00	77cc76ab
+sxs-hazel_sky_v458752.r01	a9d62166
+sxs-hazel_sky_v458752.r02	f1d88f96
+sxs-hazel_sky_v458752.r03	4005d4b4
+sxs-hazel_sky_v458752.r04	cae2c189
+sxs-hazel_sky_v458752.r05	8a7821fd
+sxs-hazel_sky_v458752.r06	b177c9dd
+sxs-hazel_sky_v458752.r07	a9079497
+sxs-hazel_sky_v458752.rar	7abb5690
+sxs-hazel_sky_v458752.sfv	25ed900f

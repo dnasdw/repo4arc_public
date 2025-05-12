@@ -1,0 +1,6 @@
+sxs-super_inefficient_golf_v65536.nfo	50a2ecd3
+sxs-super_inefficient_golf_v65536.r00	f4f32869
+sxs-super_inefficient_golf_v65536.r01	9e15b526
+sxs-super_inefficient_golf_v65536.r02	6403dd69
+sxs-super_inefficient_golf_v65536.rar	a7de3f2f
+sxs-super_inefficient_golf_v65536.sfv	8faaeba1

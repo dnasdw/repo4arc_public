@@ -1,0 +1,6 @@
+v-ffvii_v196608.nfo	2682c975
+v-ffvii_v196608.r00	ba3c1efd
+v-ffvii_v196608.r01	ac42a112
+v-ffvii_v196608.r02	a4dba5d5
+v-ffvii_v196608.rar	927d4096
+v-ffvii_v196608.sfv	311cbf64

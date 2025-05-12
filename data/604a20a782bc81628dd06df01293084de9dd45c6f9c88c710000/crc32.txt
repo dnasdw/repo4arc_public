@@ -1,0 +1,15 @@
+lfc-trsi3.nfo	da9fafe2
+lfc-tsi3.r00	2ba7e8a9
+lfc-tsi3.r01	fe41dc69
+lfc-tsi3.r02	e5586fe8
+lfc-tsi3.r03	cca01840
+lfc-tsi3.r04	3d94c763
+lfc-tsi3.r05	9f947e1e
+lfc-tsi3.r06	cbc413bf
+lfc-tsi3.r07	47346eb8
+lfc-tsi3.r08	6d80b1c3
+lfc-tsi3.r09	f570c496
+lfc-tsi3.r10	36ff2466
+lfc-tsi3.r11	7c885af5
+lfc-tsi3.rar	11d0124a
+lfc-tsi3.sfv	c7433c3e

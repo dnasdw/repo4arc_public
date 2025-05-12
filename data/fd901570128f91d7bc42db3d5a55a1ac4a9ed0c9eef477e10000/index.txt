@@ -1,0 +1,3 @@
+hr-aztya-eab-dlc.nfo	-	11258	1	0	0	0
+hr-aztya-eab-dlc.rar	-	2382111	1	11258	0	1
+hr-aztya-eab-dlc.sfv	-	31	1	2393369	0	4

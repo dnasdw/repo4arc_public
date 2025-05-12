@@ -1,0 +1,5 @@
+sxs-pocket_slimes.nfo	7ba0000b
+sxs-pocket_slimes.r00	c7bacae4
+sxs-pocket_slimes.r01	28112888
+sxs-pocket_slimes.rar	0280b400
+sxs-pocket_slimes.sfv	dee35b24

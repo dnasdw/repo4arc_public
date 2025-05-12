@@ -1,0 +1,3 @@
+sxs-penguin_wars_dlc.nfo	-	5588	1	0	0	0
+sxs-penguin_wars_dlc.rar	-	415782	1	5588	0	1
+sxs-penguin_wars_dlc.sfv	-	35	1	421370	0	2

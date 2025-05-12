@@ -1,0 +1,4 @@
+sxs-portal_dogs.nfo	ee506ef00cd5631a66b36a4189d2186a77aff317
+sxs-portal_dogs.r00	8baedf805ac555966a1586ebcdda2d60ebc2bc7e
+sxs-portal_dogs.rar	059c9662a777b91be5682c66dffcb1c442499527
+sxs-portal_dogs.sfv	2104c4c65778eedf3b7d71e71d1d2323b9606058

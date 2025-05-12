@@ -1,0 +1,4 @@
+sxs-sweets_drop.nfo	af1982a12b9b65c2e48c2409e4f1a30a
+sxs-sweets_drop.r00	a1749d26693338f196352805ba416e49
+sxs-sweets_drop.rar	5a2be56b4eecc7866e418af2e3bb5c10
+sxs-sweets_drop.sfv	10f1a599ce1443713104089936881058

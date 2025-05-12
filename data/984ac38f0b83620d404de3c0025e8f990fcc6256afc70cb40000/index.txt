@@ -1,0 +1,8 @@
+sxs-hentai_stars.nfo	-	5588	1	0	0	0
+sxs-hentai_stars.r00	-	100000000	1	5588	0	1
+sxs-hentai_stars.r01	-	100000000	1	100005588	0	97
+sxs-hentai_stars.r02	-	100000000	1	200005588	0	193
+sxs-hentai_stars.r03	-	100000000	1	300005588	0	289
+sxs-hentai_stars.r04	-	92574973	1	400005588	0	385
+sxs-hentai_stars.rar	-	100000000	1	492580561	0	474
+sxs-hentai_stars.sfv	-	186	1	54911232	1	53

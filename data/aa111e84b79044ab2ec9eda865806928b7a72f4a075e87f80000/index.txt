@@ -1,0 +1,5 @@
+sxs-hentai_golf_v65536.nfo	-	6524	1	0	0	0
+sxs-hentai_golf_v65536.r00	-	100000000	1	6524	0	1
+sxs-hentai_golf_v65536.r01	-	45596923	1	100006524	0	97
+sxs-hentai_golf_v65536.rar	-	100000000	1	145603447	0	141
+sxs-hentai_golf_v65536.sfv	-	111	1	245603447	0	237

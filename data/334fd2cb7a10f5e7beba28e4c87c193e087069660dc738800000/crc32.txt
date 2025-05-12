@@ -1,0 +1,8 @@
+v-legend_of_the_skyfish.nfo	0090efb6
+v-legend_of_the_skyfish.r00	b0657f20
+v-legend_of_the_skyfish.r01	a9e6b7f1
+v-legend_of_the_skyfish.r02	a7a0891c
+v-legend_of_the_skyfish.r03	20db56d6
+v-legend_of_the_skyfish.r04	7be2b941
+v-legend_of_the_skyfish.rar	16cef92b
+v-legend_of_the_skyfish.sfv	ddb9c2e3

@@ -1,0 +1,5 @@
+sxs-lets_build_a_zoo_v393216.nfo	-	6134	1	0	0	0
+sxs-lets_build_a_zoo_v393216.r00	-	100000000	1	6134	0	1
+sxs-lets_build_a_zoo_v393216.r01	-	90784993	1	100006134	0	97
+sxs-lets_build_a_zoo_v393216.rar	-	100000000	1	190791127	0	184
+sxs-lets_build_a_zoo_v393216.sfv	-	129	1	290791127	0	280

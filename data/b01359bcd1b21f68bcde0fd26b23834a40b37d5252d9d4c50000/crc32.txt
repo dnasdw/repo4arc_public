@@ -1,0 +1,4 @@
+sxs-smd_v131072.nfo	948b6bce
+sxs-smd_v131072.r00	f3730274
+sxs-smd_v131072.rar	37e105ef
+sxs-smd_v131072.sfv	593f798a

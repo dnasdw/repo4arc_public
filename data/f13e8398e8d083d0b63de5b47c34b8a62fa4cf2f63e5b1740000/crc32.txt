@@ -1,0 +1,17 @@
+lfc-cluedo.nfo	605644ac
+lfc-cluedoupd.r00	8ecc7203
+lfc-cluedoupd.r01	cb4da4d6
+lfc-cluedoupd.r02	106cd93b
+lfc-cluedoupd.r03	d8fe3b56
+lfc-cluedoupd.r04	564b9be8
+lfc-cluedoupd.r05	94d36923
+lfc-cluedoupd.r06	ca231b53
+lfc-cluedoupd.r07	085b116d
+lfc-cluedoupd.r08	10e51696
+lfc-cluedoupd.r09	44a6f5ba
+lfc-cluedoupd.r10	6d5fec45
+lfc-cluedoupd.r11	5034e92f
+lfc-cluedoupd.r12	dbeac87b
+lfc-cluedoupd.r13	6a78d189
+lfc-cluedoupd.rar	7aeb3964
+lfc-cluedoupd.sfv	77a6364b

@@ -1,0 +1,10 @@
+sxs-imp_of_the_sun_v65536.nfo	addadcda
+sxs-imp_of_the_sun_v65536.r00	6bb84e5a
+sxs-imp_of_the_sun_v65536.r01	e160ad00
+sxs-imp_of_the_sun_v65536.r02	7b8f7fa4
+sxs-imp_of_the_sun_v65536.r03	8199e9d9
+sxs-imp_of_the_sun_v65536.r04	5afa1117
+sxs-imp_of_the_sun_v65536.r05	fa978796
+sxs-imp_of_the_sun_v65536.r06	3fea0b3e
+sxs-imp_of_the_sun_v65536.rar	ae547bdc
+sxs-imp_of_the_sun_v65536.sfv	40ba3656

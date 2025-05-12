@@ -1,0 +1,5 @@
+sxs-alien_isolation_v262144.nfo	1cc0c38e
+sxs-alien_isolation_v262144.r00	39188629
+sxs-alien_isolation_v262144.r01	e7bf0e24
+sxs-alien_isolation_v262144.rar	ccdc6af3
+sxs-alien_isolation_v262144.sfv	288b66e5

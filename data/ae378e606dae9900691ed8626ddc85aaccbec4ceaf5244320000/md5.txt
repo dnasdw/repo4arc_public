@@ -1,0 +1,17 @@
+sxs-evertried.nfo	b09e388cfbc3c3e8134a81677b82847b
+sxs-evertried.r00	bb0eefee785cad70fb22282b86ca725f
+sxs-evertried.r01	abce54801a89f312f4d3e0fbd2bdc4c8
+sxs-evertried.r02	43ef6ae9964531c33af0f79ef780f87e
+sxs-evertried.r03	334f44e5f6745c143645392c9421b687
+sxs-evertried.r04	1138d59bfd1e260c7edf4df5eb67ef2a
+sxs-evertried.r05	c0bd44a3eb1ef8683caa78ed7bf8a494
+sxs-evertried.r06	2a04f928d0e17613f02d79e6dc2b9413
+sxs-evertried.r07	1cbafec4eb7d78969d125221db5ac2d2
+sxs-evertried.r08	62c22854558b1f097aecccdab4b6ef92
+sxs-evertried.r09	8c1a2a5936a9f53d5eaa47b2cd7a133c
+sxs-evertried.r10	fda71173f27f67c030b0572da8be6724
+sxs-evertried.r11	bb77e7c10109fb4b54b960f462177acf
+sxs-evertried.r12	1fc21cfdc4b0db30d4aa4ee570e35aa5
+sxs-evertried.r13	cd7c0329bef0b65ef5617a0e55329290
+sxs-evertried.rar	efa09f3dd78cf5aae866325757deb679
+sxs-evertried.sfv	180aaca10dc9ed9959dd3f90aa06f49b

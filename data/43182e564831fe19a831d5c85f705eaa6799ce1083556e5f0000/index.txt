@@ -1,0 +1,3 @@
+sxs-arcaea_x_groove_coaster_wai_wai_party_collaboration_pack_dlc.nfo	-	5202	1	0	0	0
+sxs-arcaea_x_groove_coaster_wai_wai_party_collaboration_pack_dlc.rar	-	104167	1	5202	0	1
+sxs-arcaea_x_groove_coaster_wai_wai_party_collaboration_pack_dlc.sfv	-	79	1	109369	0	2

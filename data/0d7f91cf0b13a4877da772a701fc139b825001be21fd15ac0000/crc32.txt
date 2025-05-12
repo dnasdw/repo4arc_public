@@ -1,0 +1,7 @@
+brw-zgun_v65536.nfo	a0f382fd
+brw-zgun_v65536.r00	92b958d3
+brw-zgun_v65536.r01	45e043f7
+brw-zgun_v65536.r02	72e82cd3
+brw-zgun_v65536.r03	bc2488ee
+brw-zgun_v65536.rar	d72de6d2
+brw-zgun_v65536.sfv	cc3c2cb0

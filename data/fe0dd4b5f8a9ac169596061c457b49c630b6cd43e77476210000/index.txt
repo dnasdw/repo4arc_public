@@ -1,0 +1,4 @@
+sxs-dust_an_elysian_tail_v196608.nfo	-	5823	1	0	0	0
+sxs-dust_an_elysian_tail_v196608.r00	-	26989542	1	5823	0	1
+sxs-dust_an_elysian_tail_v196608.rar	-	50000192	1	26995365	0	27
+sxs-dust_an_elysian_tail_v196608.sfv	-	94	1	76995557	0	75

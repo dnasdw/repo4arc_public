@@ -1,0 +1,4 @@
+sxs-snk40ac_dlc.nfo	-	5666	1	0	0	0
+sxs-snk40ac_dlc.r00	-	18116658	1	5666	0	1
+sxs-snk40ac_dlc.rar	-	50000000	1	18122324	0	19
+sxs-snk40ac_dlc.sfv	-	60	1	68122324	0	67

@@ -1,0 +1,8 @@
+sxs-octo_curse.nfo	64acb167
+sxs-octo_curse.r00	0f6330c8
+sxs-octo_curse.r01	30a7b4c3
+sxs-octo_curse.r02	5f449b6e
+sxs-octo_curse.r03	9374028f
+sxs-octo_curse.r04	3cbe0e61
+sxs-octo_curse.rar	0d73cb85
+sxs-octo_curse.sfv	46bacff7

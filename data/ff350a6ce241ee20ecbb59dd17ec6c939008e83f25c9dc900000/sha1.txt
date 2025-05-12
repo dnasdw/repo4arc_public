@@ -1,0 +1,5 @@
+lfc-pgmv.nfo	5475f3650b1322f872922c46032c80173d0cdc9b
+lfc-pgmv.r00	abbcd65e20848bac285e29993b1e88ebbd9e921a
+lfc-pgmv.r01	e6f9c9115a2b80cbee18e04d2c7ea63823e14cd6
+lfc-pgmv.rar	fb0f94bd9df79a795c9d38fd62369894f0da1c2d
+lfc-pgmv.sfv	13389b8e036842cd5fe04d6cef2d9df263e3613c

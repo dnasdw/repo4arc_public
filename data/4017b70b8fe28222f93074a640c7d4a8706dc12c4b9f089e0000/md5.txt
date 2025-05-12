@@ -1,0 +1,6 @@
+lfc-igna.nfo	cd63f2be716c18f86d280ec8daf4aab9
+lfc-igna.r00	080c847a739f12acf7b1b527db9437c3
+lfc-igna.r01	158b061356ba04955c39d1b778ef2559
+lfc-igna.r02	26696958d7bf9bfa635d16180fbe6ba0
+lfc-igna.rar	4cb9276057081145579abbf1ec00df12
+lfc-igna.sfv	756fcc3c0da72164a9dd7014c5bf7a77

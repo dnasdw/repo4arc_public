@@ -1,0 +1,7 @@
+v-wreckfest_v65536.nfo	f30e894b094dfc71def0d70baf4c0e4d
+v-wreckfest_v65536.r00	b4dfd4639362df9e7d1d091330ea4db5
+v-wreckfest_v65536.r01	af3b25d75cc6a7a67224d9ddbc53e4b3
+v-wreckfest_v65536.r02	02c268e7279c198d6212c4662b9a6d38
+v-wreckfest_v65536.r03	fdd0ec895fde32fe51fb5c487b3e9b3e
+v-wreckfest_v65536.rar	dc4f376809710c0b45394faa68b3f369
+v-wreckfest_v65536.sfv	7d2516bddf7b036c812c1ea2bc7e9434

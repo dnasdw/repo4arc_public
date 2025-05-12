@@ -1,0 +1,9 @@
+sxs-arcaea_v458752.nfo	3f2b4e67
+sxs-arcaea_v458752.r00	3f7351b8
+sxs-arcaea_v458752.r01	dfc2a9df
+sxs-arcaea_v458752.r02	9597325a
+sxs-arcaea_v458752.r03	2534fe16
+sxs-arcaea_v458752.r04	97789546
+sxs-arcaea_v458752.r05	a74f55b8
+sxs-arcaea_v458752.rar	9298067b
+sxs-arcaea_v458752.sfv	14bfafc2

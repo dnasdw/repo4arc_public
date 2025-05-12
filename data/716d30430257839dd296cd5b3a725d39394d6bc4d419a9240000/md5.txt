@@ -1,0 +1,14 @@
+delight.nfo	0fb2ac519e90b6476f9c1b3435da21a1
+dl-spaceland.r00	1637dc76c46cbf03008c92e60da10624
+dl-spaceland.r01	793160d2f64cd7f8ada4b3a62f4d57eb
+dl-spaceland.r02	a1dd1636fead6a4381ededeb9c268b2c
+dl-spaceland.r03	b4129572aae450e02f76a168c0a537d7
+dl-spaceland.r04	67e31c6ce04b16dcc4c2fabae5846839
+dl-spaceland.r05	b94e581703d0ca5649babaf8934c8140
+dl-spaceland.r06	f0b882917996b205367f60d211764295
+dl-spaceland.r07	db1d77803417ef1305d9e614d93793da
+dl-spaceland.r08	35d81342559dab0e95a027a54344f6de
+dl-spaceland.r09	229f3275a8e4c638ac5e8534093447cd
+dl-spaceland.r10	3629e14dbfe97ff8bab22f0c7317e453
+dl-spaceland.rar	fcbb3ba9da5883607e8841ec7ce84dd1
+dl-spaceland.sfv	373bb8addcba64c48f295caae452bdf2

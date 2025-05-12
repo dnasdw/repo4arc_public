@@ -1,0 +1,16 @@
+lfc-farmtogether.nfo	-	5949	1	0	0	0
+lfc-farmtogether.r00	-	50000000	1	5949	0	1
+lfc-farmtogether.r01	-	50000000	1	50005949	0	49
+lfc-farmtogether.r02	-	50000000	1	100005949	0	97
+lfc-farmtogether.r03	-	50000000	1	150005949	0	145
+lfc-farmtogether.r04	-	50000000	1	200005949	0	193
+lfc-farmtogether.r05	-	50000000	1	250005949	0	241
+lfc-farmtogether.r06	-	50000000	1	300005949	0	289
+lfc-farmtogether.r07	-	50000000	1	350005949	0	337
+lfc-farmtogether.r08	-	50000000	1	400005949	0	385
+lfc-farmtogether.r09	-	50000000	1	450005949	0	433
+lfc-farmtogether.r10	-	50000000	1	500005949	0	481
+lfc-farmtogether.r11	-	50000000	1	12251264	1	12
+lfc-farmtogether.r12	-	32728456	1	62251264	1	60
+lfc-farmtogether.rar	-	50000000	1	94979720	1	92
+lfc-farmtogether.sfv	-	434	1	144979720	1	140

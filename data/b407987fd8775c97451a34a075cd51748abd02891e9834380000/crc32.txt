@@ -1,0 +1,15 @@
+lfc-vmjs.nfo	82319ab3
+lfc-vmjs.r00	8a9c6f53
+lfc-vmjs.r01	88e33e84
+lfc-vmjs.r02	bb1859fc
+lfc-vmjs.r03	ead54340
+lfc-vmjs.r04	cec5f918
+lfc-vmjs.r05	d8b459d0
+lfc-vmjs.r06	c75f6e46
+lfc-vmjs.r07	eceb7ae0
+lfc-vmjs.r08	b91824c2
+lfc-vmjs.r09	54d1ae24
+lfc-vmjs.r10	72c480c0
+lfc-vmjs.r11	87615094
+lfc-vmjs.rar	c14f09ff
+lfc-vmjs.sfv	165e4c7a

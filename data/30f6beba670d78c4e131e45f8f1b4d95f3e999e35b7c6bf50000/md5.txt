@@ -1,0 +1,6 @@
+brw-tndr.nfo	4465a0d42a0fd94d85ab5fe882b766d5
+brw-tndr.r00	8d0a23aa003de5555c5b608207e38948
+brw-tndr.r01	052675dc1cca419d1c77c4cdb113eddb
+brw-tndr.r02	b3af89b364cb89802241b9be7bd83aa8
+brw-tndr.rar	7acd7be69048beb6c299adaaba7a7e0c
+brw-tndr.sfv	26485de556fdf41a96e531035edb8f7f

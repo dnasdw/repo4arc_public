@@ -1,0 +1,3 @@
+sxs-monster_puzzle_v65536.nfo	cea7075470b2185f8e3e30164c8c0999
+sxs-monster_puzzle_v65536.rar	76b3d154900fbcb7042d4242d2d3566d
+sxs-monster_puzzle_v65536.sfv	08e4db7be719ff2ef44c57f97efd4e47

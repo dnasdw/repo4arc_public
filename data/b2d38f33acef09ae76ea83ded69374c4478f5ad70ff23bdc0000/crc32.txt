@@ -1,0 +1,8 @@
+v-paperbound_brawlers.nfo	42391897
+v-paperbound_brawlers.r00	34f9b34b
+v-paperbound_brawlers.r01	eee7ad6c
+v-paperbound_brawlers.r02	bc7ee69e
+v-paperbound_brawlers.r03	4ab2ad6b
+v-paperbound_brawlers.r04	294e29a4
+v-paperbound_brawlers.rar	74a4e8f3
+v-paperbound_brawlers.sfv	d7639bfc

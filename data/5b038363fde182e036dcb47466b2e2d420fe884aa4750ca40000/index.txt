@@ -1,0 +1,4 @@
+brw-hswh.nfo	-	3203	1	0	0	0
+brw-hswh.r00	-	37001993	1	3203	0	1
+brw-hswh.rar	-	50000000	1	37005196	0	37
+brw-hswh.sfv	-	46	1	87005196	0	85

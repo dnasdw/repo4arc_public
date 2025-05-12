@@ -1,0 +1,4 @@
+sxs-chaos_child_v131072.nfo	07aa40311bb635932ddda52145419931b0f1818c
+sxs-chaos_child_v131072.r00	3c8efac421da08009f8f7438de4f0ba289fd977a
+sxs-chaos_child_v131072.rar	a0dbdbcc1b6bedefc1522847c9683474f158aa84
+sxs-chaos_child_v131072.sfv	dabaa67967ea160b3584391221b7863c673b6adf

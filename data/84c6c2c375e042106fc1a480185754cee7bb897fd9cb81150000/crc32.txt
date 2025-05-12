@@ -1,0 +1,8 @@
+hr-bcmwav65536.nfo	ca7b6d95
+hr-bcmwav65536.r00	6d74b295
+hr-bcmwav65536.r01	8dd8f2ea
+hr-bcmwav65536.r02	194a13af
+hr-bcmwav65536.r03	8edf91f6
+hr-bcmwav65536.r04	17a1756e
+hr-bcmwav65536.rar	f9b1f2b1
+hr-bcmwav65536.sfv	030cc907

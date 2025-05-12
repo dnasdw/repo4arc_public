@@ -1,0 +1,5 @@
+v-transistor_v131072.nfo	0e7d03dc94fee304daacbe03da64a03d
+v-transistor_v131072.r00	dc603159c05e6aef5fe82ff1affd8416
+v-transistor_v131072.r01	fb100a4b20a9d04b0ec6435e57d0f577
+v-transistor_v131072.rar	5781c8d45def1fde52c1250a0c266525
+v-transistor_v131072.sfv	059876d4086f1511e683dbf8645c69c6

@@ -1,0 +1,5 @@
+sxs-snes_v983040.nfo	2ca1d681133aadda3bc8c051738ffee1
+sxs-snes_v983040.r00	cac30dee315aa0ed9fa3acd0d9934406
+sxs-snes_v983040.r01	00f5bb0aef4a82fdb91b4d3a38db5b6f
+sxs-snes_v983040.rar	0b787481c199378b7161b301b3cd8ac8
+sxs-snes_v983040.sfv	76185b5a2f12c902add2ce4c04baf33e

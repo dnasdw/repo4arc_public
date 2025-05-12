@@ -1,0 +1,6 @@
+v-standby.nfo	5bb734efedb8cfa72fe1ca022e40823b
+v-standby.r00	70c627b02a346bf5fbdd789b28c4f3e3
+v-standby.r01	db1258ad534fdd2b25eb4b00acd42993
+v-standby.r02	8ae0c87f89be66b4773a6fa0a54a4e59
+v-standby.rar	308ea2a4a0b193cfe99547e95395445c
+v-standby.sfv	3db698e27af4d7325a85d77274e2343d

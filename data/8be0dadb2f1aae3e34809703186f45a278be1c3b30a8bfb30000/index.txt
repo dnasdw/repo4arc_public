@@ -1,0 +1,9 @@
+v-bomb_rush_cyberfunk_v262144.nfo	-	4576	1	0	0	0
+v-bomb_rush_cyberfunk_v262144.r00	-	100000000	1	4576	0	1
+v-bomb_rush_cyberfunk_v262144.r01	-	100000000	1	100004576	0	97
+v-bomb_rush_cyberfunk_v262144.r02	-	100000000	1	200004576	0	193
+v-bomb_rush_cyberfunk_v262144.r03	-	100000000	1	300004576	0	289
+v-bomb_rush_cyberfunk_v262144.r04	-	100000000	1	400004576	0	385
+v-bomb_rush_cyberfunk_v262144.r05	-	84551872	1	500004576	0	481
+v-bomb_rush_cyberfunk_v262144.rar	-	100000000	1	46803136	1	45
+v-bomb_rush_cyberfunk_v262144.sfv	-	308	1	146803136	1	141

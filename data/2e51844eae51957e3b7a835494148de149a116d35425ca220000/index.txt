@@ -1,0 +1,4 @@
+sxs-aa_ninja_gaiden.r00	-	50000000	1	0	0	0
+sxs-aa_ninja_gaiden.r01	-	14190914	1	50000000	0	48
+sxs-aa_ninja_gaiden.rar	-	50000000	1	64190914	0	62
+sxs-aa_ninja_gaiden.sfv	-	102	1	114190914	0	110

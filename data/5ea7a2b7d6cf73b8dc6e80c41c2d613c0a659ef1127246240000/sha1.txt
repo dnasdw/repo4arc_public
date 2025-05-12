@@ -1,0 +1,8 @@
+delight.nfo	6904e44252ea0462932c3302f1ad92c23a270854
+dl-queensquest4.r00	f878c4b111c4c93083644fda72b8b3956e499339
+dl-queensquest4.r01	45bdbf7d7a34fe6b778776f409d08dbe24bb82c2
+dl-queensquest4.r02	fdbefe727ad8ca1c5691660626f04c1772463d76
+dl-queensquest4.r03	375a40eb5be1de19aec5011219759ddb15dd5ded
+dl-queensquest4.r04	da8be6b2727e362fc06e33ed36a429970ae8e8d5
+dl-queensquest4.rar	3056d7be686908a246c683009ce959e5d7ceb39c
+dl-queensquest4.sfv	f9d19804be75ad1b2cce087e8b64b711bc3ee80f

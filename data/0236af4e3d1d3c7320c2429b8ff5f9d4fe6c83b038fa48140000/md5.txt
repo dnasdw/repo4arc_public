@@ -1,0 +1,11 @@
+v-andro_dunos_2.nfo	4a68708962280f889f2be57428c01073
+v-andro_dunos_2.r00	5801033d569a84149c141db4b717bed1
+v-andro_dunos_2.r01	f39f3d81940f8d8f434523c42ce047cb
+v-andro_dunos_2.r02	395e33bd36224f5b722f0bb61d733e11
+v-andro_dunos_2.r03	52c25d5ef09d77b1d2643064a5eeb739
+v-andro_dunos_2.r04	e3e1e2dadf9589497b599bc2c99a2e2a
+v-andro_dunos_2.r05	bdb48257ee128008ab2ab290c4985fc8
+v-andro_dunos_2.r06	d40e22bffd63cc5e8c11f087ef3f0d9d
+v-andro_dunos_2.r07	4c7474d0526c21878f9aff15bd1f723b
+v-andro_dunos_2.rar	6fe0f33e63157003e208fb7d5b7bf339
+v-andro_dunos_2.sfv	fd782a7b4c8dbac31c6c74627e458369

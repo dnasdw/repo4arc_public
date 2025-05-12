@@ -1,0 +1,11 @@
+sxs-sonic_colors_ultimate_v458752.nfo	25ab01a9
+sxs-sonic_colors_ultimate_v458752.r00	e3964654
+sxs-sonic_colors_ultimate_v458752.r01	3ed7c36e
+sxs-sonic_colors_ultimate_v458752.r02	2ccd9ce8
+sxs-sonic_colors_ultimate_v458752.r03	704e4716
+sxs-sonic_colors_ultimate_v458752.r04	322e66e4
+sxs-sonic_colors_ultimate_v458752.r05	b244795d
+sxs-sonic_colors_ultimate_v458752.r06	058d92d2
+sxs-sonic_colors_ultimate_v458752.r07	71bc4c56
+sxs-sonic_colors_ultimate_v458752.rar	8365dd24
+sxs-sonic_colors_ultimate_v458752.sfv	98946a9f

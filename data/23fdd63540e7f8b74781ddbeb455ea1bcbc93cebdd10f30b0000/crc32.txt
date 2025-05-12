@@ -1,0 +1,4 @@
+sxs-fuze_player_v65536.nfo	82ddd47c
+sxs-fuze_player_v65536.r00	6f53042e
+sxs-fuze_player_v65536.rar	03e4c0fd
+sxs-fuze_player_v65536.sfv	89c07790

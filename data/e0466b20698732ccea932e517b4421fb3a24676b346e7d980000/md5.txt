@@ -1,0 +1,15 @@
+v-widget_satchel.nfo	decb764a74d46aea6a374013eac0ce40
+v-widget_satchel.r00	d01fd751f0c8ce03373ca12234d5a894
+v-widget_satchel.r01	5ffb9f4db45fa8079a75d34e4d6cf229
+v-widget_satchel.r02	21c3c750116ef6962fcac02f08dd2cb7
+v-widget_satchel.r03	110a6a09f141136a8aa031e98fee7b73
+v-widget_satchel.r04	42ac766e286cbaf8ba566d7d52c1c35e
+v-widget_satchel.r05	a4ceeac5f1c5ff7996ade123a0b71eb5
+v-widget_satchel.r06	70645e0c9911311d14ca2e7792427e0a
+v-widget_satchel.r07	df4f07c5063fedf5e3e49df6a8d84df5
+v-widget_satchel.r08	085d85124bbd6f1b73a3135822cfe885
+v-widget_satchel.r09	ba2ee9e5d70b978de56bc8b913f3f81b
+v-widget_satchel.r10	10b47a2170163a55c081aba735ef3961
+v-widget_satchel.r11	ea39494bf6d5d3e8a429c3b6432fc538
+v-widget_satchel.rar	3306c43fec939876118c85e0bb900165
+v-widget_satchel.sfv	faec32117203ee1b49cace24de20622e

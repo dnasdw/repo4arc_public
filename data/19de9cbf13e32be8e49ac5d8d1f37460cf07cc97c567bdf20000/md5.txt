@@ -1,0 +1,8 @@
+sxs-asscrr_jap_dlc.nfo	8246dc4b9e1798f7951a46af91cdc751
+sxs-asscrr_jap_dlc.r00	07f9a73b525c4058c537f441a99a498b
+sxs-asscrr_jap_dlc.r01	8c534bf7620ad117e8a6257d734c39e6
+sxs-asscrr_jap_dlc.r02	70ab2781b03580b05539b41265011178
+sxs-asscrr_jap_dlc.r03	b04618b67148caa258d2d6c570024ed5
+sxs-asscrr_jap_dlc.r04	551041b271ea8184a3e19aa4d91e9b9d
+sxs-asscrr_jap_dlc.rar	05ae5a0812258b15e00a6acbe9fd7424
+sxs-asscrr_jap_dlc.sfv	9f139085169e9cf94a8152332a22cc46

@@ -1,0 +1,4 @@
+v-sven_completely_screwed_v196608.nfo	-	7464	1	0	0	0
+v-sven_completely_screwed_v196608.r00	-	85197755	1	7464	0	1
+v-sven_completely_screwed_v196608.rar	-	100000000	1	85205219	0	83
+v-sven_completely_screwed_v196608.sfv	-	96	1	185205219	0	179

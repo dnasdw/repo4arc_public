@@ -1,0 +1,7 @@
+sxs-monster_crown_v327680.nfo	b003d565d355ae43b290b5d650368e26
+sxs-monster_crown_v327680.r00	9d1e0548cbbd4c7a9a18f191a05fa83f
+sxs-monster_crown_v327680.r01	c3d73e42afc4c752d254cbd4fde1a196
+sxs-monster_crown_v327680.r02	08df85f8d3da660f659aae179ecc9274
+sxs-monster_crown_v327680.r03	3f244879c732630f5c4e159692579930
+sxs-monster_crown_v327680.rar	4265a75b91185803fd1b3a8e46857d4b
+sxs-monster_crown_v327680.sfv	197ae177e3a37e48af4318ca905a4d9b

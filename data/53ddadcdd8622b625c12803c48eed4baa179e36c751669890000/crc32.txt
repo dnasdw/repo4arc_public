@@ -1,0 +1,10 @@
+v-decay_of_logos_v65536.nfo	387e51b4
+v-decay_of_logos_v65536.r00	e8890079
+v-decay_of_logos_v65536.r01	bb804f35
+v-decay_of_logos_v65536.r02	6451f781
+v-decay_of_logos_v65536.r03	5f3354b9
+v-decay_of_logos_v65536.r04	a64f5592
+v-decay_of_logos_v65536.r05	42f7acb3
+v-decay_of_logos_v65536.r06	0a7aafb0
+v-decay_of_logos_v65536.rar	2fcc18a0
+v-decay_of_logos_v65536.sfv	6d9d2e02

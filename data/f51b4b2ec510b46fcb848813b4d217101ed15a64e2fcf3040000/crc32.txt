@@ -1,0 +1,11 @@
+v-kunai_v196608.nfo	a29bacd4
+v-kunai_v196608.r00	5b7772ed
+v-kunai_v196608.r01	ff930273
+v-kunai_v196608.r02	737a1768
+v-kunai_v196608.r03	1160cb0e
+v-kunai_v196608.r04	a8da96b5
+v-kunai_v196608.r05	701d081f
+v-kunai_v196608.r06	aa59f5b8
+v-kunai_v196608.r07	feeddae2
+v-kunai_v196608.rar	0b9a092a
+v-kunai_v196608.sfv	c5802755

@@ -1,0 +1,14 @@
+sxs-samshom_amakusa_dlc.nfo	2bf2842d
+sxs-samshom_amakusa_dlc.r00	36b12676
+sxs-samshom_amakusa_dlc.r01	54860f79
+sxs-samshom_amakusa_dlc.r02	b96fa72e
+sxs-samshom_amakusa_dlc.r03	f6cf4daa
+sxs-samshom_amakusa_dlc.r04	28b598da
+sxs-samshom_amakusa_dlc.r05	9e57a3c3
+sxs-samshom_amakusa_dlc.r06	4de17bda
+sxs-samshom_amakusa_dlc.r07	500dd33e
+sxs-samshom_amakusa_dlc.r08	1947470e
+sxs-samshom_amakusa_dlc.r09	f87aff8f
+sxs-samshom_amakusa_dlc.r10	d09f2a01
+sxs-samshom_amakusa_dlc.rar	f3e157b0
+sxs-samshom_amakusa_dlc.sfv	66b4e7d0

@@ -1,0 +1,9 @@
+sxs-lyrica2_stars_align_v131072.nfo	-	5432	1	0	0	0
+sxs-lyrica2_stars_align_v131072.r00	-	100000000	1	5432	0	1
+sxs-lyrica2_stars_align_v131072.r01	-	100000000	1	100005432	0	97
+sxs-lyrica2_stars_align_v131072.r02	-	100000000	1	200005432	0	193
+sxs-lyrica2_stars_align_v131072.r03	-	100000000	1	300005432	0	289
+sxs-lyrica2_stars_align_v131072.r04	-	100000000	1	400005432	0	385
+sxs-lyrica2_stars_align_v131072.r05	-	30260138	1	500005432	0	481
+sxs-lyrica2_stars_align_v131072.rar	-	100000000	1	530265570	0	510
+sxs-lyrica2_stars_align_v131072.sfv	-	322	1	92659968	1	89

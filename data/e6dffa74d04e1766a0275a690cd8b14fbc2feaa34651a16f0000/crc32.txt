@@ -1,0 +1,14 @@
+lfc-bvc.nfo	4b3bec4d
+lfc-bvc.r00	bcb2a70e
+lfc-bvc.r01	66464a4a
+lfc-bvc.r02	8a44e1c5
+lfc-bvc.r03	1fe9e23e
+lfc-bvc.r04	4513b037
+lfc-bvc.r05	1bfb1829
+lfc-bvc.r06	2a7d0920
+lfc-bvc.r07	435c3f30
+lfc-bvc.r08	5e0d0198
+lfc-bvc.r09	4d4b296f
+lfc-bvc.r10	b6fa88c5
+lfc-bvc.rar	3076d11c
+lfc-bvc.sfv	152c93a3

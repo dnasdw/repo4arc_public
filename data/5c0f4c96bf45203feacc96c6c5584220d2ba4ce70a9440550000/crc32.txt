@@ -1,0 +1,6 @@
+v-shadow_gangs_v131072.nfo	366f3a1e
+v-shadow_gangs_v131072.r00	00c58210
+v-shadow_gangs_v131072.r01	333e1406
+v-shadow_gangs_v131072.r02	dee40f5a
+v-shadow_gangs_v131072.rar	ea044ebd
+v-shadow_gangs_v131072.sfv	032c8b08

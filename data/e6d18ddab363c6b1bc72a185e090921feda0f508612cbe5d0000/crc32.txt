@@ -1,0 +1,15 @@
+hr-akzya.nfo	f0358e68
+hr-akzya.r00	a6bf1b2f
+hr-akzya.r01	ff13f939
+hr-akzya.r02	d34db357
+hr-akzya.r03	7562eaa6
+hr-akzya.r04	0ff6af57
+hr-akzya.r05	50f2b861
+hr-akzya.r06	77a71fb4
+hr-akzya.r07	3112bc4e
+hr-akzya.r08	1d2597fb
+hr-akzya.r09	925f66c2
+hr-akzya.r10	2fe37525
+hr-akzya.r11	ce811e4f
+hr-akzya.rar	8b651bf1
+hr-akzya.sfv	b01c3701

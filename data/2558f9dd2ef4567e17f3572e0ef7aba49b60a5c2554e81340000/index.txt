@@ -1,0 +1,12 @@
+sxs-doraemon_story_of_seasons_friends_of_the_great_kingdom_v458752.nfo	-	7304	1	0	0	0
+sxs-doraemon_story_of_seasons_friends_of_the_great_kingdom_v458752.r00	-	100000000	1	7304	0	1
+sxs-doraemon_story_of_seasons_friends_of_the_great_kingdom_v458752.r01	-	100000000	1	100007304	0	97
+sxs-doraemon_story_of_seasons_friends_of_the_great_kingdom_v458752.r02	-	100000000	1	200007304	0	193
+sxs-doraemon_story_of_seasons_friends_of_the_great_kingdom_v458752.r03	-	100000000	1	300007304	0	289
+sxs-doraemon_story_of_seasons_friends_of_the_great_kingdom_v458752.r04	-	100000000	1	400007304	0	385
+sxs-doraemon_story_of_seasons_friends_of_the_great_kingdom_v458752.r05	-	100000000	1	500007304	0	481
+sxs-doraemon_story_of_seasons_friends_of_the_great_kingdom_v458752.r06	-	100000000	1	62251264	1	60
+sxs-doraemon_story_of_seasons_friends_of_the_great_kingdom_v458752.r07	-	100000000	1	162251264	1	156
+sxs-doraemon_story_of_seasons_friends_of_the_great_kingdom_v458752.r08	-	88327174	1	262251264	1	252
+sxs-doraemon_story_of_seasons_friends_of_the_great_kingdom_v458752.rar	-	100000000	1	350578438	1	337
+sxs-doraemon_story_of_seasons_friends_of_the_great_kingdom_v458752.sfv	-	810	1	450578438	1	433

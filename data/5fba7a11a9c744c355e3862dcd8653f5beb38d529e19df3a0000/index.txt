@@ -1,0 +1,11 @@
+v-yuletide_legends_who_framed_santa_claus.nfo	-	4810	1	0	0	0
+v-yuletide_legends_who_framed_santa_claus.r00	-	100000000	1	4810	0	1
+v-yuletide_legends_who_framed_santa_claus.r01	-	100000000	1	100004810	0	97
+v-yuletide_legends_who_framed_santa_claus.r02	-	100000000	1	200004810	0	193
+v-yuletide_legends_who_framed_santa_claus.r03	-	100000000	1	300004810	0	289
+v-yuletide_legends_who_framed_santa_claus.r04	-	100000000	1	400004810	0	385
+v-yuletide_legends_who_framed_santa_claus.r05	-	100000000	1	500004810	0	481
+v-yuletide_legends_who_framed_santa_claus.r06	-	100000000	1	62251264	1	60
+v-yuletide_legends_who_framed_santa_claus.r07	-	12441084	1	162251264	1	156
+v-yuletide_legends_who_framed_santa_claus.rar	-	100000000	1	174692348	1	168
+v-yuletide_legends_who_framed_santa_claus.sfv	-	504	1	274692348	1	264

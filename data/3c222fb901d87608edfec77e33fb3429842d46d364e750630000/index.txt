@@ -1,0 +1,6 @@
+darkmoon-game.dev.story.eshop.nsw.nfo	-	16707	1	0	0	0
+darkmoon-game.dev.story.eshop.nsw.r00	-	50000000	1	16707	0	1
+darkmoon-game.dev.story.eshop.nsw.r01	-	50000000	1	50016707	0	49
+darkmoon-game.dev.story.eshop.nsw.r02	-	38387104	1	100016707	0	97
+darkmoon-game.dev.story.eshop.nsw.rar	-	50000000	1	138403811	0	134
+darkmoon-game.dev.story.eshop.nsw.sfv	-	192	1	188403811	0	182

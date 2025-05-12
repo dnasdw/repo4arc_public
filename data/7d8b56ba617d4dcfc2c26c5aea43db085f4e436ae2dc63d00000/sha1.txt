@@ -1,0 +1,8 @@
+hr-mightygoose.nfo	851c6ea8c40d4216c1e1400e04a1dd693da7b060
+hr-mightygoose.r00	5f4c7a884c1a12567ab34c828f7fd2bfd629d53c
+hr-mightygoose.r01	5d967cf3794da400df31151c7ec25759a9c6b641
+hr-mightygoose.r02	6295bc393b7e30a9f9099406f8bd258826ff2673
+hr-mightygoose.r03	721e67770488456201d26d45be0d85e172fc0ade
+hr-mightygoose.r04	bd9c51368ac59d9bb930b90428adb87a5ca00c5b
+hr-mightygoose.rar	1274de0b0e5503170307b1857ea8a84067e8b54d
+hr-mightygoose.sfv	88d2bb65b1cbb3f19d7c1f0a7c5d1b717729b82e

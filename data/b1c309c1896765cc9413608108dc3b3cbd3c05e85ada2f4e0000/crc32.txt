@@ -1,0 +1,8 @@
+sxs-reventure_v196608.nfo	12c393cf
+sxs-reventure_v196608.r00	0b38580e
+sxs-reventure_v196608.r01	f98adef9
+sxs-reventure_v196608.r02	ae8b3fdd
+sxs-reventure_v196608.r03	76092d81
+sxs-reventure_v196608.r04	ab290a36
+sxs-reventure_v196608.rar	36dcb2ff
+sxs-reventure_v196608.sfv	4b32699a

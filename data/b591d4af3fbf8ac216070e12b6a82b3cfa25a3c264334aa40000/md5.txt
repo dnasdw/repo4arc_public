@@ -1,0 +1,8 @@
+brw-folo.nfo	35cfc7a6779102671c575dcda6f4eef3
+brw-folo.r00	25af94d53441dcb4cacdf25a3763a351
+brw-folo.r01	8186e974bf5daf67793fada820224ecc
+brw-folo.r02	918a67b858c48edfb076f9446413d5de
+brw-folo.r03	6314e1cf8df468f65dff90288353e245
+brw-folo.r04	3ce7d1c6ff952c8ce7d877e4c9188083
+brw-folo.rar	051c4f028f4b67c00a1ae3cc5846600c
+brw-folo.sfv	398931bea8bbec96dad46b13015776a8

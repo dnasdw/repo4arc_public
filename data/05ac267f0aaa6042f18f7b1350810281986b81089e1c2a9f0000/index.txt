@@ -1,0 +1,5 @@
+sxs-the_legend_of_heroes_trails_of_cold_steel_iv_v196608.nfo	-	4106	1	0	0	0
+sxs-the_legend_of_heroes_trails_of_cold_steel_iv_v196608.r00	-	50000000	1	4106	0	1
+sxs-the_legend_of_heroes_trails_of_cold_steel_iv_v196608.r01	-	10033168	1	50004106	0	49
+sxs-the_legend_of_heroes_trails_of_cold_steel_iv_v196608.rar	-	50000000	1	60037274	0	59
+sxs-the_legend_of_heroes_trails_of_cold_steel_iv_v196608.sfv	-	213	1	110037274	0	107

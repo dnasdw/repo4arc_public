@@ -1,0 +1,5 @@
+sxs-farm_mystery_v131072.nfo	65bc6ee8
+sxs-farm_mystery_v131072.r00	52d99afd
+sxs-farm_mystery_v131072.r01	9b4c7b04
+sxs-farm_mystery_v131072.rar	8829cfe0
+sxs-farm_mystery_v131072.sfv	508ad51c

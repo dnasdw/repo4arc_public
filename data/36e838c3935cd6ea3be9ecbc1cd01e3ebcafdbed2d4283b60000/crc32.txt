@@ -1,0 +1,17 @@
+v-cadence_of_hyrule.nfo	47bcb1a1
+v-cadence_of_hyrule.r00	1405439e
+v-cadence_of_hyrule.r01	94f6c91f
+v-cadence_of_hyrule.r02	d4cd5b0d
+v-cadence_of_hyrule.r03	b4ab1a99
+v-cadence_of_hyrule.r04	97ed5e8e
+v-cadence_of_hyrule.r05	f6b4dba6
+v-cadence_of_hyrule.r06	95bb37a0
+v-cadence_of_hyrule.r07	ffe50621
+v-cadence_of_hyrule.r08	697fc351
+v-cadence_of_hyrule.r09	9809692e
+v-cadence_of_hyrule.r10	22c54c2b
+v-cadence_of_hyrule.r11	a08955bf
+v-cadence_of_hyrule.r12	8376cdb1
+v-cadence_of_hyrule.r13	75caa0c3
+v-cadence_of_hyrule.rar	72d1792e
+v-cadence_of_hyrule.sfv	681f543e

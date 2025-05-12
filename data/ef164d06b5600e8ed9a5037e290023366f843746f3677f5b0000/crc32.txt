@@ -1,0 +1,11 @@
+v-riotcu_v262144.nfo	f765bf03
+v-riotcu_v262144.r00	23dff500
+v-riotcu_v262144.r01	26dce39c
+v-riotcu_v262144.r02	377aa0cd
+v-riotcu_v262144.r03	9189ee90
+v-riotcu_v262144.r04	22086163
+v-riotcu_v262144.r05	07a9b0e2
+v-riotcu_v262144.r06	54d0e913
+v-riotcu_v262144.r07	8ca2f307
+v-riotcu_v262144.rar	ab4cc3f3
+v-riotcu_v262144.sfv	5626ceb3

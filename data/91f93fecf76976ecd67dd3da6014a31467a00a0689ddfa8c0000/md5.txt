@@ -1,0 +1,11 @@
+sxs-eight_dragons.nfo	4290fc14f30eb465f4b13977f2276caf
+sxs-eight_dragons.r00	ad3ac79a3ec9a2171265f42bdde705f1
+sxs-eight_dragons.r01	b1ad0768e3e58b23ad4edc993d270eea
+sxs-eight_dragons.r02	1fb3ed8b50137b5fcbd835b118ec0dd8
+sxs-eight_dragons.r03	94fde0aa68dcc30a3aaef3e2130d7262
+sxs-eight_dragons.r04	6e59f2278ca68141ecc7817d65ac1957
+sxs-eight_dragons.r05	5f27550cdd5432f93ab7352be82ffb2f
+sxs-eight_dragons.r06	0c1d0f8475df9a46d7c6a8e01c54186c
+sxs-eight_dragons.r07	eec5196395f52b3bdff0b06fb5b71ded
+sxs-eight_dragons.rar	696d412955fa4dd4496f2833e6d22b2b
+sxs-eight_dragons.sfv	f7574d212ad1dc4bd5a57c0e2a9eb648

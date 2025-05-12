@@ -1,0 +1,5 @@
+v-regions_of_ruin_v65536.nfo	42d3b8d72655945cead857f9bc457daa
+v-regions_of_ruin_v65536.r00	70db7655ba9b8a15c4b52582de6ec0fd
+v-regions_of_ruin_v65536.r01	40c55e32deb1ed20564b6323e149dd73
+v-regions_of_ruin_v65536.rar	9356c116aff15e9a4376930d1dba7008
+v-regions_of_ruin_v65536.sfv	a7047303246963476e2e02f2853e3a0e

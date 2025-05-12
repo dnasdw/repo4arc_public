@@ -1,0 +1,3 @@
+sxs-forager_v65536.nfo	5c384fec34585479a4d0c4fd979c6cd3
+sxs-forager_v65536.rar	0b512f7e3cea5db15434be52cab6543a
+sxs-forager_v65536.sfv	42f8f718c45dd913c1d82e8cc3d50cb3

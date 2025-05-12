@@ -1,0 +1,9 @@
+sxs-under_leaves.nfo	-	6758	1	0	0	0
+sxs-under_leaves.r00	-	50000000	1	6758	0	1
+sxs-under_leaves.r01	-	50000000	1	50006758	0	49
+sxs-under_leaves.r02	-	50000000	1	100006758	0	97
+sxs-under_leaves.r03	-	50000000	1	150006758	0	145
+sxs-under_leaves.r04	-	50000000	1	200006758	0	193
+sxs-under_leaves.r05	-	32464036	1	250006758	0	241
+sxs-under_leaves.rar	-	50000000	1	282470794	0	272
+sxs-under_leaves.sfv	-	217	1	332470794	0	320

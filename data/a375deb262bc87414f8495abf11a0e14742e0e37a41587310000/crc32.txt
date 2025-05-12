@@ -1,0 +1,11 @@
+sxs-beasties_v131072.nfo	1f36659f
+sxs-beasties_v131072.r00	ed12a4e6
+sxs-beasties_v131072.r01	613d0b97
+sxs-beasties_v131072.r02	c2eafe02
+sxs-beasties_v131072.r03	77d8a4cb
+sxs-beasties_v131072.r04	a73a0686
+sxs-beasties_v131072.r05	312cd3b4
+sxs-beasties_v131072.r06	49772cf9
+sxs-beasties_v131072.r07	013d4885
+sxs-beasties_v131072.rar	cc1d691d
+sxs-beasties_v131072.sfv	39bde90c

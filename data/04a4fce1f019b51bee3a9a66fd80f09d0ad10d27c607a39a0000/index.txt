@@ -1,0 +1,3 @@
+sxs-dead_cells_bad_seed_dlc.nfo	-	9332	1	0	0	0
+sxs-dead_cells_bad_seed_dlc.rar	-	104084	1	9332	0	1
+sxs-dead_cells_bad_seed_dlc.sfv	-	42	1	113416	0	2

@@ -1,0 +1,7 @@
+v-megaquarium_v131072.nfo	f1bebd9bcf17034bdd1bf39e0ad729ff
+v-megaquarium_v131072.r00	ebbe8a093b2763819b9af296c2fb8af4
+v-megaquarium_v131072.r01	7d2b7e57c449a9908febed4390b61e8d
+v-megaquarium_v131072.r02	a545d24e852a0354b1d530fcc939b2f7
+v-megaquarium_v131072.r03	5356a65afe3bbb81ea6d4f9b58a04bbd
+v-megaquarium_v131072.rar	f612e246271c720eda22507e59e8f5bb
+v-megaquarium_v131072.sfv	09fcf8a64868e1d5f123f3b0200673fa

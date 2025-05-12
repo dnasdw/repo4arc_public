@@ -1,0 +1,6 @@
+v-radiant_silvergun_v262144.nfo	-	7618	1	0	0	0
+v-radiant_silvergun_v262144.r00	-	50000000	1	7618	0	1
+v-radiant_silvergun_v262144.r01	-	50000000	1	50007618	0	49
+v-radiant_silvergun_v262144.r02	-	14862597	1	100007618	0	97
+v-radiant_silvergun_v262144.rar	-	50000000	1	114870215	0	112
+v-radiant_silvergun_v262144.sfv	-	168	1	164870215	0	160

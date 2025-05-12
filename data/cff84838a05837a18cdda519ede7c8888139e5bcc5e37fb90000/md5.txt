@@ -1,0 +1,5 @@
+sxs-gigapocalypse_v65536.nfo	5fca0a7844894b1c6b63a9fbf81e515e
+sxs-gigapocalypse_v65536.r00	d8309dedc8a7f6c96b43081e525a77f0
+sxs-gigapocalypse_v65536.r01	65e6ce64d1a661555392940393b62afc
+sxs-gigapocalypse_v65536.rar	237f513395c39c88cebb26dd570bef03
+sxs-gigapocalypse_v65536.sfv	8c4779b640aa440942204a94a3dc8b19

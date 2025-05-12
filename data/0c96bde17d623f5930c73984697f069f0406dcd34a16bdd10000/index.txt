@@ -1,0 +1,3 @@
+sxs-wrc8_dlc.nfo	-	7772	1	0	0	0
+sxs-wrc8_dlc.rar	-	519615	1	7772	0	1
+sxs-wrc8_dlc.sfv	-	27	1	527387	0	2

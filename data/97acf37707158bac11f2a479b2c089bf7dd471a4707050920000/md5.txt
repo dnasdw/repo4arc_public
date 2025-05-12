@@ -1,0 +1,13 @@
+hr-torickys.nfo	cb13b89e787f4bf4769b5e5413905812
+hr-torickys.r00	ef638fd32e3c0cbe19ade4c374f22b2b
+hr-torickys.r01	f3af07ceca2117d7d96c6c4309d9fa85
+hr-torickys.r02	8e067cad9ba964f72428f53f87aeaefe
+hr-torickys.r03	9030fd3676c67d559a2f49d5ebe622bc
+hr-torickys.r04	829aa271679a786fb09e14a5b5ed2eff
+hr-torickys.r05	204358fcba66e07a7a5ec2da3556edb5
+hr-torickys.r06	5c3fef1726a3bb1c9e12bce92bbabbc5
+hr-torickys.r07	a2c596733e2e45c461ebe9101c36bfb2
+hr-torickys.r08	2c96d8f6f068f93ccb437e40b0a88cc3
+hr-torickys.r09	369fc5e15f60c8f4061d4148cde79589
+hr-torickys.rar	ce07523dac5cd666f4fd8cb6ecbe2574
+hr-torickys.sfv	51b3b19982f02f69cbc7749bce4bf1fa

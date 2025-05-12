@@ -1,0 +1,4 @@
+sxs-faircrofts_antiques_treasures_of_treffenburg_collectors_edition_v131072.nfo	-	5276	1	0	0	0
+sxs-faircrofts_antiques_treasures_of_treffenburg_collectors_edition_v131072.r00	-	13447802	1	5276	0	1
+sxs-faircrofts_antiques_treasures_of_treffenburg_collectors_edition_v131072.rar	-	50000000	1	13453078	0	14
+sxs-faircrofts_antiques_treasures_of_treffenburg_collectors_edition_v131072.sfv	-	180	1	63453078	0	62

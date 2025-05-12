@@ -1,0 +1,6 @@
+lfc-megamallstory.nfo	-	3949	1	0	0	0
+lfc-megamallstory.r00	-	50000000	1	3949	0	1
+lfc-megamallstory.r01	-	50000000	1	50003949	0	49
+lfc-megamallstory.r02	-	46295826	1	100003949	0	97
+lfc-megamallstory.rar	-	50000000	1	146299775	0	142
+lfc-megamallstory.sfv	-	128	1	196299775	0	190

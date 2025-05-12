@@ -1,0 +1,4 @@
+v-doom_ii_v458752_dlc.nfo	5bcebe9b
+v-doom_ii_v458752_dlc.r00	660de202
+v-doom_ii_v458752_dlc.rar	0acbe110
+v-doom_ii_v458752_dlc.sfv	164cc17b

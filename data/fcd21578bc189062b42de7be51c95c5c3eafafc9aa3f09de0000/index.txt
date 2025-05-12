@@ -1,0 +1,6 @@
+sxs-a_little_golf_journey_v131072.nfo	-	6914	1	0	0	0
+sxs-a_little_golf_journey_v131072.r00	-	100000000	1	6914	0	1
+sxs-a_little_golf_journey_v131072.r01	-	100000000	1	100006914	0	97
+sxs-a_little_golf_journey_v131072.r02	-	96217893	1	200006914	0	193
+sxs-a_little_golf_journey_v131072.rar	-	100000000	1	296224807	0	285
+sxs-a_little_golf_journey_v131072.sfv	-	192	1	396224807	0	381

@@ -1,0 +1,12 @@
+sxs-pixeljunk_monsters2_v196608.nfo	-	6681	1	0	0	0
+sxs-pixeljunk_monsters2_v196608.r00	-	50000000	1	6681	0	1
+sxs-pixeljunk_monsters2_v196608.r01	-	50000000	1	50006681	0	49
+sxs-pixeljunk_monsters2_v196608.r02	-	50000000	1	100006681	0	97
+sxs-pixeljunk_monsters2_v196608.r03	-	50000000	1	150006681	0	145
+sxs-pixeljunk_monsters2_v196608.r04	-	50000000	1	200006681	0	193
+sxs-pixeljunk_monsters2_v196608.r05	-	50000000	1	250006681	0	241
+sxs-pixeljunk_monsters2_v196608.r06	-	50000000	1	300006681	0	289
+sxs-pixeljunk_monsters2_v196608.r07	-	50000000	1	350006681	0	337
+sxs-pixeljunk_monsters2_v196608.r08	-	28661062	1	400006681	0	385
+sxs-pixeljunk_monsters2_v196608.rar	-	50000000	1	428667743	0	413
+sxs-pixeljunk_monsters2_v196608.sfv	-	460	1	478667743	0	461

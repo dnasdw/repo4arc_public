@@ -1,0 +1,14 @@
+v-call_of_cthulhu_v196608.nfo	ac54064b
+v-call_of_cthulhu_v196608.r00	d043233f
+v-call_of_cthulhu_v196608.r01	a52db540
+v-call_of_cthulhu_v196608.r02	ebca17bd
+v-call_of_cthulhu_v196608.r03	54810c27
+v-call_of_cthulhu_v196608.r04	42c1a24d
+v-call_of_cthulhu_v196608.r05	f0d5d2fa
+v-call_of_cthulhu_v196608.r06	42f574fc
+v-call_of_cthulhu_v196608.r07	191bd780
+v-call_of_cthulhu_v196608.r08	a5b4a3b4
+v-call_of_cthulhu_v196608.r09	8caeea71
+v-call_of_cthulhu_v196608.r10	da8a79f8
+v-call_of_cthulhu_v196608.rar	c5536651
+v-call_of_cthulhu_v196608.sfv	d64a3da0

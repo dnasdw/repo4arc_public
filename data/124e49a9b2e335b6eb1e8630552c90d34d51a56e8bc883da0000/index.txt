@@ -1,0 +1,14 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-cogen_sword_of_rewind.jpg	-	132375	1	0	0	0
+sxs-cogen_sword_of_rewind.nfo	-	5666	1	132375	0	1
+sxs-cogen_sword_of_rewind.r00	-	100000000	1	138041	0	2
+sxs-cogen_sword_of_rewind.r01	-	100000000	1	100138041	0	98
+sxs-cogen_sword_of_rewind.r02	-	100000000	1	200138041	0	194
+sxs-cogen_sword_of_rewind.r03	-	100000000	1	300138041	0	290
+sxs-cogen_sword_of_rewind.r04	-	100000000	1	400138041	0	386
+sxs-cogen_sword_of_rewind.r05	-	100000000	1	500138041	0	482
+sxs-cogen_sword_of_rewind.r06	-	100000000	1	62251264	1	60
+sxs-cogen_sword_of_rewind.r07	-	100000000	1	162251264	1	156
+sxs-cogen_sword_of_rewind.r08	-	37377811	1	262251264	1	252
+sxs-cogen_sword_of_rewind.rar	-	100000000	1	299629075	1	288
+sxs-cogen_sword_of_rewind.sfv	-	400	1	399629075	1	384

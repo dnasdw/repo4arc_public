@@ -1,0 +1,17 @@
+sxs-calico_v720896.nfo	4a3fb4ee
+sxs-calico_v720896.r00	7a5fdf76
+sxs-calico_v720896.r01	49bfe163
+sxs-calico_v720896.r02	f5c589d5
+sxs-calico_v720896.r03	5a1a74e2
+sxs-calico_v720896.r04	69633ce5
+sxs-calico_v720896.r05	ba8108a4
+sxs-calico_v720896.r06	8d845830
+sxs-calico_v720896.r07	f782087f
+sxs-calico_v720896.r08	3cc30db4
+sxs-calico_v720896.r09	37b2e10e
+sxs-calico_v720896.r10	7302f837
+sxs-calico_v720896.r11	701694d0
+sxs-calico_v720896.r12	5d2b118c
+sxs-calico_v720896.r13	c3c497ca
+sxs-calico_v720896.rar	b34a1c84
+sxs-calico_v720896.sfv	4ef7ce6c

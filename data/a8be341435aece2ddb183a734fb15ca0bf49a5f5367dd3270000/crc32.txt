@@ -1,0 +1,11 @@
+v-kamenc_v196608.nfo	5e06bd8d
+v-kamenc_v196608.r00	88ba34e0
+v-kamenc_v196608.r01	9762742d
+v-kamenc_v196608.r02	b7b6203e
+v-kamenc_v196608.r03	5d28e7af
+v-kamenc_v196608.r04	00908e92
+v-kamenc_v196608.r05	3b152535
+v-kamenc_v196608.r06	5f4f159d
+v-kamenc_v196608.r07	162d349e
+v-kamenc_v196608.rar	b3b5013f
+v-kamenc_v196608.sfv	4876097d

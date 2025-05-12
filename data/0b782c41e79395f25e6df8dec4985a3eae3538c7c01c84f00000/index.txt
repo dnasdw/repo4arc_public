@@ -1,0 +1,4 @@
+ycn-picontier.nfo	-	2385	1	0	0	0
+ycn-picontier.r00	-	47232903	1	2385	0	1
+ycn-picontier.rar	-	50000000	1	47235288	0	47
+ycn-picontier.sfv	-	56	1	97235288	0	95

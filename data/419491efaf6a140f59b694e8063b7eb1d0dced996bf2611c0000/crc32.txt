@@ -1,0 +1,8 @@
+sxs-dirt_trackin_sprint_cars_v131072.nfo	de1efd8c
+sxs-dirt_trackin_sprint_cars_v131072.r00	1cd79c21
+sxs-dirt_trackin_sprint_cars_v131072.r01	b4155492
+sxs-dirt_trackin_sprint_cars_v131072.r02	d310f1c7
+sxs-dirt_trackin_sprint_cars_v131072.r03	79ddcd8e
+sxs-dirt_trackin_sprint_cars_v131072.r04	bfa49eb9
+sxs-dirt_trackin_sprint_cars_v131072.rar	e62cd450
+sxs-dirt_trackin_sprint_cars_v131072.sfv	d7af1834

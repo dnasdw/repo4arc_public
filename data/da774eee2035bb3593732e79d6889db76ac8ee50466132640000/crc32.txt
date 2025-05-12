@@ -1,0 +1,10 @@
+v-astroneer_v917504.nfo	d1c2e73a
+v-astroneer_v917504.r00	de6ba620
+v-astroneer_v917504.r01	888333bf
+v-astroneer_v917504.r02	895866c2
+v-astroneer_v917504.r03	b244a5c6
+v-astroneer_v917504.r04	67ad3579
+v-astroneer_v917504.r05	73c041c5
+v-astroneer_v917504.r06	1f4517dd
+v-astroneer_v917504.rar	20c71ea7
+v-astroneer_v917504.sfv	0019d08b

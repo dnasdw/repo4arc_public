@@ -1,0 +1,6 @@
+sxs-tetris_effect_connected_v131072.nfo	5a4ae974
+sxs-tetris_effect_connected_v131072.r00	dc905434
+sxs-tetris_effect_connected_v131072.r01	dbb452dc
+sxs-tetris_effect_connected_v131072.r02	dcd55eb4
+sxs-tetris_effect_connected_v131072.rar	6719b797
+sxs-tetris_effect_connected_v131072.sfv	17b4805f

@@ -1,0 +1,3 @@
+v-doom_1993_earthless_dlc.nfo	-	8086	1	0	0	0
+v-doom_1993_earthless_dlc.rar	-	9884347	1	8086	0	1
+v-doom_1993_earthless_dlc.sfv	-	40	1	9892433	0	11

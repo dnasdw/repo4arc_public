@@ -1,0 +1,3 @@
+sxs-death_end_re_quest_v65536.nfo	c35e937cfce1a93034a92d83aa7f5a2936a248d8
+sxs-death_end_re_quest_v65536.rar	3007f3a6f43244da510458b699238963fdebf5fe
+sxs-death_end_re_quest_v65536.sfv	f0bc4638fd3354ae437790c832497827f904f43f

@@ -1,0 +1,8 @@
+bbb-n-aplwa.nfo	-	5517	1	0	0	0
+bbb-n-aplwa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aplwa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-aplwa.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-aplwa.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-aplwa.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-aplwa.part6.rar	-	18112275	1	174502528	2	167
+bbb-n-aplwa.sfv	-	192	1	192614803	2	185

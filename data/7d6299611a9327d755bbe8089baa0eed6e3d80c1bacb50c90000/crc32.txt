@@ -1,0 +1,5 @@
+sxs-cronostase_electric_collection.nfo	c694d73e
+sxs-cronostase_electric_collection.r00	a1faa49d
+sxs-cronostase_electric_collection.r01	4323d379
+sxs-cronostase_electric_collection.rar	824a60a4
+sxs-cronostase_electric_collection.sfv	96ac2e1c

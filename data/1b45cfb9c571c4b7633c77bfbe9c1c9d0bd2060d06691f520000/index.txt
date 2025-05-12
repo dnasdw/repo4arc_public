@@ -1,0 +1,11 @@
+sxs-real_farm_premium_edition_v131072.nfo	-	5199	1	0	0	0
+sxs-real_farm_premium_edition_v131072.r00	-	50000000	1	5199	0	1
+sxs-real_farm_premium_edition_v131072.r01	-	50000000	1	50005199	0	49
+sxs-real_farm_premium_edition_v131072.r02	-	50000000	1	100005199	0	97
+sxs-real_farm_premium_edition_v131072.r03	-	50000000	1	150005199	0	145
+sxs-real_farm_premium_edition_v131072.r04	-	50000000	1	200005199	0	193
+sxs-real_farm_premium_edition_v131072.r05	-	50000000	1	250005199	0	241
+sxs-real_farm_premium_edition_v131072.r06	-	50000000	1	300005199	0	289
+sxs-real_farm_premium_edition_v131072.r07	-	27775813	1	350005199	0	337
+sxs-real_farm_premium_edition_v131072.rar	-	50000000	1	377781012	0	364
+sxs-real_farm_premium_edition_v131072.sfv	-	468	1	427781012	0	412

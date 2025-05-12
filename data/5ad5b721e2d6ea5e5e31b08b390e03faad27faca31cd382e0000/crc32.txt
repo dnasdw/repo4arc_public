@@ -1,0 +1,9 @@
+sxs-a_pretty_odd_bunny.nfo	e70664a0
+sxs-a_pretty_odd_bunny.r00	d6cb63ca
+sxs-a_pretty_odd_bunny.r01	8db397ca
+sxs-a_pretty_odd_bunny.r02	58e6deda
+sxs-a_pretty_odd_bunny.r03	e16f0813
+sxs-a_pretty_odd_bunny.r04	374c6d3b
+sxs-a_pretty_odd_bunny.r05	81b315f4
+sxs-a_pretty_odd_bunny.rar	4daf514a
+sxs-a_pretty_odd_bunny.sfv	e6ad7f03

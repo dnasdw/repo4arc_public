@@ -1,0 +1,10 @@
+sxs-driving_world_nordic_challenge.nfo	ef8e8bf8
+sxs-driving_world_nordic_challenge.r00	f4dd2316
+sxs-driving_world_nordic_challenge.r01	b927cce8
+sxs-driving_world_nordic_challenge.r02	212ad405
+sxs-driving_world_nordic_challenge.r03	42827c56
+sxs-driving_world_nordic_challenge.r04	e2970ab5
+sxs-driving_world_nordic_challenge.r05	b43598b2
+sxs-driving_world_nordic_challenge.r06	e4761e2f
+sxs-driving_world_nordic_challenge.rar	0f0a7050
+sxs-driving_world_nordic_challenge.sfv	9598f2b3

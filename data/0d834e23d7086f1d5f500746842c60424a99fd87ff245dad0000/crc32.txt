@@ -1,0 +1,8 @@
+sxs-trine_5_a_clockwork_conspiracy_v196608.nfo	645b45f6
+sxs-trine_5_a_clockwork_conspiracy_v196608.r00	5c99fc86
+sxs-trine_5_a_clockwork_conspiracy_v196608.r01	6bbde2a0
+sxs-trine_5_a_clockwork_conspiracy_v196608.r02	60386ac0
+sxs-trine_5_a_clockwork_conspiracy_v196608.r03	b5d899c0
+sxs-trine_5_a_clockwork_conspiracy_v196608.r04	c0230c4d
+sxs-trine_5_a_clockwork_conspiracy_v196608.rar	86e2ed41
+sxs-trine_5_a_clockwork_conspiracy_v196608.sfv	e5667d0c

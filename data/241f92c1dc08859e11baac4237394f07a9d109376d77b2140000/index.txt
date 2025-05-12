@@ -1,0 +1,5 @@
+sxs-color_zen.nfo	-	4964	1	0	0	0
+sxs-color_zen.r00	-	50000000	1	4964	0	1
+sxs-color_zen.r01	-	15856132	1	50004964	0	49
+sxs-color_zen.rar	-	50000000	1	65861096	0	65
+sxs-color_zen.sfv	-	84	1	115861096	0	113

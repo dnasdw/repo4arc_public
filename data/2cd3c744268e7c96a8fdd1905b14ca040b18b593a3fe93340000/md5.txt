@@ -1,0 +1,6 @@
+v-carebotz_v131072.nfo	414c163a9aef3b62e38bfd7ac09587bf
+v-carebotz_v131072.r00	a0892a96f92030c980a5caa6ba1280d5
+v-carebotz_v131072.r01	41e727eba1f509faac3beabb11e04963
+v-carebotz_v131072.r02	d8f8b20af5795780b1d20b1ada1f40c4
+v-carebotz_v131072.rar	6d8ae8ec13f8bc0d34fd92bbc7e3127a
+v-carebotz_v131072.sfv	7321f7b5ef77de20c8a661c98057d1f9

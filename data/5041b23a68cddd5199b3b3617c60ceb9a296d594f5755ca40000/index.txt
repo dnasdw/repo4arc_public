@@ -1,0 +1,3 @@
+sxs-gbajp_v196608.nfo	-	5822	1	0	0	0
+sxs-gbajp_v196608.rar	-	98124527	1	5822	0	1
+sxs-gbajp_v196608.sfv	-	32	1	98130349	0	95

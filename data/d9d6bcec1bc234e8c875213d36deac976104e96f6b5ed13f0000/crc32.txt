@@ -1,0 +1,16 @@
+sxs-good_pizza_great_pizza.nfo	7480fee9
+sxs-good_pizza_great_pizza.r00	feb5df7d
+sxs-good_pizza_great_pizza.r01	5c57c485
+sxs-good_pizza_great_pizza.r02	925a44ad
+sxs-good_pizza_great_pizza.r03	28fd63b2
+sxs-good_pizza_great_pizza.r04	0ee96abe
+sxs-good_pizza_great_pizza.r05	f68b9521
+sxs-good_pizza_great_pizza.r06	a3f645d9
+sxs-good_pizza_great_pizza.r07	43e3f673
+sxs-good_pizza_great_pizza.r08	7918cbae
+sxs-good_pizza_great_pizza.r09	0a1737b5
+sxs-good_pizza_great_pizza.r10	91e67304
+sxs-good_pizza_great_pizza.r11	fa64043a
+sxs-good_pizza_great_pizza.r12	2b4cb9b5
+sxs-good_pizza_great_pizza.rar	4eabb74f
+sxs-good_pizza_great_pizza.sfv	6a969ce8

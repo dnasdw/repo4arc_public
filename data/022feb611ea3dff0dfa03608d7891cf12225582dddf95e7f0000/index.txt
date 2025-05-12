@@ -1,0 +1,3 @@
+v-alan_wake_remastered_v65536.nfo	-	5044	1	0	0	0
+v-alan_wake_remastered_v65536.rar	-	47814714	1	5044	0	1
+v-alan_wake_remastered_v65536.sfv	-	44	1	47819758	0	47

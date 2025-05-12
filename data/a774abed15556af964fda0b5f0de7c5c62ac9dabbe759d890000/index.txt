@@ -1,0 +1,3 @@
+bbb-n-apcpa.nfo	-	5517	1	0	0	0
+bbb-n-apcpa.rar	-	241836909	1	5517	0	1
+bbb-n-apcpa.sfv	-	26	1	241842426	0	232

@@ -1,0 +1,4 @@
+sxs-we_should_talk_v65536.nfo	c063ede7a60b7789071a01c1a787f5829d5af40a
+sxs-we_should_talk_v65536.r00	b03ea785a5d8198d8837764c12ca297976985fc1
+sxs-we_should_talk_v65536.rar	75a4717b18d212baed78b2e498fea3eb67ce10a0
+sxs-we_should_talk_v65536.sfv	94665f4477b504ee76ed6fbbf608f813cd4b0202

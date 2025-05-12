@@ -1,0 +1,8 @@
+lfc-eceg_v262144.nfo	896d69a3
+lfc-eceg_v262144.r00	63a9ff45
+lfc-eceg_v262144.r01	8bd1d652
+lfc-eceg_v262144.r02	25b5188c
+lfc-eceg_v262144.r03	a346cb83
+lfc-eceg_v262144.r04	d4f09612
+lfc-eceg_v262144.rar	e5d4b712
+lfc-eceg_v262144.sfv	4f16d42f

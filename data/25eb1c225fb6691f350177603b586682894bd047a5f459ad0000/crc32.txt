@@ -1,0 +1,12 @@
+sxs-even_the_ocean.nfo	14d109e9
+sxs-even_the_ocean.r00	d5811c0a
+sxs-even_the_ocean.r01	c26c5482
+sxs-even_the_ocean.r02	4177f7a9
+sxs-even_the_ocean.r03	0dd49cd2
+sxs-even_the_ocean.r04	db0b0efd
+sxs-even_the_ocean.r05	51553209
+sxs-even_the_ocean.r06	973f42cd
+sxs-even_the_ocean.r07	b8386f7c
+sxs-even_the_ocean.r08	883e41bc
+sxs-even_the_ocean.rar	251340be
+sxs-even_the_ocean.sfv	28ca7e47

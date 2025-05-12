@@ -1,0 +1,5 @@
+sxs-dungeon_and_gravestone_v589824.nfo	4130f531
+sxs-dungeon_and_gravestone_v589824.r00	0263f317
+sxs-dungeon_and_gravestone_v589824.r01	70f19a78
+sxs-dungeon_and_gravestone_v589824.rar	f3faeb90
+sxs-dungeon_and_gravestone_v589824.sfv	cee2b4cd

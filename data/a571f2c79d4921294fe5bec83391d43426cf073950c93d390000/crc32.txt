@@ -1,0 +1,6 @@
+v-dreadout_2_v262144.nfo	93063681
+v-dreadout_2_v262144.r00	67bfd25b
+v-dreadout_2_v262144.r01	b25ab02e
+v-dreadout_2_v262144.r02	1b57ecc8
+v-dreadout_2_v262144.rar	c7ea7996
+v-dreadout_2_v262144.sfv	500d79ca

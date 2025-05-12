@@ -1,0 +1,6 @@
+bbb-n-acpga.nfo	b43ae99f100aa135c65937fed19ae57e
+bbb-n-acpga.part1.rar	03808a75cfde3fb891eb81ab07b56f32
+bbb-n-acpga.part2.rar	13a316c57641ff4af3caf931cc119121
+bbb-n-acpga.part3.rar	4b48b5e5871de9c4cfe6b9d5ed783a27
+bbb-n-acpga.part4.rar	2fbdc81b912ee43c786f1d59df1c1d90
+bbb-n-acpga.sfv	3ebb7935fd6782d7856ae329af0ee6a5

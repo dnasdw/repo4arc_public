@@ -1,0 +1,3 @@
+sxs-distraint_2_v65536.nfo	-	5198	1	0	0	0
+sxs-distraint_2_v65536.rar	-	20306472	1	5198	0	1
+sxs-distraint_2_v65536.sfv	-	37	1	20311670	0	21

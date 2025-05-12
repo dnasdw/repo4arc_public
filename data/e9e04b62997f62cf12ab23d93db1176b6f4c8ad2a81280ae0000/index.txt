@@ -1,0 +1,3 @@
+v-gunlord_x_v65536.nfo	-	8555	1	0	0	0
+v-gunlord_x_v65536.rar	-	13032973	1	8555	0	1
+v-gunlord_x_v65536.sfv	-	33	1	13041528	0	14

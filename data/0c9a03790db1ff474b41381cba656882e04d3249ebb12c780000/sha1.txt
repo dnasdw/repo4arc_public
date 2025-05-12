@@ -1,0 +1,6 @@
+v-tanuki_sunset.nfo	0fb9b309ace0154f6ce35065569938ab2073597a
+v-tanuki_sunset.r00	571f177a0ac7962f4603471b963c8456ba9dc9b9
+v-tanuki_sunset.r01	213ff297785dfb80fdb573a70567b08d4b2bd2f6
+v-tanuki_sunset.r02	5ed351781b059c317da3a7caba51c82c59afbc91
+v-tanuki_sunset.rar	47a3ce7d31694fe149c3e22d1185fa02a015ebec
+v-tanuki_sunset.sfv	512c2954e76a27ad1a5c9f6b363c948602da3bcc

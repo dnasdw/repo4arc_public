@@ -1,0 +1,3 @@
+sxs-x_morph_defense_v65536.nfo	-	9098	1	0	0	0
+sxs-x_morph_defense_v65536.rar	-	19656199	1	9098	0	1
+sxs-x_morph_defense_v65536.sfv	-	41	1	19665297	0	20

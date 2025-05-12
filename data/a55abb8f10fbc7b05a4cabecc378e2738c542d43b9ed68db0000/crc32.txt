@@ -1,0 +1,14 @@
+v-golem_gates_v196608.nfo	ba422bdc
+v-golem_gates_v196608.r00	0448811b
+v-golem_gates_v196608.r01	365e5e9a
+v-golem_gates_v196608.r02	0f31fa54
+v-golem_gates_v196608.r03	7e743356
+v-golem_gates_v196608.r04	96d1d70a
+v-golem_gates_v196608.r05	9781c033
+v-golem_gates_v196608.r06	91d1088b
+v-golem_gates_v196608.r07	54557c9e
+v-golem_gates_v196608.r08	9608ba37
+v-golem_gates_v196608.r09	9ac6b346
+v-golem_gates_v196608.r10	46fcbb76
+v-golem_gates_v196608.rar	97fd00d6
+v-golem_gates_v196608.sfv	201c61ef

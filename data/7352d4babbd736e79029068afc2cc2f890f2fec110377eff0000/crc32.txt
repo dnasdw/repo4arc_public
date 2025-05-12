@@ -1,0 +1,13 @@
+sxs-skatebird_v393216.nfo	bbc121a6
+sxs-skatebird_v393216.r00	41a48497
+sxs-skatebird_v393216.r01	7a4f3546
+sxs-skatebird_v393216.r02	e13fae56
+sxs-skatebird_v393216.r03	9853ca2b
+sxs-skatebird_v393216.r04	08f971a7
+sxs-skatebird_v393216.r05	1b7e28c4
+sxs-skatebird_v393216.r06	e918800a
+sxs-skatebird_v393216.r07	385cb707
+sxs-skatebird_v393216.r08	fb5fe5a7
+sxs-skatebird_v393216.r09	3a7fd874
+sxs-skatebird_v393216.rar	ff180cf5
+sxs-skatebird_v393216.sfv	e83792ca

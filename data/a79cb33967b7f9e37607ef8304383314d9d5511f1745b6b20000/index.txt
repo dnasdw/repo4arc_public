@@ -1,0 +1,5 @@
+v-the_wonderful_101_remastered_the_wonderful_one_after_school_hero_part_2_dlc.nfo	-	11206	1	0	0	0
+v-the_wonderful_101_remastered_the_wonderful_one_after_school_hero_part_2_dlc.r00	-	100000000	1	11206	0	1
+v-the_wonderful_101_remastered_the_wonderful_one_after_school_hero_part_2_dlc.r01	-	2645013	1	100011206	0	97
+v-the_wonderful_101_remastered_the_wonderful_one_after_school_hero_part_2_dlc.rar	-	100000000	1	102656219	0	100
+v-the_wonderful_101_remastered_the_wonderful_one_after_school_hero_part_2_dlc.sfv	-	276	1	202656219	0	196

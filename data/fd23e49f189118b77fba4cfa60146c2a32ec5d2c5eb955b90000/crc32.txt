@@ -1,0 +1,6 @@
+lfc-cdbr_v65536.nfo	a07b23a1
+lfc-cdbr_v65536.r00	5c4f50ad
+lfc-cdbr_v65536.r01	19ac681c
+lfc-cdbr_v65536.r02	72654966
+lfc-cdbr_v65536.rar	8e4a474e
+lfc-cdbr_v65536.sfv	60d2f571

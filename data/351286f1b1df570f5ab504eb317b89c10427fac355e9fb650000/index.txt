@@ -1,0 +1,7 @@
+v-the_legend_of_heroes_trails_from_zero_v262144.nfo	-	4186	1	0	0	0
+v-the_legend_of_heroes_trails_from_zero_v262144.r00	-	100000000	1	4186	0	1
+v-the_legend_of_heroes_trails_from_zero_v262144.r01	-	100000000	1	100004186	0	97
+v-the_legend_of_heroes_trails_from_zero_v262144.r02	-	100000000	1	200004186	0	193
+v-the_legend_of_heroes_trails_from_zero_v262144.r03	-	38290379	1	300004186	0	289
+v-the_legend_of_heroes_trails_from_zero_v262144.rar	-	100000000	1	338294565	0	326
+v-the_legend_of_heroes_trails_from_zero_v262144.sfv	-	310	1	438294565	0	422

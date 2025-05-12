@@ -1,0 +1,14 @@
+sxs-odium_to_the_core.nfo	28e52aa0
+sxs-odium_to_the_core.r00	386b7aed
+sxs-odium_to_the_core.r01	85849c4c
+sxs-odium_to_the_core.r02	73fb3327
+sxs-odium_to_the_core.r03	05529c7e
+sxs-odium_to_the_core.r04	c03e54a6
+sxs-odium_to_the_core.r05	cd2ba75a
+sxs-odium_to_the_core.r06	d72870a0
+sxs-odium_to_the_core.r07	da332dcc
+sxs-odium_to_the_core.r08	5020bdae
+sxs-odium_to_the_core.r09	911fd9bf
+sxs-odium_to_the_core.r10	9af48693
+sxs-odium_to_the_core.rar	b958d14c
+sxs-odium_to_the_core.sfv	47e13168

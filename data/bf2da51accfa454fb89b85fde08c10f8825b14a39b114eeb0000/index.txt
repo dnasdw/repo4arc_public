@@ -1,0 +1,10 @@
+sxs-unhatched.nfo	-	4418	1	0	0	0
+sxs-unhatched.r00	-	50000000	1	4418	0	1
+sxs-unhatched.r01	-	50000000	1	50004418	0	49
+sxs-unhatched.r02	-	50000000	1	100004418	0	97
+sxs-unhatched.r03	-	50000000	1	150004418	0	145
+sxs-unhatched.r04	-	50000000	1	200004418	0	193
+sxs-unhatched.r05	-	50000000	1	250004418	0	241
+sxs-unhatched.r06	-	18894745	1	300004418	0	289
+sxs-unhatched.rar	-	50000000	1	318899163	0	308
+sxs-unhatched.sfv	-	224	1	368899163	0	356

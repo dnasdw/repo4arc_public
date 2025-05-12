@@ -1,0 +1,12 @@
+sxs-even_the_ocean.nfo	-	5042	1	0	0	0
+sxs-even_the_ocean.r00	-	50000000	1	5042	0	1
+sxs-even_the_ocean.r01	-	50000000	1	50005042	0	49
+sxs-even_the_ocean.r02	-	50000000	1	100005042	0	97
+sxs-even_the_ocean.r03	-	50000000	1	150005042	0	145
+sxs-even_the_ocean.r04	-	50000000	1	200005042	0	193
+sxs-even_the_ocean.r05	-	50000000	1	250005042	0	241
+sxs-even_the_ocean.r06	-	50000000	1	300005042	0	289
+sxs-even_the_ocean.r07	-	50000000	1	350005042	0	337
+sxs-even_the_ocean.r08	-	11139731	1	400005042	0	385
+sxs-even_the_ocean.rar	-	50000000	1	411144773	0	396
+sxs-even_the_ocean.sfv	-	330	1	461144773	0	444

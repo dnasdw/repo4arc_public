@@ -1,0 +1,13 @@
+v-arise_a_simple_story_definitive_edition_v327680.nfo	-	8086	1	0	0	0
+v-arise_a_simple_story_definitive_edition_v327680.r00	-	100000000	1	8086	0	1
+v-arise_a_simple_story_definitive_edition_v327680.r01	-	100000000	1	100008086	0	97
+v-arise_a_simple_story_definitive_edition_v327680.r02	-	100000000	1	200008086	0	193
+v-arise_a_simple_story_definitive_edition_v327680.r03	-	100000000	1	300008086	0	289
+v-arise_a_simple_story_definitive_edition_v327680.r04	-	100000000	1	400008086	0	385
+v-arise_a_simple_story_definitive_edition_v327680.r05	-	100000000	1	500008086	0	481
+v-arise_a_simple_story_definitive_edition_v327680.r06	-	100000000	1	62251264	1	60
+v-arise_a_simple_story_definitive_edition_v327680.r07	-	100000000	1	162251264	1	156
+v-arise_a_simple_story_definitive_edition_v327680.r08	-	100000000	1	262251264	1	252
+v-arise_a_simple_story_definitive_edition_v327680.r09	-	24186455	1	362251264	1	348
+v-arise_a_simple_story_definitive_edition_v327680.rar	-	100000000	1	386437719	1	372
+v-arise_a_simple_story_definitive_edition_v327680.sfv	-	704	1	486437719	1	468

@@ -1,0 +1,9 @@
+sxs-brightstone_mysteries_the_others_v131072.nfo	-	6914	1	0	0	0
+sxs-brightstone_mysteries_the_others_v131072.r00	-	100000000	1	6914	0	1
+sxs-brightstone_mysteries_the_others_v131072.r01	-	100000000	1	100006914	0	97
+sxs-brightstone_mysteries_the_others_v131072.r02	-	100000000	1	200006914	0	193
+sxs-brightstone_mysteries_the_others_v131072.r03	-	100000000	1	300006914	0	289
+sxs-brightstone_mysteries_the_others_v131072.r04	-	100000000	1	400006914	0	385
+sxs-brightstone_mysteries_the_others_v131072.r05	-	37727325	1	500006914	0	481
+sxs-brightstone_mysteries_the_others_v131072.rar	-	100000000	1	0	1	0
+sxs-brightstone_mysteries_the_others_v131072.sfv	-	413	1	100000000	1	96

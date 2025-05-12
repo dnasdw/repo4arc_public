@@ -1,0 +1,14 @@
+ycn-soulvars.nfo	a703385bd084861c50b8c462bc790a67
+ycn-soulvars.r00	561a4f057073d2748c48dc0302def56f
+ycn-soulvars.r01	a2b6cd27df3c5eb2e7d07bbaf77106a7
+ycn-soulvars.r02	f51f1292c0bffe561ca965fac6ed1aed
+ycn-soulvars.r03	b4d91704c7a8567427419c9825daec95
+ycn-soulvars.r04	bfc0702629eec504b8d56a530912fa79
+ycn-soulvars.r05	0bbced4d92c114fe87a4d1dfe11d2028
+ycn-soulvars.r06	ac85f60f9ca8f6fa8c8b3bbdc1caa33b
+ycn-soulvars.r07	855041f76869adbec2f938de7ae0407f
+ycn-soulvars.r08	a8ebe77e0cdc818d0294fa6427251615
+ycn-soulvars.r09	e678a4598e8403cfc9101099d4e7f712
+ycn-soulvars.r10	437c3095a2859037939498431b75eafa
+ycn-soulvars.rar	ac939e35b263e81ec14698f8014f4365
+ycn-soulvars.sfv	9177566644d2b0659387f904087ae844

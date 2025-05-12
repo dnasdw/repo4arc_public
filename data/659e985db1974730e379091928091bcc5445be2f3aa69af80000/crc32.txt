@@ -1,0 +1,15 @@
+hr-a8zeb3v65536.nfo	ebe36872
+hr-a8zeb3v65536.r00	4ae2aff8
+hr-a8zeb3v65536.r01	ab6b88a2
+hr-a8zeb3v65536.r02	3db4db5f
+hr-a8zeb3v65536.r03	00ae235f
+hr-a8zeb3v65536.r04	0017cfe6
+hr-a8zeb3v65536.r05	fb9bc918
+hr-a8zeb3v65536.r06	0120a0f1
+hr-a8zeb3v65536.r07	badb61f4
+hr-a8zeb3v65536.r08	748b983a
+hr-a8zeb3v65536.r09	af77c8fc
+hr-a8zeb3v65536.r10	467b86d5
+hr-a8zeb3v65536.r11	97201206
+hr-a8zeb3v65536.rar	98b51cce
+hr-a8zeb3v65536.sfv	5e0cb595

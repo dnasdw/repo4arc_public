@@ -1,0 +1,4 @@
+sxs-zencc.nfo	71e541406c1d8dd45a41c1d35fc75bb40af600cd
+sxs-zencc.r00	f4ae966b455123efd79892c20f583d0c765782a9
+sxs-zencc.rar	92c63947e1ad0d37fce90ec94ff33f8ef65d4010
+sxs-zencc.sfv	772b1ffb655d8c1c2568ee9fe20de10c9ee59155

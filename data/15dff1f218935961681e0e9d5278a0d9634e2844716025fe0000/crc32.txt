@@ -1,0 +1,13 @@
+sxs-eastward_v327680.nfo	f58534b8
+sxs-eastward_v327680.r00	939fec02
+sxs-eastward_v327680.r01	04766590
+sxs-eastward_v327680.r02	845233c2
+sxs-eastward_v327680.r03	0f2e5943
+sxs-eastward_v327680.r04	966999cc
+sxs-eastward_v327680.r05	59439877
+sxs-eastward_v327680.r06	fbbcc638
+sxs-eastward_v327680.r07	7c61ad9f
+sxs-eastward_v327680.r08	ecd27f8b
+sxs-eastward_v327680.r09	19a1a33b
+sxs-eastward_v327680.rar	e10b9969
+sxs-eastward_v327680.sfv	0eabc368

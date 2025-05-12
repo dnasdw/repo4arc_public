@@ -1,0 +1,10 @@
+sxs-ubermosh_black.nfo	92bf40396e58ab986aa39c6c4a0ef062
+sxs-ubermosh_black.r00	9e69312a258329cb68fcb9d908e95cae
+sxs-ubermosh_black.r01	d9746d0997d0f78abdaf8ef0b77fc159
+sxs-ubermosh_black.r02	f3725fead0d7580e4d6b7fefb057e97a
+sxs-ubermosh_black.r03	426b656fbd8b153c028fcec2cf805371
+sxs-ubermosh_black.r04	e2e0b0d78c26377a0a4d98a6b19f9b6d
+sxs-ubermosh_black.r05	0d8a968bc934c627cf6db6dadbb341b8
+sxs-ubermosh_black.r06	51b99e5862ede65cfb91fd49970a0d12
+sxs-ubermosh_black.rar	bb30fb032009a6667a92a24b3c600fd1
+sxs-ubermosh_black.sfv	f5de45ee43b9a671af2b3e13a994beec

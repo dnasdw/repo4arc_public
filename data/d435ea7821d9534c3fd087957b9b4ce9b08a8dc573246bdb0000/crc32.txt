@@ -1,0 +1,9 @@
+sxs-harvestella_v131072.nfo	30deebec
+sxs-harvestella_v131072.r00	614c0e53
+sxs-harvestella_v131072.r01	9af4982c
+sxs-harvestella_v131072.r02	9b7dc3e9
+sxs-harvestella_v131072.r03	ee30626e
+sxs-harvestella_v131072.r04	579e4083
+sxs-harvestella_v131072.r05	a77047f8
+sxs-harvestella_v131072.rar	2e6791d1
+sxs-harvestella_v131072.sfv	45ec40f7

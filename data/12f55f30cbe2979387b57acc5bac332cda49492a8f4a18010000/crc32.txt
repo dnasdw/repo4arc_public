@@ -1,0 +1,4 @@
+sxs-blossom_tales_the_sleeping_king.nfo	0fce2abd
+sxs-blossom_tales_the_sleeping_king.r00	78c5ea90
+sxs-blossom_tales_the_sleeping_king.rar	7607e2db
+sxs-blossom_tales_the_sleeping_king.sfv	1a1dcab0

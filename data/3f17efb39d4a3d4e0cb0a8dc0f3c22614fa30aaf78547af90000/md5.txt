@@ -1,0 +1,8 @@
+sxs-geometry_survivor.nfo	e5d9bbd881597a908586dc51cf7a01e7
+sxs-geometry_survivor.r00	63e35e0d6bb60081cd2754883f5edde1
+sxs-geometry_survivor.r01	1b26061476dafeb16bca9b5cf733ccdc
+sxs-geometry_survivor.r02	73b8a591e4bd8547a194548288419013
+sxs-geometry_survivor.r03	1c24ea8b48b22b6be5b28cc9a708367a
+sxs-geometry_survivor.r04	883a6133e02de479c445af23892c2f01
+sxs-geometry_survivor.rar	1e2189a917ba7315d369d8315253434c
+sxs-geometry_survivor.sfv	0fd5b27cc381dd0b0bc388163236ead8

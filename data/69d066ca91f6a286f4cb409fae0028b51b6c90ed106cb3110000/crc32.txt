@@ -1,0 +1,5 @@
+v-warhammer_quest_2_the_end_times_v65536.nfo	ea0bb9b9
+v-warhammer_quest_2_the_end_times_v65536.r00	95b5b479
+v-warhammer_quest_2_the_end_times_v65536.r01	bbc50491
+v-warhammer_quest_2_the_end_times_v65536.rar	6b79808d
+v-warhammer_quest_2_the_end_times_v65536.sfv	a05ada9f

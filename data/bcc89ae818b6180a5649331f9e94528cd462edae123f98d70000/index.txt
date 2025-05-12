@@ -1,0 +1,4 @@
+sxs-isoland_2_ashes_of_time_v131072.nfo	-	5744	1	0	0	0
+sxs-isoland_2_ashes_of_time_v131072.r00	-	7633270	1	5744	0	1
+sxs-isoland_2_ashes_of_time_v131072.rar	-	50000000	1	7639014	0	9
+sxs-isoland_2_ashes_of_time_v131072.sfv	-	100	1	57639014	0	57

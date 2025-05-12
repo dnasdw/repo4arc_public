@@ -1,0 +1,12 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-tanuki_justice.jpg	-	151727	1	0	0	0
+sxs-tanuki_justice.nfo	-	4964	1	151727	0	1
+sxs-tanuki_justice.r00	-	50000000	1	156691	0	2
+sxs-tanuki_justice.r01	-	50000000	1	50156691	0	50
+sxs-tanuki_justice.r02	-	50000000	1	100156691	0	98
+sxs-tanuki_justice.r03	-	50000000	1	150156691	0	146
+sxs-tanuki_justice.r04	-	50000000	1	200156691	0	194
+sxs-tanuki_justice.r05	-	50000000	1	250156691	0	242
+sxs-tanuki_justice.r06	-	25946181	1	300156691	0	290
+sxs-tanuki_justice.rar	-	50000000	1	326102872	0	315
+sxs-tanuki_justice.sfv	-	264	1	376102872	0	363

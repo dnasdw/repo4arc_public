@@ -1,0 +1,8 @@
+v-panzer_paladin.nfo	78d44f901dec66ec54fea63b4566b4a6
+v-panzer_paladin.r00	57c25a50d258c3479c0b933ae4a54ff7
+v-panzer_paladin.r01	8a7082d17daf20ca7c672c33e1443c0c
+v-panzer_paladin.r02	d35ddec7a5732c3779334003df6a2e90
+v-panzer_paladin.r03	bd670875ba48841dcce17774bb11fe05
+v-panzer_paladin.r04	209b1ac704927b36d403e75cd045268e
+v-panzer_paladin.rar	0a09c0ce860d171eb357285c045dfc1d
+v-panzer_paladin.sfv	7601ec3002c6198c7de009ef44a61a82

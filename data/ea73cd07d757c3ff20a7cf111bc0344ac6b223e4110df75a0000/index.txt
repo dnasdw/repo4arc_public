@@ -1,0 +1,5 @@
+sxs-singled_out.nfo	-	6134	1	0	0	0
+sxs-singled_out.r00	-	50000000	1	6134	0	1
+sxs-singled_out.r01	-	24272824	1	50006134	0	49
+sxs-singled_out.rar	-	50000000	1	74278958	0	73
+sxs-singled_out.sfv	-	90	1	124278958	0	121

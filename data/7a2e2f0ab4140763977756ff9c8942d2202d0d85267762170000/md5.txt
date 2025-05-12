@@ -1,0 +1,5 @@
+brw-sett.nfo	5b27531b5aa894747fd20092819966fd
+brw-sett.r00	ddc783b30a91caadff52aa74b8020ab7
+brw-sett.r01	a9da30cf71e8ab5dbdc1f49cde85940d
+brw-sett.rar	2ad717f07c8b8534693b0aedf777cd79
+brw-sett.sfv	f7cc17f64ccba224bce4bd37b047e1f5

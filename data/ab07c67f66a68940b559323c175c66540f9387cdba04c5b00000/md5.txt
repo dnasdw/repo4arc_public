@@ -1,0 +1,3 @@
+v-northgard_dragon_dlc.nfo	8d250bda1a9728d177410b7f95795cf7
+v-northgard_dragon_dlc.rar	bc1577ba7a98ee0a4c2a00d41b495133
+v-northgard_dragon_dlc.sfv	1f6fbec214b91cb236e6b1b4a7d681cc

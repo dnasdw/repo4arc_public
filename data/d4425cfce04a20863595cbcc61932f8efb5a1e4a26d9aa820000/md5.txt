@@ -1,0 +1,8 @@
+sxs-wildbus_v393216.nfo	754be0d5250f6b50da88633cea5ef91f
+sxs-wildbus_v393216.r00	9b9b784641aceaeba3bf3d53bb56853a
+sxs-wildbus_v393216.r01	310a06ec70a3c7fdf89461ca9a4d5a50
+sxs-wildbus_v393216.r02	a439af09403cd9f9c2bfa5f303e8ad68
+sxs-wildbus_v393216.r03	e489524d6ed0e87296b3b36e68cbec23
+sxs-wildbus_v393216.r04	23fdf00a9f0d9d1bf1c79daad4d44088
+sxs-wildbus_v393216.rar	d2b3083df39b34e1d8049e4a4aec7f98
+sxs-wildbus_v393216.sfv	bd338e266a094d6d6a9d2640c1d856cd

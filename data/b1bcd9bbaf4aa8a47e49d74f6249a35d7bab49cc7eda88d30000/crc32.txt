@@ -1,0 +1,7 @@
+sxs-n64jp_v851968.nfo	4aabe488
+sxs-n64jp_v851968.r00	fd5f87f1
+sxs-n64jp_v851968.r01	fde7f1e2
+sxs-n64jp_v851968.r02	4b96065e
+sxs-n64jp_v851968.r03	933e0895
+sxs-n64jp_v851968.rar	b4433b45
+sxs-n64jp_v851968.sfv	8d500563

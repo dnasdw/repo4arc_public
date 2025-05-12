@@ -1,0 +1,15 @@
+i-cwrn.nfo	41791f4b
+i-cwrn.r00	80c80e60
+i-cwrn.r01	81315ec0
+i-cwrn.r02	11297f40
+i-cwrn.r03	183634e0
+i-cwrn.r04	70165abd
+i-cwrn.r05	a0ae4bec
+i-cwrn.r06	c3f46d05
+i-cwrn.r07	013c8152
+i-cwrn.r08	51f721af
+i-cwrn.r09	560b3264
+i-cwrn.r10	37575ad9
+i-cwrn.r11	e2b2f19c
+i-cwrn.rar	15f27d29
+i-cwrn.sfv	6a13b26e

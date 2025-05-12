@@ -1,0 +1,11 @@
+v-sonic_origins_v262144.nfo	aaf4f630
+v-sonic_origins_v262144.r00	f270dc17
+v-sonic_origins_v262144.r01	34a397e4
+v-sonic_origins_v262144.r02	3ec0c1d4
+v-sonic_origins_v262144.r03	1480c8bb
+v-sonic_origins_v262144.r04	92df26d3
+v-sonic_origins_v262144.r05	455edf3e
+v-sonic_origins_v262144.r06	34d698c9
+v-sonic_origins_v262144.r07	53841f88
+v-sonic_origins_v262144.rar	d75f94ba
+v-sonic_origins_v262144.sfv	420b89d1

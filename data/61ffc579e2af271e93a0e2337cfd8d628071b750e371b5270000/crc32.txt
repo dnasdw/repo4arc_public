@@ -1,0 +1,12 @@
+sxs-fifa_23_legacy_edition_v131072.nfo	21626085
+sxs-fifa_23_legacy_edition_v131072.r00	6e3b0de5
+sxs-fifa_23_legacy_edition_v131072.r01	d61177ac
+sxs-fifa_23_legacy_edition_v131072.r02	7068b6c5
+sxs-fifa_23_legacy_edition_v131072.r03	4aad4e18
+sxs-fifa_23_legacy_edition_v131072.r04	ebc57dd6
+sxs-fifa_23_legacy_edition_v131072.r05	ad9c8393
+sxs-fifa_23_legacy_edition_v131072.r06	622f7f78
+sxs-fifa_23_legacy_edition_v131072.r07	14458e2e
+sxs-fifa_23_legacy_edition_v131072.r08	f3ced7ed
+sxs-fifa_23_legacy_edition_v131072.rar	9f62d49b
+sxs-fifa_23_legacy_edition_v131072.sfv	2f8ae176

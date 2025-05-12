@@ -1,0 +1,4 @@
+sxs-fifa_20_legacy_edition_v65536.nfo	b460304c
+sxs-fifa_20_legacy_edition_v65536.r00	0698ea1e
+sxs-fifa_20_legacy_edition_v65536.rar	cb169add
+sxs-fifa_20_legacy_edition_v65536.sfv	2bfc2c37

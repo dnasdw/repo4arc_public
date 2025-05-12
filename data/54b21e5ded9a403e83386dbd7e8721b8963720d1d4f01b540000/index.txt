@@ -1,0 +1,7 @@
+v-steamworld_build_v524288.nfo	-	7696	1	0	0	0
+v-steamworld_build_v524288.r00	-	100000000	1	7696	0	1
+v-steamworld_build_v524288.r01	-	100000000	1	100007696	0	97
+v-steamworld_build_v524288.r02	-	100000000	1	200007696	0	193
+v-steamworld_build_v524288.r03	-	15648223	1	300007696	0	289
+v-steamworld_build_v524288.rar	-	100000000	1	315655919	0	304
+v-steamworld_build_v524288.sfv	-	205	1	415655919	0	400

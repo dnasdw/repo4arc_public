@@ -1,0 +1,3 @@
+v-skpb_dlc.nfo	-	5904	1	0	0	0
+v-skpb_dlc.rar	-	415710	1	5904	0	1
+v-skpb_dlc.sfv	-	25	1	421614	0	2

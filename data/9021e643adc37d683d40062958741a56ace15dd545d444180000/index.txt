@@ -1,0 +1,17 @@
+sxs-life_in_willowdale_farm_adventures_v327680.nfo	-	6836	1	0	0	0
+sxs-life_in_willowdale_farm_adventures_v327680.r00	-	100000000	1	6836	0	1
+sxs-life_in_willowdale_farm_adventures_v327680.r01	-	100000000	1	100006836	0	97
+sxs-life_in_willowdale_farm_adventures_v327680.r02	-	100000000	1	200006836	0	193
+sxs-life_in_willowdale_farm_adventures_v327680.r03	-	100000000	1	300006836	0	289
+sxs-life_in_willowdale_farm_adventures_v327680.r04	-	100000000	1	400006836	0	385
+sxs-life_in_willowdale_farm_adventures_v327680.r05	-	100000000	1	500006836	0	481
+sxs-life_in_willowdale_farm_adventures_v327680.r06	-	100000000	1	62251264	1	60
+sxs-life_in_willowdale_farm_adventures_v327680.r07	-	100000000	1	162251264	1	156
+sxs-life_in_willowdale_farm_adventures_v327680.r08	-	100000000	1	262251264	1	252
+sxs-life_in_willowdale_farm_adventures_v327680.r09	-	100000000	1	362251264	1	348
+sxs-life_in_willowdale_farm_adventures_v327680.r10	-	100000000	1	462251264	1	444
+sxs-life_in_willowdale_farm_adventures_v327680.r11	-	100000000	1	24502528	2	24
+sxs-life_in_willowdale_farm_adventures_v327680.r12	-	100000000	1	124502528	2	120
+sxs-life_in_willowdale_farm_adventures_v327680.r13	-	91467473	1	224502528	2	216
+sxs-life_in_willowdale_farm_adventures_v327680.rar	-	100000000	1	315970001	2	304
+sxs-life_in_willowdale_farm_adventures_v327680.sfv	-	915	1	415970001	2	400

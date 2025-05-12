@@ -1,0 +1,3 @@
+sxs-megaton_rainfall_v65536.nfo	7e6ca9c3c0ac21c97330503bb1730d5228113a9b
+sxs-megaton_rainfall_v65536.rar	981de4b6c30fd56e38c532e4f2326a035669ce26
+sxs-megaton_rainfall_v65536.sfv	6f4e741b1e619695a2ff918cfddc83e14550b749

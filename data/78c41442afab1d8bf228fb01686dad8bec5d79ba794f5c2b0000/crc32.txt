@@ -1,0 +1,7 @@
+sxs-blaster_master_zero_v458752.nfo	f74be626
+sxs-blaster_master_zero_v458752.r00	ece24f8c
+sxs-blaster_master_zero_v458752.r01	ca52e04b
+sxs-blaster_master_zero_v458752.r02	81d11787
+sxs-blaster_master_zero_v458752.r03	3efecb54
+sxs-blaster_master_zero_v458752.rar	3d908197
+sxs-blaster_master_zero_v458752.sfv	169a13e7

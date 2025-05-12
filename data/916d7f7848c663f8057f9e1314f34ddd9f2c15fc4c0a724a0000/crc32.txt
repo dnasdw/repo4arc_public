@@ -1,0 +1,4 @@
+lfc-boar.nfo	d7d9683b
+lfc-boar.r00	15be6174
+lfc-boar.rar	82e7f91c
+lfc-boar.sfv	6ca6ac0d

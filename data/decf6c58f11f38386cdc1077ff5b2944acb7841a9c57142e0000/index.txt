@@ -1,0 +1,9 @@
+sxs-fit_my_cat.nfo	-	5510	1	0	0	0
+sxs-fit_my_cat.r00	-	100000000	1	5510	0	1
+sxs-fit_my_cat.r01	-	100000000	1	100005510	0	97
+sxs-fit_my_cat.r02	-	100000000	1	200005510	0	193
+sxs-fit_my_cat.r03	-	100000000	1	300005510	0	289
+sxs-fit_my_cat.r04	-	100000000	1	400005510	0	385
+sxs-fit_my_cat.r05	-	300967	1	500005510	0	481
+sxs-fit_my_cat.rar	-	100000000	1	500306477	0	482
+sxs-fit_my_cat.sfv	-	203	1	63299840	1	61

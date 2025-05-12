@@ -1,0 +1,3 @@
+v-carebotz_v65536.nfo	-	4498	1	0	0	0
+v-carebotz_v65536.rar	-	46470701	1	4498	0	1
+v-carebotz_v65536.sfv	-	32	1	46475199	0	46

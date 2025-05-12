@@ -1,0 +1,8 @@
+sxs-radical_rabbit_stew.nfo	b4473ba2da4f84e00b3eae785c84204f
+sxs-radical_rabbit_stew.r00	b25230fa62f2e9a0292e313ed5c8abf4
+sxs-radical_rabbit_stew.r01	34df6abd9fbbd1201917b0fa98ac9851
+sxs-radical_rabbit_stew.r02	03d237c134d466add3a63fc5add809d0
+sxs-radical_rabbit_stew.r03	4eff60de85d6e072f1c8772fdbdd370b
+sxs-radical_rabbit_stew.r04	acfb478de7b949e7b5eb104fa011d36e
+sxs-radical_rabbit_stew.rar	caeb2e8789ef018240d868197d10999f
+sxs-radical_rabbit_stew.sfv	c278014bdc90bae836e073a41b3c5f7d

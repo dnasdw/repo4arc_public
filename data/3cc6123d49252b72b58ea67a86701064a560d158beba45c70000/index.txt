@@ -1,0 +1,5 @@
+sxs-dont_starve_v262144.nfo	-	4575	1	0	0	0
+sxs-dont_starve_v262144.r00	-	50000000	1	4575	0	1
+sxs-dont_starve_v262144.r01	-	4906997	1	50004575	0	49
+sxs-dont_starve_v262144.rar	-	50000000	1	54911572	0	54
+sxs-dont_starve_v262144.sfv	-	114	1	104911572	0	102

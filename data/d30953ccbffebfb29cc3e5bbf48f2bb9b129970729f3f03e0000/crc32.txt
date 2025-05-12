@@ -1,0 +1,5 @@
+sxs-snes_v655360.nfo	bb024519
+sxs-snes_v655360.r00	1e85da2f
+sxs-snes_v655360.r01	58ec03d7
+sxs-snes_v655360.rar	410c33f6
+sxs-snes_v655360.sfv	507b7296

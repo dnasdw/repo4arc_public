@@ -1,0 +1,6 @@
+sxs-galaxy_squad_v65536.nfo	5e0bd0af631ce772378314fa2d8a5558
+sxs-galaxy_squad_v65536.r00	e92fb82001e02c32a167f50d9f3ea7a1
+sxs-galaxy_squad_v65536.r01	ac59fd93d3936aa9973a0352f6b590e1
+sxs-galaxy_squad_v65536.r02	6aa61544da537584a6f23f90530c0475
+sxs-galaxy_squad_v65536.rar	8fad9071e068580580331941fa60f761
+sxs-galaxy_squad_v65536.sfv	0739388c862d840b4929aaae2d3724f6

@@ -1,0 +1,6 @@
+v-trombone_champ_v393216.nfo	-	4732	1	0	0	0
+v-trombone_champ_v393216.r00	-	100000000	1	4732	0	1
+v-trombone_champ_v393216.r01	-	100000000	1	100004732	0	97
+v-trombone_champ_v393216.r02	-	44643241	1	200004732	0	193
+v-trombone_champ_v393216.rar	-	100000000	1	244647973	0	236
+v-trombone_champ_v393216.sfv	-	156	1	344647973	0	332

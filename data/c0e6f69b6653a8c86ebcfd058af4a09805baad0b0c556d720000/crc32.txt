@@ -1,0 +1,10 @@
+hr-bagnav65536.nfo	49912b53
+hr-bagnav65536.r00	e9ea080c
+hr-bagnav65536.r01	5953dcc5
+hr-bagnav65536.r02	a9f8faac
+hr-bagnav65536.r03	c6f338c8
+hr-bagnav65536.r04	7094caea
+hr-bagnav65536.r05	8d531e25
+hr-bagnav65536.r06	71a74e8c
+hr-bagnav65536.rar	91b752b3
+hr-bagnav65536.sfv	96802a3d

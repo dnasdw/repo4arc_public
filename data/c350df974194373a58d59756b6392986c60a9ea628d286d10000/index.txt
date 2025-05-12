@@ -1,0 +1,7 @@
+v-sniper_elite_v2_remastered_v65536.nfo	-	4655	1	0	0	0
+v-sniper_elite_v2_remastered_v65536.r00	-	50000000	1	4655	0	1
+v-sniper_elite_v2_remastered_v65536.r01	-	50000000	1	50004655	0	49
+v-sniper_elite_v2_remastered_v65536.r02	-	50000000	1	100004655	0	97
+v-sniper_elite_v2_remastered_v65536.r03	-	37412188	1	150004655	0	145
+v-sniper_elite_v2_remastered_v65536.rar	-	50000000	1	187416843	0	181
+v-sniper_elite_v2_remastered_v65536.sfv	-	250	1	237416843	0	229

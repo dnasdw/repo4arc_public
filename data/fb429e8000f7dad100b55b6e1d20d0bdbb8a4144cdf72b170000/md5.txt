@@ -1,0 +1,3 @@
+sxs-horse_tales_emerald_valley_ranch_dlc.nfo	7460b69eb45fead37ad625cd8f7f8308
+sxs-horse_tales_emerald_valley_ranch_dlc.rar	1f968056fa827ca500182666154ebdb2
+sxs-horse_tales_emerald_valley_ranch_dlc.sfv	d270f1f952ebb2b360d4e3737e5bf99e

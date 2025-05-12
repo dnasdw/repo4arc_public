@@ -1,0 +1,11 @@
+lfc-mcre.nfo	beddc81f
+lfc-mcre.r00	7b9125b4
+lfc-mcre.r01	6f513b40
+lfc-mcre.r02	8844e13a
+lfc-mcre.r03	1295c148
+lfc-mcre.r04	0eda5685
+lfc-mcre.r05	5774c9e7
+lfc-mcre.r06	b586d487
+lfc-mcre.r07	154a1e24
+lfc-mcre.rar	c0209fb9
+lfc-mcre.sfv	6b91a3af

@@ -1,0 +1,5 @@
+sxs-metal_gear_and_metal_gear_2_solid_snake_v393216.nfo	-	5276	1	0	0	0
+sxs-metal_gear_and_metal_gear_2_solid_snake_v393216.r00	-	100000000	1	5276	0	1
+sxs-metal_gear_and_metal_gear_2_solid_snake_v393216.r01	-	20298458	1	100005276	0	97
+sxs-metal_gear_and_metal_gear_2_solid_snake_v393216.rar	-	100000000	1	120303734	0	117
+sxs-metal_gear_and_metal_gear_2_solid_snake_v393216.sfv	-	198	1	220303734	0	213

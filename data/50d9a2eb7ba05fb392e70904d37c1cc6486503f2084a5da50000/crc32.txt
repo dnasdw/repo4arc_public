@@ -1,0 +1,15 @@
+hr-aq6ra.nfo	02600b60
+hr-aq6ra.r00	16d8949a
+hr-aq6ra.r01	4a17d05f
+hr-aq6ra.r02	9c91e9a9
+hr-aq6ra.r03	6e98157a
+hr-aq6ra.r04	dbd0b8d6
+hr-aq6ra.r05	34cd47ab
+hr-aq6ra.r06	155cf050
+hr-aq6ra.r07	4d5e66bd
+hr-aq6ra.r08	8ddc41b6
+hr-aq6ra.r09	e09c8194
+hr-aq6ra.rar	e504ae07
+hr-aq6ra.sfv	f9680bea
+Proof	00000000
+Proof/hr-aq6ra.jpg	26ab9c15

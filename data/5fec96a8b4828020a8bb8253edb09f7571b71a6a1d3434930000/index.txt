@@ -1,0 +1,4 @@
+jrp-n-mdky.nfo	-	6021	1	0	0	0
+jrp-n-mdky.r00	-	9574447	1	6021	0	1
+jrp-n-mdky.rar	-	50000000	1	9580468	0	11
+jrp-n-mdky.sfv	-	50	1	59580468	0	59

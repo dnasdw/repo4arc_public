@@ -1,0 +1,9 @@
+sxs-invisigun_reloaded_v262144.nfo	79ba84ef
+sxs-invisigun_reloaded_v262144.r00	b0ebb9c5
+sxs-invisigun_reloaded_v262144.r01	2aba3069
+sxs-invisigun_reloaded_v262144.r02	371f426c
+sxs-invisigun_reloaded_v262144.r03	8d6aa4da
+sxs-invisigun_reloaded_v262144.r04	701626ce
+sxs-invisigun_reloaded_v262144.r05	27f77c30
+sxs-invisigun_reloaded_v262144.rar	aa5a2de4
+sxs-invisigun_reloaded_v262144.sfv	faf88720

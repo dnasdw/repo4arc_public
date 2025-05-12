@@ -1,0 +1,8 @@
+sxs-pokemon_violet_v327680.nfo	88492d2b
+sxs-pokemon_violet_v327680.r00	0d07772d
+sxs-pokemon_violet_v327680.r01	9ef10137
+sxs-pokemon_violet_v327680.r02	21253c50
+sxs-pokemon_violet_v327680.r03	6cdacd74
+sxs-pokemon_violet_v327680.r04	57559139
+sxs-pokemon_violet_v327680.rar	0299fdcf
+sxs-pokemon_violet_v327680.sfv	cf5f292b

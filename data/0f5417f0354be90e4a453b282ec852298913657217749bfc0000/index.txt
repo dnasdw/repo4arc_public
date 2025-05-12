@@ -1,0 +1,3 @@
+sxs-marvel_ua3_dlc.nfo	-	5978	1	0	0	0
+sxs-marvel_ua3_dlc.rar	-	104056	1	5978	0	1
+sxs-marvel_ua3_dlc.sfv	-	33	1	110034	0	2

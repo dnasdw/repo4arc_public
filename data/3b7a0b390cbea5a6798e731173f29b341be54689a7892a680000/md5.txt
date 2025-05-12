@@ -1,0 +1,10 @@
+sxs-bitmaster.nfo	0fe580e68fc7332caa8fc28ce08dbdc8
+sxs-bitmaster.r00	2a708cdc3c06ac4eab98f363164bc25a
+sxs-bitmaster.r01	9b7cd8f274c3b408687f5d258851ae78
+sxs-bitmaster.r02	ba87488f62f078078d0f37e0fcf67f9a
+sxs-bitmaster.r03	ff4b195fab25da78382ddd8b5dc544ca
+sxs-bitmaster.r04	08991695105e0f7887ce85060d71f208
+sxs-bitmaster.r05	a23bda81c3c50d719d5e66bda94a9a55
+sxs-bitmaster.r06	78df1ff9314d003652237be6fd754217
+sxs-bitmaster.rar	d970c8f665c67ecee6421a14501d5b19
+sxs-bitmaster.sfv	9076ad4aa3b912d28c96ff8ca90e17cf

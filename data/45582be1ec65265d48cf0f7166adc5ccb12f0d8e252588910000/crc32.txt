@@ -1,0 +1,12 @@
+v-what_the_duck_v196608.nfo	178fe14c
+v-what_the_duck_v196608.r00	c42abd11
+v-what_the_duck_v196608.r01	7769143f
+v-what_the_duck_v196608.r02	d6fd739e
+v-what_the_duck_v196608.r03	e1a93275
+v-what_the_duck_v196608.r04	dfcd7e55
+v-what_the_duck_v196608.r05	38695822
+v-what_the_duck_v196608.r06	2469ac6d
+v-what_the_duck_v196608.r07	7f9d9546
+v-what_the_duck_v196608.r08	41ab9300
+v-what_the_duck_v196608.rar	bedb962d
+v-what_the_duck_v196608.sfv	c99d707b

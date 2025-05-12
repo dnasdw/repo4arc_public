@@ -1,0 +1,11 @@
+v-sniper_elite_4_deathstorm_part_2_infiltration_dlc.nfo	-	5200	1	0	0	0
+v-sniper_elite_4_deathstorm_part_2_infiltration_dlc.r00	-	50000000	1	5200	0	1
+v-sniper_elite_4_deathstorm_part_2_infiltration_dlc.r01	-	50000000	1	50005200	0	49
+v-sniper_elite_4_deathstorm_part_2_infiltration_dlc.r02	-	50000000	1	100005200	0	97
+v-sniper_elite_4_deathstorm_part_2_infiltration_dlc.r03	-	50000000	1	150005200	0	145
+v-sniper_elite_4_deathstorm_part_2_infiltration_dlc.r04	-	50000000	1	200005200	0	193
+v-sniper_elite_4_deathstorm_part_2_infiltration_dlc.r05	-	50000000	1	250005200	0	241
+v-sniper_elite_4_deathstorm_part_2_infiltration_dlc.r06	-	50000000	1	300005200	0	289
+v-sniper_elite_4_deathstorm_part_2_infiltration_dlc.r07	-	15002910	1	350005200	0	337
+v-sniper_elite_4_deathstorm_part_2_infiltration_dlc.rar	-	50000000	1	365008110	0	352
+v-sniper_elite_4_deathstorm_part_2_infiltration_dlc.sfv	-	594	1	415008110	0	400

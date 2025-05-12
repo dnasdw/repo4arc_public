@@ -1,0 +1,4 @@
+v-rival_megagun_v65536.nfo	1e46d7017165b03b31b5a5e0a2dec1d4fd15bd77
+v-rival_megagun_v65536.r00	cc2c79bc5489d29bf2b201c1e2506fc83b5d8dfc
+v-rival_megagun_v65536.rar	8f765a5caa4adf4d391480eb746ddc5ae6e70021
+v-rival_megagun_v65536.sfv	bd7ccc806efe490bf22a8dbe95c16c9ba37c4bca

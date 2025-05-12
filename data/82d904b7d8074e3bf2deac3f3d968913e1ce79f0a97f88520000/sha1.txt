@@ -1,0 +1,7 @@
+sxs-puzzletronics.nfo	be3d327c1f59464cf1b6b12711a5240e80f7b601
+sxs-puzzletronics.r00	0bd8af56d41c6085489b5f646e573c9aae3a818b
+sxs-puzzletronics.r01	f847b410667a3cc74734f2a209db93171de4cf45
+sxs-puzzletronics.r02	662a498412f85ebaefafc08a2452c8fab5eff041
+sxs-puzzletronics.r03	8bf90c15816e09e50a92e201ea0600f35c8c4cbe
+sxs-puzzletronics.rar	ffa8f072b96163c3efd6a3daf7d5105d0783ad7b
+sxs-puzzletronics.sfv	e6066b9ae9d5132cbcaefbac2b4879e340017dd3

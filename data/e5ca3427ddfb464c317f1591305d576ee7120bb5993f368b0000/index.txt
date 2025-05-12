@@ -1,0 +1,4 @@
+sxs-lil_guardsman_v65536.nfo	-	5666	1	0	0	0
+sxs-lil_guardsman_v65536.r00	-	52311453	1	5666	0	1
+sxs-lil_guardsman_v65536.rar	-	100000000	1	52317119	0	51
+sxs-lil_guardsman_v65536.sfv	-	78	1	152317119	0	147

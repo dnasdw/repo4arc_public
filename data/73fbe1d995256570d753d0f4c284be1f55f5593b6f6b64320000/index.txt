@@ -1,0 +1,7 @@
+lfc-junkplanet.nfo	-	4597	1	0	0	0
+lfc-junkplanet.r00	-	50000000	1	4597	0	1
+lfc-junkplanet.r01	-	50000000	1	50004597	0	49
+lfc-junkplanet.r02	-	50000000	1	100004597	0	97
+lfc-junkplanet.r03	-	32677211	1	150004597	0	145
+lfc-junkplanet.rar	-	50000000	1	182681808	0	177
+lfc-junkplanet.sfv	-	145	1	232681808	0	225

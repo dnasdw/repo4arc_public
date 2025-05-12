@@ -1,0 +1,6 @@
+sxs-sail_forth_v917504.nfo	3217153aa2a0b0faf72acdcdf5b01382
+sxs-sail_forth_v917504.r00	9c48f09e1cc602b8acd6bd82b660bf4e
+sxs-sail_forth_v917504.r01	18660bfeb25070095815bee5787bffc7
+sxs-sail_forth_v917504.r02	91f9d3ab1ad6a39092db73218df7f809
+sxs-sail_forth_v917504.rar	a421159e2ae05b8357ca5a0db2fa25e3
+sxs-sail_forth_v917504.sfv	6f5eeb486b00fdae59b6ec95750e0f3d

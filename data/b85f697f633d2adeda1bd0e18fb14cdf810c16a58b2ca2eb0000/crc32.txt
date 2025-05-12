@@ -1,0 +1,16 @@
+sxs-fifa_22_dutch_dlc.nfo	9016a6ad
+sxs-fifa_22_dutch_dlc.r00	dbe9da1f
+sxs-fifa_22_dutch_dlc.r01	faa9778d
+sxs-fifa_22_dutch_dlc.r02	5df20291
+sxs-fifa_22_dutch_dlc.r03	cb45a60f
+sxs-fifa_22_dutch_dlc.r04	a962f182
+sxs-fifa_22_dutch_dlc.r05	84a01d76
+sxs-fifa_22_dutch_dlc.r06	c0caa4b7
+sxs-fifa_22_dutch_dlc.r07	2a33afa6
+sxs-fifa_22_dutch_dlc.r08	344edd2b
+sxs-fifa_22_dutch_dlc.r09	2e7df8cf
+sxs-fifa_22_dutch_dlc.r10	6b2aa893
+sxs-fifa_22_dutch_dlc.r11	2d8ace17
+sxs-fifa_22_dutch_dlc.r12	3360709c
+sxs-fifa_22_dutch_dlc.rar	6eccabe4
+sxs-fifa_22_dutch_dlc.sfv	2fd1f981

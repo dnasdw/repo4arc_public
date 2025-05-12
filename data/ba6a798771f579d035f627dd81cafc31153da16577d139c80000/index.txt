@@ -1,0 +1,6 @@
+sxs-pokemon_cafe_mix_v2228224.nfo	-	5851	1	0	0	0
+sxs-pokemon_cafe_mix_v2228224.r00	-	100000000	1	5851	0	1
+sxs-pokemon_cafe_mix_v2228224.r01	-	100000000	1	100005851	0	97
+sxs-pokemon_cafe_mix_v2228224.r02	-	46627459	1	200005851	0	193
+sxs-pokemon_cafe_mix_v2228224.rar	-	100000000	1	246633310	0	238
+sxs-pokemon_cafe_mix_v2228224.sfv	-	176	1	346633310	0	334

@@ -1,0 +1,4 @@
+sxs-borzoi_adventure.nfo	-	4652	1	0	0	0
+sxs-borzoi_adventure.r00	-	98907029	1	4652	0	1
+sxs-borzoi_adventure.rar	-	100000000	1	98911681	0	96
+sxs-borzoi_adventure.sfv	-	70	1	198911681	0	192

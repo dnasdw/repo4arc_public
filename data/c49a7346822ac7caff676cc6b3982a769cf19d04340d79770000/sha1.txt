@@ -1,0 +1,4 @@
+sxs-trigger_dungeon.nfo	fed78b82ca4320432cc3d144b72e87056b34fbdf
+sxs-trigger_dungeon.r00	526ea89d38bf2da05b01279c6abf235232361c78
+sxs-trigger_dungeon.rar	7adf56383875a7f6343e838bbf8478a19600eaa7
+sxs-trigger_dungeon.sfv	dedf2f0d89ef51851ed8fc732e7ef4d8c7e14a00

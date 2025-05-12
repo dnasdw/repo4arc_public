@@ -1,0 +1,8 @@
+sxs-time_on_frog_island_v262144.nfo	6a12aa33
+sxs-time_on_frog_island_v262144.r00	0af3e1b8
+sxs-time_on_frog_island_v262144.r01	3aa78420
+sxs-time_on_frog_island_v262144.r02	aa67695b
+sxs-time_on_frog_island_v262144.r03	b4b811e4
+sxs-time_on_frog_island_v262144.r04	ce5c25fd
+sxs-time_on_frog_island_v262144.rar	5bfa7c7b
+sxs-time_on_frog_island_v262144.sfv	0cafbaf1

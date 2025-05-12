@@ -1,0 +1,13 @@
+sxs-river_city_saga_three_kingdoms_v196608.nfo	d90c73da
+sxs-river_city_saga_three_kingdoms_v196608.r00	25208598
+sxs-river_city_saga_three_kingdoms_v196608.r01	54ec3e15
+sxs-river_city_saga_three_kingdoms_v196608.r02	22878d4c
+sxs-river_city_saga_three_kingdoms_v196608.r03	516fd126
+sxs-river_city_saga_three_kingdoms_v196608.r04	20a6cef2
+sxs-river_city_saga_three_kingdoms_v196608.r05	1f0a5c34
+sxs-river_city_saga_three_kingdoms_v196608.r06	f02b31ec
+sxs-river_city_saga_three_kingdoms_v196608.r07	3655a503
+sxs-river_city_saga_three_kingdoms_v196608.r08	8be7f8de
+sxs-river_city_saga_three_kingdoms_v196608.r09	cf989583
+sxs-river_city_saga_three_kingdoms_v196608.rar	af190973
+sxs-river_city_saga_three_kingdoms_v196608.sfv	2ee84bf6

@@ -1,0 +1,10 @@
+sxs-dead_cells_internal_v589824.nfo	c5905536
+sxs-dead_cells_internal_v589824.r00	76887d9b
+sxs-dead_cells_internal_v589824.r01	91311257
+sxs-dead_cells_internal_v589824.r02	db3bfc8c
+sxs-dead_cells_internal_v589824.r03	a1575a52
+sxs-dead_cells_internal_v589824.r04	42520d4b
+sxs-dead_cells_internal_v589824.r05	acf48fd2
+sxs-dead_cells_internal_v589824.r06	9841a971
+sxs-dead_cells_internal_v589824.rar	0c907e72
+sxs-dead_cells_internal_v589824.sfv	9d41363e

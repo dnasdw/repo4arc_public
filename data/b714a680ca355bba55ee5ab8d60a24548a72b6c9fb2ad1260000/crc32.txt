@@ -1,0 +1,8 @@
+sxs-hexagravity.nfo	95a06b35
+sxs-hexagravity.r00	f7b0ce8f
+sxs-hexagravity.r01	03ea4789
+sxs-hexagravity.r02	822112b0
+sxs-hexagravity.r03	d72411c9
+sxs-hexagravity.r04	c758837f
+sxs-hexagravity.rar	21d7ce7d
+sxs-hexagravity.sfv	e82b894b

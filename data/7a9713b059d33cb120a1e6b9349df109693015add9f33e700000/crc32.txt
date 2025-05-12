@@ -1,0 +1,8 @@
+lfc-a7wpa_v65536.nfo	1c8423af
+lfc-a7wpa_v65536.r00	3a28954f
+lfc-a7wpa_v65536.r01	8d7fd913
+lfc-a7wpa_v65536.r02	c096c737
+lfc-a7wpa_v65536.r03	cfebdb57
+lfc-a7wpa_v65536.r04	8cd1c9ee
+lfc-a7wpa_v65536.rar	32f5f0bd
+lfc-a7wpa_v65536.sfv	fd27589e

@@ -1,0 +1,7 @@
+v-risk_of_rain_returns.nfo	0dad4320
+v-risk_of_rain_returns.r00	ccc41812
+v-risk_of_rain_returns.r01	a4b5e76d
+v-risk_of_rain_returns.r02	364d9efd
+v-risk_of_rain_returns.r03	68ef0971
+v-risk_of_rain_returns.rar	3cb415d6
+v-risk_of_rain_returns.sfv	e69f87b9

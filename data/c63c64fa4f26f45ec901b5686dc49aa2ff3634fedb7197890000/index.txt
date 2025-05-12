@@ -1,0 +1,3 @@
+bbb-n-ameja.nfo	-	5517	1	0	0	0
+bbb-n-ameja.rar	-	74085302	1	5517	0	1
+bbb-n-ameja.sfv	-	26	1	74090819	0	72

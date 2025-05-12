@@ -1,0 +1,10 @@
+moe-danmachi.nfo	5a2ff7b16d2a2d2498f99618200d30f8
+moe-danmachi.r00	fab174581bd554fbdc586467808c58c7
+moe-danmachi.r01	2dab2ace98e6388aab68ac8bba124310
+moe-danmachi.r02	6710b8ac7afd54a5a1e2ef0a1adc8344
+moe-danmachi.r03	958a4ea6a073eed8d9b78c332d737c35
+moe-danmachi.r04	fdfbf5819cdbf3e4dd3b73d9b462e5fc
+moe-danmachi.r05	277b24582a4b999d4d842edcd5946026
+moe-danmachi.r06	e7a07820880eb1307292dada9cde3578
+moe-danmachi.rar	1bdce3019740d7cbb1afdfcb3c08b2ba
+moe-danmachi.sfv	efb01929f7c65c0003260136d4dec866

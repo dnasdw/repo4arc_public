@@ -1,0 +1,5 @@
+sxs-cuphead_v262144.nfo	bb5806a511b9cb3a4ecf7ae1e19c0ce1
+sxs-cuphead_v262144.r00	fe8e29a744a1b995dc0e33cfe9110c97
+sxs-cuphead_v262144.r01	95eb7756877a816b47f8c705fab5d28a
+sxs-cuphead_v262144.rar	aae339ab73cde32f9d10e7e58458e388
+sxs-cuphead_v262144.sfv	e6955ba2360df0a772ddc6912fbe7a34

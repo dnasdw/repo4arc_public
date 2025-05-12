@@ -1,0 +1,7 @@
+brw-rotd_v262144.nfo	c8b0e527
+brw-rotd_v262144.r00	60c05bd4
+brw-rotd_v262144.r01	743b3d7e
+brw-rotd_v262144.r02	3722169c
+brw-rotd_v262144.r03	3ea6ab4e
+brw-rotd_v262144.rar	4db755c3
+brw-rotd_v262144.sfv	17658dde

@@ -1,0 +1,3 @@
+brw-swsa_v65536.nfo	142408dee02bf6bdff4078c960654d6ae8517cac
+brw-swsa_v65536.rar	63c31d8284a9dc8730b193ce3683efa017ea4b09
+brw-swsa_v65536.sfv	d83266a7df5f5b13f56eb3e98a1effe90cc1ef2f

@@ -1,0 +1,13 @@
+sxs-minecraft_v170.nfo	9f40a5a9
+sxs-minecraft_v170.r00	c488b985
+sxs-minecraft_v170.r01	8f702922
+sxs-minecraft_v170.r02	669226e3
+sxs-minecraft_v170.r03	4a817312
+sxs-minecraft_v170.r04	44023c16
+sxs-minecraft_v170.r05	5564748b
+sxs-minecraft_v170.r06	bb6e8b8a
+sxs-minecraft_v170.r07	662a7622
+sxs-minecraft_v170.r08	143d8f64
+sxs-minecraft_v170.r09	f27652f7
+sxs-minecraft_v170.rar	637b51fd
+sxs-minecraft_v170.sfv	7507e4bc

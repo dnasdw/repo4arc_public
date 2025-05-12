@@ -1,0 +1,13 @@
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.nfo	-	5354	1	0	0	0
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.r00	-	100000000	1	5354	0	1
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.r01	-	100000000	1	100005354	0	97
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.r02	-	100000000	1	200005354	0	193
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.r03	-	100000000	1	300005354	0	289
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.r04	-	100000000	1	400005354	0	385
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.r05	-	100000000	1	500005354	0	481
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.r06	-	100000000	1	62251264	1	60
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.r07	-	100000000	1	162251264	1	156
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.r08	-	100000000	1	262251264	1	252
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.r09	-	1292238	1	362251264	1	348
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.rar	-	100000000	1	363543502	1	350
+sxs-taiko_no_tatsujin_rhythm_festival_v786432r.sfv	-	812	1	463543502	1	446

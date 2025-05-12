@@ -1,0 +1,9 @@
+sxs-the_bonfire_forsaken_lands.nfo	cd8ee309
+sxs-the_bonfire_forsaken_lands.r00	5a3f4cc3
+sxs-the_bonfire_forsaken_lands.r01	51e12522
+sxs-the_bonfire_forsaken_lands.r02	869303db
+sxs-the_bonfire_forsaken_lands.r03	bfa48bbd
+sxs-the_bonfire_forsaken_lands.r04	ba569ff3
+sxs-the_bonfire_forsaken_lands.r05	4b19f40c
+sxs-the_bonfire_forsaken_lands.rar	a49c69bd
+sxs-the_bonfire_forsaken_lands.sfv	5a2376cd

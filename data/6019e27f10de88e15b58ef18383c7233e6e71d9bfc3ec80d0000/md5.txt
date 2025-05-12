@@ -1,0 +1,6 @@
+lfc-mubd_v131072.nfo	4b2d038707626beecc5fbc5b1e612f1a
+lfc-mubd_v131072.r00	d284a70cff9c3e3cd24a619282ea40df
+lfc-mubd_v131072.r01	c2b3fae51070d39c36efcad8be4cd27a
+lfc-mubd_v131072.r02	71d6a8a0bc18c4c80a2c6a9e0f4c7ea0
+lfc-mubd_v131072.rar	b07a600549202a76636a1ce57f30bdd8
+lfc-mubd_v131072.sfv	f21c81ad29311f0f0eb5c2ea2588a1d7

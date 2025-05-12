@@ -1,0 +1,5 @@
+sxs-arcana_of_paradise_the_tower_v131072.nfo	-	4574	1	0	0	0
+sxs-arcana_of_paradise_the_tower_v131072.r00	-	100000000	1	4574	0	1
+sxs-arcana_of_paradise_the_tower_v131072.r01	-	28019593	1	100004574	0	97
+sxs-arcana_of_paradise_the_tower_v131072.rar	-	100000000	1	128024167	0	124
+sxs-arcana_of_paradise_the_tower_v131072.sfv	-	165	1	228024167	0	220

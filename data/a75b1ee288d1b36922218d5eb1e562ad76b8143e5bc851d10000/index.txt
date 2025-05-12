@@ -1,0 +1,4 @@
+v-rival_megagun_v65536.nfo	-	5279	1	0	0	0
+v-rival_megagun_v65536.r00	-	11936804	1	5279	0	1
+v-rival_megagun_v65536.rar	-	50000000	1	11942083	0	13
+v-rival_megagun_v65536.sfv	-	74	1	61942083	0	61

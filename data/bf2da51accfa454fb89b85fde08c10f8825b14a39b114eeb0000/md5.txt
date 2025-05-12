@@ -1,0 +1,10 @@
+sxs-unhatched.nfo	2fe44c9f96ee0ede9eed3002cfe6bb19
+sxs-unhatched.r00	0b7c90593b64690485d1313f574b065d
+sxs-unhatched.r01	8ae21fe10e33c06ad49f7a4dfaa06bda
+sxs-unhatched.r02	2ff1dc483147319150cb10cb7563c65c
+sxs-unhatched.r03	a446f0d623238661e4f67c8bdc8c59dd
+sxs-unhatched.r04	4ead8e1f4495fd0c9c8d3ce50c82c823
+sxs-unhatched.r05	1104f7e826fb28cc000cfc82490a7d8c
+sxs-unhatched.r06	cf08c99c090ce97c9e542f0175518978
+sxs-unhatched.rar	aa9a32df1919fa333fa29efd0a6fcb35
+sxs-unhatched.sfv	85985b90a14176826aad0a736c40a453

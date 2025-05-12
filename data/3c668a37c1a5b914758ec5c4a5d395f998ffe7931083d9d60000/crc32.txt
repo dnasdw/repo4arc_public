@@ -1,0 +1,7 @@
+lfc-apad.nfo	24b0c9da
+lfc-apad.r00	dd66a314
+lfc-apad.r01	0a4e1e34
+lfc-apad.r02	b17986e2
+lfc-apad.r03	ea0e0f56
+lfc-apad.rar	10feb680
+lfc-apad.sfv	7b868086

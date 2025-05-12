@@ -1,0 +1,6 @@
+v-aztech_forgotten_gods_v524288r.nfo	-	4264	1	0	0	0
+v-aztech_forgotten_gods_v524288r.r00	-	50000000	1	4264	0	1
+v-aztech_forgotten_gods_v524288r.r01	-	50000000	1	50004264	0	49
+v-aztech_forgotten_gods_v524288r.r02	-	44549217	1	100004264	0	97
+v-aztech_forgotten_gods_v524288r.rar	-	50000000	1	144553481	0	140
+v-aztech_forgotten_gods_v524288r.sfv	-	188	1	194553481	0	188

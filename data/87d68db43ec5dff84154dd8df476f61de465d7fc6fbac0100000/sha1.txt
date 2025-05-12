@@ -1,0 +1,3 @@
+sxs-farm_together_dlc.nfo	abed2f3a3300af7c90821e7406796a5320e42f58
+sxs-farm_together_dlc.rar	15c6022a219743396d792542785b2bb9ad752516
+sxs-farm_together_dlc.sfv	fc0d27abdb3788af25450e08afad38a3cd12e79c

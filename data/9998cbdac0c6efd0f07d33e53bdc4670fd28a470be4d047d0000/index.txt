@@ -1,0 +1,12 @@
+sxs-battlesloths.nfo	-	4964	1	0	0	0
+sxs-battlesloths.r00	-	50000000	1	4964	0	1
+sxs-battlesloths.r01	-	50000000	1	50004964	0	49
+sxs-battlesloths.r02	-	50000000	1	100004964	0	97
+sxs-battlesloths.r03	-	50000000	1	150004964	0	145
+sxs-battlesloths.r04	-	50000000	1	200004964	0	193
+sxs-battlesloths.r05	-	50000000	1	250004964	0	241
+sxs-battlesloths.r06	-	50000000	1	300004964	0	289
+sxs-battlesloths.r07	-	50000000	1	350004964	0	337
+sxs-battlesloths.r08	-	14422852	1	400004964	0	385
+sxs-battlesloths.rar	-	50000000	1	414427816	0	399
+sxs-battlesloths.sfv	-	310	1	464427816	0	447

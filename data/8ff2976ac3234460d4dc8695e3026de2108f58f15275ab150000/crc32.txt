@@ -1,0 +1,14 @@
+sxs-ortheo.nfo	5f59ffe7
+sxs-ortheo.r00	a010a46c
+sxs-ortheo.r01	56bfc07a
+sxs-ortheo.r02	d4a56f92
+sxs-ortheo.r03	b58ae404
+sxs-ortheo.r04	3821e598
+sxs-ortheo.r05	16d8dc37
+sxs-ortheo.r06	124d0b93
+sxs-ortheo.r07	aa071ebb
+sxs-ortheo.r08	239ab4f3
+sxs-ortheo.r09	9b42c611
+sxs-ortheo.r10	eb03b70f
+sxs-ortheo.rar	1c171747
+sxs-ortheo.sfv	d04a72b0

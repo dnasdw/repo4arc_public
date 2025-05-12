@@ -1,0 +1,6 @@
+sxs-horse_racing.nfo	c1d5dc5c748e1afb67e2489d8a8a1f3be69f8f7f
+sxs-horse_racing.r00	383e050f41181894690c2d94ab9e39d3082a6942
+sxs-horse_racing.r01	80b146667ad6a8a1f9725bfc71433cd78f4d4a39
+sxs-horse_racing.r02	bc7c356216463559788d835a0b1822211a977b16
+sxs-horse_racing.rar	d9ae827b5ee2b051984ea4a3c42112aaf8c18dfe
+sxs-horse_racing.sfv	e6fb0c3e3152b57015625621eb8b2fabbb20d37e

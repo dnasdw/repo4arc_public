@@ -1,0 +1,12 @@
+i-collidalot.nfo	fff11630
+i-collidalot.r00	1a9f7f51
+i-collidalot.r01	8d8c109f
+i-collidalot.r02	41879cba
+i-collidalot.r03	864fd6f6
+i-collidalot.r04	127fb4a8
+i-collidalot.r05	76adcc05
+i-collidalot.r06	720bfb11
+i-collidalot.r07	a5ccc04c
+i-collidalot.r08	2c635080
+i-collidalot.rar	b3c4377f
+i-collidalot.sfv	067918d3

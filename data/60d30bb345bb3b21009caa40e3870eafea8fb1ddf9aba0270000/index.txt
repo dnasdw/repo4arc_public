@@ -1,0 +1,3 @@
+v-touryst_v65536.nfo	-	3952	1	0	0	0
+v-touryst_v65536.rar	-	36594111	1	3952	0	1
+v-touryst_v65536.sfv	-	31	1	36598063	0	36

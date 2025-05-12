@@ -1,0 +1,5 @@
+sxs-strife_veteran_edition_v262144.nfo	-	6056	1	0	0	0
+sxs-strife_veteran_edition_v262144.r00	-	100000000	1	6056	0	1
+sxs-strife_veteran_edition_v262144.r01	-	41734404	1	100006056	0	97
+sxs-strife_veteran_edition_v262144.rar	-	100000000	1	141740460	0	137
+sxs-strife_veteran_edition_v262144.sfv	-	147	1	241740460	0	233

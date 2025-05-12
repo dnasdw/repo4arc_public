@@ -1,0 +1,4 @@
+sxs-graceful_explosion_machine_v327680.nfo	-	5354	1	0	0	0
+sxs-graceful_explosion_machine_v327680.r00	-	689790	1	5354	0	1
+sxs-graceful_explosion_machine_v327680.rar	-	50000000	1	695144	0	2
+sxs-graceful_explosion_machine_v327680.sfv	-	106	1	50695144	0	50

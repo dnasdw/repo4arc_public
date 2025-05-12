@@ -1,0 +1,10 @@
+sxs-punch_a_bunch.nfo	04f9faf0
+sxs-punch_a_bunch.r00	9601ec67
+sxs-punch_a_bunch.r01	b745137b
+sxs-punch_a_bunch.r02	36bb7c7f
+sxs-punch_a_bunch.r03	63f81928
+sxs-punch_a_bunch.r04	179230a1
+sxs-punch_a_bunch.r05	ea1f2de8
+sxs-punch_a_bunch.r06	f8c53f23
+sxs-punch_a_bunch.rar	3367eb50
+sxs-punch_a_bunch.sfv	c3420fcf

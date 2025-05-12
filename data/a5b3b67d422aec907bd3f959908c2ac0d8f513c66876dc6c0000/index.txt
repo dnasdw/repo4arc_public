@@ -1,0 +1,5 @@
+sxs-filmechanism_v196608.nfo	-	4652	1	0	0	0
+sxs-filmechanism_v196608.r00	-	50000000	1	4652	0	1
+sxs-filmechanism_v196608.r01	-	41670449	1	50004652	0	49
+sxs-filmechanism_v196608.rar	-	50000000	1	91675101	0	89
+sxs-filmechanism_v196608.sfv	-	117	1	141675101	0	137

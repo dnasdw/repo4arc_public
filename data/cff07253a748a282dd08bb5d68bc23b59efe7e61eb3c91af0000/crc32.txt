@@ -1,0 +1,7 @@
+sxs-midnight_is_lost.nfo	a7bd1ba8
+sxs-midnight_is_lost.r00	8bea8a9d
+sxs-midnight_is_lost.r01	1d2768bd
+sxs-midnight_is_lost.r02	24798883
+sxs-midnight_is_lost.r03	60b2f151
+sxs-midnight_is_lost.rar	1038f5aa
+sxs-midnight_is_lost.sfv	f609963f

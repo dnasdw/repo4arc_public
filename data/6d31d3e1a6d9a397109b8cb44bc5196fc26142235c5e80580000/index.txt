@@ -1,0 +1,7 @@
+sxs-the_little_mermaid_princess_of_the_underwater_kingdoms.nfo	-	5666	1	0	0	0
+sxs-the_little_mermaid_princess_of_the_underwater_kingdoms.r00	-	100000000	1	5666	0	1
+sxs-the_little_mermaid_princess_of_the_underwater_kingdoms.r01	-	100000000	1	100005666	0	97
+sxs-the_little_mermaid_princess_of_the_underwater_kingdoms.r02	-	100000000	1	200005666	0	193
+sxs-the_little_mermaid_princess_of_the_underwater_kingdoms.r03	-	68479091	1	300005666	0	289
+sxs-the_little_mermaid_princess_of_the_underwater_kingdoms.rar	-	100000000	1	368484757	0	355
+sxs-the_little_mermaid_princess_of_the_underwater_kingdoms.sfv	-	365	1	468484757	0	451

@@ -1,0 +1,4 @@
+sxs-borzoi_adventure.nfo	ad3ccba4
+sxs-borzoi_adventure.r00	3d7aaf1c
+sxs-borzoi_adventure.rar	c81ddd76
+sxs-borzoi_adventure.sfv	7ee20430

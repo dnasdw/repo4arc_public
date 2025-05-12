@@ -1,0 +1,15 @@
+v-the_cub.nfo	d4cffca10e1d9af0eda269517ca63795
+v-the_cub.r00	0d5664ed6c613a517a7de07c60a5981a
+v-the_cub.r01	9e7d6bb424e97bdc220f64e28037f779
+v-the_cub.r02	e10ad0486f9c87fd11d00d9de76d3f43
+v-the_cub.r03	c46ab9326702f2c4acd1588516ad12a8
+v-the_cub.r04	f627a6169b08e2cb654ae7d477647e22
+v-the_cub.r05	6705def471c9fa72cf2dce342216227b
+v-the_cub.r06	dc09516709682b97512b8ad69e15b680
+v-the_cub.r07	7358d7c64bf380144c1c2dc261b0887f
+v-the_cub.r08	a6b1035cea5fd0224e39c5cf0ee49d6a
+v-the_cub.r09	0d0b4c27b9de8047ea17ab239aa47a9f
+v-the_cub.r10	e3c9fdd9d5869044018d18a9eeab03e3
+v-the_cub.r11	98c0bec7e2f5b5582f7d09e7cb14c9ba
+v-the_cub.rar	272163934e6cf6dab0cd9cd010be660d
+v-the_cub.sfv	e8ebed579404120ff76d5797dda6c9c5

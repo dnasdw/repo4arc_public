@@ -1,0 +1,3 @@
+v-rain_world_v65536.nfo	4cb65cdbad225e2c70eed3bfd52d641a
+v-rain_world_v65536.rar	e398514977f4a1696430b5cf48935103
+v-rain_world_v65536.sfv	a847ecb90a0d93d8cd219c993c87330c

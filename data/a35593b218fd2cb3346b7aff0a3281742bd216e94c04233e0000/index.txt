@@ -1,0 +1,4 @@
+v-xenon_valkyrie_plus.nfo	-	5591	1	0	0	0
+v-xenon_valkyrie_plus.r00	-	22389167	1	5591	0	1
+v-xenon_valkyrie_plus.rar	-	50000000	1	22394758	0	23
+v-xenon_valkyrie_plus.sfv	-	72	1	72394758	0	71

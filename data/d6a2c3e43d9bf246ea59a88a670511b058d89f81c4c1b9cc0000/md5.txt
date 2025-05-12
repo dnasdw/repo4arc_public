@@ -1,0 +1,4 @@
+hr-atpmav103.nfo	db19e42d1e65b6d65d9ec34d98b51c8f
+hr-atpmav103.r00	b66de83fd1715af46f336a33a644fc3f
+hr-atpmav103.rar	cc8eaf908e22072cf27d1efde7ddd262
+hr-atpmav103.sfv	81c8fbb9dfc376c9da48a241cda46bb4

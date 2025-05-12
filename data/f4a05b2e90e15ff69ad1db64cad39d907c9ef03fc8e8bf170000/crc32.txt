@@ -1,0 +1,11 @@
+sxs-celestian_tales_v65536.nfo	554c2457
+sxs-celestian_tales_v65536.r00	7b2c0415
+sxs-celestian_tales_v65536.r01	802213bc
+sxs-celestian_tales_v65536.r02	53433645
+sxs-celestian_tales_v65536.r03	9f98e2a3
+sxs-celestian_tales_v65536.r04	1bec7c11
+sxs-celestian_tales_v65536.r05	2fc6b8eb
+sxs-celestian_tales_v65536.r06	5dc06e7f
+sxs-celestian_tales_v65536.r07	4973cdba
+sxs-celestian_tales_v65536.rar	73ff08fc
+sxs-celestian_tales_v65536.sfv	591f0a2a

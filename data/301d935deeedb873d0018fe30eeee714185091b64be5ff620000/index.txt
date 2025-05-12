@@ -1,0 +1,4 @@
+sxs-mira_a_birds_flight.nfo	-	3560	1	0	0	0
+sxs-mira_a_birds_flight.r00	-	8659576	1	3560	0	1
+sxs-mira_a_birds_flight.rar	-	50000000	1	8663136	0	10
+sxs-mira_a_birds_flight.sfv	-	76	1	58663136	0	58

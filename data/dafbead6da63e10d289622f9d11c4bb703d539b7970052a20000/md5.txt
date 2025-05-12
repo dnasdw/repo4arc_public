@@ -1,0 +1,8 @@
+sxs-knights_of_grayfang.nfo	95f1ed61e7a77951d4e052e6793a4e40
+sxs-knights_of_grayfang.r00	808f9220a074f76c4777156a0ab243c4
+sxs-knights_of_grayfang.r01	1110133f0c2090f3aed01e2efbf8776a
+sxs-knights_of_grayfang.r02	ac59d07837c8801db3a68d68ed3536e7
+sxs-knights_of_grayfang.r03	575310beb7b5fed6b0868e8861dd0a09
+sxs-knights_of_grayfang.r04	76130a97af33a8e859d4fe0e5990d394
+sxs-knights_of_grayfang.rar	89c7d21d9b05eeb4d55ee2d64883215a
+sxs-knights_of_grayfang.sfv	728700a23f7395acc6b765fb854a1d13

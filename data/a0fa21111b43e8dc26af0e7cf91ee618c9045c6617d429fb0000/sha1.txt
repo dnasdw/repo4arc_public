@@ -1,0 +1,3 @@
+sxs-dysmantle_pets_and_dungeons_dlc.nfo	46ffa0f38a56fb3e4118d383648fc39e162e03ba
+sxs-dysmantle_pets_and_dungeons_dlc.rar	1dccdf6ef54b2583e2786f5cde45ae442df7169e
+sxs-dysmantle_pets_and_dungeons_dlc.sfv	6c0299189c83dae8e029319fd87a07a381522d01

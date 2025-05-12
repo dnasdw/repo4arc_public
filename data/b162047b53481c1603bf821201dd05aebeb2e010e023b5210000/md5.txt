@@ -1,0 +1,10 @@
+sxs-petit_petit_petit.nfo	980422c46ab73cc253eae45be835d885
+sxs-petit_petit_petit.r00	ae718940502a6865d66f268aaf93668f
+sxs-petit_petit_petit.r01	675d27cd4cd1d3c88e0d2dcd3cc682ec
+sxs-petit_petit_petit.r02	7e97cbcea2e85a4d42a8f59fa6a59175
+sxs-petit_petit_petit.r03	168fbc1d395e9d55edfc233fb6c1803d
+sxs-petit_petit_petit.r04	780ed347432309f13b496d53bf17ffb6
+sxs-petit_petit_petit.r05	59d0206a97060a8108a6dac5accd26e0
+sxs-petit_petit_petit.r06	44c50eda0375f000d37f6ee9540173bc
+sxs-petit_petit_petit.rar	2bb9a53b2f2b08f228f17dcc5360823f
+sxs-petit_petit_petit.sfv	9e050852b9868e60b389d2386a76a25c

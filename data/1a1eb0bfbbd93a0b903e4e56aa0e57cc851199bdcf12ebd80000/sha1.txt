@@ -1,0 +1,3 @@
+sxs-swapshot.nfo	bb95db7f842401a7c4394fcb8cea51650f72efca
+sxs-swapshot.rar	9ba6fe041e5900428336c328c4bc9b5b8d30fc29
+sxs-swapshot.sfv	3956c9586c845ba701540f63a89a3c555f4aaf80

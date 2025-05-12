@@ -1,0 +1,4 @@
+sxs-dyna_bomb_v393216.nfo	-	4106	1	0	0	0
+sxs-dyna_bomb_v393216.r00	-	12353986	1	4106	0	1
+sxs-dyna_bomb_v393216.rar	-	50000000	1	12358092	0	13
+sxs-dyna_bomb_v393216.sfv	-	72	1	62358092	0	61

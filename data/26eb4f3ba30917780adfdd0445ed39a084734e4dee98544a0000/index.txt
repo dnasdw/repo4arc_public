@@ -1,0 +1,17 @@
+sxs-knight_squad_2.nfo	-	5432	1	0	0	0
+sxs-knight_squad_2.r00	-	50000000	1	5432	0	1
+sxs-knight_squad_2.r01	-	50000000	1	50005432	0	49
+sxs-knight_squad_2.r02	-	50000000	1	100005432	0	97
+sxs-knight_squad_2.r03	-	50000000	1	150005432	0	145
+sxs-knight_squad_2.r04	-	50000000	1	200005432	0	193
+sxs-knight_squad_2.r05	-	50000000	1	250005432	0	241
+sxs-knight_squad_2.r06	-	50000000	1	300005432	0	289
+sxs-knight_squad_2.r07	-	50000000	1	350005432	0	337
+sxs-knight_squad_2.r08	-	50000000	1	400005432	0	385
+sxs-knight_squad_2.r09	-	50000000	1	450005432	0	433
+sxs-knight_squad_2.r10	-	50000000	1	500005432	0	481
+sxs-knight_squad_2.r11	-	50000000	1	12251264	1	12
+sxs-knight_squad_2.r12	-	50000000	1	62251264	1	60
+sxs-knight_squad_2.r13	-	44791394	1	112251264	1	108
+sxs-knight_squad_2.rar	-	50000000	1	157042658	1	151
+sxs-knight_squad_2.sfv	-	495	1	207042658	1	199

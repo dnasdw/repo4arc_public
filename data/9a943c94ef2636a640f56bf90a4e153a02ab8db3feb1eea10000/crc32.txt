@@ -1,0 +1,5 @@
+v-picross_s6_v196608.nfo	048ef7f2
+v-picross_s6_v196608.r00	dbf9975d
+v-picross_s6_v196608.r01	a8fc01e9
+v-picross_s6_v196608.rar	c4ad6eca
+v-picross_s6_v196608.sfv	ce7b84ad

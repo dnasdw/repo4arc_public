@@ -1,0 +1,4 @@
+v-fight_n_rage_v524288.nfo	ddfbc26f78ea96ce1a31cb97dfa2d61d014ce49d
+v-fight_n_rage_v524288.r00	0ec1c08d776281ac2c305b4869aa5b94595d9fcd
+v-fight_n_rage_v524288.rar	d9518c568e8300946e37986490b508e72a9d6f40
+v-fight_n_rage_v524288.sfv	e0a97992ba1b508f9bc162ece525e1457f25a061

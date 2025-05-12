@@ -1,0 +1,6 @@
+sxs-pokemon_cafe_mix_v2097152.nfo	-	5851	1	0	0	0
+sxs-pokemon_cafe_mix_v2097152.r00	-	100000000	1	5851	0	1
+sxs-pokemon_cafe_mix_v2097152.r01	-	100000000	1	100005851	0	97
+sxs-pokemon_cafe_mix_v2097152.r02	-	12559649	1	200005851	0	193
+sxs-pokemon_cafe_mix_v2097152.rar	-	100000000	1	212565500	0	205
+sxs-pokemon_cafe_mix_v2097152.sfv	-	176	1	312565500	0	301

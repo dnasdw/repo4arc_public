@@ -1,0 +1,5 @@
+sxs-nes_v1441792.nfo	5dbc3278
+sxs-nes_v1441792.r00	ec7fdd6b
+sxs-nes_v1441792.r01	3d99c7b2
+sxs-nes_v1441792.rar	622fee7c
+sxs-nes_v1441792.sfv	23ed076a

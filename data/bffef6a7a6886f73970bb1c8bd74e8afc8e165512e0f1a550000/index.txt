@@ -1,0 +1,4 @@
+sxs-3_minutes_mystery.nfo	-	5666	1	0	0	0
+sxs-3_minutes_mystery.r00	-	39376279	1	5666	0	1
+sxs-3_minutes_mystery.rar	-	100000000	1	39381945	0	39
+sxs-3_minutes_mystery.sfv	-	72	1	139381945	0	135

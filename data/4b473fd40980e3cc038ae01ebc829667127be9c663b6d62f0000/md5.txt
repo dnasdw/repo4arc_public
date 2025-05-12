@@ -1,0 +1,6 @@
+sxs-gnarbike_trials_2.nfo	d3bdbb7dc5553d72ca089d5f97381b9c
+sxs-gnarbike_trials_2.r00	6be373c7b042ac005fe3159b2bb4c530
+sxs-gnarbike_trials_2.r01	b766881687893c8f8d968688febaab90
+sxs-gnarbike_trials_2.r02	d5a078365838a99e88fd9c650612d7d3
+sxs-gnarbike_trials_2.rar	9784fd0a250589e6129e2bdc5d1bb7c0
+sxs-gnarbike_trials_2.sfv	7a3df8ed847082167a9bb8ae6e6c0a64

@@ -1,0 +1,7 @@
+sxs-monster_crown_v327680.nfo	4cbf4e04
+sxs-monster_crown_v327680.r00	104b8ff1
+sxs-monster_crown_v327680.r01	50672b83
+sxs-monster_crown_v327680.r02	e9b13608
+sxs-monster_crown_v327680.r03	3677a840
+sxs-monster_crown_v327680.rar	f611ac38
+sxs-monster_crown_v327680.sfv	5c60f66f

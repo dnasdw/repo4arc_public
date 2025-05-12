@@ -1,0 +1,12 @@
+sxs-kill_la_kill_if_v65536.nfo	-	3794	1	0	0	0
+sxs-kill_la_kill_if_v65536.r00	-	50000000	1	3794	0	1
+sxs-kill_la_kill_if_v65536.r01	-	50000000	1	50003794	0	49
+sxs-kill_la_kill_if_v65536.r02	-	50000000	1	100003794	0	97
+sxs-kill_la_kill_if_v65536.r03	-	50000000	1	150003794	0	145
+sxs-kill_la_kill_if_v65536.r04	-	50000000	1	200003794	0	193
+sxs-kill_la_kill_if_v65536.r05	-	50000000	1	250003794	0	241
+sxs-kill_la_kill_if_v65536.r06	-	50000000	1	300003794	0	289
+sxs-kill_la_kill_if_v65536.r07	-	50000000	1	350003794	0	337
+sxs-kill_la_kill_if_v65536.r08	-	28154391	1	400003794	0	385
+sxs-kill_la_kill_if_v65536.rar	-	50000000	1	428158185	0	412
+sxs-kill_la_kill_if_v65536.sfv	-	410	1	478158185	0	460

@@ -1,0 +1,16 @@
+i-hd.nfo	3ba45f71
+i-hd.r00	0bae66c1
+i-hd.r01	89f1ca77
+i-hd.r02	bd24608a
+i-hd.r03	5b8ad64a
+i-hd.r04	1d698026
+i-hd.r05	cc50cc64
+i-hd.r06	bea831bc
+i-hd.r07	a8f63257
+i-hd.r08	92c37d03
+i-hd.r09	f822639f
+i-hd.r10	63891461
+i-hd.r11	332240f2
+i-hd.r12	013238fc
+i-hd.rar	5efae32e
+i-hd.sfv	b2789e34

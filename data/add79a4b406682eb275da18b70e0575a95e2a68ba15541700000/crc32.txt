@@ -1,0 +1,14 @@
+brw-tdgo.nfo	7d24032f
+brw-tdgo.r00	79727f68
+brw-tdgo.r01	45cfcd88
+brw-tdgo.r02	7b267a4f
+brw-tdgo.r03	7837bc47
+brw-tdgo.r04	37d1ff08
+brw-tdgo.r05	76f1dcff
+brw-tdgo.r06	8f980c65
+brw-tdgo.r07	c169296d
+brw-tdgo.r08	2999b818
+brw-tdgo.r09	67da8169
+brw-tdgo.r10	5e46d749
+brw-tdgo.rar	d54504a4
+brw-tdgo.sfv	9d6d94b1

@@ -1,0 +1,3 @@
+sxs-sonic_frontiers_explorers_treasure_box_dlc.nfo	-	7694	1	0	0	0
+sxs-sonic_frontiers_explorers_treasure_box_dlc.rar	-	104099	1	7694	0	1
+sxs-sonic_frontiers_explorers_treasure_box_dlc.sfv	-	61	1	111793	0	2

@@ -1,0 +1,10 @@
+jrp-n-mssty.nfo	0e341108e19b723186168dc4d8254215
+jrp-n-mssty.r00	c7e512572c798d49787333f0e99eba4e
+jrp-n-mssty.r01	cb17fde6de753ee6c6b8494ab11be37d
+jrp-n-mssty.r02	958fb09660fe1c97df7e2040cae89946
+jrp-n-mssty.r03	68d1a2822b3272dc35f31a930deadb29
+jrp-n-mssty.r04	b015d5e949a01d95a8c97018d1d8a4ac
+jrp-n-mssty.r05	c0dccd3f27a7aa13475413f78c59e0f1
+jrp-n-mssty.r06	1f0a90c4e7471efad354b5c35cdc3e40
+jrp-n-mssty.rar	262bab6483bd84e8efd05d7d5cfec895
+jrp-n-mssty.sfv	2f0a379c685c80ac527a162441f7435a

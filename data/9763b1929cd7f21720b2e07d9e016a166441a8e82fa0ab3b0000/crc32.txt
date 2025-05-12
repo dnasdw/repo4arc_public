@@ -1,0 +1,12 @@
+sxs-double_dragon_4_v131072.nfo	5d178746
+sxs-double_dragon_4_v131072.r00	ab964e48
+sxs-double_dragon_4_v131072.r01	b8915aa1
+sxs-double_dragon_4_v131072.r02	29a881d0
+sxs-double_dragon_4_v131072.r03	ab843e2f
+sxs-double_dragon_4_v131072.r04	da6522a0
+sxs-double_dragon_4_v131072.r05	90a7f006
+sxs-double_dragon_4_v131072.r06	42020cf4
+sxs-double_dragon_4_v131072.r07	81147a01
+sxs-double_dragon_4_v131072.r08	7b860a69
+sxs-double_dragon_4_v131072.rar	e435b211
+sxs-double_dragon_4_v131072.sfv	d6ee2c86

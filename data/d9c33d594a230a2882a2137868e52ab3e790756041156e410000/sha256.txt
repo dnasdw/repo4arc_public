@@ -1,0 +1,5 @@
+darkmoon-fly.oclock.eshop.nsw.nfo	ed26a72c14f45f59ca4542df73695c3296add1341b8d1962cf0401eb0ec40767
+darkmoon-fly.oclock.eshop.nsw.r00	69346ae78d9b0e9cbeb370b65b0881691c5b3c9243d3858d9117b972e9834f19
+darkmoon-fly.oclock.eshop.nsw.r01	34a94dab2cb9b7687251c94d0187ffc20a6438e42613830559640d47fbee46cc
+darkmoon-fly.oclock.eshop.nsw.rar	667757e1a65b5e9fca04e66e77083eef6a5d800400bdb924a3a41ae9e973392f
+darkmoon-fly.oclock.eshop.nsw.sfv	c5d2417268ca2c1ad646f6f3564c4ca630b3270cd0b71cdcdfac2bf3ad6bd462

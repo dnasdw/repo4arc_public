@@ -1,0 +1,5 @@
+sxs-biolab_wars_v131072.nfo	26022c66e4a0801d483adfbb67fa428390c576dd
+sxs-biolab_wars_v131072.r00	8e6b9c846003d8ba2682f255fa8c04a377e56f66
+sxs-biolab_wars_v131072.r01	fdce4fe45b3f205225f028fde4d6eb68b6466854
+sxs-biolab_wars_v131072.rar	8494336f64a626a9f91e2ba9c1aa7204329625c8
+sxs-biolab_wars_v131072.sfv	c66781f268aa876f4a82a425dc1cfac1facfda17

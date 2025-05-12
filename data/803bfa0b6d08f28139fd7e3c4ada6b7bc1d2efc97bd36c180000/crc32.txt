@@ -1,0 +1,10 @@
+sxs-lion_simulator_survival_rpg_animal_battle.nfo	2f79fbe8
+sxs-lion_simulator_survival_rpg_animal_battle.r00	cd9d8424
+sxs-lion_simulator_survival_rpg_animal_battle.r01	c98814dc
+sxs-lion_simulator_survival_rpg_animal_battle.r02	4f90d635
+sxs-lion_simulator_survival_rpg_animal_battle.r03	81f26d1c
+sxs-lion_simulator_survival_rpg_animal_battle.r04	a4b68df1
+sxs-lion_simulator_survival_rpg_animal_battle.r05	36f28d3b
+sxs-lion_simulator_survival_rpg_animal_battle.r06	7cae68c8
+sxs-lion_simulator_survival_rpg_animal_battle.rar	6f73a428
+sxs-lion_simulator_survival_rpg_animal_battle.sfv	78afc070

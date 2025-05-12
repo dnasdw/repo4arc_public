@@ -1,0 +1,7 @@
+v-steamworld_build_v655360.nfo	-	7696	1	0	0	0
+v-steamworld_build_v655360.r00	-	100000000	1	7696	0	1
+v-steamworld_build_v655360.r01	-	100000000	1	100007696	0	97
+v-steamworld_build_v655360.r02	-	100000000	1	200007696	0	193
+v-steamworld_build_v655360.r03	-	40939999	1	300007696	0	289
+v-steamworld_build_v655360.rar	-	100000000	1	340947695	0	329
+v-steamworld_build_v655360.sfv	-	205	1	440947695	0	425

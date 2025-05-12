@@ -1,0 +1,4 @@
+sxs-biolab_wars_v65536.nfo	9304b19ef76e88c2f56bc31196c9824c
+sxs-biolab_wars_v65536.r00	9572eef6db018f59c7766bf67eb9aee4
+sxs-biolab_wars_v65536.rar	2f8dbdad4cf804f1cc2a9237df47a8a3
+sxs-biolab_wars_v65536.sfv	6c44c2424a85b01502346230607281e8

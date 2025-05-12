@@ -1,0 +1,17 @@
+sxs-dbfu.nfo	716252ca
+sxs-dbfu.r00	760ca997
+sxs-dbfu.r01	cd08dccc
+sxs-dbfu.r02	0da76bb6
+sxs-dbfu.r03	fa3df7b5
+sxs-dbfu.r04	b9bc23fc
+sxs-dbfu.r05	66df513d
+sxs-dbfu.r06	2a6e1060
+sxs-dbfu.r07	9230a54d
+sxs-dbfu.r08	e630c882
+sxs-dbfu.r09	531f0bd8
+sxs-dbfu.r10	0a854d93
+sxs-dbfu.r11	16876636
+sxs-dbfu.r12	befe9430
+sxs-dbfu.r13	5efdfed2
+sxs-dbfu.rar	36ea3fac
+sxs-dbfu.sfv	7e1b973a

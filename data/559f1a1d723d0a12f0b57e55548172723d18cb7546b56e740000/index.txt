@@ -1,0 +1,3 @@
+v-splatoon_3_battle-boosting_bonuses_dlc.nfo	-	6214	1	0	0	0
+v-splatoon_3_battle-boosting_bonuses_dlc.rar	-	122324	1	6214	0	1
+v-splatoon_3_battle-boosting_bonuses_dlc.sfv	-	55	1	128538	0	2

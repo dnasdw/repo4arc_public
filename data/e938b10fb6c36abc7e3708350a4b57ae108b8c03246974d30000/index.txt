@@ -1,0 +1,5 @@
+lfc-boxalign.nfo	-	3636	1	0	0	0
+lfc-boxalign.r00	-	50000000	1	3636	0	1
+lfc-boxalign.r01	-	613233	1	50003636	0	49
+lfc-boxalign.rar	-	50000000	1	50616869	0	50
+lfc-boxalign.sfv	-	81	1	100616869	0	98

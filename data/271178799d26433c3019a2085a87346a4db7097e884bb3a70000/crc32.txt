@@ -1,0 +1,6 @@
+lfc-aka_v65536.nfo	27d43800
+lfc-aka_v65536.r00	918bdf12
+lfc-aka_v65536.r01	dac05b74
+lfc-aka_v65536.r02	2ed0800f
+lfc-aka_v65536.rar	bf25423d
+lfc-aka_v65536.sfv	a70bcd7c

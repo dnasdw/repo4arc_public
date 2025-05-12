@@ -1,0 +1,10 @@
+v-quake_v262144.nfo	cca84e10
+v-quake_v262144.r00	a63bca99
+v-quake_v262144.r01	2b7d49e3
+v-quake_v262144.r02	8a55b0db
+v-quake_v262144.r03	9734dcb0
+v-quake_v262144.r04	fba76d1c
+v-quake_v262144.r05	229d1547
+v-quake_v262144.r06	5f59715a
+v-quake_v262144.rar	10e76491
+v-quake_v262144.sfv	4143545c

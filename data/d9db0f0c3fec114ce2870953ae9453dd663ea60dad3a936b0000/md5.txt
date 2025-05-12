@@ -1,0 +1,3 @@
+lfc-tor2_v65536.nfo	0581f8ed26259c26ea6335feffd3e682
+lfc-tor2_v65536.rar	b1efb050918dd553af16b6f7eb69f84b
+lfc-tor2_v65536.sfv	05f420eead450f568b4acf42ec6c4430

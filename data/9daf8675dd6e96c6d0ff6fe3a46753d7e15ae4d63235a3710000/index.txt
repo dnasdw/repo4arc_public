@@ -1,0 +1,5 @@
+sxs-dragon_quest_monsters_the_dark_prince_v196608.nfo	-	4808	1	0	0	0
+sxs-dragon_quest_monsters_the_dark_prince_v196608.r00	-	100000000	1	4808	0	1
+sxs-dragon_quest_monsters_the_dark_prince_v196608.r01	-	20964995	1	100004808	0	97
+sxs-dragon_quest_monsters_the_dark_prince_v196608.rar	-	100000000	1	120969803	0	117
+sxs-dragon_quest_monsters_the_dark_prince_v196608.sfv	-	192	1	220969803	0	213

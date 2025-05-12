@@ -1,0 +1,4 @@
+sxs-outbreak_lost_hope_v131072.nfo	-	4106	1	0	0	0
+sxs-outbreak_lost_hope_v131072.r00	-	29680491	1	4106	0	1
+sxs-outbreak_lost_hope_v131072.rar	-	50000000	1	29684597	0	30
+sxs-outbreak_lost_hope_v131072.sfv	-	90	1	79684597	0	78

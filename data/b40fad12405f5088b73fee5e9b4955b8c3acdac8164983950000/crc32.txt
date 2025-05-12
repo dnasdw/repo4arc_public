@@ -1,0 +1,5 @@
+sxs-kof03.nfo	d9d8c887
+sxs-kof03.r00	111c96d5
+sxs-kof03.r01	008f9c89
+sxs-kof03.rar	80d03a64
+sxs-kof03.sfv	acb67cb5

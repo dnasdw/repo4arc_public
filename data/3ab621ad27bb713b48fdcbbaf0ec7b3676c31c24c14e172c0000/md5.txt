@@ -1,0 +1,15 @@
+l-mybrotherrabbit.nfo	58316a83ef1bb1b0b4af29aa3b1bda2f
+l-mybrotherrabbit.r00	c2c608ee3c9ea401b5459269ec387ce3
+l-mybrotherrabbit.r01	92b8b56d58a95a3f0bca10908226998e
+l-mybrotherrabbit.r02	9b4aca6047ddab2e3a60002f5c324871
+l-mybrotherrabbit.r03	9a5b10b3c0e5c4b6a53d57cb1d333c9f
+l-mybrotherrabbit.r04	39bc6d465622e4e58250bc18cef9a289
+l-mybrotherrabbit.r05	d34f095b4fb1d9753b6d19d875750618
+l-mybrotherrabbit.r06	638c159e0fdc5a3d624f8b7657df2b72
+l-mybrotherrabbit.r07	d22acc66e89b665384c60949dc0adfac
+l-mybrotherrabbit.r08	b0322bd37a415bdbc8d81a6bc11f2023
+l-mybrotherrabbit.r09	df976163942af82a76b48d60ea428e7b
+l-mybrotherrabbit.r10	8e5b479edf181cf3a52bff5e3ccb86ec
+l-mybrotherrabbit.r11	35bcbdbb5c0f7c1839d7b84ca62fc8f9
+l-mybrotherrabbit.rar	3009a41366bad37c79f07c9b96fa5022
+l-mybrotherrabbit.sfv	73fd900bbb8043239f20da24c406903e

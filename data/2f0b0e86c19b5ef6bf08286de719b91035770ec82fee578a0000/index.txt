@@ -1,0 +1,4 @@
+sxs-cardful_planning.nfo	-	5510	1	0	0	0
+sxs-cardful_planning.r00	-	7640090	1	5510	0	1
+sxs-cardful_planning.rar	-	50000000	1	7645600	0	9
+sxs-cardful_planning.sfv	-	70	1	57645600	0	57

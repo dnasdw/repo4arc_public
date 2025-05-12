@@ -1,0 +1,3 @@
+sxs-go_rally_v65536.nfo	-	4886	1	0	0	0
+sxs-go_rally_v65536.rar	-	27141670	1	4886	0	1
+sxs-go_rally_v65536.sfv	-	34	1	27146556	0	27

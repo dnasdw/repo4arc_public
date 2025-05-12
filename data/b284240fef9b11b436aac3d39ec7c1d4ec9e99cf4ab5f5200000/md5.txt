@@ -1,0 +1,3 @@
+v-mortal_kombat_1_dlc.nfo	24562c5f8f2f91774c554b936bab09e7
+v-mortal_kombat_1_dlc.rar	1d6bd1d4ab1e126149ad3d0ae004db07
+v-mortal_kombat_1_dlc.sfv	025c5a1747064eb7544a2b654845ab5a

@@ -1,0 +1,11 @@
+hr-overrogue.nfo	f87caa227ea971ad377f66355fd6fe7f
+hr-overrogue.r00	3978ac73126828e4c8e0ed5080b823b7
+hr-overrogue.r01	cf5d3e82e01b7a39765ddec8fc91f131
+hr-overrogue.r02	a7b3ce7fa12ec0af453e233d0a2d69ee
+hr-overrogue.r03	bcec651ed9cb73cda33c0d5218f3a54e
+hr-overrogue.r04	6b59bbeadcbf03b1ca213bef6cf1bc1e
+hr-overrogue.r05	501296a5c1f55eff9d9ee53a880cbc1c
+hr-overrogue.r06	5e37ed3ea15e38ed04fa0a58f6bdcac6
+hr-overrogue.r07	792d9ed00b72a2ac83d9963cd1b587e2
+hr-overrogue.rar	e78b1a9f611e99ed54555a1fd17b9bb9
+hr-overrogue.sfv	b8eb93ff9eceebc5cb7e04dc5249e252

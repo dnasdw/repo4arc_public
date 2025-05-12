@@ -1,0 +1,8 @@
+sxs-fatal_frame_maiden_of_black_water_v262144.nfo	c5c128cc
+sxs-fatal_frame_maiden_of_black_water_v262144.r00	3008ab17
+sxs-fatal_frame_maiden_of_black_water_v262144.r01	1232083c
+sxs-fatal_frame_maiden_of_black_water_v262144.r02	3b9b81ea
+sxs-fatal_frame_maiden_of_black_water_v262144.r03	16ff3ba4
+sxs-fatal_frame_maiden_of_black_water_v262144.r04	c7d1c146
+sxs-fatal_frame_maiden_of_black_water_v262144.rar	495c6adb
+sxs-fatal_frame_maiden_of_black_water_v262144.sfv	c6e287a0

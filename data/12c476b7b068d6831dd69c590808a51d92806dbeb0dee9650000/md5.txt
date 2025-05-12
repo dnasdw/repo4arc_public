@@ -1,0 +1,12 @@
+Proof	d41d8cd98f00b204e9800998ecf8427e
+Proof/sxs-tanuki_justice.jpg	2602951e7f9b6711fa462fa8aa3d361d
+sxs-tanuki_justice.nfo	09e5d97983c2a07cf02ed89b9d24c34e
+sxs-tanuki_justice.r00	348eb9b22ca7da7e0f9e5c4aaf11a106
+sxs-tanuki_justice.r01	d12e1da3dd3e8c3f4877a5c5a509a588
+sxs-tanuki_justice.r02	597996052321113caabeb763119bd2c8
+sxs-tanuki_justice.r03	98e89358a47b050f96bbf08741797ff0
+sxs-tanuki_justice.r04	f9a7e3e62d786eb57949b7f30b0ba6b5
+sxs-tanuki_justice.r05	6cb39ce81ecbd0a1a755d2a7eadbece1
+sxs-tanuki_justice.r06	61318c216e3dd37493ab259f256c5dba
+sxs-tanuki_justice.rar	eb3b502af3dfae7cc55077f150319003
+sxs-tanuki_justice.sfv	fdaed1c49a14f69531b68c28c773472d

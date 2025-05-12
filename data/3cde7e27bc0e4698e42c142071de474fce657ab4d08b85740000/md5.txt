@@ -1,0 +1,4 @@
+v-transistor_v65536.nfo	925bc0654db72b5c5572d6894c31e78b
+v-transistor_v65536.r00	bccc644a175c50ac7b1ba94dfcce9a4f
+v-transistor_v65536.rar	3a12b5cc96ad1e7b97424fc2dfe3c7d4
+v-transistor_v65536.sfv	4ee71106cc0b305147b75896e8535509

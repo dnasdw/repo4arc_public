@@ -1,0 +1,9 @@
+sxs-jewel_match_twilight_solitaire.nfo	d0888bb6
+sxs-jewel_match_twilight_solitaire.r00	69243076
+sxs-jewel_match_twilight_solitaire.r01	69a0c92b
+sxs-jewel_match_twilight_solitaire.r02	73050342
+sxs-jewel_match_twilight_solitaire.r03	7f0adc55
+sxs-jewel_match_twilight_solitaire.r04	57adac30
+sxs-jewel_match_twilight_solitaire.r05	ac06510e
+sxs-jewel_match_twilight_solitaire.rar	435ad2f0
+sxs-jewel_match_twilight_solitaire.sfv	55b3208a

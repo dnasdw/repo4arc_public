@@ -1,0 +1,12 @@
+v-final_vendetta.nfo	-	8632	1	0	0	0
+v-final_vendetta.r00	-	50000000	1	8632	0	1
+v-final_vendetta.r01	-	50000000	1	50008632	0	49
+v-final_vendetta.r02	-	50000000	1	100008632	0	97
+v-final_vendetta.r03	-	50000000	1	150008632	0	145
+v-final_vendetta.r04	-	50000000	1	200008632	0	193
+v-final_vendetta.r05	-	50000000	1	250008632	0	241
+v-final_vendetta.r06	-	50000000	1	300008632	0	289
+v-final_vendetta.r07	-	50000000	1	350008632	0	337
+v-final_vendetta.r08	-	18013178	1	400008632	0	385
+v-final_vendetta.rar	-	50000000	1	418021810	0	403
+v-final_vendetta.sfv	-	310	1	468021810	0	451

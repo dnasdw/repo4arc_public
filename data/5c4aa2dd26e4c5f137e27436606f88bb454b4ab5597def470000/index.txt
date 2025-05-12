@@ -1,0 +1,3 @@
+bbb-n-aexma.nfo	-	5517	1	0	0	0
+bbb-n-aexma.rar	-	131623882	1	5517	0	1
+bbb-n-aexma.sfv	-	26	1	131629399	0	127

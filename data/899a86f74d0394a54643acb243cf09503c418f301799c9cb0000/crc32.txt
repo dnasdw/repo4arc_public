@@ -1,0 +1,16 @@
+l-ccd.nfo	0c3df17a
+l-ccd.r00	970b0c49
+l-ccd.r01	d79807e2
+l-ccd.r02	7cd61e99
+l-ccd.r03	20cb6c4c
+l-ccd.r04	6cbe034d
+l-ccd.r05	9e7e2572
+l-ccd.r06	b19e4dae
+l-ccd.r07	c9f1e8f0
+l-ccd.r08	6d07d3d5
+l-ccd.r09	1898244f
+l-ccd.r10	67e50de4
+l-ccd.r11	38eebe7e
+l-ccd.r12	04d6962d
+l-ccd.rar	b11b926e
+l-ccd.sfv	4ba563a3

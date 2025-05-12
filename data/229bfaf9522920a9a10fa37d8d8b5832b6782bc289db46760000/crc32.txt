@@ -1,0 +1,14 @@
+hr-bczga.nfo	db28900a
+hr-bczga.r00	026ac036
+hr-bczga.r01	334fdc95
+hr-bczga.r02	9ff867e1
+hr-bczga.r03	ade1e11a
+hr-bczga.r04	4d00d47a
+hr-bczga.r05	63932f53
+hr-bczga.r06	b79918d1
+hr-bczga.r07	b62b40fd
+hr-bczga.r08	a329844d
+hr-bczga.rar	0fc57385
+hr-bczga.sfv	8f83c4d3
+Proof	00000000
+Proof/hr-bczga.jpg	734fd0b8

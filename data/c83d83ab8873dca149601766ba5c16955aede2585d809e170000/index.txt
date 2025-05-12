@@ -1,0 +1,6 @@
+v-headliner_novinews_v65536.nfo	-	6370	1	0	0	0
+v-headliner_novinews_v65536.r00	-	50000000	1	6370	0	1
+v-headliner_novinews_v65536.r01	-	50000000	1	50006370	0	49
+v-headliner_novinews_v65536.r02	-	1329198	1	100006370	0	97
+v-headliner_novinews_v65536.rar	-	50000000	1	101335568	0	99
+v-headliner_novinews_v65536.sfv	-	168	1	151335568	0	147

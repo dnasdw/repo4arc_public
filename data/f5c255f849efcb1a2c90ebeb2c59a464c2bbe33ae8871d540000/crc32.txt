@@ -1,0 +1,8 @@
+v-star_wars_jedi_knight_jedi_academy_v131072.nfo	f614eb02
+v-star_wars_jedi_knight_jedi_academy_v131072.r00	5d6ee11d
+v-star_wars_jedi_knight_jedi_academy_v131072.r01	ee2ee5bc
+v-star_wars_jedi_knight_jedi_academy_v131072.r02	def0338d
+v-star_wars_jedi_knight_jedi_academy_v131072.r03	b724ef30
+v-star_wars_jedi_knight_jedi_academy_v131072.r04	632f99c6
+v-star_wars_jedi_knight_jedi_academy_v131072.rar	a5fa4613
+v-star_wars_jedi_knight_jedi_academy_v131072.sfv	84468871

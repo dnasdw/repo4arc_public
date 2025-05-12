@@ -1,0 +1,5 @@
+lfc-projectstarship.nfo	2445d6ed
+lfc-projectstarship.r00	25accd56
+lfc-projectstarship.r01	31175652
+lfc-projectstarship.rar	ce828a55
+lfc-projectstarship.sfv	d1cbdd1c

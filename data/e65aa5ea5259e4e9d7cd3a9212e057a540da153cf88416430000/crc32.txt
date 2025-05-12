@@ -1,0 +1,6 @@
+sxs-onion_assault.nfo	0ce467be
+sxs-onion_assault.r00	f47ff803
+sxs-onion_assault.r01	9be98943
+sxs-onion_assault.r02	9ec8aac4
+sxs-onion_assault.rar	908bc4b5
+sxs-onion_assault.sfv	f8207745

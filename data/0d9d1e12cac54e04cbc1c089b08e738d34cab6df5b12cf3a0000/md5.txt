@@ -1,0 +1,3 @@
+sxs-osm_toricity_dlc.nfo	d9baf588a1971cc380234d77ef04de51
+sxs-osm_toricity_dlc.rar	e3313f8fc26aeb4302ce58c6e4348ba0
+sxs-osm_toricity_dlc.sfv	7896132966a396444e5b4c95788e323a

@@ -1,0 +1,10 @@
+v-super_korotama.nfo	-	4342	1	0	0	0
+v-super_korotama.r00	-	50000000	1	4342	0	1
+v-super_korotama.r01	-	50000000	1	50004342	0	49
+v-super_korotama.r02	-	50000000	1	100004342	0	97
+v-super_korotama.r03	-	50000000	1	150004342	0	145
+v-super_korotama.r04	-	50000000	1	200004342	0	193
+v-super_korotama.r05	-	50000000	1	250004342	0	241
+v-super_korotama.r06	-	40793720	1	300004342	0	289
+v-super_korotama.rar	-	50000000	1	340798062	0	328
+v-super_korotama.sfv	-	248	1	390798062	0	376

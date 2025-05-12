@@ -1,0 +1,8 @@
+sxs-piczle_cross_story_of_seasons.nfo	-	7070	1	0	0	0
+sxs-piczle_cross_story_of_seasons.r00	-	100000000	1	7070	0	1
+sxs-piczle_cross_story_of_seasons.r01	-	100000000	1	100007070	0	97
+sxs-piczle_cross_story_of_seasons.r02	-	100000000	1	200007070	0	193
+sxs-piczle_cross_story_of_seasons.r03	-	100000000	1	300007070	0	289
+sxs-piczle_cross_story_of_seasons.r04	-	38193463	1	400007070	0	385
+sxs-piczle_cross_story_of_seasons.rar	-	100000000	1	438200533	0	422
+sxs-piczle_cross_story_of_seasons.sfv	-	288	1	385280	1	1

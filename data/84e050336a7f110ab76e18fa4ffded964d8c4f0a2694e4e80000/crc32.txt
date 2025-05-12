@@ -1,0 +1,10 @@
+sxs-stau_v262144.nfo	3a1b0068
+sxs-stau_v262144.r00	68fd6a7c
+sxs-stau_v262144.r01	4ce9f58e
+sxs-stau_v262144.r02	97f2829b
+sxs-stau_v262144.r03	ff5c0092
+sxs-stau_v262144.r04	f6a423c8
+sxs-stau_v262144.r05	b10c623a
+sxs-stau_v262144.r06	967c0fe2
+sxs-stau_v262144.rar	5d57eafc
+sxs-stau_v262144.sfv	d7ceb4e9

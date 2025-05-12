@@ -1,0 +1,5 @@
+sxs-alien_isolation_v196608.nfo	8296866b3c1a60b6a675a5af7cef23ba
+sxs-alien_isolation_v196608.r00	d53de17c0a4a4d2120e456b1b2a8ff2c
+sxs-alien_isolation_v196608.r01	b1149a65a2e275799c872554b98db9a0
+sxs-alien_isolation_v196608.rar	1bd1eddc0c049d48583cab4d98c8b19f
+sxs-alien_isolation_v196608.sfv	458097cc3a699e289f198253bc61c992

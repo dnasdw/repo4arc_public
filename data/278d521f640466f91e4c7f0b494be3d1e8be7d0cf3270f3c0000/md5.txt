@@ -1,0 +1,7 @@
+sxs-spear_master.nfo	27c4002f7397cd58918cade6d0cb513d
+sxs-spear_master.r00	be91ccbcd28e9178b27b41b06fc98f17
+sxs-spear_master.r01	28f9f50ae4c1f5f076b024e42dbc0586
+sxs-spear_master.r02	774f15eb6a503d49d3739b73ae7a085e
+sxs-spear_master.r03	def024255991e0a537ffcabbc6850901
+sxs-spear_master.rar	3dfa1ded5173308c320e25a3380b4e04
+sxs-spear_master.sfv	5dc6806b9bfd72d842269b4c8ae2d8d0

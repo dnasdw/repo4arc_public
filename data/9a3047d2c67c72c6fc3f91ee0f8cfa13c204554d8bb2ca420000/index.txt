@@ -1,0 +1,6 @@
+sxs-matsukeke_burst.nfo	-	5354	1	0	0	0
+sxs-matsukeke_burst.r00	-	100000000	1	5354	0	1
+sxs-matsukeke_burst.r01	-	100000000	1	100005354	0	97
+sxs-matsukeke_burst.r02	-	3547729	1	200005354	0	193
+sxs-matsukeke_burst.rar	-	100000000	1	203553083	0	197
+sxs-matsukeke_burst.sfv	-	136	1	303553083	0	293

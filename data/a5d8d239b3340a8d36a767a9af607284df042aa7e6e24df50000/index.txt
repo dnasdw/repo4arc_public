@@ -1,0 +1,5 @@
+v-xenoblade_chronicles_definitive_edition_v196608.nfo	-	5434	1	0	0	0
+v-xenoblade_chronicles_definitive_edition_v196608.r00	-	50000000	1	5434	0	1
+v-xenoblade_chronicles_definitive_edition_v196608.r01	-	4879505	1	50005434	0	49
+v-xenoblade_chronicles_definitive_edition_v196608.rar	-	50000000	1	54884939	0	54
+v-xenoblade_chronicles_definitive_edition_v196608.sfv	-	192	1	104884939	0	102

@@ -1,0 +1,12 @@
+lfc-beh3.nfo	35949aba
+lfc-beh3.r00	99eaee75
+lfc-beh3.r01	8bb964d5
+lfc-beh3.r02	f55a3a40
+lfc-beh3.r03	5070a752
+lfc-beh3.r04	3ec6fb0b
+lfc-beh3.r05	ebf3d3f7
+lfc-beh3.r06	0f3ea698
+lfc-beh3.r07	223abc35
+lfc-beh3.r08	f0e68ec3
+lfc-beh3.rar	da9761e5
+lfc-beh3.sfv	c148e29d

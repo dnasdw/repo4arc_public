@@ -1,0 +1,14 @@
+sxs-blasphemous_2_v262144.nfo	56b3e985
+sxs-blasphemous_2_v262144.r00	55ce9b34
+sxs-blasphemous_2_v262144.r01	50022fbd
+sxs-blasphemous_2_v262144.r02	904f5730
+sxs-blasphemous_2_v262144.r03	4cf46ced
+sxs-blasphemous_2_v262144.r04	19efa9c0
+sxs-blasphemous_2_v262144.r05	1a664f85
+sxs-blasphemous_2_v262144.r06	fb1e5542
+sxs-blasphemous_2_v262144.r07	367ac105
+sxs-blasphemous_2_v262144.r08	99abaab2
+sxs-blasphemous_2_v262144.r09	8964d9b9
+sxs-blasphemous_2_v262144.r10	9dd76451
+sxs-blasphemous_2_v262144.rar	2b1e355d
+sxs-blasphemous_2_v262144.sfv	fed101d3

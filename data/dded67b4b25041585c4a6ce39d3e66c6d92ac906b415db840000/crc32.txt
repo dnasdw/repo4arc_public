@@ -1,0 +1,12 @@
+sxs-broforce_v262144.nfo	c945ecda
+sxs-broforce_v262144.r00	75092761
+sxs-broforce_v262144.r01	5bf0e7b4
+sxs-broforce_v262144.r02	1a4cabc2
+sxs-broforce_v262144.r03	981be572
+sxs-broforce_v262144.r04	0b73e782
+sxs-broforce_v262144.r05	0596ed07
+sxs-broforce_v262144.r06	3bbe4834
+sxs-broforce_v262144.r07	093912c6
+sxs-broforce_v262144.r08	a74f5d1a
+sxs-broforce_v262144.rar	7e409c00
+sxs-broforce_v262144.sfv	49b06545

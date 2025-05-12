@@ -1,0 +1,14 @@
+v-red_wings_american_aces_v196608.nfo	-	8008	1	0	0	0
+v-red_wings_american_aces_v196608.r00	-	50000000	1	8008	0	1
+v-red_wings_american_aces_v196608.r01	-	50000000	1	50008008	0	49
+v-red_wings_american_aces_v196608.r02	-	50000000	1	100008008	0	97
+v-red_wings_american_aces_v196608.r03	-	50000000	1	150008008	0	145
+v-red_wings_american_aces_v196608.r04	-	50000000	1	200008008	0	193
+v-red_wings_american_aces_v196608.r05	-	50000000	1	250008008	0	241
+v-red_wings_american_aces_v196608.r06	-	50000000	1	300008008	0	289
+v-red_wings_american_aces_v196608.r07	-	50000000	1	350008008	0	337
+v-red_wings_american_aces_v196608.r08	-	50000000	1	400008008	0	385
+v-red_wings_american_aces_v196608.r09	-	50000000	1	450008008	0	433
+v-red_wings_american_aces_v196608.r10	-	35886759	1	500008008	0	481
+v-red_wings_american_aces_v196608.rar	-	50000000	1	535894767	0	516
+v-red_wings_american_aces_v196608.sfv	-	576	1	48951424	1	47

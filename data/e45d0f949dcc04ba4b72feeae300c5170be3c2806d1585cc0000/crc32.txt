@@ -1,0 +1,5 @@
+sxs-harvest_moon_one_world_v131072.nfo	d4c621d9
+sxs-harvest_moon_one_world_v131072.r00	49ab0bb1
+sxs-harvest_moon_one_world_v131072.r01	18f25753
+sxs-harvest_moon_one_world_v131072.rar	9a1af685
+sxs-harvest_moon_one_world_v131072.sfv	551e2deb

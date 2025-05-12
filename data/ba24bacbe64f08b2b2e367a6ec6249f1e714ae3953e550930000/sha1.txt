@@ -1,0 +1,7 @@
+i-rawroff.nfo	a95b8694838292a7de3377c6cb28c7ea0e4f089d
+i-rawroff.r00	c710673548447fd0e9ae5939cb0d9c2f946aa0c9
+i-rawroff.r01	484c23c604f52c263f4f7d3c3d6a5efaa620adca
+i-rawroff.r02	3e5641decdbc488ce0da036a3da945ea00ed7928
+i-rawroff.r03	2b597d4a41374b68f2744da69acd731bf626756c
+i-rawroff.rar	da40b9844fe94c3b8eb2072a3e7158b87de814f3
+i-rawroff.sfv	0f48ae2bd850fa7907eca75bececbb21ad2c7d59

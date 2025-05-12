@@ -1,0 +1,6 @@
+sxs-cave_story_plus_v196608.nfo	-	4262	1	0	0	0
+sxs-cave_story_plus_v196608.r00	-	50000000	1	4262	0	1
+sxs-cave_story_plus_v196608.r01	-	50000000	1	50004262	0	49
+sxs-cave_story_plus_v196608.r02	-	6637407	1	100004262	0	97
+sxs-cave_story_plus_v196608.rar	-	50000000	1	106641669	0	104
+sxs-cave_story_plus_v196608.sfv	-	168	1	156641669	0	152

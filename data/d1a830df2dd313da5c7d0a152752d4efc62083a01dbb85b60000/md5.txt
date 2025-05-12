@@ -1,0 +1,4 @@
+brw-tutm_v65536.nfo	a20b1a7e7a499ae1a419b26fabd730fd
+brw-tutm_v65536.r00	e3d0d8643e6d596ee031e4d181b4c909
+brw-tutm_v65536.rar	0d8cb8568bf1e9cd393fae189ef3d355
+brw-tutm_v65536.sfv	91ca52f09a4aa3daf60f2408efbd6e95

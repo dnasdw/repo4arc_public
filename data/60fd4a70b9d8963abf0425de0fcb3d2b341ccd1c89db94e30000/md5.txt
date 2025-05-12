@@ -1,0 +1,8 @@
+sxs-8_ball_clash.nfo	3423fbcddcfa668fd436cae3323267cd
+sxs-8_ball_clash.r00	7e90a62cb5290c4f8c1f54f03fccd3ab
+sxs-8_ball_clash.r01	52f7effe47a65eeb7712fb5f2938a227
+sxs-8_ball_clash.r02	03e1ddf469a6850a081e2ec3196d9eb9
+sxs-8_ball_clash.r03	030160a90b78bbbc1223e774e3de58c8
+sxs-8_ball_clash.r04	a5b515b4cb7ac4ab69232d7279d6506a
+sxs-8_ball_clash.rar	ea5e3ded1f67c5a7123510c4c172a13a
+sxs-8_ball_clash.sfv	8cdf35d4f652feca8994c34d286e394f

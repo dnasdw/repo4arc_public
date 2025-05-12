@@ -1,0 +1,8 @@
+ycn-army_of_ruin.nfo	6a656e42
+ycn-army_of_ruin.r00	12debb09
+ycn-army_of_ruin.r01	00520ce5
+ycn-army_of_ruin.r02	695e956e
+ycn-army_of_ruin.r03	c9c1ba7a
+ycn-army_of_ruin.r04	6ec3f01c
+ycn-army_of_ruin.rar	68e5bee4
+ycn-army_of_ruin.sfv	36774dcc

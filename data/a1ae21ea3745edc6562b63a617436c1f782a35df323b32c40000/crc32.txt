@@ -1,0 +1,16 @@
+sxs-opus_collection_v196608.nfo	bf2e3fb8
+sxs-opus_collection_v196608.r00	6dd910b2
+sxs-opus_collection_v196608.r01	6e3236a7
+sxs-opus_collection_v196608.r02	1214e4fb
+sxs-opus_collection_v196608.r03	4c5eaa7b
+sxs-opus_collection_v196608.r04	9bd73790
+sxs-opus_collection_v196608.r05	47e778d8
+sxs-opus_collection_v196608.r06	282d13ff
+sxs-opus_collection_v196608.r07	0fa61a21
+sxs-opus_collection_v196608.r08	10253594
+sxs-opus_collection_v196608.r09	331bace5
+sxs-opus_collection_v196608.r10	e958fa0b
+sxs-opus_collection_v196608.r11	8cf34d0f
+sxs-opus_collection_v196608.r12	60ec07ef
+sxs-opus_collection_v196608.rar	14983276
+sxs-opus_collection_v196608.sfv	5dc58054

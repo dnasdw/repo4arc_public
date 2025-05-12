@@ -1,0 +1,16 @@
+sxs-shovel_knight_dig_v196608.nfo	5a3455a1
+sxs-shovel_knight_dig_v196608.r00	59b79646
+sxs-shovel_knight_dig_v196608.r01	19e45281
+sxs-shovel_knight_dig_v196608.r02	39590c54
+sxs-shovel_knight_dig_v196608.r03	30cd891a
+sxs-shovel_knight_dig_v196608.r04	2e3dfd40
+sxs-shovel_knight_dig_v196608.r05	616bb96b
+sxs-shovel_knight_dig_v196608.r06	dc86a4ab
+sxs-shovel_knight_dig_v196608.r07	032f25b8
+sxs-shovel_knight_dig_v196608.r08	2737ad7b
+sxs-shovel_knight_dig_v196608.r09	8402f9af
+sxs-shovel_knight_dig_v196608.r10	34cf406a
+sxs-shovel_knight_dig_v196608.r11	699e2ff8
+sxs-shovel_knight_dig_v196608.r12	aefd461a
+sxs-shovel_knight_dig_v196608.rar	34abf943
+sxs-shovel_knight_dig_v196608.sfv	4558a634

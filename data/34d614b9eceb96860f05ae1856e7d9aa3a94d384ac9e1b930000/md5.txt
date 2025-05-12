@@ -1,0 +1,10 @@
+lfc-soba.nfo	c1ab7578c41c5bb384529b6ec34d6058
+lfc-soba.r00	b5308cdf47185c8c5f5b30a4fc5e5ba0
+lfc-soba.r01	056435aed907ace6b946408ec601190c
+lfc-soba.r02	9da7176fa009090b851986344cf2def8
+lfc-soba.r03	776ce34daee38a12b34e4988ae6f53ea
+lfc-soba.r04	88810fe829d1452c69dff25e1d4ab0f4
+lfc-soba.r05	aa903051d7715f16a892af9abda64fda
+lfc-soba.r06	c8d02987a75aae94e87072b98ba1f557
+lfc-soba.rar	f164f6bef2b6e4c459980e48e41fb78c
+lfc-soba.sfv	d86b911c67861ab0b7e2d0cb06079f37

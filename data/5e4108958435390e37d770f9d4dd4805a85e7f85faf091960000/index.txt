@@ -1,0 +1,6 @@
+bbb-h-aek6a.nfo	-	5517	1	0	0	0
+bbb-h-aek6a.part01.rar	-	250000000	1	5517	0	1
+bbb-h-aek6a.part02.rar	-	250000000	1	250005517	0	240
+bbb-h-aek6a.part03.rar	-	250000000	1	500005517	0	479
+bbb-h-aek6a.part04.rar	-	207409371	1	212251264	1	203
+bbb-h-aek6a.sfv	-	132	1	419660635	1	401

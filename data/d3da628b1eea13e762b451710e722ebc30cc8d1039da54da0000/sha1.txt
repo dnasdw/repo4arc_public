@@ -1,0 +1,11 @@
+l-aruca.nfo	53da3a4f6e5bc0c3b3cd1da45cea6dab90dbbe68
+l-aruca.part01.rar	4ee0cda92f83083cc181c04b4e410f4ad0df89b7
+l-aruca.part02.rar	5b74d01b65052fcf968633399bed732b4d78c146
+l-aruca.part03.rar	85a864064bdc3dfd84a165b97525685566b144fd
+l-aruca.part04.rar	36efe116f02b3691bc0896b94d1a333d6cf732ae
+l-aruca.part05.rar	e7e0853075b9dec69859a76a5c40cb8d358ef623
+l-aruca.part06.rar	ad880248184068eef1690ddc1ca96bae63bdfeed
+l-aruca.part07.rar	71ba945847120b6750097e1b31d447a5e2bcd53b
+l-aruca.sfv	de72a322e68ebaef6a44344ec8bd1512249d8300
+Proof	da39a3ee5e6b4b0d3255bfef95601890afd80709
+Proof/l-aruca.jpg	3aba23ecce46b29e492eda5429eb98601130cc4d

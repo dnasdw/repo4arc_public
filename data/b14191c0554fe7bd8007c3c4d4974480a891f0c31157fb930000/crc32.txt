@@ -1,0 +1,14 @@
+v-front_mission_1st_remake_v327680.nfo	7a09703d
+v-front_mission_1st_remake_v327680.r00	714c8883
+v-front_mission_1st_remake_v327680.r01	c8a941df
+v-front_mission_1st_remake_v327680.r02	3ed2a933
+v-front_mission_1st_remake_v327680.r03	e300d661
+v-front_mission_1st_remake_v327680.r04	b6ed74a1
+v-front_mission_1st_remake_v327680.r05	1d71e1fe
+v-front_mission_1st_remake_v327680.r06	b4479c2d
+v-front_mission_1st_remake_v327680.r07	0d34eabf
+v-front_mission_1st_remake_v327680.r08	f83bbe9e
+v-front_mission_1st_remake_v327680.r09	ca191d1b
+v-front_mission_1st_remake_v327680.r10	5176a828
+v-front_mission_1st_remake_v327680.rar	d17663a7
+v-front_mission_1st_remake_v327680.sfv	97eca1fb

@@ -1,0 +1,5 @@
+sxs-planet_rix-13.nfo	02a923930e4858a73a311a2414f751fd
+sxs-planet_rix-13.r00	03658a45e7ff07c7364c9f73f4ede113
+sxs-planet_rix-13.r01	f3127d879b2c291bc257b737ee7f0b86
+sxs-planet_rix-13.rar	32fad72ddaaea02d943a94c701ffea0d
+sxs-planet_rix-13.sfv	3742cab1460886072d590ed22d0bd833

@@ -1,0 +1,13 @@
+sxs-horse_club_adventures_v196608.nfo	0d8e0880
+sxs-horse_club_adventures_v196608.r00	52034fdb
+sxs-horse_club_adventures_v196608.r01	b922dab6
+sxs-horse_club_adventures_v196608.r02	fc35528b
+sxs-horse_club_adventures_v196608.r03	3fa50e26
+sxs-horse_club_adventures_v196608.r04	fb7adff5
+sxs-horse_club_adventures_v196608.r05	5f00d66b
+sxs-horse_club_adventures_v196608.r06	1f6ed5af
+sxs-horse_club_adventures_v196608.r07	9405c533
+sxs-horse_club_adventures_v196608.r08	c39b2eff
+sxs-horse_club_adventures_v196608.r09	e2376768
+sxs-horse_club_adventures_v196608.rar	cd85016e
+sxs-horse_club_adventures_v196608.sfv	40f63387

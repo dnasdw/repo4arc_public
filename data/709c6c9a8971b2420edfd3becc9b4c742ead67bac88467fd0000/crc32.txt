@@ -1,0 +1,11 @@
+v-doom_1993_v524288.nfo	23690d89
+v-doom_1993_v524288.r00	25f1fc8f
+v-doom_1993_v524288.r01	92a4c1b2
+v-doom_1993_v524288.r02	edd323b0
+v-doom_1993_v524288.r03	7b1ba37f
+v-doom_1993_v524288.r04	ebbbe1cb
+v-doom_1993_v524288.r05	f2c54dbd
+v-doom_1993_v524288.r06	1eb825d9
+v-doom_1993_v524288.r07	ecf658fc
+v-doom_1993_v524288.rar	a8cd5dd0
+v-doom_1993_v524288.sfv	7e4a0f01

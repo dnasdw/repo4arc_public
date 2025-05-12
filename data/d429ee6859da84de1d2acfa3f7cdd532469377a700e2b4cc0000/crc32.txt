@@ -1,0 +1,13 @@
+lfc-peca.nfo	bdcf80bd
+lfc-peca.r00	4bc6a9af
+lfc-peca.r01	60f52728
+lfc-peca.r02	6fc9a2eb
+lfc-peca.r03	74bf5e3c
+lfc-peca.r04	e0ee1445
+lfc-peca.r05	d63bfd2a
+lfc-peca.r06	98175f56
+lfc-peca.r07	5aa669e2
+lfc-peca.r08	849a687f
+lfc-peca.r09	45d0abf2
+lfc-peca.rar	7673142d
+lfc-peca.sfv	b8b5d319

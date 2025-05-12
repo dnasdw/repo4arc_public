@@ -1,0 +1,4 @@
+sxs-feral_flowers_v65536.nfo	-	4496	1	0	0	0
+sxs-feral_flowers_v65536.r00	-	3144776	1	4496	0	1
+sxs-feral_flowers_v65536.rar	-	50000000	1	3149272	0	4
+sxs-feral_flowers_v65536.sfv	-	78	1	53149272	0	52

@@ -1,0 +1,15 @@
+lfc-hyec.nfo	62a8217f
+lfc-hyec.r00	4592e1a3
+lfc-hyec.r01	9ba255f9
+lfc-hyec.r02	4276ee29
+lfc-hyec.r03	2fcc78b1
+lfc-hyec.r04	3107d83f
+lfc-hyec.r05	6109f4a7
+lfc-hyec.r06	ea3eecd2
+lfc-hyec.r07	0166df4d
+lfc-hyec.r08	ec945d9e
+lfc-hyec.r09	31e752a7
+lfc-hyec.r10	c88a6d34
+lfc-hyec.r11	bbae9043
+lfc-hyec.rar	d12d0bf1
+lfc-hyec.sfv	4f7acbf9

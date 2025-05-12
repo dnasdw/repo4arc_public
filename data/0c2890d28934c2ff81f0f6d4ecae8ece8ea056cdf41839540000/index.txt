@@ -1,0 +1,7 @@
+sxs-necrosphere_deluxe.nfo	-	5823	1	0	0	0
+sxs-necrosphere_deluxe.r00	-	50000000	1	5823	0	1
+sxs-necrosphere_deluxe.r01	-	50000000	1	50005823	0	49
+sxs-necrosphere_deluxe.r02	-	50000000	1	100005823	0	97
+sxs-necrosphere_deluxe.r03	-	5089117	1	150005823	0	145
+sxs-necrosphere_deluxe.rar	-	50000000	1	155094940	0	150
+sxs-necrosphere_deluxe.sfv	-	185	1	205094940	0	198

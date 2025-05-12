@@ -1,0 +1,12 @@
+v-defense_master.nfo	78482300
+v-defense_master.r00	75ea5549
+v-defense_master.r01	c0946821
+v-defense_master.r02	a224a68d
+v-defense_master.r03	3e46765c
+v-defense_master.r04	c519566f
+v-defense_master.r05	26a47026
+v-defense_master.r06	a67a686d
+v-defense_master.r07	990f792c
+v-defense_master.r08	6c5901f5
+v-defense_master.rar	ba005800
+v-defense_master.sfv	bee32c0c

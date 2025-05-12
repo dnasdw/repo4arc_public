@@ -1,0 +1,11 @@
+sxs-focus_tower.nfo	efe83857
+sxs-focus_tower.r00	b59c9061
+sxs-focus_tower.r01	ace74e63
+sxs-focus_tower.r02	2c89c0ea
+sxs-focus_tower.r03	5caadd9a
+sxs-focus_tower.r04	bb5790dd
+sxs-focus_tower.r05	e78d19c6
+sxs-focus_tower.r06	87d02183
+sxs-focus_tower.r07	4d04f96a
+sxs-focus_tower.rar	49ec4e51
+sxs-focus_tower.sfv	09a6d269

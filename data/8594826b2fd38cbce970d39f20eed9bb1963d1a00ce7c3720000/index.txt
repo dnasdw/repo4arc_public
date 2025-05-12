@@ -1,0 +1,3 @@
+bbb-n-amqda.nfo	-	5517	1	0	0	0
+bbb-n-amqda.rar	-	115862474	1	5517	0	1
+bbb-n-amqda.sfv	-	26	1	115867991	0	112

@@ -1,0 +1,6 @@
+jrp-hpv65536.nfo	526b3aa4
+jrp-hpv65536.r00	f5245f13
+jrp-hpv65536.r01	6adcad2f
+jrp-hpv65536.r02	da16785e
+jrp-hpv65536.rar	6b9eff7a
+jrp-hpv65536.sfv	20cc8054

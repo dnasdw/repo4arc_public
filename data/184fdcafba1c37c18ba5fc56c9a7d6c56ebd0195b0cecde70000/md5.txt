@@ -1,0 +1,3 @@
+sxs-box_align_v65536.nfo	18ec65de9bda88f98edeb2faf01bd66d
+sxs-box_align_v65536.rar	398c0844a2ef3d3e3e8068dc723ddd8f
+sxs-box_align_v65536.sfv	a63c9b4cf14e97d40a967883f773384f

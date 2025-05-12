@@ -1,0 +1,5 @@
+v-puzzle_quest_the_legend_returns_v65536.nfo	be0d025f
+v-puzzle_quest_the_legend_returns_v65536.r00	275f3428
+v-puzzle_quest_the_legend_returns_v65536.r01	a13b2279
+v-puzzle_quest_the_legend_returns_v65536.rar	aa2f073c
+v-puzzle_quest_the_legend_returns_v65536.sfv	c9358e83

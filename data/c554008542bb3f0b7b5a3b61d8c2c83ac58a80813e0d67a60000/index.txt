@@ -1,0 +1,10 @@
+v-nobunagas_ambition_awakening_v458752.nfo	-	5278	1	0	0	0
+v-nobunagas_ambition_awakening_v458752.r00	-	100000000	1	5278	0	1
+v-nobunagas_ambition_awakening_v458752.r01	-	100000000	1	100005278	0	97
+v-nobunagas_ambition_awakening_v458752.r02	-	100000000	1	200005278	0	193
+v-nobunagas_ambition_awakening_v458752.r03	-	100000000	1	300005278	0	289
+v-nobunagas_ambition_awakening_v458752.r04	-	100000000	1	400005278	0	385
+v-nobunagas_ambition_awakening_v458752.r05	-	100000000	1	500005278	0	481
+v-nobunagas_ambition_awakening_v458752.r06	-	689061	1	62251264	1	60
+v-nobunagas_ambition_awakening_v458752.rar	-	100000000	1	62940325	1	61
+v-nobunagas_ambition_awakening_v458752.sfv	-	424	1	162940325	1	157

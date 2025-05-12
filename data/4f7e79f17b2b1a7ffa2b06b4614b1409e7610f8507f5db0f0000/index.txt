@@ -1,0 +1,3 @@
+hr-ayf3d-dlc.nfo	-	11744	1	0	0	0
+hr-ayf3d-dlc.rar	-	235823	1	11744	0	1
+hr-ayf3d-dlc.sfv	-	27	1	247567	0	2

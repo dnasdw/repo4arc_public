@@ -1,0 +1,4 @@
+sxs-evolution_board_game_v65536.nfo	-	6446	1	0	0	0
+sxs-evolution_board_game_v65536.r00	-	16674443	1	6446	0	1
+sxs-evolution_board_game_v65536.rar	-	50000000	1	16680889	0	17
+sxs-evolution_board_game_v65536.sfv	-	92	1	66680889	0	65

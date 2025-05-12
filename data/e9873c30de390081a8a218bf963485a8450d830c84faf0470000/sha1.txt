@@ -1,0 +1,8 @@
+darkmoon-circle.of.sumo.eshop.nsw.nfo	fd359354c5c03995bc9bcbcedd216e0f287bc66f
+darkmoon-circle.of.sumo.eshop.nsw.r00	41582d9927276be780213d183f031a90a38f053c
+darkmoon-circle.of.sumo.eshop.nsw.r01	d05e91381b46d343ba8f28b22ee09df12a676f96
+darkmoon-circle.of.sumo.eshop.nsw.r02	0ba69bc987ab39a240fc6f6b9d6c15b180fd6992
+darkmoon-circle.of.sumo.eshop.nsw.r03	1ec547b09d60e9f42fe18798ef81f551564b2194
+darkmoon-circle.of.sumo.eshop.nsw.r04	c3320bf01cc043042e038a069275319ef1af7a7a
+darkmoon-circle.of.sumo.eshop.nsw.rar	b2a97e9cc4b5002f5a212296cad2cdf436f2a8b4
+darkmoon-circle.of.sumo.eshop.nsw.sfv	45954221b62eefa57992a5d2478df1e66929b90d

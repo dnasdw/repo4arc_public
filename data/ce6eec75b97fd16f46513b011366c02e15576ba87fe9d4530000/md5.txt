@@ -1,0 +1,12 @@
+sxs-swimsanity.nfo	0e28203b3fe8d601318634304107dfe9
+sxs-swimsanity.r00	485c258a3bb306436890c44dfccbf1f0
+sxs-swimsanity.r01	f868ac3f37991213c4687690655b0be0
+sxs-swimsanity.r02	9a9f4dd96f61fd04283ae9be30419ed4
+sxs-swimsanity.r03	a62845086e56f72e3b0a598d96f233ca
+sxs-swimsanity.r04	957d39f8729106e3799e6479bc07a9b3
+sxs-swimsanity.r05	82869d816de96f7e22bc62947ff3953f
+sxs-swimsanity.r06	af4374aa33cdb8700a4d82776c62e9ab
+sxs-swimsanity.r07	d43ced537c240ce15a16c074b50dce86
+sxs-swimsanity.r08	7b77c9a23a6ffac6ffa3337dc0477b45
+sxs-swimsanity.rar	88231174b01cc3e3b831e046ba8e6e15
+sxs-swimsanity.sfv	d6e585554445cd6838d52dd5c1f649db

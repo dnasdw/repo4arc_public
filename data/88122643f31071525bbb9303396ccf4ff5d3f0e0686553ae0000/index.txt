@@ -1,0 +1,4 @@
+sxs-wild_dogs_v196608.nfo	-	4964	1	0	0	0
+sxs-wild_dogs_v196608.r00	-	86184467	1	4964	0	1
+sxs-wild_dogs_v196608.rar	-	100000000	1	86189431	0	84
+sxs-wild_dogs_v196608.sfv	-	72	1	186189431	0	180

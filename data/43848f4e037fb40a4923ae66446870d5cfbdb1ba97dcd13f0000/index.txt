@@ -1,0 +1,3 @@
+sxs-tetras_escape_v65536.nfo	-	5354	1	0	0	0
+sxs-tetras_escape_v65536.rar	-	48310492	1	5354	0	1
+sxs-tetras_escape_v65536.sfv	-	39	1	48315846	0	48

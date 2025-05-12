@@ -1,0 +1,4 @@
+sxs-astro_duel_2.nfo	8b5d669d
+sxs-astro_duel_2.r00	804fa24f
+sxs-astro_duel_2.rar	29b197f8
+sxs-astro_duel_2.sfv	5cc0a19c

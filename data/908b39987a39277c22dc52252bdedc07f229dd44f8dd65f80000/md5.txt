@@ -1,0 +1,14 @@
+brw-lthf.nfo	0cb63ce0fa8fab578ef9b26abf23333b
+brw-lthf.r00	406532e2e6443fbdd5d855e3a2ffa4ab
+brw-lthf.r01	403e5cf6b407777e2df67543577f9467
+brw-lthf.r02	8a9e4422f48643f15d7f03fad1eb48f5
+brw-lthf.r03	fc5458b196cfce0efb44a3deb41adbaf
+brw-lthf.r04	4d11d35cc6d6f3b57dee98644c1c056d
+brw-lthf.r05	40a3f0c3c164b21c98330deadf7d5bf8
+brw-lthf.r06	e0ce4c7e532a813a68f5766fb80ed55f
+brw-lthf.r07	05b05a59bfcd140bf506de74e20b8a60
+brw-lthf.r08	42363483d57cab2712b7a812d3d5a338
+brw-lthf.r09	8a877d4b86b726c7c6e6863e2026ce0f
+brw-lthf.r10	65d8286cec007f00120551248b207444
+brw-lthf.rar	069364afc0d07be48ec27325f147e1a4
+brw-lthf.sfv	8beaaa77d8a848c9acf34ce2eca23ff9

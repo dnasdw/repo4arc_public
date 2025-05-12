@@ -1,0 +1,5 @@
+brw-cfar_rp.nfo	69d55258ef90daa23d2bd3f5e70ce0d3
+brw-cfar_rp.r00	98efe5b41aae08831e03a3eabe9548ea
+brw-cfar_rp.r01	b7710c9812a4d4c2fd260c2ecdb732a8
+brw-cfar_rp.rar	75836adf79b938839bf7dac86161b7b9
+brw-cfar_rp.sfv	49ff07c5ba9ac96b0766351bd9104af2

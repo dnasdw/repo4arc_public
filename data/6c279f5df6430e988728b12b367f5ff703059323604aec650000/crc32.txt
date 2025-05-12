@@ -1,0 +1,12 @@
+sxs-super_daryl_deluxe_v196608.nfo	31451718
+sxs-super_daryl_deluxe_v196608.r00	889c2df0
+sxs-super_daryl_deluxe_v196608.r01	caf2f705
+sxs-super_daryl_deluxe_v196608.r02	f97be47e
+sxs-super_daryl_deluxe_v196608.r03	07c8ef2d
+sxs-super_daryl_deluxe_v196608.r04	9f4f83b5
+sxs-super_daryl_deluxe_v196608.r05	7e62ea77
+sxs-super_daryl_deluxe_v196608.r06	aaffa3e2
+sxs-super_daryl_deluxe_v196608.r07	5b17e467
+sxs-super_daryl_deluxe_v196608.r08	2bd00b2d
+sxs-super_daryl_deluxe_v196608.rar	acc3ea6e
+sxs-super_daryl_deluxe_v196608.sfv	efe3c2ea

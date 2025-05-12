@@ -1,0 +1,4 @@
+sxs-double_pug_switch_v65536.nfo	-	4262	1	0	0	0
+sxs-double_pug_switch_v65536.r00	-	1124372	1	4262	0	1
+sxs-double_pug_switch_v65536.rar	-	50000000	1	1128634	0	3
+sxs-double_pug_switch_v65536.sfv	-	86	1	51128634	0	51

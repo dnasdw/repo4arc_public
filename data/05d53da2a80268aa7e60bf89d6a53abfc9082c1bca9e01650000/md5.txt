@@ -1,0 +1,16 @@
+sxs-ellen.nfo	2c37ff24dde3cf68b9a388b06e7c17aa
+sxs-ellen.r00	cff831617402c23a63dd3e4ffe34acc9
+sxs-ellen.r01	ebab20ca99f8a1392bc69f7dc125aec0
+sxs-ellen.r02	ec42e23fd9e05c73205e5068cd72813f
+sxs-ellen.r03	20641e89f648f024aad8b7ccdf9bc71c
+sxs-ellen.r04	0fe552a84417b783c9e4fc7c4fc727e8
+sxs-ellen.r05	ef710e2e27508f443b70f3294a5afaa6
+sxs-ellen.r06	411d90c9ce324dfa67bd3a876a8533c9
+sxs-ellen.r07	344b3e125146b1bfd074b3eeaaa7c653
+sxs-ellen.r08	53bd4c044afd8a0520f8ef8277eb03dc
+sxs-ellen.r09	deaa542511d9092e787f854496a0f959
+sxs-ellen.r10	37280eb24d57aa0cba2e83eb2a3459ae
+sxs-ellen.r11	3cb702bb02fae6e1293760c2aa49e46d
+sxs-ellen.r12	fb8317e309377a641958484c7ff1711b
+sxs-ellen.rar	910788ba7c8fa8d8f86fbbfdbe73a5f3
+sxs-ellen.sfv	df5d458b6a3eccb5cd51681e73c9ec5d

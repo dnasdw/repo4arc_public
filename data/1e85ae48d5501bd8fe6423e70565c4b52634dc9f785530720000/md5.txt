@@ -1,0 +1,4 @@
+sxs-lilas_sky_ark_v196608.nfo	6447516d9c9e4fb75af6ac5a6d343c31
+sxs-lilas_sky_ark_v196608.r00	a2faf70d9ee65acc61463f3fc4dddf1b
+sxs-lilas_sky_ark_v196608.rar	ec3e14419ad961656c1bab8cf11dc6ff
+sxs-lilas_sky_ark_v196608.sfv	f395f95341d362f47265bb2cdc87b4e5

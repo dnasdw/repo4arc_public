@@ -1,0 +1,7 @@
+v-arcade_tycoon_v131072.nfo	d625471c
+v-arcade_tycoon_v131072.r00	fd4e292c
+v-arcade_tycoon_v131072.r01	55542ba2
+v-arcade_tycoon_v131072.r02	653c4177
+v-arcade_tycoon_v131072.r03	96436dca
+v-arcade_tycoon_v131072.rar	775eec8c
+v-arcade_tycoon_v131072.sfv	0ccd4c1d

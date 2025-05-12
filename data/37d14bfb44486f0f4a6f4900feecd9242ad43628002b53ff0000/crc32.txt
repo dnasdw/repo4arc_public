@@ -1,0 +1,5 @@
+lfc-smca.nfo	9f118ca6
+lfc-smca.r00	6227d543
+lfc-smca.r01	d607cd6e
+lfc-smca.rar	dd22118d
+lfc-smca.sfv	193b94fa

@@ -1,0 +1,3 @@
+v-doom_ii_btsx_1_dlc.nfo	-	8086	1	0	0	0
+v-doom_ii_btsx_1_dlc.rar	-	38907195	1	8086	0	1
+v-doom_ii_btsx_1_dlc.sfv	-	35	1	38915281	0	39

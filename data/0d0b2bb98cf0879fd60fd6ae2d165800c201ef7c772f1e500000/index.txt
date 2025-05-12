@@ -1,0 +1,4 @@
+lfc-sebm.nfo	-	5014	1	0	0	0
+lfc-sebm.r00	-	16288344	1	5014	0	1
+lfc-sebm.rar	-	50000000	1	16293358	0	17
+lfc-sebm.sfv	-	46	1	66293358	0	65

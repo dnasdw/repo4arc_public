@@ -1,0 +1,7 @@
+sxs-sally_face_v196608.nfo	c6861f11
+sxs-sally_face_v196608.r00	4beb1746
+sxs-sally_face_v196608.r01	3f9b4022
+sxs-sally_face_v196608.r02	92fbcd56
+sxs-sally_face_v196608.r03	9e91f31d
+sxs-sally_face_v196608.rar	3c3e2cd0
+sxs-sally_face_v196608.sfv	d93cf622

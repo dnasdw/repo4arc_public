@@ -1,0 +1,6 @@
+sxs-sky_rogue_v327680.nfo	5f1836f9
+sxs-sky_rogue_v327680.r00	3c407af0
+sxs-sky_rogue_v327680.r01	7b731f0d
+sxs-sky_rogue_v327680.r02	7d791b6e
+sxs-sky_rogue_v327680.rar	bfb740de
+sxs-sky_rogue_v327680.sfv	47981307

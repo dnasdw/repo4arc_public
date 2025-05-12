@@ -1,0 +1,4 @@
+v-subdivision_infinity_dx_v65536.nfo	-	5356	1	0	0	0
+v-subdivision_infinity_dx_v65536.r00	-	15176148	1	5356	0	1
+v-subdivision_infinity_dx_v65536.rar	-	50000000	1	15181504	0	16
+v-subdivision_infinity_dx_v65536.sfv	-	94	1	65181504	0	64

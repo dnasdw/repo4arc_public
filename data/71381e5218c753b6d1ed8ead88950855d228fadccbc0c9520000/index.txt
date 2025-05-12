@@ -1,0 +1,4 @@
+sxs-dodonpachi_resurrection_v262144.nfo	-	6680	1	0	0	0
+sxs-dodonpachi_resurrection_v262144.r00	-	31148761	1	6680	0	1
+sxs-dodonpachi_resurrection_v262144.rar	-	100000000	1	31155441	0	31
+sxs-dodonpachi_resurrection_v262144.sfv	-	100	1	131155441	0	127

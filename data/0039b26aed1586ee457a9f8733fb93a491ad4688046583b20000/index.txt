@@ -1,0 +1,5 @@
+sxs-eternum_ex.nfo	-	6525	1	0	0	0
+sxs-eternum_ex.r00	-	50000000	1	6525	0	1
+sxs-eternum_ex.r01	-	49127215	1	50006525	0	49
+sxs-eternum_ex.rar	-	50000000	1	99133740	0	96
+sxs-eternum_ex.sfv	-	87	1	149133740	0	144

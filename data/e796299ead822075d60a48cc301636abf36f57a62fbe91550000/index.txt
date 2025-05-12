@@ -1,0 +1,5 @@
+sxs-wall_world.nfo	-	6056	1	0	0	0
+sxs-wall_world.r00	-	100000000	1	6056	0	1
+sxs-wall_world.r01	-	13869795	1	100006056	0	97
+sxs-wall_world.rar	-	100000000	1	113875851	0	111
+sxs-wall_world.sfv	-	87	1	213875851	0	207

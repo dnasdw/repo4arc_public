@@ -1,0 +1,5 @@
+bbb-n-ahsha.nfo	-	5517	1	0	0	0
+bbb-n-ahsha.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ahsha.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ahsha.part3.rar	-	11977291	1	500005517	0	479
+bbb-n-ahsha.sfv	-	96	1	511982808	0	491

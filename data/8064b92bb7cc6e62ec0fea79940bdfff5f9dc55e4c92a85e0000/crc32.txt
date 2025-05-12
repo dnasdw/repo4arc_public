@@ -1,0 +1,6 @@
+sxs-rune_factory_3_special_v131072.nfo	ae810443
+sxs-rune_factory_3_special_v131072.r00	fdc2370c
+sxs-rune_factory_3_special_v131072.r01	2c12de11
+sxs-rune_factory_3_special_v131072.r02	86edc5b2
+sxs-rune_factory_3_special_v131072.rar	60d15eb3
+sxs-rune_factory_3_special_v131072.sfv	2b86a4ac

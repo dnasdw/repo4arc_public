@@ -1,0 +1,11 @@
+lfc-gesh.nfo	68511acb
+lfc-gesh.r00	b2a89c32
+lfc-gesh.r01	e7f5e5a3
+lfc-gesh.r02	5bac1600
+lfc-gesh.r03	b92ae23a
+lfc-gesh.r04	2e1766a7
+lfc-gesh.r05	de5db38b
+lfc-gesh.r06	0607ddd3
+lfc-gesh.r07	32651095
+lfc-gesh.rar	ada069cb
+lfc-gesh.sfv	70057f9e

@@ -1,0 +1,5 @@
+sxs-mini_metro_v196608.nfo	127e1c56
+sxs-mini_metro_v196608.r00	11512164
+sxs-mini_metro_v196608.r01	082a3d22
+sxs-mini_metro_v196608.rar	f6779ea9
+sxs-mini_metro_v196608.sfv	62b26268

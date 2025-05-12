@@ -1,0 +1,15 @@
+sxs-marvelua3_v65536.nfo	60b5d878
+sxs-marvelua3_v65536.r00	53d227d1
+sxs-marvelua3_v65536.r01	c26fb274
+sxs-marvelua3_v65536.r02	116ec8ef
+sxs-marvelua3_v65536.r03	4d234e9e
+sxs-marvelua3_v65536.r04	878f86cc
+sxs-marvelua3_v65536.r05	ff3238de
+sxs-marvelua3_v65536.r06	ed7d0702
+sxs-marvelua3_v65536.r07	f4e26e73
+sxs-marvelua3_v65536.r08	01096305
+sxs-marvelua3_v65536.r09	ab269053
+sxs-marvelua3_v65536.r10	a1480f75
+sxs-marvelua3_v65536.r11	4202e779
+sxs-marvelua3_v65536.rar	c29e011a
+sxs-marvelua3_v65536.sfv	6d6aa23c

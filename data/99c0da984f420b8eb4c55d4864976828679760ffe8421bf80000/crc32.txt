@@ -1,0 +1,13 @@
+sxs-golazo_2.nfo	24560821
+sxs-golazo_2.r00	70dcd021
+sxs-golazo_2.r01	b6f771ef
+sxs-golazo_2.r02	91577c8e
+sxs-golazo_2.r03	5cfce69c
+sxs-golazo_2.r04	83a4e397
+sxs-golazo_2.r05	11582d55
+sxs-golazo_2.r06	f975966a
+sxs-golazo_2.r07	24203150
+sxs-golazo_2.r08	dd001266
+sxs-golazo_2.r09	299f28a9
+sxs-golazo_2.rar	612df7a5
+sxs-golazo_2.sfv	762f8b19

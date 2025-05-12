@@ -1,0 +1,5 @@
+sxs-piano_learn_and_play.nfo	55e9f88eae6dde6a91e47451814d8740
+sxs-piano_learn_and_play.r00	40944f59876c1671e2878d4571733539
+sxs-piano_learn_and_play.r01	8e697a8ba2cb5bf5c0888f38c3c198e6
+sxs-piano_learn_and_play.rar	54e15fae4c621c9dc1b31146c1ffea6e
+sxs-piano_learn_and_play.sfv	b0152657de50066d862f474ab9312deb

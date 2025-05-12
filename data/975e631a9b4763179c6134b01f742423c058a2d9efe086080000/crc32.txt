@@ -1,0 +1,16 @@
+lfc-a4bda.nfo	7a70157f
+lfc-a4bda.r00	791a068c
+lfc-a4bda.r01	d10cebea
+lfc-a4bda.r02	78c45ae9
+lfc-a4bda.r03	bb3984b2
+lfc-a4bda.r04	fc06bfda
+lfc-a4bda.r05	7d08c6a3
+lfc-a4bda.r06	c2c6d73f
+lfc-a4bda.r07	cd0e0600
+lfc-a4bda.r08	23dd05f2
+lfc-a4bda.r09	7b96ab2d
+lfc-a4bda.r10	f3286171
+lfc-a4bda.rar	ce45838f
+lfc-a4bda.sfv	f53c4033
+Proof	00000000
+Proof/lfc-a4bda.jpg	1295c9d2

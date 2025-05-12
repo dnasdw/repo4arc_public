@@ -1,0 +1,8 @@
+sxs-star_hunter_dx.nfo	09cccc4a
+sxs-star_hunter_dx.r00	f1bb5360
+sxs-star_hunter_dx.r01	e8b5e41a
+sxs-star_hunter_dx.r02	3065d713
+sxs-star_hunter_dx.r03	6acea241
+sxs-star_hunter_dx.r04	3d356581
+sxs-star_hunter_dx.rar	ef19acd7
+sxs-star_hunter_dx.sfv	c4b56463

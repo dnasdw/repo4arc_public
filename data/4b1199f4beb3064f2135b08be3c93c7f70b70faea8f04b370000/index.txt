@@ -1,0 +1,4 @@
+lfc-subr.nfo	-	5610	1	0	0	0
+lfc-subr.r00	-	3540959	1	5610	0	1
+lfc-subr.rar	-	50000000	1	3546569	0	5
+lfc-subr.sfv	-	46	1	53546569	0	53

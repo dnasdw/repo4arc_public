@@ -1,0 +1,4 @@
+sxs-trigger_dungeon.nfo	585ddc7f
+sxs-trigger_dungeon.r00	30141fc0
+sxs-trigger_dungeon.rar	5d225dab
+sxs-trigger_dungeon.sfv	ecab3c19

@@ -1,0 +1,6 @@
+sxs-my_name_is_mayo_3.nfo	e600903b96988d07a2fc337c3789544e
+sxs-my_name_is_mayo_3.r00	cdcecfb70e7463383c52a8f13e89a1a4
+sxs-my_name_is_mayo_3.r01	bb5143d8123e2652df54ea374798539f
+sxs-my_name_is_mayo_3.r02	8936b322480b112ebc77cb7b9d9eb59f
+sxs-my_name_is_mayo_3.rar	c57610b392cb2cd13ecde8f652479e48
+sxs-my_name_is_mayo_3.sfv	a25f98d241625cbb98cdfd3f2e418a00

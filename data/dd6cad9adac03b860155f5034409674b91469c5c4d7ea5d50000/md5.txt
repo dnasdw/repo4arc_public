@@ -1,0 +1,10 @@
+lfc-matboc.nfo	df749b2f16f4a878c85ca14dde92a0e2
+lfc-matboc.r00	d9f635a73c679d72d722a1f49abb7fda
+lfc-matboc.r01	381126d50a7991668c65c8eb1c3366ea
+lfc-matboc.r02	2c0f7e2a74468a43c14cef09ad804441
+lfc-matboc.r03	273233b5a9406bcd6e686ee7a39d2b7a
+lfc-matboc.r04	c0a460406f5ec0f53aa411aefe249061
+lfc-matboc.r05	3a5c39dd58c49030437410757bfe4c01
+lfc-matboc.r06	0e13bf8bcbecd009dc70c23dcd882347
+lfc-matboc.rar	e774e05d6aa6d8df429f07226e49a891
+lfc-matboc.sfv	40f771b39a127cb55d4dae38313f381d

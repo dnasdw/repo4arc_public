@@ -1,0 +1,5 @@
+sxs-snes_v393216.nfo	89039b62
+sxs-snes_v393216.r00	404957a6
+sxs-snes_v393216.r01	40aa07ca
+sxs-snes_v393216.rar	24f6a9af
+sxs-snes_v393216.sfv	c53edbdd

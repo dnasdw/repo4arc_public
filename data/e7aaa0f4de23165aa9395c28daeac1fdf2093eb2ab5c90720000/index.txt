@@ -1,0 +1,4 @@
+lfc-zuaq.nfo	-	5124	1	0	0	0
+lfc-zuaq.r00	-	19368057	1	5124	0	1
+lfc-zuaq.rar	-	50000000	1	19373181	0	20
+lfc-zuaq.sfv	-	46	1	69373181	0	68

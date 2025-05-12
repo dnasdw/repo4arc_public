@@ -1,0 +1,7 @@
+v-gravity_circuit.nfo	-	6760	1	0	0	0
+v-gravity_circuit.r00	-	100000000	1	6760	0	1
+v-gravity_circuit.r01	-	100000000	1	100006760	0	97
+v-gravity_circuit.r02	-	100000000	1	200006760	0	193
+v-gravity_circuit.r03	-	35982122	1	300006760	0	289
+v-gravity_circuit.rar	-	100000000	1	335988882	0	324
+v-gravity_circuit.sfv	-	160	1	435988882	0	420

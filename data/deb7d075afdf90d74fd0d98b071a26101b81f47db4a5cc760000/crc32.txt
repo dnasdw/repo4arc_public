@@ -1,0 +1,11 @@
+sxs-legodcsv_v101.nfo	b24f9ce8
+sxs-legodcsv_v101.r00	7c7cbeb3
+sxs-legodcsv_v101.r01	c7c8941d
+sxs-legodcsv_v101.r02	aea59c3f
+sxs-legodcsv_v101.r03	2111f484
+sxs-legodcsv_v101.r04	7e64547d
+sxs-legodcsv_v101.r05	a8b482e5
+sxs-legodcsv_v101.r06	28fe207e
+sxs-legodcsv_v101.r07	5997cfa8
+sxs-legodcsv_v101.rar	81e7f499
+sxs-legodcsv_v101.sfv	250c8f51

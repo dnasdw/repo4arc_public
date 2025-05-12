@@ -1,0 +1,9 @@
+sxs-active_neurons_2.nfo	-	5744	1	0	0	0
+sxs-active_neurons_2.r00	-	50000000	1	5744	0	1
+sxs-active_neurons_2.r01	-	50000000	1	50005744	0	49
+sxs-active_neurons_2.r02	-	50000000	1	100005744	0	97
+sxs-active_neurons_2.r03	-	50000000	1	150005744	0	145
+sxs-active_neurons_2.r04	-	50000000	1	200005744	0	193
+sxs-active_neurons_2.r05	-	18221674	1	250005744	0	241
+sxs-active_neurons_2.rar	-	50000000	1	268227418	0	259
+sxs-active_neurons_2.sfv	-	245	1	318227418	0	307

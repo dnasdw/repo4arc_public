@@ -1,0 +1,4 @@
+sxs-mana_spark_v65536.nfo	-	4653	1	0	0	0
+sxs-mana_spark_v65536.r00	-	5502224	1	4653	0	1
+sxs-mana_spark_v65536.rar	-	50000000	1	5506877	0	7
+sxs-mana_spark_v65536.sfv	-	72	1	55506877	0	55

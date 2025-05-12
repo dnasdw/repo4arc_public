@@ -1,0 +1,4 @@
+v-the_red_strings_club_v131072.nfo	-	6292	1	0	0	0
+v-the_red_strings_club_v131072.r00	-	17375888	1	6292	0	1
+v-the_red_strings_club_v131072.rar	-	50000000	1	17382180	0	18
+v-the_red_strings_club_v131072.sfv	-	90	1	67382180	0	66

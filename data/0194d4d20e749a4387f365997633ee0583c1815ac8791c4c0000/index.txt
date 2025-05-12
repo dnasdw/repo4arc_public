@@ -1,0 +1,3 @@
+sxs-sport_and_fun_swimming_dlc.nfo	-	6212	1	0	0	0
+sxs-sport_and_fun_swimming_dlc.rar	-	236862	1	6212	0	1
+sxs-sport_and_fun_swimming_dlc.sfv	-	45	1	243074	0	2

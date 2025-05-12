@@ -1,0 +1,8 @@
+sxs-fuzzball_v327680.nfo	b032dc9b
+sxs-fuzzball_v327680.r00	bbaec463
+sxs-fuzzball_v327680.r01	e26a047d
+sxs-fuzzball_v327680.r02	025b3d49
+sxs-fuzzball_v327680.r03	ee3dea87
+sxs-fuzzball_v327680.r04	0e489452
+sxs-fuzzball_v327680.rar	310b868d
+sxs-fuzzball_v327680.sfv	97d1ee1c

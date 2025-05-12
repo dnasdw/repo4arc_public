@@ -1,0 +1,16 @@
+lfc-fatot.nfo	a30e1a4cff7b65022a6ddd6f1220b01c
+lfc-fatot.r00	4bb395d3a40335731f7aadbd63b953c4
+lfc-fatot.r01	c76e99dc38ae5d3d6fb83db87270ef1a
+lfc-fatot.r02	9daa5c89ff7e3dc974f016d128a7aefd
+lfc-fatot.r03	589da295696b09f84b49bde8165127ba
+lfc-fatot.r04	3b57543fd3c4d622afc87737cc1be5a5
+lfc-fatot.r05	067be5580f9d36ff11a4a4109ceeeef1
+lfc-fatot.r06	c41359981cd22e9e0164d3bcff00db83
+lfc-fatot.r07	5e0e48d23e7d75036e11ba63ff8cef4b
+lfc-fatot.r08	be97e9b9f649637c9ab346959ec85acf
+lfc-fatot.r09	380fac87b4813ca2cea6ca19ce628375
+lfc-fatot.r10	d8667de2889d4281a6943e0ea77ad354
+lfc-fatot.r11	905204b60b177178a4529b9051fbb0bb
+lfc-fatot.r12	e9058e39f2fb235b979d61f371131582
+lfc-fatot.rar	0e41c3f64a144770dfe4aa88b09517db
+lfc-fatot.sfv	d3e50ae3a323f9a092d51472e1ca4edc

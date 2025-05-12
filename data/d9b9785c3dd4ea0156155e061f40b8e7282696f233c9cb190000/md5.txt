@@ -1,0 +1,4 @@
+delight.nfo	202a54ac5dce4f99e610ca3639ad0f61
+dl-ghostsweeper.r00	6e564fab16019d38c6141c5f1abe6ada
+dl-ghostsweeper.rar	7b3b260c0411323e8537dcb392f11ec2
+dl-ghostsweeper.sfv	ee29af30f0689839db159fcd27b9c1de

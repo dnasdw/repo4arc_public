@@ -1,0 +1,14 @@
+lfc-unme.nfo	ff21a901
+lfc-unme.r00	fa0b0139
+lfc-unme.r01	144f83fe
+lfc-unme.r02	5aa03a0e
+lfc-unme.r03	c8df62a4
+lfc-unme.r04	ae16355a
+lfc-unme.r05	aa5bb2dc
+lfc-unme.r06	24b3537f
+lfc-unme.r07	496ae4fd
+lfc-unme.r08	35f741ad
+lfc-unme.r09	9e45577b
+lfc-unme.r10	9e8381af
+lfc-unme.rar	758e3f98
+lfc-unme.sfv	669036ca

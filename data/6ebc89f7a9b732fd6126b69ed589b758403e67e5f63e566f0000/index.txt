@@ -1,0 +1,5 @@
+sxs-dexteritrip.nfo	-	5121	1	0	0	0
+sxs-dexteritrip.r00	-	50000000	1	5121	0	1
+sxs-dexteritrip.r01	-	45633906	1	50005121	0	49
+sxs-dexteritrip.rar	-	50000000	1	95639027	0	93
+sxs-dexteritrip.sfv	-	90	1	145639027	0	141

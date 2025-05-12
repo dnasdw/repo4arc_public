@@ -1,0 +1,15 @@
+v-animal_crossing_new_horizons_v720896.nfo	1d3e1d09
+v-animal_crossing_new_horizons_v720896.r00	4f8ad91e
+v-animal_crossing_new_horizons_v720896.r01	b185f1bb
+v-animal_crossing_new_horizons_v720896.r02	9201e364
+v-animal_crossing_new_horizons_v720896.r03	c10cbbf1
+v-animal_crossing_new_horizons_v720896.r04	c64e4302
+v-animal_crossing_new_horizons_v720896.r05	4fc0fbd6
+v-animal_crossing_new_horizons_v720896.r06	b5c5ce98
+v-animal_crossing_new_horizons_v720896.r07	6128e62f
+v-animal_crossing_new_horizons_v720896.r08	94d8af7e
+v-animal_crossing_new_horizons_v720896.r09	6e8cf569
+v-animal_crossing_new_horizons_v720896.r10	6ed25d10
+v-animal_crossing_new_horizons_v720896.r11	0c036cf2
+v-animal_crossing_new_horizons_v720896.rar	0678e887
+v-animal_crossing_new_horizons_v720896.sfv	a2575b81

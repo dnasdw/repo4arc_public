@@ -1,0 +1,4 @@
+bbb-h-ab96ap.nfo	-	5517	1	0	0	0
+bbb-h-ab96ap.part01.rar	-	250000000	1	5517	0	1
+bbb-h-ab96ap.part02.rar	-	170321760	1	250005517	0	240
+bbb-h-ab96ap.sfv	-	68	1	420327277	0	403

@@ -1,0 +1,8 @@
+v-anomaly_agent.nfo	f68087a1c422b16cfec015e65d39ec532c17f622
+v-anomaly_agent.r00	0be334e1909da3287ec684e5d913c1ee772b9fd1
+v-anomaly_agent.r01	6c05b67faada333aad2336db9be19b4f203ad9ba
+v-anomaly_agent.r02	0c03667201fa43cdeb18c6ad1aeb8f000a7344ae
+v-anomaly_agent.r03	851c96f57d4a9e5382e88a7f23677277d599cc2b
+v-anomaly_agent.r04	18741f15b44c5c751783dc694953f7042d8821f0
+v-anomaly_agent.rar	1f9321024b0383fbad0ed4817499e8deab9ba9e4
+v-anomaly_agent.sfv	3a7654bdbb3b6d1998bdd6e04d9815388d247575

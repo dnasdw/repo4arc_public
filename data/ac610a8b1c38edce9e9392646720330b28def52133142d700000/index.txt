@@ -1,0 +1,17 @@
+sxs-10_second_ninja_x.nfo	-	6212	1	0	0	0
+sxs-10_second_ninja_x.r00	-	50000000	1	6212	0	1
+sxs-10_second_ninja_x.r01	-	50000000	1	50006212	0	49
+sxs-10_second_ninja_x.r02	-	50000000	1	100006212	0	97
+sxs-10_second_ninja_x.r03	-	50000000	1	150006212	0	145
+sxs-10_second_ninja_x.r04	-	50000000	1	200006212	0	193
+sxs-10_second_ninja_x.r05	-	50000000	1	250006212	0	241
+sxs-10_second_ninja_x.r06	-	50000000	1	300006212	0	289
+sxs-10_second_ninja_x.r07	-	50000000	1	350006212	0	337
+sxs-10_second_ninja_x.r08	-	50000000	1	400006212	0	385
+sxs-10_second_ninja_x.r09	-	50000000	1	450006212	0	433
+sxs-10_second_ninja_x.r10	-	50000000	1	500006212	0	481
+sxs-10_second_ninja_x.r11	-	50000000	1	12251264	1	12
+sxs-10_second_ninja_x.r12	-	50000000	1	62251264	1	60
+sxs-10_second_ninja_x.r13	-	46494751	1	112251264	1	108
+sxs-10_second_ninja_x.rar	-	50000000	1	158746015	1	153
+sxs-10_second_ninja_x.sfv	-	540	1	208746015	1	201

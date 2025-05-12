@@ -1,0 +1,12 @@
+l-dayandnight.nfo	bc38d0c3
+l-dayandnight.r00	327258cd
+l-dayandnight.r01	953ee859
+l-dayandnight.r02	e5328fa2
+l-dayandnight.r03	1a5b4c82
+l-dayandnight.r04	6eca54ff
+l-dayandnight.r05	48fc2f00
+l-dayandnight.r06	a195ab49
+l-dayandnight.r07	c7ed4845
+l-dayandnight.r08	a40d62e2
+l-dayandnight.rar	3114b8c9
+l-dayandnight.sfv	c74383e2

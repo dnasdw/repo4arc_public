@@ -1,0 +1,4 @@
+v-wrc_9_the_official_game_v65536.nfo	-	4654	1	0	0	0
+v-wrc_9_the_official_game_v65536.r00	-	24857421	1	4654	0	1
+v-wrc_9_the_official_game_v65536.rar	-	50000000	1	24862075	0	25
+v-wrc_9_the_official_game_v65536.sfv	-	94	1	74862075	0	73

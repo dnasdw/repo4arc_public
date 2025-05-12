@@ -1,0 +1,11 @@
+sxs-hard_racing_stunt_car_driving.nfo	af3b5e7e
+sxs-hard_racing_stunt_car_driving.r00	dfa0f7db
+sxs-hard_racing_stunt_car_driving.r01	6b7afc2b
+sxs-hard_racing_stunt_car_driving.r02	8b86d6f1
+sxs-hard_racing_stunt_car_driving.r03	cafffb5d
+sxs-hard_racing_stunt_car_driving.r04	c3f91ea8
+sxs-hard_racing_stunt_car_driving.r05	3fca6616
+sxs-hard_racing_stunt_car_driving.r06	f7c5cf9f
+sxs-hard_racing_stunt_car_driving.r07	32289124
+sxs-hard_racing_stunt_car_driving.rar	b74b7420
+sxs-hard_racing_stunt_car_driving.sfv	cb499826

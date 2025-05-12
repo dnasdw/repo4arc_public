@@ -1,0 +1,5 @@
+sxs-reigns_three_kingdoms.nfo	7150fbe8
+sxs-reigns_three_kingdoms.r00	ca3aac20
+sxs-reigns_three_kingdoms.r01	12b33fe8
+sxs-reigns_three_kingdoms.rar	63c6cfa4
+sxs-reigns_three_kingdoms.sfv	36a15224

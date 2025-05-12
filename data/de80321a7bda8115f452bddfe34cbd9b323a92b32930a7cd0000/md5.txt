@@ -1,0 +1,5 @@
+sxs-frederica_v196608.nfo	691dc293f46914573d63c83fdcbc9ed1
+sxs-frederica_v196608.r00	bcabbd2bf0a7695212e5a694933efcb5
+sxs-frederica_v196608.r01	2bd0b34d3e9c35f0fa8406bc3c895451
+sxs-frederica_v196608.rar	84df6c97d0f1d5e43654400b4166f7f3
+sxs-frederica_v196608.sfv	fde169362a7cc3d0d5402f2f16730c6d

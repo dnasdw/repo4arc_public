@@ -1,0 +1,7 @@
+sxs-redemption_reapers_v393216.nfo	-	8864	1	0	0	0
+sxs-redemption_reapers_v393216.r00	-	100000000	1	8864	0	1
+sxs-redemption_reapers_v393216.r01	-	100000000	1	100008864	0	97
+sxs-redemption_reapers_v393216.r02	-	100000000	1	200008864	0	193
+sxs-redemption_reapers_v393216.r03	-	63052701	1	300008864	0	289
+sxs-redemption_reapers_v393216.rar	-	100000000	1	363061565	0	350
+sxs-redemption_reapers_v393216.sfv	-	225	1	463061565	0	446

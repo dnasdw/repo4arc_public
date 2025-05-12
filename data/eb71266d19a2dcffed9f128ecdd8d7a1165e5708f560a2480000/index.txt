@@ -1,0 +1,5 @@
+sxs-sokolor.nfo	-	4886	1	0	0	0
+sxs-sokolor.r00	-	100000000	1	4886	0	1
+sxs-sokolor.r01	-	50834426	1	100004886	0	97
+sxs-sokolor.rar	-	100000000	1	150839312	0	146
+sxs-sokolor.sfv	-	78	1	250839312	0	242

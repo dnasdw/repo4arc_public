@@ -1,0 +1,3 @@
+sxs-seven_v65536.nfo	-	5276	1	0	0	0
+sxs-seven_v65536.rar	-	49285667	1	5276	0	1
+sxs-seven_v65536.sfv	-	31	1	49290943	0	49

@@ -1,0 +1,7 @@
+brw-dwdx.nfo	a4da4989
+brw-dwdx.r00	a24dc9f6
+brw-dwdx.r01	3bfea373
+brw-dwdx.r02	ffe3d93c
+brw-dwdx.r03	860c2508
+brw-dwdx.rar	f1f6d1b7
+brw-dwdx.sfv	2c1658a7

@@ -1,0 +1,9 @@
+sxs-taiko_no_tatsujin_rhythm_festival_v1048576.nfo	4fcfd9fc
+sxs-taiko_no_tatsujin_rhythm_festival_v1048576.r00	40c46365
+sxs-taiko_no_tatsujin_rhythm_festival_v1048576.r01	95395b6f
+sxs-taiko_no_tatsujin_rhythm_festival_v1048576.r02	3d03a017
+sxs-taiko_no_tatsujin_rhythm_festival_v1048576.r03	070f384d
+sxs-taiko_no_tatsujin_rhythm_festival_v1048576.r04	2b821b35
+sxs-taiko_no_tatsujin_rhythm_festival_v1048576.r05	fef21abc
+sxs-taiko_no_tatsujin_rhythm_festival_v1048576.rar	175bea6f
+sxs-taiko_no_tatsujin_rhythm_festival_v1048576.sfv	f792f00a

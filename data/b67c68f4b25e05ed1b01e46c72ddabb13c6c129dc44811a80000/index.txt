@@ -1,0 +1,13 @@
+sxs-poly_shooting_simulator.nfo	-	5666	1	0	0	0
+sxs-poly_shooting_simulator.r00	-	100000000	1	5666	0	1
+sxs-poly_shooting_simulator.r01	-	100000000	1	100005666	0	97
+sxs-poly_shooting_simulator.r02	-	100000000	1	200005666	0	193
+sxs-poly_shooting_simulator.r03	-	100000000	1	300005666	0	289
+sxs-poly_shooting_simulator.r04	-	100000000	1	400005666	0	385
+sxs-poly_shooting_simulator.r05	-	100000000	1	500005666	0	481
+sxs-poly_shooting_simulator.r06	-	100000000	1	62251264	1	60
+sxs-poly_shooting_simulator.r07	-	100000000	1	162251264	1	156
+sxs-poly_shooting_simulator.r08	-	100000000	1	262251264	1	252
+sxs-poly_shooting_simulator.r09	-	85234243	1	362251264	1	348
+sxs-poly_shooting_simulator.rar	-	100000000	1	447485507	1	430
+sxs-poly_shooting_simulator.sfv	-	462	1	9822464	2	10

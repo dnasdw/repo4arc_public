@@ -1,0 +1,4 @@
+sxs-bricky_to_me.nfo	92e6d394f510223ea3872c3d49b80bc100addc42
+sxs-bricky_to_me.r00	4eda6d4ca56eccb06ef206ac40a0738cdbecfd75
+sxs-bricky_to_me.rar	793efecc9ab8bfef20a87916f8067c3b05d23eec
+sxs-bricky_to_me.sfv	dfda3462c72de663302448d37d2060fee821c7ac

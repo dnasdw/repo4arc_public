@@ -1,0 +1,3 @@
+sxs-isolomus_v65536.nfo	3b2e969bdf7f1446c5d47ba16c8b3d11309e846f
+sxs-isolomus_v65536.rar	52e8e0af17bff9c6a76f9b1fb7e05c9885daf321
+sxs-isolomus_v65536.sfv	8d9754c5af6817994a3ec3819cdacf8e9d20d17e

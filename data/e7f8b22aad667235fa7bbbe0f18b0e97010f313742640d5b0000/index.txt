@@ -1,0 +1,3 @@
+sxs-gcud.nfo	-	6057	1	0	0	0
+sxs-gcud.rar	-	1343687	1	6057	0	1
+sxs-gcud.sfv	-	23	1	1349744	0	3

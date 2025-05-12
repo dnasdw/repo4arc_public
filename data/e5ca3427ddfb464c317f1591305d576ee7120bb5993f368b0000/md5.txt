@@ -1,0 +1,4 @@
+sxs-lil_guardsman_v65536.nfo	bec9264c05efcaf732bc8e7591ad0780
+sxs-lil_guardsman_v65536.r00	3fded0166a5b1051df6f22677da9b015
+sxs-lil_guardsman_v65536.rar	e7af8d975bab70067dda9a6ac1179b0d
+sxs-lil_guardsman_v65536.sfv	f95fad918bfba53dae7c4770026548fc

@@ -1,0 +1,3 @@
+sxs-super_cane_magic_preorder_dlc.nfo	-	5042	1	0	0	0
+sxs-super_cane_magic_preorder_dlc.rar	-	104083	1	5042	0	1
+sxs-super_cane_magic_preorder_dlc.sfv	-	48	1	109125	0	2

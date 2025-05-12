@@ -1,0 +1,13 @@
+v-fighting_ex_layer_another_dash_v196608.nfo	3601b5d0
+v-fighting_ex_layer_another_dash_v196608.r00	e435c84c
+v-fighting_ex_layer_another_dash_v196608.r01	d6f95a5b
+v-fighting_ex_layer_another_dash_v196608.r02	d77a1706
+v-fighting_ex_layer_another_dash_v196608.r03	383ad1fa
+v-fighting_ex_layer_another_dash_v196608.r04	7d01dbff
+v-fighting_ex_layer_another_dash_v196608.r05	e987f98a
+v-fighting_ex_layer_another_dash_v196608.r06	adf4b6dd
+v-fighting_ex_layer_another_dash_v196608.r07	2c7a59ac
+v-fighting_ex_layer_another_dash_v196608.r08	594d4285
+v-fighting_ex_layer_another_dash_v196608.r09	d7715cb2
+v-fighting_ex_layer_another_dash_v196608.rar	1a7f0a20
+v-fighting_ex_layer_another_dash_v196608.sfv	a42b588b

@@ -1,0 +1,8 @@
+sxs-shanghai_summer.nfo	-	7928	1	0	0	0
+sxs-shanghai_summer.r00	-	100000000	1	7928	0	1
+sxs-shanghai_summer.r01	-	100000000	1	100007928	0	97
+sxs-shanghai_summer.r02	-	100000000	1	200007928	0	193
+sxs-shanghai_summer.r03	-	100000000	1	300007928	0	289
+sxs-shanghai_summer.r04	-	44834924	1	400007928	0	385
+sxs-shanghai_summer.rar	-	100000000	1	444842852	0	428
+sxs-shanghai_summer.sfv	-	204	1	7725312	1	8

@@ -1,0 +1,4 @@
+sxs-railway_empire_nintendo_switch_edition_v65536.nfo	-	7616	1	0	0	0
+sxs-railway_empire_nintendo_switch_edition_v65536.r00	-	3336069	1	7616	0	1
+sxs-railway_empire_nintendo_switch_edition_v65536.rar	-	50000000	1	3343685	0	5
+sxs-railway_empire_nintendo_switch_edition_v65536.sfv	-	128	1	53343685	0	53

@@ -1,0 +1,12 @@
+delight.nfo	5953b668
+dl-mechrage.r00	eeee6954
+dl-mechrage.r01	1ec70336
+dl-mechrage.r02	6dc8f737
+dl-mechrage.r03	19468ffa
+dl-mechrage.r04	e643f740
+dl-mechrage.r05	c40a3888
+dl-mechrage.r06	10b0ec21
+dl-mechrage.r07	543beb0a
+dl-mechrage.r08	107625be
+dl-mechrage.rar	0e625b5b
+dl-mechrage.sfv	dec70220

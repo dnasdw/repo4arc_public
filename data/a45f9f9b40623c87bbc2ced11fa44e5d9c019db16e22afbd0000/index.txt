@@ -1,0 +1,6 @@
+v-nos_new_operating_system_v131072.nfo	-	5512	1	0	0	0
+v-nos_new_operating_system_v131072.r00	-	100000000	1	5512	0	1
+v-nos_new_operating_system_v131072.r01	-	100000000	1	100005512	0	97
+v-nos_new_operating_system_v131072.r02	-	77034797	1	200005512	0	193
+v-nos_new_operating_system_v131072.rar	-	100000000	1	277040309	0	267
+v-nos_new_operating_system_v131072.sfv	-	196	1	377040309	0	363

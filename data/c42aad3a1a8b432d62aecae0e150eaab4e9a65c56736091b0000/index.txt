@@ -1,0 +1,7 @@
+sxs-puzzle_box_maker_v65536.nfo	-	5744	1	0	0	0
+sxs-puzzle_box_maker_v65536.r00	-	50000000	1	5744	0	1
+sxs-puzzle_box_maker_v65536.r01	-	50000000	1	50005744	0	49
+sxs-puzzle_box_maker_v65536.r02	-	50000000	1	100005744	0	97
+sxs-puzzle_box_maker_v65536.r03	-	16988547	1	150005744	0	145
+sxs-puzzle_box_maker_v65536.rar	-	50000000	1	166994291	0	162
+sxs-puzzle_box_maker_v65536.sfv	-	210	1	216994291	0	210

@@ -1,0 +1,4 @@
+bbb-n-aqh3a.nfo	-	5517	1	0	0	0
+bbb-n-aqh3a.part1.rar	-	250000000	1	5517	0	1
+bbb-n-aqh3a.part2.rar	-	160585025	1	250005517	0	240
+bbb-n-aqh3a.sfv	-	64	1	410590542	0	394

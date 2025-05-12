@@ -1,0 +1,3 @@
+sxs-tanuki_justice_v65536.nfo	-	5198	1	0	0	0
+sxs-tanuki_justice_v65536.rar	-	45582891	1	5198	0	1
+sxs-tanuki_justice_v65536.sfv	-	40	1	45588089	0	45

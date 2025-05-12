@@ -1,0 +1,6 @@
+sxs-tracks_toybox_edition_v131072.nfo	d50965bf
+sxs-tracks_toybox_edition_v131072.r00	2f0395f1
+sxs-tracks_toybox_edition_v131072.r01	f41b5059
+sxs-tracks_toybox_edition_v131072.r02	0c0841b2
+sxs-tracks_toybox_edition_v131072.rar	2cb3b3e0
+sxs-tracks_toybox_edition_v131072.sfv	86e15c72

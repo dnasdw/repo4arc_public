@@ -1,0 +1,11 @@
+sxs-sir_lovelot.nfo	-	5744	1	0	0	0
+sxs-sir_lovelot.r00	-	50000000	1	5744	0	1
+sxs-sir_lovelot.r01	-	50000000	1	50005744	0	49
+sxs-sir_lovelot.r02	-	50000000	1	100005744	0	97
+sxs-sir_lovelot.r03	-	50000000	1	150005744	0	145
+sxs-sir_lovelot.r04	-	50000000	1	200005744	0	193
+sxs-sir_lovelot.r05	-	50000000	1	250005744	0	241
+sxs-sir_lovelot.r06	-	50000000	1	300005744	0	289
+sxs-sir_lovelot.r07	-	15488650	1	350005744	0	337
+sxs-sir_lovelot.rar	-	50000000	1	365494394	0	352
+sxs-sir_lovelot.sfv	-	270	1	415494394	0	400

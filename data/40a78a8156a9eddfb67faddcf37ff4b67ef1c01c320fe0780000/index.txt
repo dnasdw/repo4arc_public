@@ -1,0 +1,3 @@
+sxs-race_with_ryan_surprise_track_pack_dlc.nfo	-	7001	1	0	0	0
+sxs-race_with_ryan_surprise_track_pack_dlc.rar	-	104095	1	7001	0	1
+sxs-race_with_ryan_surprise_track_pack_dlc.sfv	-	57	1	111096	0	2

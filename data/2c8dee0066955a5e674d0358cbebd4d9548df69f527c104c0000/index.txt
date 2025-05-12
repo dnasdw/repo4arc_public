@@ -1,0 +1,4 @@
+sxs-redraptor.nfo	-	5432	1	0	0	0
+sxs-redraptor.r00	-	13946097	1	5432	0	1
+sxs-redraptor.rar	-	100000000	1	13951529	0	15
+sxs-redraptor.sfv	-	56	1	113951529	0	111

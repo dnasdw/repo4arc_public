@@ -1,0 +1,4 @@
+v-book_of_demons_v131072.nfo	b89584242383414e0b6f2e2cb3b8e167
+v-book_of_demons_v131072.r00	632cbf6eaebd3d222099a2c2a7780fba
+v-book_of_demons_v131072.rar	4dcfd174edc6d829a3b4a9af428522c9
+v-book_of_demons_v131072.sfv	a4357ab2109b7a8ca1d55a5eeb98edb5

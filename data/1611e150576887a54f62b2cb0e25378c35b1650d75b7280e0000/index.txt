@@ -1,0 +1,4 @@
+brw-amab_proper.nfo	-	3905	1	0	0	0
+brw-amab_proper.r00	-	9331616	1	3905	0	1
+brw-amab_proper.rar	-	50000000	1	9335521	0	10
+brw-amab_proper.sfv	-	60	1	59335521	0	58

@@ -1,0 +1,7 @@
+sxs-the_tiny_bang_story.nfo	-	4730	1	0	0	0
+sxs-the_tiny_bang_story.r00	-	50000000	1	4730	0	1
+sxs-the_tiny_bang_story.r01	-	50000000	1	50004730	0	49
+sxs-the_tiny_bang_story.r02	-	50000000	1	100004730	0	97
+sxs-the_tiny_bang_story.r03	-	7667740	1	150004730	0	145
+sxs-the_tiny_bang_story.rar	-	50000000	1	157672470	0	153
+sxs-the_tiny_bang_story.sfv	-	190	1	207672470	0	201

@@ -1,0 +1,5 @@
+lfc-etva.nfo	d5438422c8d9a0af8f3729417236e81c
+lfc-etva.r00	d7ebbd202c472b23301155246947bbc5
+lfc-etva.r01	8cee3cfe740a779dbdc1afc51087b8ae
+lfc-etva.rar	03848c66c661bdd5031aa65117c46141
+lfc-etva.sfv	7de04f343bc86baf56e7f5cd6d5db5d4

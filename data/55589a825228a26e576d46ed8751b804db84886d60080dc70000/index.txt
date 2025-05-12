@@ -1,0 +1,7 @@
+sxs-dreamland_solitaire.nfo	-	4028	1	0	0	0
+sxs-dreamland_solitaire.r00	-	100000000	1	4028	0	1
+sxs-dreamland_solitaire.r01	-	100000000	1	100004028	0	97
+sxs-dreamland_solitaire.r02	-	100000000	1	200004028	0	193
+sxs-dreamland_solitaire.r03	-	17095108	1	300004028	0	289
+sxs-dreamland_solitaire.rar	-	100000000	1	317099136	0	306
+sxs-dreamland_solitaire.sfv	-	190	1	417099136	0	402

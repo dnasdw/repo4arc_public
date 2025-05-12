@@ -1,0 +1,12 @@
+l-dayandnight.nfo	f3a8a8ac0fe5e2fcadca92502b49aabd
+l-dayandnight.r00	2310477541273da6dfe71055a159fe16
+l-dayandnight.r01	45c9e6e083c18ce6fa2a31ff7bba09f8
+l-dayandnight.r02	aa3893e7e0fc3c9165170dc3f3a1f1c9
+l-dayandnight.r03	f9c8546db7b6d480081b559955337f5f
+l-dayandnight.r04	1457f910def38f0d06be35118c043e7f
+l-dayandnight.r05	c9fa85bfa2a100441802468e3f2acf58
+l-dayandnight.r06	50d487a0e4c8c22cb342c8b9fe5fa827
+l-dayandnight.r07	3d1c7c059f2ce1901c1cc448167d1879
+l-dayandnight.r08	4179d68a0a31ee3e5689e70c4544bc99
+l-dayandnight.rar	52d7c4f1ab98a34214e0243cfa8155b2
+l-dayandnight.sfv	bf544a50cbf715f1eb1a4b305cb69630

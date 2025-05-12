@@ -1,0 +1,4 @@
+v-crymachina_v65536.nfo	0c7e64fbbbc46c1f5e2b0f99d850ec13
+v-crymachina_v65536.r00	5975d3dcf4265e512106eb2330e8622d
+v-crymachina_v65536.rar	ec793432a7a029c4ea69bcea59030db9
+v-crymachina_v65536.sfv	84d2ae4cebdebd7f52c73ed014c762d5

@@ -1,0 +1,6 @@
+sxs-pretty_girls_escape.nfo	-	5588	1	0	0	0
+sxs-pretty_girls_escape.r00	-	50000000	1	5588	0	1
+sxs-pretty_girls_escape.r01	-	50000000	1	50005588	0	49
+sxs-pretty_girls_escape.r02	-	30499584	1	100005588	0	97
+sxs-pretty_girls_escape.rar	-	50000000	1	130505172	0	127
+sxs-pretty_girls_escape.sfv	-	152	1	180505172	0	175

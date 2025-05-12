@@ -1,0 +1,4 @@
+sxs-potion_party.nfo	a237dc7d
+sxs-potion_party.r00	45320492
+sxs-potion_party.rar	e4e0f9d9
+sxs-potion_party.sfv	24490f92

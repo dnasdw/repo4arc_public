@@ -1,0 +1,6 @@
+sxs-tennis_2024_simulator.nfo	-	7304	1	0	0	0
+sxs-tennis_2024_simulator.r00	-	100000000	1	7304	0	1
+sxs-tennis_2024_simulator.r01	-	100000000	1	100007304	0	97
+sxs-tennis_2024_simulator.r02	-	91609193	1	200007304	0	193
+sxs-tennis_2024_simulator.rar	-	100000000	1	291616497	0	281
+sxs-tennis_2024_simulator.sfv	-	160	1	391616497	0	377

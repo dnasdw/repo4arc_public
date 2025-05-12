@@ -1,0 +1,8 @@
+sxs-n64jp_v327680.nfo	892f2251
+sxs-n64jp_v327680.r00	09f7000c
+sxs-n64jp_v327680.r01	6b769f96
+sxs-n64jp_v327680.r02	956905ed
+sxs-n64jp_v327680.r03	acae9afa
+sxs-n64jp_v327680.r04	5ee4ed50
+sxs-n64jp_v327680.rar	22128990
+sxs-n64jp_v327680.sfv	40c2310c

@@ -1,0 +1,5 @@
+v-super_monkey_ball_banana_mania_dlc.nfo	-	4888	1	0	0	0
+v-super_monkey_ball_banana_mania_dlc.r00	-	50000000	1	4888	0	1
+v-super_monkey_ball_banana_mania_dlc.r01	-	42562319	1	50004888	0	49
+v-super_monkey_ball_banana_mania_dlc.rar	-	50000000	1	92567207	0	90
+v-super_monkey_ball_banana_mania_dlc.sfv	-	153	1	142567207	0	138

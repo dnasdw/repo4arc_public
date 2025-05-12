@@ -1,0 +1,4 @@
+sxs-harpoon_shooter_nozomi.nfo	ba424ef0
+sxs-harpoon_shooter_nozomi.r00	fae2eb22
+sxs-harpoon_shooter_nozomi.rar	582d78c2
+sxs-harpoon_shooter_nozomi.sfv	d21cdfc3

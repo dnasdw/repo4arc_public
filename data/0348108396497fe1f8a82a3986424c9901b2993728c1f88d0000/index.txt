@@ -1,0 +1,5 @@
+sxs-mighty_goose_v196608.nfo	-	5978	1	0	0	0
+sxs-mighty_goose_v196608.r00	-	100000000	1	5978	0	1
+sxs-mighty_goose_v196608.r01	-	48842783	1	100005978	0	97
+sxs-mighty_goose_v196608.rar	-	100000000	1	148848761	0	144
+sxs-mighty_goose_v196608.sfv	-	117	1	248848761	0	240

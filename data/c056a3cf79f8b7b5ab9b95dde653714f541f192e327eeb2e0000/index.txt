@@ -1,0 +1,4 @@
+lfc-tdpr.nfo	-	5238	1	0	0	0
+lfc-tdpr.r00	-	24911820	1	5238	0	1
+lfc-tdpr.rar	-	50000000	1	24917058	0	25
+lfc-tdpr.sfv	-	46	1	74917058	0	73

@@ -1,0 +1,8 @@
+sxs-rhythm_of_the_gods.nfo	e90b0162f0255e8eb589b5530ff41f8d
+sxs-rhythm_of_the_gods.r00	ae1b6cc4f4a19c9e8558e2b5d5b7b998
+sxs-rhythm_of_the_gods.r01	223b3687bcd25ec2e4e74a869388c1f1
+sxs-rhythm_of_the_gods.r02	b752d13b031864905b5eb29112a32e94
+sxs-rhythm_of_the_gods.r03	a2dc906442d07d14e399e5d4b3ea0f4f
+sxs-rhythm_of_the_gods.r04	97545ac6f6399cda6909152230e889c6
+sxs-rhythm_of_the_gods.rar	56e44b3978cc3af059c5fab91310e7fb
+sxs-rhythm_of_the_gods.sfv	e5e30f6ce011faafea6a624ed76330a6

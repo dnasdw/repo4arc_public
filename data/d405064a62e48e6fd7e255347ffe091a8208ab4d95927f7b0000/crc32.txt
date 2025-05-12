@@ -1,0 +1,9 @@
+sxs-golazo_2_v65536.nfo	cdeeb85b
+sxs-golazo_2_v65536.r00	7e044c5b
+sxs-golazo_2_v65536.r01	af106090
+sxs-golazo_2_v65536.r02	9cc2df99
+sxs-golazo_2_v65536.r03	4fbfbf9a
+sxs-golazo_2_v65536.r04	e68e5029
+sxs-golazo_2_v65536.r05	5f84e268
+sxs-golazo_2_v65536.rar	0b86246a
+sxs-golazo_2_v65536.sfv	dfd6b2f2

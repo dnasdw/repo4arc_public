@@ -1,0 +1,15 @@
+v-ganryu_2_hakuma_kojiro.nfo	00000000
+v-ganryu_2_hakuma_kojiro.r00	78616c9f
+v-ganryu_2_hakuma_kojiro.r01	538bf9c0
+v-ganryu_2_hakuma_kojiro.r02	ca2a4f79
+v-ganryu_2_hakuma_kojiro.r03	12c636aa
+v-ganryu_2_hakuma_kojiro.r04	9795e592
+v-ganryu_2_hakuma_kojiro.r05	acc91a3f
+v-ganryu_2_hakuma_kojiro.r06	b7399bb2
+v-ganryu_2_hakuma_kojiro.r07	4c1bb7a4
+v-ganryu_2_hakuma_kojiro.r08	fde6e111
+v-ganryu_2_hakuma_kojiro.r09	3a8c1cec
+v-ganryu_2_hakuma_kojiro.r10	7c150400
+v-ganryu_2_hakuma_kojiro.r11	7af7609e
+v-ganryu_2_hakuma_kojiro.rar	03b700d6
+v-ganryu_2_hakuma_kojiro.sfv	eb9ce411

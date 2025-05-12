@@ -1,0 +1,10 @@
+sxs-pool_together_2.nfo	-	5120	1	0	0	0
+sxs-pool_together_2.r00	-	100000000	1	5120	0	1
+sxs-pool_together_2.r01	-	100000000	1	100005120	0	97
+sxs-pool_together_2.r02	-	100000000	1	200005120	0	193
+sxs-pool_together_2.r03	-	100000000	1	300005120	0	289
+sxs-pool_together_2.r04	-	100000000	1	400005120	0	385
+sxs-pool_together_2.r05	-	100000000	1	500005120	0	481
+sxs-pool_together_2.r06	-	26308045	1	62251264	1	60
+sxs-pool_together_2.rar	-	100000000	1	88559309	1	86
+sxs-pool_together_2.sfv	-	272	1	188559309	1	182

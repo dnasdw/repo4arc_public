@@ -1,0 +1,17 @@
+i-troubleshooter.nfo	-	1128	1	0	0	0
+i-troubleshooter.r00	-	50000000	1	1128	0	1
+i-troubleshooter.r01	-	50000000	1	50001128	0	49
+i-troubleshooter.r02	-	50000000	1	100001128	0	97
+i-troubleshooter.r03	-	50000000	1	150001128	0	145
+i-troubleshooter.r04	-	50000000	1	200001128	0	193
+i-troubleshooter.r05	-	50000000	1	250001128	0	241
+i-troubleshooter.r06	-	50000000	1	300001128	0	289
+i-troubleshooter.r07	-	50000000	1	350001128	0	337
+i-troubleshooter.r08	-	50000000	1	400001128	0	385
+i-troubleshooter.r09	-	50000000	1	450001128	0	433
+i-troubleshooter.r10	-	50000000	1	500001128	0	481
+i-troubleshooter.r11	-	50000000	1	12251264	1	12
+i-troubleshooter.r12	-	50000000	1	62251264	1	60
+i-troubleshooter.r13	-	33731676	1	112251264	1	108
+i-troubleshooter.rar	-	50000000	1	145982940	1	141
+i-troubleshooter.sfv	-	465	1	195982940	1	189

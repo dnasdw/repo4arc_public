@@ -1,0 +1,17 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-cult_of_the_lamb.jpg	-	149510	1	0	0	0
+sxs-cult_of_the_lamb.nfo	-	5432	1	149510	0	1
+sxs-cult_of_the_lamb.r00	-	100000000	1	154942	0	2
+sxs-cult_of_the_lamb.r01	-	100000000	1	100154942	0	98
+sxs-cult_of_the_lamb.r02	-	100000000	1	200154942	0	194
+sxs-cult_of_the_lamb.r03	-	100000000	1	300154942	0	290
+sxs-cult_of_the_lamb.r04	-	100000000	1	400154942	0	386
+sxs-cult_of_the_lamb.r05	-	100000000	1	500154942	0	482
+sxs-cult_of_the_lamb.r06	-	100000000	1	62251264	1	60
+sxs-cult_of_the_lamb.r07	-	100000000	1	162251264	1	156
+sxs-cult_of_the_lamb.r08	-	100000000	1	262251264	1	252
+sxs-cult_of_the_lamb.r09	-	100000000	1	362251264	1	348
+sxs-cult_of_the_lamb.r10	-	100000000	1	462251264	1	444
+sxs-cult_of_the_lamb.r11	-	43567294	1	24502528	2	24
+sxs-cult_of_the_lamb.rar	-	100000000	1	68069822	2	66
+sxs-cult_of_the_lamb.sfv	-	455	1	168069822	2	162

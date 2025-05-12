@@ -1,0 +1,5 @@
+sxs-jett_rider_v65536.nfo	b97ee6636aa29a0331784c47464f9a98
+sxs-jett_rider_v65536.r00	62a3008e2cca8fa6df5ad707da8d7e4f
+sxs-jett_rider_v65536.r01	76aed2c2b79700022310af8628fe9b4f
+sxs-jett_rider_v65536.rar	5be3278cd61405f89f7367f08536786f
+sxs-jett_rider_v65536.sfv	95947a336afbf216a867031aa391f99d

@@ -1,0 +1,10 @@
+sxs-full_speed_animals_the_rta.nfo	e7edd30d
+sxs-full_speed_animals_the_rta.r00	46cdc880
+sxs-full_speed_animals_the_rta.r01	956100f2
+sxs-full_speed_animals_the_rta.r02	a7cb171f
+sxs-full_speed_animals_the_rta.r03	2541892a
+sxs-full_speed_animals_the_rta.r04	2f43a389
+sxs-full_speed_animals_the_rta.r05	a7262685
+sxs-full_speed_animals_the_rta.r06	3c2df6cb
+sxs-full_speed_animals_the_rta.rar	38d26f65
+sxs-full_speed_animals_the_rta.sfv	630fd452

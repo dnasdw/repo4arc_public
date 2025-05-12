@@ -1,0 +1,17 @@
+Proof	d	0	1	0	0	0
+Proof/sxs-gal_guardians_demon_purge.jpg	-	115613	1	0	0	0
+sxs-gal_guardians_demon_purge.nfo	-	8162	1	115613	0	1
+sxs-gal_guardians_demon_purge.r00	-	100000000	1	123775	0	2
+sxs-gal_guardians_demon_purge.r01	-	100000000	1	100123775	0	98
+sxs-gal_guardians_demon_purge.r02	-	100000000	1	200123775	0	194
+sxs-gal_guardians_demon_purge.r03	-	100000000	1	300123775	0	290
+sxs-gal_guardians_demon_purge.r04	-	100000000	1	400123775	0	386
+sxs-gal_guardians_demon_purge.r05	-	100000000	1	500123775	0	482
+sxs-gal_guardians_demon_purge.r06	-	100000000	1	62251264	1	60
+sxs-gal_guardians_demon_purge.r07	-	100000000	1	162251264	1	156
+sxs-gal_guardians_demon_purge.r08	-	100000000	1	262251264	1	252
+sxs-gal_guardians_demon_purge.r09	-	100000000	1	362251264	1	348
+sxs-gal_guardians_demon_purge.r10	-	100000000	1	462251264	1	444
+sxs-gal_guardians_demon_purge.r11	-	50483130	1	24502528	2	24
+sxs-gal_guardians_demon_purge.rar	-	100000000	1	74985658	2	73
+sxs-gal_guardians_demon_purge.sfv	-	572	1	174985658	2	169

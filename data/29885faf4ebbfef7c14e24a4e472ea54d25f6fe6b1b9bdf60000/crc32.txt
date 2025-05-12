@@ -1,0 +1,16 @@
+sxs-isolomus.nfo	55738678
+sxs-isolomus.r00	d2db65a8
+sxs-isolomus.r01	9adbecec
+sxs-isolomus.r02	cd8981fe
+sxs-isolomus.r03	3e31ee0d
+sxs-isolomus.r04	08d99ad4
+sxs-isolomus.r05	d2445253
+sxs-isolomus.r06	5c54b5f4
+sxs-isolomus.r07	9d92250a
+sxs-isolomus.r08	1519f904
+sxs-isolomus.r09	ce447600
+sxs-isolomus.r10	73aecd18
+sxs-isolomus.r11	8dac1beb
+sxs-isolomus.r12	cfc29d02
+sxs-isolomus.rar	d371079d
+sxs-isolomus.sfv	6fbdbc1f

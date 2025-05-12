@@ -1,0 +1,11 @@
+lfc-superloopdrive.nfo	2f39e3dd49b563d2ec5b1c92744ff77a
+lfc-superloopdrive.r00	360214e85e3e8210f32895a45752e282
+lfc-superloopdrive.r01	2497448458a38337f319b6c5ff08bae3
+lfc-superloopdrive.r02	6fa9868889bd9ed29c4be37a473c6ab2
+lfc-superloopdrive.r03	7ae8dc2710cad11b19e5aa760d5976a2
+lfc-superloopdrive.r04	2bfbbf2359934e0ebb82addbf87a0e66
+lfc-superloopdrive.r05	450fdd52c7fbd6fafe1aa8ef138ae521
+lfc-superloopdrive.r06	e035825a35f069027812c1671b34759a
+lfc-superloopdrive.r07	bd2f82a5161c55c92646e5995dbe66ca
+lfc-superloopdrive.rar	3d68356cc81f1215e95018ed20da258e
+lfc-superloopdrive.sfv	eb8d41c401781c1ec150131c678476c1

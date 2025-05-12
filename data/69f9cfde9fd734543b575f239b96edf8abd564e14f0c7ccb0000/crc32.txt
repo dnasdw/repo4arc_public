@@ -1,0 +1,9 @@
+sxs-car_driver_ultimate.nfo	8033d44d
+sxs-car_driver_ultimate.r00	835f6fb3
+sxs-car_driver_ultimate.r01	a33291d6
+sxs-car_driver_ultimate.r02	15628d82
+sxs-car_driver_ultimate.r03	dbb69404
+sxs-car_driver_ultimate.r04	d9ddd022
+sxs-car_driver_ultimate.r05	ce6f8843
+sxs-car_driver_ultimate.rar	d6d58530
+sxs-car_driver_ultimate.sfv	c892eb89

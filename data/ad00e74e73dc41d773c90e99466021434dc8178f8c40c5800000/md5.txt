@@ -1,0 +1,4 @@
+sxs-pinkman_plus.nfo	5103ae91a6fe6b58d0f7a4e218538a04
+sxs-pinkman_plus.r00	298b3ed6fc2cd6a827549b6dff389ff7
+sxs-pinkman_plus.rar	2d36e03890a89bf2e0d390c8881f63fd
+sxs-pinkman_plus.sfv	5a89e9f223104c4894c09f2d9c41a9a0

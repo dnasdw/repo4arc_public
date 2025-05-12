@@ -1,0 +1,8 @@
+lfc-39daystomars.nfo	-	3877	1	0	0	0
+lfc-39daystomars.r00	-	50000000	1	3877	0	1
+lfc-39daystomars.r01	-	50000000	1	50003877	0	49
+lfc-39daystomars.r02	-	50000000	1	100003877	0	97
+lfc-39daystomars.r03	-	50000000	1	150003877	0	145
+lfc-39daystomars.r04	-	32851296	1	200003877	0	193
+lfc-39daystomars.rar	-	50000000	1	232855173	0	225
+lfc-39daystomars.sfv	-	186	1	282855173	0	273

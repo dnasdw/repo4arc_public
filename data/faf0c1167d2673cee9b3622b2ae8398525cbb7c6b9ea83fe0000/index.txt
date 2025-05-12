@@ -1,0 +1,5 @@
+sxs-tokyo_2020_olympics_v65536.nfo	-	3716	1	0	0	0
+sxs-tokyo_2020_olympics_v65536.r00	-	50000000	1	3716	0	1
+sxs-tokyo_2020_olympics_v65536.r01	-	34215474	1	50003716	0	49
+sxs-tokyo_2020_olympics_v65536.rar	-	50000000	1	84219190	0	82
+sxs-tokyo_2020_olympics_v65536.sfv	-	135	1	134219190	0	130

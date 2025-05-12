@@ -1,0 +1,13 @@
+lfc-gwt.nfo	c992df8a
+lfc-gwt.r00	4282b3f9
+lfc-gwt.r01	b2e743d4
+lfc-gwt.r02	49d2f46f
+lfc-gwt.r03	213aa995
+lfc-gwt.r04	03737711
+lfc-gwt.r05	e57779a8
+lfc-gwt.r06	a6298c74
+lfc-gwt.r07	1800598d
+lfc-gwt.r08	5f69d8b5
+lfc-gwt.r09	d9e885ba
+lfc-gwt.rar	73ee3885
+lfc-gwt.sfv	c3b15bda

@@ -1,0 +1,6 @@
+sxs-story_of_seasons_a_wonderful_life_v131072.nfo	-	7616	1	0	0	0
+sxs-story_of_seasons_a_wonderful_life_v131072.r00	-	100000000	1	7616	0	1
+sxs-story_of_seasons_a_wonderful_life_v131072.r01	-	100000000	1	100007616	0	97
+sxs-story_of_seasons_a_wonderful_life_v131072.r02	-	8193569	1	200007616	0	193
+sxs-story_of_seasons_a_wonderful_life_v131072.rar	-	100000000	1	208201185	0	201
+sxs-story_of_seasons_a_wonderful_life_v131072.sfv	-	240	1	308201185	0	297

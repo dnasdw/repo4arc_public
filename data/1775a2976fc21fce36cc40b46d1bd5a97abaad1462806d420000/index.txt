@@ -1,0 +1,8 @@
+lfc-fivenightsatfreddies2.nfo	-	4215	1	0	0	0
+lfc-fivenightsatfreddies2.r00	-	50000000	1	4215	0	1
+lfc-fivenightsatfreddies2.r01	-	50000000	1	50004215	0	49
+lfc-fivenightsatfreddies2.r02	-	50000000	1	100004215	0	97
+lfc-fivenightsatfreddies2.r03	-	50000000	1	150004215	0	145
+lfc-fivenightsatfreddies2.r04	-	45681233	1	200004215	0	193
+lfc-fivenightsatfreddies2.rar	-	50000000	1	245685448	0	237
+lfc-fivenightsatfreddies2.sfv	-	240	1	295685448	0	285

@@ -1,0 +1,6 @@
+bbb-n-ak4wa.nfo	-	5517	1	0	0	0
+bbb-n-ak4wa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ak4wa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ak4wa.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-ak4wa.part4.rar	-	18527016	1	212251264	1	203
+bbb-n-ak4wa.sfv	-	128	1	230778280	1	221

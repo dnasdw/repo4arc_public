@@ -1,0 +1,11 @@
+sxs-toricky_s_v131072.nfo	ea167d87
+sxs-toricky_s_v131072.r00	bd0bb492
+sxs-toricky_s_v131072.r01	4b770ee9
+sxs-toricky_s_v131072.r02	d04efa5b
+sxs-toricky_s_v131072.r03	47fcc4a8
+sxs-toricky_s_v131072.r04	0d8b9465
+sxs-toricky_s_v131072.r05	6ca7a70b
+sxs-toricky_s_v131072.r06	12594956
+sxs-toricky_s_v131072.r07	50ccb0d3
+sxs-toricky_s_v131072.rar	726a1907
+sxs-toricky_s_v131072.sfv	f2d26525

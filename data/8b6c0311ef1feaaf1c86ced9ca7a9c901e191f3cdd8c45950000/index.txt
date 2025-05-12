@@ -1,0 +1,5 @@
+bbb-n-acgna.nfo	-	5517	1	0	0	0
+bbb-n-acgna.part1.rar	-	250000000	1	5517	0	1
+bbb-n-acgna.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-acgna.part3.rar	-	230931531	1	500005517	0	479
+bbb-n-acgna.sfv	-	96	1	193182795	1	185

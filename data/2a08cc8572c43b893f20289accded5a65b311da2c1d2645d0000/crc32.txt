@@ -1,0 +1,5 @@
+sxs-nes_v1638400.nfo	75d1978d
+sxs-nes_v1638400.r00	ad46d59b
+sxs-nes_v1638400.r01	fb3867a8
+sxs-nes_v1638400.rar	a6be7e75
+sxs-nes_v1638400.sfv	c263ab69

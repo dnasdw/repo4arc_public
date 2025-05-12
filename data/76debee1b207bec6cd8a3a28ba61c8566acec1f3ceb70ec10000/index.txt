@@ -1,0 +1,3 @@
+sxs-five_nights_at_freddys_4_v65536.nfo	-	4418	1	0	0	0
+sxs-five_nights_at_freddys_4_v65536.rar	-	30653873	1	4418	0	1
+sxs-five_nights_at_freddys_4_v65536.sfv	-	50	1	30658291	0	31

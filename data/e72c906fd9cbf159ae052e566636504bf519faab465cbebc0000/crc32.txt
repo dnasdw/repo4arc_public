@@ -1,0 +1,5 @@
+v-hellblade_senuas_sacrifice_v65536.nfo	f75be34b
+v-hellblade_senuas_sacrifice_v65536.r00	189638cf
+v-hellblade_senuas_sacrifice_v65536.r01	4e5518af
+v-hellblade_senuas_sacrifice_v65536.rar	dca44681
+v-hellblade_senuas_sacrifice_v65536.sfv	1627c390

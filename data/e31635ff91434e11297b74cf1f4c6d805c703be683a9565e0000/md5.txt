@@ -1,0 +1,16 @@
+sxs-gerrrms.nfo	019cce823f091e57986c1040990dadb2
+sxs-gerrrms.r00	5705e24b1fa70a6795a887c3aaa2dbb6
+sxs-gerrrms.r01	e92fa3c4167abed149e67ccf08940c3f
+sxs-gerrrms.r02	0332fed685ebfc93333cddadd394e53f
+sxs-gerrrms.r03	c3cf91b519e6023fa290457cdd82d6b5
+sxs-gerrrms.r04	250e464d0e4df0126690246e77a624ef
+sxs-gerrrms.r05	50893f49086e9924c8cbaaa50c434ac2
+sxs-gerrrms.r06	8cae47fd13f8845314111022be04fc88
+sxs-gerrrms.r07	262745c7bb9430ef41e20cf86b4bd775
+sxs-gerrrms.r08	a2f316e8a9561e167228adad743e223a
+sxs-gerrrms.r09	0c16259d95d7fbec997d8b08f9fc8650
+sxs-gerrrms.r10	e80826db553ca46d736b0d9f1c87f7a7
+sxs-gerrrms.r11	f10e50d1463802b3f8d3798256141701
+sxs-gerrrms.r12	2981d7408f9553d9879ae537599ab4a5
+sxs-gerrrms.rar	d679218f0b5c63243bb1978972b5f579
+sxs-gerrrms.sfv	af2677dfb622241e8dce6f91d6afe23c

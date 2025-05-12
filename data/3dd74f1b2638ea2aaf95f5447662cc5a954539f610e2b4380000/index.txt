@@ -1,0 +1,4 @@
+sxs-nightshade_v65536.nfo	-	6920	1	0	0	0
+sxs-nightshade_v65536.r00	-	14515752	1	6920	0	1
+sxs-nightshade_v65536.rar	-	50000000	1	14522672	0	15
+sxs-nightshade_v65536.sfv	-	72	1	64522672	0	63

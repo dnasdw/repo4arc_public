@@ -1,0 +1,6 @@
+v-torchlight_ii_v131072.nfo	bb018237b3632c7fe46c2bb92e6ed6c3
+v-torchlight_ii_v131072.r00	5aa5fbef679131096adfa1406d67340a
+v-torchlight_ii_v131072.r01	a81e3cda70ca4fd4cb4d5570cb606960
+v-torchlight_ii_v131072.r02	3e15bd5dec1afbdd2c5798528fe2700f
+v-torchlight_ii_v131072.rar	5807169eb0ed683e732f30358e5e978d
+v-torchlight_ii_v131072.sfv	9198eb20383dcba9da13b2c87a89b18d

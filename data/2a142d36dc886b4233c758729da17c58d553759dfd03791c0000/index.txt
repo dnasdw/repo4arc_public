@@ -1,0 +1,4 @@
+brw-fqui.nfo	-	4763	1	0	0	0
+brw-fqui.r00	-	323748	1	4763	0	1
+brw-fqui.rar	-	50000000	1	328511	0	2
+brw-fqui.sfv	-	46	1	50328511	0	50

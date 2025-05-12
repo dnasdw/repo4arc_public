@@ -1,0 +1,12 @@
+v-dordogne_v262144.nfo	f10d04de
+v-dordogne_v262144.r00	40986149
+v-dordogne_v262144.r01	af5c908b
+v-dordogne_v262144.r02	aae57ac8
+v-dordogne_v262144.r03	ab21387b
+v-dordogne_v262144.r04	92085d7d
+v-dordogne_v262144.r05	a27bd334
+v-dordogne_v262144.r06	56631c57
+v-dordogne_v262144.r07	6481ecba
+v-dordogne_v262144.r08	dd92cabc
+v-dordogne_v262144.rar	e9f29536
+v-dordogne_v262144.sfv	7347f78d

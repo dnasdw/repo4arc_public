@@ -1,0 +1,4 @@
+sxs-chico_and_the_magic_orchards_dx.nfo	-	5744	1	0	0	0
+sxs-chico_and_the_magic_orchards_dx.r00	-	15219123	1	5744	0	1
+sxs-chico_and_the_magic_orchards_dx.rar	-	100000000	1	15224867	0	16
+sxs-chico_and_the_magic_orchards_dx.sfv	-	100	1	115224867	0	112

@@ -1,0 +1,3 @@
+sxs-arcaea_x_muse_dash_dlc.nfo	4f3be0cae2ef81736a4006e8938be40337e97927
+sxs-arcaea_x_muse_dash_dlc.rar	602c8d603b2939f0fdb9784ce217a23717f4e81d
+sxs-arcaea_x_muse_dash_dlc.sfv	27ddf23b3a23124dabb3397f1e5b0e842e69f112

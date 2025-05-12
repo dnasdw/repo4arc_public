@@ -1,0 +1,8 @@
+sxs-beauties_unveiled.nfo	-	5354	1	0	0	0
+sxs-beauties_unveiled.r00	-	100000000	1	5354	0	1
+sxs-beauties_unveiled.r01	-	100000000	1	100005354	0	97
+sxs-beauties_unveiled.r02	-	100000000	1	200005354	0	193
+sxs-beauties_unveiled.r03	-	100000000	1	300005354	0	289
+sxs-beauties_unveiled.r04	-	15295614	1	400005354	0	385
+sxs-beauties_unveiled.rar	-	100000000	1	415300968	0	400
+sxs-beauties_unveiled.sfv	-	216	1	515300968	0	496

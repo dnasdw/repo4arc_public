@@ -1,0 +1,16 @@
+brz-killer_frequency_v196608.nfo	1928ebf4
+brz-killer_frequency_v196608.r00	cd67f02c
+brz-killer_frequency_v196608.r01	c1fca155
+brz-killer_frequency_v196608.r02	be1c4ffc
+brz-killer_frequency_v196608.r03	3592f55d
+brz-killer_frequency_v196608.r04	219874d0
+brz-killer_frequency_v196608.r05	93a09dac
+brz-killer_frequency_v196608.r06	f6ba9bdb
+brz-killer_frequency_v196608.r07	843a37a8
+brz-killer_frequency_v196608.r08	2707272d
+brz-killer_frequency_v196608.r09	21ce130a
+brz-killer_frequency_v196608.r10	c2af59c2
+brz-killer_frequency_v196608.r11	c8fe8f16
+brz-killer_frequency_v196608.r12	1fb04097
+brz-killer_frequency_v196608.rar	b0e3e179
+brz-killer_frequency_v196608.sfv	6d404fc2

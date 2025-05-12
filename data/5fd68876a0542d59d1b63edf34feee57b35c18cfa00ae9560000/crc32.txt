@@ -1,0 +1,17 @@
+sxs-terrorbane_v262144.nfo	5cc01809
+sxs-terrorbane_v262144.r00	f6d9597f
+sxs-terrorbane_v262144.r01	bdf363e2
+sxs-terrorbane_v262144.r02	1a2f180b
+sxs-terrorbane_v262144.r03	a0616593
+sxs-terrorbane_v262144.r04	904f285e
+sxs-terrorbane_v262144.r05	1efd1f84
+sxs-terrorbane_v262144.r06	0219210b
+sxs-terrorbane_v262144.r07	1d509eab
+sxs-terrorbane_v262144.r08	82be2014
+sxs-terrorbane_v262144.r09	160ab7f6
+sxs-terrorbane_v262144.r10	79cec5e1
+sxs-terrorbane_v262144.r11	412ed78b
+sxs-terrorbane_v262144.r12	4ab0ea24
+sxs-terrorbane_v262144.r13	423cb9ec
+sxs-terrorbane_v262144.rar	5c314720
+sxs-terrorbane_v262144.sfv	43737549

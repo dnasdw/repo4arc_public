@@ -1,0 +1,7 @@
+bbb-n-ankpa.nfo	-	5517	1	0	0	0
+bbb-n-ankpa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ankpa.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ankpa.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-ankpa.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-ankpa.part5.rar	-	115488512	1	462251264	1	442
+bbb-n-ankpa.sfv	-	160	1	39991040	2	39

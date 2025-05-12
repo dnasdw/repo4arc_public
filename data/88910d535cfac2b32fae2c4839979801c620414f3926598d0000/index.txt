@@ -1,0 +1,6 @@
+lfc-neonhell.nfo	-	5190	1	0	0	0
+lfc-neonhell.r00	-	50000000	1	5190	0	1
+lfc-neonhell.r01	-	50000000	1	50005190	0	49
+lfc-neonhell.r02	-	32945932	1	100005190	0	97
+lfc-neonhell.rar	-	50000000	1	132951122	0	129
+lfc-neonhell.sfv	-	108	1	182951122	0	177

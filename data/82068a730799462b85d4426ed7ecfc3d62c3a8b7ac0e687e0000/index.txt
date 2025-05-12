@@ -1,0 +1,8 @@
+sxs-tactical_mind_2.nfo	-	6368	1	0	0	0
+sxs-tactical_mind_2.r00	-	50000000	1	6368	0	1
+sxs-tactical_mind_2.r01	-	50000000	1	50006368	0	49
+sxs-tactical_mind_2.r02	-	50000000	1	100006368	0	97
+sxs-tactical_mind_2.r03	-	50000000	1	150006368	0	145
+sxs-tactical_mind_2.r04	-	29264054	1	200006368	0	193
+sxs-tactical_mind_2.rar	-	50000000	1	229270422	0	221
+sxs-tactical_mind_2.sfv	-	204	1	279270422	0	269

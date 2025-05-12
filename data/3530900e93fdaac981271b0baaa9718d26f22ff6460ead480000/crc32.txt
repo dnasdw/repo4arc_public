@@ -1,0 +1,12 @@
+v-kingsbird_v131072.nfo	d8ee3b41
+v-kingsbird_v131072.r00	e251b155
+v-kingsbird_v131072.r01	a80909d3
+v-kingsbird_v131072.r02	1aa1ab7e
+v-kingsbird_v131072.r03	c875b75b
+v-kingsbird_v131072.r04	ae9fde54
+v-kingsbird_v131072.r05	f7f73b5f
+v-kingsbird_v131072.r06	fb33a0a9
+v-kingsbird_v131072.r07	b4f8d458
+v-kingsbird_v131072.r08	1675829f
+v-kingsbird_v131072.rar	e518f5f1
+v-kingsbird_v131072.sfv	ce2c807e

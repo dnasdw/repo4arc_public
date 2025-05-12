@@ -1,0 +1,6 @@
+sxs-shapeshooter.nfo	-	5198	1	0	0	0
+sxs-shapeshooter.r00	-	50000000	1	5198	0	1
+sxs-shapeshooter.r01	-	50000000	1	50005198	0	49
+sxs-shapeshooter.r02	-	18736147	1	100005198	0	97
+sxs-shapeshooter.rar	-	50000000	1	118741345	0	115
+sxs-shapeshooter.sfv	-	124	1	168741345	0	163

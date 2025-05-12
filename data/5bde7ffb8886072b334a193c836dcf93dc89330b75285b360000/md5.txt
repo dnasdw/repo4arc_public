@@ -1,0 +1,4 @@
+sxs-wrc_generations_v196608.nfo	e0df794648b59fc0274a311088c03fcb
+sxs-wrc_generations_v196608.r00	edd8113078bcd9c800319646f83cd71a
+sxs-wrc_generations_v196608.rar	890cd81b1d841211b84a8b9b6afd8d10
+sxs-wrc_generations_v196608.sfv	6d5076cc9d2d50aa74da209e8a51d21a

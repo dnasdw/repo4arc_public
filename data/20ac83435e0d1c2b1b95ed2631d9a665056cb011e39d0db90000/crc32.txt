@@ -1,0 +1,8 @@
+sxs-forager_v131072.nfo	66139020
+sxs-forager_v131072.r00	2d0b43af
+sxs-forager_v131072.r01	2bc7a400
+sxs-forager_v131072.r02	609e0c35
+sxs-forager_v131072.r03	ab31152c
+sxs-forager_v131072.r04	6c3b8cd4
+sxs-forager_v131072.rar	70fd613f
+sxs-forager_v131072.sfv	ead17056

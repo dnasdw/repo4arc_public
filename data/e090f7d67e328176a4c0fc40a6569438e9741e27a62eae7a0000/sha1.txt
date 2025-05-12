@@ -1,0 +1,6 @@
+brw-tbch.nfo	17efb3b4931a42bdef5b9a3b67810cb996b2af5d
+brw-tbch.r00	047275da9b5251f83922da34cd1c977eaa35f390
+brw-tbch.r01	b23ad2e40c26d6c78d2210ba0bb9a6d10d67194c
+brw-tbch.r02	a8c32e23ea33e053b0ec9228cb6e15f6d5c9b08c
+brw-tbch.rar	e963da6c216074facc37a5b7489ac4676bc0edb8
+brw-tbch.sfv	0afb0c66ad50bcc00f4b396b5773761f5b08a1f1

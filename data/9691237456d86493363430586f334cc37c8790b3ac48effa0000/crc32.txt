@@ -1,0 +1,16 @@
+sxs-metallic_child_v393216.nfo	d3dc0318
+sxs-metallic_child_v393216.r00	806d5ccc
+sxs-metallic_child_v393216.r01	375d2a57
+sxs-metallic_child_v393216.r02	db8158b9
+sxs-metallic_child_v393216.r03	8a3bd732
+sxs-metallic_child_v393216.r04	9bd20e1b
+sxs-metallic_child_v393216.r05	49ef50fc
+sxs-metallic_child_v393216.r06	325db00f
+sxs-metallic_child_v393216.r07	2dfcc792
+sxs-metallic_child_v393216.r08	ba5eb119
+sxs-metallic_child_v393216.r09	28f91eef
+sxs-metallic_child_v393216.r10	99e0fe48
+sxs-metallic_child_v393216.r11	03dc8616
+sxs-metallic_child_v393216.r12	8a93c753
+sxs-metallic_child_v393216.rar	6d211879
+sxs-metallic_child_v393216.sfv	3b0329e0

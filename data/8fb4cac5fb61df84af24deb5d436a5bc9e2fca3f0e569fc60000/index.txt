@@ -1,0 +1,13 @@
+sxs-ace_angler_fishing_spirits_v393216.nfo	-	9566	1	0	0	0
+sxs-ace_angler_fishing_spirits_v393216.r00	-	100000000	1	9566	0	1
+sxs-ace_angler_fishing_spirits_v393216.r01	-	100000000	1	100009566	0	97
+sxs-ace_angler_fishing_spirits_v393216.r02	-	100000000	1	200009566	0	193
+sxs-ace_angler_fishing_spirits_v393216.r03	-	100000000	1	300009566	0	289
+sxs-ace_angler_fishing_spirits_v393216.r04	-	100000000	1	400009566	0	385
+sxs-ace_angler_fishing_spirits_v393216.r05	-	100000000	1	500009566	0	481
+sxs-ace_angler_fishing_spirits_v393216.r06	-	100000000	1	62251264	1	60
+sxs-ace_angler_fishing_spirits_v393216.r07	-	100000000	1	162251264	1	156
+sxs-ace_angler_fishing_spirits_v393216.r08	-	100000000	1	262251264	1	252
+sxs-ace_angler_fishing_spirits_v393216.r09	-	97458878	1	362251264	1	348
+sxs-ace_angler_fishing_spirits_v393216.rar	-	100000000	1	459710142	1	441
+sxs-ace_angler_fishing_spirits_v393216.sfv	-	583	1	22405376	2	22

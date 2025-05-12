@@ -1,0 +1,5 @@
+sxs-juicy_realm_v720896.nfo	-	6992	1	0	0	0
+sxs-juicy_realm_v720896.r00	-	100000000	1	6992	0	1
+sxs-juicy_realm_v720896.r01	-	50875648	1	100006992	0	97
+sxs-juicy_realm_v720896.rar	-	100000000	1	150882640	0	146
+sxs-juicy_realm_v720896.sfv	-	114	1	250882640	0	242

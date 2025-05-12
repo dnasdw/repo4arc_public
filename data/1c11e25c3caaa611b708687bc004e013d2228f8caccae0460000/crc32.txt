@@ -1,0 +1,7 @@
+sxs-arcaea_v196608.nfo	012ea119
+sxs-arcaea_v196608.r00	232c3bb2
+sxs-arcaea_v196608.r01	15529f8a
+sxs-arcaea_v196608.r02	18bd1287
+sxs-arcaea_v196608.r03	d5abf911
+sxs-arcaea_v196608.rar	304e8af1
+sxs-arcaea_v196608.sfv	809b2b02

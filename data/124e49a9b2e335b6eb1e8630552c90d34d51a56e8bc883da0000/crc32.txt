@@ -1,0 +1,14 @@
+Proof	00000000
+Proof/sxs-cogen_sword_of_rewind.jpg	95be4187
+sxs-cogen_sword_of_rewind.nfo	bf82efb2
+sxs-cogen_sword_of_rewind.r00	89ecb87f
+sxs-cogen_sword_of_rewind.r01	79e4e0dc
+sxs-cogen_sword_of_rewind.r02	0f446cde
+sxs-cogen_sword_of_rewind.r03	c96b2f57
+sxs-cogen_sword_of_rewind.r04	3f29255a
+sxs-cogen_sword_of_rewind.r05	9113b9e3
+sxs-cogen_sword_of_rewind.r06	4a19b9b4
+sxs-cogen_sword_of_rewind.r07	dbd939e9
+sxs-cogen_sword_of_rewind.r08	79c413fe
+sxs-cogen_sword_of_rewind.rar	0e5a373e
+sxs-cogen_sword_of_rewind.sfv	9c8093d3

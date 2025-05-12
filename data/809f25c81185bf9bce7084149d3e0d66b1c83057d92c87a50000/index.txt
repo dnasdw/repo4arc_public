@@ -1,0 +1,4 @@
+bbb-n-apwxa.nfo	-	5517	1	0	0	0
+bbb-n-apwxa.part1.rar	-	250000000	1	5517	0	1
+bbb-n-apwxa.part2.rar	-	159097502	1	250005517	0	240
+bbb-n-apwxa.sfv	-	64	1	409103019	0	392

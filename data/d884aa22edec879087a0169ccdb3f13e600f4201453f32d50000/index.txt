@@ -1,0 +1,5 @@
+sxs-cyber_neon_bundle.nfo	-	5432	1	0	0	0
+sxs-cyber_neon_bundle.r00	-	100000000	1	5432	0	1
+sxs-cyber_neon_bundle.r01	-	62500237	1	100005432	0	97
+sxs-cyber_neon_bundle.rar	-	100000000	1	162505669	0	157
+sxs-cyber_neon_bundle.sfv	-	108	1	262505669	0	253

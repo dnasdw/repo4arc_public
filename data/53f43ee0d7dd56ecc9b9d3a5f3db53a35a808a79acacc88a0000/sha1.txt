@@ -1,0 +1,3 @@
+v-ssbu_ultimate_spirits_set_dlc.nfo	b3bbb991e86f6294df61d729d904d6c501deb1fa
+v-ssbu_ultimate_spirits_set_dlc.rar	243954796ece214da0a479cd82337fe6573c7301
+v-ssbu_ultimate_spirits_set_dlc.sfv	3f78d9f30b67833f920e314e95409f0ef9deff15

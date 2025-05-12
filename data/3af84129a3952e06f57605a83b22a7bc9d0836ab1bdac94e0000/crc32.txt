@@ -1,0 +1,10 @@
+sxs-tbtwt_pl_dlc.nfo	49f96873
+sxs-tbtwt_pl_dlc.r00	b1dc8a9f
+sxs-tbtwt_pl_dlc.r01	431f3162
+sxs-tbtwt_pl_dlc.r02	c68d4a61
+sxs-tbtwt_pl_dlc.r03	88dafe79
+sxs-tbtwt_pl_dlc.r04	340f23f4
+sxs-tbtwt_pl_dlc.r05	95d7b98d
+sxs-tbtwt_pl_dlc.r06	dae8af7d
+sxs-tbtwt_pl_dlc.rar	4ef53fa5
+sxs-tbtwt_pl_dlc.sfv	3006712b

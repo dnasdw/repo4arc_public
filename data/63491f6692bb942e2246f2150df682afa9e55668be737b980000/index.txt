@@ -1,0 +1,11 @@
+lfc-superloopdrive.nfo	-	3661	1	0	0	0
+lfc-superloopdrive.r00	-	50000000	1	3661	0	1
+lfc-superloopdrive.r01	-	50000000	1	50003661	0	49
+lfc-superloopdrive.r02	-	50000000	1	100003661	0	97
+lfc-superloopdrive.r03	-	50000000	1	150003661	0	145
+lfc-superloopdrive.r04	-	50000000	1	200003661	0	193
+lfc-superloopdrive.r05	-	50000000	1	250003661	0	241
+lfc-superloopdrive.r06	-	50000000	1	300003661	0	289
+lfc-superloopdrive.r07	-	11210873	1	350003661	0	337
+lfc-superloopdrive.rar	-	50000000	1	361214534	0	348
+lfc-superloopdrive.sfv	-	297	1	411214534	0	396

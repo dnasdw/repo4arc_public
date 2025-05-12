@@ -1,0 +1,8 @@
+sxs-z_war_apocalypse_shooter.nfo	24632803
+sxs-z_war_apocalypse_shooter.r00	be5eff2c
+sxs-z_war_apocalypse_shooter.r01	7b2435a0
+sxs-z_war_apocalypse_shooter.r02	dbbdbe80
+sxs-z_war_apocalypse_shooter.r03	b2a052a5
+sxs-z_war_apocalypse_shooter.r04	8221d77b
+sxs-z_war_apocalypse_shooter.rar	8c303663
+sxs-z_war_apocalypse_shooter.sfv	51dd7417

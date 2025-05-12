@@ -1,0 +1,10 @@
+v-serious_sam_collection_v196608.nfo	-	5044	1	0	0	0
+v-serious_sam_collection_v196608.r00	-	50000000	1	5044	0	1
+v-serious_sam_collection_v196608.r01	-	50000000	1	50005044	0	49
+v-serious_sam_collection_v196608.r02	-	50000000	1	100005044	0	97
+v-serious_sam_collection_v196608.r03	-	50000000	1	150005044	0	145
+v-serious_sam_collection_v196608.r04	-	50000000	1	200005044	0	193
+v-serious_sam_collection_v196608.r05	-	50000000	1	250005044	0	241
+v-serious_sam_collection_v196608.r06	-	48688506	1	300005044	0	289
+v-serious_sam_collection_v196608.rar	-	50000000	1	348693550	0	336
+v-serious_sam_collection_v196608.sfv	-	376	1	398693550	0	384

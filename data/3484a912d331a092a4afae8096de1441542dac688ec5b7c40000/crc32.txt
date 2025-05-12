@@ -1,0 +1,17 @@
+v-castlevania_advance_collection.nfo	96e62624
+v-castlevania_advance_collection.r00	b15186b4
+v-castlevania_advance_collection.r01	6ea2506b
+v-castlevania_advance_collection.r02	730adeca
+v-castlevania_advance_collection.r03	98445e73
+v-castlevania_advance_collection.r04	310d12fc
+v-castlevania_advance_collection.r05	6d488367
+v-castlevania_advance_collection.r06	c2aa89a8
+v-castlevania_advance_collection.r07	0823945d
+v-castlevania_advance_collection.r08	54a4936b
+v-castlevania_advance_collection.r09	e5be858c
+v-castlevania_advance_collection.r10	bf166279
+v-castlevania_advance_collection.r11	62d7ae33
+v-castlevania_advance_collection.r12	985024ac
+v-castlevania_advance_collection.r13	63dba02f
+v-castlevania_advance_collection.rar	cd9fd62b
+v-castlevania_advance_collection.sfv	6e4d7207

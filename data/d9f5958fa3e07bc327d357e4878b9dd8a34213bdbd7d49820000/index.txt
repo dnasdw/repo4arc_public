@@ -1,0 +1,3 @@
+sxs-food_truck_tycoon_expansion_pack_dlc.nfo	-	6056	1	0	0	0
+sxs-food_truck_tycoon_expansion_pack_dlc.rar	-	104146	1	6056	0	1
+sxs-food_truck_tycoon_expansion_pack_dlc.sfv	-	55	1	110202	0	2

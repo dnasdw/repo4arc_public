@@ -1,0 +1,7 @@
+sxs-counter_delta_the_bullet_rain_v131072.nfo	86e8a367
+sxs-counter_delta_the_bullet_rain_v131072.r00	3322b233
+sxs-counter_delta_the_bullet_rain_v131072.r01	1444d5af
+sxs-counter_delta_the_bullet_rain_v131072.r02	d607852f
+sxs-counter_delta_the_bullet_rain_v131072.r03	b015407c
+sxs-counter_delta_the_bullet_rain_v131072.rar	0e7f3330
+sxs-counter_delta_the_bullet_rain_v131072.sfv	347ea89a

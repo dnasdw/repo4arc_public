@@ -1,0 +1,5 @@
+sxs-gearshifters_v196608.nfo	02f0911e862f3b660990390c0431c125
+sxs-gearshifters_v196608.r00	3a66696815f2ef02adf21892e3fc6dab
+sxs-gearshifters_v196608.r01	a3e360cf4acabea2191b1cbce01489a9
+sxs-gearshifters_v196608.rar	5c929928ed35e46d1a8dfc97a7574526
+sxs-gearshifters_v196608.sfv	0a5566f5a1bc81b9bcdada23dd97337a

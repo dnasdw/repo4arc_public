@@ -1,0 +1,12 @@
+v-farm_tycoon_v458752.nfo	7c1091f1
+v-farm_tycoon_v458752.r00	9f827099
+v-farm_tycoon_v458752.r01	cdccb0fa
+v-farm_tycoon_v458752.r02	c95d9faa
+v-farm_tycoon_v458752.r03	6ef83fbc
+v-farm_tycoon_v458752.r04	f99b38b0
+v-farm_tycoon_v458752.r05	b9770401
+v-farm_tycoon_v458752.r06	e12de6b4
+v-farm_tycoon_v458752.r07	6289a908
+v-farm_tycoon_v458752.r08	7d3f3fe0
+v-farm_tycoon_v458752.rar	fa0b45f4
+v-farm_tycoon_v458752.sfv	5fbe2192

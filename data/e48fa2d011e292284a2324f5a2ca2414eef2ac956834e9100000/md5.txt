@@ -1,0 +1,10 @@
+sxs-datejournal_demo.nfo	ce3af98372f03e3bab73ce87efd3894a
+sxs-datejournal_demo.r00	a784d3ceebb26828105a4d3d7bd598fa
+sxs-datejournal_demo.r01	d6b486a6aae66c8ead323e17dbd46c77
+sxs-datejournal_demo.r02	9f71297283f65ae03c6d9d7ed5f08a57
+sxs-datejournal_demo.r03	fa3aeea90668763df5e8baf83c2b842e
+sxs-datejournal_demo.r04	10ddf4cbbf73e0292705606e769e83e4
+sxs-datejournal_demo.r05	40d281ccb6b40a8f2bbe7ad6e959883e
+sxs-datejournal_demo.r06	fe6f18224deb1e3ce09e8d8a0c67e27c
+sxs-datejournal_demo.rar	54886c4380d2bc3f942f319dbc6104d4
+sxs-datejournal_demo.sfv	06a81d1c77f7d1e12a99bbf612d948a9

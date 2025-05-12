@@ -1,0 +1,17 @@
+hr-asuca.nfo	6dd56cfe
+hr-asuca.r00	744a9c7d
+hr-asuca.r01	c1cac27d
+hr-asuca.r02	5e5b86c8
+hr-asuca.r03	1434a33c
+hr-asuca.r04	5f698266
+hr-asuca.r05	6ddde5fd
+hr-asuca.r06	a0e4b0e5
+hr-asuca.r07	5729d496
+hr-asuca.r08	bc669502
+hr-asuca.r09	68e3f10c
+hr-asuca.r10	78a8d0c4
+hr-asuca.r11	602bf9ef
+hr-asuca.rar	18b54469
+hr-asuca.sfv	31a42258
+Proof	00000000
+Proof/hr-asuca.jpg	6be45b89

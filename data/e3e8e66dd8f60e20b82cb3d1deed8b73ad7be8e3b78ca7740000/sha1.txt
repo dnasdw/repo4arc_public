@@ -1,0 +1,4 @@
+lfc-dynabomb.nfo	4bb33766f9a22651803f8fb8ade7c962622be9da
+lfc-dynabomb.r00	400abd5727e3bcece5940b4f67f8175630b55a01
+lfc-dynabomb.rar	04946f200cf2e0391f9ef95ce4631071fab3f88f
+lfc-dynabomb.sfv	d6bcaac45575257577d18e5a56a66d7e8e826433

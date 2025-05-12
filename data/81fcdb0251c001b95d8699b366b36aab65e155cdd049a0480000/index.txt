@@ -1,0 +1,3 @@
+sxs-clutter_1000_v65536.nfo	-	5354	1	0	0	0
+sxs-clutter_1000_v65536.rar	-	36119593	1	5354	0	1
+sxs-clutter_1000_v65536.sfv	-	38	1	36124947	0	36

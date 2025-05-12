@@ -1,0 +1,12 @@
+sxs-aragami_shadow_edition_v65536.nfo	270dca20
+sxs-aragami_shadow_edition_v65536.r00	c17c4463
+sxs-aragami_shadow_edition_v65536.r01	161255b1
+sxs-aragami_shadow_edition_v65536.r02	981bd002
+sxs-aragami_shadow_edition_v65536.r03	3be60987
+sxs-aragami_shadow_edition_v65536.r04	248d0245
+sxs-aragami_shadow_edition_v65536.r05	05c1532b
+sxs-aragami_shadow_edition_v65536.r06	78bbdc43
+sxs-aragami_shadow_edition_v65536.r07	1b77fb88
+sxs-aragami_shadow_edition_v65536.r08	5db7a601
+sxs-aragami_shadow_edition_v65536.rar	a16ffcfc
+sxs-aragami_shadow_edition_v65536.sfv	104683b8

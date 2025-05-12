@@ -1,0 +1,3 @@
+sxs-brawl_chess_dlc.nfo	e726f99d8aa96ac19a684475745278fc
+sxs-brawl_chess_dlc.rar	d7943d7ea109692ce6345bae8b02ce67
+sxs-brawl_chess_dlc.sfv	42736bdf2006594953d1fff92662ee15

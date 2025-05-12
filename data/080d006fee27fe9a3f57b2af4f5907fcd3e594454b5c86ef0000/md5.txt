@@ -1,0 +1,9 @@
+sxs-pictoquest_v131072.nfo	aac88f4eb94dc506553a0f1a51019e34
+sxs-pictoquest_v131072.r00	e3dd3e09823a0388a1c592ca7c0f1638
+sxs-pictoquest_v131072.r01	f91d3ba7d8804c801c47a707090100b2
+sxs-pictoquest_v131072.r02	0f73fdb89c1a05daca350684ad579dd7
+sxs-pictoquest_v131072.r03	cb285ce9d21e4b01afcd3def2bf1f6e1
+sxs-pictoquest_v131072.r04	303eaa0924bef0cae6cc2f0a69960c9a
+sxs-pictoquest_v131072.r05	bdfd1c0d6a180b1b65727ce9b585bce8
+sxs-pictoquest_v131072.rar	4767b0d59a9279951be28358fe41638d
+sxs-pictoquest_v131072.sfv	232e4e3a2fa16f166d0799f8869369f9

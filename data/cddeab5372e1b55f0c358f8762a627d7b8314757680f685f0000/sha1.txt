@@ -1,0 +1,11 @@
+cat-arcya.nfo	6f63d9c74abb71de1be386284482eb43f8d6d96a
+cat-arcya.r00	3a250196a5a193a6a9c19d5d2ec388762a474f78
+cat-arcya.r01	71609070073a98fd65bc319551658363c1e94c5e
+cat-arcya.r02	3db1ff0d7fd49c90c25babd8d5888e9b83d4a1e2
+cat-arcya.r03	5eafd528510b3b23dc03c119f046ad1c44ecc8a4
+cat-arcya.r04	ebe052c1fd78796cff3cf272e4a81c9731be83c6
+cat-arcya.r05	40261477765ac4eccb7427e2ddaed8e5a0f3f3df
+cat-arcya.r06	d80d26a5c4883de63e977038d7fcf15874ad23ae
+cat-arcya.r07	0b14d622938b8ebea3eb83efdec653ba6f33007d
+cat-arcya.rar	bc42f01ad3b61f9393b265b4ec0fbfa31c6b3f50
+cat-arcya.sfv	fea3208d0c940bbe45bde5a00b289f760eb7fe75

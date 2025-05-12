@@ -1,0 +1,9 @@
+bbb-n-ak6za.nfo	-	5517	1	0	0	0
+bbb-n-ak6za.part1.rar	-	250000000	1	5517	0	1
+bbb-n-ak6za.part2.rar	-	250000000	1	250005517	0	240
+bbb-n-ak6za.part3.rar	-	250000000	1	500005517	0	479
+bbb-n-ak6za.part4.rar	-	250000000	1	212251264	1	203
+bbb-n-ak6za.part5.rar	-	250000000	1	462251264	1	442
+bbb-n-ak6za.part6.rar	-	250000000	1	174502528	2	167
+bbb-n-ak6za.part7.rar	-	61572580	1	424502528	2	406
+bbb-n-ak6za.sfv	-	224	1	486075108	2	465

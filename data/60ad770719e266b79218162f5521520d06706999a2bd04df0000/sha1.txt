@@ -1,0 +1,3 @@
+v-torchlight_ii_yapper_dlc.nfo	072c8fa1b1ba240f70acba5c37d5c632e0f70a1c
+v-torchlight_ii_yapper_dlc.rar	4ca3ea54ce8111f96cac0a3bb64c734420c96d03
+v-torchlight_ii_yapper_dlc.sfv	fbe5b38e784bc0a56b6ea5f2578d66cbc72139a9

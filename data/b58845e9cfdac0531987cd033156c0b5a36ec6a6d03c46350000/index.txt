@@ -1,0 +1,8 @@
+v-reef_escape.nfo	-	5590	1	0	0	0
+v-reef_escape.r00	-	100000000	1	5590	0	1
+v-reef_escape.r01	-	100000000	1	100005590	0	97
+v-reef_escape.r02	-	100000000	1	200005590	0	193
+v-reef_escape.r03	-	100000000	1	300005590	0	289
+v-reef_escape.r04	-	46113013	1	400005590	0	385
+v-reef_escape.rar	-	100000000	1	446118603	0	429
+v-reef_escape.sfv	-	168	1	8773888	1	9

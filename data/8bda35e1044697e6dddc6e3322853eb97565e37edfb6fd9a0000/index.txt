@@ -1,0 +1,4 @@
+sxs-we_should_talk_v65536.nfo	-	4496	1	0	0	0
+sxs-we_should_talk_v65536.r00	-	25803583	1	4496	0	1
+sxs-we_should_talk_v65536.rar	-	50000000	1	25808079	0	26
+sxs-we_should_talk_v65536.sfv	-	80	1	75808079	0	74

@@ -1,0 +1,3 @@
+v-samurai_shodown_dlc.nfo	7a8607e9a4fc66c6f469aa7e4886932607f98390
+v-samurai_shodown_dlc.rar	b4fd9e417c229d2be1d5e8d63edd71b7acbfa86c
+v-samurai_shodown_dlc.sfv	58a2a0f140eda930e53dac9b9bd0f1087a448db4

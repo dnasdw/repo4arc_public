@@ -1,0 +1,9 @@
+sxs-klondike_solitaire_v196608.nfo	-	6524	1	0	0	0
+sxs-klondike_solitaire_v196608.r00	-	50000000	1	6524	0	1
+sxs-klondike_solitaire_v196608.r01	-	50000000	1	50006524	0	49
+sxs-klondike_solitaire_v196608.r02	-	50000000	1	100006524	0	97
+sxs-klondike_solitaire_v196608.r03	-	50000000	1	150006524	0	145
+sxs-klondike_solitaire_v196608.r04	-	50000000	1	200006524	0	193
+sxs-klondike_solitaire_v196608.r05	-	7400012	1	250006524	0	241
+sxs-klondike_solitaire_v196608.rar	-	50000000	1	257406536	0	249
+sxs-klondike_solitaire_v196608.sfv	-	315	1	307406536	0	297

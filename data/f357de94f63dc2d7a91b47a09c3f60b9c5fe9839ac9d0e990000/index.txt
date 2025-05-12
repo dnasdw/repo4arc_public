@@ -1,0 +1,3 @@
+v-arcade_classics_anniversary_collection_v262144.nfo	-	8632	1	0	0	0
+v-arcade_classics_anniversary_collection_v262144.rar	-	73743232	1	8632	0	1
+v-arcade_classics_anniversary_collection_v262144.sfv	-	63	1	73751864	0	72

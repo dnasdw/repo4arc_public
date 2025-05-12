@@ -1,0 +1,6 @@
+v-quake_udob_dlc.nfo	-	11674	1	0	0	0
+v-quake_udob_dlc.r00	-	50000000	1	11674	0	1
+v-quake_udob_dlc.r01	-	50000000	1	50011674	0	49
+v-quake_udob_dlc.r02	-	11714070	1	100011674	0	97
+v-quake_udob_dlc.rar	-	50000000	1	111725744	0	109
+v-quake_udob_dlc.sfv	-	124	1	161725744	0	157

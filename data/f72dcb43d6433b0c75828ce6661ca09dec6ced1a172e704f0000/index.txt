@@ -1,0 +1,3 @@
+sxs-backpack_twins_v65536.nfo	-	5978	1	0	0	0
+sxs-backpack_twins_v65536.rar	-	27486764	1	5978	0	1
+sxs-backpack_twins_v65536.sfv	-	40	1	27492742	0	28

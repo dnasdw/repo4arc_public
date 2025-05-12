@@ -1,0 +1,14 @@
+l-calico_v262144.nfo	f765983b
+l-calico_v262144.r00	137fbf21
+l-calico_v262144.r01	94acecb7
+l-calico_v262144.r02	7fac6d2e
+l-calico_v262144.r03	43ef54ef
+l-calico_v262144.r04	9359379a
+l-calico_v262144.r05	4d6559d4
+l-calico_v262144.r06	d594da6f
+l-calico_v262144.r07	c5a58ea1
+l-calico_v262144.r08	fbe416b9
+l-calico_v262144.r09	21991dd1
+l-calico_v262144.r10	dd9e6e8d
+l-calico_v262144.rar	29578409
+l-calico_v262144.sfv	2972a07b

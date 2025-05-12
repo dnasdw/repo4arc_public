@@ -1,0 +1,3 @@
+sxs-spider_solitaire_f_v65536.nfo	55acc29b3fd8bf6242438c284738f8e1de4ae5c6
+sxs-spider_solitaire_f_v65536.rar	71db064e615f9ce40b75d2cb3714b7461cf0a0a2
+sxs-spider_solitaire_f_v65536.sfv	ff130f57f44d840dea6ca90467f7e1116600db39

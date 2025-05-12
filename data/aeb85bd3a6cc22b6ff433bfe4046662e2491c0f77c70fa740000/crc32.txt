@@ -1,0 +1,4 @@
+lfc-fact_v65536.nfo	da504396
+lfc-fact_v65536.r00	8d832d15
+lfc-fact_v65536.rar	a5423bcd
+lfc-fact_v65536.sfv	13bce9ce

@@ -1,0 +1,15 @@
+sxs-adventure_academia_the_fractured_continent_v65536.nfo	-	5978	1	0	0	0
+sxs-adventure_academia_the_fractured_continent_v65536.r00	-	50000000	1	5978	0	1
+sxs-adventure_academia_the_fractured_continent_v65536.r01	-	50000000	1	50005978	0	49
+sxs-adventure_academia_the_fractured_continent_v65536.r02	-	50000000	1	100005978	0	97
+sxs-adventure_academia_the_fractured_continent_v65536.r03	-	50000000	1	150005978	0	145
+sxs-adventure_academia_the_fractured_continent_v65536.r04	-	50000000	1	200005978	0	193
+sxs-adventure_academia_the_fractured_continent_v65536.r05	-	50000000	1	250005978	0	241
+sxs-adventure_academia_the_fractured_continent_v65536.r06	-	50000000	1	300005978	0	289
+sxs-adventure_academia_the_fractured_continent_v65536.r07	-	50000000	1	350005978	0	337
+sxs-adventure_academia_the_fractured_continent_v65536.r08	-	50000000	1	400005978	0	385
+sxs-adventure_academia_the_fractured_continent_v65536.r09	-	50000000	1	450005978	0	433
+sxs-adventure_academia_the_fractured_continent_v65536.r10	-	50000000	1	500005978	0	481
+sxs-adventure_academia_the_fractured_continent_v65536.r11	-	553793	1	12251264	1	12
+sxs-adventure_academia_the_fractured_continent_v65536.rar	-	50000000	1	12805057	1	13
+sxs-adventure_academia_the_fractured_continent_v65536.sfv	-	884	1	62805057	1	61

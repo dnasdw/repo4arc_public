@@ -1,0 +1,4 @@
+sxs-chips_challenge.nfo	d49e131f40b9c9a1320c3239e36e570d
+sxs-chips_challenge.r00	6d301cd18ae1be2924d6c6028e655282
+sxs-chips_challenge.rar	ec6f7ea9fdac80f69b3da01a5075727d
+sxs-chips_challenge.sfv	66f76cfbed703490d42652e5b527c721

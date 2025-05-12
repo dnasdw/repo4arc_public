@@ -1,0 +1,4 @@
+v-worldffmaxima_v65536.nfo	-	4109	1	0	0	0
+v-worldffmaxima_v65536.r00	-	22549762	1	4109	0	1
+v-worldffmaxima_v65536.rar	-	50000000	1	22553871	0	23
+v-worldffmaxima_v65536.sfv	-	74	1	72553871	0	71

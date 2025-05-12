@@ -1,0 +1,4 @@
+v-metroid_dread_v262144.nfo	97e93e486bf37282fa4f3b37cffe0f9be0b919f4
+v-metroid_dread_v262144.r00	15d6e0e451a85cc7756f49ca117006d25915b0c7
+v-metroid_dread_v262144.rar	da81e958b696e27c54718854e76d930e562c52ef
+v-metroid_dread_v262144.sfv	453f7e1125ebcbcfe6397b12adff7c89adae35ac

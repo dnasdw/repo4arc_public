@@ -1,0 +1,12 @@
+darkmoon-calculation.castle.grecos.ghostly.challenge.multiplication.eshop.nsw.nfo	-	16740	1	0	0	0
+darkmoon-calculation.castle.grecos.ghostly.challenge.multiplication.eshop.nsw.r00	-	50000000	1	16740	0	1
+darkmoon-calculation.castle.grecos.ghostly.challenge.multiplication.eshop.nsw.r01	-	50000000	1	50016740	0	49
+darkmoon-calculation.castle.grecos.ghostly.challenge.multiplication.eshop.nsw.r02	-	50000000	1	100016740	0	97
+darkmoon-calculation.castle.grecos.ghostly.challenge.multiplication.eshop.nsw.r03	-	50000000	1	150016740	0	145
+darkmoon-calculation.castle.grecos.ghostly.challenge.multiplication.eshop.nsw.r04	-	50000000	1	200016740	0	193
+darkmoon-calculation.castle.grecos.ghostly.challenge.multiplication.eshop.nsw.r05	-	50000000	1	250016740	0	241
+darkmoon-calculation.castle.grecos.ghostly.challenge.multiplication.eshop.nsw.r06	-	50000000	1	300016740	0	289
+darkmoon-calculation.castle.grecos.ghostly.challenge.multiplication.eshop.nsw.r07	-	50000000	1	350016740	0	337
+darkmoon-calculation.castle.grecos.ghostly.challenge.multiplication.eshop.nsw.r08	-	18301022	1	400016740	0	385
+darkmoon-calculation.castle.grecos.ghostly.challenge.multiplication.eshop.nsw.rar	-	50000000	1	418317762	0	403
+darkmoon-calculation.castle.grecos.ghostly.challenge.multiplication.eshop.nsw.sfv	-	920	1	468317762	0	451

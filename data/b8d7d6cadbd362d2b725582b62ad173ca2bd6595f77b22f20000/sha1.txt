@@ -1,0 +1,5 @@
+bbb-n-acm3a.nfo	2be7224c0b2df275c03b632ff1912038cb863e38
+bbb-n-acm3a.part1.rar	2cb79519ce41ce844fec6987be07216a5461e8da
+bbb-n-acm3a.part2.rar	0e04de2b36636973b76fe315d60bc21ae5cc216c
+bbb-n-acm3a.part3.rar	57a0d1dffbce737b972fc48aa14179a9ba26fa1c
+bbb-n-acm3a.sfv	02c4a72e962b60ff19a3310bb296125f5fe651ac

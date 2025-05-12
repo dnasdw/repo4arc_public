@@ -1,0 +1,5 @@
+lfc-bugu_v131072.nfo	fb78e00c
+lfc-bugu_v131072.r00	db0506be
+lfc-bugu_v131072.r01	da8557e6
+lfc-bugu_v131072.rar	b6017d62
+lfc-bugu_v131072.sfv	287d7ce1

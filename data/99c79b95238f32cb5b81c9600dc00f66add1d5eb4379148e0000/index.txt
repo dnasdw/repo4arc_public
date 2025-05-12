@@ -1,0 +1,4 @@
+sxs-woodturning_3d.nfo	-	6368	1	0	0	0
+sxs-woodturning_3d.r00	-	73437585	1	6368	0	1
+sxs-woodturning_3d.rar	-	100000000	1	73443953	0	72
+sxs-woodturning_3d.sfv	-	66	1	173443953	0	168

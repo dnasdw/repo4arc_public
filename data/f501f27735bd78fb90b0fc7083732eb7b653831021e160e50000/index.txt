@@ -1,0 +1,3 @@
+v-power_rangers_battle_for_the_grid_v1376256_dlc.nfo	-	7696	1	0	0	0
+v-power_rangers_battle_for_the_grid_v1376256_dlc.rar	-	2494817	1	7696	0	1
+v-power_rangers_battle_for_the_grid_v1376256_dlc.sfv	-	63	1	2502513	0	4

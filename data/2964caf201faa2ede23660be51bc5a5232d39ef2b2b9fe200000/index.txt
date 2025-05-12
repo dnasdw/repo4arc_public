@@ -1,0 +1,11 @@
+sxs-minecraft_legends_v720896.nfo	-	4574	1	0	0	0
+sxs-minecraft_legends_v720896.r00	-	100000000	1	4574	0	1
+sxs-minecraft_legends_v720896.r01	-	100000000	1	100004574	0	97
+sxs-minecraft_legends_v720896.r02	-	100000000	1	200004574	0	193
+sxs-minecraft_legends_v720896.r03	-	100000000	1	300004574	0	289
+sxs-minecraft_legends_v720896.r04	-	100000000	1	400004574	0	385
+sxs-minecraft_legends_v720896.r05	-	100000000	1	500004574	0	481
+sxs-minecraft_legends_v720896.r06	-	100000000	1	62251264	1	60
+sxs-minecraft_legends_v720896.r07	-	15860925	1	162251264	1	156
+sxs-minecraft_legends_v720896.rar	-	100000000	1	178112189	1	172
+sxs-minecraft_legends_v720896.sfv	-	396	1	278112189	1	268

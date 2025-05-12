@@ -1,0 +1,6 @@
+sxs-him_and_her_collection.nfo	fc3751f012c119ad5f35a16efecc2ed3
+sxs-him_and_her_collection.r00	4e6739e8de712e323cc3d08697afd24b
+sxs-him_and_her_collection.r01	1cac287b4a30a32adc2407554eb2eb32
+sxs-him_and_her_collection.r02	955f65aee22daed2105c5c9852310616
+sxs-him_and_her_collection.rar	f2f70bd59a5b06d88ab4b1236fc24cac
+sxs-him_and_her_collection.sfv	38da06a329641628f2ea39485c276e64

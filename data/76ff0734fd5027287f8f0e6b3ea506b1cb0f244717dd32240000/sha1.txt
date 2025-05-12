@@ -1,0 +1,3 @@
+sxs-ms_olympics_2020_lang.nfo	ecbe257a0117dcab1fd99a6ec295e749af8bab01
+sxs-ms_olympics_2020_lang.rar	c77e9ceca6d1b0c36ac310bc83b0ecda6c618cee
+sxs-ms_olympics_2020_lang.sfv	ef24162b991bdc65d6ea3f83abb5994d5ae7e0ef

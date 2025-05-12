@@ -1,0 +1,4 @@
+lfc-hopl_v65536.nfo	edf37709
+lfc-hopl_v65536.r00	92314f84
+lfc-hopl_v65536.rar	04e9d949
+lfc-hopl_v65536.sfv	be732bb1

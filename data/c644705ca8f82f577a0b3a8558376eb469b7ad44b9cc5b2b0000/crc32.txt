@@ -1,0 +1,12 @@
+sxs-1993_shenandoah.nfo	4bdd2f9f
+sxs-1993_shenandoah.r00	9b79f80b
+sxs-1993_shenandoah.r01	900cfd15
+sxs-1993_shenandoah.r02	21757414
+sxs-1993_shenandoah.r03	b0cef1e1
+sxs-1993_shenandoah.r04	6cd0c7b1
+sxs-1993_shenandoah.r05	3ed2f094
+sxs-1993_shenandoah.r06	b8604044
+sxs-1993_shenandoah.r07	5d96c18e
+sxs-1993_shenandoah.r08	cbc68408
+sxs-1993_shenandoah.rar	5e659182
+sxs-1993_shenandoah.sfv	e8fdbaec

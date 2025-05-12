@@ -1,0 +1,3 @@
+sxs-skypeace_v65536.nfo	-	4652	1	0	0	0
+sxs-skypeace_v65536.rar	-	15152160	1	4652	0	1
+sxs-skypeace_v65536.sfv	-	34	1	15156812	0	16

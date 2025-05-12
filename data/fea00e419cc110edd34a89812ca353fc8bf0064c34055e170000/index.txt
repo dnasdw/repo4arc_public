@@ -1,0 +1,6 @@
+sxs-construction_site_driver.nfo	-	8560	1	0	0	0
+sxs-construction_site_driver.r00	-	100000000	1	8560	0	1
+sxs-construction_site_driver.r01	-	100000000	1	100008560	0	97
+sxs-construction_site_driver.r02	-	74145396	1	200008560	0	193
+sxs-construction_site_driver.rar	-	100000000	1	274153956	0	264
+sxs-construction_site_driver.sfv	-	172	1	374153956	0	360

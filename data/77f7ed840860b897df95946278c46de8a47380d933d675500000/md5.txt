@@ -1,0 +1,14 @@
+v-doublecross.nfo	e7ee563f4f60ad81ab4fb32fd7e3dab7
+v-doublecross.r00	7edc1b35948395c5ced2cf1e6305adf8
+v-doublecross.r01	9ce324ed044a7b192aea1b0bf0172fe6
+v-doublecross.r02	50204ffaffeb5ac0830fc450f1401237
+v-doublecross.r03	3594bf2aa536166093e31f95376fb6ff
+v-doublecross.r04	07f7365e95cedc2e5d95a03ea3f0f06e
+v-doublecross.r05	b36b58ce3993f0dea31b644a893eefec
+v-doublecross.r06	daf6a2e98b03a25a70c6ee1fd232a7ca
+v-doublecross.r07	387ac829d07bc367cdc69b75d3375359
+v-doublecross.r08	e83ca62be9b7e0f7419786df0b1a2e56
+v-doublecross.r09	4599979b50052d4cf36254173a277c13
+v-doublecross.r10	6d8633271f183e230b9edc2abd7c7281
+v-doublecross.rar	2f6d84a5d032722568e5e21ec06044aa
+v-doublecross.sfv	1bb3cb5864dff846de92ad60260225e4

@@ -1,0 +1,4 @@
+bbb-n-afjga.nfo	-	5517	1	0	0	0
+bbb-n-afjga.part1.rar	-	250000000	1	5517	0	1
+bbb-n-afjga.part2.rar	-	32935466	1	250005517	0	240
+bbb-n-afjga.sfv	-	64	1	282940983	0	272

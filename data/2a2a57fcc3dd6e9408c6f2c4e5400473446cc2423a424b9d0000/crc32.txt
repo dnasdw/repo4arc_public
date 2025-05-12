@@ -1,0 +1,5 @@
+sxs-remnant_from_the_ashes_german_language_pack_dlc.nfo	2e0e2087
+sxs-remnant_from_the_ashes_german_language_pack_dlc.r00	8bac4e8c
+sxs-remnant_from_the_ashes_german_language_pack_dlc.r01	98b070f7
+sxs-remnant_from_the_ashes_german_language_pack_dlc.rar	b1b99978
+sxs-remnant_from_the_ashes_german_language_pack_dlc.sfv	b19a0a3c

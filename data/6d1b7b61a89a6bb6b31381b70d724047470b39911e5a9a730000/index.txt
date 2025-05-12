@@ -1,0 +1,14 @@
+v-fallen_legion_revenants_v458752.nfo	-	4030	1	0	0	0
+v-fallen_legion_revenants_v458752.r00	-	50000000	1	4030	0	1
+v-fallen_legion_revenants_v458752.r01	-	50000000	1	50004030	0	49
+v-fallen_legion_revenants_v458752.r02	-	50000000	1	100004030	0	97
+v-fallen_legion_revenants_v458752.r03	-	50000000	1	150004030	0	145
+v-fallen_legion_revenants_v458752.r04	-	50000000	1	200004030	0	193
+v-fallen_legion_revenants_v458752.r05	-	50000000	1	250004030	0	241
+v-fallen_legion_revenants_v458752.r06	-	50000000	1	300004030	0	289
+v-fallen_legion_revenants_v458752.r07	-	50000000	1	350004030	0	337
+v-fallen_legion_revenants_v458752.r08	-	50000000	1	400004030	0	385
+v-fallen_legion_revenants_v458752.r09	-	50000000	1	450004030	0	433
+v-fallen_legion_revenants_v458752.r10	-	48796815	1	500004030	0	481
+v-fallen_legion_revenants_v458752.rar	-	50000000	1	11048079	1	11
+v-fallen_legion_revenants_v458752.sfv	-	576	1	61048079	1	59

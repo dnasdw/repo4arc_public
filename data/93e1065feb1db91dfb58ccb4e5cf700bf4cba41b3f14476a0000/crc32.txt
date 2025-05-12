@@ -1,0 +1,11 @@
+l-mahluk.nfo	e21265e7
+l-mahluk.r00	7ec9876c
+l-mahluk.r01	f8794a05
+l-mahluk.r02	fd48daba
+l-mahluk.r03	587bfcd6
+l-mahluk.r04	fbf70ea0
+l-mahluk.r05	81d9afc6
+l-mahluk.r06	623436e3
+l-mahluk.r07	b36f8178
+l-mahluk.rar	e0e89608
+l-mahluk.sfv	fa3e4889

@@ -1,0 +1,15 @@
+hr-avlcav101.nfo	964531c7
+hr-avlcav101.r00	0c47aa93
+hr-avlcav101.r01	bc728288
+hr-avlcav101.r02	a4462825
+hr-avlcav101.r03	7bd6dcab
+hr-avlcav101.r04	6faa101d
+hr-avlcav101.r05	3412facd
+hr-avlcav101.r06	d65c494e
+hr-avlcav101.r07	61d68c71
+hr-avlcav101.r08	794aa2fb
+hr-avlcav101.r09	a14b08a0
+hr-avlcav101.r10	6ba46528
+hr-avlcav101.r11	f643f5e6
+hr-avlcav101.rar	92e8246b
+hr-avlcav101.sfv	53d39410

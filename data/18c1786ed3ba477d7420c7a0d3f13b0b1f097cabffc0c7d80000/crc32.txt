@@ -1,0 +1,15 @@
+brw-soht.nfo	13329212
+brw-soht.r00	2c22a843
+brw-soht.r01	e221e16b
+brw-soht.r02	0e323925
+brw-soht.r03	f756d8bc
+brw-soht.r04	1ae4b666
+brw-soht.r05	c2627b7c
+brw-soht.r06	a818068b
+brw-soht.r07	7e6a63c6
+brw-soht.r08	9c25482c
+brw-soht.r09	f781dabb
+brw-soht.r10	4b2843b8
+brw-soht.r11	14d4fba7
+brw-soht.rar	48a3e483
+brw-soht.sfv	8e17510a

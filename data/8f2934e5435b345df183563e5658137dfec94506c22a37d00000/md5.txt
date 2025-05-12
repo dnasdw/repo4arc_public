@@ -1,0 +1,5 @@
+v-rival_megagun_v131072.nfo	cea919b1690d9049d93ffd890baf5d7c
+v-rival_megagun_v131072.r00	ba82fa101cb0bf0f5891214d2c92a08d
+v-rival_megagun_v131072.r01	092014b8bf4e002b1ec292e553265545
+v-rival_megagun_v131072.rar	bfdab56456c541f529e07f4d0fa3fdf7
+v-rival_megagun_v131072.sfv	5148748279066bc93d8faf81c58fb026

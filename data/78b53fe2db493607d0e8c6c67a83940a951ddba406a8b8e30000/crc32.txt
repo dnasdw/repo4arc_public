@@ -1,0 +1,9 @@
+sxs-gensokyo_defenders_v327680.nfo	c0640b92
+sxs-gensokyo_defenders_v327680.r00	845debec
+sxs-gensokyo_defenders_v327680.r01	47fc5374
+sxs-gensokyo_defenders_v327680.r02	b8bcc2f8
+sxs-gensokyo_defenders_v327680.r03	61b86644
+sxs-gensokyo_defenders_v327680.r04	b8237abd
+sxs-gensokyo_defenders_v327680.r05	ebc88ff0
+sxs-gensokyo_defenders_v327680.rar	28887a69
+sxs-gensokyo_defenders_v327680.sfv	9252db74

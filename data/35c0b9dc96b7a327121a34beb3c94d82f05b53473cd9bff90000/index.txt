@@ -1,0 +1,4 @@
+lfc-aswf.nfo	-	5556	1	0	0	0
+lfc-aswf.r00	-	34773041	1	5556	0	1
+lfc-aswf.rar	-	50000000	1	34778597	0	35
+lfc-aswf.sfv	-	46	1	84778597	0	83

@@ -1,0 +1,5 @@
+sxs-911_cannibal.nfo	6b418b4ab6dd513daf4e59e749d9eba8
+sxs-911_cannibal.r00	949900be16b0c134ea5740c0790a5e0d
+sxs-911_cannibal.r01	5bdce52c7e470c4fc780f6ffd24fb787
+sxs-911_cannibal.rar	34e1de9700606fa23ca7e20fece2e84d
+sxs-911_cannibal.sfv	806442ba8bc52c34b7349323c3eb0b45

@@ -1,0 +1,5 @@
+sxs-trash_punk.nfo	-	4886	1	0	0	0
+sxs-trash_punk.r00	-	100000000	1	4886	0	1
+sxs-trash_punk.r01	-	26994231	1	100004886	0	97
+sxs-trash_punk.rar	-	100000000	1	126999117	0	123
+sxs-trash_punk.sfv	-	87	1	226999117	0	219

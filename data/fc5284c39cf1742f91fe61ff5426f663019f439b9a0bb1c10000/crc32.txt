@@ -1,0 +1,11 @@
+v-r-type_final_2_dlc_set_5.nfo	c4016f62
+v-r-type_final_2_dlc_set_5.r00	530ece3d
+v-r-type_final_2_dlc_set_5.r01	b070897b
+v-r-type_final_2_dlc_set_5.r02	1292d7e4
+v-r-type_final_2_dlc_set_5.r03	a16e4272
+v-r-type_final_2_dlc_set_5.r04	b1e5ef07
+v-r-type_final_2_dlc_set_5.r05	7a297b84
+v-r-type_final_2_dlc_set_5.r06	5e189b6c
+v-r-type_final_2_dlc_set_5.r07	27685091
+v-r-type_final_2_dlc_set_5.rar	a5edb27c
+v-r-type_final_2_dlc_set_5.sfv	e92c3648

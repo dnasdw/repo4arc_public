@@ -1,0 +1,11 @@
+lfc-35mm_v131072.nfo	caf4eccf
+lfc-35mm_v131072.r00	7b4ceb1f
+lfc-35mm_v131072.r01	b3605e22
+lfc-35mm_v131072.r02	d55a29a9
+lfc-35mm_v131072.r03	a3902f5f
+lfc-35mm_v131072.r04	ccb29937
+lfc-35mm_v131072.r05	6cc25a09
+lfc-35mm_v131072.r06	2c048254
+lfc-35mm_v131072.r07	fa8ce1c7
+lfc-35mm_v131072.rar	0d1d562c
+lfc-35mm_v131072.sfv	26b965f5

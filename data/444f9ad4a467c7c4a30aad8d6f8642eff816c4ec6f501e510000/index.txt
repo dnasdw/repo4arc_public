@@ -1,0 +1,7 @@
+sxs-super_car_driver.nfo	-	5048	1	0	0	0
+sxs-super_car_driver.r00	-	100000000	1	5048	0	1
+sxs-super_car_driver.r01	-	100000000	1	100005048	0	97
+sxs-super_car_driver.r02	-	100000000	1	200005048	0	193
+sxs-super_car_driver.r03	-	27193268	1	300005048	0	289
+sxs-super_car_driver.rar	-	100000000	1	327198316	0	315
+sxs-super_car_driver.sfv	-	175	1	427198316	0	411

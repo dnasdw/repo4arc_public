@@ -1,0 +1,3 @@
+sxs-knight_squad_v65536.nfo	-	3872	1	0	0	0
+sxs-knight_squad_v65536.rar	-	41958908	1	3872	0	1
+sxs-knight_squad_v65536.sfv	-	38	1	41962780	0	42

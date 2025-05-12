@@ -1,0 +1,12 @@
+sxs-star_melody_yumemi_dreamer_v262144.nfo	-	8077	1	0	0	0
+sxs-star_melody_yumemi_dreamer_v262144.r00	-	100000000	1	8077	0	1
+sxs-star_melody_yumemi_dreamer_v262144.r01	-	100000000	1	100008077	0	97
+sxs-star_melody_yumemi_dreamer_v262144.r02	-	100000000	1	200008077	0	193
+sxs-star_melody_yumemi_dreamer_v262144.r03	-	100000000	1	300008077	0	289
+sxs-star_melody_yumemi_dreamer_v262144.r04	-	100000000	1	400008077	0	385
+sxs-star_melody_yumemi_dreamer_v262144.r05	-	100000000	1	500008077	0	481
+sxs-star_melody_yumemi_dreamer_v262144.r06	-	100000000	1	62251264	1	60
+sxs-star_melody_yumemi_dreamer_v262144.r07	-	100000000	1	162251264	1	156
+sxs-star_melody_yumemi_dreamer_v262144.r08	-	42206027	1	262251264	1	252
+sxs-star_melody_yumemi_dreamer_v262144.rar	-	100000000	1	304457291	1	293
+sxs-star_melody_yumemi_dreamer_v262144.sfv	-	530	1	404457291	1	389

@@ -1,0 +1,7 @@
+sxs-ant_gravity_tinys_adventure.nfo	-	4652	1	0	0	0
+sxs-ant_gravity_tinys_adventure.r00	-	50000000	1	4652	0	1
+sxs-ant_gravity_tinys_adventure.r01	-	50000000	1	50004652	0	49
+sxs-ant_gravity_tinys_adventure.r02	-	50000000	1	100004652	0	97
+sxs-ant_gravity_tinys_adventure.r03	-	22341661	1	150004652	0	145
+sxs-ant_gravity_tinys_adventure.rar	-	50000000	1	172346313	0	167
+sxs-ant_gravity_tinys_adventure.sfv	-	230	1	222346313	0	215

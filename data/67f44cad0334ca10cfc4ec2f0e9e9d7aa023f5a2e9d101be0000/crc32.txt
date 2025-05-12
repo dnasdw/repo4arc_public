@@ -1,0 +1,8 @@
+v-goatsim_goaty_v65536.nfo	cfa0e826
+v-goatsim_goaty_v65536.r00	86b0d5d6
+v-goatsim_goaty_v65536.r01	5f09fe73
+v-goatsim_goaty_v65536.r02	a0844864
+v-goatsim_goaty_v65536.r03	7a92b42d
+v-goatsim_goaty_v65536.r04	e030415c
+v-goatsim_goaty_v65536.rar	ae659922
+v-goatsim_goaty_v65536.sfv	f98b9dff

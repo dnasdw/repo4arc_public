@@ -1,0 +1,3 @@
+sxs-revenant_saga_v196608.nfo	-	4653	1	0	0	0
+sxs-revenant_saga_v196608.rar	-	47801591	1	4653	0	1
+sxs-revenant_saga_v196608.sfv	-	40	1	47806244	0	47

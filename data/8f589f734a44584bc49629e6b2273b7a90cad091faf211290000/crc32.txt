@@ -1,0 +1,15 @@
+sxs-nostalgic_train_v196608.nfo	5decf33a
+sxs-nostalgic_train_v196608.r00	70c84e50
+sxs-nostalgic_train_v196608.r01	966df512
+sxs-nostalgic_train_v196608.r02	db58b7d0
+sxs-nostalgic_train_v196608.r03	4f4c868e
+sxs-nostalgic_train_v196608.r04	af7960fd
+sxs-nostalgic_train_v196608.r05	dedb8e72
+sxs-nostalgic_train_v196608.r06	6159feb3
+sxs-nostalgic_train_v196608.r07	ef5dc6d3
+sxs-nostalgic_train_v196608.r08	614e44dc
+sxs-nostalgic_train_v196608.r09	cca54dd1
+sxs-nostalgic_train_v196608.r10	0713863b
+sxs-nostalgic_train_v196608.r11	882ca6bc
+sxs-nostalgic_train_v196608.rar	a873a9a1
+sxs-nostalgic_train_v196608.sfv	7ed1e736

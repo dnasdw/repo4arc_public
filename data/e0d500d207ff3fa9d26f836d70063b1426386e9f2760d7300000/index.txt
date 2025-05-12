@@ -1,0 +1,4 @@
+sxs-korokoro_harley_v196608.nfo	-	7941	1	0	0	0
+sxs-korokoro_harley_v196608.r00	-	30652325	1	7941	0	1
+sxs-korokoro_harley_v196608.rar	-	100000000	1	30660266	0	31
+sxs-korokoro_harley_v196608.sfv	-	84	1	130660266	0	127

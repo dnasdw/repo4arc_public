@@ -1,0 +1,14 @@
+sxs-ortheo.nfo	5ec5e413b7e3216a08f7b2958b59a09a043a79b4
+sxs-ortheo.r00	4c6c43642a1531d64964822a6f44d3f23fdf563b
+sxs-ortheo.r01	298bf658faa3f648eeef9b99c9af955fe96e6d36
+sxs-ortheo.r02	c3bd48ca27ae2a20ebb9dbba67aff5854f715842
+sxs-ortheo.r03	1810dc5be3a99cd835557c1df853e1dca4844e98
+sxs-ortheo.r04	d97b8d50e4509030cb8a05c162ffa6762e40825c
+sxs-ortheo.r05	548215ccc85d2ab1e2767b14b38abfd9c552dc07
+sxs-ortheo.r06	68ee04de507b01391c2b07a4044614e9e13acaf8
+sxs-ortheo.r07	6ba7dee70aea6eed10ae644a4bbe9fcfc9abea0a
+sxs-ortheo.r08	bceac11eea2580601e7a90cc4730affa8a961c59
+sxs-ortheo.r09	d9d4c2d7135e41921007fdd2996e60d4556676d1
+sxs-ortheo.r10	22f02086833956a1aa96614bc3be9eb27cb45f7c
+sxs-ortheo.rar	fc4fc3f245a8eb68b4688309c9287edfb270fbea
+sxs-ortheo.sfv	e5caad0b571187c0e33306d64cb9c5c65b31c57b

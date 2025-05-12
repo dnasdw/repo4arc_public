@@ -1,0 +1,13 @@
+sxs-tennis_world_tour_v65536.nfo	-	5433	1	0	0	0
+sxs-tennis_world_tour_v65536.r00	-	50000000	1	5433	0	1
+sxs-tennis_world_tour_v65536.r01	-	50000000	1	50005433	0	49
+sxs-tennis_world_tour_v65536.r02	-	50000000	1	100005433	0	97
+sxs-tennis_world_tour_v65536.r03	-	50000000	1	150005433	0	145
+sxs-tennis_world_tour_v65536.r04	-	50000000	1	200005433	0	193
+sxs-tennis_world_tour_v65536.r05	-	50000000	1	250005433	0	241
+sxs-tennis_world_tour_v65536.r06	-	50000000	1	300005433	0	289
+sxs-tennis_world_tour_v65536.r07	-	50000000	1	350005433	0	337
+sxs-tennis_world_tour_v65536.r08	-	50000000	1	400005433	0	385
+sxs-tennis_world_tour_v65536.r09	-	226072	1	450005433	0	433
+sxs-tennis_world_tour_v65536.rar	-	50000000	1	450231505	0	434
+sxs-tennis_world_tour_v65536.sfv	-	473	1	500231505	0	482

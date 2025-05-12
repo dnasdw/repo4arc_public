@@ -1,0 +1,4 @@
+sxs-red_colony_v65536.nfo	-	5198	1	0	0	0
+sxs-red_colony_v65536.r00	-	9888950	1	5198	0	1
+sxs-red_colony_v65536.rar	-	50000000	1	9894148	0	11
+sxs-red_colony_v65536.sfv	-	72	1	59894148	0	59

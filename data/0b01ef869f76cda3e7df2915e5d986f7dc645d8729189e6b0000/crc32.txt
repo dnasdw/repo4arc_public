@@ -1,0 +1,5 @@
+sxs-planet_alpha_v65536.nfo	ca5d476c
+sxs-planet_alpha_v65536.r00	b338cf0a
+sxs-planet_alpha_v65536.r01	69e9df44
+sxs-planet_alpha_v65536.rar	c5e46048
+sxs-planet_alpha_v65536.sfv	5208e463

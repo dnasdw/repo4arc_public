@@ -1,0 +1,3 @@
+bbb-n-apgea.nfo	-	5517	1	0	0	0
+bbb-n-apgea.rar	-	230773008	1	5517	0	1
+bbb-n-apgea.sfv	-	26	1	230778525	0	222

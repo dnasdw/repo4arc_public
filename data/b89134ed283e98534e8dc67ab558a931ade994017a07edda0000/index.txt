@@ -1,0 +1,4 @@
+sxs-white_day_a_labyrinth_named_school_v65536.nfo	-	7460	1	0	0	0
+sxs-white_day_a_labyrinth_named_school_v65536.r00	-	945033	1	7460	0	1
+sxs-white_day_a_labyrinth_named_school_v65536.rar	-	50000000	1	952493	0	2
+sxs-white_day_a_labyrinth_named_school_v65536.sfv	-	120	1	50952493	0	50

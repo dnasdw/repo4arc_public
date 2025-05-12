@@ -1,0 +1,17 @@
+sxs-pac_man_museum_plus_v196608.nfo	3067e5e9
+sxs-pac_man_museum_plus_v196608.r00	ed410438
+sxs-pac_man_museum_plus_v196608.r01	cccc4311
+sxs-pac_man_museum_plus_v196608.r02	9949580e
+sxs-pac_man_museum_plus_v196608.r03	a8c28fa5
+sxs-pac_man_museum_plus_v196608.r04	ce24b4ef
+sxs-pac_man_museum_plus_v196608.r05	fcac410a
+sxs-pac_man_museum_plus_v196608.r06	cb64909c
+sxs-pac_man_museum_plus_v196608.r07	0ef0fb33
+sxs-pac_man_museum_plus_v196608.r08	58857bda
+sxs-pac_man_museum_plus_v196608.r09	9c3d3483
+sxs-pac_man_museum_plus_v196608.r10	b3a71c42
+sxs-pac_man_museum_plus_v196608.r11	bc0e8f24
+sxs-pac_man_museum_plus_v196608.r12	9b5bd09a
+sxs-pac_man_museum_plus_v196608.r13	d8509bd2
+sxs-pac_man_museum_plus_v196608.rar	ad345fe1
+sxs-pac_man_museum_plus_v196608.sfv	0b8f25ae

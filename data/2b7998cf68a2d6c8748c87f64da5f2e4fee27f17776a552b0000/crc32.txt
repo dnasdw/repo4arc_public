@@ -1,0 +1,8 @@
+brw-cfar.nfo	92051c5f
+brw-cfar.r00	38a70c23
+brw-cfar.r01	473b91e8
+brw-cfar.r02	830fddb8
+brw-cfar.r03	e9cc9917
+brw-cfar.r04	6ad4ddc6
+brw-cfar.rar	c54021c4
+brw-cfar.sfv	97701fb4

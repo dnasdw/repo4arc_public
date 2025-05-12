@@ -1,0 +1,15 @@
+v-vectronom.nfo	c9e4e57c
+v-vectronom.r00	f936c388
+v-vectronom.r01	c33f895a
+v-vectronom.r02	9da2e6b5
+v-vectronom.r03	ed9ec686
+v-vectronom.r04	d39539a4
+v-vectronom.r05	f25ed3c5
+v-vectronom.r06	43caea03
+v-vectronom.r07	55245cc3
+v-vectronom.r08	5566a56d
+v-vectronom.r09	02fb483f
+v-vectronom.r10	90fde15c
+v-vectronom.r11	710159fe
+v-vectronom.rar	fad4d08d
+v-vectronom.sfv	d61f269a

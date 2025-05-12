@@ -1,0 +1,14 @@
+lfc-ecrossminton.nfo	6f4cd053a4d583cfc42621f2c86e1ba3
+lfc-ecrossminton.r00	fd14a9b1578d3e5da7855fe6d486a855
+lfc-ecrossminton.r01	23191781d76e7e067fd6107d140fa8c8
+lfc-ecrossminton.r02	babbb477213ff21c07aadaf672eaafe4
+lfc-ecrossminton.r03	db81a459c3c2be99bdb0448a65f34667
+lfc-ecrossminton.r04	9cc706e536566c47463e6be537649384
+lfc-ecrossminton.r05	555e6da34e9a3887922aa32384cc4249
+lfc-ecrossminton.r06	030a467942642171cb1683a4287c7dd3
+lfc-ecrossminton.r07	29bafb4ff19ce8b071f65231eae0e73f
+lfc-ecrossminton.r08	36f7f4b1932cb4e80f3cfef76ec2aea2
+lfc-ecrossminton.r09	66d3732d049537a6c0b8256294a2d5c2
+lfc-ecrossminton.r10	1eece9a627574d495d4449afd7bb07ac
+lfc-ecrossminton.rar	7bcdc99a533147f33e390864664cf4f8
+lfc-ecrossminton.sfv	16651ed0853bfd3fe52dd4a53d66d2d0

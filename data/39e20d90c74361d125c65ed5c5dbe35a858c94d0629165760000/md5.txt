@@ -1,0 +1,4 @@
+sxs-kumamon_run.nfo	a412437e5db3e4dcf312db39ace995f1
+sxs-kumamon_run.r00	34418bf29a8f1adc2c5cd81f695471af
+sxs-kumamon_run.rar	92ab8c35da3f15d5e849952dd232bf01
+sxs-kumamon_run.sfv	7576ca29a5f7757bb3e7c5169353687c

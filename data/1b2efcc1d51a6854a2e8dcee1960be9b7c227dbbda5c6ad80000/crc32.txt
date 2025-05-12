@@ -1,0 +1,9 @@
+v-riotcu_v196608.nfo	675fbded
+v-riotcu_v196608.r00	74b19ead
+v-riotcu_v196608.r01	55663511
+v-riotcu_v196608.r02	20f51bd4
+v-riotcu_v196608.r03	964b70b2
+v-riotcu_v196608.r04	79287417
+v-riotcu_v196608.r05	897fe706
+v-riotcu_v196608.rar	013cd8c5
+v-riotcu_v196608.sfv	3bad623e

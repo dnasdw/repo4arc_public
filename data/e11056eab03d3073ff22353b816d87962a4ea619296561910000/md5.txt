@@ -1,0 +1,7 @@
+brw-uajp.nfo	cf3cf73b003e9d6c49c1aaf0b4e963a6
+brw-uajp.r00	21b0aae5a68068b062b921de828971cd
+brw-uajp.r01	9b8fd60c96efe71d2d59aa47815e4403
+brw-uajp.r02	8cbf6ed1b5bcc7e02bcf4408616c19e0
+brw-uajp.r03	7bd78cb2e5a0e24379595fd3d755a9e0
+brw-uajp.rar	32ba2bde2c67708add8973ed6b43ba4d
+brw-uajp.sfv	7397ac17b0ae02c7057f0799d155018d

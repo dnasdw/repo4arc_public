@@ -1,0 +1,10 @@
+sxs-100_demon_fantasia.nfo	-	6680	1	0	0	0
+sxs-100_demon_fantasia.r00	-	100000000	1	6680	0	1
+sxs-100_demon_fantasia.r01	-	100000000	1	100006680	0	97
+sxs-100_demon_fantasia.r02	-	100000000	1	200006680	0	193
+sxs-100_demon_fantasia.r03	-	100000000	1	300006680	0	289
+sxs-100_demon_fantasia.r04	-	100000000	1	400006680	0	385
+sxs-100_demon_fantasia.r05	-	100000000	1	500006680	0	481
+sxs-100_demon_fantasia.r06	-	72091621	1	62251264	1	60
+sxs-100_demon_fantasia.rar	-	100000000	1	134342885	1	129
+sxs-100_demon_fantasia.sfv	-	296	1	234342885	1	225

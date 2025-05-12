@@ -1,0 +1,5 @@
+v-resident_evil_5_v196608.nfo	fbc8feee
+v-resident_evil_5_v196608.r00	61aaed00
+v-resident_evil_5_v196608.r01	7d1bf38f
+v-resident_evil_5_v196608.rar	a899a13f
+v-resident_evil_5_v196608.sfv	2d6af54a

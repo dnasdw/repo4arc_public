@@ -1,0 +1,17 @@
+sxs-moving_out_v393216.nfo	b3bbcaf6
+sxs-moving_out_v393216.r00	a7554caf
+sxs-moving_out_v393216.r01	44ddbd0f
+sxs-moving_out_v393216.r02	9a9c17c8
+sxs-moving_out_v393216.r03	101f5aed
+sxs-moving_out_v393216.r04	48fa9b62
+sxs-moving_out_v393216.r05	0ef4b413
+sxs-moving_out_v393216.r06	fdb48843
+sxs-moving_out_v393216.r07	76268ff4
+sxs-moving_out_v393216.r08	549a7bc5
+sxs-moving_out_v393216.r09	91ab088f
+sxs-moving_out_v393216.r10	ce7fbf80
+sxs-moving_out_v393216.r11	c1bb7751
+sxs-moving_out_v393216.r12	b7d3e0af
+sxs-moving_out_v393216.r13	52f32473
+sxs-moving_out_v393216.rar	c3add423
+sxs-moving_out_v393216.sfv	23726459

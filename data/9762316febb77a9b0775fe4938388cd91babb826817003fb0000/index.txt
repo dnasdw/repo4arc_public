@@ -1,0 +1,12 @@
+v-finding_paradise_v65536.nfo	-	5278	1	0	0	0
+v-finding_paradise_v65536.r00	-	50000000	1	5278	0	1
+v-finding_paradise_v65536.r01	-	50000000	1	50005278	0	49
+v-finding_paradise_v65536.r02	-	50000000	1	100005278	0	97
+v-finding_paradise_v65536.r03	-	50000000	1	150005278	0	145
+v-finding_paradise_v65536.r04	-	50000000	1	200005278	0	193
+v-finding_paradise_v65536.r05	-	50000000	1	250005278	0	241
+v-finding_paradise_v65536.r06	-	50000000	1	300005278	0	289
+v-finding_paradise_v65536.r07	-	50000000	1	350005278	0	337
+v-finding_paradise_v65536.r08	-	28504333	1	400005278	0	385
+v-finding_paradise_v65536.rar	-	50000000	1	428509611	0	413
+v-finding_paradise_v65536.sfv	-	400	1	478509611	0	461

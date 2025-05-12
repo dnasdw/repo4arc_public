@@ -1,0 +1,4 @@
+sxs-grid_autosport_v589824.nfo	1a23e3058697aa4a31836ac10a3540baf57ebb8c
+sxs-grid_autosport_v589824.r00	b26bf5efc416bcb270d6802321975a717cfc246c
+sxs-grid_autosport_v589824.rar	c81aef5e9029376750daddf320a4c254b24edc19
+sxs-grid_autosport_v589824.sfv	4e72a546b992b2f4fd688c22ae3f91c243aa6622

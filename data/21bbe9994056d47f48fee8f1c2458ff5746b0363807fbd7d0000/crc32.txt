@@ -1,0 +1,7 @@
+sxs-girabox.nfo	8e0e8a20
+sxs-girabox.r00	392b53d1
+sxs-girabox.r01	f3e16afb
+sxs-girabox.r02	57f8a7d5
+sxs-girabox.r03	8477c8ab
+sxs-girabox.rar	abbf2edf
+sxs-girabox.sfv	8dd2dc13

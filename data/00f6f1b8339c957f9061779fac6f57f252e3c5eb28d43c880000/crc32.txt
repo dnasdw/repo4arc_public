@@ -1,0 +1,15 @@
+sxs-dead_cells_internal_v327680.nfo	d52584e4
+sxs-dead_cells_internal_v327680.r00	e89b3c1c
+sxs-dead_cells_internal_v327680.r01	56f8549c
+sxs-dead_cells_internal_v327680.r02	35789c14
+sxs-dead_cells_internal_v327680.r03	e6a617b3
+sxs-dead_cells_internal_v327680.r04	abd4f2e5
+sxs-dead_cells_internal_v327680.r05	20712a31
+sxs-dead_cells_internal_v327680.r06	4f50a983
+sxs-dead_cells_internal_v327680.r07	83377b9d
+sxs-dead_cells_internal_v327680.r08	5bd298ed
+sxs-dead_cells_internal_v327680.r09	92f3c63f
+sxs-dead_cells_internal_v327680.r10	5c8bb355
+sxs-dead_cells_internal_v327680.r11	54ff7d3d
+sxs-dead_cells_internal_v327680.rar	eebeb8ef
+sxs-dead_cells_internal_v327680.sfv	c3ccacb7

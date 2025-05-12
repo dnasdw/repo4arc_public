@@ -1,0 +1,6 @@
+sxs-space_warlord_organ_trading_simulator_v196608.nfo	b9d76dc4
+sxs-space_warlord_organ_trading_simulator_v196608.r00	4e38b69d
+sxs-space_warlord_organ_trading_simulator_v196608.r01	b979d50d
+sxs-space_warlord_organ_trading_simulator_v196608.r02	34e865c4
+sxs-space_warlord_organ_trading_simulator_v196608.rar	7659d674
+sxs-space_warlord_organ_trading_simulator_v196608.sfv	ddc50e0b

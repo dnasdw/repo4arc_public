@@ -1,0 +1,11 @@
+brw-wldf.nfo	608ffc63
+brw-wldf.r00	74febb2f
+brw-wldf.r01	74cc2109
+brw-wldf.r02	444e3db9
+brw-wldf.r03	5a43d3cb
+brw-wldf.r04	487d64c9
+brw-wldf.r05	fd4fb94c
+brw-wldf.r06	990356a7
+brw-wldf.r07	2abe1d75
+brw-wldf.rar	ed319877
+brw-wldf.sfv	a7cfb64c

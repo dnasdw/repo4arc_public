@@ -1,0 +1,13 @@
+v-lone_mclonegan_a_western_adventure_v196608.nfo	-	8398	1	0	0	0
+v-lone_mclonegan_a_western_adventure_v196608.r00	-	50000000	1	8398	0	1
+v-lone_mclonegan_a_western_adventure_v196608.r01	-	50000000	1	50008398	0	49
+v-lone_mclonegan_a_western_adventure_v196608.r02	-	50000000	1	100008398	0	97
+v-lone_mclonegan_a_western_adventure_v196608.r03	-	50000000	1	150008398	0	145
+v-lone_mclonegan_a_western_adventure_v196608.r04	-	50000000	1	200008398	0	193
+v-lone_mclonegan_a_western_adventure_v196608.r05	-	50000000	1	250008398	0	241
+v-lone_mclonegan_a_western_adventure_v196608.r06	-	50000000	1	300008398	0	289
+v-lone_mclonegan_a_western_adventure_v196608.r07	-	50000000	1	350008398	0	337
+v-lone_mclonegan_a_western_adventure_v196608.r08	-	50000000	1	400008398	0	385
+v-lone_mclonegan_a_western_adventure_v196608.r09	-	43549068	1	450008398	0	433
+v-lone_mclonegan_a_western_adventure_v196608.rar	-	50000000	1	493557466	0	475
+v-lone_mclonegan_a_western_adventure_v196608.sfv	-	649	1	5959808	1	6

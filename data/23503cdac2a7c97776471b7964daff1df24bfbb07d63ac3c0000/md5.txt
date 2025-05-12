@@ -1,0 +1,5 @@
+sxs-capes_escape_game_7th_room.nfo	cfc76e398658a468c27fd60bf5c4d26c
+sxs-capes_escape_game_7th_room.r00	8f475920e66433c890f1f38ef7a3932e
+sxs-capes_escape_game_7th_room.r01	81eb113d0c3d9fd222b65346bc793313
+sxs-capes_escape_game_7th_room.rar	05c0e5ef52c1a77578fb1b89ecfd2d92
+sxs-capes_escape_game_7th_room.sfv	92c6585214374f44178f895711a8d8b9

@@ -1,0 +1,6 @@
+v-fight_of_animals_v65536.nfo	2af2e075
+v-fight_of_animals_v65536.r00	bf22df74
+v-fight_of_animals_v65536.r01	b5daa4dd
+v-fight_of_animals_v65536.r02	84e0e872
+v-fight_of_animals_v65536.rar	7380b72b
+v-fight_of_animals_v65536.sfv	95d3ddc2

@@ -1,0 +1,5 @@
+lfc-shma.nfo	3e7ffcb4
+lfc-shma.r00	9508530a
+lfc-shma.r01	1c9fba9a
+lfc-shma.rar	98ed2b1b
+lfc-shma.sfv	fc1c7863

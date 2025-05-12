@@ -1,0 +1,6 @@
+sxs-puzzle_battler_mirai.nfo	-	7460	1	0	0	0
+sxs-puzzle_battler_mirai.r00	-	50000000	1	7460	0	1
+sxs-puzzle_battler_mirai.r01	-	50000000	1	50007460	0	49
+sxs-puzzle_battler_mirai.r02	-	6500452	1	100007460	0	97
+sxs-puzzle_battler_mirai.rar	-	50000000	1	106507912	0	104
+sxs-puzzle_battler_mirai.sfv	-	156	1	156507912	0	152

@@ -1,0 +1,7 @@
+sxs-sculpt_people.nfo	-	6602	1	0	0	0
+sxs-sculpt_people.r00	-	100000000	1	6602	0	1
+sxs-sculpt_people.r01	-	100000000	1	100006602	0	97
+sxs-sculpt_people.r02	-	100000000	1	200006602	0	193
+sxs-sculpt_people.r03	-	92384502	1	300006602	0	289
+sxs-sculpt_people.rar	-	100000000	1	392391104	0	378
+sxs-sculpt_people.sfv	-	160	1	492391104	0	474

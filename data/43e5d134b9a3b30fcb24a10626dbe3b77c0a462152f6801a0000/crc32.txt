@@ -1,0 +1,8 @@
+sxs-beat_souls.nfo	986300c9
+sxs-beat_souls.r00	e5fb03af
+sxs-beat_souls.r01	de68493d
+sxs-beat_souls.r02	63cbb493
+sxs-beat_souls.r03	3e158820
+sxs-beat_souls.r04	3c422daa
+sxs-beat_souls.rar	938f981a
+sxs-beat_souls.sfv	1f43dd9c

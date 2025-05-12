@@ -1,0 +1,7 @@
+sxs-far_changing_tides_v131072.nfo	1c74162e
+sxs-far_changing_tides_v131072.r00	e8babd8e
+sxs-far_changing_tides_v131072.r01	1364ded3
+sxs-far_changing_tides_v131072.r02	fdbf8334
+sxs-far_changing_tides_v131072.r03	fb83ab4b
+sxs-far_changing_tides_v131072.rar	c60e6b45
+sxs-far_changing_tides_v131072.sfv	49cc70fd

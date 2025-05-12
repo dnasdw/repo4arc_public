@@ -1,0 +1,11 @@
+escape_the_prison_3_days_to_freedom_nsw-monev.nfo	-	171	1	0	0	0
+escape_the_prison_3_days_to_freedom_nsw-monev.r00	-	50000000	1	171	0	1
+escape_the_prison_3_days_to_freedom_nsw-monev.r01	-	50000000	1	50000171	0	49
+escape_the_prison_3_days_to_freedom_nsw-monev.r02	-	50000000	1	100000171	0	97
+escape_the_prison_3_days_to_freedom_nsw-monev.r03	-	50000000	1	150000171	0	145
+escape_the_prison_3_days_to_freedom_nsw-monev.r04	-	50000000	1	200000171	0	193
+escape_the_prison_3_days_to_freedom_nsw-monev.r05	-	50000000	1	250000171	0	241
+escape_the_prison_3_days_to_freedom_nsw-monev.r06	-	50000000	1	300000171	0	289
+escape_the_prison_3_days_to_freedom_nsw-monev.r07	-	48845473	1	350000171	0	337
+escape_the_prison_3_days_to_freedom_nsw-monev.rar	-	50000000	1	398845644	0	384
+escape_the_prison_3_days_to_freedom_nsw-monev.sfv	-	540	1	448845644	0	432

@@ -1,0 +1,4 @@
+sxs-tactical_mind_v65536.nfo	a346aacba5645c20b3e5db26da4f2c46fc883208
+sxs-tactical_mind_v65536.r00	66f404610ec4d1186baa17e4a7d913d2e8a52abd
+sxs-tactical_mind_v65536.rar	5bc03ee68c19af35c467502da18284891829cfdc
+sxs-tactical_mind_v65536.sfv	abd913ab0a4314e89e9154443b05c2259ec55f54

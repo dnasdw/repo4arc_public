@@ -1,0 +1,6 @@
+sxs-aca_neogeo_3_count_bout.nfo	-	4418	1	0	0	0
+sxs-aca_neogeo_3_count_bout.r00	-	50000000	1	4418	0	1
+sxs-aca_neogeo_3_count_bout.r01	-	50000000	1	50004418	0	49
+sxs-aca_neogeo_3_count_bout.r02	-	8405691	1	100004418	0	97
+sxs-aca_neogeo_3_count_bout.rar	-	50000000	1	108410109	0	106
+sxs-aca_neogeo_3_count_bout.sfv	-	168	1	158410109	0	154

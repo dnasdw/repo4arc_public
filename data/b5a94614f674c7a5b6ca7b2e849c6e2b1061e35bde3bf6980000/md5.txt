@@ -1,0 +1,3 @@
+sxs-splatoon2_dlc.nfo	ba64f77ccfb92ef74d195226247eb4c0
+sxs-splatoon2_dlc.rar	9aac96dadc8307f7abbdc8104a50c112
+sxs-splatoon2_dlc.sfv	b3fed01007310a9f0fa1070d3cc1fc97

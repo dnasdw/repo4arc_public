@@ -1,0 +1,8 @@
+sxs-mechblaze_demo.nfo	-	6212	1	0	0	0
+sxs-mechblaze_demo.r00	-	100000000	1	6212	0	1
+sxs-mechblaze_demo.r01	-	100000000	1	100006212	0	97
+sxs-mechblaze_demo.r02	-	100000000	1	200006212	0	193
+sxs-mechblaze_demo.r03	-	100000000	1	300006212	0	289
+sxs-mechblaze_demo.r04	-	34445065	1	400006212	0	385
+sxs-mechblaze_demo.rar	-	100000000	1	434451277	0	418
+sxs-mechblaze_demo.sfv	-	198	1	534451277	0	514

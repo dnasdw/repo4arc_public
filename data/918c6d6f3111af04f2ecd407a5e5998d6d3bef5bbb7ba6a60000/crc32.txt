@@ -1,0 +1,9 @@
+v-duck_game.nfo	793f2d7c
+v-duck_game.r00	3b65c510
+v-duck_game.r01	e77984a0
+v-duck_game.r02	bfa9ac10
+v-duck_game.r03	a75d71bf
+v-duck_game.r04	68f989d0
+v-duck_game.r05	c5548185
+v-duck_game.rar	8195d682
+v-duck_game.sfv	80ce561f

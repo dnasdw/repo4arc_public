@@ -1,0 +1,13 @@
+lfc-quarantinecircular.nfo	5017bc42
+lfc-quarantinecircular.r00	412cde9f
+lfc-quarantinecircular.r01	3b9696bd
+lfc-quarantinecircular.r02	2de4f977
+lfc-quarantinecircular.r03	d7f58753
+lfc-quarantinecircular.r04	8c2451fa
+lfc-quarantinecircular.r05	8b66ef32
+lfc-quarantinecircular.r06	69b0c52a
+lfc-quarantinecircular.r07	5876feb1
+lfc-quarantinecircular.r08	ccbd8680
+lfc-quarantinecircular.r09	25a8b0a0
+lfc-quarantinecircular.rar	f2a89055
+lfc-quarantinecircular.sfv	6794e685

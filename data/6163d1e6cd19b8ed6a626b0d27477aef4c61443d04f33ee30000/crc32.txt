@@ -1,0 +1,15 @@
+sxs-god_of_rock_v131072.nfo	a6e35145
+sxs-god_of_rock_v131072.r00	f273c857
+sxs-god_of_rock_v131072.r01	63ed5137
+sxs-god_of_rock_v131072.r02	d8496d76
+sxs-god_of_rock_v131072.r03	b78365bd
+sxs-god_of_rock_v131072.r04	b52b27bd
+sxs-god_of_rock_v131072.r05	024c847b
+sxs-god_of_rock_v131072.r06	a599321e
+sxs-god_of_rock_v131072.r07	57dd0037
+sxs-god_of_rock_v131072.r08	298f0cc3
+sxs-god_of_rock_v131072.r09	3180ec85
+sxs-god_of_rock_v131072.r10	3d1ab9d0
+sxs-god_of_rock_v131072.r11	ad882832
+sxs-god_of_rock_v131072.rar	c040963a
+sxs-god_of_rock_v131072.sfv	5c6ccfb4

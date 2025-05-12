@@ -1,0 +1,5 @@
+v-picross_s3.nfo	b8953cad
+v-picross_s3.r00	12497403
+v-picross_s3.r01	98f5e66a
+v-picross_s3.rar	f7db3fdb
+v-picross_s3.sfv	aeb6b4a0

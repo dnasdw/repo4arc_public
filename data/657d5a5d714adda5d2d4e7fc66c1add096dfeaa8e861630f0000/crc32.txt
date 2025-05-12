@@ -1,0 +1,5 @@
+sxs-cities_skylines_v196608.nfo	1bc131b8
+sxs-cities_skylines_v196608.r00	2ff6afc0
+sxs-cities_skylines_v196608.r01	0d182f03
+sxs-cities_skylines_v196608.rar	c80b4542
+sxs-cities_skylines_v196608.sfv	3b3d316d

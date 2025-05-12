@@ -1,0 +1,8 @@
+v-super_woden_gp_v65536.nfo	7f16ae94
+v-super_woden_gp_v65536.r00	6c7c4bae
+v-super_woden_gp_v65536.r01	88b5ced1
+v-super_woden_gp_v65536.r02	7845a85d
+v-super_woden_gp_v65536.r03	cda82a03
+v-super_woden_gp_v65536.r04	65159052
+v-super_woden_gp_v65536.rar	4db27bb0
+v-super_woden_gp_v65536.sfv	422052ab

@@ -1,0 +1,3 @@
+v-oppw4_the_battle_of_onigashima_pack_dlc.nfo	-	5746	1	0	0	0
+v-oppw4_the_battle_of_onigashima_pack_dlc.rar	-	104096	1	5746	0	1
+v-oppw4_the_battle_of_onigashima_pack_dlc.sfv	-	56	1	109842	0	2

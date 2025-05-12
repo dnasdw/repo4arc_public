@@ -1,0 +1,5 @@
+sxs-the_nom.nfo	1ba4a365
+sxs-the_nom.r00	102f0da0
+sxs-the_nom.r01	10807709
+sxs-the_nom.rar	e840108d
+sxs-the_nom.sfv	192eb74f

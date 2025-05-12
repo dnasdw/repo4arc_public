@@ -1,0 +1,3 @@
+lfc-cdos_v65536.nfo	bc60ad739f52df61ffaddcf158fd406f31654c0b
+lfc-cdos_v65536.rar	74d8f6ee70bdbc6a5d558f11923ec13cf470eb47
+lfc-cdos_v65536.sfv	f23c1bdea10c7c791ef21ba09108a82e3df59886

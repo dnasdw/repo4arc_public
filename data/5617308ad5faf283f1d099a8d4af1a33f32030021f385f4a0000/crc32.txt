@@ -1,0 +1,15 @@
+sxs-deep_diving_adventures_v131072.nfo	319900b0
+sxs-deep_diving_adventures_v131072.r00	ae915445
+sxs-deep_diving_adventures_v131072.r01	32668848
+sxs-deep_diving_adventures_v131072.r02	68f49a84
+sxs-deep_diving_adventures_v131072.r03	de1f62e3
+sxs-deep_diving_adventures_v131072.r04	965cb5b4
+sxs-deep_diving_adventures_v131072.r05	af688c11
+sxs-deep_diving_adventures_v131072.r06	e6eb5365
+sxs-deep_diving_adventures_v131072.r07	355a6703
+sxs-deep_diving_adventures_v131072.r08	0fc3e7b5
+sxs-deep_diving_adventures_v131072.r09	6a57e413
+sxs-deep_diving_adventures_v131072.r10	e9d8751a
+sxs-deep_diving_adventures_v131072.r11	650c8516
+sxs-deep_diving_adventures_v131072.rar	34bcbe0d
+sxs-deep_diving_adventures_v131072.sfv	1cc8e1e6

@@ -1,0 +1,4 @@
+sxs-pokemon_cafe_mix_v131072.nfo	-	6399	1	0	0	0
+sxs-pokemon_cafe_mix_v131072.r00	-	35272262	1	6399	0	1
+sxs-pokemon_cafe_mix_v131072.rar	-	50000000	1	35278661	0	35
+sxs-pokemon_cafe_mix_v131072.sfv	-	86	1	85278661	0	83

@@ -1,0 +1,5 @@
+sxs-pocket_slimes.nfo	e7effa834748e7cdd7db321bddadbc65d723560e
+sxs-pocket_slimes.r00	ba122c8467513583470a9d33a998176537660088
+sxs-pocket_slimes.r01	d0918bd9a8976762acca2885dbbd878a6d495f6f
+sxs-pocket_slimes.rar	4703af4ac98923e79b8258426464c586e3ebc84d
+sxs-pocket_slimes.sfv	e34c8671c0586e661615e92b08890d480dd4847d

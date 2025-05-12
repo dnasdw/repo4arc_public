@@ -1,0 +1,5 @@
+lfc-waterballoonmania.nfo	d538835acfc9381697e999ca73993f1d
+lfc-waterballoonmania.r00	6286722cf437d2429af0d1e81911183c
+lfc-waterballoonmania.r01	3af34c70997ba54224c786b4c17661c4
+lfc-waterballoonmania.rar	a4a53cfb39926c7e26c588b34147d610
+lfc-waterballoonmania.sfv	77b0fe0e3bd855b05e2685c1f671c942

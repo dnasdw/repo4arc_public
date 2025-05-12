@@ -1,0 +1,14 @@
+v-killer_queen_black_v589824.nfo	-	7306	1	0	0	0
+v-killer_queen_black_v589824.r00	-	50000000	1	7306	0	1
+v-killer_queen_black_v589824.r01	-	50000000	1	50007306	0	49
+v-killer_queen_black_v589824.r02	-	50000000	1	100007306	0	97
+v-killer_queen_black_v589824.r03	-	50000000	1	150007306	0	145
+v-killer_queen_black_v589824.r04	-	50000000	1	200007306	0	193
+v-killer_queen_black_v589824.r05	-	50000000	1	250007306	0	241
+v-killer_queen_black_v589824.r06	-	50000000	1	300007306	0	289
+v-killer_queen_black_v589824.r07	-	50000000	1	350007306	0	337
+v-killer_queen_black_v589824.r08	-	50000000	1	400007306	0	385
+v-killer_queen_black_v589824.r09	-	50000000	1	450007306	0	433
+v-killer_queen_black_v589824.r10	-	22553074	1	500007306	0	481
+v-killer_queen_black_v589824.rar	-	50000000	1	522560380	0	503
+v-killer_queen_black_v589824.sfv	-	516	1	35319936	1	34

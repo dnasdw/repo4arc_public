@@ -1,0 +1,5 @@
+v-picross_s3.nfo	-	5434	1	0	0	0
+v-picross_s3.r00	-	50000000	1	5434	0	1
+v-picross_s3.r01	-	32458232	1	50005434	0	49
+v-picross_s3.rar	-	50000000	1	82463666	0	80
+v-picross_s3.sfv	-	81	1	132463666	0	128

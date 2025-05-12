@@ -1,0 +1,12 @@
+lfc-aedr.nfo	bb668788
+lfc-aedr.r00	6335b126
+lfc-aedr.r01	6d2dafe2
+lfc-aedr.r02	7f2a8372
+lfc-aedr.r03	4043d56d
+lfc-aedr.r04	38a03e7c
+lfc-aedr.r05	564aeb6a
+lfc-aedr.r06	07773cba
+lfc-aedr.r07	cafe6ce2
+lfc-aedr.r08	644b9c14
+lfc-aedr.rar	8e3bbcbe
+lfc-aedr.sfv	c8aa6437

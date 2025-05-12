@@ -1,0 +1,16 @@
+lfc-afwo.nfo	bce56b50
+lfc-afwo.r00	6fabaa71
+lfc-afwo.r01	69500066
+lfc-afwo.r02	94352c02
+lfc-afwo.r03	00b6b381
+lfc-afwo.r04	2ebf7950
+lfc-afwo.r05	f8ae69a9
+lfc-afwo.r06	c78a1d5c
+lfc-afwo.r07	300e9f1b
+lfc-afwo.r08	dc49d992
+lfc-afwo.r09	064aa2ff
+lfc-afwo.r10	7dbac06f
+lfc-afwo.r11	dbf1194e
+lfc-afwo.r12	03c95fa1
+lfc-afwo.rar	dc9de8aa
+lfc-afwo.sfv	e6e1ea45

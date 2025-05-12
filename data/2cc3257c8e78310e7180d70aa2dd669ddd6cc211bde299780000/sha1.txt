@@ -1,0 +1,9 @@
+l-ottihk.nfo	ab29dbb6804919e38c718cd4bfda4bda063c0d2e
+l-ottihk.r00	3eec86aa7b97f83d1481e676b7ccf1aa3faac7fd
+l-ottihk.r01	f8b4c11a1551707e6d9b0ce31362751d8893c818
+l-ottihk.r02	ea50dc6a144878c84e03c3048d198c7c08b55d7d
+l-ottihk.r03	521891fcaf1cf50c86107c27281ae23158bd265e
+l-ottihk.r04	60f474ac75e9b2d29a045a820dd9351aeb1cfb37
+l-ottihk.r05	f3c750f41eaa1ab8e4c04430a8b6307555546b62
+l-ottihk.rar	e8ea7482a0c3780e4dea4ceab6dfce6aafc9ab6d
+l-ottihk.sfv	927a9bc48d6d4ec41bea41c452814fba6e20a26b

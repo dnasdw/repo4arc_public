@@ -1,0 +1,8 @@
+sxs-mta1.nfo	908c4173
+sxs-mta1.r00	b0565acc
+sxs-mta1.r01	2e789835
+sxs-mta1.r02	f2ee6d1b
+sxs-mta1.r03	b3358b91
+sxs-mta1.r04	f434dea3
+sxs-mta1.rar	4efcab64
+sxs-mta1.sfv	7de50593

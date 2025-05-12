@@ -1,0 +1,9 @@
+sxs-mana_spark.nfo	ae2d9203
+sxs-mana_spark.r00	9813448e
+sxs-mana_spark.r01	0be9aaf0
+sxs-mana_spark.r02	9f2bc4f2
+sxs-mana_spark.r03	520750bb
+sxs-mana_spark.r04	00f90a76
+sxs-mana_spark.r05	55be9e75
+sxs-mana_spark.rar	a9c3ea72
+sxs-mana_spark.sfv	b2f53b59

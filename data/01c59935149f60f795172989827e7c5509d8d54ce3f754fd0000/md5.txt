@@ -1,0 +1,13 @@
+sxs-toy_rider.nfo	0966267d616949aad6ff4a06b54e4ec9
+sxs-toy_rider.r00	a1e2f8ff734382db172acd49218f34e2
+sxs-toy_rider.r01	5007533224c8c2ad68f6d10090f52106
+sxs-toy_rider.r02	913bb4b4977e4986577ae723e3141c2b
+sxs-toy_rider.r03	2f9744e2168ea9db1c07903fdd200a42
+sxs-toy_rider.r04	89d39c241526f43b176bda84693a06ef
+sxs-toy_rider.r05	52efb0bc9c9d8c970b6a583deb1dd0e1
+sxs-toy_rider.r06	6dc651bce526b44d5ec0e00d078960ad
+sxs-toy_rider.r07	c70787ab30264eb365ae6393fb8d5473
+sxs-toy_rider.r08	b938f4dc76f49edaaa05cbb276d65f95
+sxs-toy_rider.r09	e51d5c2f5194965ad9f1ae53c8481d24
+sxs-toy_rider.rar	4e9c894c961ce64e115f2f7efd4156d0
+sxs-toy_rider.sfv	498fbe5145402a72d8bb5699c5466f3f

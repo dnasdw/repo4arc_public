@@ -1,0 +1,4 @@
+sxs-balatro.nfo	7581db1a5e4bfcf312039f46512caa5502852252
+sxs-balatro.r00	80327b5707ea94c28a2c77241cb09cd24af571a1
+sxs-balatro.rar	f3949e5896f2a78a955865d7e5251e2f7d18ddad
+sxs-balatro.sfv	6cac786860f60a9e8a38459c7b7f2c909aca8bdd

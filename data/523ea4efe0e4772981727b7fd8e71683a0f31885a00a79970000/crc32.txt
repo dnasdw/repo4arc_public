@@ -1,0 +1,6 @@
+v-snk_vs_capcom_the_match_of_the_millennium.nfo	f364407f
+v-snk_vs_capcom_the_match_of_the_millennium.r00	3e1430e5
+v-snk_vs_capcom_the_match_of_the_millennium.r01	100be3a2
+v-snk_vs_capcom_the_match_of_the_millennium.r02	54f7379f
+v-snk_vs_capcom_the_match_of_the_millennium.rar	0f73825f
+v-snk_vs_capcom_the_match_of_the_millennium.sfv	189ef69b

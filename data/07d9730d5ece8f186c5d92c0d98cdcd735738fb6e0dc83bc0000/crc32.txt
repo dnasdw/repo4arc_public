@@ -1,0 +1,13 @@
+v-tenderfoot_tactics.nfo	b5a6b9cf
+v-tenderfoot_tactics.r00	64124d0a
+v-tenderfoot_tactics.r01	cd3ec351
+v-tenderfoot_tactics.r02	9cc4a8b4
+v-tenderfoot_tactics.r03	6f11170b
+v-tenderfoot_tactics.r04	b08a09f0
+v-tenderfoot_tactics.r05	d115fdbd
+v-tenderfoot_tactics.r06	f3875055
+v-tenderfoot_tactics.r07	b92d4160
+v-tenderfoot_tactics.r08	25ba3768
+v-tenderfoot_tactics.r09	abc6b493
+v-tenderfoot_tactics.rar	e2172282
+v-tenderfoot_tactics.sfv	e64be7dd

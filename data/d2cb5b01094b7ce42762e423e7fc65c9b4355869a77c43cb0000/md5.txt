@@ -1,0 +1,4 @@
+v-northgard_v262144.nfo	16e81a882e64edc9f0eb1689e2c41b32
+v-northgard_v262144.r00	f992958401c6cbd20aaabd267d253feb
+v-northgard_v262144.rar	fb207bae4748b1dd1a8852e0c3abd77b
+v-northgard_v262144.sfv	96c5fe4d303e397490c2fcfbcd964032

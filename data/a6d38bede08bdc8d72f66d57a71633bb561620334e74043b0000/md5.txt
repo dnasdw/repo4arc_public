@@ -1,0 +1,3 @@
+sxs-zaccaria_pinball_dlc.nfo	c636dc38edf048621a7582e32ffd8514
+sxs-zaccaria_pinball_dlc.rar	ebd8c53c893524aa34244e0eae23ae44
+sxs-zaccaria_pinball_dlc.sfv	08fb5c8bc3ffe4296cd9a7bd2d4cb47d

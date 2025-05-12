@@ -1,0 +1,4 @@
+sxs-gigapocalypse_v131072.nfo	3fdb2866b5772f9b553f967f70f57f3fb1b4362f
+sxs-gigapocalypse_v131072.r00	28a8904ed992f6408dc2db620ca0891a2b76bf09
+sxs-gigapocalypse_v131072.rar	aebb7ccf0368f09fb1d9aa2ac16a2b7e0e46b29d
+sxs-gigapocalypse_v131072.sfv	bf16c189a8f32e1518563d8a50727546b9aeb2d3

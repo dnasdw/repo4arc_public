@@ -1,0 +1,14 @@
+lfc-a5qga.nfo	94210ac5
+lfc-a5qga.r00	e87d5dbc
+lfc-a5qga.r01	ffa174f9
+lfc-a5qga.r02	3df55295
+lfc-a5qga.r03	91f73fad
+lfc-a5qga.r04	dfd028e0
+lfc-a5qga.r05	7049d2df
+lfc-a5qga.r06	b9ec4bf3
+lfc-a5qga.r07	47681005
+lfc-a5qga.r08	a6499cf2
+lfc-a5qga.rar	0fd71c1b
+lfc-a5qga.sfv	7820cf80
+Proof	00000000
+Proof/lfc-a5qga.jpg	2b57db01

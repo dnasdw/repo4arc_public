@@ -1,0 +1,5 @@
+sxs-cross_tails_v131072.nfo	8e87df1f
+sxs-cross_tails_v131072.r00	8c8c1f42
+sxs-cross_tails_v131072.r01	f364b5d4
+sxs-cross_tails_v131072.rar	5d81424e
+sxs-cross_tails_v131072.sfv	86f558ab

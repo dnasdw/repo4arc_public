@@ -1,0 +1,6 @@
+sxs-live_factory.nfo	588edc5509f3d4ef46189bc1efddfa50
+sxs-live_factory.r00	ab7b8f75ed611f8af658f2c4e0fcd468
+sxs-live_factory.r01	268dd5b6f96b17bb2cff93285db464b2
+sxs-live_factory.r02	fc2390327e358dce200d081a95497710
+sxs-live_factory.rar	07d6800c8282b1af3bf15ae91902cd46
+sxs-live_factory.sfv	211026ff5cf481956d9a74bc6a5a0cfb

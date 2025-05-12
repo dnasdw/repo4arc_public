@@ -1,0 +1,13 @@
+sxs-animus_harbinger_v131072.nfo	eea174f0
+sxs-animus_harbinger_v131072.r00	1483781d
+sxs-animus_harbinger_v131072.r01	77aefeeb
+sxs-animus_harbinger_v131072.r02	e6869890
+sxs-animus_harbinger_v131072.r03	1e5a8c15
+sxs-animus_harbinger_v131072.r04	b1631741
+sxs-animus_harbinger_v131072.r05	9c2c27ee
+sxs-animus_harbinger_v131072.r06	eeb48b19
+sxs-animus_harbinger_v131072.r07	92e7be92
+sxs-animus_harbinger_v131072.r08	984b10d7
+sxs-animus_harbinger_v131072.r09	b85be3a9
+sxs-animus_harbinger_v131072.rar	3027c21b
+sxs-animus_harbinger_v131072.sfv	64028e26

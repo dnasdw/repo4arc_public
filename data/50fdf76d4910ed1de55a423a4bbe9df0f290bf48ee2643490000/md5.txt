@@ -1,0 +1,11 @@
+v-spirittea.nfo	a0fa7bf10019af67b84cd62bbea18c4c
+v-spirittea.r00	5a856e40b33b4821f801ab0611e50569
+v-spirittea.r01	507a9a10ee23e66f55918efbcb57a160
+v-spirittea.r02	03a8bc8522108414f3a1825eca7e4037
+v-spirittea.r03	b51494f0e99d02fa3a2656ab332e9d6e
+v-spirittea.r04	66e5aeaf5ea30df9e3875c55f12b62bd
+v-spirittea.r05	45660cebd14c1cb1814849ed3d3945cc
+v-spirittea.r06	af89a8fb1ee28132a953fcfe63a949aa
+v-spirittea.r07	65469e0853126d47d49c98def5b8d7d0
+v-spirittea.rar	decce46ecd11dd42ffb8d8da8cf3d52d
+v-spirittea.sfv	e273f9c51c5df6a59609e0e658feef59

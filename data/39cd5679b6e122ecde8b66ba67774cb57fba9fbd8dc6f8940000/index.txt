@@ -1,0 +1,10 @@
+sxs-nippon_marathon_v65536.nfo	-	5121	1	0	0	0
+sxs-nippon_marathon_v65536.r00	-	50000000	1	5121	0	1
+sxs-nippon_marathon_v65536.r01	-	50000000	1	50005121	0	49
+sxs-nippon_marathon_v65536.r02	-	50000000	1	100005121	0	97
+sxs-nippon_marathon_v65536.r03	-	50000000	1	150005121	0	145
+sxs-nippon_marathon_v65536.r04	-	50000000	1	200005121	0	193
+sxs-nippon_marathon_v65536.r05	-	50000000	1	250005121	0	241
+sxs-nippon_marathon_v65536.r06	-	2902919	1	300005121	0	289
+sxs-nippon_marathon_v65536.rar	-	50000000	1	302908040	0	292
+sxs-nippon_marathon_v65536.sfv	-	328	1	352908040	0	340

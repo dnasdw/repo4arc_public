@@ -1,0 +1,14 @@
+v-hywaoc_v327680.nfo	2cf815e9
+v-hywaoc_v327680.r00	f5d32cfe
+v-hywaoc_v327680.r01	f480d8ef
+v-hywaoc_v327680.r02	a59981c0
+v-hywaoc_v327680.r03	a15635b6
+v-hywaoc_v327680.r04	1f7de826
+v-hywaoc_v327680.r05	c3e09913
+v-hywaoc_v327680.r06	da9277e3
+v-hywaoc_v327680.r07	f56c6807
+v-hywaoc_v327680.r08	d1066480
+v-hywaoc_v327680.r09	70f8b96f
+v-hywaoc_v327680.r10	d344281d
+v-hywaoc_v327680.rar	2e8e8cc0
+v-hywaoc_v327680.sfv	b0fbab4d

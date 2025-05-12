@@ -1,0 +1,4 @@
+sxs-remote_life_v131072.nfo	-	5354	1	0	0	0
+sxs-remote_life_v131072.r00	-	14281428	1	5354	0	1
+sxs-remote_life_v131072.rar	-	50000000	1	14286782	0	15
+sxs-remote_life_v131072.sfv	-	76	1	64286782	0	63

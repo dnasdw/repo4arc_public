@@ -1,0 +1,4 @@
+lfc-superskelemania.nfo	-	3452	1	0	0	0
+lfc-superskelemania.r00	-	45093866	1	3452	0	1
+lfc-superskelemania.rar	-	50000000	1	45097318	0	45
+lfc-superskelemania.sfv	-	68	1	95097318	0	93

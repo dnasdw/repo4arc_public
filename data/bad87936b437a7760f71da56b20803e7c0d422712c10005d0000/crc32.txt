@@ -1,0 +1,17 @@
+lfc-njmc.nfo	661191d7
+lfc-njmc.r00	43deb2f0
+lfc-njmc.r01	6fe31599
+lfc-njmc.r02	72eb984b
+lfc-njmc.r03	35f83f23
+lfc-njmc.r04	6608aba7
+lfc-njmc.r05	c3d27222
+lfc-njmc.r06	464ec4d4
+lfc-njmc.r07	b4a24f71
+lfc-njmc.r08	81202663
+lfc-njmc.r09	4c3f1d8d
+lfc-njmc.r10	8f669136
+lfc-njmc.r11	68ccfa7a
+lfc-njmc.r12	5141ed86
+lfc-njmc.r13	54b6b4d7
+lfc-njmc.rar	8e54c5b5
+lfc-njmc.sfv	9140b79a

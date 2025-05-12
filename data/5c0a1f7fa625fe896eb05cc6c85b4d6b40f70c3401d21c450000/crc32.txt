@@ -1,0 +1,7 @@
+sxs-cat_simulator.nfo	f71a83c9
+sxs-cat_simulator.r00	c54da9b9
+sxs-cat_simulator.r01	c1ac0926
+sxs-cat_simulator.r02	c35428ed
+sxs-cat_simulator.r03	9e8d6541
+sxs-cat_simulator.rar	12778240
+sxs-cat_simulator.sfv	314fe2d4

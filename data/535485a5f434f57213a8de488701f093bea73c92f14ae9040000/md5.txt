@@ -1,0 +1,5 @@
+sxs-rising_dusk.nfo	b25c1357573064d035e4181c774c4db6
+sxs-rising_dusk.r00	6583bc86fe33defbaa11083de220d338
+sxs-rising_dusk.r01	415371039b576015fc9d6c5d0bec8e32
+sxs-rising_dusk.rar	f7317be5936f4285dc4b2c29dc3de3ce
+sxs-rising_dusk.sfv	3b27bef7d3add9001444cd077b77178b

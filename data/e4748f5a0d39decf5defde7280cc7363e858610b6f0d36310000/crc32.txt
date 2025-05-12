@@ -1,0 +1,14 @@
+v-fallen_legion_revenants_v131072.nfo	b8938666
+v-fallen_legion_revenants_v131072.r00	7dc43fea
+v-fallen_legion_revenants_v131072.r01	e93f7a00
+v-fallen_legion_revenants_v131072.r02	4ffab8c8
+v-fallen_legion_revenants_v131072.r03	1fffb6b9
+v-fallen_legion_revenants_v131072.r04	c733d609
+v-fallen_legion_revenants_v131072.r05	9e36f39e
+v-fallen_legion_revenants_v131072.r06	86bd3881
+v-fallen_legion_revenants_v131072.r07	0c72d23f
+v-fallen_legion_revenants_v131072.r08	099460ae
+v-fallen_legion_revenants_v131072.r09	f50549f0
+v-fallen_legion_revenants_v131072.r10	61bfaf82
+v-fallen_legion_revenants_v131072.rar	59686c97
+v-fallen_legion_revenants_v131072.sfv	6b65e68d

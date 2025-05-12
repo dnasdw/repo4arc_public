@@ -1,0 +1,7 @@
+sxs-zero_gunner_2_v196608.nfo	25ccb173
+sxs-zero_gunner_2_v196608.r00	cbc4e67d
+sxs-zero_gunner_2_v196608.r01	4758599d
+sxs-zero_gunner_2_v196608.r02	f297efa2
+sxs-zero_gunner_2_v196608.r03	3d53d24f
+sxs-zero_gunner_2_v196608.rar	86996613
+sxs-zero_gunner_2_v196608.sfv	e2711cc7

@@ -1,0 +1,11 @@
+brw-amci_v65536.nfo	6e8ac76f
+brw-amci_v65536.r00	4523a759
+brw-amci_v65536.r01	58ebc086
+brw-amci_v65536.r02	4bf4753b
+brw-amci_v65536.r03	27b65877
+brw-amci_v65536.r04	fa87caf9
+brw-amci_v65536.r05	10bddd4c
+brw-amci_v65536.r06	c51f15b6
+brw-amci_v65536.r07	dfa1259c
+brw-amci_v65536.rar	034488fc
+brw-amci_v65536.sfv	e153ea4a

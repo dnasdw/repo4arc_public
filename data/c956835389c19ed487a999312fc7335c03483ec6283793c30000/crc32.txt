@@ -1,0 +1,5 @@
+lfc-guessthecharacter.nfo	251a6065
+lfc-guessthecharacter.r00	0c9ad6ba
+lfc-guessthecharacter.r01	49c4247f
+lfc-guessthecharacter.rar	b482b7bf
+lfc-guessthecharacter.sfv	9f28c687

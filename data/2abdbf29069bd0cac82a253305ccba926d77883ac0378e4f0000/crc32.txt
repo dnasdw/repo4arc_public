@@ -1,0 +1,10 @@
+sxs-pokemon_scarlet_v196608.nfo	a620f988
+sxs-pokemon_scarlet_v196608.r00	23cbc02e
+sxs-pokemon_scarlet_v196608.r01	221fdb56
+sxs-pokemon_scarlet_v196608.r02	102ee7fa
+sxs-pokemon_scarlet_v196608.r03	cafd876b
+sxs-pokemon_scarlet_v196608.r04	d1154c6c
+sxs-pokemon_scarlet_v196608.r05	24c60f07
+sxs-pokemon_scarlet_v196608.r06	e926ede1
+sxs-pokemon_scarlet_v196608.rar	bca7eaf5
+sxs-pokemon_scarlet_v196608.sfv	8d8f9200

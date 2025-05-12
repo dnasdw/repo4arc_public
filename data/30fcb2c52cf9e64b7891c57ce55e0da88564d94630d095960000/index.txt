@@ -1,0 +1,17 @@
+sxs-world_neverland_elnea_kingdom_v1245184.nfo	-	4652	1	0	0	0
+sxs-world_neverland_elnea_kingdom_v1245184.r00	-	50000000	1	4652	0	1
+sxs-world_neverland_elnea_kingdom_v1245184.r01	-	50000000	1	50004652	0	49
+sxs-world_neverland_elnea_kingdom_v1245184.r02	-	50000000	1	100004652	0	97
+sxs-world_neverland_elnea_kingdom_v1245184.r03	-	50000000	1	150004652	0	145
+sxs-world_neverland_elnea_kingdom_v1245184.r04	-	50000000	1	200004652	0	193
+sxs-world_neverland_elnea_kingdom_v1245184.r05	-	50000000	1	250004652	0	241
+sxs-world_neverland_elnea_kingdom_v1245184.r06	-	50000000	1	300004652	0	289
+sxs-world_neverland_elnea_kingdom_v1245184.r07	-	50000000	1	350004652	0	337
+sxs-world_neverland_elnea_kingdom_v1245184.r08	-	50000000	1	400004652	0	385
+sxs-world_neverland_elnea_kingdom_v1245184.r09	-	50000000	1	450004652	0	433
+sxs-world_neverland_elnea_kingdom_v1245184.r10	-	50000000	1	500004652	0	481
+sxs-world_neverland_elnea_kingdom_v1245184.r11	-	50000000	1	12251264	1	12
+sxs-world_neverland_elnea_kingdom_v1245184.r12	-	50000000	1	62251264	1	60
+sxs-world_neverland_elnea_kingdom_v1245184.r13	-	7946419	1	112251264	1	108
+sxs-world_neverland_elnea_kingdom_v1245184.rar	-	50000000	1	120197683	1	116
+sxs-world_neverland_elnea_kingdom_v1245184.sfv	-	855	1	170197683	1	164

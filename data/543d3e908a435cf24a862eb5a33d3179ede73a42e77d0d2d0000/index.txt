@@ -1,0 +1,4 @@
+v-meow_motors_v65536.nfo	-	5434	1	0	0	0
+v-meow_motors_v65536.r00	-	48175349	1	5434	0	1
+v-meow_motors_v65536.rar	-	50000000	1	48180783	0	47
+v-meow_motors_v65536.sfv	-	70	1	98180783	0	95

@@ -1,0 +1,6 @@
+sxs-seven_doors_v65536.nfo	2c420454
+sxs-seven_doors_v65536.r00	f24b2c83
+sxs-seven_doors_v65536.r01	65e41d7b
+sxs-seven_doors_v65536.r02	5599b032
+sxs-seven_doors_v65536.rar	f905ca29
+sxs-seven_doors_v65536.sfv	c870b317

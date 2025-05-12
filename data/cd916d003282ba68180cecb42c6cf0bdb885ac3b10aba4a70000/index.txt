@@ -1,0 +1,4 @@
+v-lucah_born_of_a_dream_v196608.nfo	-	5516	1	0	0	0
+v-lucah_born_of_a_dream_v196608.r00	-	44433982	1	5516	0	1
+v-lucah_born_of_a_dream_v196608.rar	-	50000000	1	44439498	0	44
+v-lucah_born_of_a_dream_v196608.sfv	-	92	1	94439498	0	92

@@ -1,0 +1,14 @@
+sxs-buddy_and_friends_santas_workshop_animal_party.nfo	-	6452	1	0	0	0
+sxs-buddy_and_friends_santas_workshop_animal_party.r00	-	100000000	1	6452	0	1
+sxs-buddy_and_friends_santas_workshop_animal_party.r01	-	100000000	1	100006452	0	97
+sxs-buddy_and_friends_santas_workshop_animal_party.r02	-	100000000	1	200006452	0	193
+sxs-buddy_and_friends_santas_workshop_animal_party.r03	-	100000000	1	300006452	0	289
+sxs-buddy_and_friends_santas_workshop_animal_party.r04	-	100000000	1	400006452	0	385
+sxs-buddy_and_friends_santas_workshop_animal_party.r05	-	100000000	1	500006452	0	481
+sxs-buddy_and_friends_santas_workshop_animal_party.r06	-	100000000	1	62251264	1	60
+sxs-buddy_and_friends_santas_workshop_animal_party.r07	-	100000000	1	162251264	1	156
+sxs-buddy_and_friends_santas_workshop_animal_party.r08	-	100000000	1	262251264	1	252
+sxs-buddy_and_friends_santas_workshop_animal_party.r09	-	100000000	1	362251264	1	348
+sxs-buddy_and_friends_santas_workshop_animal_party.r10	-	38015987	1	462251264	1	444
+sxs-buddy_and_friends_santas_workshop_animal_party.rar	-	100000000	1	500267251	1	481
+sxs-buddy_and_friends_santas_workshop_animal_party.sfv	-	780	1	63299840	2	61

@@ -1,0 +1,6 @@
+sxs-jujutsu_kaisen_cursed_clash_multi5_v65536.nfo	-	6290	1	0	0	0
+sxs-jujutsu_kaisen_cursed_clash_multi5_v65536.r00	-	100000000	1	6290	0	1
+sxs-jujutsu_kaisen_cursed_clash_multi5_v65536.r01	-	100000000	1	100006290	0	97
+sxs-jujutsu_kaisen_cursed_clash_multi5_v65536.r02	-	26631149	1	200006290	0	193
+sxs-jujutsu_kaisen_cursed_clash_multi5_v65536.rar	-	100000000	1	226637439	0	219
+sxs-jujutsu_kaisen_cursed_clash_multi5_v65536.sfv	-	240	1	326637439	0	315

@@ -1,0 +1,4 @@
+sxs-truck_simulator_usa_revolution_v65536.nfo	-	6836	1	0	0	0
+sxs-truck_simulator_usa_revolution_v65536.r00	-	49535423	1	6836	0	1
+sxs-truck_simulator_usa_revolution_v65536.rar	-	100000000	1	49542259	0	49
+sxs-truck_simulator_usa_revolution_v65536.sfv	-	112	1	149542259	0	145

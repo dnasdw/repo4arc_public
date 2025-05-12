@@ -1,0 +1,6 @@
+jrp-jtfchd.nfo	b1944cc81facc564852779959ccb473d
+jrp-jtfchd.r00	e5fa5f5560026b1c281a2bebcf501401
+jrp-jtfchd.r01	d6f935383204d1fc26fe9342e4c48dbe
+jrp-jtfchd.r02	6ad031f6d2ed6976eaf079c00a909296
+jrp-jtfchd.rar	fecf6ae66df3d04713cdf19dfb1bcfb5
+jrp-jtfchd.sfv	900f6372b7f6435e7f67e72ade3e26a3

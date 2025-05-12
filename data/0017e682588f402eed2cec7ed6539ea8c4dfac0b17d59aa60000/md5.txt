@@ -1,0 +1,5 @@
+sxs-snes_v1179648.nfo	ab278fcc7bcb0a8a1594f7d45cffe0c1
+sxs-snes_v1179648.r00	8d7b1fa108eca1a69d341bcb0ff4df1e
+sxs-snes_v1179648.r01	8767e2c4b1906df068d9b6dc340dc70b
+sxs-snes_v1179648.rar	9252bc56c80a81d1ce94fd1caaa595ea
+sxs-snes_v1179648.sfv	93135d97dfdc2d132cbf4071ae2a78d7

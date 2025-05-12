@@ -1,0 +1,4 @@
+sxs-him_and_her.nfo	-	4418	1	0	0	0
+sxs-him_and_her.r00	-	6968381	1	4418	0	1
+sxs-him_and_her.rar	-	50000000	1	6972799	0	8
+sxs-him_and_her.sfv	-	60	1	56972799	0	56

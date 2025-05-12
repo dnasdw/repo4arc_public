@@ -1,0 +1,4 @@
+sxs-arcade_archives_salamander.nfo	d96c9bae5d67d4bc9ae2d970c521c253
+sxs-arcade_archives_salamander.r00	90bb826ccd4ef96a6239ad588f571957
+sxs-arcade_archives_salamander.rar	35a97e088e89fbe8a3cdd4577d96f5f2
+sxs-arcade_archives_salamander.sfv	b6fadae2555aef9ccc4c819a4da5680d

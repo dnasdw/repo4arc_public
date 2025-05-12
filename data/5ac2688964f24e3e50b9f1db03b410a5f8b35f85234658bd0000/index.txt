@@ -1,0 +1,5 @@
+sxs-opus_collection_v65536.nfo	-	6374	1	0	0	0
+sxs-opus_collection_v65536.r00	-	50000000	1	6374	0	1
+sxs-opus_collection_v65536.r01	-	33153172	1	50006374	0	49
+sxs-opus_collection_v65536.rar	-	50000000	1	83159546	0	81
+sxs-opus_collection_v65536.sfv	-	123	1	133159546	0	129

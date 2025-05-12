@@ -1,0 +1,9 @@
+i-rfb.nfo	44fb175f7bb425f10876e84019eee3da
+i-rfb.r00	3b87fe0f0dbdf5f4dfad60dbd19af12f
+i-rfb.r01	4e64266dd161ea7694e76fddfda738b9
+i-rfb.r02	c4ae02be9d985328fbf45f1100cb9be3
+i-rfb.r03	f8ba188bf181041ebd2bdee1f8bad278
+i-rfb.r04	44f824813111fb6da8ceba2c34c0412b
+i-rfb.r05	fccee5b5edc0f660a3fdc150743414a9
+i-rfb.rar	99654c11b60296c84e05f6917763f35f
+i-rfb.sfv	b91cc30609aecdd1c70982ed6f0571b1

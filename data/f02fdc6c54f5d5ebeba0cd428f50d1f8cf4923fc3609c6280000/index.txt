@@ -1,0 +1,3 @@
+sxs-yaga_roots_of_evil_dlc.nfo	-	6837	1	0	0	0
+sxs-yaga_roots_of_evil_dlc.rar	-	104144	1	6837	0	1
+sxs-yaga_roots_of_evil_dlc.sfv	-	41	1	110981	0	2

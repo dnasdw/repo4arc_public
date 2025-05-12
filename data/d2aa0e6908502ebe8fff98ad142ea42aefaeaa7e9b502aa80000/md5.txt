@@ -1,0 +1,6 @@
+v-astralchain_v65536.nfo	614dcfdafa2396cea27ec2cf2c5d4a3f
+v-astralchain_v65536.r00	ec46b1bcdab790917ab74699cd0a158a
+v-astralchain_v65536.r01	6063e18f8a62493bc6a7e8e971d85eef
+v-astralchain_v65536.r02	af35179555b61384bab4d32904b01f43
+v-astralchain_v65536.rar	d9fd0a1bed82d7c4a7d21f3874b2d8f2
+v-astralchain_v65536.sfv	a40a0a97780e3c80687ab7ed0409e4b8

@@ -1,0 +1,4 @@
+v-wrc_9_the_official_game_v65536.nfo	80908ca6df8de780d8e47ab8812b4f84
+v-wrc_9_the_official_game_v65536.r00	be8fe30392de0c9d6a315b47c3ffa87a
+v-wrc_9_the_official_game_v65536.rar	f5e1b308b90a8280f81d171b20ed1446
+v-wrc_9_the_official_game_v65536.sfv	8d83d09eea17f78f027ca93cc78f309c

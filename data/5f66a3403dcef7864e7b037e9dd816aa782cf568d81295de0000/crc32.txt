@@ -1,0 +1,8 @@
+sxs-bucket_knight.nfo	307732fa
+sxs-bucket_knight.r00	fbdf6882
+sxs-bucket_knight.r01	a48c46b6
+sxs-bucket_knight.r02	d5cc751f
+sxs-bucket_knight.r03	c16ae568
+sxs-bucket_knight.r04	6099dfd3
+sxs-bucket_knight.rar	b25d2390
+sxs-bucket_knight.sfv	d6ea08bc

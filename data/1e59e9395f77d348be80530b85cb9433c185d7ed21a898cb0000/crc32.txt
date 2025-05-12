@@ -1,0 +1,5 @@
+sxs-mini_car_racing_2_v65536.nfo	ee2dd027
+sxs-mini_car_racing_2_v65536.r00	051718f7
+sxs-mini_car_racing_2_v65536.r01	bbe70e60
+sxs-mini_car_racing_2_v65536.rar	a93dffae
+sxs-mini_car_racing_2_v65536.sfv	1ddd4c5a

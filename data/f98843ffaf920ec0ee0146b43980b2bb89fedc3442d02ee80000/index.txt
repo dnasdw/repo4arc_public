@@ -1,0 +1,4 @@
+bbb-h-adwtb.nfo	-	5517	1	0	0	0
+bbb-h-adwtb.part01.rar	-	250000000	1	5517	0	1
+bbb-h-adwtb.part02.rar	-	181309773	1	250005517	0	240
+bbb-h-adwtb.sfv	-	66	1	431315290	0	413

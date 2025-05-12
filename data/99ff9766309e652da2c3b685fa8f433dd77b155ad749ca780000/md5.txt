@@ -1,0 +1,4 @@
+lfc-wofb_v65536.nfo	02ef7e0cfe2af794e68c62118ae7f859
+lfc-wofb_v65536.r00	b520dfc64cabc70388a0b3eec43cdda5
+lfc-wofb_v65536.rar	7e20be71f66f0391b23c06f220a4afc6
+lfc-wofb_v65536.sfv	a2a03af262ba0057b0d4a077c7122d2c

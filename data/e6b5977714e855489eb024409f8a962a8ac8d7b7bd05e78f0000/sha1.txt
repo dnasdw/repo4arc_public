@@ -1,0 +1,9 @@
+i-carquest.nfo	addd615ef874dd426233c2eba593dbe93dc0ad15
+i-carquest.r00	60bf8eefdaa235c30662c361fc2f7a376ac7cdf3
+i-carquest.r01	499b547db9e2715db920ca22e806648ab3f2a1d1
+i-carquest.r02	6021e90396204e02cc6d343ae0fbd99da7d44d67
+i-carquest.r03	12ea836e1963cd4cef3d7d7120a60ec049cce62a
+i-carquest.r04	72785d094e949905aa264ba3e56043c068bc6de8
+i-carquest.r05	c6e871cba96fb59f7533ed7f26c7bee67bd7c93e
+i-carquest.rar	ee6361e99164f5faeba82a610616fe6bf8268043
+i-carquest.sfv	d018a458007b3cfa83ada6001e10647b8bb3152c

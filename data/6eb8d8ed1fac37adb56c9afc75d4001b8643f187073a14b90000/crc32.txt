@@ -1,0 +1,16 @@
+lfc-dicelegacy.nfo	7c98ae64
+lfc-dicelegacy.r00	2e87df77
+lfc-dicelegacy.r01	108500d2
+lfc-dicelegacy.r02	632c64ab
+lfc-dicelegacy.r03	dfe860b0
+lfc-dicelegacy.r04	709bdd73
+lfc-dicelegacy.r05	5dc5264f
+lfc-dicelegacy.r06	d88fc4ef
+lfc-dicelegacy.r07	6149eef9
+lfc-dicelegacy.r08	89e2491f
+lfc-dicelegacy.r09	816e0007
+lfc-dicelegacy.r10	ab5b2520
+lfc-dicelegacy.r11	bf57b57e
+lfc-dicelegacy.r12	ad04a1a7
+lfc-dicelegacy.rar	f3b8cc69
+lfc-dicelegacy.sfv	5b8530ae

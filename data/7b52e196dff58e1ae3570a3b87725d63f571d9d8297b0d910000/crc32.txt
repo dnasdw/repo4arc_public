@@ -1,0 +1,12 @@
+sxs-fifa_20_italian_dlc.nfo	cf4e1c36
+sxs-fifa_20_italian_dlc.r00	37053fc7
+sxs-fifa_20_italian_dlc.r01	4651af09
+sxs-fifa_20_italian_dlc.r02	c5e9e89a
+sxs-fifa_20_italian_dlc.r03	ce5de1b8
+sxs-fifa_20_italian_dlc.r04	687d238e
+sxs-fifa_20_italian_dlc.r05	6f5afabb
+sxs-fifa_20_italian_dlc.r06	e5a1aa1e
+sxs-fifa_20_italian_dlc.r07	516db0fb
+sxs-fifa_20_italian_dlc.r08	d36bbcf9
+sxs-fifa_20_italian_dlc.rar	29a4f03a
+sxs-fifa_20_italian_dlc.sfv	5eed531f

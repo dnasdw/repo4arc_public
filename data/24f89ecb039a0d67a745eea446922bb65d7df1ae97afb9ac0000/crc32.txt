@@ -1,0 +1,7 @@
+v-kamenc_v65536.nfo	239fda82
+v-kamenc_v65536.r00	672e5f73
+v-kamenc_v65536.r01	d79000e8
+v-kamenc_v65536.r02	7ba2c838
+v-kamenc_v65536.r03	d9f6470f
+v-kamenc_v65536.rar	24d3d0ff
+v-kamenc_v65536.sfv	d82fdc91

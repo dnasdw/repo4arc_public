@@ -1,0 +1,5 @@
+sxs-nes_v589824.nfo	a8d1cad3
+sxs-nes_v589824.r00	3f449de8
+sxs-nes_v589824.r01	5fbaa479
+sxs-nes_v589824.rar	5e62c44f
+sxs-nes_v589824.sfv	10b0284e

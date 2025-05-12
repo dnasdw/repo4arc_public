@@ -1,0 +1,15 @@
+n-dla.nfo	97365c2d
+n-dla.r00	aec0be93
+n-dla.r01	75412b9d
+n-dla.r02	83ea3f3c
+n-dla.r03	a2e99bd2
+n-dla.r04	07f16c58
+n-dla.r05	a48216ff
+n-dla.r06	1b8d99b8
+n-dla.r07	4dbf4ac9
+n-dla.r08	9a5c5898
+n-dla.r09	76a9db8e
+n-dla.r10	60e6d342
+n-dla.r11	047cdba7
+n-dla.rar	afc06c5c
+n-dla.sfv	cda52444

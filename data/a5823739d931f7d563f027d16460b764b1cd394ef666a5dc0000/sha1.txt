@@ -1,0 +1,4 @@
+sxs-chess_brain.nfo	c107c7b25c040f761f7cdbeed81ba5cc4c474e01
+sxs-chess_brain.r00	4bd241fd0954dad3b7cb0bd528cc481a5708b10a
+sxs-chess_brain.rar	ff786dcc5109222c0697127614b91141564ce4a6
+sxs-chess_brain.sfv	b2ec2ea62364602ea4e72994db0ba3a2104a2253

@@ -1,0 +1,13 @@
+sxs-escape_doodland.nfo	-	5511	1	0	0	0
+sxs-escape_doodland.r00	-	50000000	1	5511	0	1
+sxs-escape_doodland.r01	-	50000000	1	50005511	0	49
+sxs-escape_doodland.r02	-	50000000	1	100005511	0	97
+sxs-escape_doodland.r03	-	50000000	1	150005511	0	145
+sxs-escape_doodland.r04	-	50000000	1	200005511	0	193
+sxs-escape_doodland.r05	-	50000000	1	250005511	0	241
+sxs-escape_doodland.r06	-	50000000	1	300005511	0	289
+sxs-escape_doodland.r07	-	50000000	1	350005511	0	337
+sxs-escape_doodland.r08	-	50000000	1	400005511	0	385
+sxs-escape_doodland.r09	-	32395475	1	450005511	0	433
+sxs-escape_doodland.rar	-	50000000	1	482400986	0	464
+sxs-escape_doodland.sfv	-	374	1	532400986	0	512

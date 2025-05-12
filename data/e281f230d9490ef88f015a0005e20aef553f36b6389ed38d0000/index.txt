@@ -1,0 +1,4 @@
+sxs-shiren_the_wanderer_the_mystery_dungeon_of_serpentcoil_island_v196608.nfo	-	6998	1	0	0	0
+sxs-shiren_the_wanderer_the_mystery_dungeon_of_serpentcoil_island_v196608.r00	-	43136001	1	6998	0	1
+sxs-shiren_the_wanderer_the_mystery_dungeon_of_serpentcoil_island_v196608.rar	-	100000000	1	43142999	0	43
+sxs-shiren_the_wanderer_the_mystery_dungeon_of_serpentcoil_island_v196608.sfv	-	176	1	143142999	0	139

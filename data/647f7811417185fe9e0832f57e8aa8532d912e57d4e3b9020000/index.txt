@@ -1,0 +1,4 @@
+v-breakers_collection_v262144.nfo	-	5278	1	0	0	0
+v-breakers_collection_v262144.r00	-	89728338	1	5278	0	1
+v-breakers_collection_v262144.rar	-	100000000	1	89733616	0	87
+v-breakers_collection_v262144.sfv	-	88	1	189733616	0	183

@@ -1,0 +1,4 @@
+lfc-scpu.nfo	06459f60
+lfc-scpu.r00	02e35eaf
+lfc-scpu.rar	26c9bb0a
+lfc-scpu.sfv	23af59fa

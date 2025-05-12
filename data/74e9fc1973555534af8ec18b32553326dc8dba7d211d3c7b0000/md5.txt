@@ -1,0 +1,4 @@
+lfc-trid_v65536.nfo	633299fbdec6152c6268b4becc7043db
+lfc-trid_v65536.r00	3e1ba416cff6502345175443469fdabd
+lfc-trid_v65536.rar	0ead5b0e98cc98c24dff7ec1210b568c
+lfc-trid_v65536.sfv	9df83e3df879e0035e72d2ff43a0c647

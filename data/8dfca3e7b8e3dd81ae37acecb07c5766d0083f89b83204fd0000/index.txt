@@ -1,0 +1,3 @@
+sxs-lumberhill_powerful_people_pack_dlc.nfo	-	9566	1	0	0	0
+sxs-lumberhill_powerful_people_pack_dlc.rar	-	104162	1	9566	0	1
+sxs-lumberhill_powerful_people_pack_dlc.sfv	-	54	1	113728	0	2

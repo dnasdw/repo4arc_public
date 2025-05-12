@@ -1,0 +1,10 @@
+sxs-star_trek_prodigy_supernova_v65536.nfo	5c4d396f
+sxs-star_trek_prodigy_supernova_v65536.r00	69ddef11
+sxs-star_trek_prodigy_supernova_v65536.r01	968a50b2
+sxs-star_trek_prodigy_supernova_v65536.r02	ddd00899
+sxs-star_trek_prodigy_supernova_v65536.r03	f322d949
+sxs-star_trek_prodigy_supernova_v65536.r04	bac27ea1
+sxs-star_trek_prodigy_supernova_v65536.r05	f6673ffb
+sxs-star_trek_prodigy_supernova_v65536.r06	cf4a0ac1
+sxs-star_trek_prodigy_supernova_v65536.rar	db550724
+sxs-star_trek_prodigy_supernova_v65536.sfv	b0271754

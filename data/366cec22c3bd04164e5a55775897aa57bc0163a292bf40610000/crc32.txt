@@ -1,0 +1,9 @@
+sxs-oddworld_strangers_wrath_de_dlc.nfo	1d76fb1b
+sxs-oddworld_strangers_wrath_de_dlc.r00	e8de8cde
+sxs-oddworld_strangers_wrath_de_dlc.r01	618bb9bb
+sxs-oddworld_strangers_wrath_de_dlc.r02	de9dcd87
+sxs-oddworld_strangers_wrath_de_dlc.r03	602ca37c
+sxs-oddworld_strangers_wrath_de_dlc.r04	8a8a16dd
+sxs-oddworld_strangers_wrath_de_dlc.r05	917201d0
+sxs-oddworld_strangers_wrath_de_dlc.rar	62342860
+sxs-oddworld_strangers_wrath_de_dlc.sfv	8002fc05

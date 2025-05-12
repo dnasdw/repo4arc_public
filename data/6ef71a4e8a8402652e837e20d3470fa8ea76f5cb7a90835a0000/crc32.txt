@@ -1,0 +1,6 @@
+sxs-hippo_little_red_riding_hood.nfo	a30e0355
+sxs-hippo_little_red_riding_hood.r00	0a750fab
+sxs-hippo_little_red_riding_hood.r01	1a9cbf3b
+sxs-hippo_little_red_riding_hood.r02	044cfd10
+sxs-hippo_little_red_riding_hood.rar	6b6114c7
+sxs-hippo_little_red_riding_hood.sfv	f80dc5a5

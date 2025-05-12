@@ -1,0 +1,11 @@
+sxs-asscrebel_jp_audio_dlc.nfo	eae8bbf7
+sxs-asscrebel_jp_audio_dlc.r00	4bfaed87
+sxs-asscrebel_jp_audio_dlc.r01	177b1092
+sxs-asscrebel_jp_audio_dlc.r02	da1ce7c9
+sxs-asscrebel_jp_audio_dlc.r03	55ae1b63
+sxs-asscrebel_jp_audio_dlc.r04	2db98684
+sxs-asscrebel_jp_audio_dlc.r05	93969666
+sxs-asscrebel_jp_audio_dlc.r06	ea696525
+sxs-asscrebel_jp_audio_dlc.r07	8371af72
+sxs-asscrebel_jp_audio_dlc.rar	e91c2546
+sxs-asscrebel_jp_audio_dlc.sfv	6f0f1319

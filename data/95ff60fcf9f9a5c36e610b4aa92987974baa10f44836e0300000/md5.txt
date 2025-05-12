@@ -1,0 +1,4 @@
+brw-tmgs.nfo	7240e2ae110c786dfc2c20b41a969e91
+brw-tmgs.r00	5ec77a39cda5eaf35117f27461ee628d
+brw-tmgs.rar	0ca73f80042768b70583d9327924a4f6
+brw-tmgs.sfv	491c517cc4107dfcc90f7aad2183c8fa

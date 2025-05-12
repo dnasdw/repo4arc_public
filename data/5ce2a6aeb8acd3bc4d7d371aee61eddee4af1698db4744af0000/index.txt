@@ -1,0 +1,5 @@
+i-sagruvn.nfo	-	1183	1	0	0	0
+i-sagruvn.r00	-	50000000	1	1183	0	1
+i-sagruvn.r01	-	34706607	1	50001183	0	49
+i-sagruvn.rar	-	50000000	1	84707790	0	83
+i-sagruvn.sfv	-	72	1	134707790	0	131

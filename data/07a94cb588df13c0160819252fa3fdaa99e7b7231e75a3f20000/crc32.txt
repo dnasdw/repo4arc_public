@@ -1,0 +1,7 @@
+sxs-desktop_baseball_2.nfo	35715474
+sxs-desktop_baseball_2.r00	8f7d0af5
+sxs-desktop_baseball_2.r01	ef3d3009
+sxs-desktop_baseball_2.r02	f21e1f1c
+sxs-desktop_baseball_2.r03	f0294a61
+sxs-desktop_baseball_2.rar	e3b5dd8e
+sxs-desktop_baseball_2.sfv	c80dce3c

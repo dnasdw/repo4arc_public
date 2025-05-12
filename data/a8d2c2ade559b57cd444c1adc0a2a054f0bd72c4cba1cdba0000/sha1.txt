@@ -1,0 +1,3 @@
+sxs-hardcore_mecha_art_gallery_dlc.nfo	65c65aebe8308e58d7e52dcdf2bb996ece9a5d53
+sxs-hardcore_mecha_art_gallery_dlc.rar	0fc6a6bcf41c1a1abe5bc882224c1b7b4a363c23
+sxs-hardcore_mecha_art_gallery_dlc.sfv	cb908b68e871e1152186f0487f603f744b2b0fb7

@@ -1,0 +1,11 @@
+sxs-hike_adventures.nfo	acd7af0bb7369c1d8ea011002e96c01f
+sxs-hike_adventures.r00	12032c014014e6325432546d67d7c96d
+sxs-hike_adventures.r01	8303f89d6f3a8db496554f83b7770959
+sxs-hike_adventures.r02	1f50dd30dabd053ab7201611aedde64f
+sxs-hike_adventures.r03	5d0218d148f53de52f2eb3984b01f7cc
+sxs-hike_adventures.r04	b34f4f94671731f8eed835317808e0c8
+sxs-hike_adventures.r05	401515c2b3b988d7629f849f796f61cb
+sxs-hike_adventures.r06	c503c20ebcb855760fbe5f2cb96357b3
+sxs-hike_adventures.r07	c362e639b26d7c8092c257bc5c45d5e5
+sxs-hike_adventures.rar	5f0714e6c45093d8bf5791da5c340d81
+sxs-hike_adventures.sfv	979ea79b441da9f4b9fab3574794e38c

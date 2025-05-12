@@ -1,0 +1,7 @@
+sxs-back_again.nfo	90146eaf
+sxs-back_again.r00	39d21941
+sxs-back_again.r01	db4fe53b
+sxs-back_again.r02	28a1afa8
+sxs-back_again.r03	58ca3b24
+sxs-back_again.rar	41bb7322
+sxs-back_again.sfv	57634ae6

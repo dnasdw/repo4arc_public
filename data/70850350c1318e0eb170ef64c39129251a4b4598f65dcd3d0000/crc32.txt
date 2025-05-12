@@ -1,0 +1,6 @@
+sxs-pac_man_99_v131072.nfo	81e9a777
+sxs-pac_man_99_v131072.r00	ffe10fd1
+sxs-pac_man_99_v131072.r01	77b726d4
+sxs-pac_man_99_v131072.r02	5a051b53
+sxs-pac_man_99_v131072.rar	9723486a
+sxs-pac_man_99_v131072.sfv	562190f2

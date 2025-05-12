@@ -1,0 +1,4 @@
+lfc-aloo.nfo	-	6796	1	0	0	0
+lfc-aloo.r00	-	48132670	1	6796	0	1
+lfc-aloo.rar	-	50000000	1	48139466	0	47
+lfc-aloo.sfv	-	46	1	98139466	0	95

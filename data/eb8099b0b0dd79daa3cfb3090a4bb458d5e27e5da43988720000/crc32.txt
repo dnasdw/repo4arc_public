@@ -1,0 +1,13 @@
+sxs-knights_retreat.nfo	70f337cb
+sxs-knights_retreat.r00	c9ba1d58
+sxs-knights_retreat.r01	d9094f5d
+sxs-knights_retreat.r02	c23ea1f3
+sxs-knights_retreat.r03	77dc98c6
+sxs-knights_retreat.r04	a8b6bf1e
+sxs-knights_retreat.r05	1c56b9d9
+sxs-knights_retreat.r06	bc3d6526
+sxs-knights_retreat.r07	a8092bbd
+sxs-knights_retreat.r08	527c3df6
+sxs-knights_retreat.r09	6259d474
+sxs-knights_retreat.rar	07ebc7b9
+sxs-knights_retreat.sfv	4c11eb17

@@ -1,0 +1,3 @@
+bbb-n-aggma.nfo	-	5517	1	0	0	0
+bbb-n-aggma.rar	-	65881252	1	5517	0	1
+bbb-n-aggma.sfv	-	26	1	65886769	0	64

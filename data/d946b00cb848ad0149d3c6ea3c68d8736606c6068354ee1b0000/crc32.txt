@@ -1,0 +1,13 @@
+lfc-funt.nfo	12eac98f
+lfc-funt.r00	1e6090e2
+lfc-funt.r01	5e8df420
+lfc-funt.r02	105d03f0
+lfc-funt.r03	241b5972
+lfc-funt.r04	d6478969
+lfc-funt.r05	3301bd8a
+lfc-funt.r06	ea00ee0b
+lfc-funt.r07	75e6dfce
+lfc-funt.r08	305b264b
+lfc-funt.r09	0d8bd6d5
+lfc-funt.rar	c7cb1c28
+lfc-funt.sfv	96277be1

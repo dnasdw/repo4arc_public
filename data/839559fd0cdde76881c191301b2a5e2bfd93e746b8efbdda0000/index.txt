@@ -1,0 +1,11 @@
+v-killer_queen_black_v327680.nfo	-	9568	1	0	0	0
+v-killer_queen_black_v327680.r00	-	50000000	1	9568	0	1
+v-killer_queen_black_v327680.r01	-	50000000	1	50009568	0	49
+v-killer_queen_black_v327680.r02	-	50000000	1	100009568	0	97
+v-killer_queen_black_v327680.r03	-	50000000	1	150009568	0	145
+v-killer_queen_black_v327680.r04	-	50000000	1	200009568	0	193
+v-killer_queen_black_v327680.r05	-	50000000	1	250009568	0	241
+v-killer_queen_black_v327680.r06	-	50000000	1	300009568	0	289
+v-killer_queen_black_v327680.r07	-	17198035	1	350009568	0	337
+v-killer_queen_black_v327680.rar	-	50000000	1	367207603	0	354
+v-killer_queen_black_v327680.sfv	-	387	1	417207603	0	402

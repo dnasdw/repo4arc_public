@@ -1,0 +1,7 @@
+sxs-risk_global_domination_v65536.nfo	5abfd97f
+sxs-risk_global_domination_v65536.r00	ea14a794
+sxs-risk_global_domination_v65536.r01	cc8c7d88
+sxs-risk_global_domination_v65536.r02	e74f8f53
+sxs-risk_global_domination_v65536.r03	15501017
+sxs-risk_global_domination_v65536.rar	5142cb16
+sxs-risk_global_domination_v65536.sfv	18622221

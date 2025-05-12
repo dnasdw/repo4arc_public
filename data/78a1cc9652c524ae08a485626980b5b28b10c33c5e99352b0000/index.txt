@@ -1,0 +1,6 @@
+sxs-super_dino.nfo	-	5042	1	0	0	0
+sxs-super_dino.r00	-	50000000	1	5042	0	1
+sxs-super_dino.r01	-	50000000	1	50005042	0	49
+sxs-super_dino.r02	-	3993107	1	100005042	0	97
+sxs-super_dino.rar	-	50000000	1	103998149	0	101
+sxs-super_dino.sfv	-	116	1	153998149	0	149

@@ -1,0 +1,3 @@
+v-doom_1993_addons_1_dlc.nfo	-	10348	1	0	0	0
+v-doom_1993_addons_1_dlc.rar	-	42068872	1	10348	0	1
+v-doom_1993_addons_1_dlc.sfv	-	39	1	42079220	0	42

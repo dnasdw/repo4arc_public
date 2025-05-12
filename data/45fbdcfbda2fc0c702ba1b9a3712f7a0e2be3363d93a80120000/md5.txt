@@ -1,0 +1,4 @@
+sxs-panda_hero_v262144.nfo	008d7e1d5f83c2becaab2e5643b22c03
+sxs-panda_hero_v262144.r00	da675a2067c03dea085bb84d0aa415fe
+sxs-panda_hero_v262144.rar	e9f9fd693d4761accc1b2989ec965035
+sxs-panda_hero_v262144.sfv	e83c1fbb13ca37980a2b65d5039e215a

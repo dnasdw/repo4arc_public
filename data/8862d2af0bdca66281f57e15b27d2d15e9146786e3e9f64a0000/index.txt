@@ -1,0 +1,12 @@
+bbb-n-plgpkiosk.nfo	-	5517	1	0	0	0
+bbb-n-plgpkiosk.part01.rar	-	250000000	1	5517	0	1
+bbb-n-plgpkiosk.part02.rar	-	250000000	1	250005517	0	240
+bbb-n-plgpkiosk.part03.rar	-	250000000	1	500005517	0	479
+bbb-n-plgpkiosk.part04.rar	-	250000000	1	212251264	1	203
+bbb-n-plgpkiosk.part05.rar	-	250000000	1	462251264	1	442
+bbb-n-plgpkiosk.part06.rar	-	250000000	1	174502528	2	167
+bbb-n-plgpkiosk.part07.rar	-	250000000	1	424502528	2	406
+bbb-n-plgpkiosk.part08.rar	-	250000000	1	136753792	3	131
+bbb-n-plgpkiosk.part09.rar	-	250000000	1	386753792	3	370
+bbb-n-plgpkiosk.part10.rar	-	128278490	1	99005056	4	95
+bbb-n-plgpkiosk.sfv	-	370	1	227283546	4	218

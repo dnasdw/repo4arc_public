@@ -1,0 +1,5 @@
+sxs-darksiders_genesis_v65536.nfo	9d8b168c
+sxs-darksiders_genesis_v65536.r00	d4bab5ef
+sxs-darksiders_genesis_v65536.r01	462c914e
+sxs-darksiders_genesis_v65536.rar	7c1eb9a2
+sxs-darksiders_genesis_v65536.sfv	d26aead3

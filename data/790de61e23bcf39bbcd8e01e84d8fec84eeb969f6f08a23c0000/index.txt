@@ -1,0 +1,11 @@
+hr-kingdomrush.nfo	-	11258	1	0	0	0
+hr-kingdomrush.r00	-	50000000	1	11258	0	1
+hr-kingdomrush.r01	-	50000000	1	50011258	0	49
+hr-kingdomrush.r02	-	50000000	1	100011258	0	97
+hr-kingdomrush.r03	-	50000000	1	150011258	0	145
+hr-kingdomrush.r04	-	50000000	1	200011258	0	193
+hr-kingdomrush.r05	-	50000000	1	250011258	0	241
+hr-kingdomrush.r06	-	50000000	1	300011258	0	289
+hr-kingdomrush.r07	-	16725702	1	350011258	0	337
+hr-kingdomrush.rar	-	50000000	1	366736960	0	353
+hr-kingdomrush.sfv	-	261	1	416736960	0	401

@@ -1,0 +1,3 @@
+v-demetrios_v65536.nfo	db9c8bca
+v-demetrios_v65536.rar	28b583a2
+v-demetrios_v65536.sfv	5e27af41

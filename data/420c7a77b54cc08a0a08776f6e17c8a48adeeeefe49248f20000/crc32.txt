@@ -1,0 +1,4 @@
+sxs-virus_rush_v65536.nfo	610be5aa
+sxs-virus_rush_v65536.r00	3bc95198
+sxs-virus_rush_v65536.rar	40278b9d
+sxs-virus_rush_v65536.sfv	25fbca97

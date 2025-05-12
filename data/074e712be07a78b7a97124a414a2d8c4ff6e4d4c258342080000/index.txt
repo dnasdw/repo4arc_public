@@ -1,0 +1,4 @@
+v-torchlight_ii_v65536.nfo	-	6526	1	0	0	0
+v-torchlight_ii_v65536.r00	-	40952584	1	6526	0	1
+v-torchlight_ii_v65536.rar	-	50000000	1	40959110	0	41
+v-torchlight_ii_v65536.sfv	-	74	1	90959110	0	89

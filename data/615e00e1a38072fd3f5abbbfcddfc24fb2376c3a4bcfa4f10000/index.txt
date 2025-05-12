@@ -1,0 +1,10 @@
+sxs-the_sundew.nfo	-	8240	1	0	0	0
+sxs-the_sundew.r00	-	50000000	1	8240	0	1
+sxs-the_sundew.r01	-	50000000	1	50008240	0	49
+sxs-the_sundew.r02	-	50000000	1	100008240	0	97
+sxs-the_sundew.r03	-	50000000	1	150008240	0	145
+sxs-the_sundew.r04	-	50000000	1	200008240	0	193
+sxs-the_sundew.r05	-	50000000	1	250008240	0	241
+sxs-the_sundew.r06	-	31017813	1	300008240	0	289
+sxs-the_sundew.rar	-	50000000	1	331026053	0	319
+sxs-the_sundew.sfv	-	232	1	381026053	0	367

@@ -1,0 +1,3 @@
+sxs-easy_red_2_ardennes_1940_and_1944_dlc.nfo	-	13466	1	0	0	0
+sxs-easy_red_2_ardennes_1940_and_1944_dlc.rar	-	124408	1	13466	0	1
+sxs-easy_red_2_ardennes_1940_and_1944_dlc.sfv	-	56	1	137874	0	2

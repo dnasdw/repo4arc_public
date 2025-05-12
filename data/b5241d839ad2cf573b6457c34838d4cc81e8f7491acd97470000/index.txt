@@ -1,0 +1,6 @@
+sxs-coin_rush.nfo	-	4496	1	0	0	0
+sxs-coin_rush.r00	-	100000000	1	4496	0	1
+sxs-coin_rush.r01	-	100000000	1	100004496	0	97
+sxs-coin_rush.r02	-	81578373	1	200004496	0	193
+sxs-coin_rush.rar	-	100000000	1	281582869	0	271
+sxs-coin_rush.sfv	-	112	1	381582869	0	367

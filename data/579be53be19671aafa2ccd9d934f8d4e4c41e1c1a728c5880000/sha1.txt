@@ -1,0 +1,4 @@
+sxs-metagal.nfo	0de6e395aafdc5c8973796e80c9cdaa162aac370
+sxs-metagal.r00	a1a4da84f04dd54eb6e766b851ad1fa4127d9e34
+sxs-metagal.rar	fafc1d93bca1f22fe506479146897d5a2cb67164
+sxs-metagal.sfv	eba6ca1248daaf2db147aa5b5f0c5eba6e606fa4

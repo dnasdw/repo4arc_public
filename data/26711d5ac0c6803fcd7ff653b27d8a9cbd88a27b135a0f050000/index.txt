@@ -1,0 +1,11 @@
+sxs-hard_racing_stunt_car_driving.nfo	-	7226	1	0	0	0
+sxs-hard_racing_stunt_car_driving.r00	-	100000000	1	7226	0	1
+sxs-hard_racing_stunt_car_driving.r01	-	100000000	1	100007226	0	97
+sxs-hard_racing_stunt_car_driving.r02	-	100000000	1	200007226	0	193
+sxs-hard_racing_stunt_car_driving.r03	-	100000000	1	300007226	0	289
+sxs-hard_racing_stunt_car_driving.r04	-	100000000	1	400007226	0	385
+sxs-hard_racing_stunt_car_driving.r05	-	100000000	1	500007226	0	481
+sxs-hard_racing_stunt_car_driving.r06	-	100000000	1	62251264	1	60
+sxs-hard_racing_stunt_car_driving.r07	-	91165610	1	162251264	1	156
+sxs-hard_racing_stunt_car_driving.rar	-	100000000	1	253416874	1	243
+sxs-hard_racing_stunt_car_driving.sfv	-	432	1	353416874	1	339

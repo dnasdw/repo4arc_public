@@ -1,0 +1,5 @@
+sxs-harvest_moon_the_winds_of_anthos_v196608.nfo	65f404e7
+sxs-harvest_moon_the_winds_of_anthos_v196608.r00	51cacd68
+sxs-harvest_moon_the_winds_of_anthos_v196608.r01	404bdc23
+sxs-harvest_moon_the_winds_of_anthos_v196608.rar	420724a7
+sxs-harvest_moon_the_winds_of_anthos_v196608.sfv	0c87714e

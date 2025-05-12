@@ -1,0 +1,13 @@
+hr-arupb.nfo	c8a2ac7608df7dd2fff1f2026be541eaaca1e330
+hr-arupb.r00	aab251b378db213d18d6fb1749da3ab592fc164c
+hr-arupb.r01	8322e19622e5e5d432536bba6eb97ab9f8de6999
+hr-arupb.r02	a3a658ac392f64a4c005df230bfd027ada748f1b
+hr-arupb.r03	d297043e534fab02bf6cb10765e670b5aaeb9d3d
+hr-arupb.r04	01ba370b1f66aef8e56c3b0d95d0f4273fd79d18
+hr-arupb.r05	1ee7cc75beef6ff50699268640ef11e1613cc1b2
+hr-arupb.r06	b7cbe1fbe9193d98d0bf21e7328df87b093f46ec
+hr-arupb.r07	fedf5032ecb87ed24a1c014e1f061f1552e2d69d
+hr-arupb.rar	ebf6591468b2ce6d92a7803e441dfe9354319e12
+hr-arupb.sfv	5a0265585bcbd12f878cdab834a3cd0f24cada6b
+Proof	da39a3ee5e6b4b0d3255bfef95601890afd80709
+Proof/hr-arupb.jpg	19ff59b8343598482cd9f66766c3ff9bac0910bd

@@ -1,0 +1,9 @@
+delight.nfo	2ffb253a
+dl-royalroads.r00	d39dc5cf
+dl-royalroads.r01	24e9745b
+dl-royalroads.r02	e77f8920
+dl-royalroads.r03	35124204
+dl-royalroads.r04	a4583660
+dl-royalroads.r05	bba0ffb8
+dl-royalroads.rar	141f852d
+dl-royalroads.sfv	fb914023

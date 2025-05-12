@@ -1,0 +1,8 @@
+sxs-asscrr_jap_dlc.nfo	2d1f4657
+sxs-asscrr_jap_dlc.r00	ce867deb
+sxs-asscrr_jap_dlc.r01	ff347a49
+sxs-asscrr_jap_dlc.r02	098799fa
+sxs-asscrr_jap_dlc.r03	514e3140
+sxs-asscrr_jap_dlc.r04	00b9a6b2
+sxs-asscrr_jap_dlc.rar	6e745f07
+sxs-asscrr_jap_dlc.sfv	49c6e69e

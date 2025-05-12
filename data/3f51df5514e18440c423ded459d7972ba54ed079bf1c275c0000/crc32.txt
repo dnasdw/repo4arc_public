@@ -1,0 +1,15 @@
+sxs-egglia_rebirth_v393216.nfo	9eb1b2c4
+sxs-egglia_rebirth_v393216.r00	e90cc2b7
+sxs-egglia_rebirth_v393216.r01	68dc9cef
+sxs-egglia_rebirth_v393216.r02	7e89fb2a
+sxs-egglia_rebirth_v393216.r03	2b620df7
+sxs-egglia_rebirth_v393216.r04	426af9dc
+sxs-egglia_rebirth_v393216.r05	7ac89d01
+sxs-egglia_rebirth_v393216.r06	d1362bc7
+sxs-egglia_rebirth_v393216.r07	f299390c
+sxs-egglia_rebirth_v393216.r08	9ed94dd3
+sxs-egglia_rebirth_v393216.r09	7ce1394d
+sxs-egglia_rebirth_v393216.r10	1f2d6d1f
+sxs-egglia_rebirth_v393216.r11	b6bb0738
+sxs-egglia_rebirth_v393216.rar	f85f15b5
+sxs-egglia_rebirth_v393216.sfv	44ae5371

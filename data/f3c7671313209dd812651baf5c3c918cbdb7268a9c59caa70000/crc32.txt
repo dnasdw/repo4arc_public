@@ -1,0 +1,8 @@
+hr-cybershadow.nfo	b351f22f
+hr-cybershadow.r00	35aeea70
+hr-cybershadow.r01	5aa5fcff
+hr-cybershadow.r02	dbaf39cf
+hr-cybershadow.r03	95e8f9c8
+hr-cybershadow.r04	8c0bc9c4
+hr-cybershadow.rar	d8d3b4d6
+hr-cybershadow.sfv	d0fd3863

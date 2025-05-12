@@ -1,0 +1,13 @@
+v-sonicr_v196608.nfo	df9bbbcf
+v-sonicr_v196608.r00	47dd3cdf
+v-sonicr_v196608.r01	a19e77aa
+v-sonicr_v196608.r02	a65a829e
+v-sonicr_v196608.r03	ca377f8c
+v-sonicr_v196608.r04	189264e6
+v-sonicr_v196608.r05	091a45ce
+v-sonicr_v196608.r06	134708cd
+v-sonicr_v196608.r07	88d8cf77
+v-sonicr_v196608.r08	7ce35102
+v-sonicr_v196608.r09	a94d5727
+v-sonicr_v196608.rar	ee048b9f
+v-sonicr_v196608.sfv	c4c09547

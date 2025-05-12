@@ -1,0 +1,9 @@
+hr-tetra.nfo	0b2f30fee9495caba8b0b06f95b5d219
+hr-tetra.r00	7f62dd72526292b5d27535d62e1ff970
+hr-tetra.r01	9d20b4e10cca640985252e9e84fa9f50
+hr-tetra.r02	b6feff104cbccbf38b92ec7b5dbbbd6d
+hr-tetra.r03	d9e5a6a58a2430cbe524d83f535853a6
+hr-tetra.r04	aeecdac315a27ac1fc52a4021bd1c587
+hr-tetra.r05	96e164450f9bdc786419a006a7868c0a
+hr-tetra.rar	76cd531516e2f400f09cb16e2ab3b96e
+hr-tetra.sfv	970a933f7fddd969caa313f57aa41075

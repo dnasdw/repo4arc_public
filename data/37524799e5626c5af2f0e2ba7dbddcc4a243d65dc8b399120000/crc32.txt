@@ -1,0 +1,16 @@
+v-megaquarium_v327680.nfo	7d3960f1
+v-megaquarium_v327680.r00	42652c3c
+v-megaquarium_v327680.r01	3011ec14
+v-megaquarium_v327680.r02	e85713d1
+v-megaquarium_v327680.r03	fb08782b
+v-megaquarium_v327680.r04	17b385e8
+v-megaquarium_v327680.r05	9ca69ea8
+v-megaquarium_v327680.r06	dacb1aaa
+v-megaquarium_v327680.r07	c5d5a99a
+v-megaquarium_v327680.r08	c49b6467
+v-megaquarium_v327680.r09	50894b22
+v-megaquarium_v327680.r10	63f583a9
+v-megaquarium_v327680.r11	8c975e19
+v-megaquarium_v327680.r12	8412ee6b
+v-megaquarium_v327680.rar	c4e9c630
+v-megaquarium_v327680.sfv	0b4b1e16

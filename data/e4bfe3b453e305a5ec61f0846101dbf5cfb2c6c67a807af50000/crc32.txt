@@ -1,0 +1,11 @@
+sxs-fight_crab_v655360.nfo	6b458c79
+sxs-fight_crab_v655360.r00	d60f92a0
+sxs-fight_crab_v655360.r01	b493653e
+sxs-fight_crab_v655360.r02	cdc9c62c
+sxs-fight_crab_v655360.r03	ea4c19e7
+sxs-fight_crab_v655360.r04	0439cbcc
+sxs-fight_crab_v655360.r05	ea4acbb1
+sxs-fight_crab_v655360.r06	8a8e8c81
+sxs-fight_crab_v655360.r07	1ac67de6
+sxs-fight_crab_v655360.rar	2747f7d2
+sxs-fight_crab_v655360.sfv	72dbc48c

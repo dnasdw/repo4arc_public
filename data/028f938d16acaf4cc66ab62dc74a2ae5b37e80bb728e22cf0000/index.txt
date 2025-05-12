@@ -1,0 +1,4 @@
+sxs-the_legend_of_dark_witch_v262144.nfo	-	4964	1	0	0	0
+sxs-the_legend_of_dark_witch_v262144.r00	-	46077194	1	4964	0	1
+sxs-the_legend_of_dark_witch_v262144.rar	-	50000000	1	46082158	0	45
+sxs-the_legend_of_dark_witch_v262144.sfv	-	102	1	96082158	0	93

@@ -1,0 +1,3 @@
+v-keywe_early_bird_pack_dlc.nfo	-	9958	1	0	0	0
+v-keywe_early_bird_pack_dlc.rar	-	104107	1	9958	0	1
+v-keywe_early_bird_pack_dlc.sfv	-	42	1	114065	0	2

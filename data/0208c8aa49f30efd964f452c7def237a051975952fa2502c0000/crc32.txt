@@ -1,0 +1,10 @@
+sxs-kobolok.nfo	be41f91a
+sxs-kobolok.r00	94920f48
+sxs-kobolok.r01	57ab829a
+sxs-kobolok.r02	3bb9d109
+sxs-kobolok.r03	3b37beff
+sxs-kobolok.r04	41ffded4
+sxs-kobolok.r05	2da30a4e
+sxs-kobolok.r06	83092e25
+sxs-kobolok.rar	258b30a0
+sxs-kobolok.sfv	b3280e65

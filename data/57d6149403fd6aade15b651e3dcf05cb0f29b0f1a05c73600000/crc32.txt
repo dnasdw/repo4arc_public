@@ -1,0 +1,9 @@
+sxs-samurai_warriors_5_v196608.nfo	bbf9a7a0
+sxs-samurai_warriors_5_v196608.r00	6ff40ecf
+sxs-samurai_warriors_5_v196608.r01	afea9376
+sxs-samurai_warriors_5_v196608.r02	07d6deaa
+sxs-samurai_warriors_5_v196608.r03	80a990a9
+sxs-samurai_warriors_5_v196608.r04	0dbd8b1f
+sxs-samurai_warriors_5_v196608.r05	b9079b6c
+sxs-samurai_warriors_5_v196608.rar	d8d09da1
+sxs-samurai_warriors_5_v196608.sfv	e61f432c

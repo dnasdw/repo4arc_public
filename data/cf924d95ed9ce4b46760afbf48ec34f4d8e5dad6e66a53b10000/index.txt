@@ -1,0 +1,4 @@
+sxs-pepper_grinder_demo.nfo	-	5744	1	0	0	0
+sxs-pepper_grinder_demo.r00	-	96387315	1	5744	0	1
+sxs-pepper_grinder_demo.rar	-	100000000	1	96393059	0	93
+sxs-pepper_grinder_demo.sfv	-	76	1	196393059	0	189

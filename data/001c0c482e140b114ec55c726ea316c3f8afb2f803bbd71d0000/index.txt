@@ -1,0 +1,7 @@
+v-puzzle_quest_the_legend_returns.nfo	-	6688	1	0	0	0
+v-puzzle_quest_the_legend_returns.r00	-	50000000	1	6688	0	1
+v-puzzle_quest_the_legend_returns.r01	-	50000000	1	50006688	0	49
+v-puzzle_quest_the_legend_returns.r02	-	50000000	1	100006688	0	97
+v-puzzle_quest_the_legend_returns.r03	-	14692304	1	150006688	0	145
+v-puzzle_quest_the_legend_returns.rar	-	50000000	1	164698992	0	160
+v-puzzle_quest_the_legend_returns.sfv	-	240	1	214698992	0	208

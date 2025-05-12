@@ -1,0 +1,12 @@
+sxs-bridge_constructor_portal_v131072.nfo	-	4808	1	0	0	0
+sxs-bridge_constructor_portal_v131072.r00	-	50000000	1	4808	0	1
+sxs-bridge_constructor_portal_v131072.r01	-	50000000	1	50004808	0	49
+sxs-bridge_constructor_portal_v131072.r02	-	50000000	1	100004808	0	97
+sxs-bridge_constructor_portal_v131072.r03	-	50000000	1	150004808	0	145
+sxs-bridge_constructor_portal_v131072.r04	-	50000000	1	200004808	0	193
+sxs-bridge_constructor_portal_v131072.r05	-	50000000	1	250004808	0	241
+sxs-bridge_constructor_portal_v131072.r06	-	50000000	1	300004808	0	289
+sxs-bridge_constructor_portal_v131072.r07	-	50000000	1	350004808	0	337
+sxs-bridge_constructor_portal_v131072.r08	-	8050191	1	400004808	0	385
+sxs-bridge_constructor_portal_v131072.rar	-	50000000	1	408054999	0	393
+sxs-bridge_constructor_portal_v131072.sfv	-	520	1	458054999	0	441

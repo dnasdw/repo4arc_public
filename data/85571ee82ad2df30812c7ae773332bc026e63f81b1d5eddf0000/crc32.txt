@@ -1,0 +1,12 @@
+sxs-trraria_v458752.nfo	135fbe36
+sxs-trraria_v458752.r00	d7f3f31f
+sxs-trraria_v458752.r01	785ab570
+sxs-trraria_v458752.r02	1c039754
+sxs-trraria_v458752.r03	1edffe49
+sxs-trraria_v458752.r04	fcf2ff77
+sxs-trraria_v458752.r05	fe769cde
+sxs-trraria_v458752.r06	c29dbbe2
+sxs-trraria_v458752.r07	35affb15
+sxs-trraria_v458752.r08	25842443
+sxs-trraria_v458752.rar	41fbe0ab
+sxs-trraria_v458752.sfv	73e8e19b

@@ -1,0 +1,6 @@
+sxs-root_film_v131072.nfo	c575e506
+sxs-root_film_v131072.r00	939aefee
+sxs-root_film_v131072.r01	aeaf0441
+sxs-root_film_v131072.r02	7e0cd549
+sxs-root_film_v131072.rar	c2f0b4af
+sxs-root_film_v131072.sfv	19efff5e

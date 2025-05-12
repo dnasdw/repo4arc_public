@@ -1,0 +1,5 @@
+sxs-ghost_sweeper_v196608.nfo	8562f3d3
+sxs-ghost_sweeper_v196608.r00	95760e66
+sxs-ghost_sweeper_v196608.r01	68f958e5
+sxs-ghost_sweeper_v196608.rar	4db8ba30
+sxs-ghost_sweeper_v196608.sfv	23acced2

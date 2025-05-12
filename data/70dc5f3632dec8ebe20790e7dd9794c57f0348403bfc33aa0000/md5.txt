@@ -1,0 +1,14 @@
+lfc-esch.nfo	6bfbcfe27a712b00d065a5b13c9220de
+lfc-esch.r00	e85ae4687dabe0cedc9486f167532f27
+lfc-esch.r01	feb657c2c96529aabca943582715617a
+lfc-esch.r02	a834be2bb41f1af43b684608a010aa09
+lfc-esch.r03	011369b72cbda9600fe3930196cb6d63
+lfc-esch.r04	62ac4fded7257321ecdc4b9dc006984a
+lfc-esch.r05	e62ce9e6b81217d727e400961e47ee37
+lfc-esch.r06	b97622a0351b7065fef3bcedc3f117c2
+lfc-esch.r07	a90efc58b9ef45509fe29fdbc09f9e81
+lfc-esch.r08	a7a43f41a81cf17f6b56dcc19288577a
+lfc-esch.r09	6245fbf0eb21e0b142addc4ef05abd5d
+lfc-esch.r10	0223f2e7fd9ac32292c1e9e5b8873450
+lfc-esch.rar	1a774728a12a6cf8738c8453f7ead98a
+lfc-esch.sfv	821aec76a93d9c507026ad55fdd42c95

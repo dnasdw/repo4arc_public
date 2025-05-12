@@ -1,0 +1,7 @@
+sxs-slipstream_v393216.nfo	b4a2846358a554b5a463c596baba5b9b
+sxs-slipstream_v393216.r00	ea7133c78d0b2ae52cfd2e9feb76ebc7
+sxs-slipstream_v393216.r01	51cbae11d351f24a14712f0abbd394bc
+sxs-slipstream_v393216.r02	97bc1ab0a9f34a1c3c9a0ee41aa3192d
+sxs-slipstream_v393216.r03	f1df0c7c2e57e3e463d066cfe241f6c5
+sxs-slipstream_v393216.rar	1aeaf1f7e50033fd694f2a9a81754117
+sxs-slipstream_v393216.sfv	dca1a9909ccc641aa50f36dedf85283e

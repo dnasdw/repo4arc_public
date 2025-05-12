@@ -1,0 +1,8 @@
+v-picross_s5_v458752.nfo	7491d742
+v-picross_s5_v458752.r00	b66d98ab
+v-picross_s5_v458752.r01	6027991e
+v-picross_s5_v458752.r02	cb31e586
+v-picross_s5_v458752.r03	10e1a55c
+v-picross_s5_v458752.r04	ff1855eb
+v-picross_s5_v458752.rar	ff6a6bfd
+v-picross_s5_v458752.sfv	baf62307

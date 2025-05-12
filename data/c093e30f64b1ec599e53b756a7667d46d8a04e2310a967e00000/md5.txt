@@ -1,0 +1,4 @@
+sxs-world_quiz_v131072.nfo	f0b0d141867cf1906cf167dd944b1621
+sxs-world_quiz_v131072.r00	df2e44237af05af6ec2cd4a6bbebc96e
+sxs-world_quiz_v131072.rar	47cec90a693ee415129e6692a13ddf76
+sxs-world_quiz_v131072.sfv	d9b617f2f0747d8f4c7eb120058ff5b7

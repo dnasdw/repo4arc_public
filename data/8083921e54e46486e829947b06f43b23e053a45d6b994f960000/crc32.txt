@@ -1,0 +1,5 @@
+sxs-snes_v524288.nfo	20e74c72
+sxs-snes_v524288.r00	6c05a597
+sxs-snes_v524288.r01	f1f5a415
+sxs-snes_v524288.rar	0db8d0fb
+sxs-snes_v524288.sfv	9a741432

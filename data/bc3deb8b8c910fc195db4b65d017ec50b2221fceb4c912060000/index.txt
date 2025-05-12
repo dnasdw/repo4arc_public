@@ -1,0 +1,4 @@
+v-fitboxing_v196608.nfo	-	5435	1	0	0	0
+v-fitboxing_v196608.r00	-	26687146	1	5435	0	1
+v-fitboxing_v196608.rar	-	50000000	1	26692581	0	27
+v-fitboxing_v196608.sfv	-	68	1	76692581	0	75

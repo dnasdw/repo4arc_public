@@ -1,0 +1,10 @@
+sxs-concordia_digital_edition_v655360.nfo	26db9db3
+sxs-concordia_digital_edition_v655360.r00	94b02e3e
+sxs-concordia_digital_edition_v655360.r01	a67eb310
+sxs-concordia_digital_edition_v655360.r02	0df7f34c
+sxs-concordia_digital_edition_v655360.r03	88b75007
+sxs-concordia_digital_edition_v655360.r04	71135dd7
+sxs-concordia_digital_edition_v655360.r05	81438e59
+sxs-concordia_digital_edition_v655360.r06	34996b63
+sxs-concordia_digital_edition_v655360.rar	054dbcd4
+sxs-concordia_digital_edition_v655360.sfv	0682c56e
